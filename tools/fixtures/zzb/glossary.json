@@ -1,0 +1,19 @@
+{
+ "abbreviations": {
+  "ACC": {
+   "name": "accusative",
+   "plain": "marks the thing acted on",
+   "tag": "accusative"
+  },
+  "PRS": {
+   "name": "present",
+   "plain": "happening now",
+   "tag": "present"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one",
+   "tag": "plural"
+  }
+ }
+}

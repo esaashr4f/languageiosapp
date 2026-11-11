@@ -1,0 +1,856 @@
+{
+ "count": 100,
+ "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
+ "languages": [
+  {
+   "number": 1,
+   "name": "Italian",
+   "iso": "ita",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 2,
+   "name": "German",
+   "iso": "deu",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 3,
+   "name": "Dutch",
+   "iso": "nld",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 4,
+   "name": "Russian",
+   "iso": "rus",
+   "group": "Major living",
+   "script": "Cyrillic",
+   "depth": "A"
+  },
+  {
+   "number": 5,
+   "name": "Polish",
+   "iso": "pol",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 6,
+   "name": "Modern Greek",
+   "iso": "ell",
+   "group": "Major living",
+   "script": "Greek",
+   "depth": "A"
+  },
+  {
+   "number": 7,
+   "name": "Mandarin",
+   "iso": "cmn",
+   "group": "Major living",
+   "script": "Hanzi + pinyin",
+   "depth": "A",
+   "notes": "Simplified main, traditional noted"
+  },
+  {
+   "number": 8,
+   "name": "Cantonese",
+   "iso": "yue",
+   "group": "Major living",
+   "script": "Hanzi + Jyutping",
+   "depth": "A",
+   "notes": "Spoken Cantonese, not written Mandarin"
+  },
+  {
+   "number": 9,
+   "name": "Japanese",
+   "iso": "jpn",
+   "group": "Major living",
+   "script": "Kana + kanji",
+   "depth": "A"
+  },
+  {
+   "number": 10,
+   "name": "Korean",
+   "iso": "kor",
+   "group": "Major living",
+   "script": "Hangul",
+   "depth": "A",
+   "notes": "Appendix: the register of muga (shaman songs)"
+  },
+  {
+   "number": 11,
+   "name": "Arabic (Modern Standard)",
+   "iso": "arb",
+   "group": "Major living",
+   "script": "Arabic",
+   "depth": "A"
+  },
+  {
+   "number": 12,
+   "name": "Moroccan Darija",
+   "iso": "ary",
+   "group": "Major living",
+   "script": "Arabizi + Arabic",
+   "depth": "A",
+   "notes": "Arabizi first (3, 7, 9); flag MSA forms and regional variation"
+  },
+  {
+   "number": 13,
+   "name": "Modern Hebrew",
+   "iso": "heb",
+   "group": "Major living",
+   "script": "Hebrew",
+   "depth": "A"
+  },
+  {
+   "number": 14,
+   "name": "Persian",
+   "iso": "pes",
+   "group": "Major living",
+   "script": "Perso-Arabic",
+   "depth": "A",
+   "iso_note": "Iranian Persian (individual code); macrolanguage is fas"
+  },
+  {
+   "number": 15,
+   "name": "Turkish",
+   "iso": "tur",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A",
+   "pilot": 4
+  },
+  {
+   "number": 16,
+   "name": "Hindi-Urdu",
+   "iso": "hin",
+   "group": "Major living",
+   "script": "Devanagari + Nastaliq",
+   "depth": "A",
+   "notes": "One grammar, two scripts",
+   "iso_note": "Hindi-Urdu has no single ISO 639-3 code. Folder uses hin; Urdu is urd (see also_iso)",
+   "also_iso": [
+    "urd"
+   ]
+  },
+  {
+   "number": 17,
+   "name": "Bengali",
+   "iso": "ben",
+   "group": "Major living",
+   "script": "Bengali",
+   "depth": "A"
+  },
+  {
+   "number": 18,
+   "name": "Tamil",
+   "iso": "tam",
+   "group": "Major living",
+   "script": "Tamil",
+   "depth": "A",
+   "notes": "Note spoken vs literary split"
+  },
+  {
+   "number": 19,
+   "name": "Indonesian",
+   "iso": "ind",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 20,
+   "name": "Vietnamese",
+   "iso": "vie",
+   "group": "Major living",
+   "script": "Latin (Quoc ngu)",
+   "depth": "A"
+  },
+  {
+   "number": 21,
+   "name": "Thai",
+   "iso": "tha",
+   "group": "Major living",
+   "script": "Thai",
+   "depth": "A"
+  },
+  {
+   "number": 22,
+   "name": "Swahili",
+   "iso": "swh",
+   "group": "Major living",
+   "script": "Latin",
+   "depth": "A",
+   "iso_note": "Individual-language code; macrolanguage is swa"
+  },
+  {
+   "number": 23,
+   "name": "Basque",
+   "iso": "eus",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 24,
+   "name": "Welsh",
+   "iso": "cym",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 25,
+   "name": "Irish",
+   "iso": "gle",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 26,
+   "name": "Icelandic",
+   "iso": "isl",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 27,
+   "name": "Finnish",
+   "iso": "fin",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 28,
+   "name": "Hungarian",
+   "iso": "hun",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 29,
+   "name": "Lithuanian",
+   "iso": "lit",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 30,
+   "name": "Albanian",
+   "iso": "als",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "iso_note": "Tosk Albanian, the base of the standard language; macrolanguage is sqi"
+  },
+  {
+   "number": 31,
+   "name": "Romanian",
+   "iso": "ron",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 32,
+   "name": "Serbo-Croatian",
+   "iso": "hbs",
+   "group": "Europe, less common",
+   "script": "Latin + Cyrillic",
+   "depth": "A",
+   "iso_note": "Macrolanguage code, the only one covering Serbo-Croatian as a unit (members bos, hrv, srp, cnr)"
+  },
+  {
+   "number": 33,
+   "name": "Maltese",
+   "iso": "mlt",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 34,
+   "name": "Georgian",
+   "iso": "kat",
+   "group": "Caucasus and Central Asia",
+   "script": "Mkhedruli",
+   "depth": "A",
+   "pilot": 2
+  },
+  {
+   "number": 35,
+   "name": "Armenian (Eastern)",
+   "iso": "hye",
+   "group": "Caucasus and Central Asia",
+   "script": "Armenian",
+   "depth": "A"
+  },
+  {
+   "number": 36,
+   "name": "Chechen",
+   "iso": "che",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic",
+   "depth": "B"
+  },
+  {
+   "number": 37,
+   "name": "Kazakh",
+   "iso": "kaz",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + Latin",
+   "depth": "A"
+  },
+  {
+   "number": 38,
+   "name": "Mongolian (Khalkha)",
+   "iso": "khk",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic",
+   "depth": "A",
+   "iso_note": "Halh (Khalkha) Mongolian; macrolanguage is mon"
+  },
+  {
+   "number": 39,
+   "name": "Pashto",
+   "iso": "pus",
+   "group": "Caucasus and Central Asia",
+   "script": "Perso-Arabic",
+   "depth": "A",
+   "iso_note": "Macrolanguage code; variety (pbu Northern / pbt Southern) to be fixed in the dossier"
+  },
+  {
+   "number": 40,
+   "name": "Kurdish (Kurmanji)",
+   "iso": "kmr",
+   "group": "Caucasus and Central Asia",
+   "script": "Latin (Hawar)",
+   "depth": "A"
+  },
+  {
+   "number": 41,
+   "name": "Telugu",
+   "iso": "tel",
+   "group": "Asia and Pacific",
+   "script": "Telugu",
+   "depth": "A"
+  },
+  {
+   "number": 42,
+   "name": "Burmese",
+   "iso": "mya",
+   "group": "Asia and Pacific",
+   "script": "Burmese",
+   "depth": "A"
+  },
+  {
+   "number": 43,
+   "name": "Khmer",
+   "iso": "khm",
+   "group": "Asia and Pacific",
+   "script": "Khmer",
+   "depth": "A"
+  },
+  {
+   "number": 44,
+   "name": "Tagalog",
+   "iso": "tgl",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 45,
+   "name": "Balinese",
+   "iso": "ban",
+   "group": "Asia and Pacific",
+   "script": "Balinese + Latin",
+   "depth": "B",
+   "notes": "Speech levels; appendix on reading lontar and Kawi vocabulary"
+  },
+  {
+   "number": 46,
+   "name": "Malagasy",
+   "iso": "plt",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A",
+   "iso_note": "Plateau Malagasy (Merina, the official standard); macrolanguage is mlg"
+  },
+  {
+   "number": 47,
+   "name": "Hawaiian",
+   "iso": "haw",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 48,
+   "name": "Maori",
+   "iso": "mri",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 49,
+   "name": "Tok Pisin",
+   "iso": "tpi",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 50,
+   "name": "Yoruba",
+   "iso": "yor",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 51,
+   "name": "Igbo",
+   "iso": "ibo",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 52,
+   "name": "Hausa",
+   "iso": "hau",
+   "group": "Africa",
+   "script": "Latin (Boko)",
+   "depth": "A"
+  },
+  {
+   "number": 53,
+   "name": "Zulu",
+   "iso": "zul",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 54,
+   "name": "Amharic",
+   "iso": "amh",
+   "group": "Africa",
+   "script": "Ethiopic",
+   "depth": "A"
+  },
+  {
+   "number": 55,
+   "name": "Somali",
+   "iso": "som",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 56,
+   "name": "Wolof",
+   "iso": "wol",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 57,
+   "name": "Tamazight",
+   "iso": "tzm",
+   "group": "Africa",
+   "script": "Tifinagh + Latin",
+   "depth": "B",
+   "notes": "Name the variety chosen in the overview",
+   "iso_note": "Central Atlas Tamazight chosen provisionally; confirm in dossier (alternatives zgh, shi, kab)"
+  },
+  {
+   "number": 58,
+   "name": "Taa (!Xoo)",
+   "iso": "nmn",
+   "group": "Africa",
+   "script": "Latin + click symbols",
+   "depth": "B",
+   "iso_note": "ISO name: ǃXóõ"
+  },
+  {
+   "number": 59,
+   "name": "Quechua (Southern)",
+   "iso": "quz",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Part on colonial Quechua spelling and texts",
+   "iso_note": "Cusco Quechua chosen as the Southern Quechua base; Ayacucho is quy"
+  },
+  {
+   "number": 60,
+   "name": "Guarani",
+   "iso": "gug",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "iso_note": "Paraguayan Guarani; macrolanguage is grn"
+  },
+  {
+   "number": 61,
+   "name": "Yucatec Maya",
+   "iso": "yua",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Part on colonial texts and orthography"
+  },
+  {
+   "number": 62,
+   "name": "K'iche'",
+   "iso": "quc",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Part on colonial K'iche' (Popol Vuh)"
+  },
+  {
+   "number": 63,
+   "name": "Lakota",
+   "iso": "lkt",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 64,
+   "name": "Navajo",
+   "iso": "nav",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "pilot": 5
+  },
+  {
+   "number": 65,
+   "name": "Cherokee",
+   "iso": "chr",
+   "group": "Americas",
+   "script": "Syllabary + Latin",
+   "depth": "A",
+   "notes": "Published sources only; respect community guidance on restricted material"
+  },
+  {
+   "number": 66,
+   "name": "Greenlandic (Kalaallisut)",
+   "iso": "kal",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 67,
+   "name": "Mapudungun",
+   "iso": "arn",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "B"
+  },
+  {
+   "number": 68,
+   "name": "Ainu",
+   "iso": "ain",
+   "group": "Isolates and unusual",
+   "script": "Latin + katakana",
+   "depth": "B",
+   "iso_note": "ISO name: Ainu (Japan)"
+  },
+  {
+   "number": 69,
+   "name": "Burushaski",
+   "iso": "bsk",
+   "group": "Isolates and unusual",
+   "script": "Latin",
+   "depth": "B"
+  },
+  {
+   "number": 70,
+   "name": "Dyirbal",
+   "iso": "dbl",
+   "group": "Isolates and unusual",
+   "script": "Latin",
+   "depth": "B"
+  },
+  {
+   "number": 71,
+   "name": "Warlpiri",
+   "iso": "wbp",
+   "group": "Isolates and unusual",
+   "script": "Latin",
+   "depth": "B"
+  },
+  {
+   "number": 72,
+   "name": "Latin",
+   "iso": "lat",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A",
+   "pilot": 1
+  },
+  {
+   "number": 73,
+   "name": "Ancient Greek (Attic)",
+   "iso": "grc",
+   "group": "Dead and classical",
+   "script": "Greek",
+   "depth": "A"
+  },
+  {
+   "number": 74,
+   "name": "Sanskrit",
+   "iso": "san",
+   "group": "Dead and classical",
+   "script": "Devanagari + IAST",
+   "depth": "A",
+   "iso_note": "ISO lists san as a macrolanguage (cls Classical, vsn Vedic); guide teaches Classical"
+  },
+  {
+   "number": 75,
+   "name": "Pali",
+   "iso": "pli",
+   "group": "Dead and classical",
+   "script": "Latin (IAST)",
+   "depth": "A"
+  },
+  {
+   "number": 76,
+   "name": "Classical Chinese",
+   "iso": "lzh",
+   "group": "Dead and classical",
+   "script": "Hanzi",
+   "depth": "A",
+   "iso_note": "ISO name: Literary Chinese"
+  },
+  {
+   "number": 77,
+   "name": "Old English",
+   "iso": "ang",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 78,
+   "name": "Old Norse",
+   "iso": "non",
+   "group": "Dead and classical",
+   "script": "Latin, runes appendix",
+   "depth": "A"
+  },
+  {
+   "number": 79,
+   "name": "Gothic",
+   "iso": "got",
+   "group": "Dead and classical",
+   "script": "Gothic + Latin",
+   "depth": "A"
+  },
+  {
+   "number": 80,
+   "name": "Old Irish",
+   "iso": "sga",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A"
+  },
+  {
+   "number": 81,
+   "name": "Old Church Slavonic",
+   "iso": "chu",
+   "group": "Dead and classical",
+   "script": "Cyrillic, Glagolitic appendix",
+   "depth": "A",
+   "iso_note": "ISO name: Church Slavic; guide teaches Old Church Slavonic"
+  },
+  {
+   "number": 82,
+   "name": "Biblical Hebrew",
+   "iso": "hbo",
+   "group": "Dead and classical",
+   "script": "Hebrew",
+   "depth": "A",
+   "iso_note": "ISO name: Ancient Hebrew"
+  },
+  {
+   "number": 83,
+   "name": "Classical Syriac",
+   "iso": "syc",
+   "group": "Dead and classical",
+   "script": "Syriac",
+   "depth": "A"
+  },
+  {
+   "number": 84,
+   "name": "Jewish Babylonian Aramaic",
+   "iso": "tmr",
+   "group": "Dead and classical",
+   "script": "Hebrew square script",
+   "depth": "B",
+   "notes": "Built toward reading incantation bowls"
+  },
+  {
+   "number": 85,
+   "name": "Mandaic",
+   "iso": "myz",
+   "group": "Dead and classical",
+   "script": "Mandaic",
+   "depth": "B",
+   "iso_note": "Classical Mandaic (mid is Neo-Mandaic)"
+  },
+  {
+   "number": 86,
+   "name": "Ge'ez",
+   "iso": "gez",
+   "group": "Dead and classical",
+   "script": "Ethiopic",
+   "depth": "A",
+   "notes": "Built toward reading magic scrolls",
+   "pilot": 3
+  },
+  {
+   "number": 87,
+   "name": "Akkadian",
+   "iso": "akk",
+   "group": "Dead and classical",
+   "script": "Transliteration, cuneiform intro",
+   "depth": "A",
+   "notes": "Old Babylonian base"
+  },
+  {
+   "number": 88,
+   "name": "Sumerian",
+   "iso": "sux",
+   "group": "Dead and classical",
+   "script": "Transliteration, cuneiform intro",
+   "depth": "B",
+   "notes": "Mark contested analyses"
+  },
+  {
+   "number": 89,
+   "name": "Middle Egyptian",
+   "iso": "egy",
+   "group": "Dead and classical",
+   "script": "Hieroglyphs + transliteration",
+   "depth": "A",
+   "iso_note": "Covers all Ancient Egyptian; guide teaches the Middle Egyptian stage"
+  },
+  {
+   "number": 90,
+   "name": "Coptic (Sahidic)",
+   "iso": "cop",
+   "group": "Dead and classical",
+   "script": "Coptic",
+   "depth": "A",
+   "notes": "Appendix on magical texts"
+  },
+  {
+   "number": 91,
+   "name": "Old Nubian",
+   "iso": "onw",
+   "group": "Dead and classical",
+   "script": "Old Nubian (Coptic-based)",
+   "depth": "B"
+  },
+  {
+   "number": 92,
+   "name": "Hittite",
+   "iso": "hit",
+   "group": "Dead and classical",
+   "script": "Transliteration",
+   "depth": "B"
+  },
+  {
+   "number": 93,
+   "name": "Classical Maya",
+   "iso": "emy",
+   "group": "Dead and classical",
+   "script": "Glyphs + transliteration",
+   "depth": "B",
+   "notes": "Teach how the script works, not only the language",
+   "iso_note": "ISO name: Epigraphic Mayan"
+  },
+  {
+   "number": 94,
+   "name": "Classical Nahuatl",
+   "iso": "nci",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A",
+   "pilot": 6
+  },
+  {
+   "number": 95,
+   "name": "Tocharian B",
+   "iso": "txb",
+   "group": "Dead and classical",
+   "script": "Transliteration",
+   "depth": "B"
+  },
+  {
+   "number": 96,
+   "name": "Etruscan",
+   "iso": "ett",
+   "group": "Dead and classical",
+   "script": "Etruscan + Latin",
+   "depth": "C",
+   "notes": "Known vs guessed, stated on every page"
+  },
+  {
+   "number": 97,
+   "name": "Ottoman Turkish",
+   "iso": "ota",
+   "group": "Dead and classical",
+   "script": "Perso-Arabic + Latin",
+   "depth": "A",
+   "notes": "Assumes nothing; cross-links to Turkish, Arabic, Persian"
+  },
+  {
+   "number": 98,
+   "name": "Manchu",
+   "iso": "mnc",
+   "group": "Dead and classical",
+   "script": "Manchu + Latin (Mollendorff)",
+   "depth": "A",
+   "iso_note": "ISO classes Manchu as living (a few speakers); grouped as classical here because the guide teaches the written Qing language"
+  },
+  {
+   "number": 99,
+   "name": "Classical Mongolian",
+   "iso": "cmg",
+   "group": "Dead and classical",
+   "script": "Mongolian vertical + Latin",
+   "depth": "A"
+  },
+  {
+   "number": 100,
+   "name": "Classical Tibetan",
+   "iso": "xct",
+   "group": "Dead and classical",
+   "script": "Tibetan + Wylie",
+   "depth": "A"
+  }
+ ]
+}

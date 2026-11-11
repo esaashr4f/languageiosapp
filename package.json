@@ -1,0 +1,21 @@
+{
+  "name": "polyglot-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline grammar guides for 100 languages. See BRIEF.md.",
+  "type": "module",
+  "scripts": {
+    "lint:content": "tsx tools/lint-content.ts",
+    "build:content": "tsx tools/build-content.ts",
+    "build:reference": "tsx tools/build-reference.ts",
+    "stats": "tsx tools/stats.ts",
+    "test:tools": "tsx tools/lint-content.ts --root tools/fixtures zzz && tsx tools/build-content.ts --root tools/fixtures --out tools/fixtures/.out",
+    "typecheck": "tsc --noEmit -p tools"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "yaml": "^2.6.0"
+  }
+}

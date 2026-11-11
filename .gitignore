@@ -1,0 +1,6 @@
+node_modules/
+app-content/
+tools/fixtures/.out/
+dist/
+.expo/
+*.log

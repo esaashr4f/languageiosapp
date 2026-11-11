@@ -1,0 +1,38 @@
+{
+ "lang": "zzz",
+ "parts": [
+  {
+   "part": 2,
+   "title": "The simplest sentences"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "zzz-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "first",
+   "title": "A first sentence",
+   "point": "Say that someone sees something",
+   "requires": [],
+   "introduces": [
+    "accusative",
+    "present"
+   ]
+  },
+  {
+   "id": "zzz-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "second",
+   "title": "Plurals",
+   "point": "Planned only",
+   "requires": [
+    "zzz-02-01"
+   ],
+   "introduces": [
+    "plural"
+   ]
+  }
+ ]
+}

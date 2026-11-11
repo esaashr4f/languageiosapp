@@ -1,0 +1,9 @@
+{
+ "sources": [
+  {
+   "id": "fixture",
+   "citation": "Tool fixture, not a real source",
+   "used_for": "testing"
+  }
+ ]
+}

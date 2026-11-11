@@ -1,0 +1,21 @@
+{
+ "name": "Dummy",
+ "endonym": "Dumi",
+ "iso": "zzz",
+ "family": "none (tool fixture)",
+ "region": "-",
+ "era": "-",
+ "status": "extinct",
+ "scripts": [
+  "Latin"
+ ],
+ "typology": {
+  "word_order": "SOV",
+  "morphology": "agglutinative",
+  "alignment": "nominative-accusative"
+ },
+ "depth": "C",
+ "hook": "A made-up language used only to test the tools.",
+ "difficulty": "-",
+ "translit_optional": true
+}

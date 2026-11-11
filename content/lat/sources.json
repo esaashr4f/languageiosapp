@@ -43,7 +43,7 @@
   },
   {
    "id": "allen1978",
-   "citation": "Allen, W. S. (1978). Vox Latina: A Guide to the Pronunciation of Classical Latin. 2nd ed. Cambridge University Press.",
+   "citation": "Allen, W. S. (1978). Vox Latina: A Guide to the Pronunciation of Classical Latin. 2nd ed. (1st ed. 1965). Cambridge University Press.",
    "used_for": "Authority for the restored pronunciation, syllable weight and stress.",
    "access": "In copyright; consulted through recall and secondary summaries, so pronunciation claims are checked against ag1903 and wiktionary where they overlap."
   },
@@ -130,6 +130,19 @@
    "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
    "used_for": "Glossing conventions and abbreviations.",
    "access": "Open."
+  },
+  {
+   "id": "leonhardt2013",
+   "citation": "Leonhardt, J. (2013). Latin: Story of a World Language. Trans. K. Kronenberg. Cambridge, MA: Harvard University Press. (German original 2009.)",
+   "used_for": "Claim in lat-00-01 that post-Roman Latin writing far outweighs what survives from antiquity.",
+   "access": "In copyright; cited at second hand, book not opened."
+  },
+  {
+   "id": "polybius",
+   "citation": "Polybius, Histories 3.22 (Loeb translation by W. R. Paton, 1922–27).",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/3*.html",
+   "used_for": "Ancient testimony that early Latin was hard for later Romans to read (lat-00-01).",
+   "access": "Public domain; open on LacusCurtius."
   }
  ]
 }

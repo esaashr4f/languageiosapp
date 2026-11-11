@@ -8,7 +8,7 @@ point: Place Latin in time, space and family, and know which Latin this guide te
 requires: []
 introduces: []
 confidence: verified
-sources: [clackson2007, glottolog, ag1903]
+sources: [clackson2007, glottolog, ag1903, polybius, leonhardt2013]
 ---
 
 ## A town's language

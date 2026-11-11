@@ -109,7 +109,7 @@ Spanish works the same way (*ve*, *vemos*), and for the same reason: it inherite
 
 ## Why Latin is like this
 
-Latin did not invent this system. It inherited it. The parent language of the Indo-European family already marked jobs with endings, and its other old descendants (Greek, Sanskrit, Old English, Russian) do the same. English had such endings a thousand years ago and has lost nearly all of them. The pairs *he/him*, *she/her* and *who/whom* are what is left: *he* is a "doer" form and *him* an "acted on" form, exactly like *nauta* and *nautam*.
+Latin did not invent this system. It inherited it. The parent language of the Indo-European family already marked jobs with endings, and many of its descendants, old and modern (Greek, Sanskrit, Old English, Russian), do the same. English had such endings a thousand years ago and has lost nearly all of them. The pairs *he/him*, *she/her* and *who/whom* are the clearest of what is left: *he* is a "doer" form and *him* an "acted on" form, the same kind of contrast as *nauta* and *nautam*.
 
 ## What this means for you as a reader
 

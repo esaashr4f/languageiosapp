@@ -69,7 +69,7 @@ Pronunciation follows W. Sidney Allen's *Vox Latina* (1978), the standard accoun
 
 The reasons behind the forms, the "why" of each lesson, come from historical grammar, chiefly Michael Weiss's *Outline of the Historical and Comparative Grammar of Latin* (2020). Where historians of the language disagree, or do not know, the lesson says so.
 
-The choice of which words to teach follows the Dickinson College *Latin Core Vocabulary*, a list of the thousand words that occur most often in Latin texts. A reader who knows that list recognises most of the words on any page.
+The choice of which words to teach follows the Dickinson College *Latin Core Vocabulary*, a list of the thousand words that occur most often in Latin texts. By its compilers' count, those words account for about seven in every ten words of a typical Latin text.
 
 The annotated bibliography in part 9 gives full details and says what each book is good for.
 

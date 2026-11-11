@@ -1,0 +1,185 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we",
+   "tag": "person-endings"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person spoken to: you",
+   "tag": "person-endings"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "anyone or anything else: he, she, it, they",
+   "tag": "person-endings"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "person-endings"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one",
+   "tag": "person-endings"
+  },
+  "PRS": {
+   "name": "present",
+   "plain": "happening now, or the tense-neutral form of a participle or infinitive",
+   "tag": "present-tense"
+  },
+  "NOM": {
+   "name": "nominative",
+   "plain": "the case of the doer, and of what a thing is said to be",
+   "tag": "nominative"
+  },
+  "ACC": {
+   "name": "accusative",
+   "plain": "the case of the thing acted on, and of the goal of motion",
+   "tag": "accusative"
+  },
+  "M": {
+   "name": "masculine",
+   "plain": "one of the three genders",
+   "tag": "gender"
+  },
+  "F": {
+   "name": "feminine",
+   "plain": "one of the three genders",
+   "tag": "gender"
+  },
+  "N": {
+   "name": "neuter",
+   "plain": "one of the three genders",
+   "tag": "gender"
+  },
+  "Q": {
+   "name": "question particle",
+   "plain": "a small word that turns a statement into a question",
+   "tag": "question-particle"
+  },
+  "GEN": {
+   "name": "genitive",
+   "plain": "the case that hangs one noun on another: of, 's",
+   "tag": "genitive"
+  },
+  "DAT": {
+   "name": "dative",
+   "plain": "the case of the person concerned: to, for",
+   "tag": "dative"
+  },
+  "ABL": {
+   "name": "ablative",
+   "plain": "the case of source, tool and setting: from, with, in, by",
+   "tag": "ablative"
+  },
+  "VOC": {
+   "name": "vocative",
+   "plain": "the form used to call or address someone",
+   "tag": "vocative"
+  },
+  "LOC": {
+   "name": "locative",
+   "plain": "a rare case meaning at a place",
+   "tag": "locative"
+  },
+  "REFL": {
+   "name": "reflexive",
+   "plain": "refers back to the subject: himself, herself, themselves",
+   "tag": "reflexive"
+  },
+  "INF": {
+   "name": "infinitive",
+   "plain": "the form that names the action: to love",
+   "tag": "infinitive"
+  },
+  "IPFV": {
+   "name": "imperfect",
+   "plain": "a past action seen as going on or repeated",
+   "tag": "imperfect"
+  },
+  "FUT": {
+   "name": "future",
+   "plain": "an action still to come",
+   "tag": "future"
+  },
+  "PRF": {
+   "name": "perfect",
+   "plain": "an action seen as complete",
+   "tag": "perfect"
+  },
+  "PLUP": {
+   "name": "pluperfect",
+   "plain": "an action complete before another past moment: had loved",
+   "tag": "pluperfect"
+  },
+  "FUTP": {
+   "name": "future perfect",
+   "plain": "an action that will be complete before a future moment: will have loved",
+   "tag": "future-perfect"
+  },
+  "IMP": {
+   "name": "imperative",
+   "plain": "the command form",
+   "tag": "imperative"
+  },
+  "PASS": {
+   "name": "passive",
+   "plain": "the subject undergoes the action instead of doing it",
+   "tag": "passive"
+  },
+  "PTCP": {
+   "name": "participle",
+   "plain": "an adjective made from a verb",
+   "tag": "perfect-participle"
+  },
+  "DEP": {
+   "name": "deponent",
+   "plain": "a passive ending on a verb whose meaning is active",
+   "tag": "deponent"
+  },
+  "SBJV": {
+   "name": "subjunctive",
+   "plain": "the mood of what is wished, intended or imagined, not stated as fact",
+   "tag": "subjunctive"
+  },
+  "ADV": {
+   "name": "adverb ending",
+   "plain": "turns an adjective into a word describing how",
+   "tag": "adverbs"
+  },
+  "CMPR": {
+   "name": "comparative",
+   "plain": "more, -er",
+   "tag": "comparative"
+  },
+  "SUPL": {
+   "name": "superlative",
+   "plain": "most, -est, very",
+   "tag": "superlative"
+  },
+  "REL": {
+   "name": "relative",
+   "plain": "the word that opens a clause describing a noun: who, which",
+   "tag": "relative"
+  },
+  "GER": {
+   "name": "gerund",
+   "plain": "a noun made from a verb: loving",
+   "tag": "gerund"
+  },
+  "GERV": {
+   "name": "gerundive",
+   "plain": "an adjective made from a verb meaning needing to be done",
+   "tag": "gerundive"
+  },
+  "SUP": {
+   "name": "supine",
+   "plain": "a fossil verbal noun in -um or -ū",
+   "tag": "supine"
+  }
+ },
+ "terms": {}
+}

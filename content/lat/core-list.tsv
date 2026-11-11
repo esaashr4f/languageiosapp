@@ -1,0 +1,998 @@
+rank	headword	part_of_speech	definition
+1	et	Conjunction	and
+2	sum esse fuī futūrum	Verb: Irregular	be, exist; fut. infin. often = fore, impf. subj. often = forem for essem
+3	quī quae quod	Pronoun	who, which, what
+4	que	Conjunction	and (postpositive enclitic)
+5	in	Preposition	in, on (+ abl.); into, onto (+ acc)
+6	nōn	Adverb	not
+7	hic haec hoc	Pronoun	this, these
+8	ille illa illud	Pronoun	that
+9	tū tuī tibi tē	Pronoun	you (sing.)
+10	cum	Preposition	with (prep. + abl.); when, since, although (conjunction + subj.)
+11	ego meī mihi mē	Pronoun	I, me
+13	is ea id	Pronoun	he, she, it
+14	ad	Preposition	to, up to, towards (+acc.)
+15	ut, utī	Adverb	as (+ indic.); so that, with the result that (+ subj.); (in questions) in what manner, how; (exclam.) to what an extent! how!
+16	sī	Conjunction	if
+17	sui sibi sē/sēsē	Pronoun	him- her- itself, themselves
+18	omnis -e	Adjective: 3rd Declension	all, every, as a whole
+19	nec	Conjunction	and not, nor; nec ... nec, neither ... nor; → neque
+20	sed	Conjunction	but
+21	ā ab abs	Preposition	from, by (+abl.)
+22	ipse ipsa ipsum	Pronoun	him- her- itself
+23	possum posse potuī	Verb: Irregular	be able
+24	aut	Conjunction	or
+25	māgnus -a -um	Adjective: 1st and 2nd Declension	great
+26	ex, ē	Preposition	out of, from (+ abl.)
+27	suus -a -um	Adjective: 1st and 2nd Declension	his own, her own, its own
+28	dō dare dedī datum	Verb: 1st Conjugation	give
+29	quam	Adverb	how?; (after comparative) than
+30	per	Preposition	through (+acc.)
+31	videō vidēre vīdī vīsum	Verb: 2nd Conjugation	see
+32	faciō facere fēcī factum	Verb: 3rd Conjugation -iō	do, make
+33	dīcō dīcere dīxī dictum	Verb: 3rd Conjugation -ō	say; causam dīcere, plead a case; diem dīcere, appoint a day
+34	iam	Adverb	now; already
+35	atque	Conjunction	and in addition, and also, and; (after comparatives) than; simul atque, as soon as; → ac
+36	ac	Conjunction	and in addition, and also, and; (after comparatives) than; simul ac, as soon as; → atque
+37	alius -a -ud	Adjective: 1st and 2nd Declension	other, another; ālias: at another time
+38	rēs reī f.	Noun: 5th Declension	thing (rēs pūblica, commonwealth; rēs familiāris, family property, estate; rēs mīlitāris, art of war; rēs novae, revolution)
+39	habeō habēre habuī habitum	Verb: 2nd Conjugation	have, hold
+40	animus -ī m.	Noun: 2nd Declension	spirit, mind
+41	meus -a -um	Pronoun	my
+42	deus -ī m.; dea -ae f.	Noun: 2nd Declension	god; goddess
+43	multus -a -um	Adjective: 1st and 2nd Declension	much, many; multō, by far
+44	tuus -a -um	Adjective: 1st and 2nd Declension	your
+45	ferō ferre tulī lātum	Verb: Irregular	bear, carry, endure
+46	dē	Preposition	down from, about, concerning (+ abl.)
+47	nē	Conjunction	lest, that not
+48	manus -ūs f.	Noun: 4th Declension	hand; band of men
+49	nūllus -a -um	Adjective: 1st and 2nd Declension	not any, no one
+50	nunc	Adverb	now
+51	nōs nostrum/nostrī nōbīs nōs	Pronoun	we
+52	noster nostra nostrum	Adjective: 1st and 2nd Declension	our
+53	ūnus -a -um	Adjective: 1st and 2nd Declension	one
+54	diēs diēī m./f.	Noun: 5th Declension	day
+55	nihil, nīl	Noun: Indeclinable	nothing; not at all
+56	tum or tunc	Adverb	then
+57	enim	Conjunction	for, indeed
+58	tamen	Conjunction	nevertheless, still
+59	īdem eadem idem	Pronoun	the same
+60	rēx rēgis m.	Noun: 3rd Declension	king
+61	nam or namque	Conjunction	for, indeed, really
+62	locus -ī m.	Noun: 2nd Declension	place; loca (n. pl.) region
+63	veniō venīre vēnī ventum	Verb: 4th Conjugation	come
+64	inter	Preposition	between, among; during (+ acc.)
+65	pars partis f.	Noun: 3rd Declension	part
+66	volō velle voluī	Verb: Irregular	wish, be willing
+67	etiam	Adverb	also, even
+68	bonus -a -um	Adjective: 1st and 2nd Declension	good
+69	agō agere ēgī āctum	Verb: 3rd Conjugation -ō	drive, do, act
+70	terra -ae f.	Noun: 1st Declension	land
+71	pater patris m.	Noun: 3rd Declension	father, ancestor
+72	neque	Conjunction	and not, nor; neque ... neque, neither ... nor; → nec
+73	domus -ūs f.	Noun: 4th Declension	house, home
+74	at	Conjunction	but, but yet
+75	corpus corporis n.	Noun: 3rd Declension	body
+76	quoque	Conjunction	also, too
+77	aliquis -quae -quod	Pronoun	some, any; si quis, si quid: anyone who, anything that
+78	tōtus -a -um	Adjective: 1st and 2nd Declension	whole, entire
+79	sīc	Adverb	in this manner, thus; sīc ... ut: in the same way as
+80	hīc	Adverb	here; hinc: from here
+81	iste ista istud	Pronoun	that, that of yours; adv. istīc or istūc: over there; istinc: from over there
+82	urbs urbis f.	Noun: 3rd Declension	city
+83	petō petere petīvī petītum	Verb: 3rd Conjugation -ō	seek, aim at
+84	iubeō iubēre iussī iussum	Verb: 2nd Conjugation	bid, order
+85	vir virī m.	Noun: 2nd Declension	man
+86	bellum -ī n.	Noun: 2nd Declension	war
+87	vīta -ae f.	Noun: 1st Declension	life
+88	homō hominis m.	Noun: 3rd Declension	human being
+89	tempus -oris n.	Noun: 3rd Declension	time
+90	magis	Adverb	more
+91	prīmus -a -um	Adjective: 1st and 2nd Declension	first
+92	ubi	Adverb	where, when
+93	hostis -is m./f.	Noun: 3rd Declension	stranger, enemy
+94	an	Conjunction	or (in questions); utrum ... an: whether ... or
+95	mors mortis f.	Noun: 3rd Declension	death
+96	tam	Adverb	so, so much
+97	eō īre iī/īvī itum	Verb: Irregular	go
+98	arma -ōrum n. pl.	Noun: 2nd Declension	arms, weapons
+99	superus -a -um	Adjective: 1st and 2nd Declension	situated above, upper
+100	nisi, nī	Conjunction	if not, unless
+101	vincō vincere vīcī victum	Verb: 3rd Conjugation -ō	conquer
+102	pōnō pōnere posuī positum	Verb: 3rd Conjugation -ō	put, place; put aside
+103	dum	Conjunction	while (+ indic.); until (+ subj.); provided that (+ subj.)
+104	sine	Preposition	without (+ abl.)
+105	tantus -a -um	Adjective: 1st and 2nd Declension	so great, so much; (as pronoun) such a quantity, so much; tantī, at such a price, of such worth
+106	teneō -ēre -uī tentum	Verb: 2nd Conjugation	hold, keep
+107	causa -ae f.	Noun: 1st Declension	cause, reason; causā + preceding genitive, for the sake of
+108	sequor sequī secūtus sum	Verb: Deponent	follow
+109	crēdō crēdere crēdidī crēditum	Verb: 3rd Conjugation -ō	believe
+110	accipiō -cipere -cēpī -ceptum	Verb: 3rd Conjugation -iō	receive
+111	virtūs -ūtis f.	Noun: 3rd Declension	valor, manliness, virtue
+112	ante	Preposition	before, in front of (adv. and prep. + acc.)
+113	quaerō -rere -sīvī -sītum	Verb: 3rd Conjugation -ō	seek, inquire
+114	mittō mittere mīsī missum	Verb: 3rd Conjugation -ō	send, let go
+115	vīs f.	Noun: 3rd Declension	force; (acc.) vim, (abl.) vī; (pl.) vīrēs, strength
+116	amor -ōris m.	Noun: 3rd Declension	love
+117	caelum -ī n.	Noun: 2nd Declension	sky, heavens
+118	sub	Preposition	under, close to (+acc. or abl.)
+119	nox noctis f.	Noun: 3rd Declension	night
+120	ita	Adverb	thus, so
+121	rēgnum -ī n.	Noun: 2nd Declension	kingship, kingdom
+122	populus -ī m.	Noun: 2nd Declension	people
+123	autem	Conjunction	moreover, but, however
+124	caput capitis n.	Noun: 3rd Declension	head
+125	mare -is n.	Noun: 3rd Declension	sea
+126	quīdam quaedam quoddam	Pronoun	a certain one, someone
+127	māter mātris f.	Noun: 3rd Declension	mother
+128	prō	Preposition	for, on behalf of, in proportion to (+abl.)
+129	quisquis quidquid	Pronoun	whoever, whichever
+130	vōs	Pronoun	you (pl.); (gen.) vestrum/vestrī, (dat./abl.) vōbīs, (acc.) vōs
+131	capiō capere cēpī captum	Verb: 3rd Conjugation -iō	seize
+132	quia	Conjunction	because
+133	dūcō dūcere dūxī ductum	Verb: 3rd Conjugation -ō	lead; uxōrem dūcere, marry
+134	ergō	Conjunction	therefore
+135	nōmen -inis n.	Noun: 3rd Declension	name
+136	quidem	Adverb	certainly, at least
+137	miser misera miserum	Adjective: 1st and 2nd Declension	wretched, pitiable
+138	fortūna -ae f.	Noun: 1st Declension	fortune
+139	novus -a -um	Adjective: 1st and 2nd Declension	new
+140	gravis -e	Adjective: 3rd Declension	heavy, serious
+141	vel	Conjunction	or else, or; even; vel ... vel: either … or
+142	longus -a -um	Adjective: 1st and 2nd Declension	long, far
+143	parvus -a -um	Adjective: 1st and 2nd Declension	small
+144	relinquō -linquere -līquī -lictum	Verb: 3rd Conjugation -ō	abandon
+145	saepe	Adverb	often
+146	fīō fierī factus sum	Verb: Irregular	become, happen, be done
+147	ōs ōris n.	Noun: 3rd Declension	mouth, face
+148	alter altera alterum	Adjective: 1st and 2nd Declension	other of two
+149	semper	Adverb	always, ever
+150	deinde/dein	Adverb	then, next
+151	ignis -is m.	Noun: 3rd Declension	fire
+152	modo	Adverb	just, just now; modo ... modo: now ... now, at one moment ... at another, sometimes ... sometimes
+153	timeō -ēre -uī	Verb: 2nd Conjugation	to fear, to dread
+154	scelus -eris n.	Noun: 3rd Declension	crime, sin
+155	dēbeō dēbēre dēbuī dēbitum	Verb: 2nd Conjugation	owe, be obliged
+156	vīvō vīvere vīxī vīctum	Verb: 3rd Conjugation -ō	live
+157	fātum -ī n.	Noun: 2nd Declension	fate; death
+158	vocō -āre	Verb: 1st Conjugation	call
+159	altus -a -um	Adjective: 1st and 2nd Declension	high, lofty; deep
+160	parō -āre	Verb: 1st Conjugation	prepare, acquire; parātus -a -um, ready
+161	mīles -itis m.	Noun: 3rd Declension	soldier
+162	medius -a -um	Adjective: 1st and 2nd Declension	middle, central
+163	inquam, inquis, inquit, inquiunt:	Verb: Irregular	say (used with direct speech)
+164	post	Preposition	after (adv. and prep. +acc.)
+165	audiō -īre -īvī/-iī -ītum	Verb: 4th Conjugation	hear, listen to
+166	putō -āre	Verb: 1st Conjugation	think, suppose
+167	annus -ī m.	Noun: 2nd Declension	year
+168	stō stāre stetī statum	Verb: 1st Conjugation	stand
+169	vōx vōcis f.	Noun: 3rd Declension	voice, utterance
+170	genus generis n.	Noun: 3rd Declension	origin, lineage, kind
+171	referō referre rettulī relātum	Verb: Irregular	bring back; report
+172	sciō -īre -īvī/-iī -ītum	Verb: 4th Conjugation	know
+173	mēns mentis f.	Noun: 3rd Declension	mind
+174	reddō -dere -didī -ditum	Verb: 3rd Conjugation -ō	return, give back
+175	licet licēre licuit licitum est	Verb: Impersonal	it is permitted (+ dat. + infin.)
+176	sōlus -a -um	Adjective: 1st and 2nd Declension	only, alone
+177	fugiō fugere fūgī fugitum	Verb: 3rd Conjugation -iō	flee, escape
+178	ūllus -a -um	Adjective: 1st and 2nd Declension	any, anyone
+179	nēmō	Pronoun	no one (gen. nūllīus, dat. nūllī, abl. nūllō or nūllā → nūllus -a -um)
+180	nātūra -ae f.	Noun: 1st Declension	nature
+181	mōs mōris m.	Noun: 3rd Declension	custom, habit; (pl.) character
+182	beneficium -ī n.	Noun: 2nd Declension	service, kindness
+183	pectus -oris n.	Noun: 3rd Declension	chest, breast
+184	fidēs -eī f.	Noun: 5th Declension	trust, faith
+185	patior patī passus sum	Verb: Deponent	permit, endure
+186	cūra -ae f.	Noun: 1st Declension	care, concern
+187	īra irae f.	Noun: 1st Declension	wrath, anger
+188	verbum -ī n.	Noun: 2nd Declension	word
+189	prope	Preposition	near, next; (comp.) propior, (superl.) proximus; (adv.) prope, nearly, almost
+190	parēns -ntis m./f.	Noun: 3rd Declension	parent
+191	puer puerī m.	Noun: 2nd Declension	boy; slave
+192	moveō -ēre mōvī mōtum	Verb: 2nd Conjugation	move
+193	dolor -ōris m.	Noun: 3rd Declension	pain, grief
+194	gēns gentis f.	Noun: 3rd Declension	family, clan
+195	modus -ī m.	Noun: 2nd Declension	measure, manner, kind
+196	via -ae f.	Noun: 1st Declension	way, street
+197	quisque quaeque quidque	Pronoun	each one, everyone
+198	amīcus -a -um	Adjective: 1st and 2nd Declension	friendly; (as subst.) friend
+199	pēs pedis m.	Noun: 3rd Declension	foot
+200	imperium -ī n.	Noun: 2nd Declension	command, power
+201	labor -ōris m.	Noun: 3rd Declension	toil, exertion
+202	ingēns ingentis	Adjective: 3rd Declension	huge, enormous
+203	tālis tāle	Adjective: 3rd Declension	such
+204	parum	Adverb	too little
+205	apud	Preposition	near, in the presence of (+acc.)
+206	oculus -ī m.	Noun: 2nd Declension	eye
+207	unda -ae f.	Noun: 1st Declension	wave, flowing water, water
+208	itaque	Conjunction	and so, therefore
+209	vultus -ūs m.	Noun: 4th Declension	look, expression, face
+210	cadō cadere cecidī cāsum	Verb: 3rd Conjugation -ō	fall, be killed
+211	nātus -ī m.	Noun: 2nd Declension	son
+212	quis quid	Pronoun	who? what? which?
+213	trahō trahere trāxī trāctum	Verb: 3rd Conjugation -ō	drag, draw
+214	sanguis -inis m.	Noun: 3rd Declension	blood
+215	metus -ūs m.	Noun: 4th Declension	fear, dread
+216	tantum, tantummodo	Adverb	only
+217	cōnsilium -ī n.	Noun: 2nd Declension	plan; council, group of advisors
+218	coniunx coniugis m./f.	Noun: 3rd Declension	spouse, husband, wife
+219	amō -āre	Verb: 1st Conjugation	to love; amāns -ntis m./f.: lover
+220	levis -e	Adjective: 3rd Declension	light, trivial
+221	duo duae duo	Adjective: Numeral	two
+222	ferus -a -um	Adjective: 1st and 2nd Declension	wild, fierce; fera -ae f.: wild animal
+223	poena -ae f.	Noun: 1st Declension	penalty, punishment
+224	castrum -ī n.	Noun: 2nd Declension	fortress, (regularly plural, castra camp)
+225	frāter frātris m.	Noun: 3rd Declension	brother
+226	haud	Adverb	not
+227	malus -a -um	Adjective: 1st and 2nd Declension	bad, evil
+228	iaceō iacēre iacuī	Verb: 2nd Conjugation	lie
+229	līber lībera līberum	Adjective: 1st and 2nd Declension	free; līberī (m. pl.): freeborn children
+230	iter itineris n.	Noun: 3rd Declension	journey, route
+231	ferrum -ī n.	Noun: 2nd Declension	iron, iron weapon or implement
+232	spēs speī f.	Noun: 5th Declension	hope
+233	puella -ae f.	Noun: 1st Declension	girl; girl-friend
+234	silva -ae f.	Noun: 1st Declension	forest, grove
+235	bene	Adverb	well
+236	fīnis -is m.	Noun: 3rd Declension	end, boundary
+237	gerō gerere gessī gestum	Verb: 3rd Conjugation -ō	bear, manage; bellum gerere, wage war
+238	ne (enclitic)	Adverb	interrogative particle attached to the emphatic word in a question
+239	dux ducis m./f.	Noun: 3rd Declension	leader, general
+240	premō premere pressī pressum	Verb: 3rd Conjugation -ō	press, pursue, overwhelm
+241	dominus -ī m.; domina -ae f.	Noun: 2nd Declension	household master, lord; mistress
+242	mōns montis m.	Noun: 3rd Declension	mountain
+243	uterque utraque utrumque	Conjunction	each of two
+244	saevus -a -um	Adjective: 1st and 2nd Declension	fierce, raging, wrathful
+245	lītus -oris n.	Noun: 3rd Declension	shore
+246	soleō -ēre -uī -itum	Verb: 2nd Conjugation	be accustomed
+247	mīlle (pl.) mīlia	Adjective: Numeral	thousand
+248	equus -ī m.	Noun: 2nd Declension	horse
+249	dūrus -a -um	Adjective: 1st and 2nd Declension	hard, tough, harsh
+250	cōgō cōgere coēgī coāctum	Verb: 3rd Conjugation -ō	drive together; compel
+251	numquam	Adverb	never
+252	prīmum	Adverb	at first, firstly
+253	morior morī mortuus sum	Verb: Deponent	die
+254	carmen -inis n.	Noun: 3rd Declension	song
+255	tēlum -ī n.	Noun: 2nd Declension	missile, weapon, spear
+256	ratiō -ōnis f.	Noun: 3rd Declension	method, plan, reason
+257	umbra -ae f.	Noun: 1st Declension	shade, shadow
+258	ars artis f.	Noun: 3rd Declension	skill
+259	tot	Adverb	so many
+260	dexter -tra -trum	Adjective: 1st and 2nd Declension	right; dextera -ae f.: right hand
+261	sīgnum -ī n.	Noun: 2nd Declension	sign, standard, mark
+262	laetus -a -um	Adjective: 1st and 2nd Declension	glad, joyful
+263	quālis -e	Pronoun	of what kind? what?
+264	lēx lēgis f.	Noun: 3rd Declension	law
+265	perīculum -ī n.	Noun: 2nd Declension	danger
+266	nāscor nāscī nātus sum	Verb: Deponent	be born
+267	exercitus -ūs m.	Noun: 4th Declension	army
+268	pereō -īre -iī -itum	Verb: Irregular	perish, be lost
+269	ventus -ī m.	Noun: 2nd Declension	wind
+270	audeō audēre ausus sum	Verb: 2nd Conjugation	dare, be eager
+271	contrā	Preposition	against, opposite (adv. and prep. +acc.)
+272	aqua -ae f.	Noun: 1st Declension	water
+273	rapiō rapere rapuī raptum	Verb: 3rd Conjugation -iō	seize, tear away
+274	simul	Adverb	at the same time
+275	trīstis -e	Adjective: 3rd Declension	sad, solemn, grim
+276	mūnus mūneris n.	Noun: 3rd Declension	gift, offering; duty, obligation; (pl.) gladiatorial show
+277	iuvenis -is m.	Noun: 3rd Declension	youth
+278	fāma -ae f.	Noun: 1st Declension	rumor, fame
+279	adsum adesse affuī	Verb: Irregular	be present
+280	quisquam quicquam/quidquam	Pronoun	any (single) person, anyone at all
+280	vērō	Adverb	in fact, certainly, without doubt
+281	pār paris	Adjective: 3rd Declension	equal
+282	vester vestra vestrum	Adjective: 1st and 2nd Declension	your
+283	flūmen -inis n.	Noun: 3rd Declension	stream, river
+284	quīcumque quaecumque quodcumque	Pronoun	who-, whatever
+285	certus -a -um	Adjective: 1st and 2nd Declension	sure, fixed
+286	fortis -e	Adjective: 3rd Declension	brave
+287	placeō placēre placuī placitum	Verb: 2nd Conjugation	please
+288	vertō vertere vertī versum	Verb: 3rd Conjugation -ō	turn
+289	servō -āre	Verb: 1st Conjugation	save, watch over
+290	honor -ōris m.	Noun: 3rd Declension	honor, glory; office, post
+291	dīgnus -a -um	Adjective: 1st and 2nd Declension	worthy
+292	cūnctus -a -um	Adjective: 1st and 2nd Declension	entire all together
+293	tollō tollere sustulī sublātum	Verb: Irregular	raise up, destroy
+294	negō -āre	Verb: 1st Conjugation	deny, refuse
+295	vetus veteris	Adjective: 3rd Declension	old
+296	eques equitis m.	Noun: 3rd Declension	horseman, knight
+297	trādō -dere -didī -ditum	Verb: 3rd Conjugation -ō	hand over, yield
+298	flamma -ae f.	Noun: 1st Declension	flame, fire
+299	lūx lūcis f.	Noun: 3rd Declension	light of day
+300	unde	Adverb	from where
+301	redeō -īre -iī -itum	Verb: Irregular	go back, return
+302	sentiō sentīre sēnsī sēnsum	Verb: 4th Conjugation	perceive, feel, hear, see
+303	aurum -ī n.	Noun: 2nd Declension	gold
+304	cēdō cēdere cessī cessum	Verb: 3rd Conjugation -ō	go, move; yield
+305	quō	Adverb	for which reason; to or in what place; to what end, for what purpose?
+306	saxum -ī n.	Noun: 2nd Declension	rock, cliff, crag
+307	ve	Conjunction	or (postpositive enclitic)
+308	aetās -tātis f.	Noun: 3rd Declension	age, time of life
+309	fēlīx -īcis	Adjective: 3rd Declension	lucky
+310	loquor loquī locūtus sum	Verb: Deponent	speak, talk
+311	quantus -a -um	Pronoun	(interr.) how great? (rel.) of what size, amount, etc. (as subst.) what amount? (rel.) which amount; quantī, at what price? (rel.) at which price
+312	coepī coepisse coeptus	Verb: Irregular	begin
+313	igitur	Conjunction	therefore
+314	iūs iūris n.	Noun: 3rd Declension	right, justice, law
+315	mūtō -āre	Verb: 1st Conjugation	change
+316	inveniō -venīre -vēnī -ventum	Verb: 4th Conjugation	find; discover
+317	prīnceps -cipis	Adjective: 3rd Declension	first, chief; (as subst.) leader, person in charge
+318	ops opis f.	Noun: 3rd Declension	assistance, resources
+319	recipiō -cipere -cēpī -ceptum	Verb: 3rd Conjugation -iō	take back, receive; sē recipere, betake oneself, go
+320	sōl sōlis m.	Noun: 3rd Declension	sun
+321	cōnsul -ulis m.	Noun: 3rd Declension	consul
+322	orbis -is m.	Noun: 3rd Declension	circle; orbis terrārum: world
+323	turba -ae f.	Noun: 1st Declension	crowd, uproar
+324	ager agrī m.	Noun: 2nd Declension	field
+325	solvō solvere solvī solūtum	Verb: 3rd Conjugation -ō	release, set sail
+326	vitium -ī n.	Noun: 2nd Declension	flaw, fault, crime
+327	vulnus -eris n.	Noun: 3rd Declension	wound
+328	inde	Adverb	from there, from then
+329	senātus -ūs m.	Noun: 4th Declension	senate
+330	ūtor ūtī ūsus sum	Verb: Deponent	use, consume, employ (+ abl.)
+331	cōpia -ae f.	Noun: 1st Declension	abundance; (pl.) troops
+332	opus operis n.	Noun: 3rd Declension	work
+333	colō colere coluī cultum	Verb: 3rd Conjugation -ō	inhabit, cultivate
+334	vōtum -ī n.	Noun: 2nd Declension	solemn promise, vow; hope
+335	iugum -ī n.	Noun: 2nd Declension	yoke; ridge, chain of hills
+336	quā	Pronoun	where, how
+337	tellus tellūris f.	Noun: 3rd Declension	earth
+338	numerus -ī m.	Noun: 2nd Declension	number, amount
+339	cōgnōscō -gnōscere -gnōvī -gnitum	Verb: 3rd Conjugation -ō	learn, understand
+340	victor -ōris m.	Noun: 3rd Declension	conqueror
+341	satis, sat	Adverb	enough, sufficient, sufficiently
+342	patria -ae f.	Noun: 1st Declension	fatherland, country
+343	seu	Conjunction	whether; seu ... seu: whether ... or → sīve
+344	cāsus -ūs m.	Noun: 4th Declension	a fall; chance, accident
+345	frangō frangere frēgī frāctum	Verb: 3rd Conjugation -ō	break, shatter
+346	cīvitās -ātis f.	Noun: 3rd Declension	citizenship, state
+347	nōscō nōscere nōvī nōtum	Verb: 3rd Conjugation -ō	learn, know
+348	proelium -ī n.	Noun: 2nd Declension	battle
+349	ēripiō -ripere -ripuī -reptum	Verb: 3rd Conjugation -iō	snatch away, rescue, save
+350	mundus -ī m.	Noun: 2nd Declension	world, universe, heavens
+351	cursus -ūs m.	Noun: 4th Declension	course, advance
+352	vix	Adverb	scarcely
+353	nāvis -is f.	Noun: 3rd Declension	ship
+354	lacrima -ae f.	Noun: 1st Declension	tear
+355	hūmānus -a -um	Adjective: 1st and 2nd Declension	human
+356	mollis -e	Adjective: 3rd Declension	soft, yielding, gentle
+357	maneō manēre mānsī mānsum	Verb: 2nd Conjugation	remain
+358	āgmen -minis n.	Noun: 3rd Declension	line of march
+359	sīdus -eris n.	Noun: 3rd Declension	star, constellation
+360	glōria -ae f.	Noun: 1st Declension	glory, fame
+361	diū:	Adverb	for a long time
+362	sīve	Conjunction	whether; sīve ... sīve: whether ... or → seu
+363	tamquam	Adverb	so as, just as
+364	fuga -ae f.	Noun: 1st Declension	flight, route
+365	tūtus -a -um	Adjective: 1st and 2nd Declension	safe, protected
+366	auris -is f.	Noun: 3rd Declension	ear
+367	aliēnus -a -um	Adjective: 1st and 2nd Declension	foreign, strange
+368	hūc	Adverb	to this place
+369	taceō -ēre -uī -itum	Verb: 2nd Conjugation	be silent; tacitus -a -um, silent
+370	legiō -ōnis f.	Noun: 3rd Declension	legion
+371	ostendō ostendere ostendī ostentum	Verb: 3rd Conjugation -ō	show, hold out
+372	socius -a -um	Adjective: 1st and 2nd Declension	friendly, allied; socius -ī m.: partner, comrade
+373	prōsum prodesse profuī	Verb: Irregular	be of use, do good, help (+ dat.)
+374	āra -ae f.	Noun: 1st Declension	altar
+375	lūmen luminis n.	Noun: 3rd Declension	light
+376	tegō tegere tēxī tēctum	Verb: 3rd Conjugation -ō	cover, conceal
+377	turpis -e	Adjective: 3rd Declension	ugly, unsightly; disgraceful
+378	voluptās -ātis f.	Noun: 3rd Declension	pleasure, enjoyment
+379	adhūc	Adverb	thus far, to this point
+380	grātia -ae f.	Noun: 1st Declension	favor, influence, gratitude
+381	iniūria -ae f.:	Noun: 1st Declension	injustice, wrong, affront
+382	latus -eris n.	Noun: 3rd Declension	side, flank
+383	dulcis -e	Adjective: 3rd Declension	sweet
+384	postquam	Conjunction	after
+385	extrēmus -a -um	Adjective: 1st and 2nd Declension	farthest, situated at the end or tip, extreme
+386	tēctum -ī n.	Noun: 2nd Declension	roof; building, house
+387	ingenium -ī n.	Noun: 2nd Declension	disposition, ability, talent
+388	pāx pācis f.	Noun: 3rd Declension	peace
+389	canō canere cecinī cantum	Verb: 3rd Conjugation -ō	sing
+390	iuvō iuvāre iūvī iūtum	Verb: 1st Conjugation	help, assist; please, delight
+391	campus -ī m.	Noun: 2nd Declension	plain, field
+392	claudō claudere clausī clausum	Verb: 3rd Conjugation -ō	close, shut
+393	doceō -ēre -uī doctum	Verb: 2nd Conjugation	teach
+394	excipiō -cipere -cēpī -ceptum	Verb: 3rd Conjugation -iō	take out
+395	clārus -a -um	Adjective: 1st and 2nd Declension	clear, distinguished
+396	illīc	Adverb	at that place, there; illinc: from that place
+397	procul	Adverb	at a distance
+398	sacer sacra sacrum	Adjective: 1st and 2nd Declension	holy, sacred
+399	mora -ae f.	Noun: 1st Declension	delay, hindrance
+400	longē	Adverb	far, far off
+401	super	Adverb	over (adv. and prep. +acc.)
+402	errō -āre	Verb: 1st Conjugation	go astray, wander
+403	sēdēs -is f.	Noun: 3rd Declension	seat, abode, habitation
+404	cūr	Adverb	why?
+405	coma -ae f.	Noun: 1st Declension	hair, tresses
+406	aiō	Verb: Irregular	say, affirm, say yes; ut āiunt: as they say
+407	gaudeō gaudēre gāvīsus sum	Verb: 2nd Conjugation	rejoice
+408	beātus -a -um	Adjective: 1st and 2nd Declension	happy, blessed, prosperous, fortunate
+409	perveniō -venīre -vēnī -ventum	Verb: 4th Conjugation	arrive, reach
+410	vērus -a -um	Adjective: 1st and 2nd Declension	true
+411	incipiō -cipere -cēpī -ceptum	Verb: 3rd Conjugation -iō	begin
+412	parcō parcere pepercī parsum	Verb: 3rd Conjugation -ō	spare, be sparing of (+ dat.)
+413	vestis -is f.	Noun: 3rd Declension	garment, robe, clothing
+414	similis -e	Adjective: 3rd Declension	like, similar
+415	caedēs -is f.	Noun: 3rd Declension	killing, slaughter
+416	ōrdō -īnis m.	Noun: 3rd Declension	order, rank
+417	optō -āre	Verb: 1st Conjugation	choose, select
+418	virgō -inis f.	Noun: 3rd Declension	maiden, virgin, girl
+419	legō legere lēgī lēctum	Verb: 3rd Conjugation -ō	gather, choose, read
+420	aura -ae f.	Noun: 1st Declension	breeze
+421	impetus -ūs m.	Noun: 4th Declension	attack
+422	fōrma -ae f.	Noun: 1st Declension	shape; beauty
+423	praestō -stāre -stitī -stitum	Verb: 1st Conjugation	excel, exhibit
+424	aequor aequoris n.	Noun: 3rd Declension	level surface, sea, plain
+425	misceō miscēre miscuī mixtum	Verb: 2nd Conjugation	mix
+426	spatium -ī n.	Noun: 2nd Declension	space
+427	tandem	Adverb	finally
+428	īnferus -a -um	Adjective: 1st and 2nd Declension	low; īnferior: lower; īnfimus or īmus: lowest
+429	metuō metuere metuī	Verb: 3rd Conjugation -ō	to fear, to dread
+430	temptō -āre	Verb: 1st Conjugation	try, test
+431	trānseō -īre -iī -itum	Verb: Irregular	go across
+432	ultimus -a -um	Adjective: 1st and 2nd Declension	farthest, final, last, ultimate
+433	addō -dere -didī -ditum	Verb: 3rd Conjugation -ō	give to
+434	grātus -a -um	Adjective: 1st and 2nd Declension	pleasant; grateful
+435	laudō -āre	Verb: 1st Conjugation	praise
+436	nōndum	Adverb	not yet
+437	impōnō -ere -posuī -positum	Verb: 3rd Conjugation -ō	put in, put on, impose, levy upon
+438	somnus -ī m.	Noun: 2nd Declension	sleep, slumber; (pl.) dreams
+439	aciēs -ēī f.	Noun: 5th Declension	edge; line of battle
+440	rūrsus	Adverb	back, again
+441	cupiō -ere -īvī -ītum	Verb: 3rd Conjugation -iō	desire
+442	exspectō -āre	Verb: 1st Conjugation	watch, wait, expect
+443	compōnō -pōnere posuī positum	Verb: 3rd Conjugation -ō	build, construct, arrange
+444	laus laudis f.	Noun: 3rd Declension	praise, glory
+445	absum abesse āfuī	Verb: Irregular	be away, absent
+446	ūsus -ūs m.	Noun: 4th Declension	use, experience
+447	velut	Adverb	even as, just as
+448	comes comitis m./f.	Noun: 3rd Declension	companion, comrade; attendant, follower
+449	ob	Preposition	against, on account of (+acc)
+450	studium -ī n.	Noun: 2nd Declension	eagerness, zeal
+451	facilis -e	Adjective: 3rd Declension	easy
+452	nūmen -inis n.	Noun: 3rd Declension	divine will, deity
+453	sapiēns -ntis	Adjective: 3rd Declension	wise; (as subst.) wise man, sage, philosopher
+454	sūmō sūmere sūmpsī sūmptum	Verb: 3rd Conjugation -ō	take up
+455	nōbilis -e	Adjective: 3rd Declension	distinguished, noble; (as subst.) a nobleman or woman
+456	quīn	Adverb	(adv.) indeed, in fact; (conjunction) so that ... not (+ subj.)
+457	fleō flēre flēvī flētum	Verb: 2nd Conjugation	weep
+458	nōlō nōlle nōluī	Verb: Irregular	be unwilling
+459	plēnus -a -um	Adjective: 1st and 2nd Declension	full
+460	adversus (-um)	Adverb	(adv. and prep.) facing, opposite, against, opposed (to)
+461	nemus nemoris n.	Noun: 3rd Declension	grove, forest
+462	cārus -a -um	Adjective: 1st and 2nd Declension	dear
+463	dēsum -esse -fuī	Verb: Irregular	be lacking
+464	lēgātus -ī m.	Noun: 2nd Declension	lieutenant, envoy
+465	discō -ere didicī	Verb: 3rd Conjugation -ō	learn
+466	furor -ōris m.	Noun: 3rd Declension	rage, fury
+467	amnis -is m.	Noun: 3rd Declension	river, torrent
+468	arbor arboris f.	Noun: 3rd Declension	tree
+469	mox	Adverb	soon
+470	eō	Adverb	(adv.) there, to that place
+471	cīvis -is m./f.	Noun: 3rd Declension	citizen
+472	occupō -āre	Verb: 1st Conjugation	seize, occupy; anticipate, do a thing first (+ infin.)
+473	spectō -āre	Verb: 1st Conjugation	look at, consider
+474	tergum -ī n.	Noun: 2nd Declension	back, rear; ā tergō: from the rear
+475	crīmen -inis n.	Noun: 3rd Declension	verdict, accusation
+476	dōnum -ī n.	Noun: 2nd Declension	gift, present
+477	nōtus -a -um	Adjective: 1st and 2nd Declension	well-known
+478	sinus -ūs m.	Noun: 4th Declension	fold of a garment; lap, bay, gulf
+479	faciēs -ēī f.	Noun: 5th Declension	form, appearance
+480	rumpō rumpere rūpī ruptum	Verb: 3rd Conjugation -ō	break, rupture
+481	membrum -ī n.	Noun: 2nd Declension	limb, member of the body
+482	umquam	Adverb	ever
+483	aspiciō -ere -spēxī -spectum	Verb: 3rd Conjugation -iō	look to or at, behold
+484	prius or priusquam	Adverb	before
+485	templum -ī n.	Noun: 2nd Declension	consecrated ground; temple
+486	āmittō -mittere -mīsī -missum	Verb: 3rd Conjugation -ō	let go, send away
+487	pōscō pōscere popōscī	Verb: 3rd Conjugation -ō	demand, claim; inquire into
+488	perdō -dere -didī -ditum	Verb: 3rd Conjugation -ō	destroy
+489	quamvīs	Adverb	however you like; although
+490	tener -era -erum	Adjective: 1st and 2nd Declension	tender
+491	currus -ūs m.	Noun: 4th Declension	chariot
+492	precor -ārī	Verb: Deponent	pray, invoke
+493	anima -ae f.	Noun: 1st Declension	breath, spirit
+494	contingō -tingere -tigī -tactum	Verb: 3rd Conjugation -ō	touch, be contiguous to
+495	lībertās -ātis f.	Noun: 3rd Declension	freedom
+496	servus -ī m.	Noun: 2nd Declension	slave
+497	soror -ōris f.	Noun: 3rd Declension	sister
+498	fluctus -ūs m	Noun: 4th Declension	flood, billow, surf
+499	quīppe	Adverb	(adv.) indeed, surely
+500	exigō -igere -ēgī -āctum	Verb: 3rd Conjugation -ō	drive out; collect
+501	fēmina -ae f.	Noun: 1st Declension	woman
+502	nimius -a -um	Adjective: 1st and 2nd Declension	too much, excessive
+503	fallō fallere fefellī falsum	Verb: 3rd Conjugation -ō	deceive
+504	mīror mīrārī mīrātus sum	Verb: Deponent	wonder at, marvel at (+ acc.)
+505	classis -is f.	Noun: 3rd Declension	class, division, fleet
+506	sedeō sedēre sēdī sessum	Verb: 2nd Conjugation	sit
+507	singulī -ae -a	Adjective: 1st and 2nd Declension	one each
+508	mūrus -ī m.	Noun: 2nd Declension	wall
+509	noceō nocēre nocuī	Verb: 2nd Conjugation	harm
+510	quoniam	Conjunction	since, seeing that
+511	fax facis f.	Noun: 3rd Declension	torch
+512	intellegō -legere -lēxī -lēctum:	Verb: 3rd Conjugation -ō	understand
+513	iungō iungere iūnxī iūnctum	Verb: 3rd Conjugation -ō	join
+514	afferō afferre attulī allātum	Verb: Irregular	bring to
+515	cōgitō -āre	Verb: 1st Conjugation	think, reflect
+516	līmen līminis n.	Noun: 3rd Declension	threshold
+517	pūblicus -a -um	Adjective: 1st and 2nd Declension	public, belonging to the state
+518	queror querī questus sum	Verb: Deponent	complain of, lament
+519	exemplum -ī n.	Noun: 2nd Declension	example, sample, copy
+520	prex precis f.	Noun: 3rd Declension	prayers, entreaties
+521	dubitō -āre	Verb: 1st Conjugation	hesitate, doubt
+522	odium -ī n.	Noun: 2nd Declension	hatred
+523	fundō fundere fūdī fūsum	Verb: 3rd Conjugation -ō	pour, scatter
+524	fūnus fūneris n.	Noun: 3rd Declension	funeral; death; dead body
+525	nesciō -scīre	Verb: 4th Conjugation	not know, be ignorant
+526	prior prius	Adjective: 3rd Declension	earlier, preceding
+527	ūsque	Adverb	up to; continuously
+528	dubius -a -um	Adjective: 1st and 2nd Declension	doubtful; (as subst.) a doubt; sine dubiō, without a doubt, certainly
+529	tendō tendere tetendī tentum	Verb: 3rd Conjugation -ō	stretch, extend, direct (one’s steps or course)
+530	pecūnia -ae f.	Noun: 1st Declension	money
+531	quemadmodum	Adverb	in what manner, how
+532	spargō spargere sparsī sparsum	Verb: 3rd Conjugation -ō	scatter
+533	trēs tria	Adjective: Numeral	three
+534	tangō tangere tetigī tāctum	Verb: 3rd Conjugation -ō	touch
+535	respondeō -spondēre -spondī -spōnsum	Verb: 2nd Conjugation	answer
+536	timor -ōris m.	Noun: 3rd Declension	fear
+537	properō -āre	Verb: 1st Conjugation	hasten, speed
+538	subeō -īre -iī -itum	Verb: Irregular	go under; endure
+539	valeō valēre valuī	Verb: 2nd Conjugation	be strong, excel, be valid, prevail; valē: farewell!
+540	condō -dere -didī -ditum	Verb: 3rd Conjugation -ō	build, found; store up; hide, conceal
+541	nefās n. indecl.	Noun: Indeclinable	impiety, wickedness
+542	quondam	Adverb	formerly, once
+543	auxilium -ī n.	Noun: 2nd Declension	support, assistance; (pl.) auxiliary forces
+544	dēserō -ere dēseruī dēsertum	Verb: 3rd Conjugation -ō	leave, desert, abandon
+545	nūdus -a -um	Adjective: 1st and 2nd Declension	naked, bare
+546	auctor -ōris m.	Noun: 3rd Declension	originator, founder
+547	animal -ālis n.	Noun: 3rd Declension	a living being, an animal
+548	decus decoris n.	Noun: 3rd Declension	beauty, grace; ornament, glory, honor
+549	salūs -ūtis f.	Noun: 3rd Declension	health, safety
+550	pateō patēre patuī	Verb: 2nd Conjugation	lie open, extend; be evident or obvious
+551	rogō -āre	Verb: 1st Conjugation	ask
+552	uxor uxōris f.	Noun: 3rd Declension	wife
+553	abeō -īre -iī -itum	Verb: Irregular	go away
+554	regō regere rēxī rēctum	Verb: 3rd Conjugation -ō	guide, rule
+555	adeō	Adverb	(adv.) to such a degree, so
+556	auferō auferre abstulī ablātum	Verb: Irregular	take away
+557	quantum	Adverb	(adv.) how much? how greatly? how much! how greatly! as much as
+558	senex -is m.	Noun: 3rd Declension	old man, elder; senior, older
+559	frōns frontis f.	Noun: 3rd Declension	forehead, brow; front
+560	propter	Preposition	because of (+ acc.)
+561	rēgius -a -um	Adjective: 1st and 2nd Declension	kingly, royal
+562	currō currere cucurrī cursum	Verb: 3rd Conjugation -ō	run
+563	pellō pellere pepulī pulsum	Verb: 3rd Conjugation -ō	strike, beat, push, drive
+564	dīves dīvitis	Adjective: 3rd Declension	rich (poet. dīs, dītis)
+565	iūdicō -āre	Verb: 1st Conjugation	judge, decide
+566	pecus -oris n.	Noun: 3rd Declension	cattle, sheep
+567	potēns potentis	Adjective: 3rd Declension	able, powerful
+568	scrībō scrībere scrīpsī scrīptum	Verb: 3rd Conjugation -ō	write
+569	pulcher -chra -chrum	Adjective: 1st and 2nd Declension	beautiful
+570	surgō surgere surrēxī surrēctum	Verb: 3rd Conjugation -ō	rise
+571	cēterum	Adverb	for the rest, in addition, however that may be
+572	careō -ēre -uī	Verb: 2nd Conjugation	lack (+ abl.)
+573	efficiō -ficere -fēcī -fectum	Verb: 3rd Conjugation -iō	bring about, complete; render (+ ut + subj.)
+574	ōlim	Adverb	formerly, at that time
+575	sermō -ōnis m.	Noun: 3rd Declension	conversation, discourse
+576	exerceō -ercēre -ercuī -ercitum	Verb: 2nd Conjugation	train, exercise, carry on
+577	gradus -ūs m.	Noun: 4th Declension	step, pace; grade, rank
+578	agitō -āre	Verb: 1st Conjugation	drive
+579	forte	Adverb	by chance
+580	honestus -a -um	Adjective: 1st and 2nd Declension	honorable
+581	moror morārī morātus sum	Verb: Deponent	delay
+582	praesidium -ī n.	Noun: 2nd Declension	garrison, protection
+583	sonō sonāre sonuī sonitum	Verb: 1st Conjugation	sound, resound
+584	praebeō -ēre -uī -itum	Verb: 2nd Conjugation	furnish, supply, render
+585	regiō -ōnis f.	Noun: 3rd Declension	boundary, region
+586	sententia -ae f.	Noun: 1st Declension	opinion, judgment
+587	ācer ācris ācre	Adjective: 3rd Declension	sharp, piercing
+588	suprā	Preposition	above, beyond (adv. and prep. +acc.)
+589	brevis -e	Adjective: 3rd Declension	short, shallow, brief
+590	citus -a -um	Adjective: 1st and 2nd Declension	swift; citō swiftly
+591	cornu -ūs n.	Noun: 4th Declension	horn
+592	ingrātus -a -um:	Adjective: 1st and 2nd Declension	unpleasant, disagreeable
+593	moenia -ium n. pl.	Noun: 3rd Declension	walls, fortifications
+594	vinculum -ī n.	Noun: 2nd Declension	bond, fetter, tie
+595	adeō -īre -iī -itum	Verb: Irregular	go to
+596	cēterus -a -um	Adjective: 1st and 2nd Declension	the other, the others, the rest
+597	exeō -īre -iī -itum	Verb: Irregular	go forth
+598	mālō mālle māluī	Verb: Irregular	prefer
+599	speciēs -ēī f.	Noun: 5th Declension	aspect, appearance
+600	ultrā	Preposition	beyond, further (adv. and prep. + acc.)
+601	certē	Adverb	certainly, surely
+602	imperō -āre	Verb: 1st Conjugation	command, control
+603	male	Adverb	(adv.) badly
+604	prohibeō -ēre -uī -itum	Verb: 2nd Conjugation	restrain, keep away
+605	clāmor -ōris m.	Noun: 3rd Declension	outcry, shout
+606	dōnō -āre	Verb: 1st Conjugation	present with a gift (+ acc. of person and abl. of thing)
+607	officium -ī n.	Noun: 2nd Declension	service, duty
+608	committō -mittere -mīsī -missum	Verb: 3rd Conjugation -ō	join, entrust to (+ dat.); perform, do
+609	crēscō crēscere crēvī crētum	Verb: 3rd Conjugation -ō	grow, increase
+610	aequus -a -um	Adjective: 1st and 2nd Declension	equal
+611	factum -ī n.	Noun: 2nd Declension	deed, accomplishment
+612	caedō caedere cecīdī caesum	Verb: 3rd Conjugation -ō	strike, kill, cut down
+613	exīstimō -āre	Verb: 1st Conjugation	think, believe
+614	accēdō -cēdere -cessī -cessum	Verb: 3rd Conjugation -ō	approach
+615	contemnō -temnere -tempsī -temptum	Verb: 3rd Conjugation -ō	despise, scorn, disdain
+616	pudor pudōris m.	Noun: 3rd Declension	sense of shame, modesty, propriety
+617	antīquus -a -um	Adjective: 1st and 2nd Declension	ancient, old-time, former
+618	ārdeō ārdēre ārsī ārsum	Verb: 2nd Conjugation	blaze, glow; be eager
+619	ibi	Adverb	there
+620	prōvincia -ae f.	Noun: 1st Declension	province; official duty
+621	quandō	Adverb	when?; since; sī quandō: if ever
+622	custōs custōdis m.	Noun: 3rd Declension	guardian
+623	supersum -esse -fuī	Verb: Irregular	remain, survive; be superfluous (to)
+624	dēsinō -sinere -siī -situm	Verb: 3rd Conjugation -ō	leave off, cease
+625	fessus -a -um	Adjective: 1st and 2nd Declension	weary, tired
+626	praeda -ae f.	Noun: 1st Declension	booty, prey
+627	memoria -ae f.	Noun: 1st Declension	recollection, memory
+628	dīvidō -ere dīvīsī dīvīsum	Verb: 3rd Conjugation -ō	divide, separate
+629	pretium -ī n.	Noun: 2nd Declension	price, worth, reward; pretium operae: a reward for trouble
+630	pontus -ī m.	Noun: 2nd Declension	the open sea, the deep
+631	varius -a -um	Adjective: 1st and 2nd Declension	changing, varied, various
+632	vehō vehere vēxī vectum	Verb: 3rd Conjugation -ō	carry; vehor vehī vectus sum: travel, ride
+633	falsus -a -um	Adjective: 1st and 2nd Declension	deceptive, false
+634	niger nigra nigrum	Adjective: 1st and 2nd Declension	black
+635	oppidum -ī n.	Noun: 2nd Declension	town
+636	pondus ponderis n.	Noun: 3rd Declension	weight
+637	arvum -ī n.	Noun: 2nd Declension	ploughed land, field
+638	arx arcis f.	Noun: 3rd Declension	citadel, castle; summit
+639	sors sortis f.	Noun: 3rd Declension	lot, fate, destiny; oracle
+640	vīnum -ī n.	Noun: 2nd Declension	vine, wine
+641	dīversus -a -um	Adjective: 1st and 2nd Declension	different, diverse
+642	orior orīrī ortus sum	Verb: Deponent	arise, begin
+643	ecce	Adverb	behold!
+644	quamquam	Conjunction	however, although
+645	cōnferō cōnferre contulī collātum	Verb: Irregular	collect, bring to
+646	facinus facinoris n.	Noun: 3rd Declension	deed, crime
+647	retineō -tinēre -tinuī -tentum	Verb: 2nd Conjugation	hold back, keep
+648	spērō -āre	Verb: 1st Conjugation	to hope
+649	plēbs plēbis f.	Noun: 3rd Declension	the common people
+650	pūgna -ae f.	Noun: 1st Declension	fist-fight; battle
+651	repetō -petere -petīvī -petītum	Verb: 3rd Conjugation -ō	demand, exact; revisit; call to mind, recollect; repeat
+652	cōnstituō -stituere -stituī -stitūtum	Verb: 3rd Conjugation -ō	establish, put together
+653	dēfendō -fendere -fendī -fēnsum	Verb: 3rd Conjugation -ō	defend, ward off
+654	marītus -ī m.	Noun: 2nd Declension	husband
+655	cernō cernere crēvī crētum	Verb: 3rd Conjugation -ō	discern, separate
+656	superbus -a -um	Adjective: 1st and 2nd Declension	overbearing, proud, haughty
+657	adversus -a -um	Adjective: 1st and 2nd Declension	facing, opposed; unfavorable
+658	morbus -ī m.	Noun: 2nd Declension	sickness, disease
+659	sānctus -a -um	Adjective: 1st and 2nd Declension	sacred, inviolable
+660	commūnis -e	Adjective: 3rd Declension	common, general
+661	dēdūcō -dūcere -dūxī -ductum	Verb: 3rd Conjugation -ō	launch, lead away
+662	rīpa -ae f.	Noun: 1st Declension	bank of a river
+663	concēdō -cēdere -cessī -cessum	Verb: 3rd Conjugation -ō	yield, withdraw
+664	hōra -ae f.	Noun: 1st Declension	hour
+665	vetō -āre vetuī vetītum	Verb: 1st Conjugation	forbid
+666	cohors cohortis f.	Noun: 3rd Declension	cohort, band, troop
+667	gīgnō gīgnere genuī genitum	Verb: 3rd Conjugation -ō	beget, bear, bring forth
+668	superō -āre	Verb: 1st Conjugation	overcome, surpass, defeat
+669	maestus -a -um	Adjective: 1st and 2nd Declension	sad, sorrowful; depressing
+670	meminī meminisse	Verb: Irregular	remember, recollect
+671	impleō -ēre -plēvī -plētum	Verb: 2nd Conjugation	fill in, fill up
+672	māgnitūdō -inis f.	Noun: 3rd Declension	greatness, size
+673	vacuus -a -um	Adjective: 1st and 2nd Declension	empty
+674	vagus -a -um	Adjective: 1st and 2nd Declension	wandering, shifting
+675	vulgus -ī n. and m.	Noun: 2nd Declension	the common people
+676	deficiō -ficere -fēcī -fectum	Verb: 3rd Conjugation -iō	fail, give out; revolt from
+677	occurrō -currere -cucurrī -cursum	Verb: 3rd Conjugation -ō	run to meet; come into one’s mind
+678	statuō -ere -uī -ūtum	Verb: 3rd Conjugation -ō	set up, determine
+679	ideō	Adverb	for this reason
+680	praemium -ī n.	Noun: 2nd Declension	bounty, reward
+681	praetereā	Adverb	besides, moreover
+682	tertius -a -um	Adjective: 1st and 2nd Declension	third
+683	supplicium -ī n.	Noun: 2nd Declension	punishment, penalty
+684	vātēs -is m.	Noun: 3rd Declension	poet, bard
+685	astrum -ī n.	Noun: 2nd Declension	star; constellation
+686	undique	Adverb	from all sides, on all sides
+687	canis -is m./f.	Noun: 3rd Declension	dog
+688	ēdō ēdere ēdidī ēditum	Verb: 3rd Conjugation -ō	put forth, state, explain
+689	fateor fatērī fassus sum	Verb: Deponent	admit, confess; profess, declare; assent, say yes
+690	amīcitia -ae f.	Noun: 1st Declension	friendship
+691	aureus -a -um	Adjective: 1st and 2nd Declension	golden; splendid
+692	candidus -a -um	Adjective: 1st and 2nd Declension	white, fair
+693	interim	Adverb	meanwhile
+694	frūstrā	Adverb	in vain
+695	lateō latēre latuī	Verb: 2nd Conjugation	lie hidden, be hidden
+696	os ossis n.	Noun: 3rd Declension	bone
+697	sēcūrus -a -um	Adjective: 1st and 2nd Declension	free from care, tranquil; careless
+698	conveniō -venīre -vēnī -ventum	Verb: 4th Conjugation	assemble, meet; agree
+699	interficiō -ficere -fēcī -fectum	Verb: 3rd Conjugation -iō	kill
+700	appellō -pellāre	Verb: 1st Conjugation	call, address, name
+701	dolus -ī m.	Noun: 2nd Declension	artifice, device, trick
+702	permittō -mittere -mīsī -missum	Verb: 3rd Conjugation -ō	yield, allow, permit
+703	spīritus -ūs m.	Noun: 4th Declension	breath, life, spirit
+704	intrā	Preposition	within (+ acc.)
+705	terreō terrēre terruī territum	Verb: 2nd Conjugation	terrify, frighten
+706	fōns fontis m.	Noun: 3rd Declension	spring, fountain
+707	invidia -ae f.	Noun: 1st Declension	envy, jealousy, hatred
+708	pugnō -āre	Verb: 1st Conjugation	fight
+709	augeō augēre auxī auctum	Verb: 2nd Conjugation	increase
+710	littera -ae f.	Noun: 1st Declension	letter, (pl.) literature
+711	moneō monēre monuī monitum	Verb: 2nd Conjugation	warn, advise
+712	dīvitiae -ārum f. pl.	Noun: 1st Declension	riches, wealth
+713	experior -perīrī -pertus sum	Verb: Deponent	try thoroughly, test, experience
+714	superī -ōrum m. pl.	Noun: 2nd Declension	those above, i.e. the gods
+715	ōtium -ī n.	Noun: 2nd Declension	leisure
+716	vestīgium -ī n.	Noun: 2nd Declension	footstep, footprint, track
+717	sinō sinere sīvī situm	Verb: 3rd Conjugation -ō	allow, let go
+718	decet decēre decuīt	Verb: Impersonal	it is right, proper, fitting (+ acc. + infin.)
+719	effundō -fundere -fūdī -fūsum	Verb: 3rd Conjugation -ō	pour out
+720	prōmittō -mittere -mīsī -missum	Verb: 3rd Conjugation -ō	send forth, offer
+721	fingō fingere fīnxī fīctum	Verb: 3rd Conjugation -ō	shape; invent
+722	respicio -ere -spēxī -spectum	Verb: 3rd Conjugation -iō	look back, regard, consider
+723	imperātor -ōris m.	Noun: 3rd Declension	commander
+724	vacō vacāre	Verb: 1st Conjugation	be empty, open, unoccupied
+725	color -ōris m.	Noun: 3rd Declension	color
+726	discēdō -ere -cessī -cessum	Verb: 3rd Conjugation -ō	go away, depart
+727	gaudium -ī n.	Noun: 2nd Declension	delight, joy, pleasure
+728	caecus -a -um	Adjective: 1st and 2nd Declension	blind, unseeing; dark, obscure
+729	libet libēre libuit or libitum est	Verb: Impersonal	it is pleasing (+ dat. + infin.)
+730	centum	Adjective: Numeral	one hundred
+731	cōnstō -stāre -stitī	Verb: 1st Conjugation	agree; constat, it is established that (+ acc. and infin.)
+732	lingua -ae f.	Noun: 1st Declension	tongue; language
+733	multitūdō -inis f.	Noun: 3rd Declension	multitude, number
+734	aeternus -a -um	Adjective: 1st and 2nd Declension	everlasting, eternal
+735	circā	Preposition	around (adv. and prep. +acc.)
+736	ōrātiō -ōnis f.	Noun: 3rd Declension	speech, address
+737	potestās -ātis f.	Noun: 3rd Declension	power
+738	tardus -a -um	Adjective: 1st and 2nd Declension	slow, sluggish, lingering
+739	for fārī fātus sum	Verb: Deponent	report, say
+740	humus -ī f.	Noun: 2nd Declension	ground; humī: on the ground
+741	testis -is m.	Noun: 3rd Declension	witness
+742	īnferō īnferre intulī illātum	Verb: Irregular	bring upon, against; bellum īnferre: make war on
+743	cūrō -āre	Verb: 1st Conjugation	watch over, look after, care for (+ acc.)
+744	aes aeris n.	Noun: 3rd Declension	copper, bronze
+745	celer -is -e	Adjective: 3rd Declension	swift
+746	prōcēdō -cēdere -cessī -cessum	Verb: 3rd Conjugation -ō	go forth, advance
+747	mēnsa -ae f.	Noun: 1st Declension	table
+748	pius -a -um	Adjective: 1st and 2nd Declension	dutiful, devoted, just, pious
+749	iūdicium -ī n.	Noun: 2nd Declension	judgment, decision, trial
+750	victōria -ae f.	Noun: 1st Declension	victory
+751	damnō -āre	Verb: 1st Conjugation	condemn
+752	rārus -a -um	Adjective: 1st and 2nd Declension	wide apart, loose, thin; rare, seldom
+753	tempestas -tātis f.	Noun: 3rd Declension	period of time, season; bad weather, storm
+754	imāgō -inis f.	Noun: 3rd Declension	image, form, figure
+755	ōrō -āre	Verb: 1st Conjugation	pray
+756	praeter	Preposition	by, along, past; besides, except (+ acc.)
+757	cōnsulō -sulere -suluī -sultum	Verb: 3rd Conjugation -ō	consult, plan (+ acc.); consider the interests of (+dat)
+758	iterum	Adverb	again
+759	porta -ae f.	Noun: 1st Declension	gate
+760	intersum -esse -fuī	Verb: Irregular	to be between; take part in, attend (+dat.); interest, it is in the interest of (+ gen.)
+761	libīdō -inis f.	Noun: 3rd Declension	passion, lust
+762	sustineō sustinēre sustinuī sustentum	Verb: 2nd Conjugation	hold up, sustain
+763	aliquandō	Adverb	at some time, at length
+764	māiōrēs māiōrum m.	Noun: 3rd Declension	ancestors
+765	reperiō -perīre -pperī -pertum	Verb: 4th Conjugation	find, find out
+766	intrō -āre	Verb: 1st Conjugation	enter
+767	pietās -tātis f.	Noun: 3rd Declension	sense of duty, devotion, esp. between parents and children
+768	barbarus -ī m.	Noun: 2nd Declension	foreigner, barbarian
+769	culpa -ae f.	Noun: 1st Declension	guilt, fault, blame
+770	iūstus -a -um	Adjective: 1st and 2nd Declension	right, just, fair
+771	dōnec	Conjunction	until
+772	fluō fluere fluxī fluxum	Verb: 3rd Conjugation -ō	flow
+773	necesse (indecl. adj.)	Adjective: Indeclinable	necessary
+774	reor rērī rātus sum	Verb: Deponent	think, imagine, suppose, deem
+775	tenebrae -brārum f. pl.	Noun: 1st Declension	darkness, the shadows
+776	saeculum -ī n.	Noun: 2nd Declension	generation, age, century
+777	dīmittō -mittere -mīsī -missum	Verb: 3rd Conjugation -ō	send away
+778	licet	Conjunction	even though
+779	cinis cineris m./f.	Noun: 3rd Declension	ashes, embers
+780	cōnsistō -sistere -stitī	Verb: 3rd Conjugation -ō	take position; consist in, be composed of
+781	recēns -ntis	Adjective: 3rd Declension	fresh, new
+782	aliter	Adverb	otherwise, differently
+783	laedō laedere laesī laesum	Verb: 3rd Conjugation -ō	injure by striking, hurt
+784	probō -āre	Verb: 1st Conjugation	approve, prove; convince one (dat.) of a thing (acc.)
+785	doleō -ēre doluī	Verb: 2nd Conjugation	feel pain or grief, grieve
+786	quārē	Adverb	how? why?
+787	antequam	Conjunction	before
+788	reliquus -a -um	Adjective: 1st and 2nd Declension	remaining, rest
+789	semel	Adverb	once
+790	ōdī ōdisse	Verb: Irregular	hate
+791	sīcut	Adverb	just as
+792	peccō -āre	Verb: 1st Conjugation	commit a wrong, injure
+793	sēnsus -ūs m.	Noun: 4th Declension	feeling, emotion, sense
+794	exsilium -ī n.	Noun: 2nd Declension	exile, banishment
+795	cor cordis n.	Noun: 3rd Declension	heart; cordī est, it is pleasing to (+ dat.)
+796	dēnique	Adverb	finally
+797	sapientia -ae f.	Noun: 1st Declension	wisdom
+798	statim	Adverb	immediately
+799	accidō -cidere -cidī	Verb: 3rd Conjugation -ō	fall; happen
+800	dēcernō -cernere -crēvī -crētum	Verb: 3rd Conjugation -ō	determine, decide
+801	occīdō -cīdere -cīdī -cīsum	Verb: 3rd Conjugation -ō	kill, cut down
+802	dēscendō -scendere -scendī -scēnsum	Verb: 3rd Conjugation -ō	climb down, descend
+803	hiems hiemis f.	Noun: 3rd Declension	winter
+804	contineō -tinēre -tinuī -tentum	Verb: 2nd Conjugation	contain, restrain
+805	dēferō -ferre -tulī -lātum	Verb: Irregular	carry away, report
+806	oportet -ēre -uit	Verb: Impersonal	it is proper, right (+ acc. + infin.)
+807	tribūnus -ī m.	Noun: 2nd Declension	tribune, title of various Roman officials, as mīlitum, plēbis, aerāriī
+808	bōs bovis m.	Noun: 3rd Declension	ox; gen. pl. boum
+809	īrāscor īrāscī īrātus sum	Verb: Deponent	grow angry; īrātus -a -um: angry
+810	aeger aegra aegrum	Adjective: 1st and 2nd Declension	sick
+811	forum -ī n.	Noun: 2nd Declension	market-place, forum
+812	offerō offerre obtulī oblātum	Verb: Irregular	present, offer, expose
+813	revocō -āre	Verb: 1st Conjugation	call back, recall
+814	cingō cingere cīnxī cīnctum	Verb: 3rd Conjugation -ō	encircle, surround, gird
+815	integer -gra -grum:	Adjective: 1st and 2nd Declension	untouched, fresh, complete, whole
+816	validus -a -um	Adjective: 1st and 2nd Declension	strong
+817	alō alere aluī alitum	Verb: 3rd Conjugation -ō	nourish
+818	flōs flōris m.	Noun: 3rd Declension	flower, bloom
+819	īctus -ūs m.	Noun: 4th Declension	blow, stroke
+820	colligō -ere -lēgī -lēctum	Verb: 3rd Conjugation -ō	gather together, collect
+821	pergō pergere perrēxī perrēctum	Verb: 3rd Conjugation -ō	continue, proceed; awaken
+822	praesēns -ntis	Adjective: 3rd Declension	present, in person, ready
+823	rēctus -a -um	Adjective: 1st and 2nd Declension	straight, direct
+824	lātus -a -um	Adjective: 1st and 2nd Declension	broad, wide
+825	praeceptum -ī n.	Noun: 2nd Declension	rule, precept; command
+826	recēdō -cēdere -cessī -cessum	Verb: 3rd Conjugation -ō	step back, recoil, recede, withdraw
+827	utrum	Conjunction	whether; utrum ... an: whether ... or
+828	famēs -is f.	Noun: 3rd Declension	hunger, famine
+829	pariō parere peperī partum	Verb: 3rd Conjugation -iō	bring forth, give birth to; accomplish
+830	appāreō -ēre -uī	Verb: 2nd Conjugation	appear, become visible
+831	quōmodo	Conjunction	in what way, how?
+832	error -ōris m.	Noun: 3rd Declension	wandering; error, mistake
+833	forsitan, fortasse	Adverb	perhaps, perchance
+834	convertō -vertere -vertī -versum	Verb: 3rd Conjugation -ō	turn about, turn, change
+835	proficīscor -ficīscī -fectus sum	Verb: Deponent	set forth, go
+836	secundus -a -um	Adjective: 1st and 2nd Declension	following; favorable; (as numeral) second
+837	aperiō aperīre aperuī apertum	Verb: 4th Conjugation	open
+838	castus -a -um	Adjective: 1st and 2nd Declension	pure, spotless, chaste
+839	iūdex iūdicis m.	Noun: 3rd Declension	judge, juror
+840	lapis lapidis m.	Noun: 3rd Declension	stone
+841	nimis or nimium	Adverb	excessively
+842	onus oneris n.	Noun: 3rd Declension	load, burden
+843	opera -ae f.	Noun: 1st Declension	labor, activity, work
+844	pauper -eris	Adjective: 3rd Declension	poor, lowly
+845	āēr āeris m.	Noun: 3rd Declension	air
+846	negōtium -ī n.	Noun: 2nd Declension	business
+847	pāreō pārēre pāruī	Verb: 2nd Conjugation	obey
+848	subitō	Adverb	suddenly, unexpectedly
+849	argentum -ī n.	Noun: 2nd Declension	silver, money
+850	ūtilis -e	Adjective: 3rd Declension	useful
+851	aethēr aetheris n.	Noun: 3rd Declension	pure upper air, ether, heaven, sky
+852	mereō merēre meruī meritum	Verb: 2nd Conjugation	deserve, merit; serve as a soldier
+853	portō -āre	Verb: 1st Conjugation	carry a load
+854	proprius -a -um	Adjective: 1st and 2nd Declension	one’s own, peculiar
+855	avis -is f.	Noun: 3rd Declension	bird
+856	vanus -a -um	Adjective: 1st and 2nd Declension	empty; false, deceitful
+857	māteria -ae f.	Noun: 1st Declension	material, subject matter; timber, lumber
+858	paucī -ae -a	Adjective: 1st and 2nd Declension	few, a few
+859	voluntās -ātis f.	Noun: 3rd Declension	wish, desire
+860	ēgregius -a -um	Adjective: 1st and 2nd Declension	distinguished, uncommon
+861	difficilis -e	Adjective: 3rd Declension	not easy, hard, difficult
+862	gladius -ī m.	Noun: 2nd Declension	sword
+863	cibus -ī m.	Noun: 2nd Declension	food
+864	certō -āre	Verb: 1st Conjugation	decide by contest; fight, compete, vie
+865	initium -ī n.:	Noun: 2nd Declension	beginning
+866	pertineō -tinēre -tinuī	Verb: 2nd Conjugation	extend over, reach; refer to, pertain to, be the business of
+867	quattuor	Adjective: Numeral	four
+868	turbō -āre	Verb: 1st Conjugation	disturb, confuse
+869	cōnsūmō -sūmere -sūmpsī -sūmptum	Verb: 3rd Conjugation -ō	to use up, consume
+870	corrumpō -rumpere -rūpī -ruptum	Verb: 3rd Conjugation -ō	break up, destroy, ruin
+871	incidō incidere incidī	Verb: 3rd Conjugation -ō	fall upon, fall into; happen
+872	paulō, paulum	Adverb	to only a small extent, slightly, a little
+873	hospes hospitis m.	Noun: 3rd Declension	guest, guest-friend; stranger; host
+874	rīdeō -ēre rīsī rīsum	Verb: 2nd Conjugation	laugh, laugh at
+875	aevum -ī n.	Noun: 2nd Declension	eternity; lifetime, age
+876	audāx audācis	Adjective: 3rd Declension	bold, daring; reckless
+877	posterus -a -um	Adjective: 1st and 2nd Declension	next, later
+878	praetor -ōris m.	Noun: 3rd Declension	praetor, one of the chief Roman magistrates
+879	rūs rūris n.	Noun: 3rd Declension	country
+880	differō differre distulī dīlātum	Verb: Irregular	scatter; publish, divulge; differ; defer, postpone
+881	vītō -āre	Verb: 1st Conjugation	avoid, shun
+882	prīvātus -a -um	Adjective: 1st and 2nd Declension	personal, private
+883	serviō -īre	Verb: 4th Conjugation	be a slave, serve (+ dat.)
+884	vereor verērī veritus sum	Verb: Deponent	fear, stand in awe of
+885	ingredior -gredī -gressus sum:	Verb: Deponent	step in, enter
+886	addūcō -ere -dūxī -ductum	Verb: 3rd Conjugation -ō	lead to, induce
+887	hortor hortārī hortātus sum	Verb: Deponent	urge strongly, advise, exhort
+888	reus -ī m.	Noun: 2nd Declension	defendant
+889	scīlicet	Adverb	certainly, of course
+890	comparō -āre	Verb: 1st Conjugation	get ready, provide; compare
+891	perpetuus -a -um	Adjective: 1st and 2nd Declension	unbroken, perpetual
+892	dēsīderō -āre	Verb: 1st Conjugation	long for, desire greatly
+893	celebrō -āre	Verb: 1st Conjugation	frequent, throng, crowd
+894	cōnficiō -ficere -fēcī -fectum	Verb: 3rd Conjugation -iō	complete, accomplish; destroy, kill, consume
+895	intendō -tendere -tendī -tentum:	Verb: 3rd Conjugation -ō	stretch out, strain
+896	iūrō -āre	Verb: 1st Conjugation	take an oath, swear; iūs iūrandum, oath
+897	sōlum	Adverb	only, merely
+898	auctōritās -ātis f.	Noun: 3rd Declension	influence, clout, authority
+899	iaciō iacere iēcī iactum	Verb: 3rd Conjugation -iō	throw, hurl
+900	labōrō -āre	Verb: 1st Conjugation	toil, work; be in trouble or distress
+901	liber librī m.	Noun: 2nd Declension	book
+902	lūna -ae f.	Noun: 1st Declension	moon
+903	prōtinus	Adverb	at once, forthwith
+904	aequē	Adverb	equally
+905	cōnor cōnārī cōnātus sum	Verb: Deponent	try, attempt
+906	cupīdō -inis f.	Noun: 3rd Declension	desire, eagerness, craving
+907	ferē	Adverb	almost
+908	īnsula -ae f.:	Noun: 1st Declension	island
+909	fīlia -ae f.; fīlius -ī m.	Noun: 1st Declension	daughter; son
+910	narrō -āre	Verb: 1st Conjugation	relate, recount
+911	necessitās -tātis f.	Noun: 3rd Declension	necessity, need
+912	ēgredior ēgredī ēgressus sum	Verb: Deponent	stride out, depart, disembark from (+ abl.)
+913	poēta -ae m.	Noun: 1st Declension	poet
+914	decem	Adjective: Numeral	ten
+915	amplus -a -um	Adjective: 1st and 2nd Declension	large, spacious
+916	aptus -a -um	Adjective: 1st and 2nd Declension	fit, suitable
+917	cōnsequor -sequī -secūtus sum	Verb: Deponent	follow up, overtake, attain
+918	frequēns -ntis	Adjective: 3rd Declension	in large numbers, often
+919	nūntius -ī m.	Noun: 2nd Declension	messenger; news
+920	condīciō -ōnis f.	Noun: 3rd Declension	agreement, condition
+921	convīvium -iī n.	Noun: 2nd Declension	banquet, feast
+922	foedus -a -um	Adjective: 1st and 2nd Declension	foul
+923	fruor fruī frūctus sum	Verb: Deponent	enjoy the produce of, profit by, use (+ abl.)
+924	num	Adverb	interrogative particle implying negative answer
+925	albus -a -um	Adjective: 1st and 2nd Declension	white
+926	damnum -ī n.	Noun: 2nd Declension	damage, injury
+927	frūctus -ūs m.	Noun: 4th Declension	fruit, crops; enjoyment, delight
+928	cēnseō cēnsēre cēnsuī cēnsum	Verb: 2nd Conjugation	assess, rate; think, decide
+929	prōdō prōdere prōdidī prōditum	Verb: 3rd Conjugation -ō	publish, hand down; give over, betray
+930	prōpōnō -pōnere -posuī -positum	Verb: 3rd Conjugation -ō	put forth, propose, present
+931	īnstituō -stituere -stituī -stitūtum:	Verb: 3rd Conjugation -ō	undertake; equip
+932	item	Adverb	likewise
+933	magister magistrī m.	Noun: 2nd Declension	master, chief
+934	stella -ae f.	Noun: 1st Declension	star
+935	ēdūcō -dūcere -dūxī -ductum	Verb: 3rd Conjugation -ō	lead forth
+936	frūmentum -ī n.	Noun: 2nd Declension	grain
+937	suscipiō -cipere -cēpī ceptum	Verb: 3rd Conjugation -iō	take up
+938	quasi	Adverb	as if
+939	sacerdōs -dōtis m./f.	Noun: 3rd Declension	priest, priestess
+940	vīcīnus -a -um	Adjective: 1st and 2nd Declension	neighboring, near
+941	caveō cavēre cāvī cautum	Verb: 2nd Conjugation	be on guard, beware
+942	ēligō ēligere ēlēgī ēlēctum	Verb: 3rd Conjugation -ō	pick out, select
+943	familia -ae f.	Noun: 1st Declension	household, family
+944	paene	Adverb	almost
+945	praecipiō -cipere -cēpī -ceptum	Verb: 3rd Conjugation -iō	anticipate, advise, warn
+946	sānus -a -um	Adjective: 1st and 2nd Declension	sound, sane
+947	potis -e	Adjective: 3rd Declension	powerful, able
+948	prīncipium -ī n.	Noun: 2nd Declension	beginning
+949	sepulcrum -ī n.	Noun: 2nd Declension	place of burial, tomb, grave
+950	mortālis -e	Adjective: 3rd Declension	liable to death, mortal; (as subst.) a mortal
+951	epistula -ae f.	Noun: 1st Declension	letter
+952	inimīcus -a -um:	Adjective: 1st and 2nd Declension	unfriendly; (as subst.) enemy
+953	interrogō -āre	Verb: 1st Conjugation	put a question to, ask (+ acc.)
+954	cōnsuētūdo -inis f.	Noun: 3rd Declension	custom, habit
+955	illūc	Adverb	to that place
+956	dīgnitās -ātis f.	Noun: 3rd Declension	worth, reputation, honor
+957	fugō -āre	Verb: 1st Conjugation	put to flight
+958	afficiō -ficere -fēcī -fectum	Verb: 3rd Conjugation -iō	affect, visit with (+ abl.)
+959	adhibeō -hibēre -hibuī -hibitum	Verb: 2nd Conjugation	apply
+960	caelestis -e	Adjective: 3rd Declension	from or of heaven; caelestēs, the gods
+961	mulier -eris f.	Noun: 3rd Declension	woman
+962	dīvus -a -um	Adjective: 1st and 2nd Declension	divine, godlike; (as subst.) a god
+963	arbitror arbitrārī arbitrātus sum	Verb: Deponent	consider, think
+964	posteā	Adverb	afterwards
+965	aedēs -is f.	Noun: 3rd Declension	building; (pl.) house
+966	fābula -ae f.	Noun: 1st Declension	account, tale, story
+967	celeriter	Adverb	quickly
+968	plērus- plēra- plērumque	Adjective: 1st and 2nd Declension	the greater part, very many, most, the majority
+969	quiēscō quiēscere quiēvī quiētum	Verb: 3rd Conjugation -ō	keep quiet; sleep
+970	quotiēns	Adverb	interr. how many times? how often? rel. as often as, whenever
+971	scientia -ae f.	Noun: 1st Declension	knowledge
+972	cōnfiteor cōnfitērī cōnfessus sum	Verb: Deponent	admit (a fact), confess (a crime); reveal, disclose
+973	dīligō -ligere -lēxī -lēctum	Verb: 3rd Conjugation -ō	choose, cherish, love
+974	plērumque	Adverb	generally
+975	dormiō -īre	Verb: 4th Conjugation	sleep
+976	volucris -is f./m.	Noun: 3rd Declension	bird
+977	volucer -cris -cre	Adjective: 3rd Declension	flying
+978	creō -āre	Verb: 1st Conjugation	produce, create; elect, choose
+979	fidēlis -e	Adjective: 3rd Declension	faithful
+980	indicō -āre	Verb: 1st Conjugation	point out, show, make known
+981	hodiē	Adverb	today
+982	disciplīna -ae f.	Noun: 1st Declension	training, instruction; learning, discipline
+983	vērē	Adverb	truly
+984	aegrē	Adverb	with difficulty
+985	fore	Verb: Irregular	
+986	advertō -vertere -vertī -versum	Verb: 3rd Conjugation -ō	turn towards
+987	adveniō -īre -vēnī -ventum	Verb: 4th Conjugation	come to, arrive at
+988	pendō pendere pependī pēnsum	Verb: 3rd Conjugation -ō	weigh, hang, suspend; pay
+989	studeō -ēre -uī	Verb: 2nd Conjugation	be eager, be zealous, care for (+ dat.)
+990	ascendō -ere -scendī -scēnsum	Verb: 3rd Conjugation -ō	climb up, ascend
+991	vulgō	Adverb	commonly
+992	breviter	Adverb	briefly
+993	fors fortis f.	Noun: 3rd Declension	chance
+994	fēlīciter	Adverb	luckily
+995	revertō -vertere -vertī	Verb: 3rd Conjugation -ō	turn back
+996	ēdīcō -dīcere -dīxī -dictum	Verb: 3rd Conjugation -ō	declare
+997	mundus -a -um	Adjective: 1st and 2nd Declension	clean, neat, elegant

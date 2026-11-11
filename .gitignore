@@ -4,3 +4,4 @@ tools/fixtures/.out/
 dist/
 .expo/
 *.log
+.cache/

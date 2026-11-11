@@ -157,7 +157,8 @@ for (const lang of langDirs(root, onlyLangs)) {
 
     // Template counts
     const wc = wordCounts(lesson.blocks);
-    if (wc.prose < 400) E(`only ${wc.prose} prose words (minimum 400, target 500 to 1,200)`);
+    if (syl.part === 9) { /* generated reference appendices: no prose minimum */ }
+    else if (wc.prose < 400) E(`only ${wc.prose} prose words (minimum 400, target 500 to 1,200)`);
     else if (wc.prose < 500 || wc.prose > 1200) W(`${wc.prose} prose words (target 500 to 1,200)`);
     if (full) {
       const strict = syl.part >= 2;

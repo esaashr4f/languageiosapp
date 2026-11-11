@@ -1,0 +1,39 @@
+{
+ "name": "Latin",
+ "endonym": "lingua Latīna",
+ "iso": "lat",
+ "number": 72,
+ "family": "Indo-European, Italic",
+ "region": "Latium and Rome; then the western Roman Empire",
+ "era": "Classical norm c. 80 BC to AD 120; written from the 7th century BC and used in learning and the church to the present",
+ "status": "classical",
+ "scripts": [
+  "Latin"
+ ],
+ "typology": {
+  "word_order": "free, verb-final by default",
+  "morphology": "fusional",
+  "alignment": "nominative-accusative",
+  "tags": [
+   "six cases",
+   "three genders",
+   "no articles",
+   "pro-drop",
+   "vowel length contrast",
+   "weight-based stress"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": true,
+ "organising_idea": "Endings carry the grammar. Each noun and verb ends in a small piece that says what job the word is doing, so word order is left free to show emphasis.",
+ "hook": "Latin packs into the end of each word what English spreads across word order and helper words. Three words, in any order, can say who did what to whom, when, and whether it really happened. Learn to read the endings and two thousand years of writing open up, from scratched insults on the walls of Pompeii to Newton's physics.",
+ "difficulty": "For an English speaker the vocabulary is the easy part: more than half of English words have a Latin source. The work is in the endings (six cases, five noun patterns, four verb patterns) and in learning to wait for the verb at the end of the sentence. A reader with Spanish or French already knows much of the verb system in a worn-down form.",
+ "sample": {
+  "orig": "Vēnī, vīdī, vīcī.",
+  "morphemes": "vēn-ī vīd-ī vīc-ī",
+  "gloss": "come.PRF-1SG see.PRF-1SG conquer.PRF-1SG",
+  "translation": "I came, I saw, I conquered.",
+  "source": "Caesar, quoted by Suetonius, Divus Iulius 37.2",
+  "confidence": "attested"
+ }
+}

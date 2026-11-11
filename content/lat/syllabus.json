@@ -1,0 +1,1379 @@
+{
+ "lang": "lat",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Latin is, the one idea that runs through its grammar, and how this guide works."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and script",
+   "summary": "The restored classical pronunciation, vowel length, syllable weight and stress, and how Latin has been spelled."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "A verb alone, a doer, a thing acted on, being, negation, yes/no questions and agreement."
+  },
+  {
+   "part": 3,
+   "title": "Nouns and their machinery",
+   "summary": "The six cases, the five declensions, pronouns and pointing words."
+  },
+  {
+   "part": 4,
+   "title": "Verbs: the core system",
+   "summary": "Stems, tenses, the passive, deponents, the irregular verbs and the subjunctive."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adjectives, adverbs, comparison, numbers, connectives, participles and the finer uses of the cases."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Questions, relative clauses, the ablative absolute, reported speech and the subordinate subjunctive."
+  },
+  {
+   "part": 7,
+   "title": "Advanced and special topics",
+   "summary": "Gerund and gerundive, impersonals, style, metre, word formation, and Latin before and after the classical norm."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Eight graded passages from graffiti to Vergil and a medieval charter, walked through line by line."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "Paradigm tables, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "lat-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-latin-is",
+   "title": "What Latin is",
+   "point": "Place Latin in time, space and family, and know which Latin this guide teaches",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "lat-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "endings-carry-the-grammar",
+   "title": "The organising idea: endings carry the grammar",
+   "point": "See how one word changes its ending to do the jobs English gives to word order and helper words",
+   "requires": [
+    "lat-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide and where its facts come from",
+   "point": "Read the examples, glosses, confidence labels and source notes used throughout",
+   "requires": [
+    "lat-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "alphabet-and-vowels",
+   "title": "The alphabet and the vowels, short and long",
+   "point": "Pronounce the five vowels in both lengths and see why length matters",
+   "requires": [
+    "lat-00-03"
+   ],
+   "introduces": [
+    "vowel-length"
+   ]
+  },
+  {
+   "id": "lat-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "diphthongs-and-consonants",
+   "title": "Diphthongs and consonants",
+   "point": "Pronounce every Latin letter as an educated Roman of Cicero's day did",
+   "requires": [
+    "lat-01-01"
+   ],
+   "introduces": [
+    "consonants"
+   ]
+  },
+  {
+   "id": "lat-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "syllables-and-weight",
+   "title": "Syllables: light and heavy",
+   "point": "Divide any word into syllables and tell which are heavy",
+   "requires": [
+    "lat-01-02"
+   ],
+   "introduces": [
+    "syllable-weight"
+   ]
+  },
+  {
+   "id": "lat-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "stress",
+   "title": "Stress: the second-from-last rule",
+   "point": "Stress any Latin word correctly from its spelling alone",
+   "requires": [
+    "lat-01-03"
+   ],
+   "introduces": [
+    "stress"
+   ]
+  },
+  {
+   "id": "lat-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "spelling-in-the-wild",
+   "title": "Spelling in the wild: capitals, u and v, i and j",
+   "point": "Read Latin as printed in different editions, inscriptions and manuscripts",
+   "requires": [
+    "lat-01-04"
+   ],
+   "introduces": [
+    "orthography"
+   ]
+  },
+  {
+   "id": "lat-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "a-verb-is-a-sentence",
+   "title": "A verb is a sentence",
+   "point": "Say who does something with a single word, using the six person endings",
+   "requires": [
+    "lat-01-04"
+   ],
+   "introduces": [
+    "person-endings",
+    "present-tense"
+   ]
+  },
+  {
+   "id": "lat-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "the-doer-nominative",
+   "title": "Naming the doer: the nominative",
+   "point": "Add a named doer to a verb and make the two agree in number",
+   "requires": [
+    "lat-02-01"
+   ],
+   "introduces": [
+    "nominative"
+   ]
+  },
+  {
+   "id": "lat-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "the-thing-acted-on-accusative",
+   "title": "The thing acted on: the accusative",
+   "point": "Mark the object of a verb and read a sentence whatever order its words come in",
+   "requires": [
+    "lat-02-02"
+   ],
+   "introduces": [
+    "accusative"
+   ]
+  },
+  {
+   "id": "lat-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "gender",
+   "title": "Three genders",
+   "point": "Sort nouns into masculine, feminine and neuter and predict their nominative and accusative",
+   "requires": [
+    "lat-02-03"
+   ],
+   "introduces": [
+    "gender"
+   ]
+  },
+  {
+   "id": "lat-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "being-sum",
+   "title": "Being: sum, es, est",
+   "point": "Say that something is something, and that something exists",
+   "requires": [
+    "lat-02-04"
+   ],
+   "introduces": [
+    "sum"
+   ]
+  },
+  {
+   "id": "lat-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "no-and-yes-no-questions",
+   "title": "Saying no and asking yes or no",
+   "point": "Negate a sentence with nōn and turn it into a question with -ne, nōnne or num",
+   "requires": [
+    "lat-02-05"
+   ],
+   "introduces": [
+    "negation",
+    "question-particle"
+   ]
+  },
+  {
+   "id": "lat-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "adjectives-agree",
+   "title": "Describing: adjectives agree",
+   "point": "Attach an adjective to a noun by matching gender, number and case",
+   "requires": [
+    "lat-02-05"
+   ],
+   "introduces": [
+    "agreement"
+   ]
+  },
+  {
+   "id": "lat-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "word-order-and-emphasis",
+   "title": "Word order and emphasis",
+   "point": "Choose a word order for a reason, and read what an author's order is telling you",
+   "requires": [
+    "lat-02-07",
+    "lat-02-06"
+   ],
+   "introduces": [
+    "word-order"
+   ]
+  },
+  {
+   "id": "lat-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "cases-and-declensions",
+   "title": "The case system: six jobs, five patterns",
+   "point": "Read a dictionary entry, find a noun's stem and know what each case is for",
+   "requires": [
+    "lat-02-08"
+   ],
+   "introduces": [
+    "declension"
+   ]
+  },
+  {
+   "id": "lat-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "genitive",
+   "title": "The genitive: one noun hanging on another",
+   "point": "Say whose something is, and what it is a part or kind of",
+   "requires": [
+    "lat-03-01"
+   ],
+   "introduces": [
+    "genitive"
+   ]
+  },
+  {
+   "id": "lat-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "dative",
+   "title": "The dative: the person concerned",
+   "point": "Mark the receiver or the person affected, and say that someone has something",
+   "requires": [
+    "lat-03-02"
+   ],
+   "introduces": [
+    "dative"
+   ]
+  },
+  {
+   "id": "lat-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "ablative",
+   "title": "The ablative: from, with, in",
+   "point": "Mark source, tool and setting, alone and with prepositions",
+   "requires": [
+    "lat-03-03"
+   ],
+   "introduces": [
+    "ablative"
+   ]
+  },
+  {
+   "id": "lat-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "prepositions",
+   "title": "Prepositions and the cases they take",
+   "point": "Use the common prepositions and choose between accusative and ablative after in and sub",
+   "requires": [
+    "lat-03-04"
+   ],
+   "introduces": [
+    "prepositions"
+   ]
+  },
+  {
+   "id": "lat-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "vocative-and-full-first-second",
+   "title": "Calling someone, and the first two declensions complete",
+   "point": "Address a person, handle nouns like puer and ager, and hold the full first and second declensions",
+   "requires": [
+    "lat-03-05"
+   ],
+   "introduces": [
+    "vocative"
+   ]
+  },
+  {
+   "id": "lat-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "third-declension-consonant-stems",
+   "title": "The third declension: consonant stems",
+   "point": "Decline nouns like rēx and nōmen and explain why their nominative looks different from the rest",
+   "requires": [
+    "lat-03-06"
+   ],
+   "introduces": [
+    "third-declension"
+   ]
+  },
+  {
+   "id": "lat-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "third-declension-i-stems",
+   "title": "The third declension: i-stems",
+   "point": "Recognise i-stem nouns and their four distinctive endings",
+   "requires": [
+    "lat-03-07"
+   ],
+   "introduces": [
+    "i-stems"
+   ]
+  },
+  {
+   "id": "lat-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "fourth-and-fifth-declensions",
+   "title": "The fourth and fifth declensions",
+   "point": "Decline nouns like manus and rēs",
+   "requires": [
+    "lat-03-08"
+   ],
+   "introduces": [
+    "fourth-declension",
+    "fifth-declension"
+   ]
+  },
+  {
+   "id": "lat-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "personal-pronouns",
+   "title": "I, you, we and self",
+   "point": "Use ego, tū, nōs, vōs and the reflexive sē, with their possessive adjectives",
+   "requires": [
+    "lat-03-09"
+   ],
+   "introduces": [
+    "personal-pronouns",
+    "reflexive"
+   ]
+  },
+  {
+   "id": "lat-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "is-ea-id",
+   "title": "is, ea, id: he, she, it and that",
+   "point": "Refer back to someone or something already mentioned",
+   "requires": [
+    "lat-03-10"
+   ],
+   "introduces": [
+    "is-ea-id"
+   ]
+  },
+  {
+   "id": "lat-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "demonstratives",
+   "title": "Pointing: hic, ille, iste, ipse, īdem",
+   "point": "Point at things near, far and aforementioned, and say self and same",
+   "requires": [
+    "lat-03-11"
+   ],
+   "introduces": [
+    "demonstratives"
+   ]
+  },
+  {
+   "id": "lat-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "place-and-time",
+   "title": "Place and time without prepositions",
+   "point": "Say where, where to, where from, when and for how long, including the locative",
+   "requires": [
+    "lat-03-12"
+   ],
+   "introduces": [
+    "locative"
+   ]
+  },
+  {
+   "id": "lat-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "how-a-verb-is-built",
+   "title": "How a verb is built: stems and principal parts",
+   "point": "Read a verb's dictionary entry and know which stem builds which forms",
+   "requires": [
+    "lat-03-13"
+   ],
+   "introduces": [
+    "conjugation",
+    "principal-parts"
+   ]
+  },
+  {
+   "id": "lat-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "present-third-and-fourth",
+   "title": "The present of the third and fourth conjugations",
+   "point": "Conjugate verbs like regō, capiō and audiō and explain their short linking vowel",
+   "requires": [
+    "lat-04-01"
+   ],
+   "introduces": [
+    "third-conjugation",
+    "fourth-conjugation"
+   ]
+  },
+  {
+   "id": "lat-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "infinitive",
+   "title": "The infinitive, with can, want and must",
+   "point": "Name an action and attach it to possum, volō, nōlō, mālō and dēbeō",
+   "requires": [
+    "lat-04-02"
+   ],
+   "introduces": [
+    "infinitive"
+   ]
+  },
+  {
+   "id": "lat-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "imperfect",
+   "title": "The imperfect: a past in progress",
+   "point": "Describe what was going on or used to happen",
+   "requires": [
+    "lat-04-03"
+   ],
+   "introduces": [
+    "imperfect"
+   ]
+  },
+  {
+   "id": "lat-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "future",
+   "title": "The future: two ways to make it",
+   "point": "Form the future in all four conjugations and see why there are two patterns",
+   "requires": [
+    "lat-04-04"
+   ],
+   "introduces": [
+    "future"
+   ]
+  },
+  {
+   "id": "lat-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "perfect",
+   "title": "The perfect: a completed act",
+   "point": "Form the perfect from the third principal part with its own set of endings",
+   "requires": [
+    "lat-04-05"
+   ],
+   "introduces": [
+    "perfect"
+   ]
+  },
+  {
+   "id": "lat-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "perfect-or-imperfect",
+   "title": "Choosing a past tense",
+   "point": "Decide between perfect and imperfect, and read the two senses of the perfect",
+   "requires": [
+    "lat-04-06"
+   ],
+   "introduces": [
+    "aspect"
+   ]
+  },
+  {
+   "id": "lat-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "pluperfect-and-future-perfect",
+   "title": "Before then: pluperfect and future perfect",
+   "point": "Place one event before another in the past or the future",
+   "requires": [
+    "lat-04-07"
+   ],
+   "introduces": [
+    "pluperfect",
+    "future-perfect"
+   ]
+  },
+  {
+   "id": "lat-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "commands",
+   "title": "Commands",
+   "point": "Tell someone to do something, and not to do it",
+   "requires": [
+    "lat-04-05"
+   ],
+   "introduces": [
+    "imperative"
+   ]
+  },
+  {
+   "id": "lat-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "passive-present-system",
+   "title": "The passive: the -r endings",
+   "point": "Turn a sentence round so that the thing acted on becomes the subject",
+   "requires": [
+    "lat-04-09"
+   ],
+   "introduces": [
+    "passive"
+   ]
+  },
+  {
+   "id": "lat-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "perfect-passive",
+   "title": "The perfect participle and the perfect passive",
+   "point": "Build amātus est and its relatives from the fourth principal part",
+   "requires": [
+    "lat-04-10",
+    "lat-04-08"
+   ],
+   "introduces": [
+    "perfect-participle"
+   ]
+  },
+  {
+   "id": "lat-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "deponents",
+   "title": "Deponent verbs: passive in form, active in meaning",
+   "point": "Recognise and use verbs like sequor, loquor and morior",
+   "requires": [
+    "lat-04-11"
+   ],
+   "introduces": [
+    "deponent"
+   ]
+  },
+  {
+   "id": "lat-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "irregular-eo-fero",
+   "title": "Irregular verbs: eō and ferō",
+   "point": "Conjugate go and carry and their many compounds",
+   "requires": [
+    "lat-04-12"
+   ],
+   "introduces": [
+    "eo-fero"
+   ]
+  },
+  {
+   "id": "lat-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "irregular-fio-do-edo",
+   "title": "Irregular verbs: fīō, dō and the rest",
+   "point": "Use fīō as the passive of faciō, and handle dō, edō and defective verbs like inquit and meminī",
+   "requires": [
+    "lat-04-13"
+   ],
+   "introduces": [
+    "fio"
+   ]
+  },
+  {
+   "id": "lat-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "compound-verbs",
+   "title": "Compound verbs and what prefixes do to them",
+   "point": "Take a compound apart, and explain why faciō becomes cōnficiō",
+   "requires": [
+    "lat-04-14"
+   ],
+   "introduces": [
+    "compounds"
+   ]
+  },
+  {
+   "id": "lat-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "subjunctive-present-imperfect",
+   "title": "The subjunctive: present and imperfect forms",
+   "point": "Form the mood Latin uses for what is wished, intended or imagined",
+   "requires": [
+    "lat-04-15"
+   ],
+   "introduces": [
+    "subjunctive"
+   ]
+  },
+  {
+   "id": "lat-04-17",
+   "part": 4,
+   "order": 17,
+   "slug": "subjunctive-perfect-pluperfect",
+   "title": "The subjunctive: perfect and pluperfect forms",
+   "point": "Complete the subjunctive in the active and passive",
+   "requires": [
+    "lat-04-16"
+   ],
+   "introduces": [
+    "subjunctive-perfect"
+   ]
+  },
+  {
+   "id": "lat-04-18",
+   "part": 4,
+   "order": 18,
+   "slug": "independent-subjunctive",
+   "title": "The subjunctive on its own",
+   "point": "Express a wish, a proposal, a doubt or a possibility in a main clause",
+   "requires": [
+    "lat-04-17"
+   ],
+   "introduces": [
+    "independent-subjunctive"
+   ]
+  },
+  {
+   "id": "lat-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "third-declension-adjectives",
+   "title": "Third-declension adjectives",
+   "point": "Make adjectives like omnis, ācer and fēlīx agree with any noun",
+   "requires": [
+    "lat-04-18"
+   ],
+   "introduces": [
+    "third-declension-adjectives"
+   ]
+  },
+  {
+   "id": "lat-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "adjectives-as-nouns",
+   "title": "Adjectives as nouns, and the ūnus group",
+   "point": "Read bonī as good men and decline ūnus, sōlus, tōtus, alius and their kin",
+   "requires": [
+    "lat-05-01"
+   ],
+   "introduces": [
+    "substantive-adjectives",
+    "pronominal-adjectives"
+   ]
+  },
+  {
+   "id": "lat-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "adverbs",
+   "title": "Adverbs",
+   "point": "Turn an adjective into an adverb and learn the common adverbs that are not derived",
+   "requires": [
+    "lat-05-02"
+   ],
+   "introduces": [
+    "adverbs"
+   ]
+  },
+  {
+   "id": "lat-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "comparison",
+   "title": "More and most: comparison",
+   "point": "Form comparatives and superlatives and say than in two ways",
+   "requires": [
+    "lat-05-03"
+   ],
+   "introduces": [
+    "comparative",
+    "superlative"
+   ]
+  },
+  {
+   "id": "lat-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "numbers",
+   "title": "Numbers",
+   "point": "Count, decline ūnus, duo, trēs and mīlle, and form ordinals",
+   "requires": [
+    "lat-05-04"
+   ],
+   "introduces": [
+    "numerals"
+   ]
+  },
+  {
+   "id": "lat-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "connectives",
+   "title": "Linking words",
+   "point": "Join words and sentences with et, -que, atque, aut, vel, sed, nam, enim, autem, igitur and tamen",
+   "requires": [
+    "lat-05-05"
+   ],
+   "introduces": [
+    "connectives"
+   ]
+  },
+  {
+   "id": "lat-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "participles",
+   "title": "Participles: present and future",
+   "point": "Form amāns and amātūrus and use participles where English uses a clause",
+   "requires": [
+    "lat-05-06"
+   ],
+   "introduces": [
+    "present-participle",
+    "future-participle"
+   ]
+  },
+  {
+   "id": "lat-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "uses-of-the-ablative",
+   "title": "The ablative sorted out",
+   "point": "Tell apart the ablatives of means, manner, cause, separation, respect, description and comparison",
+   "requires": [
+    "lat-05-07"
+   ],
+   "introduces": [
+    "ablative-uses"
+   ]
+  },
+  {
+   "id": "lat-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "uses-of-genitive-and-dative",
+   "title": "The genitive and dative sorted out",
+   "point": "Read partitive and objective genitives, datives of purpose and verbs that take the dative",
+   "requires": [
+    "lat-05-08"
+   ],
+   "introduces": [
+    "genitive-uses",
+    "dative-uses"
+   ]
+  },
+  {
+   "id": "lat-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "indefinites",
+   "title": "Someone, anyone, each, no one",
+   "point": "Use aliquis, quis, quisquam, quisque, quīdam, nēmō and nihil",
+   "requires": [
+    "lat-05-09"
+   ],
+   "introduces": [
+    "indefinites"
+   ]
+  },
+  {
+   "id": "lat-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "question-words",
+   "title": "Questions with question words",
+   "point": "Ask who, what, which, where, when, why and how",
+   "requires": [
+    "lat-05-10"
+   ],
+   "introduces": [
+    "interrogatives"
+   ]
+  },
+  {
+   "id": "lat-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "relative-clauses",
+   "title": "Relative clauses: quī, quae, quod",
+   "point": "Attach a clause to a noun, taking gender and number from the noun and case from the clause",
+   "requires": [
+    "lat-06-01"
+   ],
+   "introduces": [
+    "relative"
+   ]
+  },
+  {
+   "id": "lat-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "time-and-cause-indicative",
+   "title": "When and because: clauses with the indicative",
+   "point": "Use ubi, postquam, dum, antequam, quod and quia",
+   "requires": [
+    "lat-06-02"
+   ],
+   "introduces": [
+    "temporal-clauses",
+    "causal-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "ablative-absolute",
+   "title": "The ablative absolute",
+   "point": "Compress a background clause into a noun and participle in the ablative",
+   "requires": [
+    "lat-06-03"
+   ],
+   "introduces": [
+    "ablative-absolute"
+   ]
+  },
+  {
+   "id": "lat-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "accusative-and-infinitive",
+   "title": "Reported statements: the accusative and infinitive",
+   "point": "Report what someone says, thinks or sees, with all six infinitives",
+   "requires": [
+    "lat-06-04"
+   ],
+   "introduces": [
+    "indirect-statement",
+    "infinitives-all"
+   ]
+  },
+  {
+   "id": "lat-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "sequence-of-tenses",
+   "title": "Sequence of tenses",
+   "point": "Choose the tense of a subordinate subjunctive from the tense of the main verb",
+   "requires": [
+    "lat-06-05"
+   ],
+   "introduces": [
+    "sequence-of-tenses"
+   ]
+  },
+  {
+   "id": "lat-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "purpose",
+   "title": "Purpose: ut and nē",
+   "point": "Say what something is done in order to achieve",
+   "requires": [
+    "lat-06-06"
+   ],
+   "introduces": [
+    "purpose-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "result",
+   "title": "Result: so … that",
+   "point": "Say what followed as a consequence, and tell result from purpose",
+   "requires": [
+    "lat-06-07"
+   ],
+   "introduces": [
+    "result-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "indirect-commands-and-fears",
+   "title": "Indirect commands and fears",
+   "point": "Report an order or request, and express what someone is afraid may happen",
+   "requires": [
+    "lat-06-08"
+   ],
+   "introduces": [
+    "indirect-command",
+    "fear-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-10",
+   "part": 6,
+   "order": 10,
+   "slug": "indirect-questions",
+   "title": "Indirect questions",
+   "point": "Embed a question under a verb of asking, knowing or telling",
+   "requires": [
+    "lat-06-09"
+   ],
+   "introduces": [
+    "indirect-question"
+   ]
+  },
+  {
+   "id": "lat-06-11",
+   "part": 6,
+   "order": 11,
+   "slug": "cum-clauses",
+   "title": "cum: when, since, although",
+   "point": "Read the commonest subordinating word in Latin prose in all its senses",
+   "requires": [
+    "lat-06-10"
+   ],
+   "introduces": [
+    "cum-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-12",
+   "part": 6,
+   "order": 12,
+   "slug": "conditions",
+   "title": "Conditions: if",
+   "point": "Build open, future and unreal conditions and know what each mood claims",
+   "requires": [
+    "lat-06-11"
+   ],
+   "introduces": [
+    "conditionals"
+   ]
+  },
+  {
+   "id": "lat-06-13",
+   "part": 6,
+   "order": 13,
+   "slug": "concession-proviso-comparison",
+   "title": "Although, provided that, as if",
+   "point": "Use quamquam, quamvīs, etsī, dummodo and quasi",
+   "requires": [
+    "lat-06-12"
+   ],
+   "introduces": [
+    "concessive-clauses"
+   ]
+  },
+  {
+   "id": "lat-06-14",
+   "part": 6,
+   "order": 14,
+   "slug": "subjunctive-relatives-quin",
+   "title": "Relative clauses with the subjunctive; quīn and quōminus",
+   "point": "Read the sort of person who, and clauses after verbs of doubting and preventing",
+   "requires": [
+    "lat-06-13"
+   ],
+   "introduces": [
+    "characteristic-clauses",
+    "quin"
+   ]
+  },
+  {
+   "id": "lat-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "gerund",
+   "title": "The gerund: the verb as a noun",
+   "point": "Use the verbal noun in -ndum in the cases the infinitive cannot supply",
+   "requires": [
+    "lat-06-14"
+   ],
+   "introduces": [
+    "gerund"
+   ]
+  },
+  {
+   "id": "lat-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "gerundive",
+   "title": "The gerundive: what must be done",
+   "point": "Express obligation with the gerundive and the dative of the agent, and read gerundive phrases",
+   "requires": [
+    "lat-07-01"
+   ],
+   "introduces": [
+    "gerundive"
+   ]
+  },
+  {
+   "id": "lat-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "supine",
+   "title": "The supine",
+   "point": "Read the two fossil verbal nouns in -um and -ū",
+   "requires": [
+    "lat-07-02"
+   ],
+   "introduces": [
+    "supine"
+   ]
+  },
+  {
+   "id": "lat-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "impersonal-verbs",
+   "title": "Impersonal verbs and the impersonal passive",
+   "point": "Use licet, oportet, pudet and read pugnātur as there is fighting",
+   "requires": [
+    "lat-07-03"
+   ],
+   "introduces": [
+    "impersonals"
+   ]
+  },
+  {
+   "id": "lat-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "extended-reported-speech",
+   "title": "Extended reported speech",
+   "point": "Follow a whole speech reported in ōrātiō oblīqua, with its clauses, commands and questions",
+   "requires": [
+    "lat-07-04"
+   ],
+   "introduces": [
+    "oratio-obliqua"
+   ]
+  },
+  {
+   "id": "lat-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "word-order-as-style",
+   "title": "Word order as style",
+   "point": "Read separated phrases, framed clauses and the periodic sentence",
+   "requires": [
+    "lat-07-05"
+   ],
+   "introduces": [
+    "hyperbaton"
+   ]
+  },
+  {
+   "id": "lat-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "metre-hexameter",
+   "title": "Poetry I: quantity, elision and the hexameter",
+   "point": "Scan a line of Vergil",
+   "requires": [
+    "lat-07-06"
+   ],
+   "introduces": [
+    "metre",
+    "elision"
+   ]
+  },
+  {
+   "id": "lat-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "elegiac-and-poetic-forms",
+   "title": "Poetry II: the elegiac couplet and poetic grammar",
+   "point": "Scan a couplet and recognise the forms and constructions poets prefer",
+   "requires": [
+    "lat-07-07"
+   ],
+   "introduces": [
+    "poetic-forms"
+   ]
+  },
+  {
+   "id": "lat-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "word-formation",
+   "title": "Word formation",
+   "point": "Work out an unknown word from its root and suffix",
+   "requires": [
+    "lat-07-08"
+   ],
+   "introduces": [
+    "word-formation"
+   ]
+  },
+  {
+   "id": "lat-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "names-dates-numerals",
+   "title": "Names, dates and Roman numerals",
+   "point": "Read a Roman name, a Roman date and a number written in numerals",
+   "requires": [
+    "lat-07-09"
+   ],
+   "introduces": [
+    "calendar"
+   ]
+  },
+  {
+   "id": "lat-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "early-and-colloquial-latin",
+   "title": "Early and colloquial Latin",
+   "point": "Recognise the archaic forms of Plautus and old inscriptions, and the signs of everyday speech",
+   "requires": [
+    "lat-07-10"
+   ],
+   "introduces": [
+    "archaic-latin"
+   ]
+  },
+  {
+   "id": "lat-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "late-and-medieval-latin",
+   "title": "After the classics: late, church and medieval Latin",
+   "point": "Adjust your classical Latin to read the Vulgate and medieval documents",
+   "requires": [
+    "lat-07-11"
+   ],
+   "introduces": [
+    "medieval-latin"
+   ]
+  },
+  {
+   "id": "lat-07-13",
+   "part": 7,
+   "order": 13,
+   "slug": "inscriptions-and-manuscripts",
+   "title": "Inscriptions and manuscripts",
+   "point": "Expand the common abbreviations of stone and parchment and read an edited text's signs",
+   "requires": [
+    "lat-07-12"
+   ],
+   "introduces": [
+    "epigraphy"
+   ]
+  },
+  {
+   "id": "lat-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "reading-pompeii",
+   "title": "Reading 1: voices from the walls of Pompeii",
+   "point": "Read real graffiti and short inscriptions",
+   "requires": [
+    "lat-07-13"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "reading-vulgate",
+   "title": "Reading 2: the Vulgate, Genesis 1.1–5",
+   "point": "Read a plain late-Latin narrative",
+   "requires": [
+    "lat-08-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "reading-caesar",
+   "title": "Reading 3: Caesar, Gallic War 1.1",
+   "point": "Read the opening of the most famous piece of plain classical prose",
+   "requires": [
+    "lat-08-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "reading-catullus",
+   "title": "Reading 4: Catullus 85 and 5",
+   "point": "Read two short poems and scan them",
+   "requires": [
+    "lat-08-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "reading-phaedrus",
+   "title": "Reading 5: Phaedrus, The Wolf and the Lamb",
+   "point": "Read a verse fable",
+   "requires": [
+    "lat-08-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "reading-cicero",
+   "title": "Reading 6: Cicero, Against Catiline 1.1–2",
+   "point": "Read oratory at full pressure",
+   "requires": [
+    "lat-08-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-07",
+   "part": 8,
+   "order": 7,
+   "slug": "reading-vergil",
+   "title": "Reading 7: Vergil, Aeneid 1.1–11",
+   "point": "Read the opening of the Aeneid",
+   "requires": [
+    "lat-08-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-08-08",
+   "part": 8,
+   "order": 8,
+   "slug": "reading-magna-carta",
+   "title": "Reading 8: Magna Carta, clauses 39 and 40",
+   "point": "Read medieval legal Latin from a document",
+   "requires": [
+    "lat-08-07"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "lat-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "tables-nouns-adjectives-pronouns",
+   "title": "Tables: nouns, adjectives and pronouns",
+   "point": "Look up any nominal ending",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "lat-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "tables-verbs",
+   "title": "Tables: verbs",
+   "point": "Look up any verb form",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "lat-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "glossary",
+   "title": "Glossary of terms and abbreviations",
+   "point": "Look up any technical term or gloss abbreviation used in the guide",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "lat-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "bibliography",
+   "title": "Annotated bibliography",
+   "point": "Know what each source is and where to go next",
+   "requires": [],
+   "introduces": []
+  }
+ ]
+}

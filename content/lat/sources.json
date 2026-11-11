@@ -1,0 +1,135 @@
+{
+ "sources": [
+  {
+   "id": "ag1903",
+   "citation": "Allen, J. H. and Greenough, J. B. (1903). Allen and Greenough's New Latin Grammar for Schools and Colleges. Boston: Ginn. Digital edition ed. M. Ayer, Dickinson College Commentaries, 2014.",
+   "url": "https://dcc.dickinson.edu/allen-greenough/",
+   "used_for": "Standard reference grammar in English: forms, syntax, section numbers cited in lessons.",
+   "access": "Public domain; open online. Topic-to-page index in ag-index.tsv."
+  },
+  {
+   "id": "bennett1918",
+   "citation": "Bennett, C. E. (1918). New Latin Grammar. 3rd ed. Boston: Allyn and Bacon.",
+   "url": "https://www.gutenberg.org/ebooks/15665",
+   "used_for": "Second reference grammar; paradigms in plain text for checking forms.",
+   "access": "Public domain; Project Gutenberg ebook 15665."
+  },
+  {
+   "id": "gl1895",
+   "citation": "Gildersleeve, B. L. and Lodge, G. (1895). Gildersleeve's Latin Grammar. 3rd ed. London: Macmillan.",
+   "used_for": "Syntax in detail, with many cited examples.",
+   "access": "Public domain; scans on archive.org."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Latin entries and inflection tables.",
+   "url": "https://en.wiktionary.org/",
+   "used_for": "Checking individual inflected forms, vowel lengths, meanings and etymologies (which cite de Vaan 2008).",
+   "access": "Open (CC BY-SA). Query with tools/wikt.py."
+  },
+  {
+   "id": "lewisshort",
+   "citation": "Lewis, C. T. and Short, C. (1879). A Latin Dictionary. Oxford: Clarendon Press.",
+   "url": "https://logeion.uchicago.edu/",
+   "used_for": "Meanings, principal parts, usage with citations.",
+   "access": "Public domain; searchable through Logeion."
+  },
+  {
+   "id": "dcccore",
+   "citation": "Francese, C. (2012). Latin Core Vocabulary. Dickinson College Commentaries.",
+   "url": "https://dcc.dickinson.edu/latin-core-list1",
+   "used_for": "Frequency ranking used to choose which words to teach. Working copy in core-list.tsv (not shipped in the app).",
+   "access": "Open (CC BY-SA)."
+  },
+  {
+   "id": "allen1978",
+   "citation": "Allen, W. S. (1978). Vox Latina: A Guide to the Pronunciation of Classical Latin. 2nd ed. Cambridge University Press.",
+   "used_for": "Authority for the restored pronunciation, syllable weight and stress.",
+   "access": "In copyright; consulted through recall and secondary summaries, so pronunciation claims are checked against ag1903 and wiktionary where they overlap."
+  },
+  {
+   "id": "weiss2020",
+   "citation": "Weiss, M. (2020). Outline of the Historical and Comparative Grammar of Latin. 2nd ed. Ann Arbor: Beech Stave Press.",
+   "used_for": "Authority for the history of sounds and forms (the why behind endings).",
+   "access": "In copyright; not openly online. Historical claims resting on it alone are labelled as from recall until checked against an open source."
+  },
+  {
+   "id": "sihler1995",
+   "citation": "Sihler, A. L. (1995). New Comparative Grammar of Greek and Latin. Oxford University Press.",
+   "used_for": "Second authority for historical explanations.",
+   "access": "In copyright."
+  },
+  {
+   "id": "devaan2008",
+   "citation": "de Vaan, M. (2008). Etymological Dictionary of Latin and the other Italic Languages. Leiden: Brill.",
+   "used_for": "Etymologies of individual words, as reported in Wiktionary etymology sections.",
+   "access": "In copyright; cited via wiktionary."
+  },
+  {
+   "id": "pinkster2015",
+   "citation": "Pinkster, H. (2015, 2021). The Oxford Latin Syntax. 2 vols. Oxford University Press.",
+   "used_for": "Modern description of syntax, word order and tense usage; corrective to schoolbook rules.",
+   "access": "In copyright."
+  },
+  {
+   "id": "devine2006",
+   "citation": "Devine, A. M. and Stephens, L. D. (2006). Latin Word Order: Structured Meaning and Information. Oxford University Press.",
+   "used_for": "Word order and its relation to emphasis.",
+   "access": "In copyright."
+  },
+  {
+   "id": "clackson2007",
+   "citation": "Clackson, J. and Horrocks, G. (2007). The Blackwell History of the Latin Language. Oxford: Blackwell.",
+   "used_for": "History of the language from Early to Late Latin; background for parts 0 and 7.",
+   "access": "In copyright."
+  },
+  {
+   "id": "thelatinlibrary",
+   "citation": "The Latin Library (ed. W. L. Carey).",
+   "url": "https://www.thelatinlibrary.com/",
+   "used_for": "Plain texts of classical and later authors, used to locate and check attested sentences.",
+   "access": "Open online."
+  },
+  {
+   "id": "perseus",
+   "citation": "Perseus Digital Library (Tufts University) and the Scaife Viewer.",
+   "url": "https://scaife.perseus.org/",
+   "used_for": "Texts with translations and parsing; second check on quoted passages.",
+   "access": "Open online."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog: Latin (lati1261).",
+   "url": "https://glottolog.org/resource/languoid/id/lati1261",
+   "used_for": "Classification and reference list.",
+   "access": "Open."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M. (eds.) (2013). The World Atlas of Language Structures Online: Latin.",
+   "url": "https://wals.info/languoid/lect/wals_code_lat",
+   "used_for": "Typological feature values for the Compare screen.",
+   "access": "Open."
+  },
+  {
+   "id": "cil",
+   "citation": "Corpus Inscriptionum Latinarum (1863– ). Berlin. Texts via the Epigraphik-Datenbank Clauss-Slaby.",
+   "url": "https://db.edcs.eu/",
+   "used_for": "Inscriptions and graffiti, cited by volume and number.",
+   "access": "Database open online."
+  },
+  {
+   "id": "vulgate",
+   "citation": "Biblia Sacra iuxta Vulgatam versionem (Stuttgart Vulgate, ed. R. Weber and R. Gryson) and the Clementine Vulgate (1592).",
+   "used_for": "Late Latin reading passage.",
+   "access": "Text open online (e.g. The Latin Library)."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2015). The Leipzig Glossing Rules.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and abbreviations.",
+   "access": "Open."
+  }
+ ]
+}

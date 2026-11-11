@@ -107,7 +107,7 @@ Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, enter
 | Syntax of cases | | §§338–435 | §§166–231 |
 | Syntax of moods and tenses | | §§436–593 | §§254–327 |
 
-Section numbers in the ag1903 and bennett1918 columns were written from memory of the books' layout and are **approximate until a verification pass confirms each one**; cite a section in a lesson only after opening it. (Confirmed so far: ag1903 §§40–42, first declension.)
+The ag1903 section numbers were confirmed on 2026-11-11 against the section number each DCC page carries; `ag-index.tsv` now lists topic, sections and URL for all 260 pages, and is the place to look up the exact page before citing a section. (Irregular verbs: sum compounds §§197–198, volō family §199, ferō and edō §§200–201, dō and eō §§202–203, fīō §204.) The bennett1918 numbers were written from memory and are **approximate until a verification pass opens each one**; cite a Bennett section in a lesson only after finding it in the Gutenberg text.
 
 Vocabulary is chosen from `core-list.tsv` (the DCC Latin Core Vocabulary: the 1,000 most frequent lemmas, with rank). Prefer words of rank 1 to 600 in parts 2 to 4. Meanings are checked against wiktionary or lewisshort (via Logeion).
 

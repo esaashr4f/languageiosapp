@@ -21,5 +21,5 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-11: lat: 96 lessons planned (3+5+8+13+18+10+14+13+8 and 4 reference appendices). Parts 4 and 6 run over the "typical" counts because the verb and the subordinate subjunctive need it.
 - 2026-11-11: lat: readings chosen: Pompeii graffiti, Vulgate Genesis 1, Caesar BG 1.1, Catullus 85 and 5, Phaedrus 1.1, Cicero Cat. 1.1–2, Aeneid 1.1–11, Magna Carta 39–40 (medieval, for the owner's manuscript interest).
 - 2026-11-11: lat: DCC core vocabulary list kept as `core-list.tsv` for choosing words by frequency (CC BY-SA; working reference, not shipped in the app).
-- 2026-11-11: lat: Allen and Greenough section numbers in the dossier table were written from recall and are marked approximate; a lesson cites a section only after the page has been opened.
+- 2026-11-11: lat: Allen and Greenough section numbers in the dossier were confirmed against the DCC pages (`ag-index.tsv` carries sections for 252 of 260 pages); Bennett section numbers remain approximate until opened.
 - 2026-11-11: Perseus "hopper" refuses automated requests (403); The Latin Library, Scaife, Logeion and Wiktionary are used instead.

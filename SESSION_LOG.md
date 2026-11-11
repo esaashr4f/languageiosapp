@@ -19,4 +19,4 @@ Appended at the end of each session: what was done, what failed, what to do next
 1. lat: when part 1 lands, review it, set STATUS, then draft part 2, verify part 1, and so on part by part (draft N+1 while verifying N). Paste each verification report into `content/lat/VERIFY.md`.
 2. After each part: `npm run build:reference -- lat`, `npm run stats`, commit, push.
 3. Glossary `terms` in `content/lat/glossary.json` is empty: fill it from the terms each drafter reports defining.
-4. Confirm the Allen and Greenough section numbers in the dossier table against `content/lat/ag-index.tsv` (being filled with section numbers).
+4. Allen and Greenough section numbers are confirmed (`content/lat/ag-index.tsv`). Bennett section numbers in the dossier are still from memory.

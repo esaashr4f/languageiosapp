@@ -55,4 +55,4 @@ Latin distinguishes long vowels from short ones, and builds its word stress and 
 
 ## What you already know
 
-If you read English you already own a large Latin vocabulary. English borrowed Latin words directly (*animal*, *exit*, *via*, *data*) and borrowed thousands more through French. If you know Spanish or French you have a second advantage: most of their core words and much of their verb system are Latin, worn down by fifteen centuries of use. This guide points out those links as they come up. They are shortcuts for memory. They are not a method: Latin grammar has to be learnt on its own terms, and it starts on the next page.
+If you read English you already own a large Latin vocabulary. English borrowed Latin words directly (*focus*, *exit*, *via*, *data*) and borrowed thousands more through French. If you know Spanish or French you have a second advantage: most of their core words and much of their verb system are Latin, worn down by fifteen centuries of use. This guide points out those links as they come up. They are shortcuts for memory. They are not a method: Latin grammar has to be learnt on its own terms, and it starts on the next page.

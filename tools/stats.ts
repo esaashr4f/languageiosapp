@@ -53,7 +53,7 @@ Lessons column: \`verified+drafted/planned\` (v = verified or done, d = drafted 
 
 **Totals:** ${totalDone}/100 guides done, ${totalWords.toLocaleString("en-GB")} words written, ${totalUnverified} open unverified items.
 
-Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 71, then 1 to 58.
+Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 71, then 1 to 58, skipping deferred languages (thin open sources), which come last: nav, gez, nci, hit, txb, onw, myz, tmr, bsk, dbl, wbp, nmn, emy, ett, sux.
 
 | # | Language | ISO | Depth | Stage | Lessons | Words | Unverified | Last session |
 |---|---|---|---|---|---|---|---|---|

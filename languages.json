@@ -126,7 +126,7 @@
    "group": "Major living",
    "script": "Latin",
    "depth": "A",
-   "pilot": 4
+   "pilot": 3
   },
   {
    "number": 16,
@@ -189,7 +189,8 @@
    "group": "Major living",
    "script": "Latin",
    "depth": "A",
-   "iso_note": "Individual-language code; macrolanguage is swa"
+   "iso_note": "Individual-language code; macrolanguage is swa",
+   "pilot": 5
   },
   {
    "number": 23,
@@ -487,7 +488,8 @@
    "group": "Africa",
    "script": "Latin + click symbols",
    "depth": "B",
-   "iso_note": "ISO name: ǃXóõ"
+   "iso_note": "ISO name: ǃXóõ",
+   "deferred": true
   },
   {
    "number": 59,
@@ -541,7 +543,7 @@
    "group": "Americas",
    "script": "Latin",
    "depth": "A",
-   "pilot": 5
+   "deferred": true
   },
   {
    "number": 65,
@@ -583,7 +585,8 @@
    "iso": "bsk",
    "group": "Isolates and unusual",
    "script": "Latin",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 70,
@@ -591,7 +594,8 @@
    "iso": "dbl",
    "group": "Isolates and unusual",
    "script": "Latin",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 71,
@@ -599,7 +603,8 @@
    "iso": "wbp",
    "group": "Isolates and unusual",
    "script": "Latin",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 72,
@@ -625,7 +630,8 @@
    "group": "Dead and classical",
    "script": "Devanagari + IAST",
    "depth": "A",
-   "iso_note": "ISO lists san as a macrolanguage (cls Classical, vsn Vedic); guide teaches Classical"
+   "iso_note": "ISO lists san as a macrolanguage (cls Classical, vsn Vedic); guide teaches Classical",
+   "pilot": 6
   },
   {
    "number": 75,
@@ -692,7 +698,8 @@
    "group": "Dead and classical",
    "script": "Hebrew",
    "depth": "A",
-   "iso_note": "ISO name: Ancient Hebrew"
+   "iso_note": "ISO name: Ancient Hebrew",
+   "pilot": 4
   },
   {
    "number": 83,
@@ -709,7 +716,8 @@
    "group": "Dead and classical",
    "script": "Hebrew square script",
    "depth": "B",
-   "notes": "Built toward reading incantation bowls"
+   "notes": "Built toward reading incantation bowls",
+   "deferred": true
   },
   {
    "number": 85,
@@ -718,7 +726,8 @@
    "group": "Dead and classical",
    "script": "Mandaic",
    "depth": "B",
-   "iso_note": "Classical Mandaic (mid is Neo-Mandaic)"
+   "iso_note": "Classical Mandaic (mid is Neo-Mandaic)",
+   "deferred": true
   },
   {
    "number": 86,
@@ -728,7 +737,7 @@
    "script": "Ethiopic",
    "depth": "A",
    "notes": "Built toward reading magic scrolls",
-   "pilot": 3
+   "deferred": true
   },
   {
    "number": 87,
@@ -746,7 +755,8 @@
    "group": "Dead and classical",
    "script": "Transliteration, cuneiform intro",
    "depth": "B",
-   "notes": "Mark contested analyses"
+   "notes": "Mark contested analyses",
+   "deferred": true
   },
   {
    "number": 89,
@@ -772,7 +782,8 @@
    "iso": "onw",
    "group": "Dead and classical",
    "script": "Old Nubian (Coptic-based)",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 92,
@@ -780,7 +791,8 @@
    "iso": "hit",
    "group": "Dead and classical",
    "script": "Transliteration",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 93,
@@ -790,7 +802,8 @@
    "script": "Glyphs + transliteration",
    "depth": "B",
    "notes": "Teach how the script works, not only the language",
-   "iso_note": "ISO name: Epigraphic Mayan"
+   "iso_note": "ISO name: Epigraphic Mayan",
+   "deferred": true
   },
   {
    "number": 94,
@@ -799,7 +812,7 @@
    "group": "Dead and classical",
    "script": "Latin",
    "depth": "A",
-   "pilot": 6
+   "deferred": true
   },
   {
    "number": 95,
@@ -807,7 +820,8 @@
    "iso": "txb",
    "group": "Dead and classical",
    "script": "Transliteration",
-   "depth": "B"
+   "depth": "B",
+   "deferred": true
   },
   {
    "number": 96,
@@ -816,7 +830,8 @@
    "group": "Dead and classical",
    "script": "Etruscan + Latin",
    "depth": "C",
-   "notes": "Known vs guessed, stated on every page"
+   "notes": "Known vs guessed, stated on every page",
+   "deferred": true
   },
   {
    "number": 97,
@@ -852,5 +867,6 @@
    "script": "Tibetan + Wylie",
    "depth": "A"
   }
- ]
+ ],
+ "writing_order_note": "Pilot (pilot field), then 72-100, then 59-71, then 1-58, skipping deferred languages; deferred languages (thin open sources) come last, when the owner can supply textbooks."
 }

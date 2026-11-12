@@ -6,7 +6,7 @@ Lessons column: `verified+drafted/planned` (v = verified or done, d = drafted an
 
 **Totals:** 0/100 guides done, 7,540 words written, 0 open unverified items.
 
-Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 71, then 1 to 58.
+Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 71, then 1 to 58, skipping deferred languages (thin open sources), which come last: nav, gez, nci, hit, txb, onw, myz, tmr, bsk, dbl, wbp, nmn, emy, ett, sux.
 
 | # | Language | ISO | Depth | Stage | Lessons | Words | Unverified | Last session |
 |---|---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 19 | Indonesian | `ind` | A | not started | 0/0 | 0 | 0 |  |
 | 20 | Vietnamese | `vie` | A | not started | 0/0 | 0 | 0 |  |
 | 21 | Thai | `tha` | A | not started | 0/0 | 0 | 0 |  |
-| 22 | Swahili | `swh` | A | not started | 0/0 | 0 | 0 |  |
+| 22 | Swahili (pilot) | `swh` | A | not started | 0/0 | 0 | 0 |  |
 | 23 | Basque | `eus` | A | not started | 0/0 | 0 | 0 |  |
 | 24 | Welsh | `cym` | A | not started | 0/0 | 0 | 0 |  |
 | 25 | Irish | `gle` | A | not started | 0/0 | 0 | 0 |  |
@@ -43,7 +43,7 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 31 | Romanian | `ron` | A | not started | 0/0 | 0 | 0 |  |
 | 32 | Serbo-Croatian | `hbs` | A | not started | 0/0 | 0 | 0 |  |
 | 33 | Maltese | `mlt` | A | not started | 0/0 | 0 | 0 |  |
-| 34 | Georgian (pilot) | `kat` | A | not started | 0/0 | 0 | 0 |  |
+| 34 | Georgian (pilot) | `kat` | A | syllabus | 0v+0d/100 | 0 | 0 | 2026-11-12 |
 | 35 | Armenian (Eastern) | `hye` | A | not started | 0/0 | 0 | 0 |  |
 | 36 | Chechen | `che` | B | not started | 0/0 | 0 | 0 |  |
 | 37 | Kazakh | `kaz` | A | not started | 0/0 | 0 | 0 |  |
@@ -73,7 +73,7 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 61 | Yucatec Maya | `yua` | A | not started | 0/0 | 0 | 0 |  |
 | 62 | K'iche' | `quc` | A | not started | 0/0 | 0 | 0 |  |
 | 63 | Lakota | `lkt` | A | not started | 0/0 | 0 | 0 |  |
-| 64 | Navajo (pilot) | `nav` | A | not started | 0/0 | 0 | 0 |  |
+| 64 | Navajo | `nav` | A | not started | 0/0 | 0 | 0 |  |
 | 65 | Cherokee | `chr` | A | not started | 0/0 | 0 | 0 |  |
 | 66 | Greenlandic (Kalaallisut) | `kal` | A | not started | 0/0 | 0 | 0 |  |
 | 67 | Mapudungun | `arn` | B | not started | 0/0 | 0 | 0 |  |
@@ -83,7 +83,7 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 71 | Warlpiri | `wbp` | B | not started | 0/0 | 0 | 0 |  |
 | 72 | Latin (pilot) | `lat` | A | draft | 3v+5d/96 | 7,540 | 0 | 2026-11-12 |
 | 73 | Ancient Greek (Attic) | `grc` | A | not started | 0/0 | 0 | 0 |  |
-| 74 | Sanskrit | `san` | A | not started | 0/0 | 0 | 0 |  |
+| 74 | Sanskrit (pilot) | `san` | A | not started | 0/0 | 0 | 0 |  |
 | 75 | Pali | `pli` | A | not started | 0/0 | 0 | 0 |  |
 | 76 | Classical Chinese | `lzh` | A | not started | 0/0 | 0 | 0 |  |
 | 77 | Old English | `ang` | A | not started | 0/0 | 0 | 0 |  |
@@ -91,11 +91,11 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 79 | Gothic | `got` | A | not started | 0/0 | 0 | 0 |  |
 | 80 | Old Irish | `sga` | A | not started | 0/0 | 0 | 0 |  |
 | 81 | Old Church Slavonic | `chu` | A | not started | 0/0 | 0 | 0 |  |
-| 82 | Biblical Hebrew | `hbo` | A | not started | 0/0 | 0 | 0 |  |
+| 82 | Biblical Hebrew (pilot) | `hbo` | A | not started | 0/0 | 0 | 0 |  |
 | 83 | Classical Syriac | `syc` | A | not started | 0/0 | 0 | 0 |  |
 | 84 | Jewish Babylonian Aramaic | `tmr` | B | not started | 0/0 | 0 | 0 |  |
 | 85 | Mandaic | `myz` | B | not started | 0/0 | 0 | 0 |  |
-| 86 | Ge'ez (pilot) | `gez` | A | not started | 0/0 | 0 | 0 |  |
+| 86 | Ge'ez | `gez` | A | not started | 0/0 | 0 | 0 |  |
 | 87 | Akkadian | `akk` | A | not started | 0/0 | 0 | 0 |  |
 | 88 | Sumerian | `sux` | B | not started | 0/0 | 0 | 0 |  |
 | 89 | Middle Egyptian | `egy` | A | not started | 0/0 | 0 | 0 |  |
@@ -103,7 +103,7 @@ Writing order: pilot (lat, kat, gez, tur, nav, nci), then 72 to 100, then 59 to 
 | 91 | Old Nubian | `onw` | B | not started | 0/0 | 0 | 0 |  |
 | 92 | Hittite | `hit` | B | not started | 0/0 | 0 | 0 |  |
 | 93 | Classical Maya | `emy` | B | not started | 0/0 | 0 | 0 |  |
-| 94 | Classical Nahuatl (pilot) | `nci` | A | not started | 0/0 | 0 | 0 |  |
+| 94 | Classical Nahuatl | `nci` | A | not started | 0/0 | 0 | 0 |  |
 | 95 | Tocharian B | `txb` | B | not started | 0/0 | 0 | 0 |  |
 | 96 | Etruscan | `ett` | C | not started | 0/0 | 0 | 0 |  |
 | 97 | Ottoman Turkish | `ota` | A | not started | 0/0 | 0 | 0 |  |

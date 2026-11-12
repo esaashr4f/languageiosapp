@@ -27,3 +27,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: lat: part 1 single-word examples are glossed by meaning only, labelled verified against wiktionary; orig may show an inscriptional spelling (IVLIVS) with the guide's spelling in morphemes.
 - 2026-11-12: Glossary `terms` are kept by the main agent from drafters' reports, each noting the lesson that defines it.
 - 2026-11-12: Owner may supply copyrighted grammars; they go in `private-sources/` (git-ignored, never pushed), used only to check forms and explanations, cited in sources.json, never copied.
+- 2026-11-12: Owner asked to leave thin-source languages for last. Deferred: nav, gez, nci, hit, txb, onw, myz, tmr, bsk, dbl, wbp, nmn, emy, ett, sux. Pilot now lat, kat, tur, hbo, swh, san (hbo for gez, swh for nav, san for nci, each testing the same template stress). Recorded in BRIEF.md Amendments and languages.json.

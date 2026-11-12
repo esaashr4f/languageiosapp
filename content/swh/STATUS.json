@@ -1,0 +1,298 @@
+{
+ "lessons": {
+  "swh-00-01": {
+   "state": "planned"
+  },
+  "swh-00-02": {
+   "state": "planned"
+  },
+  "swh-00-03": {
+   "state": "planned"
+  },
+  "swh-01-01": {
+   "state": "planned"
+  },
+  "swh-01-02": {
+   "state": "planned"
+  },
+  "swh-01-03": {
+   "state": "planned"
+  },
+  "swh-01-04": {
+   "state": "planned"
+  },
+  "swh-01-05": {
+   "state": "planned"
+  },
+  "swh-01-06": {
+   "state": "planned"
+  },
+  "swh-02-01": {
+   "state": "planned"
+  },
+  "swh-02-02": {
+   "state": "planned"
+  },
+  "swh-02-03": {
+   "state": "planned"
+  },
+  "swh-02-04": {
+   "state": "planned"
+  },
+  "swh-02-05": {
+   "state": "planned"
+  },
+  "swh-02-06": {
+   "state": "planned"
+  },
+  "swh-02-07": {
+   "state": "planned"
+  },
+  "swh-02-08": {
+   "state": "planned"
+  },
+  "swh-03-01": {
+   "state": "planned"
+  },
+  "swh-03-02": {
+   "state": "planned"
+  },
+  "swh-03-03": {
+   "state": "planned"
+  },
+  "swh-03-04": {
+   "state": "planned"
+  },
+  "swh-03-05": {
+   "state": "planned"
+  },
+  "swh-03-06": {
+   "state": "planned"
+  },
+  "swh-03-07": {
+   "state": "planned"
+  },
+  "swh-03-08": {
+   "state": "planned"
+  },
+  "swh-03-09": {
+   "state": "planned"
+  },
+  "swh-03-10": {
+   "state": "planned"
+  },
+  "swh-03-11": {
+   "state": "planned"
+  },
+  "swh-03-12": {
+   "state": "planned"
+  },
+  "swh-03-13": {
+   "state": "planned"
+  },
+  "swh-03-14": {
+   "state": "planned"
+  },
+  "swh-04-01": {
+   "state": "planned"
+  },
+  "swh-04-02": {
+   "state": "planned"
+  },
+  "swh-04-03": {
+   "state": "planned"
+  },
+  "swh-04-04": {
+   "state": "planned"
+  },
+  "swh-04-05": {
+   "state": "planned"
+  },
+  "swh-04-06": {
+   "state": "planned"
+  },
+  "swh-04-07": {
+   "state": "planned"
+  },
+  "swh-04-08": {
+   "state": "planned"
+  },
+  "swh-04-09": {
+   "state": "planned"
+  },
+  "swh-04-10": {
+   "state": "planned"
+  },
+  "swh-04-11": {
+   "state": "planned"
+  },
+  "swh-04-12": {
+   "state": "planned"
+  },
+  "swh-04-13": {
+   "state": "planned"
+  },
+  "swh-04-14": {
+   "state": "planned"
+  },
+  "swh-04-15": {
+   "state": "planned"
+  },
+  "swh-04-16": {
+   "state": "planned"
+  },
+  "swh-04-17": {
+   "state": "planned"
+  },
+  "swh-05-01": {
+   "state": "planned"
+  },
+  "swh-05-02": {
+   "state": "planned"
+  },
+  "swh-05-03": {
+   "state": "planned"
+  },
+  "swh-05-04": {
+   "state": "planned"
+  },
+  "swh-05-05": {
+   "state": "planned"
+  },
+  "swh-05-06": {
+   "state": "planned"
+  },
+  "swh-05-07": {
+   "state": "planned"
+  },
+  "swh-05-08": {
+   "state": "planned"
+  },
+  "swh-05-09": {
+   "state": "planned"
+  },
+  "swh-05-10": {
+   "state": "planned"
+  },
+  "swh-05-11": {
+   "state": "planned"
+  },
+  "swh-06-01": {
+   "state": "planned"
+  },
+  "swh-06-02": {
+   "state": "planned"
+  },
+  "swh-06-03": {
+   "state": "planned"
+  },
+  "swh-06-04": {
+   "state": "planned"
+  },
+  "swh-06-05": {
+   "state": "planned"
+  },
+  "swh-06-06": {
+   "state": "planned"
+  },
+  "swh-06-07": {
+   "state": "planned"
+  },
+  "swh-06-08": {
+   "state": "planned"
+  },
+  "swh-06-09": {
+   "state": "planned"
+  },
+  "swh-06-10": {
+   "state": "planned"
+  },
+  "swh-06-11": {
+   "state": "planned"
+  },
+  "swh-06-12": {
+   "state": "planned"
+  },
+  "swh-06-13": {
+   "state": "planned"
+  },
+  "swh-06-14": {
+   "state": "planned"
+  },
+  "swh-07-01": {
+   "state": "planned"
+  },
+  "swh-07-02": {
+   "state": "planned"
+  },
+  "swh-07-03": {
+   "state": "planned"
+  },
+  "swh-07-04": {
+   "state": "planned"
+  },
+  "swh-07-05": {
+   "state": "planned"
+  },
+  "swh-07-06": {
+   "state": "planned"
+  },
+  "swh-07-07": {
+   "state": "planned"
+  },
+  "swh-07-08": {
+   "state": "planned"
+  },
+  "swh-07-09": {
+   "state": "planned"
+  },
+  "swh-07-10": {
+   "state": "planned"
+  },
+  "swh-07-11": {
+   "state": "planned"
+  },
+  "swh-07-12": {
+   "state": "planned"
+  },
+  "swh-07-13": {
+   "state": "planned"
+  },
+  "swh-07-14": {
+   "state": "planned"
+  },
+  "swh-08-01": {
+   "state": "planned"
+  },
+  "swh-08-02": {
+   "state": "planned"
+  },
+  "swh-08-03": {
+   "state": "planned"
+  },
+  "swh-08-04": {
+   "state": "planned"
+  },
+  "swh-08-05": {
+   "state": "planned"
+  },
+  "swh-08-06": {
+   "state": "planned"
+  },
+  "swh-09-01": {
+   "state": "planned"
+  },
+  "swh-09-02": {
+   "state": "planned"
+  },
+  "swh-09-03": {
+   "state": "planned"
+  },
+  "swh-09-04": {
+   "state": "planned"
+  },
+  "swh-09-05": {
+   "state": "planned"
+  }
+ }
+}

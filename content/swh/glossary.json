@@ -1,0 +1,270 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we",
+   "tag": "personal-pronouns"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person or people spoken to: you",
+   "tag": "personal-pronouns"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "someone else: he, she, they (only on the independent pronouns yeye and wao; on verbs, third persons are glossed by class, C1 and C2)",
+   "tag": "personal-pronouns"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "personal-pronouns"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one; on commands and object forms, the -ni that adds 'you all'",
+   "tag": "personal-pronouns"
+  },
+  "COP": {
+   "name": "copula",
+   "plain": "the linking word ni: 'is, are, am', the same for every person",
+   "tag": "copula"
+  },
+  "NEG": {
+   "name": "negative",
+   "plain": "marks 'not': the copula si, the ha- of negative verbs, the final -i of the negative present and the -si- of negative subjunctives, relatives and conditions",
+   "tag": "copula"
+  },
+  "C1": {
+   "name": "class 1",
+   "plain": "the singular class of people (m-/mw-: mtu 'person'); as a verb prefix, 'he' or 'she'",
+   "tag": "class-1-2"
+  },
+  "C2": {
+   "name": "class 2",
+   "plain": "the plural class of people (wa-: watu 'people'); as a verb prefix, 'they'",
+   "tag": "class-1-2"
+  },
+  "SM": {
+   "name": "subject marker",
+   "plain": "the prefix at the front of a verb that says who or what the subject is (ni-, u-, a-, ki-, zi- ...)",
+   "tag": "subject-prefix"
+  },
+  "PRS": {
+   "name": "present",
+   "plain": "the -na- tense: happening now, or generally",
+   "tag": "present-na"
+  },
+  "FV": {
+   "name": "final vowel",
+   "plain": "the last slot of a Bantu verb, normally -a; it changes to -e for the subjunctive and -i for the negative present",
+   "tag": "final-vowel"
+  },
+  "INF": {
+   "name": "infinitive",
+   "plain": "the ku- form that names the action: kusoma 'to read, reading'",
+   "tag": "infinitive-citation"
+  },
+  "Q": {
+   "name": "question particle",
+   "plain": "je, the word that announces a question",
+   "tag": "yes-no-question"
+  },
+  "C16": {
+   "name": "class 16",
+   "plain": "the pa- place class: a definite spot, 'at, on' (hapa 'here', mahali 'place')",
+   "tag": "locative-be"
+  },
+  "C17": {
+   "name": "class 17",
+   "plain": "the ku- place class: a general area or a direction, 'around, to, from' (huku, kule)",
+   "tag": "locative-be"
+  },
+  "C18": {
+   "name": "class 18",
+   "plain": "the mu- place class: inside, 'in, within' (humu, mle)",
+   "tag": "locative-be"
+  },
+  "IMP": {
+   "name": "imperative",
+   "plain": "the command form",
+   "tag": "imperative"
+  },
+  "C7": {
+   "name": "class 7",
+   "plain": "the singular ki- class (kitabu 'book'): many objects, tools, languages, diminutives",
+   "tag": "class-7-8"
+  },
+  "C8": {
+   "name": "class 8",
+   "plain": "the plural vi- class (vitabu 'books'), plural of class 7",
+   "tag": "class-7-8"
+  },
+  "C3": {
+   "name": "class 3",
+   "plain": "the singular m- class of trees, plants, body parts and natural forces (mti 'tree')",
+   "tag": "class-3-4"
+  },
+  "C4": {
+   "name": "class 4",
+   "plain": "the plural mi- class (miti 'trees'), plural of class 3",
+   "tag": "class-3-4"
+  },
+  "C5": {
+   "name": "class 5",
+   "plain": "the singular ji- class, often with no visible prefix (jicho 'eye', gari 'car')",
+   "tag": "class-5-6"
+  },
+  "C6": {
+   "name": "class 6",
+   "plain": "the ma- class: plural of class 5, and liquids and masses (maji 'water')",
+   "tag": "class-5-6"
+  },
+  "C9": {
+   "name": "class 9",
+   "plain": "the singular nasal class, often with no visible prefix (nyumba 'house', meza 'table')",
+   "tag": "class-9-10"
+  },
+  "C10": {
+   "name": "class 10",
+   "plain": "the plural of classes 9 and 11, usually looking the same as class 9 (nyumba 'houses')",
+   "tag": "class-9-10"
+  },
+  "C11": {
+   "name": "class 11",
+   "plain": "the singular u- class of long or flat things (ukuta 'wall'), plural in class 10",
+   "tag": "class-11-14"
+  },
+  "C14": {
+   "name": "class 14",
+   "plain": "the u- class of abstract nouns (uhuru 'freedom', utoto 'childhood')",
+   "tag": "class-11-14"
+  },
+  "ANA": {
+   "name": "anaphoric demonstrative",
+   "plain": "the -o demonstrative (huyo, hicho): 'that one just mentioned', or something near the listener",
+   "tag": "demonstrative"
+  },
+  "LOC": {
+   "name": "locative",
+   "plain": "the suffix -ni that turns a noun into a place: nyumbani 'at home'",
+   "tag": "locative-class"
+  },
+  "PST": {
+   "name": "past",
+   "plain": "the -li- tense: it happened",
+   "tag": "past"
+  },
+  "FUT": {
+   "name": "future",
+   "plain": "the -ta- tense: it will happen",
+   "tag": "future"
+  },
+  "KU": {
+   "name": "ku of short verbs",
+   "plain": "the syllable ku kept by two-syllable verbs (kula, kunywa) after tense markers that cannot carry the stress",
+   "tag": "short-verb-ku"
+  },
+  "PRF": {
+   "name": "perfect",
+   "plain": "the -me- tense: it has happened and the result still holds; with NEG, the -ja- of 'not yet'",
+   "tag": "perfect"
+  },
+  "OM": {
+   "name": "object marker",
+   "plain": "the prefix just before the verb root that says who or what the object is (-ni- 'me', -ki- 'it, class 7')",
+   "tag": "object-prefix"
+  },
+  "REFL": {
+   "name": "reflexive",
+   "plain": "the object prefix -ji-: 'myself, yourself, himself...'",
+   "tag": "reflexive"
+  },
+  "SBJV": {
+   "name": "subjunctive",
+   "plain": "the form with final -e: 'let me, that you should, so that'",
+   "tag": "subjunctive"
+  },
+  "C15": {
+   "name": "class 15",
+   "plain": "the ku- class of infinitives used as nouns (kusoma 'reading')",
+   "tag": "class-15"
+  },
+  "HAB": {
+   "name": "habitual",
+   "plain": "the prefix hu- of what usually or always happens; it takes no subject prefix",
+   "tag": "habitual"
+  },
+  "SIT": {
+   "name": "situational",
+   "plain": "the -ki- tense of background situations: 'while, if, when'",
+   "tag": "situational"
+  },
+  "CONS": {
+   "name": "consecutive",
+   "plain": "the -ka- tense of the next event in a story: 'and then'",
+   "tag": "consecutive"
+  },
+  "ANT": {
+   "name": "anterior",
+   "plain": "the -sha- of 'already' (nimeshakula 'I have already eaten')",
+   "tag": "anterior"
+  },
+  "REL": {
+   "name": "relative",
+   "plain": "the 'o of reference' (-ye-, -cho-, -po- ...) or amba- that makes a 'who, which, where, when' clause",
+   "tag": "relative"
+  },
+  "FOC": {
+   "name": "focus",
+   "plain": "the ndi- of 'it is X (and no one else)': ndiye, ndicho",
+   "tag": "focus"
+  },
+  "COND": {
+   "name": "conditional",
+   "plain": "the -nge- of 'would' in hypothetical sentences",
+   "tag": "conditional-irrealis"
+  },
+  "CTRF": {
+   "name": "counterfactual",
+   "plain": "the -ngali- of 'would have' for things that did not happen",
+   "tag": "conditional-irrealis"
+  },
+  "APPL": {
+   "name": "applicative",
+   "plain": "the verb suffix -i-/-e- (-li-/-le-) that adds 'for, to, at, about': -nunulia 'buy for'",
+   "tag": "applicative"
+  },
+  "PASS": {
+   "name": "passive",
+   "plain": "the verb suffix -w- (-iw-, -liw-...) that makes the object the subject: 'is done'",
+   "tag": "passive"
+  },
+  "CAUS": {
+   "name": "causative",
+   "plain": "the verb suffix -ish-/-esh- or -iz-/-ez- that means 'make do, cause': -somesha 'teach'",
+   "tag": "causative"
+  },
+  "STAT": {
+   "name": "stative",
+   "plain": "the verb suffix -ik-/-ek- of a change with no agent, or of possibility: -vunjika 'get broken'",
+   "tag": "stative"
+  },
+  "RECP": {
+   "name": "reciprocal",
+   "plain": "the verb suffix -an- 'each other': -pendana 'love each other'",
+   "tag": "reciprocal"
+  },
+  "REV": {
+   "name": "reversive",
+   "plain": "the verb suffix -u-/-o- that undoes the action: -fungua 'open' from -funga 'shut'",
+   "tag": "reversive"
+  },
+  "GNO": {
+   "name": "gnomic",
+   "plain": "the -a- tense (nasoma, twaenda): a general or timeless present, now mostly written",
+   "tag": "gnomic"
+  }
+ },
+ "terms": {}
+}

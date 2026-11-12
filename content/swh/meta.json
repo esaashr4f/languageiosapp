@@ -1,0 +1,44 @@
+{
+ "name": "Swahili",
+ "endonym": "Kiswahili",
+ "iso": "swh",
+ "number": 22,
+ "family": "Atlantic-Congo, Bantu (Northeast Coastal Bantu, Sabaki)",
+ "region": "The East African coast and islands (Tanzania, Kenya); a second language across Tanzania, Kenya, Uganda, eastern DR Congo, Rwanda and Burundi",
+ "era": "Written in Arabic script from at least the early 18th century (Kilwa letters of 1711, the Utendi wa Tambuka of 1728); in the Latin alphabet since the 19th century; standard form based on Zanzibar Swahili since the 1930s",
+ "status": "living",
+ "scripts": [
+  "Latin"
+ ],
+ "typology": {
+  "word_order": "SVO; subject and object also marked on the verb",
+  "morphology": "agglutinative, mainly prefixing",
+  "alignment": "nominative-accusative (on the verb; nouns have no case)",
+  "tags": [
+   "16 noun classes, numbered 1 to 18 (no 12 or 13)",
+   "agreement on verbs, adjectives, possessives and demonstratives",
+   "verb template of fixed slots",
+   "verb extensions (applicative, causative, passive, stative, reciprocal)",
+   "pro-drop",
+   "no tone",
+   "penultimate stress",
+   "no articles",
+   "many Arabic loanwords"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": true,
+ "organising_idea": "Every noun belongs to a class marked by its prefix, and that class is echoed on every word that agrees with it: adjective, possessive, demonstrative and verb. The verb itself is a row of slots in a fixed order (subject, tense, relative, object, root, extensions, final vowel), so building a sentence means choosing a filler for each slot.",
+ "hook": "In Swahili a sentence chimes: Kitabu kikubwa kilianguka, 'the big book fell', repeats ki- because kitabu is a ki- noun, and every word that refers to it says so. Learn the sixteen classes and the seven slots of the verb, and one word like nilipokupikia, 'when I cooked for you', unfolds piece by piece. Swahili is spoken by tens of millions across East Africa, from the Zanzibar coast where it was born to the Congo, and carries a written tradition of three centuries.",
+ "difficulty": "Pronunciation and spelling are easy for an English speaker: five vowels, few surprises, no tones, stress almost always on the second-to-last syllable. The work is the class system, which reaches into every sentence, and the verb, where one word holds subject, tense, object and voice. There is almost no cognate vocabulary with European languages apart from Arabic and English loans, so words take time. The system is regular: once the slots are learnt, very little is irregular.",
+ "sample": {
+  "orig": "Penye nia pana njia.",
+  "morphemes": "p-enye nia pa-na njia",
+  "gloss": "C16-having intention C16.SM-with path",
+  "literal": "(A place) having intention, (there) there is a path.",
+  "translation": "Where there is a will, there is a way.",
+  "note": "A proverb. The p- of penye and the pa- of pana are both the place class 16: the agreement links the two halves.",
+  "source": "Swahili proverb (methali); wiktionary, entry 'penye nia pana njia'",
+  "confidence": "attested"
+ }
+}

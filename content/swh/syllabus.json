@@ -1,0 +1,1420 @@
+{
+ "lang": "swh",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Swahili is and which Swahili this guide teaches, the idea that runs through its grammar (noun classes and agreement, and the verb as a template of slots), and how to read the guide."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and spelling",
+   "summary": "Five vowels and open syllables, the consonants and digraphs, prenasalised consonants and ng', the Arabic-derived sounds, penultimate stress, and what happens when a prefix meets a vowel."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "People nouns and the copula ni, the first verb (subject prefix, -na-, root, final vowel), the negative present, yes-no questions, being somewhere, having and 'there is', commands and greetings."
+  },
+  {
+   "part": 3,
+   "title": "Noun classes and agreement",
+   "summary": "The class system pair by pair, each with its agreement on verbs and adjectives; animate agreement; possessives; the -a of association; demonstratives; locative classes; pronouns and word order; the full agreement map."
+  },
+  {
+   "part": 4,
+   "title": "The verb template",
+   "summary": "The slots of the verb, the tenses (-li-, -ta-, -me-, -ja-), short verbs, object prefixes and the reflexive, the subjunctive and its uses, the infinitive, the habitual hu-, -ki-, narrative -ka-, compound tenses, 'already' and 'still', and choosing a tense."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adjective types, -enye and -a phrases, numbers, time and dates, -ote and its relatives, comparison, adverbs, prepositions, conjunctions, question words, and building words by class prefix and derivation."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Relative clauses in all their forms (amba-, the relative infix, object, general and negative relatives, relatives of 'be' and 'have', when/where/how), focus with ndi-, that-clauses and reported speech, purpose, time, conditions, concession and negative polarity."
+  },
+  {
+   "part": 7,
+   "title": "Verb extensions and special topics",
+   "summary": "The extensions slot: applicative, passive, causative, stative, reciprocal, reversive and stacking; the -a- tense and spoken shortcuts; respect and register; varieties, old texts and the standard; loanwords."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Six graded passages: proverbs, a Zanzibar folktale recorded in 1870 (two lessons), the Universal Declaration of Human Rights (Articles 1 and 3 to 5), Swahili Wikipedia on Kiswahili, and a capstone reading of the Tanzanian national anthem, Mungu ibariki Afrika."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "Agreement tables, the verb template chart and verb tables, core vocabulary, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "swh-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-swahili-is",
+   "title": "What Swahili is",
+   "point": "Place Swahili in space, history and family, and know which Swahili this guide teaches",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "swh-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "classes-and-the-verb-template",
+   "title": "The organising idea: noun classes, agreement and the verb template",
+   "point": "See how one noun's class prefix echoes through a whole sentence, and how every verb is built from slots in a fixed order",
+   "requires": [
+    "swh-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide",
+   "point": "Read the glosses (class numbers, SM and OM, tense markers), the slot notation and the confidence dots, and know where the facts come from",
+   "requires": [
+    "swh-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "five-vowels-open-syllables",
+   "title": "Five vowels and open syllables",
+   "point": "Pronounce the five vowels and split any word into syllables, including syllabic m and n",
+   "requires": [
+    "swh-00-03"
+   ],
+   "introduces": [
+    "vowels",
+    "syllables"
+   ]
+  },
+  {
+   "id": "swh-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "consonants-and-digraphs",
+   "title": "Consonants and the digraphs ch, sh, ny, ng'",
+   "point": "Pronounce the consonants and read the digraphs, knowing which letters Swahili does not use",
+   "requires": [
+    "swh-01-01"
+   ],
+   "introduces": [
+    "consonants"
+   ]
+  },
+  {
+   "id": "swh-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "prenasalised-consonants",
+   "title": "mb, nd, nj, ng: nasal before consonant",
+   "point": "Say nasal-plus-consonant clusters correctly, know when the nasal is a syllable of its own, and tell ng from ng'",
+   "requires": [
+    "swh-01-02"
+   ],
+   "introduces": [
+    "prenasalised"
+   ]
+  },
+  {
+   "id": "swh-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "arabic-sounds",
+   "title": "Sounds from Arabic: dh, th, gh, kh",
+   "point": "Pronounce the Arabic-derived consonants and recognise the common substitutions you will hear",
+   "requires": [
+    "swh-01-03"
+   ],
+   "introduces": [
+    "arabic-consonants"
+   ]
+  },
+  {
+   "id": "swh-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "penultimate-stress",
+   "title": "Stress on the second-to-last syllable",
+   "point": "Place the stress in any word, see it move as prefixes and suffixes are added, and spot the few exceptions",
+   "requires": [
+    "swh-01-04"
+   ],
+   "introduces": [
+    "stress"
+   ]
+  },
+  {
+   "id": "swh-01-06",
+   "part": 1,
+   "order": 6,
+   "slug": "vowels-meeting",
+   "title": "When a prefix meets a vowel",
+   "point": "Predict mw-, w-, y-, ch-, vy- and merged vowels where a prefix meets a vowel-initial stem, the key to reading agreement prefixes",
+   "requires": [
+    "swh-01-05"
+   ],
+   "introduces": [
+    "coalescence"
+   ]
+  },
+  {
+   "id": "swh-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "people-and-ni",
+   "title": "People: m- and wa-, and saying who someone is with ni",
+   "point": "Say who or what someone is with ni and si, using the personal pronouns and the singular and plural of people nouns",
+   "requires": [
+    "swh-01-06"
+   ],
+   "introduces": [
+    "personal-pronouns",
+    "copula",
+    "class-1-2"
+   ]
+  },
+  {
+   "id": "swh-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "first-verb",
+   "title": "The first verb: subject prefix, -na- and the root",
+   "point": "Build present-tense verbs like ninasoma 'I am reading' for every person, and cite verbs by their ku- form",
+   "requires": [
+    "swh-02-01"
+   ],
+   "introduces": [
+    "subject-prefix",
+    "present-na",
+    "final-vowel",
+    "infinitive-citation"
+   ]
+  },
+  {
+   "id": "swh-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "negative-present",
+   "title": "Saying 'not': the negative present",
+   "point": "Negate present verbs with the negative subject prefixes and the final -i",
+   "requires": [
+    "swh-02-02"
+   ],
+   "introduces": [
+    "negative-present"
+   ]
+  },
+  {
+   "id": "swh-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "yes-no-questions",
+   "title": "Yes-no questions and answers",
+   "point": "Ask yes-no questions with intonation and je, and answer with ndiyo, hapana and la",
+   "requires": [
+    "swh-02-03"
+   ],
+   "introduces": [
+    "yes-no-question"
+   ]
+  },
+  {
+   "id": "swh-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "being-somewhere",
+   "title": "Being somewhere: -po, -ko, -mo",
+   "point": "Say where someone is with nipo, yuko, wamo and their negatives",
+   "requires": [
+    "swh-02-04"
+   ],
+   "introduces": [
+    "locative-be"
+   ]
+  },
+  {
+   "id": "swh-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "having-and-there-is",
+   "title": "Having and 'there is': nina, kuna, hakuna",
+   "point": "Say what someone has and what there is or is not, with a subject prefix plus na",
+   "requires": [
+    "swh-02-05"
+   ],
+   "introduces": [
+    "have-na",
+    "existential"
+   ]
+  },
+  {
+   "id": "swh-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "commands",
+   "title": "Commands: soma! someni!",
+   "point": "Give commands to one person or several, including the irregular njoo, nenda and lete",
+   "requires": [
+    "swh-02-06"
+   ],
+   "introduces": [
+    "imperative"
+   ]
+  },
+  {
+   "id": "swh-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "greetings",
+   "title": "Greetings: hujambo, habari, shikamoo",
+   "point": "Greet and answer correctly, and see why hujambo is built like a negative verb",
+   "requires": [
+    "swh-02-07"
+   ],
+   "introduces": [
+    "greetings"
+   ]
+  },
+  {
+   "id": "swh-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "what-a-noun-class-is",
+   "title": "What a noun class is",
+   "point": "Understand classes as prefix pairs with their own agreement, and know both the numbers and the school names (ki-vi, m-mi)",
+   "requires": [
+    "swh-02-08"
+   ],
+   "introduces": [
+    "noun-class"
+   ]
+  },
+  {
+   "id": "swh-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "ki-vi",
+   "title": "Classes 7 and 8: ki- and vi-",
+   "point": "Use ki-/vi- nouns with matching subject prefixes on the verb, including ch- and vy- before vowels",
+   "requires": [
+    "swh-03-01"
+   ],
+   "introduces": [
+    "class-7-8"
+   ]
+  },
+  {
+   "id": "swh-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "adjective-agreement",
+   "title": "Adjectives agree: the adjective prefix",
+   "point": "Put an adjective after its noun with the right prefix, and use adjectives as predicates with ni",
+   "requires": [
+    "swh-03-02"
+   ],
+   "introduces": [
+    "adjective-concord"
+   ]
+  },
+  {
+   "id": "swh-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "m-mi",
+   "title": "Classes 3 and 4: m- and mi-",
+   "point": "Use trees, body parts and natural forces with u- and i- agreement on verbs and m-/mi- on adjectives",
+   "requires": [
+    "swh-03-03"
+   ],
+   "introduces": [
+    "class-3-4"
+   ]
+  },
+  {
+   "id": "swh-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "ji-ma",
+   "title": "Classes 5 and 6: ji-, zero and ma-",
+   "point": "Handle class 5 nouns with no visible prefix, ma- plurals and mass nouns, and li-/ya- agreement",
+   "requires": [
+    "swh-03-04"
+   ],
+   "introduces": [
+    "class-5-6"
+   ]
+  },
+  {
+   "id": "swh-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "n-class",
+   "title": "Classes 9 and 10: the nasal class",
+   "point": "Predict the nasal prefix on nouns and adjectives, and agree with i- and zi- when the noun itself does not change",
+   "requires": [
+    "swh-03-05",
+    "swh-01-03"
+   ],
+   "introduces": [
+    "class-9-10"
+   ]
+  },
+  {
+   "id": "swh-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "u-class",
+   "title": "Classes 11 and 14: u- nouns, their plurals and abstracts",
+   "point": "Form plurals of u- nouns in class 10, and use class 14 abstracts like uhuru and utoto",
+   "requires": [
+    "swh-03-06"
+   ],
+   "introduces": [
+    "class-11-14"
+   ]
+  },
+  {
+   "id": "swh-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "animate-agreement",
+   "title": "People and animals in any class: animate agreement",
+   "point": "Use class 1 and 2 agreement for every noun that names a person or animal, whatever its own prefix",
+   "requires": [
+    "swh-03-07"
+   ],
+   "introduces": [
+    "animate-concord"
+   ]
+  },
+  {
+   "id": "swh-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "possessives",
+   "title": "Possessives: -angu, -ako, -ake",
+   "point": "Say my, your, his, our and their with the possessive stem and the right class prefix, including the kin-term pattern",
+   "requires": [
+    "swh-03-08"
+   ],
+   "introduces": [
+    "possessive"
+   ]
+  },
+  {
+   "id": "swh-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "of-a",
+   "title": "'Of': the -a of association",
+   "point": "Link two nouns with cha, la, ya, za, wa, kwa, and build compound nouns",
+   "requires": [
+    "swh-03-09"
+   ],
+   "introduces": [
+    "associative"
+   ]
+  },
+  {
+   "id": "swh-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "demonstratives",
+   "title": "This, that and that one: demonstratives",
+   "point": "Form and choose the three demonstratives (huyu, yule, huyo) for every class",
+   "requires": [
+    "swh-03-10"
+   ],
+   "introduces": [
+    "demonstrative"
+   ]
+  },
+  {
+   "id": "swh-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "locatives",
+   "title": "Places: -ni and classes 16, 17 and 18",
+   "point": "Make locative nouns with -ni and agree with them through pa-, ku- and mu-",
+   "requires": [
+    "swh-03-11",
+    "swh-02-05"
+   ],
+   "introduces": [
+    "locative-class"
+   ]
+  },
+  {
+   "id": "swh-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "pronouns-word-order",
+   "title": "Pronouns, word order and the short forms with na",
+   "point": "Drop pronouns the verb already shows, use them for emphasis, keep neutral SVO order, and say 'with me', 'and it' with nami, naye, nacho",
+   "requires": [
+    "swh-03-12"
+   ],
+   "introduces": [
+    "word-order",
+    "na-pronoun"
+   ]
+  },
+  {
+   "id": "swh-03-14",
+   "part": 3,
+   "order": 14,
+   "slug": "agreement-map",
+   "title": "The agreement map: all concords in one table",
+   "point": "Look up the noun, adjective, subject, possessive, -a and demonstrative forms of every class, and see what predicts them",
+   "requires": [
+    "swh-03-13"
+   ],
+   "introduces": [
+    "concord-table"
+   ]
+  },
+  {
+   "id": "swh-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "verb-template",
+   "title": "The verb template: slots in a fixed order",
+   "point": "Name the slots (subject, tense, relative, object, root, extension, final vowel) and place every marker you know in them",
+   "requires": [
+    "swh-03-14"
+   ],
+   "introduces": [
+    "verb-template"
+   ]
+  },
+  {
+   "id": "swh-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "past-li",
+   "title": "The past: -li- and negative -ku-",
+   "point": "Say what happened and what did not happen",
+   "requires": [
+    "swh-04-01"
+   ],
+   "introduces": [
+    "past"
+   ]
+  },
+  {
+   "id": "swh-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "future-ta",
+   "title": "The future: -ta-",
+   "point": "Say what will and will not happen, and recognise the spoken negative -to-",
+   "requires": [
+    "swh-04-02"
+   ],
+   "introduces": [
+    "future"
+   ]
+  },
+  {
+   "id": "swh-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "short-verbs-ku",
+   "title": "Short verbs and the stress-carrying ku: kula, kunywa, kuja",
+   "point": "Conjugate two-syllable verbs and kwenda, keeping ku- exactly where the stress needs it",
+   "requires": [
+    "swh-04-03",
+    "swh-01-05"
+   ],
+   "introduces": [
+    "short-verb-ku"
+   ]
+  },
+  {
+   "id": "swh-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "perfect-me",
+   "title": "The perfect -me- and 'not yet' -ja-",
+   "point": "Say what has happened and still matters, and what has not happened yet",
+   "requires": [
+    "swh-04-04"
+   ],
+   "introduces": [
+    "perfect"
+   ]
+  },
+  {
+   "id": "swh-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "states-in-perfect",
+   "title": "States through the perfect: nimechoka, amelala",
+   "point": "Express being tired, asleep, full, dressed or seated, which Swahili says with change-of-state verbs in -me-",
+   "requires": [
+    "swh-04-05"
+   ],
+   "introduces": [
+    "inchoative-perfect"
+   ]
+  },
+  {
+   "id": "swh-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "object-persons",
+   "title": "Object prefixes I: me, you, him, us, them",
+   "point": "Put -ni-, -ku-, -m(w)-, -tu-, -wa- in the object slot and mark 'you all' with -eni",
+   "requires": [
+    "swh-04-06"
+   ],
+   "introduces": [
+    "object-prefix"
+   ]
+  },
+  {
+   "id": "swh-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "object-classes",
+   "title": "Object prefixes II: things, definiteness and -ji- 'self'",
+   "point": "Use class object prefixes, know when an object prefix is needed or adds definiteness, and make reflexives with -ji-",
+   "requires": [
+    "swh-04-07"
+   ],
+   "introduces": [
+    "object-class",
+    "reflexive"
+   ]
+  },
+  {
+   "id": "swh-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "subjunctive-form",
+   "title": "The subjunctive: -e for wishes, requests and 'let's'",
+   "point": "Form the subjunctive and use it for polite requests, suggestions, commands with objects, and 'let's'",
+   "requires": [
+    "swh-04-08"
+   ],
+   "introduces": [
+    "subjunctive"
+   ]
+  },
+  {
+   "id": "swh-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "subjunctive-uses",
+   "title": "Using the subjunctive: wanting, needing, telling and 'don't'",
+   "point": "Use the subjunctive after -taka, lazima and -ambia, and make prohibitions with -si-",
+   "requires": [
+    "swh-04-09"
+   ],
+   "introduces": [
+    "subjunctive-negative"
+   ]
+  },
+  {
+   "id": "swh-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "infinitive",
+   "title": "The infinitive: kusoma as verb and noun (class 15)",
+   "point": "Use ku- forms after verbs like -penda and -weza, negate them with kuto-, and treat them as class 15 nouns",
+   "requires": [
+    "swh-04-10"
+   ],
+   "introduces": [
+    "infinitive",
+    "class-15"
+   ]
+  },
+  {
+   "id": "swh-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "habitual-hu",
+   "title": "The habitual hu-: what usually happens",
+   "point": "Say what regularly or generally happens with hu-, and know why it is common in proverbs and rare in conversation",
+   "requires": [
+    "swh-04-11"
+   ],
+   "introduces": [
+    "habitual"
+   ]
+  },
+  {
+   "id": "swh-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "situational-ki",
+   "title": "-ki-: while, if, when",
+   "point": "Use -ki- for background actions, conditions and participle-like 'doing' forms",
+   "requires": [
+    "swh-04-12"
+   ],
+   "introduces": [
+    "situational"
+   ]
+  },
+  {
+   "id": "swh-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "narrative-ka",
+   "title": "-ka-: telling a story, 'and then'",
+   "point": "Chain past events with -ka- after an opening -li-, and use -ka- with the subjunctive for 'go and do'",
+   "requires": [
+    "swh-04-13"
+   ],
+   "introduces": [
+    "consecutive"
+   ]
+  },
+  {
+   "id": "swh-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "compound-tenses",
+   "title": "Compound tenses with kuwa: was doing, had done, will have done",
+   "point": "Shift the present, perfect and -ki- forms into past and future with an inflected kuwa",
+   "requires": [
+    "swh-04-14"
+   ],
+   "introduces": [
+    "compound-tense"
+   ]
+  },
+  {
+   "id": "swh-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "already-and-still",
+   "title": "Already and still: -sha-, -ngali, bado",
+   "point": "Say 'already' with -mesha- and -sha-, 'still' with -ngali and bado, and combine them with the tenses",
+   "requires": [
+    "swh-04-15"
+   ],
+   "introduces": [
+    "anterior"
+   ]
+  },
+  {
+   "id": "swh-04-17",
+   "part": 4,
+   "order": 17,
+   "slug": "choosing-a-tense",
+   "title": "Choosing a tense",
+   "point": "Decide between -na-, hu-, -me-, -li-, -ka-, -ki- and -ta- for a given meaning, and build any verb slot by slot",
+   "requires": [
+    "swh-04-16"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "more-adjectives",
+   "title": "Adjectives with vowel stems, irregular and invariable adjectives",
+   "point": "Inflect -ema, -ingi, -ekundu, -pya and the other awkward adjectives, and use invariable ones like safi and ghali",
+   "requires": [
+    "swh-04-17"
+   ],
+   "introduces": [
+    "adjective-vowel-stem",
+    "invariable-adjective"
+   ]
+  },
+  {
+   "id": "swh-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "enye-and-a-phrases",
+   "title": "Describing without adjectives: -enye and -a phrases",
+   "point": "Say 'having', 'strong', 'modern' with -enye + noun and -a + noun, the commonest ways to describe",
+   "requires": [
+    "swh-05-01"
+   ],
+   "introduces": [
+    "enye"
+   ]
+  },
+  {
+   "id": "swh-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "numbers",
+   "title": "Numbers 1 to 10 and agreement",
+   "point": "Count and quantify with the agreeing numbers (-moja, -wili, -tatu, -nne, -tano, -nane) and the invariable ones (sita, saba, tisa, kumi)",
+   "requires": [
+    "swh-05-02"
+   ],
+   "introduces": [
+    "numbers"
+   ]
+  },
+  {
+   "id": "swh-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "time-and-dates",
+   "title": "Bigger numbers, Swahili time, days and dates",
+   "point": "Count past ten, tell the time in Swahili hours (saa mbili is 8 o'clock), and name days, months and years",
+   "requires": [
+    "swh-05-03"
+   ],
+   "introduces": [
+    "time"
+   ]
+  },
+  {
+   "id": "swh-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "all-any-self-other",
+   "title": "All, any, self, other, which: -ote, -o-ote, -enyewe, -ingine, -pi",
+   "point": "Use the words that take subject-type prefixes, and tell 'all of us' (sote) from 'both of us' (sisi wote)",
+   "requires": [
+    "swh-05-04"
+   ],
+   "introduces": [
+    "quantifiers"
+   ]
+  },
+  {
+   "id": "swh-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "comparison",
+   "title": "Comparison: kuliko, zaidi, kushinda",
+   "point": "Say bigger than, the biggest, as big as, with kuliko, zaidi ya, -shinda and -pita",
+   "requires": [
+    "swh-05-05"
+   ],
+   "introduces": [
+    "comparison"
+   ]
+  },
+  {
+   "id": "swh-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "adverbs",
+   "title": "Adverbs: vizuri, kwa haraka, polepole",
+   "point": "Make adverbs with vi- and kwa, use the common place and time adverbs, and reduplicate for manner",
+   "requires": [
+    "swh-05-06"
+   ],
+   "introduces": [
+    "adverbs"
+   ]
+  },
+  {
+   "id": "swh-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "prepositions",
+   "title": "Prepositions: na, kwa, katika, kwenye and the -a compounds",
+   "point": "Express place, means and company with na, kwa, katika, kwenye and juu ya, chini ya, ndani ya, karibu na",
+   "requires": [
+    "swh-05-07"
+   ],
+   "introduces": [
+    "prepositions"
+   ]
+  },
+  {
+   "id": "swh-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "conjunctions",
+   "title": "Joining words: na, au, lakini, kisha, kwa sababu",
+   "point": "Join words and clauses, and see why na joins nouns but not clauses in careful style",
+   "requires": [
+    "swh-05-08"
+   ],
+   "introduces": [
+    "conjunctions"
+   ]
+  },
+  {
+   "id": "swh-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "question-words",
+   "title": "Question words: nani, nini, wapi, lini, -pi, -ngapi, gani",
+   "point": "Ask content questions with the question word in place, and use the verb endings -je and -ni",
+   "requires": [
+    "swh-05-09"
+   ],
+   "introduces": [
+    "question-words"
+   ]
+  },
+  {
+   "id": "swh-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "building-words",
+   "title": "Building words: derived nouns and class shift",
+   "point": "Derive nouns from verbs (mwandishi, mchezo, uandishi), and move nouns between classes to make them small, big, abstract or a language name",
+   "requires": [
+    "swh-05-10"
+   ],
+   "introduces": [
+    "derivation",
+    "class-shift"
+   ]
+  },
+  {
+   "id": "swh-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "relative-amba",
+   "title": "Relative clauses I: amba- and the o of reference",
+   "point": "Make 'who, which, that' clauses with ambaye, ambacho and the rest for every class",
+   "requires": [
+    "swh-05-11"
+   ],
+   "introduces": [
+    "relative",
+    "o-of-reference"
+   ]
+  },
+  {
+   "id": "swh-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "relative-infix",
+   "title": "Relative clauses II: the relative inside the verb",
+   "point": "Build aliyekuja, kinachofuata, nitakachosoma with -li-, -na- and -taka- plus the relative marker",
+   "requires": [
+    "swh-06-01"
+   ],
+   "introduces": [
+    "relative-infix"
+   ]
+  },
+  {
+   "id": "swh-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "relative-object",
+   "title": "Relative clauses III: object relatives",
+   "point": "Relativise objects (kitabu nilichokisoma), know when the object prefix appears, and keep track of two classes in one verb",
+   "requires": [
+    "swh-06-02"
+   ],
+   "introduces": [
+    "object-relative"
+   ]
+  },
+  {
+   "id": "swh-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "relative-general-negative",
+   "title": "Relative clauses IV: the general relative and the negative relative",
+   "point": "Read timeless relatives like asemaye and wakaao, and make negative relatives with -si- (asiyejua)",
+   "requires": [
+    "swh-06-03"
+   ],
+   "introduces": [
+    "general-relative",
+    "negative-relative"
+   ]
+  },
+  {
+   "id": "swh-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "relative-be-have",
+   "title": "Who is, which has: relatives of 'be' and 'have'",
+   "point": "Use aliye, kilicho, walio na and nilicho nacho for 'who is' and 'which I have'",
+   "requires": [
+    "swh-06-04"
+   ],
+   "introduces": [
+    "relative-copula"
+   ]
+  },
+  {
+   "id": "swh-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "when-where-how",
+   "title": "When, where, how: -po-, -ko-, -mo-, -vyo- relatives",
+   "point": "Make time, place and manner clauses (alipofika 'when he arrived', anavyosema 'as he says')",
+   "requires": [
+    "swh-06-05"
+   ],
+   "introduces": [
+    "locative-relative",
+    "manner-relative"
+   ]
+  },
+  {
+   "id": "swh-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "focus-ndi",
+   "title": "It is he who: ndiye, ndicho and siye",
+   "point": "Focus a person or thing with ndi- plus the reference form, and deny it with si-",
+   "requires": [
+    "swh-06-06"
+   ],
+   "introduces": [
+    "focus"
+   ]
+  },
+  {
+   "id": "swh-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "that-clauses-reported",
+   "title": "That-clauses and reported speech: kwamba, kuwa, kama",
+   "point": "Report statements, yes-no questions (kama 'whether') and commands, and shift persons in reported speech",
+   "requires": [
+    "swh-06-07"
+   ],
+   "introduces": [
+    "complement-clause",
+    "reported-speech"
+   ]
+  },
+  {
+   "id": "swh-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "purpose",
+   "title": "Purpose: ili, the subjunctive and kwa ajili ya",
+   "point": "Say 'in order to' and 'so that' with ili and the subjunctive, the infinitive and kwa ajili ya",
+   "requires": [
+    "swh-06-08"
+   ],
+   "introduces": [
+    "purpose"
+   ]
+  },
+  {
+   "id": "swh-06-10",
+   "part": 6,
+   "order": 10,
+   "slug": "time-clauses",
+   "title": "Time clauses: before, after, until, since, while",
+   "point": "Join events in time with -po-, baada ya, kabla ya, mpaka, tangu and -ki-",
+   "requires": [
+    "swh-06-09"
+   ],
+   "introduces": [
+    "time-clause"
+   ]
+  },
+  {
+   "id": "swh-06-11",
+   "part": 6,
+   "order": 11,
+   "slug": "real-conditions",
+   "title": "Real conditions: -ki-, -sipo-, kama, ikiwa",
+   "point": "Say 'if' and 'unless' for open conditions with -ki-, -sipo- and the if-words",
+   "requires": [
+    "swh-06-10"
+   ],
+   "introduces": [
+    "conditional-real"
+   ]
+  },
+  {
+   "id": "swh-06-12",
+   "part": 6,
+   "order": 12,
+   "slug": "hypothetical-conditions",
+   "title": "Hypothetical conditions: -nge- and -ngali-",
+   "point": "Say 'would' and 'would have' with -nge-, -ngali- and the negatives -singe-, -singali-",
+   "requires": [
+    "swh-06-11"
+   ],
+   "introduces": [
+    "conditional-irrealis"
+   ]
+  },
+  {
+   "id": "swh-06-13",
+   "part": 6,
+   "order": 13,
+   "slug": "reason-concession",
+   "title": "Because, although, even if",
+   "point": "Give reasons and concessions with kwa sababu, kwa kuwa, ingawa, ijapokuwa, hata kama",
+   "requires": [
+    "swh-06-12"
+   ],
+   "introduces": [
+    "concession"
+   ]
+  },
+  {
+   "id": "swh-06-14",
+   "part": 6,
+   "order": 14,
+   "slug": "ever-never-neither",
+   "title": "Ever, never, neither nor: -wahi, kamwe, wala",
+   "point": "Say 'have you ever', 'never' and 'neither... nor', and handle negation across clauses",
+   "requires": [
+    "swh-06-13"
+   ],
+   "introduces": [
+    "negative-polarity"
+   ]
+  },
+  {
+   "id": "swh-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "extensions-idea",
+   "title": "Verb extensions: one root, many verbs",
+   "point": "See how suffixes between root and final vowel change who does what to whom, and predict the i/e harmony they follow",
+   "requires": [
+    "swh-06-14"
+   ],
+   "introduces": [
+    "extension",
+    "vowel-harmony"
+   ]
+  },
+  {
+   "id": "swh-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "applicative-for",
+   "title": "The applicative I: doing for, to and at",
+   "point": "Add -i-/-e- (-li-/-le-) to bring a beneficiary, goal or place into the verb (nunulia, andikia)",
+   "requires": [
+    "swh-07-01"
+   ],
+   "introduces": [
+    "applicative"
+   ]
+  },
+  {
+   "id": "swh-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "applicative-more",
+   "title": "The applicative II: reason, instrument, direction and two objects",
+   "point": "Use applicatives for 'why', 'with what', 'towards' and with two objects, and read lexicalised applicatives",
+   "requires": [
+    "swh-07-02"
+   ],
+   "introduces": [
+    "applicative-uses"
+   ]
+  },
+  {
+   "id": "swh-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "passive",
+   "title": "The passive: -w- and -liw-, -lew-",
+   "point": "Form passives for every verb shape and add the agent with na",
+   "requires": [
+    "swh-07-03"
+   ],
+   "introduces": [
+    "passive"
+   ]
+  },
+  {
+   "id": "swh-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "passive-applicative",
+   "title": "Passives of applicatives and of 'give': nilipewa, aliandikiwa",
+   "point": "Make the beneficiary the subject (I was given, he was written to), and handle the short-verb passives (-liwa, -pewa, -nywewa)",
+   "requires": [
+    "swh-07-04"
+   ],
+   "introduces": [
+    "applicative-passive"
+   ]
+  },
+  {
+   "id": "swh-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "causative",
+   "title": "The causative I: -ish-, -esh- and -iz-, -ez-",
+   "point": "Make someone do something or make something happen (somesha 'teach', chelewesha 'delay')",
+   "requires": [
+    "swh-07-05"
+   ],
+   "introduces": [
+    "causative"
+   ]
+  },
+  {
+   "id": "swh-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "causative-derivation",
+   "title": "The causative II: sound-change causatives and verbs from adjectives and nouns",
+   "point": "Recognise -sha from -ka and -za from vowel stems (amsha, jaza), and derive verbs like safisha and fupisha",
+   "requires": [
+    "swh-07-06"
+   ],
+   "introduces": [
+    "causative-derivation"
+   ]
+  },
+  {
+   "id": "swh-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "stative",
+   "title": "The stative: -ik-, -ek- 'get broken', 'be doable'",
+   "point": "Use the stative for changes with no agent and for possibility (vunjika, eleweka, -lika 'be edible'), and contrast it with the passive",
+   "requires": [
+    "swh-07-07"
+   ],
+   "introduces": [
+    "stative"
+   ]
+  },
+  {
+   "id": "swh-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "reciprocal",
+   "title": "The reciprocal -an-: each other",
+   "point": "Say 'each other' and 'with each other', with plural subjects or a na-phrase",
+   "requires": [
+    "swh-07-08"
+   ],
+   "introduces": [
+    "reciprocal"
+   ]
+  },
+  {
+   "id": "swh-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "frozen-extensions-stacking",
+   "title": "Reversives, frozen extensions and stacking",
+   "point": "Recognise reversive -u-/-o- (fungua), static -am- and reduplicated verbs, and read stacked extensions in the right order",
+   "requires": [
+    "swh-07-09"
+   ],
+   "introduces": [
+    "reversive",
+    "stacking"
+   ]
+  },
+  {
+   "id": "swh-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "a-tense-colloquial",
+   "title": "The -a- tense and spoken shortcuts: nasoma, twaenda, -ga",
+   "point": "Read the gnomic -a- tense and its contracted prefixes, the dropped ni- of speech, and the colloquial habitual -ga",
+   "requires": [
+    "swh-07-10"
+   ],
+   "introduces": [
+    "gnomic",
+    "colloquial"
+   ]
+  },
+  {
+   "id": "swh-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "respect-register",
+   "title": "Respect, politeness and register",
+   "point": "Address elders and strangers correctly (shikamoo, mzee, bwana, bibi), soften requests, and recognise the formal written style",
+   "requires": [
+    "swh-07-11"
+   ],
+   "introduces": [
+    "register"
+   ]
+  },
+  {
+   "id": "swh-07-13",
+   "part": 7,
+   "order": 13,
+   "slug": "varieties-and-history",
+   "title": "Varieties, old texts and the standard",
+   "point": "Know what the standard is based on and how it was fixed, recognise Kenyan, coastal, Congo and Sheng forms, and know how Ajami script and utenzi verse work",
+   "requires": [
+    "swh-07-12"
+   ],
+   "introduces": [
+    "varieties",
+    "history"
+   ]
+  },
+  {
+   "id": "swh-07-14",
+   "part": 7,
+   "order": 14,
+   "slug": "loanwords",
+   "title": "Loanwords: how Arabic, English and other words fit the classes",
+   "point": "See how loans are given classes and verb shapes (kitabu/vitabu, mwalimu/walimu, -fikiri), and recognise the Arabic and English layers",
+   "requires": [
+    "swh-07-13"
+   ],
+   "introduces": [
+    "loanwords"
+   ]
+  },
+  {
+   "id": "swh-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "proverbs",
+   "title": "Reading 1: proverbs (methali)",
+   "point": "Read eight proverbs, each a full sentence in the copula, the habitual, the imperative, -enye or -sipo-",
+   "requires": [
+    "swh-07-14"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "monkey-and-shark",
+   "title": "Reading 2: the monkey and the shark (Zanzibar, 1870), part 1",
+   "point": "Read the opening of a tale recorded by Steere in Zanzibar: dialogue, -ka- narrative and nineteenth-century spellings",
+   "requires": [
+    "swh-08-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "washermans-donkey",
+   "title": "Reading 3: the washerman's donkey (Zanzibar, 1870), part 2",
+   "point": "Read the tale within the tale to its end, following the subjects through long -ka- chains",
+   "requires": [
+    "swh-08-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "udhr",
+   "title": "Reading 4: the Universal Declaration of Human Rights, Articles 1 and 3 to 5",
+   "point": "Read formal written Swahili: perfects and passives, kila, and negative subjunctives of prohibition (asifanywe, asiteswe)",
+   "requires": [
+    "swh-08-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "wikipedia-kiswahili",
+   "title": "Reading 5: Swahili Wikipedia on Kiswahili",
+   "point": "Read modern expository prose with relatives, the habitual, -ki- and passives",
+   "requires": [
+    "swh-08-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "capstone-anthem",
+   "title": "Reading 6 (capstone): Mungu ibariki Afrika, the Tanzanian national anthem",
+   "point": "Read the whole anthem line by line: imperatives with object prefixes on a loan verb, possessives, demonstratives, the causative dumisha",
+   "requires": [
+    "swh-08-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "agreement-tables",
+   "title": "Agreement tables",
+   "point": "Look up every concord of every class: noun, adjective, subject, object, possessive, -a, demonstrative, relative, -ote, -enye",
+   "requires": [
+    "swh-08-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "verb-tables",
+   "title": "The verb template chart and verb tables",
+   "point": "See every verb marker in its slot, with positive and negative forms of model verbs of each shape (soma, la, jibu)",
+   "requires": [
+    "swh-09-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "core-vocabulary",
+   "title": "Core vocabulary",
+   "point": "Find every word taught in the guide with its class or verb shape and the lesson that introduces it",
+   "requires": [
+    "swh-09-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "glossary",
+   "title": "Glossary of terms and abbreviations",
+   "point": "Look up every grammatical term and gloss abbreviation",
+   "requires": [
+    "swh-09-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "swh-09-05",
+   "part": 9,
+   "order": 5,
+   "slug": "bibliography",
+   "title": "Annotated bibliography",
+   "point": "Know which grammars, dictionaries, courses and corpora to use next",
+   "requires": [
+    "swh-09-04"
+   ],
+   "introduces": []
+  }
+ ]
+}

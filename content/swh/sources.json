@@ -1,0 +1,178 @@
+{
+ "sources": [
+  {
+   "id": "polome1967",
+   "citation": "Polomé, E. C. (1967). Swahili Language Handbook. Washington, D.C.: Center for Applied Linguistics. ERIC document ED012888.",
+   "url": "https://files.eric.ed.gov/fulltext/ED012888.pdf",
+   "used_for": "Open descriptive grammar of Standard (Zanzibar-based) Swahili: phonemes and their realisation (§2.1, implosives, aspiration, syllabic nasals, stress §2.1.5), morphophonemics (§2.2), derivation (§2.3), class concords and verb forms (§2.4), complex structures and syntax (§§2.5–2.6), the writing system (§3), literature (§5). Table of contents used to check the syllabus.",
+   "access": "Open online (ERIC full text, US Office of Education funded). PDF downloaded and opened 2026-11-12; text layer is OCR and garbles some IPA symbols, so check forms against the page images."
+  },
+  {
+   "id": "ashton1944",
+   "citation": "Ashton, E. O. (1944). Swahili Grammar (Including Intonation). London: Longmans, Green. 2nd ed. 1947.",
+   "url": "https://archive.org/details/swahiligrammarin0000asht",
+   "used_for": "The classic English-language reference grammar of Standard Swahili, cited by Wiktionary's Swahili appendices and WALS. Would be the first check for any paradigm.",
+   "access": "In copyright (author's death date not established in this session, so not assumed public domain). The archive.org copy is access-restricted (controlled lending); not opened. Cited at second hand only."
+  },
+  {
+   "id": "mohammed2001",
+   "citation": "Mohammed, M. A. (2001). Modern Swahili Grammar. Nairobi: East African Educational Publishers.",
+   "url": "https://archive.org/details/modernswahiligra0000moha",
+   "used_for": "Modern reference grammar (phonology, affixes, derivation, inflection, relatives, tenses, demonstratives of reference, phrases and clauses). Cited by Wiktionary's verb appendix.",
+   "access": "In copyright; archive.org copy access-restricted; not opened. Only the publisher's description of coverage was seen (library catalogue record)."
+  },
+  {
+   "id": "steere1894",
+   "citation": "Steere, E. (1894). A Handbook of the Swahili Language, as Spoken at Zanzibar. 4th ed., revised by A. C. Madan. London: Society for Promoting Christian Knowledge. (1st ed. 1870.)",
+   "url": "https://archive.org/details/handbookofswahil00steeuoft",
+   "used_for": "Nineteenth-century description of Zanzibar Swahili, the base of the standard: table of contents compared with the syllabus; older forms and spellings met in the part 8 tale.",
+   "access": "Public domain (archive.org: NOT_IN_COPYRIGHT). Full OCR text opened 2026-11-12. Its spellings and some forms are pre-standard; never use it alone for a modern form."
+  },
+  {
+   "id": "steere1870",
+   "citation": "Steere, E. (ed. and trans.) (1870). Swahili Tales, as Told by Natives of Zanzibar. London: Bell and Daldy.",
+   "url": "https://archive.org/details/swahilitalesasto00stee",
+   "used_for": "Part 8 reading: Kisa cha punda wa dobi ('The story of the washerman's donkey'), framed by the monkey and the shark. Attested nineteenth-century narrative with -ka- chains.",
+   "access": "Public domain. OCR text opened 2026-11-12; the OCR is noisy (b/h, c/e confusions), so the passage must be transcribed from the page images before use."
+  },
+  {
+   "id": "madan1903",
+   "citation": "Madan, A. C. (1903). Swahili-English Dictionary. Oxford: Clarendon Press.",
+   "url": "https://archive.org/details/swahilienglishdi00madauoft",
+   "used_for": "Second dictionary for meanings and for older forms in the Steere tale.",
+   "access": "Public domain; full text reachable on archive.org (downloaded 2026-11-12, not yet searched for individual words)."
+  },
+  {
+   "id": "tuki2001",
+   "citation": "Taasisi ya Uchunguzi wa Kiswahili (TUKI) (2001). Kamusi ya Kiswahili–Kiingereza / Swahili–English Dictionary. Dar es Salaam: TUKI, University of Dar es Salaam.",
+   "used_for": "The standard bilingual dictionary of Standard Swahili (meanings, class of each noun).",
+   "access": "In copyright; not consulted. The TUKI site (tuki.udsm.ac.tz) returned 403 in this session."
+  },
+  {
+   "id": "tuki2004",
+   "citation": "Taasisi ya Uchunguzi wa Kiswahili (TUKI) (2004). Kamusi ya Kiswahili Sanifu. 2nd ed. Nairobi and Dar es Salaam: Oxford University Press and TUKI. (Edition details from recall, unverified.)",
+   "used_for": "The monolingual dictionary of the standard language; authority for standard spellings and forms.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "kamusi",
+   "citation": "Kamusi Project / Kamusi GOLD: online Swahili dictionary.",
+   "url": "https://kamusi.org/",
+   "used_for": "Further lookup of meanings when wiktionary has no entry.",
+   "access": "Open online (homepage reached 2026-11-12; the swahili.kamusi.org subdomain was unreachable). Not yet used for any form."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Swahili entries, conjugation tables and the appendices 'Swahili noun classes' (rev. 72886527), 'Swahili verbs' (rev. 87220158) and 'Swahili verbal derivation' (rev. 76277389).",
+   "url": "https://en.wiktionary.org/wiki/Appendix:Swahili_verbs",
+   "used_for": "Checking noun classes and plurals (headword lines), adjective, possessive and -enye concord tables, verb conjugation tables (-soma), the TAM marker list, relative markers ('o of reference'), extensions; IPA for individual words; proverbs (Category:Swahili proverbs).",
+   "access": "Open (CC BY-SA). Query with tools/wikt.py <word> Swahili; enter verbs and adjective stems without the hyphen (soma, kubwa). Wiktionary labels classes with Roman numerals and pairs them by prefix (see dossier section 4)."
+  },
+  {
+   "id": "wpgrammar",
+   "citation": "Wikipedia, 'Swahili grammar' (English), consulted 2026-11-12.",
+   "url": "https://en.wikipedia.org/wiki/Swahili_grammar",
+   "used_for": "Pointer to sources and a structured overview: noun class and concord tables, the STROVE slot order, the full TAM table (with negative and short-verb forms), relative forms, copulas, 'have', compound tenses, extensions. Its references (Mpiranya 2015, Hinnebusch and Mirza 1998, Wilson 1985, Perrott 1971, Comrie 2009, Rieger 2011, Seidl and Dimitriadis 2003) are the authorities behind it. Table of contents compared with the syllabus.",
+   "access": "Open (CC BY-SA). Pointer, not authority: confirm each form in wiktionary or polome1967."
+  },
+  {
+   "id": "wplang",
+   "citation": "Wikipedia, 'Swahili language' (English), sections Phonology, Orthography and Noun classes, consulted 2026-11-12.",
+   "url": "https://en.wikipedia.org/wiki/Swahili_language",
+   "used_for": "Consonant chart and vowel notes (after contini1997 and Polomé), loanword shares, concord table, semantic motivation of the classes.",
+   "access": "Open (CC BY-SA). Pointer only."
+  },
+  {
+   "id": "contini1997",
+   "citation": "Contini-Morava, E. (1997). Swahili phonology. In A. S. Kaye (ed.), Phonologies of Asia and Africa, vol. 2, 841–860. Winona Lake, IN: Eisenbrauns.",
+   "used_for": "Phoneme inventory and vowel quality (no reduction in unstressed syllables).",
+   "access": "In copyright; cited at second hand via wplang. Not opened."
+  },
+  {
+   "id": "mpiranya2015",
+   "citation": "Mpiranya, F. (2015). Swahili Grammar and Workbook. London: Routledge.",
+   "used_for": "Modern teaching grammar; source of wpgrammar's statements on animate concord with kin terms and the near-obsolescence of the -a- tense.",
+   "access": "In copyright; not opened (a publisher preview PDF exists but was not read). Cited at second hand via wpgrammar."
+  },
+  {
+   "id": "hinnebusch1998",
+   "citation": "Hinnebusch, T. J. and Mirza, S. M. (1998). Kiswahili: Msingi wa Kusema, Kusoma na Kuandika / Swahili: A Foundation for Speaking, Reading, and Writing. 2nd ed. Lanham, MD: University Press of America.",
+   "used_for": "Standard US university course; pedagogical order.",
+   "access": "In copyright; not consulted. (An unlicensed copy circulates online; it was not used.)"
+  },
+  {
+   "id": "thompson2001",
+   "citation": "Thompson, K. D. and Schleicher, A. F. (2001). Swahili Learners' Reference Grammar. Madison, WI: NALRC Press.",
+   "used_for": "Learner's reference grammar in English; would be a second check on verb forms.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "nurse1993",
+   "citation": "Nurse, D. and Hinnebusch, T. J. (1993). Swahili and Sabaki: A Linguistic History. Berkeley: University of California Press.",
+   "used_for": "Authority for the history of Swahili sounds and forms (the why behind lost l, prenasalisation, the classes), and for dialect classification.",
+   "access": "In copyright; not opened. Historical claims resting on it alone are labelled as from recall until checked."
+  },
+  {
+   "id": "whiteley1969",
+   "citation": "Whiteley, W. H. (1969). Swahili: The Rise of a National Language. London: Methuen.",
+   "used_for": "History of standardisation (the Inter-Territorial Language Committee, the choice of Kiunguja).",
+   "access": "In copyright; not opened. Dates of the standardisation from recall are marked (unverified)."
+  },
+  {
+   "id": "kucourse",
+   "citation": "University of Kansas, Department of African and African-American Studies: Kiswahili lessons (PDF handouts), e.g. Lesson 9 'Swahili Noun Classes'.",
+   "url": "https://kiswahili.ku.edu/lessons",
+   "used_for": "University course notes; evidence for the East African school convention of naming classes by agreement pairs (A-WA, KI-VI, U-I, LI-YA, I-ZI, U-ZI, U-U, KU-KU, PA, KU, MU).",
+   "access": "Open online; lesson index and Lesson 9 opened 2026-11-12."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M. (eds.) (2013). The World Atlas of Language Structures Online: Swahili (wals_code_swa). Values read from the WALS CLDF dataset (github.com/cldf-datasets/wals).",
+   "url": "https://wals.info/languoid/lect/wals_code_swa",
+   "used_for": "Typological feature values for the Compare screen (all 143 Swahili datapoints read 2026-11-12; key values quoted in the dossier).",
+   "access": "Open."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog 5.4: Swahili (swah1253; ISO 639-3 swh), in the group Swahili (G.40) (swah1254).",
+   "url": "https://glottolog.org/resource/languoid/id/swah1253",
+   "used_for": "Classification (Atlantic-Congo > ... > Northeast Coastal Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Swahili), dialect list (Unguja, Mvita, Amu, Pemba, Mrima, Bajuni and others), reference list.",
+   "access": "Open; page and JSON opened 2026-11-12."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2015). The Leipzig Glossing Rules.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and standard abbreviations.",
+   "access": "Open."
+  },
+  {
+   "id": "udhr",
+   "citation": "Universal Declaration of Human Rights, Swahili translation (Taarifa ya Ulimwengu juu ya Haki za Binadamu), UN Office of Public Information text as distributed by the UDHR in Unicode project (udhr_swh.xml).",
+   "url": "https://raw.githubusercontent.com/eric-muller/udhr/master/data/udhr/udhr_swh.xml",
+   "used_for": "Part 8 reading: Articles 1 to 3 (formal written register: passives, perfects, -enye, kila).",
+   "access": "Open; file opened 2026-11-12. The UN text may be freely reproduced."
+  },
+  {
+   "id": "swwiki",
+   "citation": "Wikipedia ya Kiswahili, article 'Kiswahili', revision 1603419.",
+   "url": "https://sw.wikipedia.org/w/index.php?title=Kiswahili&oldid=1603419",
+   "used_for": "Part 8 reading: modern expository prose (relatives, habitual hu-, -ki-, passives).",
+   "access": "Open (CC BY-SA); opened 2026-11-12. Wikipedia prose is not edited to the standard: note non-standard agreement where it occurs."
+  },
+  {
+   "id": "proverbs",
+   "citation": "Wiktionary, Category:Swahili proverbs (34 entries), consulted 2026-11-12.",
+   "url": "https://en.wiktionary.org/wiki/Category:Swahili_proverbs",
+   "used_for": "Attested proverbs (methali) for examples and the part 8 proverb reading; each entry's meaning checked.",
+   "access": "Open (CC BY-SA). Proverbs are traditional and anonymous."
+  },
+  {
+   "id": "anthem",
+   "citation": "'Mungu ibariki Afrika', national anthem of Tanzania (Swahili words adopted 1961 to the tune of E. Sontonga's 'Nkosi Sikelel' iAfrika'). Text as given in Wikipedia ya Kiswahili, 'Mungu ibariki Afrika', and English Wikipedia, 'Mungu ibariki Afrika'.",
+   "url": "https://sw.wikipedia.org/wiki/Mungu_ibariki_Afrika",
+   "used_for": "Part 8 capstone reading (both stanzas and refrains).",
+   "access": "Text opened 2026-11-12 in both Wikipedias. Authorship of the Swahili words is unclear (sw.wikipedia credits Moses Nnauye; en.wikipedia says it is not known). A state anthem of 1961, widely reproduced; its exact copyright status was not verified, but the text is short and quoted here for commentary."
+  }
+ ]
+}

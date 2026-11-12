@@ -1,0 +1,185 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we",
+   "tag": "person"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person spoken to: you",
+   "tag": "person"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "anyone or anything else: he, she, it, they",
+   "tag": "person"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "person"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one; on verbs, the suffix -t that makes a person plural",
+   "tag": "person"
+  },
+  "NOM": {
+   "name": "nominative",
+   "plain": "the bare case in -i: the subject in the present, the object in the past, and the thing named",
+   "tag": "nominative"
+  },
+  "DAT": {
+   "name": "dative",
+   "plain": "the case in -s: the object in the present, the person to whom, the experiencer of feeling verbs, and the doer in the perfect",
+   "tag": "dative"
+  },
+  "SBJ": {
+   "name": "subject marker",
+   "plain": "a verb prefix or suffix (v-, -s, -a, -en, -es and others) that agrees with the verb's subject-set person",
+   "tag": "subject-markers"
+  },
+  "OBJ": {
+   "name": "object marker",
+   "plain": "a verb prefix (m-, g-, gv-, zero) that agrees with the verb's object-set person, which for feeling verbs and in the perfect is the experiencer or doer",
+   "tag": "object-markers"
+  },
+  "IMPF": {
+   "name": "imperfect",
+   "plain": "the screeve for what was going on or used to happen, marked by -d- with its endings",
+   "tag": "imperfect"
+  },
+  "PV": {
+   "name": "preverb",
+   "plain": "the prefix in front of the verb that adds direction and makes the future, aorist and perfect complete",
+   "tag": "preverb"
+  },
+  "TS": {
+   "name": "thematic suffix",
+   "plain": "the suffix (-eb, -ob, -av, -am, -i) that builds the present and future stem and drops in other series",
+   "tag": "thematic-suffix"
+  },
+  "PASS": {
+   "name": "passive or intransitive marker",
+   "plain": "the prefix i- or suffix -d- that turns a doing verb into a happening verb",
+   "tag": "passive"
+  },
+  "AOR": {
+   "name": "aorist",
+   "plain": "the screeve for a completed past event, and the source of the command form",
+   "tag": "aorist"
+  },
+  "ERG": {
+   "name": "ergative",
+   "plain": "the case in -ma or -m of the doer of a transitive or medial verb in the aorist and optative",
+   "tag": "ergative"
+  },
+  "GEN": {
+   "name": "genitive",
+   "plain": "the case in -is: of, belonging to, and the base for many postpositions",
+   "tag": "genitive"
+  },
+  "INS": {
+   "name": "instrumental",
+   "plain": "the case in -it: with, by means of",
+   "tag": "instrumental"
+  },
+  "ADV": {
+   "name": "adverbial",
+   "plain": "the case in -ad: as, into, in the role of",
+   "tag": "adverbial"
+  },
+  "VOC": {
+   "name": "vocative",
+   "plain": "the form for calling someone: -o or -v",
+   "tag": "vocative"
+  },
+  "OPT": {
+   "name": "optative",
+   "plain": "the screeve for wishes, suggestions and should, used after unda and rom",
+   "tag": "optative"
+  },
+  "IO": {
+   "name": "indirect object",
+   "plain": "a verb prefix (s-, h- or zero) marking a third person to or for whom something happens",
+   "tag": "indirect-object"
+  },
+  "NV": {
+   "name": "neutral version",
+   "plain": "the vowel a- in front of the root, saying nothing about whom the action is for",
+   "tag": "version"
+  },
+  "SV": {
+   "name": "subjective version",
+   "plain": "the vowel i- in front of the root: the action is for the subject itself",
+   "tag": "version"
+  },
+  "OV": {
+   "name": "objective version",
+   "plain": "the vowel u- (third person) or i- (first and second) in front of the root: the action is for someone else, or belongs to them",
+   "tag": "version"
+  },
+  "PRF": {
+   "name": "perfect",
+   "plain": "the screeve of series III for what has (apparently) been done, with the doer in the dative",
+   "tag": "perfect"
+  },
+  "PLUP": {
+   "name": "pluperfect",
+   "plain": "the second screeve of series III: had done, or should have done",
+   "tag": "pluperfect"
+  },
+  "PTCP": {
+   "name": "participle",
+   "plain": "an adjective made from a verb: the past participle in -il or -ul, and the others when unmarked",
+   "tag": "past-participle"
+  },
+  "FUT": {
+   "name": "future",
+   "plain": "in this guide only in FUT.PTCP, the participle in sa- for what is to be done; future screeve forms are glossed by their preverb",
+   "tag": "participle"
+  },
+  "PRIV": {
+   "name": "privative",
+   "plain": "the participle in u- ... -el or -ar: not done, un-",
+   "tag": "participle"
+  },
+  "MSD": {
+   "name": "masdar",
+   "plain": "the verbal noun, the form a verb is named by: c̣era 'writing'",
+   "tag": "masdar"
+  },
+  "REL": {
+   "name": "relativiser",
+   "plain": "the suffix -c that turns a question word into a relative word: vin 'who?', vinc 'who (that)'",
+   "tag": "relative"
+  },
+  "QUOT": {
+   "name": "quotative",
+   "plain": "the particle -o (and -metki, -tko) marking reported words",
+   "tag": "quotative"
+  },
+  "SBJV": {
+   "name": "subjunctive",
+   "plain": "the screeves in -de (present and future subjunctive), used in some subordinate clauses",
+   "tag": "subjunctive"
+  },
+  "CAUS": {
+   "name": "causative",
+   "plain": "the suffix -in in a- ... -in-eb that makes 'make someone do'",
+   "tag": "causative"
+  },
+  "LV": {
+   "name": "locative version",
+   "plain": "the vowel a- in front of the root meaning 'on, over' something",
+   "tag": "locative-version"
+  },
+  "OBL": {
+   "name": "oblique",
+   "plain": "the short form of a demonstrative before a noun in any case but the nominative: am, mag, im",
+   "tag": "demonstratives"
+  }
+ },
+ "terms": {}
+}

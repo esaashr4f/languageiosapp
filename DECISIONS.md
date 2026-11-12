@@ -53,3 +53,8 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: hbo: verb forms glossed by name (QTL, YQTL, WAYY, WQTL), not as tenses, because the tense/aspect/discourse debate is unresolved; proclitics take `=`.
 - 2026-11-12: hbo: divine name YHWH in translit, glossed Yhwh, translated "the LORD"; ketiv in orig, qere elsewhere with a note; Hebrew (MT) verse numbering.
 - 2026-11-12: hbo: capstone Genesis 1:1–2:3 (or a cut of it); readings Ruth 1, 1 Sam 3, Jonah 1, Gen 22, Deut 6:4–9, Ps 23, Qohelet 1. Wiktionary used for pointing only (it describes Modern Hebrew). WALS values are Modern Hebrew only; the Compare screen must not show them as Biblical.
+- 2026-11-12: swh: Standard Swahili (Kiunguja base); colloquial, Kenyan and coastal forms labelled; Sheng and Congo Swahili described only (swh-07-13). Glottolog swah1253 (swah1254 is the G.40 group).
+- 2026-11-12: swh: noun classes glossed C1 to C18 with function after a full stop (C7.SM, C7.OM, C7.REL); third-person prefixes glossed by class; 3SG/3PL only for yeye/wao; final vowel FV, subjunctive SBJV, negative -i NEG; tense glosses SIT, CONS, HAB, ANT, COND, CTRF, GNO, PST.NEG, PRF.NEG; -ik- STAT.
+- 2026-11-12: swh: capstone is the Tanzanian national anthem "Mungu ibariki Afrika"; Shaaban Robert rejected (no open checkable text; copyright outside Tanzania uncertain); Utendi wa Tambuka beyond reach, shown in swh-07-13 only.
+- 2026-11-12: swh: Ashton 1944 and Mohammed 2001 could not be opened; paradigms rest on Wiktionary, Polomé 1967 (open, ERIC) and Steere. About half the verb-table rows are (unverified) until a second source is found. Candidate for an owner-supplied textbook if open sources stay thin.
+- 2026-11-12: swh: syllabus is 98 lessons (not padded to 100).

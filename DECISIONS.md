@@ -26,3 +26,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: lat: syllable breaks are shown with a raised dot (fē·mi·na), stressed syllables in capitals inside notes (a·MĪ·cus); "long" is used only of vowels and "heavy" only of syllables.
 - 2026-11-12: lat: part 1 single-word examples are glossed by meaning only, labelled verified against wiktionary; orig may show an inscriptional spelling (IVLIVS) with the guide's spelling in morphemes.
 - 2026-11-12: Glossary `terms` are kept by the main agent from drafters' reports, each noting the lesson that defines it.
+- 2026-11-12: Owner may supply copyrighted grammars; they go in `private-sources/` (git-ignored, never pushed), used only to check forms and explanations, cited in sources.json, never copied.

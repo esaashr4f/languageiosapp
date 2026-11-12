@@ -1,0 +1,160 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we",
+   "tag": "pronouns"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person spoken to: you",
+   "tag": "pronouns"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "anyone or anything else: he, she, it, they",
+   "tag": "pronouns"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "pronouns"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one",
+   "tag": "pronouns"
+  },
+  "M": {
+   "name": "masculine",
+   "plain": "one of the two genders; also used for mixed groups",
+   "tag": "pronouns"
+  },
+  "F": {
+   "name": "feminine",
+   "plain": "one of the two genders",
+   "tag": "pronouns"
+  },
+  "DEF": {
+   "name": "definite article",
+   "plain": "the prefix ha- 'the', which doubles the next consonant",
+   "tag": "article"
+  },
+  "QTL": {
+   "name": "qatal (suffix conjugation)",
+   "plain": "the verb form that marks person with endings, mostly used for completed events: he did, he has done",
+   "tag": "qatal-intro"
+  },
+  "Q": {
+   "name": "question particle",
+   "plain": "the prefix hă- that turns a statement into a yes/no question",
+   "tag": "question-particle"
+  },
+  "OBJ": {
+   "name": "object marker",
+   "plain": "the word ʾēt (ʾet-, ʾōt-) placed before a definite direct object; it has no English equivalent",
+   "tag": "object-marker"
+  },
+  "DU": {
+   "name": "dual",
+   "plain": "exactly two, or a natural pair such as hands or eyes",
+   "tag": "number"
+  },
+  "CSTR": {
+   "name": "construct state",
+   "plain": "the bound form a noun takes when another noun or a suffix follows it: 'word of'",
+   "tag": "construct"
+  },
+  "YQTL": {
+   "name": "yiqtol (long prefix conjugation)",
+   "plain": "the verb form that marks person with prefixes, used mostly for future, habitual and modal events: he will do, he used to do, he may do",
+   "tag": "yiqtol"
+  },
+  "WAYY": {
+   "name": "wayyiqtol prefix",
+   "plain": "the prefix wa- plus doubling that turns a short prefix form into the main past-narrative verb: and he did",
+   "tag": "wayyiqtol"
+  },
+  "WQTL": {
+   "name": "weqatal prefix",
+   "plain": "the prefix wə- on a qatal form when it continues a command, future or habit: and he will do",
+   "tag": "weqatal"
+  },
+  "IMP": {
+   "name": "imperative",
+   "plain": "the command form: do!",
+   "tag": "imperative"
+  },
+  "JUSS": {
+   "name": "jussive",
+   "plain": "the short prefix form used to wish or command for a third person, and with ʾal for 'do not': let him do",
+   "tag": "volitives"
+  },
+  "COH": {
+   "name": "cohortative",
+   "plain": "the first-person prefix form lengthened with -â, expressing resolve or request: let me do, let us do",
+   "tag": "volitives"
+  },
+  "PTCP": {
+   "name": "participle",
+   "plain": "a verbal adjective that can also act as a noun or as 'is doing'",
+   "tag": "participle"
+  },
+  "PASS": {
+   "name": "passive",
+   "plain": "the subject undergoes the action; used here of the qal passive participle (šāmûr 'guarded')",
+   "tag": "participle"
+  },
+  "INF": {
+   "name": "infinitive construct",
+   "plain": "the verbal noun used after prepositions: to do, when doing",
+   "tag": "infinitive-construct"
+  },
+  "NIPH": {
+   "name": "niphal",
+   "plain": "the n-stem, mostly passive or middle: was guarded, guarded himself",
+   "tag": "niphal"
+  },
+  "PIEL": {
+   "name": "piel",
+   "plain": "the stem that doubles the middle root letter, often making a state happen or intensifying",
+   "tag": "piel"
+  },
+  "PUAL": {
+   "name": "pual",
+   "plain": "the passive of the piel",
+   "tag": "piel"
+  },
+  "HIPH": {
+   "name": "hiphil",
+   "plain": "the h-stem, mostly causative: made someone do",
+   "tag": "hiphil"
+  },
+  "HOPH": {
+   "name": "hophal",
+   "plain": "the passive of the hiphil: was made to do",
+   "tag": "hiphil"
+  },
+  "HITP": {
+   "name": "hithpael",
+   "plain": "the stem with the prefix hit-, mostly reflexive or reciprocal: did to or for oneself, to each other",
+   "tag": "hithpael"
+  },
+  "DIR": {
+   "name": "directional ending",
+   "plain": "the unstressed ending -â meaning 'towards': to Egypt, homewards",
+   "tag": "directional"
+  },
+  "REL": {
+   "name": "relative marker",
+   "plain": "the word ʾăšer (later še-) that opens a clause describing a noun: who, which, that",
+   "tag": "relative"
+  },
+  "INFABS": {
+   "name": "infinitive absolute",
+   "plain": "the free verbal noun used for emphasis, for an accompanying action, or as a command",
+   "tag": "infinitive-absolute"
+  }
+ },
+ "terms": {}
+}

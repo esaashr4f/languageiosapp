@@ -1,0 +1,1430 @@
+{
+ "lang": "hbo",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Biblical Hebrew is, which Hebrew this guide teaches, the root-and-pattern idea and the narrative chain, and where the facts come from."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and script",
+   "summary": "The square script and its consonants, the Tiberian vowel points, shewa, dagesh and begadkefat, syllables, stress and pause, the accents as punctuation, and the transliteration used in the guide."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "Sentences without a verb, the article, 'and', the personal pronouns, the prefixed prepositions, a first verb form, negation, yes/no questions and the object marker."
+  },
+  {
+   "part": 3,
+   "title": "Nouns and their machinery",
+   "summary": "Gender, plural and dual, how noun vowels shift, segholates, the construct state, pronoun suffixes on nouns and prepositions, demonstratives, adjectives and the common irregular nouns."
+  },
+  {
+   "part": 4,
+   "title": "Verbs: the core system",
+   "summary": "The qatal and yiqtol conjugations, the wayyiqtol and weqatal chains and the debate over what they mean, commands and wishes, participles and infinitives, the weak verb classes, object suffixes and the derived stems."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adverbs and focus particles, nouns used as adverbs, numbers, comparison, quantifiers, compound prepositions, kî, clauses that break the chain, and hinnēh and wayhî."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Question words, relative clauses, purpose, time, cause and condition, reported speech, oaths and wishes, and how a narrative episode is built."
+  },
+  {
+   "part": 7,
+   "title": "Advanced and special topics",
+   "summary": "The meaning of the stems, rarer stems, the infinitive absolute, the text behind the page, poetry, Late Biblical Hebrew, the history of the vowels, word formation, inscriptions, and Biblical Aramaic and later Hebrew."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Eight graded passages from Ruth, Samuel, Jonah, Genesis, Deuteronomy, the Psalms and Qohelet, ending with the creation story of Genesis 1."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "Paradigm tables, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "hbo-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-biblical-hebrew-is",
+   "title": "What Biblical Hebrew is",
+   "point": "Place Biblical Hebrew in time, space and family, and know which Hebrew, and which reading of it, this guide teaches",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "hbo-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "roots-patterns-and-the-chain",
+   "title": "The organising idea: roots, patterns and the narrative chain",
+   "point": "See how three consonants and a vowel pattern make a word, and how a story moves by a chain of 'and he did' verbs",
+   "requires": [
+    "hbo-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide and where its facts come from",
+   "point": "Read the examples, transliteration, glosses, confidence labels and verse citations used throughout",
+   "requires": [
+    "hbo-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "letters-and-direction",
+   "title": "The consonant letters and the direction of writing",
+   "point": "Recognise the 22 letters and their five final forms, and read a line from right to left",
+   "requires": [
+    "hbo-00-03"
+   ],
+   "introduces": [
+    "consonants"
+   ]
+  },
+  {
+   "id": "hbo-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "consonant-sounds",
+   "title": "The sounds of the consonants",
+   "point": "Pronounce each consonant as this guide does, and know how the Tiberian, biblical-period and modern pronunciations differ",
+   "requires": [
+    "hbo-01-01"
+   ],
+   "introduces": [
+    "gutturals"
+   ]
+  },
+  {
+   "id": "hbo-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "vowel-points",
+   "title": "The vowel points",
+   "point": "Read the full vowels of the Tiberian pointing and know what the dots and dashes record",
+   "requires": [
+    "hbo-01-02"
+   ],
+   "introduces": [
+    "vowel-points"
+   ]
+  },
+  {
+   "id": "hbo-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "vowel-letters",
+   "title": "Vowel letters: full and defective spelling",
+   "point": "Read the consonants that double as vowel signs and see why the same word can be spelled two ways",
+   "requires": [
+    "hbo-01-03"
+   ],
+   "introduces": [
+    "matres"
+   ]
+  },
+  {
+   "id": "hbo-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "shewa-and-reduced-vowels",
+   "title": "Shewa and the reduced vowels",
+   "point": "Tell vocal shewa from silent shewa and read the three hatef vowels",
+   "requires": [
+    "hbo-01-04"
+   ],
+   "introduces": [
+    "shewa"
+   ]
+  },
+  {
+   "id": "hbo-01-06",
+   "part": 1,
+   "order": 6,
+   "slug": "syllables",
+   "title": "Syllables, vowel length and qameṣ ḥaṭuf",
+   "point": "Divide a word into syllables and read qameṣ correctly as ā or o",
+   "requires": [
+    "hbo-01-05"
+   ],
+   "introduces": [
+    "syllables"
+   ]
+  },
+  {
+   "id": "hbo-01-07",
+   "part": 1,
+   "order": 7,
+   "slug": "dagesh-and-begadkefat",
+   "title": "Dagesh: doubling and the six soft letters",
+   "point": "Tell a doubling dot from a hardening dot and pronounce b g d k p t hard or soft",
+   "requires": [
+    "hbo-01-06"
+   ],
+   "introduces": [
+    "dagesh",
+    "begadkefat"
+   ]
+  },
+  {
+   "id": "hbo-01-08",
+   "part": 1,
+   "order": 8,
+   "slug": "stress-maqqef-pause",
+   "title": "Stress, maqqef and pause",
+   "point": "Find the stressed syllable, read words joined by maqqef, and recognise pausal forms",
+   "requires": [
+    "hbo-01-07"
+   ],
+   "introduces": [
+    "stress-pause"
+   ]
+  },
+  {
+   "id": "hbo-01-09",
+   "part": 1,
+   "order": 9,
+   "slug": "accents-and-ketiv-qere",
+   "title": "The accents as punctuation, and ketiv and qere",
+   "point": "Use the main disjunctive accents to divide a verse, and read a word whose margin note corrects its letters",
+   "requires": [
+    "hbo-01-08"
+   ],
+   "introduces": [
+    "accents",
+    "ketiv-qere"
+   ]
+  },
+  {
+   "id": "hbo-01-10",
+   "part": 1,
+   "order": 10,
+   "slug": "transliteration-and-reading",
+   "title": "The guide's transliteration, and reading Genesis 1:1–3 aloud",
+   "point": "Write and read any pointed word in the guide's transliteration and read a first verse aloud",
+   "requires": [
+    "hbo-01-09"
+   ],
+   "introduces": [
+    "transliteration"
+   ]
+  },
+  {
+   "id": "hbo-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "sentences-without-a-verb",
+   "title": "Saying what something is: sentences without a verb",
+   "point": "Make a sentence from two nouns or a noun and an adjective, with no word for 'is'",
+   "requires": [
+    "hbo-01-10"
+   ],
+   "introduces": [
+    "verbless-clause"
+   ]
+  },
+  {
+   "id": "hbo-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "the-article",
+   "title": "The article: ha- and the doubling it causes",
+   "point": "Make a noun definite and predict the article's form before any consonant",
+   "requires": [
+    "hbo-02-01"
+   ],
+   "introduces": [
+    "article"
+   ]
+  },
+  {
+   "id": "hbo-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "and",
+   "title": "'And': the prefix wə- and its other forms",
+   "point": "Join words and clauses with wə-, and know when it becomes û or wā",
+   "requires": [
+    "hbo-02-02"
+   ],
+   "introduces": [
+    "conjunction"
+   ]
+  },
+  {
+   "id": "hbo-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "personal-pronouns",
+   "title": "The personal pronouns",
+   "point": "Use I, you, he, she, we and they as the subject of a sentence without a verb",
+   "requires": [
+    "hbo-02-03"
+   ],
+   "introduces": [
+    "pronouns"
+   ]
+  },
+  {
+   "id": "hbo-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "prefixed-prepositions",
+   "title": "The prefixed prepositions bə-, lə-, kə- and min",
+   "point": "Say in, to, like and from, and merge them with the article",
+   "requires": [
+    "hbo-02-04"
+   ],
+   "introduces": [
+    "prepositions"
+   ]
+  },
+  {
+   "id": "hbo-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "a-first-verb-qatal",
+   "title": "A first verb form: qatal, 'he did'",
+   "point": "Make a past statement with the third-person qatal and put the verb first",
+   "requires": [
+    "hbo-02-05",
+    "hbo-02-04"
+   ],
+   "introduces": [
+    "qatal-intro"
+   ]
+  },
+  {
+   "id": "hbo-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "negation-and-existence",
+   "title": "Negation, and 'there is' and 'there is not'",
+   "point": "Negate a verb with lōʾ, and say that something exists or does not with yēš and ʾên",
+   "requires": [
+    "hbo-02-06"
+   ],
+   "introduces": [
+    "negation"
+   ]
+  },
+  {
+   "id": "hbo-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "yes-no-questions",
+   "title": "Yes/no questions",
+   "point": "Turn a statement into a question with hă- and answer it",
+   "requires": [
+    "hbo-02-07"
+   ],
+   "introduces": [
+    "question-particle"
+   ]
+  },
+  {
+   "id": "hbo-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "the-object-marker",
+   "title": "The object marker ʾēt",
+   "point": "Mark a definite object and see why an indefinite one is left bare",
+   "requires": [
+    "hbo-02-08",
+    "hbo-02-02"
+   ],
+   "introduces": [
+    "object-marker"
+   ]
+  },
+  {
+   "id": "hbo-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "gender",
+   "title": "Masculine and feminine",
+   "point": "Tell a noun's gender from its ending, and know the feminine nouns that show no ending",
+   "requires": [
+    "hbo-02-09"
+   ],
+   "introduces": [
+    "gender"
+   ]
+  },
+  {
+   "id": "hbo-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "plural-and-dual",
+   "title": "Plural and dual",
+   "point": "Make plurals in -îm and -ôt and duals in -ayim, and know why the vowels shift",
+   "requires": [
+    "hbo-03-01"
+   ],
+   "introduces": [
+    "number"
+   ]
+  },
+  {
+   "id": "hbo-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "noun-vowel-changes",
+   "title": "Why noun vowels change",
+   "point": "Predict how a noun's vowels shorten as endings are added",
+   "requires": [
+    "hbo-03-02"
+   ],
+   "introduces": [
+    "noun-vowel-changes"
+   ]
+  },
+  {
+   "id": "hbo-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "segholates",
+   "title": "Segholate nouns: melek, sēper, qōdeš",
+   "point": "Recognise the commonest noun type and build its plural and suffixed forms",
+   "requires": [
+    "hbo-03-03"
+   ],
+   "introduces": [
+    "segholates"
+   ]
+  },
+  {
+   "id": "hbo-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "the-construct-state",
+   "title": "The construct state: 'the word of the king'",
+   "point": "Join two nouns so that the first belongs to the second",
+   "requires": [
+    "hbo-03-04",
+    "hbo-02-02",
+    "hbo-03-02"
+   ],
+   "introduces": [
+    "construct"
+   ]
+  },
+  {
+   "id": "hbo-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "construct-chains",
+   "title": "Construct chains and the construct plural",
+   "point": "Build longer chains, make them definite, and form the construct plural and feminine",
+   "requires": [
+    "hbo-03-05"
+   ],
+   "introduces": [
+    "construct-chains"
+   ]
+  },
+  {
+   "id": "hbo-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "suffixes-on-singular-nouns",
+   "title": "Pronoun suffixes on singular nouns",
+   "point": "Say my, your, his, her, our and their with endings on a singular noun",
+   "requires": [
+    "hbo-03-06"
+   ],
+   "introduces": [
+    "possessive-suffixes"
+   ]
+  },
+  {
+   "id": "hbo-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "suffixes-on-plural-nouns",
+   "title": "Pronoun suffixes on plural nouns",
+   "point": "Add the possessive endings to plural and dual nouns",
+   "requires": [
+    "hbo-03-07"
+   ],
+   "introduces": [
+    "plural-suffixes"
+   ]
+  },
+  {
+   "id": "hbo-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "suffixes-on-prepositions",
+   "title": "Pronoun suffixes on prepositions and on ʾēt",
+   "point": "Say to me, with him, from them, and use ʾōtô for 'him' as object",
+   "requires": [
+    "hbo-03-08",
+    "hbo-02-05",
+    "hbo-02-09"
+   ],
+   "introduces": [
+    "preposition-suffixes"
+   ]
+  },
+  {
+   "id": "hbo-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "demonstratives",
+   "title": "This and that: the demonstratives",
+   "point": "Point to something near or far, before or after its noun",
+   "requires": [
+    "hbo-03-09"
+   ],
+   "introduces": [
+    "demonstratives"
+   ]
+  },
+  {
+   "id": "hbo-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "adjectives",
+   "title": "Adjectives: describing and stating",
+   "point": "Make an adjective describe a noun or state something about it, and make it agree",
+   "requires": [
+    "hbo-03-10"
+   ],
+   "introduces": [
+    "adjectives"
+   ]
+  },
+  {
+   "id": "hbo-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "irregular-nouns",
+   "title": "The common irregular nouns",
+   "point": "Use father, brother, man, woman, son, daughter, house, day and city in all their forms",
+   "requires": [
+    "hbo-03-11"
+   ],
+   "introduces": [
+    "irregular-nouns"
+   ]
+  },
+  {
+   "id": "hbo-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "roots-and-stems",
+   "title": "Roots and the seven stems",
+   "point": "See how one root is spread across up to seven verb stems with related meanings",
+   "requires": [
+    "hbo-03-12"
+   ],
+   "introduces": [
+    "binyanim"
+   ]
+  },
+  {
+   "id": "hbo-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "qatal",
+   "title": "The qatal conjugation in full",
+   "point": "Build all persons of qatal and know why its endings look like pronouns",
+   "requires": [
+    "hbo-04-01",
+    "hbo-02-06"
+   ],
+   "introduces": [
+    "qatal"
+   ]
+  },
+  {
+   "id": "hbo-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "yiqtol",
+   "title": "The yiqtol conjugation",
+   "point": "Build all persons of yiqtol, with its prefixes and endings, and read it as 'will do' or 'used to do'",
+   "requires": [
+    "hbo-04-02"
+   ],
+   "introduces": [
+    "yiqtol"
+   ]
+  },
+  {
+   "id": "hbo-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "wayyiqtol",
+   "title": "Wayyiqtol: the narrative chain",
+   "point": "Tell a story in the past with 'and he did, and he did'",
+   "requires": [
+    "hbo-04-03",
+    "hbo-02-03"
+   ],
+   "introduces": [
+    "wayyiqtol"
+   ]
+  },
+  {
+   "id": "hbo-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "weqatal",
+   "title": "Weqatal: the chain of instructions and futures",
+   "point": "Continue a command or a future with 'and you will do'",
+   "requires": [
+    "hbo-04-04",
+    "hbo-04-02"
+   ],
+   "introduces": [
+    "weqatal"
+   ]
+  },
+  {
+   "id": "hbo-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "what-the-forms-mean",
+   "title": "What qatal, yiqtol, wayyiqtol and weqatal mean: tense, aspect or discourse?",
+   "point": "Know what the forms do in prose, why scholars disagree about the system, and how this guide talks about it",
+   "requires": [
+    "hbo-04-05"
+   ],
+   "introduces": [
+    "verb-meaning"
+   ]
+  },
+  {
+   "id": "hbo-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "imperative",
+   "title": "The imperative",
+   "point": "Give a command to one or several people, masculine or feminine",
+   "requires": [
+    "hbo-04-06"
+   ],
+   "introduces": [
+    "imperative"
+   ]
+  },
+  {
+   "id": "hbo-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "jussive-and-cohortative",
+   "title": "Wishes and resolves: jussive, cohortative and nāʾ",
+   "point": "Say 'let him do', 'let me do' and 'do not', and recognise the short and lengthened forms",
+   "requires": [
+    "hbo-04-07"
+   ],
+   "introduces": [
+    "volitives"
+   ]
+  },
+  {
+   "id": "hbo-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "participle",
+   "title": "The participle",
+   "point": "Use the qal active and passive participle as noun, adjective and 'is doing'",
+   "requires": [
+    "hbo-04-08"
+   ],
+   "introduces": [
+    "participle"
+   ]
+  },
+  {
+   "id": "hbo-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "infinitive-construct",
+   "title": "The infinitive construct",
+   "point": "Say 'to do' with lə- and 'when he did' with bə- or kə-",
+   "requires": [
+    "hbo-04-09"
+   ],
+   "introduces": [
+    "infinitive-construct"
+   ]
+  },
+  {
+   "id": "hbo-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "guttural-verbs",
+   "title": "Verbs with guttural root letters",
+   "point": "Predict the vowel changes when a root contains ʾ, h, ḥ, ʿ or r",
+   "requires": [
+    "hbo-04-10"
+   ],
+   "introduces": [
+    "guttural-verbs"
+   ]
+  },
+  {
+   "id": "hbo-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "first-aleph-and-first-nun",
+   "title": "Verbs beginning with ʾ or n: ʾāmar, nāpal, nātan",
+   "point": "Recognise wayyōʾmer, yippōl and yittēn and know where the missing letter went",
+   "requires": [
+    "hbo-04-11"
+   ],
+   "introduces": [
+    "weak-initial"
+   ]
+  },
+  {
+   "id": "hbo-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "first-yod-waw",
+   "title": "Verbs beginning with y: yāšab, yādaʿ, yāṣāʾ",
+   "point": "Recognise the short stems of the commonest weak verbs",
+   "requires": [
+    "hbo-04-12"
+   ],
+   "introduces": [
+    "first-yod"
+   ]
+  },
+  {
+   "id": "hbo-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "hollow-verbs",
+   "title": "Hollow verbs: qûm, śîm, bôʾ",
+   "point": "Conjugate verbs whose middle root letter is a vowel",
+   "requires": [
+    "hbo-04-13"
+   ],
+   "introduces": [
+    "hollow-verbs"
+   ]
+  },
+  {
+   "id": "hbo-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "third-he-verbs",
+   "title": "Verbs ending in -â: bānâ, ʿāśâ, rāʾâ",
+   "point": "Conjugate the largest weak class and recognise its short forms wayyar and wayyaʿaś",
+   "requires": [
+    "hbo-04-14"
+   ],
+   "introduces": [
+    "third-he"
+   ]
+  },
+  {
+   "id": "hbo-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "geminate-and-irregular-verbs",
+   "title": "Doubled roots and the irregular verbs hālak and lāqaḥ",
+   "point": "Recognise forms of sabab, hālak and lāqaḥ that look like other roots",
+   "requires": [
+    "hbo-04-15"
+   ],
+   "introduces": [
+    "geminate"
+   ]
+  },
+  {
+   "id": "hbo-04-17",
+   "part": 4,
+   "order": 17,
+   "slug": "haya",
+   "title": "Hāyâ: 'be', 'become', and wayhî",
+   "point": "Use hāyâ for past and future being, and know why the present needs no verb",
+   "requires": [
+    "hbo-04-16",
+    "hbo-04-15",
+    "hbo-02-01"
+   ],
+   "introduces": [
+    "haya"
+   ]
+  },
+  {
+   "id": "hbo-04-18",
+   "part": 4,
+   "order": 18,
+   "slug": "object-suffixes",
+   "title": "Pronoun suffixes on verbs",
+   "point": "Attach 'me', 'him', 'them' to a verb and read the vowel changes it causes",
+   "requires": [
+    "hbo-04-17"
+   ],
+   "introduces": [
+    "object-suffixes"
+   ]
+  },
+  {
+   "id": "hbo-04-19",
+   "part": 4,
+   "order": 19,
+   "slug": "niphal",
+   "title": "The niphal: passive and middle",
+   "point": "Build the niphal and use it for 'was done', 'did to oneself' and some plain verbs",
+   "requires": [
+    "hbo-04-18"
+   ],
+   "introduces": [
+    "niphal"
+   ]
+  },
+  {
+   "id": "hbo-04-20",
+   "part": 4,
+   "order": 20,
+   "slug": "piel-and-pual",
+   "title": "The piel and pual: the doubled stems",
+   "point": "Build the piel and its passive and know what the doubled middle letter adds",
+   "requires": [
+    "hbo-04-19"
+   ],
+   "introduces": [
+    "piel"
+   ]
+  },
+  {
+   "id": "hbo-04-21",
+   "part": 4,
+   "order": 21,
+   "slug": "hiphil-and-hophal",
+   "title": "The hiphil and hophal: making happen",
+   "point": "Build the causative stem and its passive",
+   "requires": [
+    "hbo-04-20"
+   ],
+   "introduces": [
+    "hiphil"
+   ]
+  },
+  {
+   "id": "hbo-04-22",
+   "part": 4,
+   "order": 22,
+   "slug": "hithpael",
+   "title": "The hithpael: doing to or for oneself",
+   "point": "Build the reflexive and reciprocal stem and its metathesis",
+   "requires": [
+    "hbo-04-21"
+   ],
+   "introduces": [
+    "hithpael"
+   ]
+  },
+  {
+   "id": "hbo-04-23",
+   "part": 4,
+   "order": 23,
+   "slug": "weak-verbs-in-derived-stems",
+   "title": "Weak verbs in the derived stems",
+   "point": "Recognise hēqîm, hôšîaʿ, hibbîṭ, nôlad and hēbîʾ and find their roots",
+   "requires": [
+    "hbo-04-22"
+   ],
+   "introduces": [
+    "weak-derived"
+   ]
+  },
+  {
+   "id": "hbo-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "adverbs-and-focus-particles",
+   "title": "Adverbs and focus particles",
+   "point": "Use now, there, thus, also, only and surely, and place them in the clause",
+   "requires": [
+    "hbo-04-23"
+   ],
+   "introduces": [
+    "adverbs"
+   ]
+  },
+  {
+   "id": "hbo-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "nouns-as-adverbs",
+   "title": "Nouns as adverbs: the directional -â and bare time and place words",
+   "point": "Say 'to Egypt', 'that day' and 'in the morning' without a preposition",
+   "requires": [
+    "hbo-05-01"
+   ],
+   "introduces": [
+    "directional"
+   ]
+  },
+  {
+   "id": "hbo-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "numbers-one-to-ten",
+   "title": "Numbers one to ten",
+   "point": "Count things, and see why three to ten take the 'wrong' gender",
+   "requires": [
+    "hbo-05-02"
+   ],
+   "introduces": [
+    "numerals"
+   ]
+  },
+  {
+   "id": "hbo-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "higher-numbers-and-ordinals",
+   "title": "Higher numbers, ordinals and dates",
+   "point": "Say ages, years and the days of creation",
+   "requires": [
+    "hbo-05-03"
+   ],
+   "introduces": [
+    "numerals-higher"
+   ]
+  },
+  {
+   "id": "hbo-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "comparison",
+   "title": "Comparison: 'more than' and 'most'",
+   "point": "Compare with min and express the superlative without a special form",
+   "requires": [
+    "hbo-05-04"
+   ],
+   "introduces": [
+    "comparison"
+   ]
+  },
+  {
+   "id": "hbo-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "kol-and-quantifiers",
+   "title": "Kol and other quantifiers",
+   "point": "Say all, every, each, any and none",
+   "requires": [
+    "hbo-05-05"
+   ],
+   "introduces": [
+    "quantifiers"
+   ]
+  },
+  {
+   "id": "hbo-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "compound-prepositions",
+   "title": "The fuller prepositions",
+   "point": "Use before, after, under, upon, with and between, including the compound ones made from nouns",
+   "requires": [
+    "hbo-05-06"
+   ],
+   "introduces": [
+    "compound-prepositions"
+   ]
+  },
+  {
+   "id": "hbo-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "ki",
+   "title": "Kî: that, because, when, indeed",
+   "point": "Read the commonest linking word in each of its senses",
+   "requires": [
+    "hbo-05-07"
+   ],
+   "introduces": [
+    "ki"
+   ]
+  },
+  {
+   "id": "hbo-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "breaking-the-chain",
+   "title": "Breaking the chain: wə- plus a noun",
+   "point": "Mark background, contrast and simultaneous events by putting something other than a verb after wə-",
+   "requires": [
+    "hbo-05-08"
+   ],
+   "introduces": [
+    "disjunctive-clauses"
+   ]
+  },
+  {
+   "id": "hbo-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "hinneh-and-wayhi",
+   "title": "Hinnēh and wayhî: pointing and setting the scene",
+   "point": "Use hinnēh for 'look' and a character's point of view, and wayhî to set a time frame",
+   "requires": [
+    "hbo-05-09"
+   ],
+   "introduces": [
+    "hinneh"
+   ]
+  },
+  {
+   "id": "hbo-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "question-words",
+   "title": "Question words",
+   "point": "Ask who, what, where, why, when and how",
+   "requires": [
+    "hbo-05-10"
+   ],
+   "introduces": [
+    "question-words"
+   ]
+  },
+  {
+   "id": "hbo-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "relative-clauses",
+   "title": "Relative clauses with ʾăšer",
+   "point": "Describe a noun with a clause, using a pronoun to mark the gap",
+   "requires": [
+    "hbo-06-01"
+   ],
+   "introduces": [
+    "relative"
+   ]
+  },
+  {
+   "id": "hbo-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "relatives-without-asher",
+   "title": "Relatives without ʾăšer, and the participle as relative",
+   "point": "Read relative clauses with no relative word and 'the one who does' with the article and participle",
+   "requires": [
+    "hbo-06-02"
+   ],
+   "introduces": [
+    "relative-other"
+   ]
+  },
+  {
+   "id": "hbo-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "purpose-clauses",
+   "title": "Purpose: 'so that' and 'lest'",
+   "point": "Say why something is done with lə-, ləmaʿan, and pen",
+   "requires": [
+    "hbo-06-03"
+   ],
+   "introduces": [
+    "purpose"
+   ]
+  },
+  {
+   "id": "hbo-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "temporal-clauses",
+   "title": "Time clauses",
+   "point": "Say when, after, until and before",
+   "requires": [
+    "hbo-06-04"
+   ],
+   "introduces": [
+    "temporal"
+   ]
+  },
+  {
+   "id": "hbo-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "causal-clauses",
+   "title": "Cause and result",
+   "point": "Say because and therefore",
+   "requires": [
+    "hbo-06-05"
+   ],
+   "introduces": [
+    "causal"
+   ]
+  },
+  {
+   "id": "hbo-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "conditional-sentences",
+   "title": "Conditional sentences",
+   "point": "Say if and if only, real and unreal, and continue the result with weqatal",
+   "requires": [
+    "hbo-06-06"
+   ],
+   "introduces": [
+    "conditional"
+   ]
+  },
+  {
+   "id": "hbo-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "reported-speech",
+   "title": "Speech and reported speech",
+   "point": "Introduce speech with lēʾmōr, and report what someone said, saw or knew",
+   "requires": [
+    "hbo-06-07"
+   ],
+   "introduces": [
+    "reported-speech"
+   ]
+  },
+  {
+   "id": "hbo-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "oaths-and-wishes",
+   "title": "Oaths, wishes and strong assertions",
+   "point": "Read oath formulas, 'if only' and 'may it be' sentences",
+   "requires": [
+    "hbo-06-08"
+   ],
+   "introduces": [
+    "oaths"
+   ]
+  },
+  {
+   "id": "hbo-06-10",
+   "part": 6,
+   "order": 10,
+   "slug": "anatomy-of-an-episode",
+   "title": "The anatomy of a narrative episode",
+   "point": "Follow how setting, mainline, background, speech and climax are marked in a whole scene",
+   "requires": [
+    "hbo-06-09"
+   ],
+   "introduces": [
+    "discourse"
+   ]
+  },
+  {
+   "id": "hbo-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "what-the-stems-mean",
+   "title": "What the stems mean",
+   "point": "Predict and also distrust the meaning of a stem from its form",
+   "requires": [
+    "hbo-06-10"
+   ],
+   "introduces": [
+    "stem-meaning"
+   ]
+  },
+  {
+   "id": "hbo-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "rarer-stems",
+   "title": "The rarer stems and four-letter roots",
+   "point": "Recognise polel, hithpolel, pilpel and the other minor stems",
+   "requires": [
+    "hbo-07-01"
+   ],
+   "introduces": [
+    "rare-stems"
+   ]
+  },
+  {
+   "id": "hbo-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "infinitive-absolute",
+   "title": "The infinitive absolute",
+   "point": "Read 'he surely died', 'going and weeping' and the infinitive used as a command",
+   "requires": [
+    "hbo-07-02"
+   ],
+   "introduces": [
+    "infinitive-absolute"
+   ]
+  },
+  {
+   "id": "hbo-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "the-text-behind-the-page",
+   "title": "The text behind the page: Masoretes, ketiv and qere, and the divine name",
+   "point": "Know what the Masoretic text is, how its notes work, and how YHWH and Jerusalem are pointed and read",
+   "requires": [
+    "hbo-07-03"
+   ],
+   "introduces": [
+    "masoretic-text"
+   ]
+  },
+  {
+   "id": "hbo-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "poetry-lines-and-parallelism",
+   "title": "Poetry I: lines and parallelism",
+   "point": "Divide a poem into lines and see how paired lines answer each other",
+   "requires": [
+    "hbo-07-04"
+   ],
+   "introduces": [
+    "poetry"
+   ]
+  },
+  {
+   "id": "hbo-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "the-grammar-of-poetry",
+   "title": "Poetry II: the grammar of poetry and archaic forms",
+   "point": "Read poetic verb use and old forms such as -mô, ʾēl and zû",
+   "requires": [
+    "hbo-07-05"
+   ],
+   "introduces": [
+    "poetic-grammar"
+   ]
+  },
+  {
+   "id": "hbo-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "late-biblical-hebrew",
+   "title": "Late Biblical Hebrew",
+   "point": "Recognise the Hebrew of Chronicles, Ezra–Nehemiah, Esther and Qohelet and what changed",
+   "requires": [
+    "hbo-07-06"
+   ],
+   "introduces": [
+    "lbh"
+   ]
+  },
+  {
+   "id": "hbo-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "history-of-the-vowels",
+   "title": "Why the vowels behave as they do: a short history",
+   "point": "Explain the main vowel alternations from the sound changes behind them",
+   "requires": [
+    "hbo-07-07"
+   ],
+   "introduces": [
+    "vowel-history"
+   ]
+  },
+  {
+   "id": "hbo-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "word-formation",
+   "title": "Word formation: noun patterns and endings",
+   "point": "Guess the meaning of a new noun from its pattern and endings",
+   "requires": [
+    "hbo-07-08"
+   ],
+   "introduces": [
+    "word-formation"
+   ]
+  },
+  {
+   "id": "hbo-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "inscriptions",
+   "title": "Hebrew outside the Bible: inscriptions and the old script",
+   "point": "Read a short Iron Age inscription and know the Palaeo-Hebrew letters",
+   "requires": [
+    "hbo-07-09"
+   ],
+   "introduces": [
+    "inscriptions"
+   ]
+  },
+  {
+   "id": "hbo-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "aramaic-and-after",
+   "title": "Biblical Aramaic, and Hebrew after the Bible",
+   "point": "Recognise the Aramaic chapters, and see how Rabbinic and Modern Hebrew differ",
+   "requires": [
+    "hbo-07-10"
+   ],
+   "introduces": [
+    "aramaic-and-after"
+   ]
+  },
+  {
+   "id": "hbo-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "reading-ruth",
+   "title": "Reading 1: Ruth 1:1–5",
+   "point": "Read a plain narrative opening built almost entirely of wayyiqtol",
+   "requires": [
+    "hbo-07-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "reading-samuel",
+   "title": "Reading 2: 1 Samuel 3:1–10",
+   "point": "Read a narrative with dialogue, background clauses and repetition",
+   "requires": [
+    "hbo-08-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "reading-jonah",
+   "title": "Reading 3: Jonah 1:1–6",
+   "point": "Read a story with commands, purpose clauses and a storm",
+   "requires": [
+    "hbo-08-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "reading-genesis-22",
+   "title": "Reading 4: Genesis 22:1–8",
+   "point": "Read a tightly told episode with a pause on every word",
+   "requires": [
+    "hbo-08-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "reading-shema",
+   "title": "Reading 5: Deuteronomy 6:4–9, the Shema",
+   "point": "Read a chain of weqatal instructions and pronoun suffixes",
+   "requires": [
+    "hbo-08-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "reading-psalm-23",
+   "title": "Reading 6: Psalm 23",
+   "point": "Read a short poem line by line",
+   "requires": [
+    "hbo-08-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-07",
+   "part": 8,
+   "order": 7,
+   "slug": "reading-qohelet",
+   "title": "Reading 7: Qohelet 1:1–11",
+   "point": "Read Late Biblical Hebrew reflective prose and verse",
+   "requires": [
+    "hbo-08-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-08-08",
+   "part": 8,
+   "order": 8,
+   "slug": "reading-genesis-1",
+   "title": "Capstone: Genesis 1:1–2:3, the creation",
+   "point": "Read the creation story with its refrains, numbers and jussives",
+   "requires": [
+    "hbo-08-07"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "hbo-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "tables-nouns-pronouns-particles",
+   "title": "Tables: nouns, pronouns, suffixes and particles",
+   "point": "Look up any nominal or pronominal form",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "hbo-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "tables-verbs",
+   "title": "Tables: the strong verb and the weak verb classes",
+   "point": "Look up any verb form in any stem",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "hbo-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "glossary",
+   "title": "Glossary of terms and abbreviations",
+   "point": "Look up any technical term or gloss abbreviation used in the guide",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "hbo-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "bibliography",
+   "title": "Annotated bibliography",
+   "point": "Know what each source is and where to go next",
+   "requires": [],
+   "introduces": []
+  }
+ ]
+}

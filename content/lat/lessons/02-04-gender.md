@@ -148,15 +148,29 @@ confidence: attested
 preview: PTCP
 :::
 
+## Where it applies
+
+- **People and gods: natural gender.** Men and male gods are masculine, women and goddesses feminine: *deus*, *dea* (ag1903 §30).
+- **Roles usually filled by men** are masculine in any declension: *nauta*, *poēta* (ag1903 §30).
+- **Everything else, by declension and ending.** First declension feminine; second declension *-us*, *-er*, *-ir* masculine; *-um* neuter (ag1903 §§42, 48).
+- **Cities, countries and trees are feminine** whatever their ending (ag1903 §§32, 48). *Rōma* is feminine. So are Greek town names in *-us*, such as *Corinthus*.
+- **Words that do not decline are neuter**, and so is a word quoted for its own sake (ag1903 §33). *Nihil* "nothing" is neuter.
+- **Nouns with no singular keep a gender too:** *arma* is neuter, *tenebrae* and *kalendae* feminine.
+- **Where gender shows.** In the noun itself, only through the neuter's nominative and accusative. In other words, through agreement: adjectives (lesson 7 of this part), then pronouns and participles in parts 3 and 4.
+
 ## Watch out
 
-**Gender is not sex.** *Silva* is feminine and *mūrus* masculine with no reason in the things they name. Learn the gender with the noun. The dictionary entry gives it: f., m. or n.
+**Do not treat an *-a* noun as feminine by its sound.** Spanish and French train you to hear *-a* as feminine. *Nauta* and *poēta* are masculine. The difference will show when you add an adjective in lesson 7.
 
-***-a* has two jobs.** In *puella* it is a feminine nominative singular. In *dōna* it is a neuter plural. The dictionary entry tells you which kind of noun you have: *dōnum, dōnī*, n. has no singular in *-a*.
+**Do not give neuters the masculine plural.** *\*Templī manent* and *\*Bellōs parant* use *servus* endings. The neuter plural is *-a* in both cases: *Templa manent*, *Bella parant*.
+
+**Do not read a neuter plural as a feminine singular.** *\*Dōna manet* takes *dōna* as one thing. It is plural: *Dōna manent*.
+
+**Do not expect Spanish or French gender to match.** *Templum* gives Spanish *templo* and French *temple*, both masculine, because neither language has neuter nouns. Learn the Latin gender with the Latin word. The dictionary entry gives it: f., m. or n.
+
+**Do not assume *-us* means masculine.** *Humus* "ground" is feminine. Its endings are those of *servus*.
 
 ***Arma* has no singular.** *Arma, armōrum*, n. "weapons" is used only in the plural. Its nominative and accusative are both *arma*.
-
-**Spanish and French have no neuter class for nouns.** *Templum* gives Spanish *templo* and French *temple*, and both are masculine.
 
 ## Reference table
 

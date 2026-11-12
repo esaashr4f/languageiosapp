@@ -245,7 +245,7 @@ negōtium | - | noun | business, task | negōtiī or negōtī, n.
 
 ## Connections
 
-Spanish and French third-person pronouns come from *ille*, the stronger demonstrative of the next lesson, not from *is*: Spanish *él* is from *ille*, and French *il* from its plural *illī* (Wiktionary). Japanese works in a similar way: 彼 "he" and 彼女 "she" are little used in ordinary speech, and speakers say その人 "that person" or use the name, a demonstrative in the place of a pronoun.
+Spanish and French third-person pronouns come from *ille*, the stronger demonstrative of the next lesson, not from *is*: Spanish *él* is from *ille*, and French *il* from its form *illī* (Wiktionary). Japanese works in a similar way: 彼 "he" and 彼女 "she" are little used in ordinary speech, and speakers say その人 "that person" or use the name, a demonstrative in the place of a pronoun.
 
 ## Exercises
 

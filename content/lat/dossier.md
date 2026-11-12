@@ -36,7 +36,8 @@ Consonants:
 | Glides | v [w] | consonantal i [j] | | | |
 
 Points to teach, all from allen1978:
-- c and g are always hard: *Cicerō* [ˈkɪkɛroː], *gēns* [ɡeːns].
+- c and g are always hard: *Cicerō* [ˈkɪkɛroː], *gēns* [ɡẽːs] (Wiktionary shows the weak n before s as nasalisation; [ɡeːns] in a spelling-based reading).
+- Plain p, t, c were probably less aspirated than English p, t, k: Greeks usually wrote them with their unaspirated letters (allen1978 pp. 12–13; some counter-evidence from Greek loans).
 - v is [w]: *vīnum* [ˈwiːnũ]. Consonantal i is [j]: *iam* [jam]; between vowels it is double [jj]: *maior* [ˈmajjɔr], which is why the first syllable is heavy though the a is short.
 - Final -m was weak: the vowel before it was nasalised and (probably) lengthened; this is why -m does not block elision in verse. Label "reconstructed".
 - gn was probably [ŋn]: *magnus* [ˈmaŋnʊs]. Label "probable".
@@ -45,7 +46,7 @@ Points to teach, all from allen1978:
 - bs, bt are pronounced [ps], [pt]: *urbs* [ʊrps].
 - Vowels are long before ns and nf (*cōnsul*, *īnfāns*) and the n was weakly pronounced.
 
-Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5):
+Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - A syllable is heavy if it has a long vowel or diphthong, or if it ends in a consonant (short vowel followed by two consonants, of which the first closes the syllable). x counts as two consonants; qu as one; h as none.
 - A stop followed by l or r (*patris*, *tenebrae*) normally goes with the following syllable in prose, leaving the preceding syllable light; poets may treat it either way.
 - Stress: two-syllable words on the first. Longer words on the second-from-last (penult) if it is heavy, otherwise on the third-from-last (antepenult). The enclitics -que, -ne, -ve draw the stress to the syllable before them (traditional rule, ag1903 §12a; some scholars doubt it applied when that syllable was light. Label "traditional rule").
@@ -54,7 +55,7 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5):
 
 - Latin alphabet of the classical period: A B C D E F G H I K L M N O P Q R S T V X, plus Y Z for Greek words. No lower case, no word spacing convention as now, no punctuation as now; all of that is editorial.
 - **This guide:** lower case, capitals for proper names and the first word of a sentence. **u** for the vowel and **v** for the consonant. **i** for both vowel and consonant (no j). This matches wiktionary, the Oxford Latin Dictionary's practice for i, and most current teaching texts.
-- **Macrons** on every long vowel, in `orig`, `morphemes`, vocab and tables, following wiktionary (which follows the standard dictionaries). Vowels long "by hidden quantity" (before ns, nf, and in forms like *rēx*, *āctus*, *lēctus*) are marked as wiktionary marks them. Where dictionaries disagree on a hidden quantity, follow wiktionary and do not make a point of it.
+- **Macrons** on every long vowel, in `orig`, `morphemes`, vocab and tables, following wiktionary (which follows the standard dictionaries). Vowels long "by hidden quantity" (before ns, nf, and in forms like *rēx*, *āctus*, *lēctus*) are marked as wiktionary marks them. Where dictionaries disagree on a hidden quantity (e.g. ag1903 §10d māgnus, Wiktionary magnus), follow wiktionary and do not make a point of it.
 - A macron marks vowel length, not syllable weight. *est* has a short vowel and a heavy syllable.
 - No transliteration field (`translit_optional` is true): the original is already in the alphabet a transliteration would use.
 - Unicode: precomposed macron letters (NFC): ā ē ī ō ū ȳ Ā Ē Ī Ō Ū.

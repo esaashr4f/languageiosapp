@@ -27,3 +27,14 @@ Appended at the end of each session: what was done, what failed, what to do next
 3. Build the hbo dossier and syllabus (docs/DOSSIER_BRIEF.md; Tiberian pointing, transliteration choice, right-to-left glossing rule, capstone choice).
 4. Then swh and san dossiers. Lessons for kat, tur and the others wait until Latin is complete.
 5. After each part: glossary terms from the drafter's report, `npm run build:reference -- lat`, `npm run stats`, commit, push.
+
+## Paused by the owner — 2026-11-12
+
+All agents stopped on the owner's request. State at the pause:
+- lat: parts 0–2 verified; part 3 (13 lessons + review lat-03-14) drafted. Part 3 verification was in progress: corrections to lat-03-01 to 03-03 may be committed; restart verification of the whole part (docs/VERIFY_BRIEF.md) so the counts are complete.
+- lat-02-09 (part 2 review) and part 4 (lat-04-01 to 04-20): drafting had just started; check `content/lat/lessons/` for anything that landed, lint it, and continue from the first missing lesson.
+- san: dossier was in progress; files in `content/san/` are partial. Finish per docs/DOSSIER_BRIEF.md (including step 7, review lessons).
+- kat, tur, hbo, swh: dossier and syllabus done, reviews added; lessons wait until Latin is complete.
+- The owner's private book repo is `esaashr4f/polyglotsources` (empty at the pause). Books go in `<iso>/<author><year>.pdf`; Mohammed 2001 suggested for swh.
+- A scheduled resume reminder is not set; resume only when the owner asks.
+

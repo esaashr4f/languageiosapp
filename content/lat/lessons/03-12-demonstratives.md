@@ -152,7 +152,7 @@ confidence: attested
 :::
 
 :::example
-orig: Senātus haec intellegit, cōnsul videt; hic tamen vīvit.
+orig: Senātus haec intellegit. Cōnsul videt; hic tamen vīvit.
 morphemes: senāt-us haec intelleg-it cōnsul vide-t hic tamen vīv-it
 gloss: senate-NOM.SG this.ACC.PL.N understand-3SG consul.NOM.SG see-3SG this.NOM.SG.M however live-3SG
 translation: The senate understands these things, the consul sees them; and yet this man lives.
@@ -176,7 +176,7 @@ preview: IMP
 ## Where it applies
 
 - ***Hic***: what is near the speaker in place, time or thought: *hic liber*, *haec* "these things", *hic* "this man", sometimes the speaker himself. Also "the latter" of two things just named (ag1903 §297).
-- ***Ille***: what is far off, past or famous. After its noun it often means "that famous": *Mēdēa illa*, "the celebrated Medea". Also "the former" of two (ag1903 §297). Spanish *él* and French *il* come from it (lesson 11 of this part).
+- ***Ille***: what is far off, past or famous. After its noun it often means "that famous one". Also "the former" of two (ag1903 §297). Spanish *él* and French *il* come from it (lesson 11 of this part).
 - ***Iste***: what is near or belongs to the listener: *ista cūra* "that worry of yours". In speeches it often points at the opponent, with contempt (ag1903 §297).
 - **Pointing forward**: *hic*, *ille* and *is* can point at something about to be said: *illud*, "this (that follows)" (ag1903 §297).
 - **Neuters for ideas**: *hoc*, *illud*, *haec* "this, these things" (ag1903 §297).
@@ -267,7 +267,7 @@ grātia | - | noun | favour, gratitude; influence | grātiae, f.
 
 ## Connections
 
-Spanish keeps the three-way split: *este* (from *iste*), *ese* (from *ipse*), *aquel* (from *eccum ille*, "look, that one") (Wiktionary), with the meanings shifted. Japanese これ, それ, あれ and Korean 이, 그, 저 divide space the same way as *hic*, *iste*, *ille*: near me, near you, away from us both.
+Spanish keeps the three-way split: *este* (from *iste*), *ese* (from *ipse*), *aquel* (from Vulgar Latin *eccum ille*, "look, that one") (Wiktionary), with the meanings shifted. Japanese これ, それ, あれ and Korean 이, 그, 저 divide space the same way as *hic*, *iste*, *ille*: near me, near you, away from us both.
 
 ## Exercises
 

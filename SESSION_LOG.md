@@ -38,3 +38,16 @@ All agents stopped on the owner's request. State at the pause:
 - The owner's private book repo is `esaashr4f/polyglotsources` (empty at the pause). Books go in `<iso>/<author><year>.pdf`; Mohammed 2001 suggested for swh.
 - A scheduled resume reminder is not set; resume only when the owner asks.
 
+## Paused again by the owner — 2026-11-12, about 17:20 UTC
+
+The owner will resume when usage allows (possibly on a larger plan). Work is token-heavy: one drafted part of about 14 lessons, or one verification pass, costs several hundred thousand tokens.
+
+State at the pause:
+- lat: parts 0–2 verified (16 lessons). Part 3 (lat-03-01 to 03-14) drafted; verification partly done (corrections to early lessons committed). Re-run verification over the whole part on resume.
+- lat-02-09 (part 2 review) and lat-04-01 are on disk from the part 4 drafter; lint and finish them, then draft lat-04-02 onward.
+- san: sources, meta, glossary, syllabus, STATUS on disk; dossier.md still to write; then `python3 tools/add-reviews.py san`.
+- kat, tur, hbo, swh: dossiers and syllabuses done, reviews added.
+- Owner-supplied books in esaashr4f/polyglotsources: Thompson & Schleicher 2001 and Almasi et al. 2014 (swh), Bolkvadze & Kiziria 2023 (kat), Göksel & Kerslake 2005 (tur). The Mohammed 2001 file there is from a shadow library: do not use it.
+
+**Resume recipe:** read CLAUDE.md, then this entry. Run at most three agents at once with docs/DRAFTING_BRIEF.md, docs/VERIFY_BRIEF.md and docs/DOSSIER_BRIEF.md. After each part: update STATUS.json, add the drafter's glossary terms, `npm run build:reference -- lat`, `npm run stats`, append the verifier's report to VERIFY.md, commit, push.
+

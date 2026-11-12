@@ -1,0 +1,163 @@
+{
+ "sources": [
+  {
+   "id": "goksel2025",
+   "citation": "Göksel, A. and Kerslake, C. (2025). Turkish: A Comprehensive Grammar. 2nd ed. London: Routledge. (1st ed. 2005.)",
+   "url": "https://www.routledge.com/Turkish-A-Comprehensive-Grammar/Goksel-Kerslake/p/book/9781138350533",
+   "used_for": "Standard descriptive reference grammar of modern standard Turkish; source of the archiphoneme notation (-lAr, -(y)I, -DI) used in this guide; table of contents used to check the syllabus.",
+   "access": "In copyright. Publisher's table of contents opened 2026-11-12 (chapter level only); the text itself was not opened. Claims attributed to it in the dossier are marked (unverified) unless checked elsewhere. Unauthorised PDFs found in search were not used."
+  },
+  {
+   "id": "lewis2000",
+   "citation": "Lewis, G. L. (2000). Turkish Grammar. 2nd ed. Oxford: Oxford University Press. (1st ed. 1967.)",
+   "used_for": "Classic reference grammar with many literary examples; WALS cites the 1967 edition for most Turkish morphosyntax values.",
+   "access": "In copyright; not opened. Cited at second hand through WALS page references."
+  },
+  {
+   "id": "kornfilt1997",
+   "citation": "Kornfilt, J. (1997). Turkish. Descriptive Grammars series. London: Routledge.",
+   "used_for": "Linguist's descriptive grammar (syntax, nominalisation, case, voice); cited by WALS for many features.",
+   "access": "In copyright; not opened. Cited at second hand through WALS."
+  },
+  {
+   "id": "underhill1976",
+   "citation": "Underhill, R. (1976). Turkish Grammar. Cambridge, MA: MIT Press.",
+   "used_for": "Teaching-oriented reference grammar; cited by WALS (word order, relative clauses, subordination).",
+   "access": "In copyright; not opened. Cited at second hand through WALS."
+  },
+  {
+   "id": "ketrez2012",
+   "citation": "Ketrez, F. N. (2012). A Student Grammar of Turkish. Cambridge University Press.",
+   "used_for": "Modern student grammar; a further check on ordering and on spoken forms.",
+   "access": "In copyright; not opened."
+  },
+  {
+   "id": "zimmerorgun1999",
+   "citation": "Zimmer, K. and Orgun, O. (1999). Turkish. In Handbook of the International Phonetic Association, 154–156. Cambridge University Press. (First published in Journal of the International Phonetic Association 22, 1992.)",
+   "used_for": "Phoneme inventory and IPA values of Istanbul Turkish; WALS's phonology source.",
+   "access": "In copyright; not opened. Its values are cited at second hand through wpphon and WALS."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Turkish entries, declension and conjugation tables, suffix entries, Category:Turkish proverbs.",
+   "url": "https://en.wiktionary.org/",
+   "used_for": "Checking every inflected form (python3 tools/wikt.py <word> Turkish prints the full declension or conjugation table), suffix allomorph tables, informal spoken variants (e.g. yapıcam), proverbs.",
+   "access": "Open (CC BY-SA). Opened throughout this session."
+  },
+  {
+   "id": "tdk",
+   "citation": "Türk Dil Kurumu (Turkish Language Association). Güncel Türkçe Sözlük (current Turkish dictionary), online.",
+   "url": "https://sozluk.gov.tr/",
+   "used_for": "Official standard spelling, meanings, origin of loanwords, the accusative form of each noun (shows stem alternations such as kitap/kitabı) and pronunciation notes for long vowels and palatal consonants (hâl ha:li, kâr kâ:rı).",
+   "access": "Open online. The JSON lookup sozluk.gov.tr/gts?ara=<word> answered in this session; the HTML front page did not."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M. (eds.) (2013). The World Atlas of Language Structures Online: Turkish (wals code tur).",
+   "url": "https://wals.info/languoid/lect/wals_code_tur",
+   "used_for": "154 typological feature values with their sources (word order, case, evidentiality, negation, copula), for the Compare screen and for points of disagreement.",
+   "access": "Open (CC BY 4.0). Language page and full value list opened 2026-11-12."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog 5.4: Turkish (nucl1301).",
+   "url": "https://glottolog.org/resource/languoid/id/nucl1301",
+   "used_for": "Classification within Turkic (Oghuz), endangerment status, reference list.",
+   "access": "Open. Opened 2026-11-12."
+  },
+  {
+   "id": "grambank",
+   "citation": "Grambank: Turkish (nucl1301).",
+   "url": "https://grambank.clld.org/languages/nucl1301",
+   "used_for": "Further typological values for the Compare screen.",
+   "access": "Open. Page opened 2026-11-12; the feature values load by script and were not extracted in this session."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2015). The Leipzig Glossing Rules.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and standard abbreviations.",
+   "access": "Open. Opened 2026-11-12."
+  },
+  {
+   "id": "wpphon",
+   "citation": "Wikipedia contributors. Turkish phonology. English Wikipedia, revision 1384242891.",
+   "url": "https://en.wikipedia.org/wiki/Turkish_phonology",
+   "used_for": "Pointer to the phonetic literature (Zimmer and Orgun 1999, Göksel and Kerslake, Levi 2005, Kabak 2016): allophones of k g l, soft g, final devoicing, stress and its exceptions, harmony exceptions in loanwords.",
+   "access": "Open (CC BY-SA); used as a pointer, not as authority. Opened 2026-11-12."
+  },
+  {
+   "id": "levi2005",
+   "citation": "Levi, S. V. (2005). Acoustic correlates of lexical accent in Turkish. Journal of the International Phonetic Association 35(1), 73–97.",
+   "used_for": "The view that Turkish word accent is mainly a pitch accent.",
+   "access": "In copyright; cited at second hand through wpphon."
+  },
+  {
+   "id": "kabak2016",
+   "citation": "Kabak, B. (2016). Refin(d)ing Turkish stress as a multifaceted phenomenon. Paper, Second Conference on Central Asian Languages and Linguistics (ConCALL52), Indiana University.",
+   "used_for": "The view that Turkish has no unequivocal pitch-accent system.",
+   "access": "Cited at second hand through wpphon; not opened. Exact title (unverified)."
+  },
+  {
+   "id": "aksukoc1986",
+   "citation": "Aksu-Koç, A. and Slobin, D. I. (1986). A psychological account of the development and use of evidentials in Turkish. In W. Chafe and J. Nichols (eds.), Evidentiality: The Linguistic Coding of Epistemology, 159–167. Norwood, NJ: Ablex.",
+   "used_for": "Evidential meaning of -mIş (direct versus indirect experience; surprise).",
+   "access": "In copyright; cited at second hand through WALS 77A and 78A."
+  },
+  {
+   "id": "johanson2021",
+   "citation": "Johanson, L. (2021). Turkic. Cambridge Language Surveys. Cambridge University Press.",
+   "used_for": "Place of Turkish in the Turkic family (cited in Glottolog's subclassification comment); background for tur-07-12.",
+   "access": "In copyright; not opened."
+  },
+  {
+   "id": "udhr",
+   "citation": "Universal Declaration of Human Rights, Turkish translation (İnsan hakları evrensel beyannamesi), as distributed by the Unicode UDHR in Unicode project (udhr_tur.xml).",
+   "url": "https://raw.githubusercontent.com/eric-muller/udhr/master/data/udhr/udhr_tur.xml",
+   "used_for": "Sample sentence in meta.json; reading tur-08-04 (Articles 1 to 3).",
+   "access": "Open; the UDHR may be freely quoted. File opened 2026-11-12. This is the older official translation, with Ottoman-era vocabulary (hür, haysiyet, içtimai)."
+  },
+  {
+   "id": "trwikisource",
+   "citation": "Vikikaynak (Turkish Wikisource): Nasreddin Hoca fıkraları (Yorgan Gitti Kavga Bitti, rev. 170636; Tanrı Misafiri, rev. 142252; Ben Yapacağımı Bilirim, rev. 154565), each transcribed there from Bayraktar, Z. (2010), Mizah teorileri ve mizah teorilerine göre Nasreddin Hoca fıkralarının tahlili, doctoral thesis, Ege Üniversitesi.",
+   "url": "https://tr.wikisource.org/wiki/Yorgan_Gitti_Kavga_Bitti",
+   "used_for": "Readings tur-08-02 and tur-08-03 (anecdotes in -mIş narrative and -DI dialogue).",
+   "access": "Open. Pages opened 2026-11-12; Wikisource marks the anecdotes as anonymous folk works in the public domain. The wording of each retelling may be the thesis author's: quote one anecdote at a time, credit both, and keep to these short texts."
+  },
+  {
+   "id": "yunusemre",
+   "citation": "Yunus Emre (d. c. 1320). Aşkın Aldı Benden Beni (poem 4 in the Wikisource numbering), Vikikaynak, rev. 133694, with a second copy taken from Halk Edebiyatı Antolojisi on the same page.",
+   "url": "https://tr.wikisource.org/wiki/Aşkın_Aldı_Benden_Beni",
+   "used_for": "Capstone reading tur-08-08 (Old Anatolian Turkish in modernised Latin spelling).",
+   "access": "Public domain. Page opened 2026-11-12. The two copies on the page differ in wording and spelling (yanaram/yanarım, avunuram/öğünürem, stanza 5); the lesson must say which copy it follows."
+  },
+  {
+   "id": "seyfettin1919",
+   "citation": "Ömer Seyfettin (1884–1920). Kaşağı (short story, 1919). Vikikaynak, rev. 172873.",
+   "url": "https://tr.wikisource.org/wiki/Kaşağı",
+   "used_for": "Reading tur-08-06 (narrative past: -IrdI habitual, -Iyordu, -DI).",
+   "access": "Public domain (author d. 1920; first published 1919). Opened 2026-11-12. Wikisource gives a lightly modernised spelling; say so in the lesson."
+  },
+  {
+   "id": "nutuk",
+   "citation": "Mustafa Kemal Atatürk (1927). Nutuk, closing address 'Gençliğe Hitabe' (Address to the Youth). Vikikaynak, Nutuk/19. bölüm, rev. 174245.",
+   "url": "https://tr.wikisource.org/wiki/Nutuk/19._bölüm",
+   "used_for": "Reading tur-08-07 (formal 1920s prose with Ottoman vocabulary; cross-link to Ottoman Turkish, ota).",
+   "access": "Public domain (author d. 1938; published 1927). Opened 2026-11-12."
+  },
+  {
+   "id": "trwikipedia",
+   "citation": "Vikipedi (Turkish Wikipedia), İstanbul, revision 38509756.",
+   "url": "https://tr.wikipedia.org/wiki/İstanbul",
+   "used_for": "Reading tur-08-05 (modern expository prose).",
+   "access": "Open (CC BY-SA). Opened 2026-11-12."
+  },
+  {
+   "id": "wikibooks",
+   "citation": "Wikibooks contributors. Turkish (en.wikibooks.org/wiki/Turkish), revision 4460382.",
+   "url": "https://en.wikibooks.org/wiki/Turkish",
+   "used_for": "Checked for an open course; it is thin and partly unfinished. Not used as authority.",
+   "access": "Open (CC BY-SA). Opened 2026-11-12."
+  }
+ ]
+}

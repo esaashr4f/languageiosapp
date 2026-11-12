@@ -1,0 +1,1462 @@
+{
+ "lang": "tur",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Turkish is, the idea that runs through its grammar (one meaning per suffix, in a fixed order, shaped by vowel harmony), and how this guide works."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and script",
+   "summary": "Eight vowels and the three questions that classify them, the consonants, soft g and long vowels, two-way and four-way harmony, consonant alternations and buffer letters, stress, and the spelling of loanwords and names."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "Saying what something is, personal endings, plurals, negation with değil, yes-no questions with mI, existence with var and yok, basic word order, and the first verb form."
+  },
+  {
+   "part": 3,
+   "title": "Nouns and their machinery",
+   "summary": "The cases, possessive suffixes and the genitive, pronominal n, noun compounds, 'having', pronouns, demonstratives, question words, -(y)lA and the -ki suffix."
+  },
+  {
+   "part": 4,
+   "title": "Verbs: the core system",
+   "summary": "The slot order of the verb, imperatives, the past in -DI, the future, the aorist, the evidential -mIş, the copular markers, compound tenses, -DIr, necessity, ability, the optative, questions on verbs, olmak, and choosing a tense."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adjectives and adverbs, comparison, numbers and time, postpositions and location nouns, conjunctions and particles, derivational suffixes and reduplication."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Subordination by nominalisation: -mAk, -mA, -DIK and -(y)AcAK clauses, participles and relative clauses, converbs, time, reason and purpose clauses, conditionals, reported speech, indefinites and concession."
+  },
+  {
+   "part": 7,
+   "title": "Advanced and special topics",
+   "summary": "Passive, causative and stacked voice, reflexive and reciprocal, evidentiality and mirativity in depth, compound verbs, politeness, formal and colloquial registers, focus and word order, the Ottoman legacy, and the Turkic family."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Eight graded passages: proverbs, two Nasreddin Hoca anecdotes, the Universal Declaration of Human Rights, Turkish Wikipedia on Istanbul, Ömer Seyfettin's Kaşağı, Atatürk's Address to the Youth, and a capstone poem by Yunus Emre."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "The suffix order chart, noun and verb tables, core vocabulary, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "tur-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-turkish-is",
+   "title": "What Turkish is",
+   "point": "Place Turkish in time, space and family, and know which Turkish this guide teaches",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "tur-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "one-meaning-per-suffix",
+   "title": "The organising idea: one meaning per suffix, in a fixed order",
+   "point": "See how a long Turkish word is built from small suffixes in a fixed order, each shaped by vowel harmony",
+   "requires": [
+    "tur-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide",
+   "point": "Read the glosses, the suffix notation in capitals and the confidence dots, and know where the facts come from",
+   "requires": [
+    "tur-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "eight-vowels",
+   "title": "Eight vowels and three questions",
+   "point": "Pronounce the eight vowels and sort each by front or back, rounded or not, high or low",
+   "requires": [
+    "tur-00-03"
+   ],
+   "introduces": [
+    "vowels"
+   ]
+  },
+  {
+   "id": "tur-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "consonants",
+   "title": "The consonants and their letters",
+   "point": "Pronounce c, ç, ş, j, r and the front and back versions of k, g and l",
+   "requires": [
+    "tur-01-01"
+   ],
+   "introduces": [
+    "consonants"
+   ]
+  },
+  {
+   "id": "tur-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "soft-g-and-long-vowels",
+   "title": "Soft g, long vowels and the circumflex",
+   "point": "Read ğ, which lengthens or links vowels, and the circumflex on â, î, û in loanwords",
+   "requires": [
+    "tur-01-02"
+   ],
+   "introduces": [
+    "soft-g"
+   ]
+  },
+  {
+   "id": "tur-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "two-way-harmony",
+   "title": "Two-way harmony: e or a",
+   "point": "Choose between e and a in a suffix by looking at the last vowel of the word",
+   "requires": [
+    "tur-01-03"
+   ],
+   "introduces": [
+    "harmony-2"
+   ]
+  },
+  {
+   "id": "tur-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "four-way-harmony",
+   "title": "Four-way harmony: i, ı, u or ü",
+   "point": "Choose among i, ı, u and ü in a suffix, and read the capital-letter notation -lAr, -(y)I used in this guide",
+   "requires": [
+    "tur-01-04"
+   ],
+   "introduces": [
+    "harmony-4"
+   ]
+  },
+  {
+   "id": "tur-01-06",
+   "part": 1,
+   "order": 6,
+   "slug": "consonant-alternations",
+   "title": "Consonants that change at the joins",
+   "point": "Predict d or t at the start of a suffix, k to ğ and p to b at the end of a stem, and the buffer letters y, n and s",
+   "requires": [
+    "tur-01-05"
+   ],
+   "introduces": [
+    "alternation"
+   ]
+  },
+  {
+   "id": "tur-01-07",
+   "part": 1,
+   "order": 7,
+   "slug": "stress-and-intonation",
+   "title": "Stress and intonation",
+   "point": "Put the stress on the last syllable by default, and know the suffixes and words that move it",
+   "requires": [
+    "tur-01-06"
+   ],
+   "introduces": [
+    "stress"
+   ]
+  },
+  {
+   "id": "tur-01-08",
+   "part": 1,
+   "order": 8,
+   "slug": "loanwords-and-spelling",
+   "title": "Loanwords, names and spelling",
+   "point": "Handle loanwords that break harmony, the apostrophe before suffixes on names, and the 1928 alphabet",
+   "requires": [
+    "tur-01-07"
+   ],
+   "introduces": [
+    "loan-harmony"
+   ]
+  },
+  {
+   "id": "tur-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "this-is-a-book",
+   "title": "This is a book: sentences without a verb",
+   "point": "Say what something is with no verb and no 'the', using bir for 'a'",
+   "requires": [
+    "tur-01-08"
+   ],
+   "introduces": [
+    "nominal-sentence"
+   ]
+  },
+  {
+   "id": "tur-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "i-am-a-teacher",
+   "title": "I am a teacher: personal endings",
+   "point": "Add the endings that say who is something: -(y)Im, -sIn, -(y)Iz, -sInIz, -lAr",
+   "requires": [
+    "tur-02-01"
+   ],
+   "introduces": [
+    "person"
+   ]
+  },
+  {
+   "id": "tur-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "plurals",
+   "title": "More than one: the plural -lAr",
+   "point": "Make nouns plural and know when Turkish leaves the plural out",
+   "requires": [
+    "tur-02-02",
+    "tur-01-04"
+   ],
+   "introduces": [
+    "plural"
+   ]
+  },
+  {
+   "id": "tur-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "negation-degil",
+   "title": "Not: değil",
+   "point": "Deny that something is something with değil and its personal endings",
+   "requires": [
+    "tur-02-03"
+   ],
+   "introduces": [
+    "negation-nominal"
+   ]
+  },
+  {
+   "id": "tur-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "yes-no-questions",
+   "title": "Yes-no questions with mI",
+   "point": "Ask a yes-no question with the particle mI and place it on the word in question",
+   "requires": [
+    "tur-02-04",
+    "tur-01-05"
+   ],
+   "introduces": [
+    "question"
+   ]
+  },
+  {
+   "id": "tur-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "there-is-var-yok",
+   "title": "There is and there is not: var, yok and the locative",
+   "point": "Say that something exists or is somewhere, with var, yok and -DA 'in, at'",
+   "requires": [
+    "tur-02-05",
+    "tur-01-06"
+   ],
+   "introduces": [
+    "locative"
+   ]
+  },
+  {
+   "id": "tur-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "word-order",
+   "title": "Word order: subject, object, verb",
+   "point": "Put the verb last and the most important new word just before it",
+   "requires": [
+    "tur-02-06"
+   ],
+   "introduces": [
+    "word-order"
+   ]
+  },
+  {
+   "id": "tur-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "first-verb-iyor",
+   "title": "The first verb form: -(I)yor",
+   "point": "Say what someone is doing now, with the stem, -(I)yor and the personal endings",
+   "requires": [
+    "tur-02-07",
+    "tur-02-02"
+   ],
+   "introduces": [
+    "progressive"
+   ]
+  },
+  {
+   "id": "tur-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "verb-negation",
+   "title": "Not doing: the negative -mA and questions on verbs",
+   "point": "Make verbs negative with -mA and ask questions with mI after -(I)yor",
+   "requires": [
+    "tur-02-08"
+   ],
+   "introduces": [
+    "negation"
+   ]
+  },
+  {
+   "id": "tur-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "accusative",
+   "title": "The accusative: the definite object",
+   "point": "Mark a specific object with -(y)I and leave a non-specific one bare",
+   "requires": [
+    "tur-02-09",
+    "tur-01-06"
+   ],
+   "introduces": [
+    "accusative"
+   ]
+  },
+  {
+   "id": "tur-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "dative",
+   "title": "The dative: to and towards",
+   "point": "Mark where something goes and to whom with -(y)A",
+   "requires": [
+    "tur-03-01"
+   ],
+   "introduces": [
+    "dative"
+   ]
+  },
+  {
+   "id": "tur-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "ablative",
+   "title": "The ablative: from and through",
+   "point": "Mark where something comes from with -DAn, and know its other uses",
+   "requires": [
+    "tur-03-02"
+   ],
+   "introduces": [
+    "ablative"
+   ]
+  },
+  {
+   "id": "tur-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "possessive-suffixes",
+   "title": "Possessive suffixes: my house, your house",
+   "point": "Add -(I)m, -(I)n, -(s)I, -(I)mIz, -(I)nIz, -lArI to a noun",
+   "requires": [
+    "tur-03-03"
+   ],
+   "introduces": [
+    "possessive"
+   ]
+  },
+  {
+   "id": "tur-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "genitive",
+   "title": "The genitive: the possessor",
+   "point": "Build 'Ali's house' as Ali'nin evi, with the genitive on the possessor and a possessive on the thing owned",
+   "requires": [
+    "tur-03-04"
+   ],
+   "introduces": [
+    "genitive"
+   ]
+  },
+  {
+   "id": "tur-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "pronominal-n",
+   "title": "Cases after a possessive: the buffer n",
+   "point": "Put case endings after a third-person possessive, with the n that appears there",
+   "requires": [
+    "tur-03-05",
+    "tur-03-04",
+    "tur-03-03"
+   ],
+   "introduces": [
+    "pronominal-n"
+   ]
+  },
+  {
+   "id": "tur-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "noun-compounds",
+   "title": "Noun compounds: Türk kahvesi",
+   "point": "Build compounds with the compound marker -(s)I and see how they differ from genitive phrases",
+   "requires": [
+    "tur-03-06",
+    "tur-03-05"
+   ],
+   "introduces": [
+    "compound"
+   ]
+  },
+  {
+   "id": "tur-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "having",
+   "title": "Having: benim arabam var",
+   "point": "Say what someone has with the possessive and var or yok",
+   "requires": [
+    "tur-03-07",
+    "tur-03-05",
+    "tur-02-06"
+   ],
+   "introduces": [
+    "have"
+   ]
+  },
+  {
+   "id": "tur-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "personal-pronouns",
+   "title": "Personal pronouns and their cases",
+   "point": "Use ben, sen, o, biz, siz, onlar in every case, including bana and sana, and know when to leave them out",
+   "requires": [
+    "tur-03-08"
+   ],
+   "introduces": [
+    "pronouns"
+   ]
+  },
+  {
+   "id": "tur-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "demonstratives",
+   "title": "This, that and the other: bu, şu, o",
+   "point": "Point with bu, şu and o, and use burada, şurada, orada",
+   "requires": [
+    "tur-03-09"
+   ],
+   "introduces": [
+    "demonstratives"
+   ]
+  },
+  {
+   "id": "tur-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "question-words",
+   "title": "Question words",
+   "point": "Ask who, what, where, when, how and why, keeping the question word in place",
+   "requires": [
+    "tur-03-10"
+   ],
+   "introduces": [
+    "question-words"
+   ]
+  },
+  {
+   "id": "tur-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "with-ile",
+   "title": "With: -(y)lA",
+   "point": "Say 'with' and 'by means of' with ile and its suffixed form -(y)lA",
+   "requires": [
+    "tur-03-11"
+   ],
+   "introduces": [
+    "instrumental"
+   ]
+  },
+  {
+   "id": "tur-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "ki-suffix",
+   "title": "The one in the house: -ki",
+   "point": "Turn a place, a time or a possessor into a word that describes or stands for a thing, with -ki",
+   "requires": [
+    "tur-03-12"
+   ],
+   "introduces": [
+    "ki-suffix"
+   ]
+  },
+  {
+   "id": "tur-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "verb-template",
+   "title": "The verb template: slots in a fixed order",
+   "point": "See the order of the slots in a verb (stem, voice, negation, ability, tense, copula, person) and why they cannot be shuffled",
+   "requires": [
+    "tur-03-13"
+   ],
+   "introduces": [
+    "verb-template"
+   ]
+  },
+  {
+   "id": "tur-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "imperatives",
+   "title": "Commands: the bare stem and its relatives",
+   "point": "Give orders with the bare stem, -(y)In, -(y)InIz and -sIn, and forbid with -mA",
+   "requires": [
+    "tur-04-01"
+   ],
+   "introduces": [
+    "imperative"
+   ]
+  },
+  {
+   "id": "tur-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "past-di",
+   "title": "The past: -DI",
+   "point": "Say what happened with -DI and its own set of personal endings",
+   "requires": [
+    "tur-04-02",
+    "tur-04-01"
+   ],
+   "introduces": [
+    "past"
+   ]
+  },
+  {
+   "id": "tur-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "future",
+   "title": "The future: -(y)AcAK",
+   "point": "Say what will happen with -(y)AcAK, including its spoken shortenings",
+   "requires": [
+    "tur-04-03"
+   ],
+   "introduces": [
+    "future"
+   ]
+  },
+  {
+   "id": "tur-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "aorist-form",
+   "title": "The aorist: how it is built",
+   "point": "Form the aorist in -r, -Ar or -Ir, including the thirteen stems that take -Ir",
+   "requires": [
+    "tur-04-04"
+   ],
+   "introduces": [
+    "aorist"
+   ]
+  },
+  {
+   "id": "tur-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "aorist-meaning-and-negative",
+   "title": "The aorist: what it means, and its negative -mAz",
+   "point": "Use the aorist for habits, general truths, offers and promises, and form its negative",
+   "requires": [
+    "tur-04-05",
+    "tur-02-09"
+   ],
+   "introduces": [
+    "negative-aorist"
+   ]
+  },
+  {
+   "id": "tur-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "evidential-mis",
+   "title": "The evidential past: -mIş",
+   "point": "Report something you did not witness or have just realised, and contrast it with -DI",
+   "requires": [
+    "tur-04-06"
+   ],
+   "introduces": [
+    "evidential"
+   ]
+  },
+  {
+   "id": "tur-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "copular-markers",
+   "title": "Was, apparently is, if it is: -(y)DI, -(y)mIş, -(y)sA on nouns",
+   "point": "Add past, evidential and conditional markers to nouns and adjectives",
+   "requires": [
+    "tur-04-07",
+    "tur-04-03"
+   ],
+   "introduces": [
+    "copular-markers"
+   ]
+  },
+  {
+   "id": "tur-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "compound-tenses",
+   "title": "Compound tenses: geliyordu, gelirdi, gelmişti",
+   "point": "Stack a copular marker on a tense to say 'was doing', 'used to do', 'had done'",
+   "requires": [
+    "tur-04-08",
+    "tur-04-05"
+   ],
+   "introduces": [
+    "compound-tense"
+   ]
+  },
+  {
+   "id": "tur-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "copula-dir",
+   "title": "The -DIr ending: is, must be",
+   "point": "Use -DIr for formal statements and for 'it must be so'",
+   "requires": [
+    "tur-04-09"
+   ],
+   "introduces": [
+    "copula-dir"
+   ]
+  },
+  {
+   "id": "tur-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "necessitative",
+   "title": "Must: -mAlI",
+   "point": "Say what must or should be done with -mAlI",
+   "requires": [
+    "tur-04-10"
+   ],
+   "introduces": [
+    "necessitative"
+   ]
+  },
+  {
+   "id": "tur-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "ability",
+   "title": "Can and cannot: -(y)Abil and -(y)AmA",
+   "point": "Say what someone can do with -(y)Abil and cannot do with -(y)AmA",
+   "requires": [
+    "tur-04-11"
+   ],
+   "introduces": [
+    "ability"
+   ]
+  },
+  {
+   "id": "tur-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "optative",
+   "title": "Let me, let's: the optative",
+   "point": "Make suggestions and first-person requests with -(y)AyIm and -(y)AlIm",
+   "requires": [
+    "tur-04-12"
+   ],
+   "introduces": [
+    "optative"
+   ]
+  },
+  {
+   "id": "tur-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "questions-on-verbs",
+   "title": "Where mI goes in each tense",
+   "point": "Place the question particle correctly after -DI, before the person ending elsewhere",
+   "requires": [
+    "tur-04-13",
+    "tur-04-03",
+    "tur-04-04",
+    "tur-02-05"
+   ],
+   "introduces": [
+    "verb-questions"
+   ]
+  },
+  {
+   "id": "tur-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "olmak",
+   "title": "Olmak: to be and to become",
+   "point": "Use olmak where the copula has no form: future, infinitive, 'become'",
+   "requires": [
+    "tur-04-14"
+   ],
+   "introduces": [
+    "olmak"
+   ]
+  },
+  {
+   "id": "tur-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "choosing-a-tense",
+   "title": "Choosing a tense",
+   "point": "Choose between -(I)yor, the aorist, -DI, -mIş and -(y)AcAK by what you mean",
+   "requires": [
+    "tur-04-15"
+   ],
+   "introduces": [
+    "tam-system"
+   ]
+  },
+  {
+   "id": "tur-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "adjectives-and-adverbs",
+   "title": "Adjectives and adverbs",
+   "point": "Use adjectives before nouns and as nouns, and make adverbs from them",
+   "requires": [
+    "tur-04-16"
+   ],
+   "introduces": [
+    "adjectives"
+   ]
+  },
+  {
+   "id": "tur-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "comparison",
+   "title": "Comparison: daha and en",
+   "point": "Compare with -DAn daha and pick out the most with en",
+   "requires": [
+    "tur-05-01",
+    "tur-03-03"
+   ],
+   "introduces": [
+    "comparison"
+   ]
+  },
+  {
+   "id": "tur-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "numbers",
+   "title": "Numbers, ordinals and distributives",
+   "point": "Count, order (birinci) and share out (birer, ikişer), with nouns left singular",
+   "requires": [
+    "tur-05-02"
+   ],
+   "introduces": [
+    "numbers"
+   ]
+  },
+  {
+   "id": "tur-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "time-and-dates",
+   "title": "Time, days and dates",
+   "point": "Tell the time, give dates and say how long ago and how long for",
+   "requires": [
+    "tur-05-03"
+   ],
+   "introduces": [
+    "time-expressions"
+   ]
+  },
+  {
+   "id": "tur-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "postpositions-bare",
+   "title": "Postpositions with the bare noun: için, gibi, kadar",
+   "point": "Use the postpositions that follow a bare noun or a genitive pronoun",
+   "requires": [
+    "tur-05-04"
+   ],
+   "introduces": [
+    "postpositions"
+   ]
+  },
+  {
+   "id": "tur-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "postpositions-cases",
+   "title": "Postpositions with the dative and ablative",
+   "point": "Use göre, doğru, kadar, karşı with the dative and önce, sonra, beri with the ablative",
+   "requires": [
+    "tur-05-05",
+    "tur-03-02",
+    "tur-03-03"
+   ],
+   "introduces": [
+    "postpositions-cases"
+   ]
+  },
+  {
+   "id": "tur-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "location-nouns",
+   "title": "On, under, in front: location nouns",
+   "point": "Say where things are with üst, alt, ön, arka, iç, yan and a case ending",
+   "requires": [
+    "tur-05-06",
+    "tur-03-06"
+   ],
+   "introduces": [
+    "location-nouns"
+   ]
+  },
+  {
+   "id": "tur-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "conjunctions-and-particles",
+   "title": "Conjunctions and particles: ve, ama, de, ya da",
+   "point": "Join words and sentences with ve, ama, fakat, ya da, hem...hem, ne...ne and the particle de",
+   "requires": [
+    "tur-05-07"
+   ],
+   "introduces": [
+    "conjunctions"
+   ]
+  },
+  {
+   "id": "tur-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "noun-derivation",
+   "title": "Making words: -lI, -sIz, -lIK, -CI",
+   "point": "Build new nouns and adjectives with the common derivational suffixes",
+   "requires": [
+    "tur-05-08"
+   ],
+   "introduces": [
+    "derivation"
+   ]
+  },
+  {
+   "id": "tur-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "verb-derivation",
+   "title": "Making verbs: -lA, -lAş, -lAn",
+   "point": "Turn nouns and adjectives into verbs, and verbs into nouns with -(y)Iş and -mA",
+   "requires": [
+    "tur-05-09"
+   ],
+   "introduces": [
+    "verb-derivation"
+   ]
+  },
+  {
+   "id": "tur-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "reduplication",
+   "title": "Doubling: yavaş yavaş, masmavi, kitap mitap",
+   "point": "Use the three kinds of reduplication for manner, intensity and 'and so on'",
+   "requires": [
+    "tur-05-10"
+   ],
+   "introduces": [
+    "reduplication"
+   ]
+  },
+  {
+   "id": "tur-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "infinitive-clauses",
+   "title": "Clauses as nouns 1: the infinitive -mAk",
+   "point": "Say 'I want to go' and 'going is hard' with -mAk",
+   "requires": [
+    "tur-05-11",
+    "tur-04-01"
+   ],
+   "introduces": [
+    "infinitive"
+   ]
+  },
+  {
+   "id": "tur-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "verbal-noun-clauses",
+   "title": "Clauses as nouns 2: -mA with a possessive",
+   "point": "Say 'I want you to go' with -mA plus a possessive ending",
+   "requires": [
+    "tur-06-01",
+    "tur-03-04"
+   ],
+   "introduces": [
+    "verbal-noun"
+   ]
+  },
+  {
+   "id": "tur-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "dik-clauses",
+   "title": "Clauses as nouns 3: -DIK and -(y)AcAK for facts",
+   "point": "Say 'I know that you came' and 'I know that you will come'",
+   "requires": [
+    "tur-06-02",
+    "tur-03-01",
+    "tur-03-06"
+   ],
+   "introduces": [
+    "factive-nominal"
+   ]
+  },
+  {
+   "id": "tur-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "subject-relatives",
+   "title": "Relative clauses 1: -(y)An",
+   "point": "Describe a noun by what it does, and use -(y)An forms as nouns ('those who came')",
+   "requires": [
+    "tur-06-03",
+    "tur-04-05"
+   ],
+   "introduces": [
+    "subject-relative"
+   ]
+  },
+  {
+   "id": "tur-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "object-relatives",
+   "title": "Relative clauses 2: -DIK and -(y)AcAK with a possessive",
+   "point": "Describe a noun by what someone else does to it or where it happens",
+   "requires": [
+    "tur-06-04",
+    "tur-06-03"
+   ],
+   "introduces": [
+    "object-relative"
+   ]
+  },
+  {
+   "id": "tur-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "converbs",
+   "title": "Linking actions: -(y)Ip and -(y)ArAk",
+   "point": "Chain actions with -(y)Ip and say how something is done with -(y)ArAk",
+   "requires": [
+    "tur-06-05"
+   ],
+   "introduces": [
+    "converbs"
+   ]
+  },
+  {
+   "id": "tur-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "time-clauses",
+   "title": "When, while, before, after",
+   "point": "Build time clauses with -(y)IncA, -ken, -DIğI zaman, -mAdAn önce, -DIktAn sonra",
+   "requires": [
+    "tur-06-06"
+   ],
+   "introduces": [
+    "time-clauses"
+   ]
+  },
+  {
+   "id": "tur-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "reason-and-purpose",
+   "title": "Because and in order to",
+   "point": "Give reasons with -DIğI için and purposes with -mAk için and diye",
+   "requires": [
+    "tur-06-07"
+   ],
+   "introduces": [
+    "purpose-reason"
+   ]
+  },
+  {
+   "id": "tur-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "real-conditionals",
+   "title": "If: the conditional -sA",
+   "point": "Make real conditions with -(y)sA after a tense, and with eğer",
+   "requires": [
+    "tur-06-08",
+    "tur-04-08"
+   ],
+   "introduces": [
+    "conditional"
+   ]
+  },
+  {
+   "id": "tur-06-10",
+   "part": 6,
+   "order": 10,
+   "slug": "unreal-conditionals-and-wishes",
+   "title": "If only: unreal conditions and wishes",
+   "point": "Say what would have happened, and wish with keşke",
+   "requires": [
+    "tur-06-09",
+    "tur-04-09"
+   ],
+   "introduces": [
+    "counterfactual"
+   ]
+  },
+  {
+   "id": "tur-06-11",
+   "part": 6,
+   "order": 11,
+   "slug": "reported-speech",
+   "title": "Reported speech: demek, diye and ki",
+   "point": "Report what people said, with quotation, diye and the Persian-style ki",
+   "requires": [
+    "tur-06-10",
+    "tur-04-07",
+    "tur-06-06"
+   ],
+   "introduces": [
+    "reported-speech"
+   ]
+  },
+  {
+   "id": "tur-06-12",
+   "part": 6,
+   "order": 12,
+   "slug": "indefinites",
+   "title": "Someone, no one, anything: indefinites and hiç",
+   "point": "Use biri, bir şey, hiç kimse, hiçbir şey with a negative verb",
+   "requires": [
+    "tur-06-11"
+   ],
+   "introduces": [
+    "indefinites"
+   ]
+  },
+  {
+   "id": "tur-06-13",
+   "part": 6,
+   "order": 13,
+   "slug": "concession",
+   "title": "Although and even if",
+   "point": "Concede with -sA da, -DIğI halde and -mAsInA rağmen",
+   "requires": [
+    "tur-06-12"
+   ],
+   "introduces": [
+    "concession"
+   ]
+  },
+  {
+   "id": "tur-06-14",
+   "part": 6,
+   "order": 14,
+   "slug": "clause-review",
+   "title": "Putting clauses together",
+   "point": "Take apart and build long sentences with several nominalised clauses, the order of the suffixes guiding you",
+   "requires": [
+    "tur-06-13"
+   ],
+   "introduces": [
+    "clause-chains"
+   ]
+  },
+  {
+   "id": "tur-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "passive",
+   "title": "The passive: -Il and -In",
+   "point": "Form and use the passive, including the impersonal passive of intransitive verbs",
+   "requires": [
+    "tur-06-14",
+    "tur-04-05"
+   ],
+   "introduces": [
+    "passive"
+   ]
+  },
+  {
+   "id": "tur-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "causative",
+   "title": "The causative: making someone do",
+   "point": "Form causatives with -DIr, -t and the irregular ones, and mark the causee",
+   "requires": [
+    "tur-07-01"
+   ],
+   "introduces": [
+    "causative"
+   ]
+  },
+  {
+   "id": "tur-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "stacked-voice",
+   "title": "Stacking voice suffixes",
+   "point": "Read and build verbs with causative on causative and causative plus passive",
+   "requires": [
+    "tur-07-02",
+    "tur-07-01"
+   ],
+   "introduces": [
+    "voice-stacking"
+   ]
+  },
+  {
+   "id": "tur-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "reflexive-reciprocal",
+   "title": "Reflexive, reciprocal and kendi",
+   "point": "Use -(I)n for actions on oneself, -(I)ş for actions on each other, and the pronoun kendi",
+   "requires": [
+    "tur-07-03"
+   ],
+   "introduces": [
+    "reflexive-reciprocal"
+   ]
+  },
+  {
+   "id": "tur-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "evidentiality-and-surprise",
+   "title": "Evidentiality and surprise in depth",
+   "point": "Use -mIş for hearsay, inference and surprise, and in storytelling",
+   "requires": [
+    "tur-07-04",
+    "tur-04-07",
+    "tur-04-08"
+   ],
+   "introduces": [
+    "mirativity"
+   ]
+  },
+  {
+   "id": "tur-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "compound-verbs",
+   "title": "Compound verbs: -(y)Iver, -(y)Adur and noun + etmek",
+   "point": "Use the quick, continuous and auxiliary verb combinations",
+   "requires": [
+    "tur-07-05"
+   ],
+   "introduces": [
+    "compound-verbs"
+   ]
+  },
+  {
+   "id": "tur-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "politeness",
+   "title": "Politeness and address",
+   "point": "Choose siz or sen, use Bey, Hanım and efendim, and make polite requests",
+   "requires": [
+    "tur-07-06"
+   ],
+   "introduces": [
+    "politeness"
+   ]
+  },
+  {
+   "id": "tur-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "formal-register",
+   "title": "The formal written register",
+   "point": "Read -mAktA, -DIr, -mAksIzIn and the long nominal sentences of news and official prose",
+   "requires": [
+    "tur-07-07"
+   ],
+   "introduces": [
+    "formal-register"
+   ]
+  },
+  {
+   "id": "tur-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "colloquial-speech",
+   "title": "Everyday speech: gelicem, napıyosun",
+   "point": "Recognise the spoken reductions of -(I)yor and -(y)AcAK and other informal forms",
+   "requires": [
+    "tur-07-08",
+    "tur-04-04",
+    "tur-02-08"
+   ],
+   "introduces": [
+    "colloquial"
+   ]
+  },
+  {
+   "id": "tur-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "focus-and-word-order",
+   "title": "Focus, topic and words after the verb",
+   "point": "Move words for emphasis, and use the slot after the verb for afterthoughts",
+   "requires": [
+    "tur-07-09"
+   ],
+   "introduces": [
+    "focus"
+   ]
+  },
+  {
+   "id": "tur-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "ottoman-legacy",
+   "title": "The Ottoman legacy: Arabic and Persian layers",
+   "point": "Recognise Arabic and Persian loanwords, the izafet, and the results of the language reform",
+   "requires": [
+    "tur-07-10",
+    "tur-01-08"
+   ],
+   "introduces": [
+    "loanwords"
+   ]
+  },
+  {
+   "id": "tur-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "turkic-family",
+   "title": "Turkish and the Turkic family",
+   "point": "Place Turkish among Azerbaijani, Turkmen, Uzbek, Kazakh and the rest, and among its own dialects",
+   "requires": [
+    "tur-07-11"
+   ],
+   "introduces": [
+    "turkic"
+   ]
+  },
+  {
+   "id": "tur-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "proverbs",
+   "title": "Reading 1: Proverbs",
+   "point": "Read eight Turkish proverbs, each a full sentence with the aorist, -(y)An and converbs",
+   "requires": [
+    "tur-07-12"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "yorgan-gitti",
+   "title": "Reading 2: Nasreddin Hoca, The quilt is gone, the fight is over",
+   "point": "Read a short anecdote told in -mIş, with its punch line in -DI",
+   "requires": [
+    "tur-08-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "tanri-misafiri",
+   "title": "Reading 3: Nasreddin Hoca, God's guest",
+   "point": "Read an anecdote told in the aorist present with dialogue",
+   "requires": [
+    "tur-08-02",
+    "tur-04-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "human-rights",
+   "title": "Reading 4: The Universal Declaration of Human Rights, Articles 1 to 3",
+   "point": "Read formal legal prose with necessitatives, passives and Ottoman vocabulary",
+   "requires": [
+    "tur-08-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "istanbul",
+   "title": "Reading 5: Istanbul, from Turkish Wikipedia",
+   "point": "Read modern expository prose with participles and -mAktA",
+   "requires": [
+    "tur-08-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "kasagi",
+   "title": "Reading 6: Ömer Seyfettin, The Currycomb",
+   "point": "Read the opening of a classic short story told with -IrdI and -Iyordu",
+   "requires": [
+    "tur-08-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-07",
+   "part": 8,
+   "order": 7,
+   "slug": "genclige-hitabe",
+   "title": "Reading 7: Atatürk, Address to the Youth",
+   "point": "Read a famous speech of 1927 and see how much of its vocabulary has since been replaced",
+   "requires": [
+    "tur-08-06",
+    "tur-07-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-08-08",
+   "part": 8,
+   "order": 8,
+   "slug": "yunus-emre",
+   "title": "Reading 8 (capstone): Yunus Emre, 'Your love has taken me from myself'",
+   "point": "Read a medieval poem in Old Anatolian Turkish, with its older endings explained",
+   "requires": [
+    "tur-08-07",
+    "tur-04-13"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "suffix-order-chart",
+   "title": "The suffix order chart",
+   "point": "See every noun and verb suffix in its slot, with its harmony pattern and gloss",
+   "requires": [
+    "tur-08-08"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "noun-tables",
+   "title": "Noun and pronoun tables",
+   "point": "Look up case and possessive forms for every stem type and the pronouns",
+   "requires": [
+    "tur-09-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "verb-tables",
+   "title": "Verb tables",
+   "point": "Look up every tense, mood and non-finite form of model verbs",
+   "requires": [
+    "tur-09-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "core-vocabulary",
+   "title": "Core vocabulary",
+   "point": "Find every word taught in the guide with the lesson that introduces it",
+   "requires": [
+    "tur-09-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-05",
+   "part": 9,
+   "order": 5,
+   "slug": "glossary",
+   "title": "Glossary of terms and abbreviations",
+   "point": "Look up every grammatical term and gloss abbreviation",
+   "requires": [
+    "tur-09-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "tur-09-06",
+   "part": 9,
+   "order": 6,
+   "slug": "bibliography",
+   "title": "Annotated bibliography",
+   "point": "Know which grammars, dictionaries and corpora to use next",
+   "requires": [
+    "tur-09-05"
+   ],
+   "introduces": []
+  }
+ ]
+}

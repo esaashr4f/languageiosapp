@@ -1,0 +1,43 @@
+{
+ "name": "Turkish",
+ "endonym": "Türkçe",
+ "iso": "tur",
+ "number": 15,
+ "family": "Turkic, Oghuz (southwestern)",
+ "region": "Turkey and Northern Cyprus; large communities in Germany, the Balkans and elsewhere",
+ "era": "Written in Anatolia from the 13th century (as Old Anatolian and then Ottoman Turkish, in Arabic script); modern standard in the Latin alphabet since 1928",
+ "status": "living",
+ "scripts": [
+  "Latin"
+ ],
+ "typology": {
+  "word_order": "SOV, verb-final; focus just before the verb",
+  "morphology": "agglutinative",
+  "alignment": "nominative-accusative",
+  "tags": [
+   "vowel harmony",
+   "suffixing only",
+   "six cases",
+   "no gender",
+   "no articles (bir as 'a')",
+   "pro-drop",
+   "evidential past",
+   "nominalised subordinate clauses",
+   "postpositions"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": true,
+ "organising_idea": "One meaning per suffix, in a fixed order. A Turkish word is a stem followed by a chain of small suffixes, each adding one meaning in its own slot; vowel harmony and a few consonant changes decide the shape of each suffix, so once you know the order and the harmony you can build and take apart any word.",
+ "hook": "Turkish builds its sentences like a set of interlocking parts. Ev is 'house', evlerimizde is 'in our houses', and every piece of that word means one thing and always comes in the same place. Its verbs tell you not only when something happened but whether you saw it yourself. Learn the suffix order and the vowel harmony that shapes it, and you can read from a Nasreddin Hoca joke to a 14th-century mystic poem.",
+ "difficulty": "Pronunciation and spelling are easy: the 1928 alphabet is close to one letter per sound. The work is in the suffixes: you must hear which vowel a suffix takes, keep the slot order straight, and get used to subordinate clauses built as nouns before the main verb. A reader who knows Korean or Japanese already has verb-final order, postpositions, case markers, dropped pronouns and noun-like relative clauses; what is new is vowel harmony and the evidential past in -mIş.",
+ "sample": {
+  "orig": "Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar.",
+  "morphemes": "bütün insan-lar hür haysiyet ve hak-lar bakım-ı-ndan eşit doğ-ar-lar",
+  "gloss": "all person-PL free dignity and right-PL aspect-3SG.POSS-ABL equal be.born-AOR-3PL",
+  "literal": "All people free, in respect of dignity and rights equal are born.",
+  "translation": "All human beings are born free and equal in dignity and rights.",
+  "source": "Universal Declaration of Human Rights, Article 1, first sentence (Turkish translation, Unicode UDHR udhr_tur)",
+  "confidence": "attested"
+ }
+}

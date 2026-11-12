@@ -1,0 +1,190 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we",
+   "tag": "person"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person spoken to: you",
+   "tag": "person"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "anyone or anything else: he, she, it, they",
+   "tag": "person"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "person"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "more than one; on nouns the suffix -lAr, in person labels such as 1PL the 'we' or 'you all' forms",
+   "tag": "person"
+  },
+  "Q": {
+   "name": "question particle",
+   "plain": "the particle mI, written as a separate word, that turns a statement into a yes-no question",
+   "tag": "question"
+  },
+  "LOC": {
+   "name": "locative",
+   "plain": "the case in -DA: where something is or happens ('in, at, on')",
+   "tag": "locative"
+  },
+  "PROG": {
+   "name": "progressive",
+   "plain": "the suffix -(I)yor: what is going on now, or round about now",
+   "tag": "progressive"
+  },
+  "NEG": {
+   "name": "negative",
+   "plain": "the verb suffix -mA, placed right after the stem and any voice suffixes, that makes a verb mean 'not'",
+   "tag": "negation"
+  },
+  "ACC": {
+   "name": "accusative",
+   "plain": "the case in -(y)I that marks a specific, known object",
+   "tag": "accusative"
+  },
+  "DAT": {
+   "name": "dative",
+   "plain": "the case in -(y)A: the place towards which, and the person to whom",
+   "tag": "dative"
+  },
+  "ABL": {
+   "name": "ablative",
+   "plain": "the case in -DAn: the place from which, the way through, the cause, and the standard of comparison",
+   "tag": "ablative"
+  },
+  "POSS": {
+   "name": "possessive",
+   "plain": "a suffix on the thing owned that says who owns it: ev-im 'my house'",
+   "tag": "possessive"
+  },
+  "GEN": {
+   "name": "genitive",
+   "plain": "the case in -(n)In on the owner: Ali'nin 'Ali's'",
+   "tag": "genitive"
+  },
+  "INS": {
+   "name": "instrumental-comitative",
+   "plain": "the suffix -(y)lA, short for ile: 'with' a tool, 'with' a companion, 'by'",
+   "tag": "instrumental"
+  },
+  "REL": {
+   "name": "relativiser -ki",
+   "plain": "the suffix -ki that turns a place, time or possessor into a word meaning 'the one in, of or belonging to'",
+   "tag": "ki-suffix"
+  },
+  "IMP": {
+   "name": "imperative",
+   "plain": "a command form: the bare stem for one person, -(y)In or -(y)InIz for several or politely, -sIn for 'let him, her'",
+   "tag": "imperative"
+  },
+  "PST": {
+   "name": "past",
+   "plain": "the suffix -DI on a verb, or -(y)DI after a noun or another tense: what happened, or what was the case",
+   "tag": "past"
+  },
+  "FUT": {
+   "name": "future",
+   "plain": "the suffix -(y)AcAK: what will happen; also used to make future clauses and relative clauses",
+   "tag": "future"
+  },
+  "AOR": {
+   "name": "aorist",
+   "plain": "the suffix -r, -Ar or -Ir: what usually happens, is generally true, or what someone is willing to do",
+   "tag": "aorist"
+  },
+  "EVID": {
+   "name": "evidential",
+   "plain": "the suffix -mIş as a past tense, or -(y)mIş after a noun or tense: the speaker did not see it, learnt it from others, inferred it, or has just realised it",
+   "tag": "evidential"
+  },
+  "PRF": {
+   "name": "perfect",
+   "plain": "-mIş when it is followed by another tense marker or used to describe a noun: the action is complete and its result counts",
+   "tag": "compound-tense"
+  },
+  "COP": {
+   "name": "copula -DIr",
+   "plain": "the ending -DIr: a formal, assertive 'is', or 'must be, surely is' after a tense",
+   "tag": "copula-dir"
+  },
+  "NEC": {
+   "name": "necessitative",
+   "plain": "the suffix -mAlI: must, should",
+   "tag": "necessitative"
+  },
+  "ABIL": {
+   "name": "abilitative",
+   "plain": "the suffix -(y)Abil: can, may",
+   "tag": "ability"
+  },
+  "IMPOT": {
+   "name": "impotential",
+   "plain": "the suffix -(y)AmA: cannot",
+   "tag": "ability"
+  },
+  "OPT": {
+   "name": "optative",
+   "plain": "the suffix -(y)A with its own person endings: let me, let us, so that",
+   "tag": "optative"
+  },
+  "INF": {
+   "name": "infinitive",
+   "plain": "the suffix -mAk: the dictionary form of a verb, and a 'to do' clause",
+   "tag": "infinitive"
+  },
+  "VN": {
+   "name": "verbal noun",
+   "plain": "the suffix -mA that turns a clause into a noun ('your going'), usually with a possessive ending",
+   "tag": "verbal-noun"
+  },
+  "NMLZ": {
+   "name": "nominaliser -DIK",
+   "plain": "the suffix -DIK that turns a clause into a noun or a relative clause, usually with a possessive ending for its subject",
+   "tag": "factive-nominal"
+  },
+  "PTCP": {
+   "name": "participle -(y)An",
+   "plain": "the suffix -(y)An that turns a verb into an adjective describing the one who does it: gel-en 'who comes, who came'",
+   "tag": "subject-relative"
+  },
+  "CVB": {
+   "name": "converb",
+   "plain": "the suffix -(y)Ip that links one action to the next, 'and then'; other converbs are glossed by their English meaning",
+   "tag": "converbs"
+  },
+  "COND": {
+   "name": "conditional",
+   "plain": "the suffix -sA on a verb stem, or -(y)sA after a noun or tense: if",
+   "tag": "conditional"
+  },
+  "PASS": {
+   "name": "passive",
+   "plain": "the suffix -Il or -In: the subject undergoes the action",
+   "tag": "passive"
+  },
+  "CAUS": {
+   "name": "causative",
+   "plain": "a suffix such as -DIr, -t, -Ir or -Ar: make or let someone do it",
+   "tag": "causative"
+  },
+  "REFL": {
+   "name": "reflexive",
+   "plain": "the suffix -(I)n on some verbs: doing it to oneself",
+   "tag": "reflexive-reciprocal"
+  },
+  "RECP": {
+   "name": "reciprocal",
+   "plain": "the suffix -(I)ş on some verbs: doing it to each other, or together",
+   "tag": "reflexive-reciprocal"
+  }
+ },
+ "terms": {}
+}

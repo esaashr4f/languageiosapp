@@ -273,6 +273,19 @@
    ]
   },
   {
+   "id": "lat-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-02-08"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "lat-03-01",
    "part": 3,
    "order": 1,
@@ -457,6 +470,19 @@
    ]
   },
   {
+   "id": "lat-03-14",
+   "part": 3,
+   "order": 14,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-03-13"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "lat-04-01",
    "part": 4,
    "order": 1,
@@ -589,6 +615,19 @@
    "id": "lat-04-10",
    "part": 4,
    "order": 10,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "lat-04-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "lat-04-11",
+   "part": 4,
+   "order": 11,
    "slug": "passive-present-system",
    "title": "The passive: the -r endings",
    "point": "Turn a sentence round so that the thing acted on becomes the subject",
@@ -600,14 +639,14 @@
    ]
   },
   {
-   "id": "lat-04-11",
+   "id": "lat-04-12",
    "part": 4,
-   "order": 11,
+   "order": 12,
    "slug": "perfect-passive",
    "title": "The perfect participle and the perfect passive",
    "point": "Build amātus est and its relatives from the fourth principal part",
    "requires": [
-    "lat-04-10",
+    "lat-04-11",
     "lat-04-08"
    ],
    "introduces": [
@@ -615,102 +654,115 @@
    ]
   },
   {
-   "id": "lat-04-12",
+   "id": "lat-04-13",
    "part": 4,
-   "order": 12,
+   "order": 13,
    "slug": "deponents",
    "title": "Deponent verbs: passive in form, active in meaning",
    "point": "Recognise and use verbs like sequor, loquor and morior",
    "requires": [
-    "lat-04-11"
+    "lat-04-12"
    ],
    "introduces": [
     "deponent"
    ]
   },
   {
-   "id": "lat-04-13",
+   "id": "lat-04-14",
    "part": 4,
-   "order": 13,
+   "order": 14,
    "slug": "irregular-eo-fero",
    "title": "Irregular verbs: eō and ferō",
    "point": "Conjugate go and carry and their many compounds",
    "requires": [
-    "lat-04-12"
+    "lat-04-13"
    ],
    "introduces": [
     "eo-fero"
    ]
   },
   {
-   "id": "lat-04-14",
+   "id": "lat-04-15",
    "part": 4,
-   "order": 14,
+   "order": 15,
    "slug": "irregular-fio-do-edo",
    "title": "Irregular verbs: fīō, dō and the rest",
    "point": "Use fīō as the passive of faciō, and handle dō, edō and defective verbs like inquit and meminī",
    "requires": [
-    "lat-04-13"
+    "lat-04-14"
    ],
    "introduces": [
     "fio"
    ]
   },
   {
-   "id": "lat-04-15",
+   "id": "lat-04-16",
    "part": 4,
-   "order": 15,
+   "order": 16,
    "slug": "compound-verbs",
    "title": "Compound verbs and what prefixes do to them",
    "point": "Take a compound apart, and explain why faciō becomes cōnficiō",
    "requires": [
-    "lat-04-14"
+    "lat-04-15"
    ],
    "introduces": [
     "compounds"
    ]
   },
   {
-   "id": "lat-04-16",
+   "id": "lat-04-17",
    "part": 4,
-   "order": 16,
+   "order": 17,
    "slug": "subjunctive-present-imperfect",
    "title": "The subjunctive: present and imperfect forms",
    "point": "Form the mood Latin uses for what is wished, intended or imagined",
    "requires": [
-    "lat-04-15"
+    "lat-04-16"
    ],
    "introduces": [
     "subjunctive"
    ]
   },
   {
-   "id": "lat-04-17",
+   "id": "lat-04-18",
    "part": 4,
-   "order": 17,
+   "order": 18,
    "slug": "subjunctive-perfect-pluperfect",
    "title": "The subjunctive: perfect and pluperfect forms",
    "point": "Complete the subjunctive in the active and passive",
    "requires": [
-    "lat-04-16"
+    "lat-04-17"
    ],
    "introduces": [
     "subjunctive-perfect"
    ]
   },
   {
-   "id": "lat-04-18",
+   "id": "lat-04-19",
    "part": 4,
-   "order": 18,
+   "order": 19,
    "slug": "independent-subjunctive",
    "title": "The subjunctive on its own",
    "point": "Express a wish, a proposal, a doubt or a possibility in a main clause",
    "requires": [
-    "lat-04-17"
+    "lat-04-18"
    ],
    "introduces": [
     "independent-subjunctive"
    ]
+  },
+  {
+   "id": "lat-04-20",
+   "part": 4,
+   "order": 20,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-04-19"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "lat-05-01",
@@ -720,7 +772,7 @@
    "title": "Third-declension adjectives",
    "point": "Make adjectives like omnis, ācer and fēlīx agree with any noun",
    "requires": [
-    "lat-04-18"
+    "lat-04-19"
    ],
    "introduces": [
     "third-declension-adjectives"
@@ -857,6 +909,19 @@
    ]
   },
   {
+   "id": "lat-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-05-10"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "lat-06-01",
    "part": 6,
    "order": 1,
@@ -960,6 +1025,19 @@
    "id": "lat-06-08",
    "part": 6,
    "order": 8,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "lat-06-07"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "lat-06-09",
+   "part": 6,
+   "order": 9,
    "slug": "result",
    "title": "Result: so … that",
    "point": "Say what followed as a consequence, and tell result from purpose",
@@ -971,14 +1049,14 @@
    ]
   },
   {
-   "id": "lat-06-09",
+   "id": "lat-06-10",
    "part": 6,
-   "order": 9,
+   "order": 10,
    "slug": "indirect-commands-and-fears",
    "title": "Indirect commands and fears",
    "point": "Report an order or request, and express what someone is afraid may happen",
    "requires": [
-    "lat-06-08"
+    "lat-06-09"
    ],
    "introduces": [
     "indirect-command",
@@ -986,75 +1064,88 @@
    ]
   },
   {
-   "id": "lat-06-10",
+   "id": "lat-06-11",
    "part": 6,
-   "order": 10,
+   "order": 11,
    "slug": "indirect-questions",
    "title": "Indirect questions",
    "point": "Embed a question under a verb of asking, knowing or telling",
    "requires": [
-    "lat-06-09"
+    "lat-06-10"
    ],
    "introduces": [
     "indirect-question"
    ]
   },
   {
-   "id": "lat-06-11",
+   "id": "lat-06-12",
    "part": 6,
-   "order": 11,
+   "order": 12,
    "slug": "cum-clauses",
    "title": "cum: when, since, although",
    "point": "Read the commonest subordinating word in Latin prose in all its senses",
    "requires": [
-    "lat-06-10"
+    "lat-06-11"
    ],
    "introduces": [
     "cum-clauses"
    ]
   },
   {
-   "id": "lat-06-12",
+   "id": "lat-06-13",
    "part": 6,
-   "order": 12,
+   "order": 13,
    "slug": "conditions",
    "title": "Conditions: if",
    "point": "Build open, future and unreal conditions and know what each mood claims",
    "requires": [
-    "lat-06-11"
+    "lat-06-12"
    ],
    "introduces": [
     "conditionals"
    ]
   },
   {
-   "id": "lat-06-13",
+   "id": "lat-06-14",
    "part": 6,
-   "order": 13,
+   "order": 14,
    "slug": "concession-proviso-comparison",
    "title": "Although, provided that, as if",
    "point": "Use quamquam, quamvīs, etsī, dummodo and quasi",
    "requires": [
-    "lat-06-12"
+    "lat-06-13"
    ],
    "introduces": [
     "concessive-clauses"
    ]
   },
   {
-   "id": "lat-06-14",
+   "id": "lat-06-15",
    "part": 6,
-   "order": 14,
+   "order": 15,
    "slug": "subjunctive-relatives-quin",
    "title": "Relative clauses with the subjunctive; quīn and quōminus",
    "point": "Read the sort of person who, and clauses after verbs of doubting and preventing",
    "requires": [
-    "lat-06-13"
+    "lat-06-14"
    ],
    "introduces": [
     "characteristic-clauses",
     "quin"
    ]
+  },
+  {
+   "id": "lat-06-16",
+   "part": 6,
+   "order": 16,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-06-15"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "lat-07-01",
@@ -1064,7 +1155,7 @@
    "title": "The gerund: the verb as a noun",
    "point": "Use the verbal noun in -ndum in the cases the infinitive cannot supply",
    "requires": [
-    "lat-06-14"
+    "lat-06-15"
    ],
    "introduces": [
     "gerund"
@@ -1144,6 +1235,19 @@
    "id": "lat-07-07",
    "part": 7,
    "order": 7,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "lat-07-06"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "lat-07-08",
+   "part": 7,
+   "order": 8,
    "slug": "metre-hexameter",
    "title": "Poetry I: quantity, elision and the hexameter",
    "point": "Scan a line of Vergil",
@@ -1156,88 +1260,101 @@
    ]
   },
   {
-   "id": "lat-07-08",
+   "id": "lat-07-09",
    "part": 7,
-   "order": 8,
+   "order": 9,
    "slug": "elegiac-and-poetic-forms",
    "title": "Poetry II: the elegiac couplet and poetic grammar",
    "point": "Scan a couplet and recognise the forms and constructions poets prefer",
    "requires": [
-    "lat-07-07"
+    "lat-07-08"
    ],
    "introduces": [
     "poetic-forms"
    ]
   },
   {
-   "id": "lat-07-09",
+   "id": "lat-07-10",
    "part": 7,
-   "order": 9,
+   "order": 10,
    "slug": "word-formation",
    "title": "Word formation",
    "point": "Work out an unknown word from its root and suffix",
    "requires": [
-    "lat-07-08"
+    "lat-07-09"
    ],
    "introduces": [
     "word-formation"
    ]
   },
   {
-   "id": "lat-07-10",
+   "id": "lat-07-11",
    "part": 7,
-   "order": 10,
+   "order": 11,
    "slug": "names-dates-numerals",
    "title": "Names, dates and Roman numerals",
    "point": "Read a Roman name, a Roman date and a number written in numerals",
    "requires": [
-    "lat-07-09"
+    "lat-07-10"
    ],
    "introduces": [
     "calendar"
    ]
   },
   {
-   "id": "lat-07-11",
+   "id": "lat-07-12",
    "part": 7,
-   "order": 11,
+   "order": 12,
    "slug": "early-and-colloquial-latin",
    "title": "Early and colloquial Latin",
    "point": "Recognise the archaic forms of Plautus and old inscriptions, and the signs of everyday speech",
    "requires": [
-    "lat-07-10"
+    "lat-07-11"
    ],
    "introduces": [
     "archaic-latin"
    ]
   },
   {
-   "id": "lat-07-12",
+   "id": "lat-07-13",
    "part": 7,
-   "order": 12,
+   "order": 13,
    "slug": "late-and-medieval-latin",
    "title": "After the classics: late, church and medieval Latin",
    "point": "Adjust your classical Latin to read the Vulgate and medieval documents",
    "requires": [
-    "lat-07-11"
+    "lat-07-12"
    ],
    "introduces": [
     "medieval-latin"
    ]
   },
   {
-   "id": "lat-07-13",
+   "id": "lat-07-14",
    "part": 7,
-   "order": 13,
+   "order": 14,
    "slug": "inscriptions-and-manuscripts",
    "title": "Inscriptions and manuscripts",
    "point": "Expand the common abbreviations of stone and parchment and read an edited text's signs",
    "requires": [
-    "lat-07-12"
+    "lat-07-13"
    ],
    "introduces": [
     "epigraphy"
    ]
+  },
+  {
+   "id": "lat-07-15",
+   "part": 7,
+   "order": 15,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "lat-07-14"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "lat-08-01",
@@ -1247,7 +1364,7 @@
    "title": "Reading 1: voices from the walls of Pompeii",
    "point": "Read real graffiti and short inscriptions",
    "requires": [
-    "lat-07-13"
+    "lat-07-14"
    ],
    "introduces": []
   },

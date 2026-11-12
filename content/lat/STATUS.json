@@ -48,6 +48,9 @@
   "lat-02-08": {
    "state": "verified"
   },
+  "lat-02-09": {
+   "state": "planned"
+  },
   "lat-03-01": {
    "state": "planned"
   },
@@ -85,6 +88,9 @@
    "state": "planned"
   },
   "lat-03-13": {
+   "state": "planned"
+  },
+  "lat-03-14": {
    "state": "planned"
   },
   "lat-04-01": {
@@ -141,6 +147,12 @@
   "lat-04-18": {
    "state": "planned"
   },
+  "lat-04-19": {
+   "state": "planned"
+  },
+  "lat-04-20": {
+   "state": "planned"
+  },
   "lat-05-01": {
    "state": "planned"
   },
@@ -169,6 +181,9 @@
    "state": "planned"
   },
   "lat-05-10": {
+   "state": "planned"
+  },
+  "lat-05-11": {
    "state": "planned"
   },
   "lat-06-01": {
@@ -213,6 +228,12 @@
   "lat-06-14": {
    "state": "planned"
   },
+  "lat-06-15": {
+   "state": "planned"
+  },
+  "lat-06-16": {
+   "state": "planned"
+  },
   "lat-07-01": {
    "state": "planned"
   },
@@ -250,6 +271,12 @@
    "state": "planned"
   },
   "lat-07-13": {
+   "state": "planned"
+  },
+  "lat-07-14": {
+   "state": "planned"
+  },
+  "lat-07-15": {
    "state": "planned"
   },
   "lat-08-01": {

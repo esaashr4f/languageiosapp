@@ -105,3 +105,7 @@ Fields: headword | transliteration (or `-`) | part of speech | meaning | optiona
 ## Where it applies, and Watch out (parts 2 to 7)
 
 `Where it applies` maps every context in which the construction is correct, including the less obvious ones, each with an example (in the Examples section or inline) or a pointer to a later lesson. `Watch out` lists the places where using it seems natural but is wrong: show the wrong version (marked with an asterisk, e.g. *\*Puella est videt*), say why it fails, and give the right version. Wrong versions are prose, never `:::example` blocks.
+
+## Review lessons
+
+Syllabus entries with `"review": true` (slug `review` at the end of parts 2 to 7, `review-midway` in the middle of long parts) are progress checks. They introduce no grammar and no required vocabulary. Sections: `## Passage` (a connected text to translate, attested where one fits the level, otherwise constructed; given as `:::example` blocks line by line or as plain text with the analysis in the answers), optionally `## Before you start` (what the review covers, with lesson pointers), then `## Exercises` (8 to 25: translate the passage, build sentences, find and fix errors, explain a form) and `## Worked answers` (same number, each showing the reasoning and naming the lesson that teaches the point). Words not yet taught may appear only if glossed in place.

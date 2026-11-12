@@ -330,6 +330,19 @@
    ]
   },
   {
+   "id": "tur-02-10",
+   "part": 2,
+   "order": 10,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-02-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "tur-03-01",
    "part": 3,
    "order": 1,
@@ -420,6 +433,19 @@
    "id": "tur-03-07",
    "part": 3,
    "order": 7,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "tur-03-06"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "tur-03-08",
+   "part": 3,
+   "order": 8,
    "slug": "noun-compounds",
    "title": "Noun compounds: Türk kahvesi",
    "point": "Build compounds with the compound marker -(s)I and see how they differ from genitive phrases",
@@ -432,14 +458,14 @@
    ]
   },
   {
-   "id": "tur-03-08",
+   "id": "tur-03-09",
    "part": 3,
-   "order": 8,
+   "order": 9,
    "slug": "having",
    "title": "Having: benim arabam var",
    "point": "Say what someone has with the possessive and var or yok",
    "requires": [
-    "tur-03-07",
+    "tur-03-08",
     "tur-03-05",
     "tur-02-06"
    ],
@@ -448,74 +474,87 @@
    ]
   },
   {
-   "id": "tur-03-09",
+   "id": "tur-03-10",
    "part": 3,
-   "order": 9,
+   "order": 10,
    "slug": "personal-pronouns",
    "title": "Personal pronouns and their cases",
    "point": "Use ben, sen, o, biz, siz, onlar in every case, including bana and sana, and know when to leave them out",
    "requires": [
-    "tur-03-08"
+    "tur-03-09"
    ],
    "introduces": [
     "pronouns"
    ]
   },
   {
-   "id": "tur-03-10",
+   "id": "tur-03-11",
    "part": 3,
-   "order": 10,
+   "order": 11,
    "slug": "demonstratives",
    "title": "This, that and the other: bu, şu, o",
    "point": "Point with bu, şu and o, and use burada, şurada, orada",
    "requires": [
-    "tur-03-09"
+    "tur-03-10"
    ],
    "introduces": [
     "demonstratives"
    ]
   },
   {
-   "id": "tur-03-11",
+   "id": "tur-03-12",
    "part": 3,
-   "order": 11,
+   "order": 12,
    "slug": "question-words",
    "title": "Question words",
    "point": "Ask who, what, where, when, how and why, keeping the question word in place",
    "requires": [
-    "tur-03-10"
+    "tur-03-11"
    ],
    "introduces": [
     "question-words"
    ]
   },
   {
-   "id": "tur-03-12",
+   "id": "tur-03-13",
    "part": 3,
-   "order": 12,
+   "order": 13,
    "slug": "with-ile",
    "title": "With: -(y)lA",
    "point": "Say 'with' and 'by means of' with ile and its suffixed form -(y)lA",
    "requires": [
-    "tur-03-11"
+    "tur-03-12"
    ],
    "introduces": [
     "instrumental"
    ]
   },
   {
-   "id": "tur-03-13",
+   "id": "tur-03-14",
    "part": 3,
-   "order": 13,
+   "order": 14,
    "slug": "ki-suffix",
    "title": "The one in the house: -ki",
    "point": "Turn a place, a time or a possessor into a word that describes or stands for a thing, with -ki",
    "requires": [
-    "tur-03-12"
+    "tur-03-13"
    ],
    "introduces": [
     "ki-suffix"
    ]
+  },
+  {
+   "id": "tur-03-15",
+   "part": 3,
+   "order": 15,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-03-14"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "tur-04-01",
@@ -525,7 +564,7 @@
    "title": "The verb template: slots in a fixed order",
    "point": "See the order of the slots in a verb (stem, voice, negation, ability, tense, copula, person) and why they cannot be shuffled",
    "requires": [
-    "tur-03-13"
+    "tur-03-14"
    ],
    "introduces": [
     "verb-template"
@@ -636,6 +675,19 @@
    "id": "tur-04-09",
    "part": 4,
    "order": 9,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "tur-04-08"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "tur-04-10",
+   "part": 4,
+   "order": 10,
    "slug": "compound-tenses",
    "title": "Compound tenses: geliyordu, gelirdi, gelmişti",
    "point": "Stack a copular marker on a tense to say 'was doing', 'used to do', 'had done'",
@@ -648,70 +700,70 @@
    ]
   },
   {
-   "id": "tur-04-10",
+   "id": "tur-04-11",
    "part": 4,
-   "order": 10,
+   "order": 11,
    "slug": "copula-dir",
    "title": "The -DIr ending: is, must be",
    "point": "Use -DIr for formal statements and for 'it must be so'",
    "requires": [
-    "tur-04-09"
+    "tur-04-10"
    ],
    "introduces": [
     "copula-dir"
    ]
   },
   {
-   "id": "tur-04-11",
+   "id": "tur-04-12",
    "part": 4,
-   "order": 11,
+   "order": 12,
    "slug": "necessitative",
    "title": "Must: -mAlI",
    "point": "Say what must or should be done with -mAlI",
    "requires": [
-    "tur-04-10"
+    "tur-04-11"
    ],
    "introduces": [
     "necessitative"
    ]
   },
   {
-   "id": "tur-04-12",
+   "id": "tur-04-13",
    "part": 4,
-   "order": 12,
+   "order": 13,
    "slug": "ability",
    "title": "Can and cannot: -(y)Abil and -(y)AmA",
    "point": "Say what someone can do with -(y)Abil and cannot do with -(y)AmA",
    "requires": [
-    "tur-04-11"
+    "tur-04-12"
    ],
    "introduces": [
     "ability"
    ]
   },
   {
-   "id": "tur-04-13",
+   "id": "tur-04-14",
    "part": 4,
-   "order": 13,
+   "order": 14,
    "slug": "optative",
    "title": "Let me, let's: the optative",
    "point": "Make suggestions and first-person requests with -(y)AyIm and -(y)AlIm",
    "requires": [
-    "tur-04-12"
+    "tur-04-13"
    ],
    "introduces": [
     "optative"
    ]
   },
   {
-   "id": "tur-04-14",
+   "id": "tur-04-15",
    "part": 4,
-   "order": 14,
+   "order": 15,
    "slug": "questions-on-verbs",
    "title": "Where mI goes in each tense",
    "point": "Place the question particle correctly after -DI, before the person ending elsewhere",
    "requires": [
-    "tur-04-13",
+    "tur-04-14",
     "tur-04-03",
     "tur-04-04",
     "tur-02-05"
@@ -721,32 +773,45 @@
    ]
   },
   {
-   "id": "tur-04-15",
+   "id": "tur-04-16",
    "part": 4,
-   "order": 15,
+   "order": 16,
    "slug": "olmak",
    "title": "Olmak: to be and to become",
    "point": "Use olmak where the copula has no form: future, infinitive, 'become'",
    "requires": [
-    "tur-04-14"
+    "tur-04-15"
    ],
    "introduces": [
     "olmak"
    ]
   },
   {
-   "id": "tur-04-16",
+   "id": "tur-04-17",
    "part": 4,
-   "order": 16,
+   "order": 17,
    "slug": "choosing-a-tense",
    "title": "Choosing a tense",
    "point": "Choose between -(I)yor, the aorist, -DI, -mIş and -(y)AcAK by what you mean",
    "requires": [
-    "tur-04-15"
+    "tur-04-16"
    ],
    "introduces": [
     "tam-system"
    ]
+  },
+  {
+   "id": "tur-04-18",
+   "part": 4,
+   "order": 18,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-04-17"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "tur-05-01",
@@ -756,7 +821,7 @@
    "title": "Adjectives and adverbs",
    "point": "Use adjectives before nouns and as nouns, and make adverbs from them",
    "requires": [
-    "tur-04-16"
+    "tur-04-17"
    ],
    "introduces": [
     "adjectives"
@@ -907,6 +972,19 @@
    ]
   },
   {
+   "id": "tur-05-12",
+   "part": 5,
+   "order": 12,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-05-11"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "tur-06-01",
    "part": 6,
    "order": 1,
@@ -1014,6 +1092,19 @@
    "id": "tur-06-08",
    "part": 6,
    "order": 8,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "tur-06-07"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "tur-06-09",
+   "part": 6,
+   "order": 9,
    "slug": "reason-and-purpose",
    "title": "Because and in order to",
    "point": "Give reasons with -DIğI için and purposes with -mAk için and diye",
@@ -1025,14 +1116,14 @@
    ]
   },
   {
-   "id": "tur-06-09",
+   "id": "tur-06-10",
    "part": 6,
-   "order": 9,
+   "order": 10,
    "slug": "real-conditionals",
    "title": "If: the conditional -sA",
    "point": "Make real conditions with -(y)sA after a tense, and with eğer",
    "requires": [
-    "tur-06-08",
+    "tur-06-09",
     "tur-04-08"
    ],
    "introduces": [
@@ -1040,29 +1131,29 @@
    ]
   },
   {
-   "id": "tur-06-10",
+   "id": "tur-06-11",
    "part": 6,
-   "order": 10,
+   "order": 11,
    "slug": "unreal-conditionals-and-wishes",
    "title": "If only: unreal conditions and wishes",
    "point": "Say what would have happened, and wish with keşke",
    "requires": [
-    "tur-06-09",
-    "tur-04-09"
+    "tur-06-10",
+    "tur-04-10"
    ],
    "introduces": [
     "counterfactual"
    ]
   },
   {
-   "id": "tur-06-11",
+   "id": "tur-06-12",
    "part": 6,
-   "order": 11,
+   "order": 12,
    "slug": "reported-speech",
    "title": "Reported speech: demek, diye and ki",
    "point": "Report what people said, with quotation, diye and the Persian-style ki",
    "requires": [
-    "tur-06-10",
+    "tur-06-11",
     "tur-04-07",
     "tur-06-06"
    ],
@@ -1071,46 +1162,59 @@
    ]
   },
   {
-   "id": "tur-06-12",
+   "id": "tur-06-13",
    "part": 6,
-   "order": 12,
+   "order": 13,
    "slug": "indefinites",
    "title": "Someone, no one, anything: indefinites and hiç",
    "point": "Use biri, bir şey, hiç kimse, hiçbir şey with a negative verb",
    "requires": [
-    "tur-06-11"
+    "tur-06-12"
    ],
    "introduces": [
     "indefinites"
    ]
   },
   {
-   "id": "tur-06-13",
+   "id": "tur-06-14",
    "part": 6,
-   "order": 13,
+   "order": 14,
    "slug": "concession",
    "title": "Although and even if",
    "point": "Concede with -sA da, -DIğI halde and -mAsInA rağmen",
    "requires": [
-    "tur-06-12"
+    "tur-06-13"
    ],
    "introduces": [
     "concession"
    ]
   },
   {
-   "id": "tur-06-14",
+   "id": "tur-06-15",
    "part": 6,
-   "order": 14,
+   "order": 15,
    "slug": "clause-review",
    "title": "Putting clauses together",
    "point": "Take apart and build long sentences with several nominalised clauses, the order of the suffixes guiding you",
    "requires": [
-    "tur-06-13"
+    "tur-06-14"
    ],
    "introduces": [
     "clause-chains"
    ]
+  },
+  {
+   "id": "tur-06-16",
+   "part": 6,
+   "order": 16,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-06-15"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "tur-07-01",
@@ -1120,7 +1224,7 @@
    "title": "The passive: -Il and -In",
    "point": "Form and use the passive, including the impersonal passive of intransitive verbs",
    "requires": [
-    "tur-06-14",
+    "tur-06-15",
     "tur-04-05"
    ],
    "introduces": [
@@ -1288,6 +1392,19 @@
    ]
   },
   {
+   "id": "tur-07-13",
+   "part": 7,
+   "order": 13,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "tur-07-12"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "tur-08-01",
    "part": 8,
    "order": 1,
@@ -1382,7 +1499,7 @@
    "point": "Read a medieval poem in Old Anatolian Turkish, with its older endings explained",
    "requires": [
     "tur-08-07",
-    "tur-04-13"
+    "tur-04-14"
    ],
    "introduces": []
   },

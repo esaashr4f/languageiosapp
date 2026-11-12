@@ -51,6 +51,9 @@
   "swh-02-08": {
    "state": "planned"
   },
+  "swh-02-09": {
+   "state": "planned"
+  },
   "swh-03-01": {
    "state": "planned"
   },
@@ -91,6 +94,12 @@
    "state": "planned"
   },
   "swh-03-14": {
+   "state": "planned"
+  },
+  "swh-03-15": {
+   "state": "planned"
+  },
+  "swh-03-16": {
    "state": "planned"
   },
   "swh-04-01": {
@@ -144,6 +153,12 @@
   "swh-04-17": {
    "state": "planned"
   },
+  "swh-04-18": {
+   "state": "planned"
+  },
+  "swh-04-19": {
+   "state": "planned"
+  },
   "swh-05-01": {
    "state": "planned"
   },
@@ -175,6 +190,9 @@
    "state": "planned"
   },
   "swh-05-11": {
+   "state": "planned"
+  },
+  "swh-05-12": {
    "state": "planned"
   },
   "swh-06-01": {
@@ -219,6 +237,12 @@
   "swh-06-14": {
    "state": "planned"
   },
+  "swh-06-15": {
+   "state": "planned"
+  },
+  "swh-06-16": {
+   "state": "planned"
+  },
   "swh-07-01": {
    "state": "planned"
   },
@@ -259,6 +283,12 @@
    "state": "planned"
   },
   "swh-07-14": {
+   "state": "planned"
+  },
+  "swh-07-15": {
+   "state": "planned"
+  },
+  "swh-07-16": {
    "state": "planned"
   },
   "swh-08-01": {

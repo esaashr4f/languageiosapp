@@ -146,7 +146,7 @@ export function sections(blocks: Block[]): { name: string; blocks: Block[] }[] {
 }
 
 export interface Glossary { abbreviations: Record<string, { name: string; plain: string; tag: string }>; terms?: Record<string, string> }
-export interface SyllabusLesson { id: string; part: number; order: number; slug: string; title: string; point?: string; requires: string[]; introduces: string[] }
+export interface SyllabusLesson { id: string; part: number; order: number; slug: string; title: string; point?: string; requires: string[]; introduces: string[]; review?: boolean }
 export interface Syllabus { lang: string; parts: { part: number; title: string; summary?: string }[]; lessons: SyllabusLesson[] }
 
 export const readJson = <T>(f: string): T | null => (fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as T) : null);

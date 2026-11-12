@@ -28,6 +28,10 @@ One Markdown file per lesson in your part, at `content/<code>/lessons/<PP>-<OO>-
 - **Vocabulary.** A headword is introduced once in the whole guide. Do not re-list words earlier lessons introduced.
 - **Connections** section: optional, two to four sentences, accurate, anchored to Spanish, French, Japanese, Korean or Arabic where there is a real link.
 
+## Review lessons
+
+If the syllabus marks a lesson `"review": true`, it is a progress check, not a teaching lesson: follow the "Review lessons" section of docs/CONTENT_FORMAT.md. Mix everything taught up to that point, weight the most recent part, and make every worked answer name the lesson behind it.
+
 ## Working method
 
 After each lesson: run `npm run -s lint:content -- content/<code>/lessons/<file>` and fix every error and, where sensible, every warning. Then commit that file only:

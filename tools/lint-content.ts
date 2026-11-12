@@ -97,7 +97,8 @@ for (const lang of langDirs(root, onlyLangs)) {
     if (/[‪-‮⁦-⁩]/.test(raw)) W("contains explicit bidi control characters");
     if (/<\/?[a-z][^>]*>/i.test(lesson.body.replace(/`[^`]*`/g, ""))) E("raw HTML is not allowed in lessons");
 
-    const full = syl.part >= 1 && syl.part <= 7; // parts using the full lesson template
+    const review = syl.review === true; // review lessons: passage + exercises, no new grammar
+    const full = syl.part >= 1 && syl.part <= 7 && !review; // parts using the full lesson template
     const secs = sections(lesson.blocks);
     const names = secs.map((s) => s.name).filter(Boolean);
     if (full) {
@@ -156,6 +157,14 @@ for (const lang of langDirs(root, onlyLangs)) {
       }
     }
 
+    if (review) {
+      for (const r of ["Exercises", "Worked answers"]) if (!names.includes(r)) E(`review lesson: section "## ${r}" missing`);
+      if (syl.introduces.length) E("review lessons introduce no new grammar");
+      const items = (name: string) => (secs.find((s) => s.name === name)?.blocks ?? []).reduce((n, b) => n + (b.type === "list" && b.ordered ? b.items.length : 0), 0);
+      const nq = items("Exercises"), na = items("Worked answers");
+      if (nq < 8 || nq > 25) E(`review lesson: ${nq} exercises (need 8 to 25, as a numbered list)`);
+      if (na !== nq) E(`${nq} exercises but ${na} worked answers`);
+    }
     // Template counts
     const wc = wordCounts(lesson.blocks);
     if (syl.part === 9) { /* generated reference appendices: no prose minimum */ }

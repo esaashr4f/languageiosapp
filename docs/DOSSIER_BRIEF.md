@@ -17,6 +17,7 @@ You are preparing a language for Polyglot Atlas before any lesson is written. Ac
 4. **`glossary.json`**: every gloss abbreviation the guide will need (Leipzig standard ones where they exist), each with `name`, `plain` (one plain sentence) and `tag` (the syllabus `introduces` tag of the lesson that first teaches it). `terms` may stay empty.
 5. **`syllabus.json`**: the full ordered lesson list on the spine of BRIEF.md section 4, adapted to the language (drop parts that do not apply, add language-specific parts or lessons). Depth A: 60 to 100 lessons; depth B: about 40 to 60; depth C: as the evidence allows. Ids `<code>-PP-OO`, order restarting at 01 in each part. Each lesson: `slug, title, point, requires, introduces`. Order by what a learner needs to build real sentences soonest. Part 8 lists the graded authentic passages you chose (cite each; check that each text exists and is open or quotable). If the language has a famous passage or text that fits what the learner can read by the end, the last part 8 lesson is a **capstone** reading it (see BRIEF.md Amendments); if none fits, say so in the dossier and do not force one in. Part 9 is reference appendices. Check the syllabus against the table of contents of the standard grammar so nothing major is missing; say in the dossier which grammar you compared it with.
 6. **`STATUS.json`**: every lesson `planned`.
+7. Run `python3 tools/add-reviews.py <code>` to add the review lessons (BRIEF.md Amendments), then lint again.
 
 ## Rules
 

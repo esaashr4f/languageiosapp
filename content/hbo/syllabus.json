@@ -358,6 +358,19 @@
    ]
   },
   {
+   "id": "hbo-02-10",
+   "part": 2,
+   "order": 10,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-02-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "hbo-03-01",
    "part": 3,
    "order": 1,
@@ -530,6 +543,19 @@
    ]
   },
   {
+   "id": "hbo-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-03-12"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "hbo-04-01",
    "part": 4,
    "order": 1,
@@ -690,6 +716,19 @@
    "id": "hbo-04-12",
    "part": 4,
    "order": 12,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "hbo-04-11"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "hbo-04-13",
+   "part": 4,
+   "order": 13,
    "slug": "first-aleph-and-first-nun",
    "title": "Verbs beginning with ʾ or n: ʾāmar, nāpal, nātan",
    "point": "Recognise wayyōʾmer, yippōl and yittēn and know where the missing letter went",
@@ -701,71 +740,71 @@
    ]
   },
   {
-   "id": "hbo-04-13",
+   "id": "hbo-04-14",
    "part": 4,
-   "order": 13,
+   "order": 14,
    "slug": "first-yod-waw",
    "title": "Verbs beginning with y: yāšab, yādaʿ, yāṣāʾ",
    "point": "Recognise the short stems of the commonest weak verbs",
    "requires": [
-    "hbo-04-12"
+    "hbo-04-13"
    ],
    "introduces": [
     "first-yod"
    ]
   },
   {
-   "id": "hbo-04-14",
+   "id": "hbo-04-15",
    "part": 4,
-   "order": 14,
+   "order": 15,
    "slug": "hollow-verbs",
    "title": "Hollow verbs: qûm, śîm, bôʾ",
    "point": "Conjugate verbs whose middle root letter is a vowel",
    "requires": [
-    "hbo-04-13"
+    "hbo-04-14"
    ],
    "introduces": [
     "hollow-verbs"
    ]
   },
   {
-   "id": "hbo-04-15",
+   "id": "hbo-04-16",
    "part": 4,
-   "order": 15,
+   "order": 16,
    "slug": "third-he-verbs",
    "title": "Verbs ending in -â: bānâ, ʿāśâ, rāʾâ",
    "point": "Conjugate the largest weak class and recognise its short forms wayyar and wayyaʿaś",
    "requires": [
-    "hbo-04-14"
+    "hbo-04-15"
    ],
    "introduces": [
     "third-he"
    ]
   },
   {
-   "id": "hbo-04-16",
+   "id": "hbo-04-17",
    "part": 4,
-   "order": 16,
+   "order": 17,
    "slug": "geminate-and-irregular-verbs",
    "title": "Doubled roots and the irregular verbs hālak and lāqaḥ",
    "point": "Recognise forms of sabab, hālak and lāqaḥ that look like other roots",
    "requires": [
-    "hbo-04-15"
+    "hbo-04-16"
    ],
    "introduces": [
     "geminate"
    ]
   },
   {
-   "id": "hbo-04-17",
+   "id": "hbo-04-18",
    "part": 4,
-   "order": 17,
+   "order": 18,
    "slug": "haya",
    "title": "Hāyâ: 'be', 'become', and wayhî",
    "point": "Use hāyâ for past and future being, and know why the present needs no verb",
    "requires": [
+    "hbo-04-17",
     "hbo-04-16",
-    "hbo-04-15",
     "hbo-02-01"
    ],
    "introduces": [
@@ -773,88 +812,101 @@
    ]
   },
   {
-   "id": "hbo-04-18",
+   "id": "hbo-04-19",
    "part": 4,
-   "order": 18,
+   "order": 19,
    "slug": "object-suffixes",
    "title": "Pronoun suffixes on verbs",
    "point": "Attach 'me', 'him', 'them' to a verb and read the vowel changes it causes",
    "requires": [
-    "hbo-04-17"
+    "hbo-04-18"
    ],
    "introduces": [
     "object-suffixes"
    ]
   },
   {
-   "id": "hbo-04-19",
+   "id": "hbo-04-20",
    "part": 4,
-   "order": 19,
+   "order": 20,
    "slug": "niphal",
    "title": "The niphal: passive and middle",
    "point": "Build the niphal and use it for 'was done', 'did to oneself' and some plain verbs",
    "requires": [
-    "hbo-04-18"
+    "hbo-04-19"
    ],
    "introduces": [
     "niphal"
    ]
   },
   {
-   "id": "hbo-04-20",
+   "id": "hbo-04-21",
    "part": 4,
-   "order": 20,
+   "order": 21,
    "slug": "piel-and-pual",
    "title": "The piel and pual: the doubled stems",
    "point": "Build the piel and its passive and know what the doubled middle letter adds",
    "requires": [
-    "hbo-04-19"
+    "hbo-04-20"
    ],
    "introduces": [
     "piel"
    ]
   },
   {
-   "id": "hbo-04-21",
+   "id": "hbo-04-22",
    "part": 4,
-   "order": 21,
+   "order": 22,
    "slug": "hiphil-and-hophal",
    "title": "The hiphil and hophal: making happen",
    "point": "Build the causative stem and its passive",
    "requires": [
-    "hbo-04-20"
+    "hbo-04-21"
    ],
    "introduces": [
     "hiphil"
    ]
   },
   {
-   "id": "hbo-04-22",
+   "id": "hbo-04-23",
    "part": 4,
-   "order": 22,
+   "order": 23,
    "slug": "hithpael",
    "title": "The hithpael: doing to or for oneself",
    "point": "Build the reflexive and reciprocal stem and its metathesis",
    "requires": [
-    "hbo-04-21"
+    "hbo-04-22"
    ],
    "introduces": [
     "hithpael"
    ]
   },
   {
-   "id": "hbo-04-23",
+   "id": "hbo-04-24",
    "part": 4,
-   "order": 23,
+   "order": 24,
    "slug": "weak-verbs-in-derived-stems",
    "title": "Weak verbs in the derived stems",
    "point": "Recognise hēqîm, hôšîaʿ, hibbîṭ, nôlad and hēbîʾ and find their roots",
    "requires": [
-    "hbo-04-22"
+    "hbo-04-23"
    ],
    "introduces": [
     "weak-derived"
    ]
+  },
+  {
+   "id": "hbo-04-25",
+   "part": 4,
+   "order": 25,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-04-24"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "hbo-05-01",
@@ -864,7 +916,7 @@
    "title": "Adverbs and focus particles",
    "point": "Use now, there, thus, also, only and surely, and place them in the clause",
    "requires": [
-    "hbo-04-23"
+    "hbo-04-24"
    ],
    "introduces": [
     "adverbs"
@@ -995,6 +1047,19 @@
    "introduces": [
     "hinneh"
    ]
+  },
+  {
+   "id": "hbo-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-05-10"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "hbo-06-01",
@@ -1135,6 +1200,19 @@
    "introduces": [
     "discourse"
    ]
+  },
+  {
+   "id": "hbo-06-11",
+   "part": 6,
+   "order": 11,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-06-10"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "hbo-07-01",
@@ -1289,6 +1367,19 @@
    "introduces": [
     "aramaic-and-after"
    ]
+  },
+  {
+   "id": "hbo-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "hbo-07-11"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "hbo-08-01",

@@ -333,6 +333,19 @@
    ]
   },
   {
+   "id": "kat-02-10",
+   "part": 2,
+   "order": 10,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-02-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "kat-03-01",
    "part": 3,
    "order": 1,
@@ -501,6 +514,19 @@
    "introduces": [
     "old-plural"
    ]
+  },
+  {
+   "id": "kat-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-03-12"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "kat-04-01",
@@ -679,6 +705,19 @@
    "id": "kat-04-13",
    "part": 4,
    "order": 13,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "kat-04-12"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "kat-04-14",
+   "part": 4,
+   "order": 14,
    "slug": "aorist-intransitive",
    "title": "The aorist of intransitives",
    "point": "Form the aorist of class 2 verbs, whose subject stays nominative, and know strong from weak aorists",
@@ -690,42 +729,42 @@
    ]
   },
   {
-   "id": "kat-04-14",
+   "id": "kat-04-15",
    "part": 4,
-   "order": 14,
+   "order": 15,
    "slug": "medial-verbs",
    "title": "Doing without an object: medial verbs",
    "point": "Use class 3 verbs like თამაშობს and მუშაობს, which take the ergative in the aorist though they have no object",
    "requires": [
-    "kat-04-13"
+    "kat-04-14"
    ],
    "introduces": [
     "medial"
    ]
   },
   {
-   "id": "kat-04-15",
+   "id": "kat-04-16",
    "part": 4,
-   "order": 15,
+   "order": 16,
    "slug": "optative",
    "title": "Let it be done: the optative",
    "point": "Form the optative and use it for 'should', 'let's' and wishes",
    "requires": [
-    "kat-04-14"
+    "kat-04-15"
    ],
    "introduces": [
     "optative"
    ]
   },
   {
-   "id": "kat-04-16",
+   "id": "kat-04-17",
    "part": 4,
-   "order": 16,
+   "order": 17,
    "slug": "imperative-and-prohibition",
    "title": "Commands and prohibitions",
    "point": "Give commands with the aorist form, and forbid with ნუ and არ",
    "requires": [
-    "kat-04-15"
+    "kat-04-16"
    ],
    "introduces": [
     "imperative",
@@ -733,14 +772,14 @@
    ]
   },
   {
-   "id": "kat-04-17",
+   "id": "kat-04-18",
    "part": 4,
-   "order": 17,
+   "order": 18,
    "slug": "indirect-verbs",
    "title": "I love, I have: indirect verbs and the dative subject",
    "point": "Use უყვარს, აქვს, უნდა and მოსწონს with the experiencer in the dative and the thing in the nominative",
    "requires": [
-    "kat-04-16"
+    "kat-04-17"
    ],
    "introduces": [
     "indirect-verb",
@@ -748,56 +787,56 @@
    ]
   },
   {
-   "id": "kat-04-18",
+   "id": "kat-04-19",
    "part": 4,
-   "order": 18,
+   "order": 19,
    "slug": "having-things-and-people",
    "title": "Having things and having people",
    "point": "Choose between აქვს for things and ჰყავს for people and animals",
    "requires": [
-    "kat-04-17"
+    "kat-04-18"
    ],
    "introduces": [
     "animacy"
    ]
   },
   {
-   "id": "kat-04-19",
+   "id": "kat-04-20",
    "part": 4,
-   "order": 19,
+   "order": 20,
    "slug": "indirect-objects",
    "title": "To and for someone: indirect objects",
    "point": "Mark an indirect object on the verb, including third-person ს- and ჰ-",
    "requires": [
-    "kat-04-18"
+    "kat-04-19"
    ],
    "introduces": [
     "indirect-object"
    ]
   },
   {
-   "id": "kat-04-20",
+   "id": "kat-04-21",
    "part": 4,
-   "order": 20,
+   "order": 21,
    "slug": "version",
    "title": "For myself, for you: version",
    "point": "Use the version vowels ა-, ი-, უ- to say whom an action is for or belongs to",
    "requires": [
-    "kat-04-19"
+    "kat-04-20"
    ],
    "introduces": [
     "version"
    ]
   },
   {
-   "id": "kat-04-21",
+   "id": "kat-04-22",
    "part": 4,
-   "order": 21,
+   "order": 22,
    "slug": "perfect-transitive",
    "title": "It seems I have done it: the perfect",
    "point": "Form the perfect of transitive and medial verbs, with the doer in the dative, and read its evidential sense",
    "requires": [
-    "kat-04-20"
+    "kat-04-21"
    ],
    "introduces": [
     "perfect",
@@ -805,60 +844,73 @@
    ]
   },
   {
-   "id": "kat-04-22",
+   "id": "kat-04-23",
    "part": 4,
-   "order": 22,
+   "order": 23,
    "slug": "pluperfect",
    "title": "Should have, had done: the pluperfect and perfect subjunctive",
    "point": "Form the pluperfect and the perfect subjunctive and use them for missed obligations and unreal pasts",
    "requires": [
-    "kat-04-21"
+    "kat-04-22"
    ],
    "introduces": [
     "pluperfect"
    ]
   },
   {
-   "id": "kat-04-23",
+   "id": "kat-04-24",
    "part": 4,
-   "order": 23,
+   "order": 24,
    "slug": "perfect-intransitive",
    "title": "The perfect of intransitives",
    "point": "Form series III of class 2 verbs (დაწერილა, მისულა) from the past participle",
    "requires": [
-    "kat-04-22"
+    "kat-04-23"
    ],
    "introduces": [
     "past-participle"
    ]
   },
   {
-   "id": "kat-04-24",
+   "id": "kat-04-25",
    "part": 4,
-   "order": 24,
+   "order": 25,
    "slug": "irregular-verbs",
    "title": "Be, say, give, see: irregular and suppletive verbs",
    "point": "Use the verbs whose stems change between series: არის/იქნება/იყო, ამბობს/თქვა, აძლევს/მისცა, ხედავს/ნახა, ჭამს, სვამს, იცის",
    "requires": [
-    "kat-04-23"
+    "kat-04-24"
    ],
    "introduces": [
     "suppletion"
    ]
   },
   {
-   "id": "kat-04-25",
+   "id": "kat-04-26",
    "part": 4,
-   "order": 25,
+   "order": 26,
    "slug": "reading-a-verb-entry",
    "title": "Reading a verb in a dictionary",
    "point": "Find a verb from its citation forms (third person present or future and masdar) and predict its screeves",
    "requires": [
-    "kat-04-24"
+    "kat-04-25"
    ],
    "introduces": [
     "citation-form"
    ]
+  },
+  {
+   "id": "kat-04-27",
+   "part": 4,
+   "order": 27,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-04-26"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "kat-05-01",
@@ -868,7 +920,7 @@
    "title": "How, where, when: adverbs and adverbial postpositions",
    "point": "Make adverbs with -ად, use the common adverbs of place and time, and the genitive postpositions შესახებ, გარდა, შემდეგ, წინ, უკან, მიერ",
    "requires": [
-    "kat-04-25"
+    "kat-04-26"
    ],
    "introduces": [
     "adverbs"
@@ -1002,6 +1054,19 @@
    "introduces": [
     "derivation"
    ]
+  },
+  {
+   "id": "kat-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-05-10"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "kat-06-01",
@@ -1140,6 +1205,19 @@
     "kat-06-09"
    ],
    "introduces": []
+  },
+  {
+   "id": "kat-06-11",
+   "part": 6,
+   "order": 11,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-06-10"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "kat-07-01",
@@ -1290,6 +1368,19 @@
    "introduces": [
     "old-georgian"
    ]
+  },
+  {
+   "id": "kat-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "kat-07-11"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "kat-08-01",

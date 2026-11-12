@@ -291,6 +291,19 @@
    ]
   },
   {
+   "id": "swh-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-02-08"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "swh-03-01",
    "part": 3,
    "order": 1,
@@ -393,6 +406,19 @@
    "id": "swh-03-08",
    "part": 3,
    "order": 8,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "swh-03-07"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "swh-03-09",
+   "part": 3,
+   "order": 9,
    "slug": "animate-agreement",
    "title": "People and animals in any class: animate agreement",
    "point": "Use class 1 and 2 agreement for every noun that names a person or animal, whatever its own prefix",
@@ -404,56 +430,56 @@
    ]
   },
   {
-   "id": "swh-03-09",
+   "id": "swh-03-10",
    "part": 3,
-   "order": 9,
+   "order": 10,
    "slug": "possessives",
    "title": "Possessives: -angu, -ako, -ake",
    "point": "Say my, your, his, our and their with the possessive stem and the right class prefix, including the kin-term pattern",
    "requires": [
-    "swh-03-08"
+    "swh-03-09"
    ],
    "introduces": [
     "possessive"
    ]
   },
   {
-   "id": "swh-03-10",
+   "id": "swh-03-11",
    "part": 3,
-   "order": 10,
+   "order": 11,
    "slug": "of-a",
    "title": "'Of': the -a of association",
    "point": "Link two nouns with cha, la, ya, za, wa, kwa, and build compound nouns",
    "requires": [
-    "swh-03-09"
+    "swh-03-10"
    ],
    "introduces": [
     "associative"
    ]
   },
   {
-   "id": "swh-03-11",
+   "id": "swh-03-12",
    "part": 3,
-   "order": 11,
+   "order": 12,
    "slug": "demonstratives",
    "title": "This, that and that one: demonstratives",
    "point": "Form and choose the three demonstratives (huyu, yule, huyo) for every class",
    "requires": [
-    "swh-03-10"
+    "swh-03-11"
    ],
    "introduces": [
     "demonstrative"
    ]
   },
   {
-   "id": "swh-03-12",
+   "id": "swh-03-13",
    "part": 3,
-   "order": 12,
+   "order": 13,
    "slug": "locatives",
    "title": "Places: -ni and classes 16, 17 and 18",
    "point": "Make locative nouns with -ni and agree with them through pa-, ku- and mu-",
    "requires": [
-    "swh-03-11",
+    "swh-03-12",
     "swh-02-05"
    ],
    "introduces": [
@@ -461,14 +487,14 @@
    ]
   },
   {
-   "id": "swh-03-13",
+   "id": "swh-03-14",
    "part": 3,
-   "order": 13,
+   "order": 14,
    "slug": "pronouns-word-order",
    "title": "Pronouns, word order and the short forms with na",
    "point": "Drop pronouns the verb already shows, use them for emphasis, keep neutral SVO order, and say 'with me', 'and it' with nami, naye, nacho",
    "requires": [
-    "swh-03-12"
+    "swh-03-13"
    ],
    "introduces": [
     "word-order",
@@ -476,18 +502,31 @@
    ]
   },
   {
-   "id": "swh-03-14",
+   "id": "swh-03-15",
    "part": 3,
-   "order": 14,
+   "order": 15,
    "slug": "agreement-map",
    "title": "The agreement map: all concords in one table",
    "point": "Look up the noun, adjective, subject, possessive, -a and demonstrative forms of every class, and see what predicts them",
    "requires": [
-    "swh-03-13"
+    "swh-03-14"
    ],
    "introduces": [
     "concord-table"
    ]
+  },
+  {
+   "id": "swh-03-16",
+   "part": 3,
+   "order": 16,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-03-15"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "swh-04-01",
@@ -497,7 +536,7 @@
    "title": "The verb template: slots in a fixed order",
    "point": "Name the slots (subject, tense, relative, object, root, extension, final vowel) and place every marker you know in them",
    "requires": [
-    "swh-03-14"
+    "swh-03-15"
    ],
    "introduces": [
     "verb-template"
@@ -607,6 +646,19 @@
    "id": "swh-04-09",
    "part": 4,
    "order": 9,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "swh-04-08"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "swh-04-10",
+   "part": 4,
+   "order": 10,
    "slug": "subjunctive-form",
    "title": "The subjunctive: -e for wishes, requests and 'let's'",
    "point": "Form the subjunctive and use it for polite requests, suggestions, commands with objects, and 'let's'",
@@ -618,28 +670,28 @@
    ]
   },
   {
-   "id": "swh-04-10",
+   "id": "swh-04-11",
    "part": 4,
-   "order": 10,
+   "order": 11,
    "slug": "subjunctive-uses",
    "title": "Using the subjunctive: wanting, needing, telling and 'don't'",
    "point": "Use the subjunctive after -taka, lazima and -ambia, and make prohibitions with -si-",
    "requires": [
-    "swh-04-09"
+    "swh-04-10"
    ],
    "introduces": [
     "subjunctive-negative"
    ]
   },
   {
-   "id": "swh-04-11",
+   "id": "swh-04-12",
    "part": 4,
-   "order": 11,
+   "order": 12,
    "slug": "infinitive",
    "title": "The infinitive: kusoma as verb and noun (class 15)",
    "point": "Use ku- forms after verbs like -penda and -weza, negate them with kuto-, and treat them as class 15 nouns",
    "requires": [
-    "swh-04-10"
+    "swh-04-11"
    ],
    "introduces": [
     "infinitive",
@@ -647,86 +699,99 @@
    ]
   },
   {
-   "id": "swh-04-12",
+   "id": "swh-04-13",
    "part": 4,
-   "order": 12,
+   "order": 13,
    "slug": "habitual-hu",
    "title": "The habitual hu-: what usually happens",
    "point": "Say what regularly or generally happens with hu-, and know why it is common in proverbs and rare in conversation",
    "requires": [
-    "swh-04-11"
+    "swh-04-12"
    ],
    "introduces": [
     "habitual"
    ]
   },
   {
-   "id": "swh-04-13",
+   "id": "swh-04-14",
    "part": 4,
-   "order": 13,
+   "order": 14,
    "slug": "situational-ki",
    "title": "-ki-: while, if, when",
    "point": "Use -ki- for background actions, conditions and participle-like 'doing' forms",
    "requires": [
-    "swh-04-12"
+    "swh-04-13"
    ],
    "introduces": [
     "situational"
    ]
   },
   {
-   "id": "swh-04-14",
+   "id": "swh-04-15",
    "part": 4,
-   "order": 14,
+   "order": 15,
    "slug": "narrative-ka",
    "title": "-ka-: telling a story, 'and then'",
    "point": "Chain past events with -ka- after an opening -li-, and use -ka- with the subjunctive for 'go and do'",
    "requires": [
-    "swh-04-13"
+    "swh-04-14"
    ],
    "introduces": [
     "consecutive"
    ]
   },
   {
-   "id": "swh-04-15",
+   "id": "swh-04-16",
    "part": 4,
-   "order": 15,
+   "order": 16,
    "slug": "compound-tenses",
    "title": "Compound tenses with kuwa: was doing, had done, will have done",
    "point": "Shift the present, perfect and -ki- forms into past and future with an inflected kuwa",
    "requires": [
-    "swh-04-14"
+    "swh-04-15"
    ],
    "introduces": [
     "compound-tense"
    ]
   },
   {
-   "id": "swh-04-16",
+   "id": "swh-04-17",
    "part": 4,
-   "order": 16,
+   "order": 17,
    "slug": "already-and-still",
    "title": "Already and still: -sha-, -ngali, bado",
    "point": "Say 'already' with -mesha- and -sha-, 'still' with -ngali and bado, and combine them with the tenses",
    "requires": [
-    "swh-04-15"
+    "swh-04-16"
    ],
    "introduces": [
     "anterior"
    ]
   },
   {
-   "id": "swh-04-17",
+   "id": "swh-04-18",
    "part": 4,
-   "order": 17,
+   "order": 18,
    "slug": "choosing-a-tense",
    "title": "Choosing a tense",
    "point": "Decide between -na-, hu-, -me-, -li-, -ka-, -ki- and -ta- for a given meaning, and build any verb slot by slot",
    "requires": [
-    "swh-04-16"
+    "swh-04-17"
    ],
    "introduces": []
+  },
+  {
+   "id": "swh-04-19",
+   "part": 4,
+   "order": 19,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-04-18"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "swh-05-01",
@@ -736,7 +801,7 @@
    "title": "Adjectives with vowel stems, irregular and invariable adjectives",
    "point": "Inflect -ema, -ingi, -ekundu, -pya and the other awkward adjectives, and use invariable ones like safi and ghali",
    "requires": [
-    "swh-04-17"
+    "swh-04-18"
    ],
    "introduces": [
     "adjective-vowel-stem",
@@ -885,6 +950,19 @@
    ]
   },
   {
+   "id": "swh-05-12",
+   "part": 5,
+   "order": 12,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-05-11"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
    "id": "swh-06-01",
    "part": 6,
    "order": 1,
@@ -989,6 +1067,19 @@
    "id": "swh-06-08",
    "part": 6,
    "order": 8,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "swh-06-07"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "swh-06-09",
+   "part": 6,
+   "order": 9,
    "slug": "that-clauses-reported",
    "title": "That-clauses and reported speech: kwamba, kuwa, kama",
    "point": "Report statements, yes-no questions (kama 'whether') and commands, and shift persons in reported speech",
@@ -1001,88 +1092,101 @@
    ]
   },
   {
-   "id": "swh-06-09",
+   "id": "swh-06-10",
    "part": 6,
-   "order": 9,
+   "order": 10,
    "slug": "purpose",
    "title": "Purpose: ili, the subjunctive and kwa ajili ya",
    "point": "Say 'in order to' and 'so that' with ili and the subjunctive, the infinitive and kwa ajili ya",
    "requires": [
-    "swh-06-08"
+    "swh-06-09"
    ],
    "introduces": [
     "purpose"
    ]
   },
   {
-   "id": "swh-06-10",
+   "id": "swh-06-11",
    "part": 6,
-   "order": 10,
+   "order": 11,
    "slug": "time-clauses",
    "title": "Time clauses: before, after, until, since, while",
    "point": "Join events in time with -po-, baada ya, kabla ya, mpaka, tangu and -ki-",
    "requires": [
-    "swh-06-09"
+    "swh-06-10"
    ],
    "introduces": [
     "time-clause"
    ]
   },
   {
-   "id": "swh-06-11",
+   "id": "swh-06-12",
    "part": 6,
-   "order": 11,
+   "order": 12,
    "slug": "real-conditions",
    "title": "Real conditions: -ki-, -sipo-, kama, ikiwa",
    "point": "Say 'if' and 'unless' for open conditions with -ki-, -sipo- and the if-words",
    "requires": [
-    "swh-06-10"
+    "swh-06-11"
    ],
    "introduces": [
     "conditional-real"
    ]
   },
   {
-   "id": "swh-06-12",
+   "id": "swh-06-13",
    "part": 6,
-   "order": 12,
+   "order": 13,
    "slug": "hypothetical-conditions",
    "title": "Hypothetical conditions: -nge- and -ngali-",
    "point": "Say 'would' and 'would have' with -nge-, -ngali- and the negatives -singe-, -singali-",
    "requires": [
-    "swh-06-11"
+    "swh-06-12"
    ],
    "introduces": [
     "conditional-irrealis"
    ]
   },
   {
-   "id": "swh-06-13",
+   "id": "swh-06-14",
    "part": 6,
-   "order": 13,
+   "order": 14,
    "slug": "reason-concession",
    "title": "Because, although, even if",
    "point": "Give reasons and concessions with kwa sababu, kwa kuwa, ingawa, ijapokuwa, hata kama",
    "requires": [
-    "swh-06-12"
+    "swh-06-13"
    ],
    "introduces": [
     "concession"
    ]
   },
   {
-   "id": "swh-06-14",
+   "id": "swh-06-15",
    "part": 6,
-   "order": 14,
+   "order": 15,
    "slug": "ever-never-neither",
    "title": "Ever, never, neither nor: -wahi, kamwe, wala",
    "point": "Say 'have you ever', 'never' and 'neither... nor', and handle negation across clauses",
    "requires": [
-    "swh-06-13"
+    "swh-06-14"
    ],
    "introduces": [
     "negative-polarity"
    ]
+  },
+  {
+   "id": "swh-06-16",
+   "part": 6,
+   "order": 16,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-06-15"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "swh-07-01",
@@ -1092,7 +1196,7 @@
    "title": "Verb extensions: one root, many verbs",
    "point": "See how suffixes between root and final vowel change who does what to whom, and predict the i/e harmony they follow",
    "requires": [
-    "swh-06-14"
+    "swh-06-15"
    ],
    "introduces": [
     "extension",
@@ -1187,6 +1291,19 @@
    "id": "swh-07-08",
    "part": 7,
    "order": 8,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "swh-07-07"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "swh-07-09",
+   "part": 7,
+   "order": 9,
    "slug": "stative",
    "title": "The stative: -ik-, -ek- 'get broken', 'be doable'",
    "point": "Use the stative for changes with no agent and for possibility (vunjika, eleweka, -lika 'be edible'), and contrast it with the passive",
@@ -1198,28 +1315,28 @@
    ]
   },
   {
-   "id": "swh-07-09",
+   "id": "swh-07-10",
    "part": 7,
-   "order": 9,
+   "order": 10,
    "slug": "reciprocal",
    "title": "The reciprocal -an-: each other",
    "point": "Say 'each other' and 'with each other', with plural subjects or a na-phrase",
    "requires": [
-    "swh-07-08"
+    "swh-07-09"
    ],
    "introduces": [
     "reciprocal"
    ]
   },
   {
-   "id": "swh-07-10",
+   "id": "swh-07-11",
    "part": 7,
-   "order": 10,
+   "order": 11,
    "slug": "frozen-extensions-stacking",
    "title": "Reversives, frozen extensions and stacking",
    "point": "Recognise reversive -u-/-o- (fungua), static -am- and reduplicated verbs, and read stacked extensions in the right order",
    "requires": [
-    "swh-07-09"
+    "swh-07-10"
    ],
    "introduces": [
     "reversive",
@@ -1227,14 +1344,14 @@
    ]
   },
   {
-   "id": "swh-07-11",
+   "id": "swh-07-12",
    "part": 7,
-   "order": 11,
+   "order": 12,
    "slug": "a-tense-colloquial",
    "title": "The -a- tense and spoken shortcuts: nasoma, twaenda, -ga",
    "point": "Read the gnomic -a- tense and its contracted prefixes, the dropped ni- of speech, and the colloquial habitual -ga",
    "requires": [
-    "swh-07-10"
+    "swh-07-11"
    ],
    "introduces": [
     "gnomic",
@@ -1242,28 +1359,28 @@
    ]
   },
   {
-   "id": "swh-07-12",
+   "id": "swh-07-13",
    "part": 7,
-   "order": 12,
+   "order": 13,
    "slug": "respect-register",
    "title": "Respect, politeness and register",
    "point": "Address elders and strangers correctly (shikamoo, mzee, bwana, bibi), soften requests, and recognise the formal written style",
    "requires": [
-    "swh-07-11"
+    "swh-07-12"
    ],
    "introduces": [
     "register"
    ]
   },
   {
-   "id": "swh-07-13",
+   "id": "swh-07-14",
    "part": 7,
-   "order": 13,
+   "order": 14,
    "slug": "varieties-and-history",
    "title": "Varieties, old texts and the standard",
    "point": "Know what the standard is based on and how it was fixed, recognise Kenyan, coastal, Congo and Sheng forms, and know how Ajami script and utenzi verse work",
    "requires": [
-    "swh-07-12"
+    "swh-07-13"
    ],
    "introduces": [
     "varieties",
@@ -1271,18 +1388,31 @@
    ]
   },
   {
-   "id": "swh-07-14",
+   "id": "swh-07-15",
    "part": 7,
-   "order": 14,
+   "order": 15,
    "slug": "loanwords",
    "title": "Loanwords: how Arabic, English and other words fit the classes",
    "point": "See how loans are given classes and verb shapes (kitabu/vitabu, mwalimu/walimu, -fikiri), and recognise the Arabic and English layers",
    "requires": [
-    "swh-07-13"
+    "swh-07-14"
    ],
    "introduces": [
     "loanwords"
    ]
+  },
+  {
+   "id": "swh-07-16",
+   "part": 7,
+   "order": 16,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "swh-07-15"
+   ],
+   "introduces": [],
+   "review": true
   },
   {
    "id": "swh-08-01",
@@ -1292,7 +1422,7 @@
    "title": "Reading 1: proverbs (methali)",
    "point": "Read eight proverbs, each a full sentence in the copula, the habitual, the imperative, -enye or -sipo-",
    "requires": [
-    "swh-07-14"
+    "swh-07-15"
    ],
    "introduces": []
   },

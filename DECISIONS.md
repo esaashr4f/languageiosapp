@@ -28,3 +28,11 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: Glossary `terms` are kept by the main agent from drafters' reports, each noting the lesson that defines it.
 - 2026-11-12: Owner may supply copyrighted grammars; they go in `private-sources/` (git-ignored, never pushed), used only to check forms and explanations, cited in sources.json, never copied.
 - 2026-11-12: Owner asked to leave thin-source languages for last. Deferred: nav, gez, nci, hit, txb, onw, myz, tmr, bsk, dbl, wbp, nmn, emy, ett, sux. Pilot now lat, kat, tur, hbo, swh, san (hbo for gez, swh for nav, san for nci, each testing the same template stress). Recorded in BRIEF.md Amendments and languages.json.
+- 2026-11-12: kat: transliteration is the Wiktionary/Caucasological scheme (ejectives dotted: ḳ ṭ c̣ č̣ ṗ q̇; aspirates plain), one letter for one letter; not the national 2002 system or Hewitt's apostrophes.
+- 2026-11-12: kat: base is standard literary Georgian (Tbilisi norm); colloquial forms labelled; Old and Middle Georgian only in kat-07-11 and part 8.
+- 2026-11-12: kat: case order NOM ERG DAT GEN INS ADV VOC (Wiktionary); "ergative", not "narrative".
+- 2026-11-12: kat: person prefixes glossed by marker set, not role (m- = 1SG.OBJ even for experiencers and series III subjects); the literal line shows the inversion.
+- 2026-11-12: kat: future, conditional and future subjunctive glossed with PV only, no FUT; Hewitt's "version" (NV/SV/OV/LV) used.
+- 2026-11-12: kat: object markers and future taught before aorist and ergative (departs from Aronson's order) so two-person sentences come earlier; syllabus held at 100 lessons.
+- 2026-11-12: kat: Aronson 1990 read from the copy openly hosted by SEELRC; an unauthorised archive.org copy was not used. Indirect verbs, irregulars and series III forms are marked (unverified) in the dossier until checked against Aronson or Lingua.ge.
+- 2026-11-12: Lessons for pilot languages after Latin wait until the Latin exemplar is complete; their dossiers may be built in parallel.

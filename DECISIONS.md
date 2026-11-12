@@ -60,3 +60,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: swh: syllabus is 98 lessons (not padded to 100).
 - 2026-11-12: Owner's instruction: review lessons at the end of parts 2 to 7 and midway through unwritten parts over 12 lessons (`review: true` in syllabus; tools/add-reviews.py). Added: lat 9, kat 7, tur 9, hbo 7, swh 10. Latin part 4 onward renumbered (unwritten).
 - 2026-11-12: swh: owner supplied Thompson & Schleicher 2001 (scan, image only; read page images directly) and Almasi et al. 2014 (text PDF) in esaashr4f/polyglotsources. Together they cover the verb tables left (unverified); Mohammed 2001 is not needed.
+- 2026-11-12: swh: a copy of Mohammed 2001 was added to the book repo, but it comes from a shadow library (Anna's Archive), so it is not used or cited; Thompson & Schleicher (ERIC) and Almasi et al. suffice. Owner advised to delete it.

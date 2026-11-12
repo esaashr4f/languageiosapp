@@ -142,13 +142,29 @@ source: constructed
 confidence: constructed
 :::
 
+## Where it applies
+
+- **The subject of a verb in any person and tense** (ag1903 §339). The nominative noun may stand before the verb or after it: *Puella rīdet*, *Hīc stant sociī*.
+- **Several subjects together.** Two or more singular subjects joined by *et* normally take a plural verb (ag1903 §317). When each subject is thought of separately, the verb may agree with the nearest one alone (ag1903 §317).
+- **A group named by a singular noun.** *Turba*, "crowd", normally takes a singular verb. Authors sometimes use a plural when they think of the individuals (ag1903 §317).
+- **What the subject is said to be.** After "be", the second noun is nominative too: *Nauta sum*, "I am a sailor". Lesson 5 of this part.
+- **Exclamations.** A noun called out on its own is nominative (ag1903 §339). Lesson 7 of this part has a real example from the Gospel of John.
+- **Naming.** Dictionaries and word lists give nouns in the nominative singular.
+- **Calling someone.** The form used to address a person, the vocative, is the same as the nominative for almost every noun. The exception is second-declension nouns in *-us*, which address with *-e*: *serve*, "slave!" (ag1903 §§38, 45). Part 3 covers it.
+
 ## Watch out
 
-**The verb ending checks the noun.** *Nautae* might look odd beside *nauta*, but the plural verb *labōrant* confirms that it is a plural subject. Part 3 shows that *-ae* has other jobs too. When it does, the verb will not match it.
+**Do not mix numbers.** *\*Puella rīdent* pairs a singular noun with a plural ending. Make them match: *Puella rīdet* or *Puellae rīdent*.
 
-**An *-a* noun is not always female.** *Nauta* "sailor" and *poēta* "poet" are first declension, with the same endings as *puella*, but they name men. Lesson 4 of this part explains how Latin keeps the sound of an ending apart from the sex of what it names.
+**Do not give masculine *-a* nouns the second-declension plural.** A sailor is a man, so *\*nautī* can look right, especially if you think of Spanish *-o* for men. The declension sets the endings, not the sex: *Nautae labōrant*.
 
-**A singular subject can mean many people.** *Turba* "crowd" is grammatically one thing. Latin usually gives it a singular verb, though authors sometimes use a plural when they think of the individuals (ag1903 §317).
+**Do not add *-us* to *puer* or keep the *e* of *magister*.** *\*Puerus* and *\*magisterī* are not Latin. The entries *puer, puerī* and *magister, magistrī* tell you: *puer*, *puerī*; *magister*, *magistrī*.
+
+**Do not use the Spanish plural ending for a subject.** Spanish *las niñas* tempts you to write *\*Puellās rīdent*. In Latin *-ās* is the object form, taught in the next lesson. The subject plural is *-ae*: *Puellae rīdent*.
+
+**Do not take the first noun as the subject.** That habit comes from English. In *Gaudet marītus* the subject is last. Read the endings.
+
+**Do not look for "the".** Latin has no article, so *nauta* is "sailor", "a sailor" or "the sailor".
 
 **Vowels before a vowel are short.** *Fīlius* and *fīlia* have a short *i* in the second syllable, before *u* and *a*. So *FĪ·li·us* is stressed on the first syllable.
 

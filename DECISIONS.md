@@ -36,3 +36,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: kat: object markers and future taught before aorist and ergative (departs from Aronson's order) so two-person sentences come earlier; syllabus held at 100 lessons.
 - 2026-11-12: kat: Aronson 1990 read from the copy openly hosted by SEELRC; an unauthorised archive.org copy was not used. Indirect verbs, irregulars and series III forms are marked (unverified) in the dossier until checked against Aronson or Lingua.ge.
 - 2026-11-12: Lessons for pilot languages after Latin wait until the Latin exemplar is complete; their dossiers may be built in parallel.
+- 2026-11-12: `tools/preview.ts` renders lessons to a single HTML page (`docs/preview/`) so the owner can review content before the app exists; it is a review aid, not the app renderer.

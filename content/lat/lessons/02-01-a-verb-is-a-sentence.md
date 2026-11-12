@@ -155,13 +155,36 @@ source: constructed
 confidence: constructed
 :::
 
+## Where it applies
+
+The person endings belong to every finite verb, that is every verb form that has a person. The present tense has a wider range than the English simple present.
+
+- **Something going on now.** *Rīdent*, "they are laughing" (ag1903 §465).
+- **A habit, or something always true.** *Saepe errās*, "you often get it wrong". Allen and Greenough quote Cicero's "the gods do not bother with trifles", in the present (ag1903 §465).
+- **Emphasis.** English "I do love" is plain *amō*. Latin has no helping verb for this.
+- **Something begun earlier and still going on.** With a phrase meaning "for a long time", Latin uses the present where English says "have been": "I have long been urging you" is a present in Cicero (ag1903 §466). Part 4 returns to this.
+- **Something attempted but not achieved.** The present can mean "tries to": Vergil's "he tries to grasp him" is a present (ag1903 §467).
+- **The near future, in everyday speech and poetry** (ag1903 §468), as English "we leave tomorrow".
+- **Past events told vividly.** Narrators switch to the present to put the reader inside the action (ag1903 §469). You will meet this "historic present" constantly in the readings of part 8.
+- **What an author says in a book that survives:** "Epicurus says" is a present in Latin as in English (ag1903 §465).
+
+The endings themselves reach further than the present. The other tenses of part 4 use the same *-s*, *-t*, *-mus*, *-tis*, *-nt*, with a marker between stem and ending. Only the perfect has its own set (ag1903 §163).
+
 ## Watch out
+
+**Do not keep the stem vowel in "I".** *\*Amaō* is not a Latin form. The vowel has merged with the ending: *amō*. The second conjugation keeps its vowel short: *videō*, not *\*vidēō*.
+
+**Do not lengthen the vowel before *-t* or *-nt*.** *\*Amāt* and *\*amānt* break the rules of Latin sound: the vowel is short before a single final consonant and before *nt*. Say *amat*, *amant*. Before *-s*, *-mus* and *-tis* it stays long: *amās*, not *\*amas*.
+
+**Do not translate English "am" in "I am working".** *\*Sum labōrō* puts "I am" (lesson 5 of this part) in front of "I work". Latin builds no present from "be": "I am working" is *labōrō*.
+
+**Do not borrow the Spanish endings.** Spanish *amáis* tempts you to write *\*amāis*. The Latin second person plural keeps its *t*: *amātis*. Spanish *ama* has lost a *t* that Latin always pronounces: *amat*, not *\*ama*.
 
 **The dictionary form is "I".** Latin dictionaries list a verb under its first person singular: *amō*, *videō*. When a word list says *amō* "love", the form itself means "I love".
 
-**Length tells forms apart.** *Amās* and *amat* differ in the ending and also in the vowel before it. Say the long *ā* of *amās* and the short *a* of *amat*. The stress rule from part 1 depends on it: *a·MĀ·mus* but *A·mant*.
-
 **Third person has no gender.** *Amat* is "he loves", "she loves" or "it loves". Context decides. Latin's words for "he" and "she" come in part 3.
+
+**Length tells forms apart.** The stress rule from part 1 depends on it: *a·MĀ·mus* but *A·mant*.
 
 ## Reference table
 

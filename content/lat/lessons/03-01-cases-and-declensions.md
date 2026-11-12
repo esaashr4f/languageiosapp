@@ -48,14 +48,14 @@ To read an entry, take four steps.
 
 1. Read the nominative. This is the form for the subject.
 2. Read the genitive ending and find the declension: *-ae* first, *-ī* second, *-is* third, *-ūs* fourth, *-eī* or *-ēī* fifth (ag1903 §37).
-3. Find the stem: take the genitive and remove its ending (ag1903 §37). *Rēg-is* gives *rēg-*. *Nōmin-is* gives *nōmin-*. Every form except the nominative singular is built on this stem.
+3. Find the stem: take the genitive and remove its ending (ag1903 §37 a). *Rēg-is* gives *rēg-*. (For nouns like *puella* and *servus*, Allen and Greenough count the vowel as part of the stem, *puellā-*, *servo-*; this guide cuts before it, which is what you need for adding endings.) *Nōmin-is* gives *nōmin-*. Every form except the nominative singular is built on this stem.
 4. Note the gender. It decides the adjective, and it tells you whether the accusative is the same as the nominative.
 
 Now build the accusative singular.
 
 1. Decide the gender. A neuter's accusative is the same as its nominative (part 2, lesson 4): *nōmen*.
 2. For a masculine or feminine, add the declension's accusative ending to the stem. Each ends in *-m* (ag1903 §38): first *-am*, second *-um*, third *-em*, fourth *-um*, fifth *-em*.
-3. Shorten a long vowel before the final *-m*. Latin shortens a vowel before a single final consonant other than *s* (ag1903 §604). So *rēs* has *rem*, with a short *e*, and *diēs* has *diem* (ag1903 §96).
+3. Shorten a long vowel before the final *-m*. A Latin vowel is short before final *-m*, and in words of more than one syllable before most other single final consonants except *s* (ag1903 §604 j). So *rēs* has *rem*, with a short *e*, and *diēs* has *diem* (ag1903 §96).
 
 Take *lēx, lēgis* f., "law". Third declension, from *-is*. The stem is *lēg-*. Feminine, so the accusative is *lēg-* plus *-em*: *lēgem*.
 
@@ -189,7 +189,7 @@ The cases themselves cover every noun's job in a sentence. Lessons 2 to 6 of thi
 
 **Do not give a neuter an accusative in *-m*.** *\*Nōminem* treats *nōmen* as masculine or feminine. A neuter's accusative is its nominative: *Nōmen mūtat*.
 
-**Do not keep the long vowel before *-m*.** *\*Rēm* and *\*diēm* break the rule that a vowel is short before a single final consonant other than *s* (ag1903 §§96, 604). Write *rem*, *diem*.
+**Do not keep the long vowel before *-m*.** *\*Rēm* and *\*diēm* break the rule that a vowel is short before final *-m* (ag1903 §§96, 604 j). Write *rem*, *diem*.
 
 **Do not read the case off one ending.** *-ae* is the genitive and the dative singular and the nominative plural of the first declension. *Fīliae* alone could be any of the three. The sentence decides. The next lessons show how.
 
@@ -259,5 +259,5 @@ Arabic nouns have three cases, marked *-u*, *-a* and *-i*; Latin's six cover the
 4. "They announce" is *nūntiant*. *Lēx, lēgis* f. has the stem *lēg-*, accusative *lēgem*: *Lēgem nūntiant*.
 5. *Nōmen mūtāmus*. *Nōmen* is neuter, and a neuter's accusative is the same as its nominative.
 6. The genitive is *manūs*, so the noun is fourth declension, not second. The entry also says it is feminine. There is no form *\*manī*.
-7. *Rem* and *diem*. The stem vowel *ē* is shortened before the final *-m*, because Latin shortens a vowel before a single final consonant other than *s*.
+7. *Rem* and *diem*. The stem vowel *ē* is shortened before the final *-m*, because a Latin vowel is always short before final *-m*.
 8. "From" (separation and source), "with" or "by" (tool and company), and "in" or "at" (place and time). Allen and Greenough explain that three old cases with these meanings merged, partly because their meanings overlapped and partly because sound change made their endings alike.

@@ -181,7 +181,7 @@ confidence: attested
 
 **Do not use a genitive of quality without an adjective.** *\*Vir animī* does not mean "a man of courage" (ag1903 §345). Add the adjective, *vir magnī animī*, or use an adjective alone.
 
-**Do not put the name of a city in the genitive.** English "the city of Rome" is *urbs Rōma*, two nominatives side by side. *\*Urbs Rōmae* is not the classical way (ag1903 §343).
+**Do not put the name of a city in the genitive.** English "the city of Rome" is *urbs Rōma*, two nominatives side by side. *\*Urbs Rōmae* is not the regular classical form: a genitive in place of apposition is rare (ag1903 §343 d).
 
 **Do not use the genitive of "I" for "my".** For "my book" Latin uses the adjective *meus*: *liber meus*, not a genitive of the word for "I" (ag1903 §343). Lesson 10 of this part explains.
 

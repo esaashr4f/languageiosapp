@@ -1,0 +1,192 @@
+{
+ "sources": [
+  {
+   "id": "whitney1889",
+   "citation": "Whitney, W. D. (1889). A Sanskrit Grammar, including both the Classical Language, and the Older Dialects, of Veda and Brāhmaṇa. 2nd ed. Leipzig: Breitkopf & Härtel; Boston: Ginn. (Section numbering unchanged in the 1896 issue used for searching.)",
+   "url": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)",
+   "used_for": "Standard descriptive grammar in English for both Classical and Vedic: sounds, sandhi (§§100–260), guṇa and vṛddhi (§§235–240), declension (§§261–526), conjugation (§§527–1073), compounds (§§1246–1316). Section numbers cited in lessons.",
+   "access": "Public domain. Wikisource text (validated, 1889 edition) opened; full-text search done on the archive.org OCR of the 1896 issue (identifier whitney-a-sanskrit-grammar), whose OCR garbles Devanagari and diacritics: read forms from Wikisource or a page scan, never from the OCR."
+  },
+  {
+   "id": "macdonell1927",
+   "citation": "Macdonell, A. A. (1927). A Sanskrit Grammar for Students. 3rd ed. London: Oxford University Press.",
+   "url": "https://archive.org/details/sanskritgrammarf014425mbp",
+   "used_for": "Compact Classical grammar with a syntax chapter (ch. VII) and appendices on verbs, metre and Vedic. Second check of paradigms; pronunciation notes (§15); table of contents used to check the syllabus.",
+   "access": "Public domain (author d. 1930; published 1927). archive.org scan and OCR opened; OCR is poor for Devanagari."
+  },
+  {
+   "id": "macdonell1916",
+   "citation": "Macdonell, A. A. (1916). A Vedic Grammar for Students. Oxford: Clarendon Press.",
+   "url": "https://archive.org/details/vedicgrammarfor00macduoft",
+   "used_for": "Vedic forms and accent for san-07-10 only.",
+   "access": "Public domain. archive.org text opened (downloaded and searched)."
+  },
+  {
+   "id": "macdonell1910",
+   "citation": "Macdonell, A. A. (1910). Vedic Grammar. Grundriss der indo-arischen Philologie und Altertumskunde I.4. Strassburg: Trübner.",
+   "url": "https://archive.org/details/vedicgrammar00macduoft",
+   "used_for": "Fuller Vedic reference behind macdonell1916.",
+   "access": "Public domain. archive.org landing page opened; text not read in this session."
+  },
+  {
+   "id": "perry1885",
+   "citation": "Perry, E. D. (1885). A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Georg Bühler. New York: Columbia College. (Scan of a later printing.)",
+   "url": "https://archive.org/details/cu31924011121690",
+   "used_for": "Teaching order of a classic primer (present class 1 and visarga rule in lesson I); graded exercises as models.",
+   "access": "Public domain. archive.org text opened."
+  },
+  {
+   "id": "lanman1884",
+   "citation": "Lanman, C. R. (1884). A Sanskrit Reader, with Vocabulary and Notes. Boston: Ginn. (1912 printing scanned.)",
+   "url": "https://archive.org/details/sanskritreaderwi00lanmiala",
+   "used_for": "Traditional first reader beginning with Nala; notes useful for part 8.",
+   "access": "Public domain. archive.org landing page opened; text not read in this session."
+  },
+  {
+   "id": "speijer1886",
+   "citation": "Speijer, J. S. (1886). Sanskrit Syntax. Leiden: Brill.",
+   "url": "https://archive.org/details/cu31924023201183",
+   "used_for": "Classical syntax with cited examples: cases, participles, absolutes, relative clauses, iti, moods. Main syntax authority for parts 5 and 6.",
+   "access": "Public domain. archive.org text opened and searched (absolute locative and genitive §§365–370; cases ch. III–VIII; compounds ch. X)."
+  },
+  {
+   "id": "mw1899",
+   "citation": "Monier-Williams, M. (1899). A Sanskrit-English Dictionary. New ed. Oxford: Clarendon Press. Digital edition: Cologne Digital Sanskrit Dictionaries.",
+   "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+   "used_for": "Meanings, root classes and attested forms (with text references) for every headword.",
+   "access": "Public domain; open online. Search opened and a lookup (gam) tested in this session."
+  },
+  {
+   "id": "apte1890",
+   "citation": "Apte, V. S. (1890). The Practical Sanskrit-English Dictionary. Poona. Digital edition: Cologne Digital Sanskrit Dictionaries (AP90).",
+   "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+   "used_for": "Classical usage and meanings, with citations from Kālidāsa and the śāstras; second dictionary.",
+   "access": "Public domain; open online. Search page opened."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Sanskrit entries with declension and conjugation tables.",
+   "url": "https://en.wiktionary.org/",
+   "used_for": "Checking individual inflected forms. Tables print Vedic accents and Vedic-only variants (footnoted); strip accents and ignore footnoted Vedic forms for Classical.",
+   "access": "Open (CC BY-SA). Queried with tools/wikt.py in Devanagari (e.g. python3 tools/wikt.py देव Sanskrit)."
+  },
+  {
+   "id": "heritage",
+   "citation": "Huet, G. The Sanskrit Heritage Site (declension, conjugation and sandhi engines; Heritage dictionary). INRIA Paris.",
+   "url": "https://sanskrit.inria.fr/",
+   "used_for": "Second mechanical check of paradigms and of sandhi; segmenter for attested lines.",
+   "access": "Open online. Landing and dictionary pages opened; the engines were not run in this session."
+  },
+  {
+   "id": "gretil",
+   "citation": "GRETIL: Göttingen Register of Electronic Texts in Indian Languages. SUB Göttingen.",
+   "url": "https://gretil.sub.uni-goettingen.de/gretil.html",
+   "used_for": "Texts for attested examples and part 8: Mahābhārata (BORI critical edition e-text, incl. Bhagavad Gītā = MBh 6.23–40 and Nala = MBh 3.50–78), Rāmāyaṇa (critical edition), Hitopadeśa, Kālidāsa, Manusmṛti, Pañcatantra.",
+   "access": "Open online. Files opened and searched in this session: Bhagavadgītā (bhgce__u.htm), MBh 3 (mbh_03_u.htm), Hitopadeśa, Rāmāyaṇa, Raghuvaṃśa, Manusmṛti, Pañcatantra. E-texts carry their own terms (BORI e-text (C) 1999; many files CC BY-NC-SA): quote short passages with citation, do not bundle whole files."
+  },
+  {
+   "id": "bori",
+   "citation": "Sukthankar, V. S. et al., eds. (1933–1966). The Mahābhārata, critically edited. Poona: Bhandarkar Oriental Research Institute.",
+   "used_for": "Edition behind the GRETIL Mahābhārata and Gītā texts; verse numbers cited follow it.",
+   "access": "Consulted only through the GRETIL e-text."
+  },
+  {
+   "id": "ramayana-ce",
+   "citation": "Bhatt, G. H., Shah, U. P. et al., eds. (1960–1975). The Vālmīki-Rāmāyaṇa, critical edition. Baroda: Oriental Institute.",
+   "used_for": "Edition behind the GRETIL Rāmāyaṇa text (John Smith's e-text); verse numbers cited follow it.",
+   "access": "Consulted only through the GRETIL e-text."
+  },
+  {
+   "id": "dcs",
+   "citation": "Hellwig, O. (2010–). DCS: The Digital Corpus of Sanskrit.",
+   "url": "http://www.sanskrit-linguistics.org/dcs/index.php",
+   "used_for": "Sandhi-split, lemmatised corpus: frequencies for choosing vocabulary, and checking how a line splits.",
+   "access": "Open online. Landing page opened; no queries run in this session."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog 5.4: Sanskrit (sans1269), Classical Sanskrit (clas1258).",
+   "url": "https://glottolog.org/resource/languoid/id/sans1269",
+   "used_for": "Classification (Indo-European > Indo-Iranian > Indo-Aryan) and identifiers.",
+   "access": "Open. Opened in this session (pages for sans1269 and clas1258)."
+  },
+  {
+   "id": "iso639",
+   "citation": "SIL International. ISO 639-3 code san (Sanskrit; macrolanguage with cls Classical Sanskrit and vsn Vedic Sanskrit).",
+   "url": "https://iso639-3.sil.org/code/san",
+   "used_for": "Language code.",
+   "access": "Open. Opened."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M., eds. (2013). The World Atlas of Language Structures Online.",
+   "url": "https://wals.info/",
+   "used_for": "Not usable: a name search in this session found no Sanskrit datapoints (WALS code 'san' is Sango). Listed so that later sessions do not search again.",
+   "access": "Open; no Sanskrit entry found."
+  },
+  {
+   "id": "grambank",
+   "citation": "Skirgård, H. et al. (2023). Grambank v1.",
+   "url": "https://grambank.clld.org/",
+   "used_for": "Not usable: a name search in this session found no Sanskrit entry.",
+   "access": "Open; no Sanskrit entry found."
+  },
+  {
+   "id": "unicode",
+   "citation": "The Unicode Consortium. The Unicode Standard, chapter 12 (South and Central Asia I: Devanagari) and code chart U+0900–U+097F.",
+   "url": "https://www.unicode.org/versions/latest/core-spec/chapter-12/",
+   "used_for": "Code points, virāma and conjunct formation, ZWJ/ZWNJ, nukta and normalisation behaviour.",
+   "access": "Open. Chapter page and chart PDF opened; normalisation facts checked with Python unicodedata in this session."
+  },
+  {
+   "id": "wp-iast",
+   "citation": "Wikipedia: International Alphabet of Sanskrit Transliteration.",
+   "url": "https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration",
+   "used_for": "Pointer for the IAST table, its 1894 Geneva origin and its differences from ISO 15919. Not an authority.",
+   "access": "Open. Opened."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2008, rev. 2015). The Leipzig Glossing Rules. Max Planck Institute for Evolutionary Anthropology.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and standard abbreviations.",
+   "access": "Open. Opened."
+  },
+  {
+   "id": "coulson1976",
+   "citation": "Coulson, M. (1976). Sanskrit: An Introduction to the Classical Language (Teach Yourself). London: Hodder and Stoughton.",
+   "used_for": "The standard English self-teaching course; its gradual treatment of sandhi is the model followed here.",
+   "access": "In copyright; not consulted in this session. Any claim resting on it is from recall and marked unverified."
+  },
+  {
+   "id": "goldman2004",
+   "citation": "Goldman, R. P. and Sutherland Goldman, S. J. (2004). Devavāṇīpraveśikā: An Introduction to the Sanskrit Language. 3rd ed. Berkeley: Center for South Asia Studies.",
+   "used_for": "Widely used university course; ordering of the verb system.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "ruppel2017",
+   "citation": "Ruppel, A. M. (2017). The Cambridge Introduction to Sanskrit. Cambridge University Press.",
+   "used_for": "Modern course with linguistic explanations (vowel grades, history).",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "burrow1955",
+   "citation": "Burrow, T. (1955). The Sanskrit Language. London: Faber.",
+   "used_for": "History of Sanskrit sounds and forms (the why behind guṇa, retroflexes, endings).",
+   "access": "In copyright; not consulted. Historical claims resting on it alone are marked unverified until checked against whitney1889 or macdonell1927."
+  },
+  {
+   "id": "cardona1997",
+   "citation": "Cardona, G. (1997). Pāṇini: His Work and its Traditions. Vol. 1. 2nd ed. Delhi: Motilal Banarsidass.",
+   "used_for": "Pāṇini and the grammatical tradition (san-07-11).",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "mayrhofer1986",
+   "citation": "Mayrhofer, M. (1986–2001). Etymologisches Wörterbuch des Altindoarischen. Heidelberg: Winter.",
+   "used_for": "Etymologies, for Connections notes.",
+   "access": "In copyright; not consulted. Etymologies are taken from wiktionary only where it cites a source, otherwise omitted."
+  }
+ ]
+}

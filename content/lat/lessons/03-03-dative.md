@@ -29,7 +29,7 @@ The endings:
 - second declension: *-ō* for one, *-īs* for more than one: *servō*, *servīs*; neuters the same: *bellō*, *bellīs*;
 - third declension singular: *-ī* on the stem: *rēgī*, *frātrī*, *sorōrī*. The plural comes in lesson 7 of this part.
 
-Two facts save memory. The dative and ablative plural are always the same (ag1903 §38), so *-īs* will serve again in the next lesson. And the first declension's *-ae* is now three cases at once: genitive singular, dative singular and nominative plural. Allen and Greenough record that the dative, like the genitive, was once *-āī*, here pronounced as a diphthong (ag1903 §43). Both became *-ae*.
+Two facts save memory. The dative and ablative plural are always the same (ag1903 §38), so *-īs* will serve again in the next lesson. And the first declension's *-ae* is now three cases at once: genitive singular, dative singular and nominative plural. Allen and Greenough note that the old genitive ending *-āī* occasionally turns up in the dative too, but only as a diphthong (ag1903 §43 a).
 
 One small exception. *Dea* "goddess" and *fīlia* "daughter" take *-ābus* in the dative and ablative plural, *deābus*, *fīliābus*, so as not to be confused with *deīs*, *fīliīs* from *deus* and *fīlius* (ag1903 §43).
 
@@ -41,7 +41,7 @@ To build "the sailor gives the girl a rose" with words you know, say "the teache
 4. Who is told is the receiver: *puer*, dative plural: *puerīs*.
 5. Put the subject first and the verb last; the two other nouns go between, in either order: *Magister puerīs fābulam narrat*.
 
-The new verb *dō* "give" has one irregularity. Its stem vowel is short everywhere except in *dās*: *damus*, *datis*, *dant*, not *\*dāmus* (Wiktionary).
+The new verb *dō* "give" has one irregularity. Its stem vowel is short in almost every form; in the present only *dās* has a long *a* (so does the command form *dā*, part 4): *damus*, *datis*, *dant*, not *\*dāmus* (Wiktionary).
 
 Some verbs take the dative where English has a plain object: "obey", "please", "harm", "persuade", "favour". Allen and Greenough explain that these verbs kept an older meaning that did not take an object (ag1903 §367). Their examples: *suādeō*, the simple verb inside *persuādeō*, is literally "make something pleasant to someone", and *serviō* "serve" is "be a slave to someone". The person is not acted on but concerned, so the dative is logical.
 
@@ -169,7 +169,7 @@ preview: pronoun
 - **Verbs of favouring, helping, pleasing, obeying, persuading, commanding, serving and their opposites** take the dative alone (ag1903 §367): *placeō*, *noceō*, *pāreō*, *persuādeō*, *faveō*, *studeō* "be keen on", *imperō*. *Rēx sociīs imperat*, "the king gives orders to the allies".
 - **Compounds of *sum***: *adsum* "be present, stand by", *dēsum* "be lacking", *prōsum* "be of use" (ag1903 §§370, 373). *Fortūna nautīs adest*, "fortune stands by the sailors". *Prōsum* puts a *d* before a vowel: *prōdest*, *prōdestis*.
 - **Possession, with *sum***: *Sorōrī meae multī amīcī sunt* (ag1903 §373). Vergil's shepherd says *est mihi namque domī pater*, "for I have a father at home" (Eclogues 3.33). Allen and Greenough contrast it with the genitive: *Liber est meus* stresses whose the book is, *Est mihi liber* that I have one.
-- **A name, with *nōmen est***: *Puerō nōmen est Mārcus*, "the boy's name is Marcus". The name itself is usually nominative in Cicero; Livy and Sallust often put it in the dative too (ag1903 §373).
+- **A name, with *nōmen est***: *Puerō nōmen est Mārcus*, "the boy's name is Marcus". Cicero prefers the name itself in the nominative; Livy prefers the dative, and Sallust uses only the dative: *Puerō nōmen est Mārcō* (ag1903 §373 a).
 - **Advantage and disadvantage**: who an action is done for, when the sentence is complete without it: *tibi arās* (ag1903 §376).
 - **The person judging**: "in someone's eyes" (ag1903 §378). *Rēx deīs cārus est*, "the king is dear to the gods", shades into "the king is dear in the gods' eyes".
 - **Purpose, often with a second dative of the person**: *Lēgātus sociīs salūtī est* (ag1903 §382).
@@ -192,7 +192,7 @@ preview: pronoun
 
 **Do not read *-ae* as one case either.** *Fīliae fābulam narrat* is "he tells his daughter a story", with *fīliae* dative singular; *Fīliae rīdent* is "the daughters laugh". The verb's number is the first clue.
 
-**Do not lengthen the *a* of *dō*.** *\*Dāmus*, *\*dātis*: the forms are *damus*, *datis*, *dant*. Only *dās* has a long vowel.
+**Do not lengthen the *a* of *dō*.** *\*Dāmus*, *\*dātis*: the forms are *damus*, *datis*, *dant*. In the present only *dās* has a long vowel.
 
 **Do not use the dative for a place you go to.** "He hurries to Rome" is not *\*Rōmae properat*. Places take the accusative, with or without a preposition (lessons 5 and 13 of this part).
 
@@ -215,7 +215,7 @@ source: ag1903 §§38, 43, 46-49; wiktionary (puella, servus, puer, bellum, frā
 ## New words
 
 :::vocab
-dō | - | verb | give | dare, dedī, datum (short a except in dās)
+dō | - | verb | give | dare, dedī, datum (short a except in dās and dā)
 narrō | - | verb | tell, relate | narrāre, narrāvī, narrātum
 dēbeō | - | verb | owe; ought | dēbēre, dēbuī, dēbitum
 praebeō | - | verb | offer, provide | praebēre, praebuī, praebitum

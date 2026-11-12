@@ -1,0 +1,240 @@
+{
+ "abbreviations": {
+  "1": {
+   "name": "first person",
+   "plain": "the speaker: I, we two, we",
+   "tag": "persons"
+  },
+  "2": {
+   "name": "second person",
+   "plain": "the person spoken to: you",
+   "tag": "persons"
+  },
+  "3": {
+   "name": "third person",
+   "plain": "anyone or anything else: he, she, it, they",
+   "tag": "third-person"
+  },
+  "SG": {
+   "name": "singular",
+   "plain": "one",
+   "tag": "singular"
+  },
+  "DU": {
+   "name": "dual",
+   "plain": "exactly two; Sanskrit has separate forms for a pair",
+   "tag": "dual"
+  },
+  "PL": {
+   "name": "plural",
+   "plain": "three or more (two takes the dual)",
+   "tag": "plural"
+  },
+  "M": {
+   "name": "masculine",
+   "plain": "one of the three genders",
+   "tag": "gender"
+  },
+  "F": {
+   "name": "feminine",
+   "plain": "one of the three genders",
+   "tag": "gender"
+  },
+  "N": {
+   "name": "neuter",
+   "plain": "one of the three genders; its nominative and accusative are always alike",
+   "tag": "gender"
+  },
+  "NOM": {
+   "name": "nominative",
+   "plain": "the case of the subject, and of a noun that says what the subject is",
+   "tag": "nominative"
+  },
+  "ACC": {
+   "name": "accusative",
+   "plain": "the case of the direct object, and of the goal of motion",
+   "tag": "accusative"
+  },
+  "INS": {
+   "name": "instrumental",
+   "plain": "the case of the means, the companion and the agent: with, by",
+   "tag": "instrumental"
+  },
+  "DAT": {
+   "name": "dative",
+   "plain": "the case of the person or purpose something is for: to, for",
+   "tag": "dative"
+  },
+  "ABL": {
+   "name": "ablative",
+   "plain": "the case of the starting point or cause: from, because of",
+   "tag": "ablative"
+  },
+  "GEN": {
+   "name": "genitive",
+   "plain": "the case of the owner or whole: of, 's",
+   "tag": "genitive"
+  },
+  "LOC": {
+   "name": "locative",
+   "plain": "the case of place and time: in, on, at, among, when",
+   "tag": "locative"
+  },
+  "VOC": {
+   "name": "vocative",
+   "plain": "the form used to call or address someone",
+   "tag": "vocative"
+  },
+  "Q": {
+   "name": "question particle",
+   "plain": "a word that turns a statement into a yes/no question",
+   "tag": "question-particle"
+  },
+  "EMPH": {
+   "name": "emphatic particle",
+   "plain": "a word (eva) that puts weight on the word before it: only, just that, indeed",
+   "tag": "emphasis"
+  },
+  "QUOT": {
+   "name": "quotative",
+   "plain": "the word iti, which closes a quotation or a thought",
+   "tag": "quotative"
+  },
+  "DEM": {
+   "name": "demonstrative",
+   "plain": "a pointing word: that, this; also used for he, she, it",
+   "tag": "demonstrative"
+  },
+  "MID": {
+   "name": "middle voice",
+   "plain": "a set of verb endings that often means the action is done for or to oneself",
+   "tag": "middle"
+  },
+  "PST": {
+   "name": "past",
+   "plain": "the augment a-, a prefix that puts a verb in past time; also marks past participles",
+   "tag": "augment"
+  },
+  "IMP": {
+   "name": "imperative",
+   "plain": "the verb form for commands and requests",
+   "tag": "imperative"
+  },
+  "OPT": {
+   "name": "optative",
+   "plain": "the verb form for wishes, rules, advice and what would or could happen",
+   "tag": "optative"
+  },
+  "PTCP": {
+   "name": "participle",
+   "plain": "a verb form that works as an adjective",
+   "tag": "past-participle"
+  },
+  "ACT": {
+   "name": "active",
+   "plain": "marks the active past participle in -tavat (having done), as opposed to the passive one in -ta",
+   "tag": "past-participle"
+  },
+  "PASS": {
+   "name": "passive",
+   "plain": "a verb form whose subject undergoes the action",
+   "tag": "passive"
+  },
+  "CVB": {
+   "name": "converb (absolutive)",
+   "plain": "an unchanging verb form meaning 'having done', linking one action to the main verb; Indologists call it the absolutive or gerund",
+   "tag": "converb"
+  },
+  "INF": {
+   "name": "infinitive",
+   "plain": "the verb form in -tum: to do",
+   "tag": "infinitive"
+  },
+  "FUT": {
+   "name": "future",
+   "plain": "the verb forms for what will happen",
+   "tag": "future"
+  },
+  "PRF": {
+   "name": "perfect",
+   "plain": "the reduplicated past tense of the epics and of narrative",
+   "tag": "perfect"
+  },
+  "AOR": {
+   "name": "aorist",
+   "plain": "a past tense built on its own stem; in Classical Sanskrit rarer than the imperfect",
+   "tag": "aorist"
+  },
+  "PROH": {
+   "name": "prohibitive",
+   "plain": "the word mā, 'do not', used with an unaugmented aorist or an imperative",
+   "tag": "prohibitive"
+  },
+  "PRS": {
+   "name": "present",
+   "plain": "marks the present participle (doing), as opposed to the past one",
+   "tag": "present-participle"
+  },
+  "INDF": {
+   "name": "indefinite",
+   "plain": "the particles cid, cana and api after a question word, making it 'some-' or (with a negative) 'any-'",
+   "tag": "indefinite"
+  },
+  "REL": {
+   "name": "relative",
+   "plain": "the stem ya-: who, which, the one that",
+   "tag": "relative"
+  },
+  "COND": {
+   "name": "conditional",
+   "plain": "a rare verb form for a condition that did not or will not happen: would have done",
+   "tag": "conditional"
+  },
+  "GDV": {
+   "name": "gerundive",
+   "plain": "a verbal adjective meaning 'to be done, that must be done'",
+   "tag": "gerundive"
+  },
+  "CMPR": {
+   "name": "comparative",
+   "plain": "more, -er",
+   "tag": "comparative"
+  },
+  "SUPL": {
+   "name": "superlative",
+   "plain": "most, -est",
+   "tag": "comparative"
+  },
+  "CAUS": {
+   "name": "causative",
+   "plain": "a verb form meaning 'make or let someone do'",
+   "tag": "causative"
+  },
+  "DESID": {
+   "name": "desiderative",
+   "plain": "a verb form meaning 'want to do'",
+   "tag": "desiderative"
+  },
+  "INTS": {
+   "name": "intensive",
+   "plain": "a verb form meaning 'do repeatedly or hard'",
+   "tag": "intensive"
+  },
+  "DENOM": {
+   "name": "denominative",
+   "plain": "a verb made from a noun: 'act like, treat as, wish for'",
+   "tag": "denominative"
+  },
+  "PREC": {
+   "name": "precative",
+   "plain": "a rare optative of the aorist used for blessings: may it be",
+   "tag": "precative"
+  },
+  "SBJV": {
+   "name": "subjunctive",
+   "plain": "a Vedic verb form for will and expectation; in Classical Sanskrit it survives only in the first-person imperative",
+   "tag": "subjunctive"
+  }
+ },
+ "terms": {}
+}

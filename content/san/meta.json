@@ -1,0 +1,47 @@
+{
+ "name": "Sanskrit",
+ "endonym": "संस्कृतम् saṃskṛtam",
+ "iso": "san",
+ "number": 74,
+ "family": "Indo-European, Indo-Iranian, Indo-Aryan",
+ "region": "North and central India; then the whole of South Asia and much of Southeast Asia as a language of learning",
+ "era": "Classical norm fixed by Pāṇini c. 4th century BC; epics composed c. 400 BC to AD 400; classical literature to c. AD 1200; still written, recited and taught today. Vedic, the older stage, from c. 1500 BC",
+ "status": "classical",
+ "scripts": [
+  "Devanagari",
+  "IAST transliteration"
+ ],
+ "typology": {
+  "word_order": "free; verb-final by default in plain prose",
+  "morphology": "fusional",
+  "alignment": "nominative-accusative",
+  "tags": [
+   "eight cases",
+   "three numbers including the dual",
+   "three genders",
+   "no articles",
+   "pro-drop",
+   "active and middle voice",
+   "ten present classes",
+   "vowel grades (guṇa, vṛddhi)",
+   "sandhi at word boundaries",
+   "long compounds",
+   "vowel length contrast"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": false,
+ "organising_idea": "Words are built from roots. A root takes a stem-forming suffix, often with its vowel raised by one or two grades (guṇa, vṛddhi), and the stem takes an ending that says case and number, or person and number. Then sandhi joins everything, inside the word and across word boundaries, so a line of text is one continuous stream of sound that you learn to take apart.",
+ "hook": "Sanskrit is the language of the Vedas, the Mahābhārata and the Rāmāyaṇa, the Bhagavad Gītā, Kālidāsa's poetry, and two thousand years of Indian philosophy, medicine, mathematics and law. It was described around the 4th century BC by Pāṇini in a grammar so exact that it still works as a generative rule system. Learn its machinery of roots, stems and joins, and a text that looks like an unbroken string of letters resolves into words you can parse one by one.",
+ "difficulty": "For an English speaker the hard parts are the amount of inflection (eight cases, three numbers, many stem types; ten verb classes, many tenses and moods, two voices) and sandhi, which changes the ends and beginnings of words so that a dictionary form may not appear on the page as written. The system is very regular once its rules are known, and the guide teaches sandhi in stages so that early examples stay readable. Devanagari takes a few weeks; IAST transliteration is shown throughout and can be hidden. A reader who knows Latin or Greek will recognise much of the grammar; one who knows Hindi will recognise the script and much vocabulary.",
+ "sample": {
+  "orig": "कर्मण्येवाधिकारस् ते मा फलेषु कदा चन",
+  "translit": "karmaṇy evādhikāras te mā phaleṣu kadā cana",
+  "morphemes": "karmaṇ-i eva adhikār-aḥ te mā phal-eṣu kadā cana",
+  "gloss": "action-LOC.SG EMPH right-NOM.SG 2SG.GEN PROH fruit-LOC.PL when INDF",
+  "literal": "In action alone (is) your right; not in fruits, ever.",
+  "translation": "Your right is to the work alone, never to its fruits.",
+  "source": "Bhagavad Gītā 2.47a (= Mahābhārata 6.24.47a, BORI critical edition, GRETIL e-text)",
+  "confidence": "attested"
+ }
+}

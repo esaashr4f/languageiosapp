@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 81,
+ "count": 237,
  "words": [
   {
    "headword": "pater",
@@ -459,7 +459,7 @@
    "meaning": "freedom",
    "forms": "lībertātis, f.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "populus",
@@ -468,7 +468,7 @@
    "meaning": "a people, nation",
    "forms": "populī, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "senātus",
@@ -477,7 +477,7 @@
    "meaning": "senate",
    "forms": "senātūs, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "exercitus",
@@ -486,7 +486,7 @@
    "meaning": "army",
    "forms": "exercitūs, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "cōnsilium",
@@ -495,7 +495,7 @@
    "meaning": "plan, advice",
    "forms": "cōnsiliī, n.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "inimīcus",
@@ -504,7 +504,7 @@
    "meaning": "personal enemy",
    "forms": "inimīcī, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "animus",
@@ -513,7 +513,7 @@
    "meaning": "mind, spirit",
    "forms": "animī, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "dominus",
@@ -522,7 +522,7 @@
    "meaning": "master",
    "forms": "dominī, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "oculus",
@@ -531,7 +531,7 @@
    "meaning": "eye",
    "forms": "oculī, m.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "fortūna",
@@ -540,7 +540,7 @@
    "meaning": "fortune, luck",
    "forms": "fortūnae, f.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "nātūra",
@@ -549,7 +549,7 @@
    "meaning": "nature",
    "forms": "nātūrae, f.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "imperium",
@@ -558,7 +558,7 @@
    "meaning": "command, power",
    "forms": "imperiī, n.",
    "first_lesson": "lat-01-04",
-   "confidence": "uncertain"
+   "confidence": "verified"
   },
   {
    "headword": "Iūlius",
@@ -729,6 +729,1410 @@
    "meaning": "horse",
    "forms": "equī, m.",
    "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "amō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "love",
+   "forms": "amāre, amāvī, amātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "stō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "stand",
+   "forms": "stāre, stetī, statum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "errō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wander; be mistaken",
+   "forms": "errāre, errāvī, errātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "properō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hurry",
+   "forms": "properāre, properāvī, properātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōgitō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, reflect",
+   "forms": "cōgitāre, cōgitāvī, cōgitātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pugnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "fight",
+   "forms": "pugnāre, pugnāvī, pugnātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "labōrō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "work, toil",
+   "forms": "labōrāre, labōrāvī, labōrātum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sedeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "sit",
+   "forms": "sedēre, sēdī, sessum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maneō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "stay, remain",
+   "forms": "manēre, mānsī, mānsum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "taceō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be silent",
+   "forms": "tacēre, tacuī, tacitum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iaceō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lie (be lying down)",
+   "forms": "iacēre, iacuī; no supine",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "valeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be strong, be well",
+   "forms": "valēre, valuī, valitum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rīdeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "laugh",
+   "forms": "rīdēre, rīsī, rīsum",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "timeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "fear, be afraid",
+   "forms": "timēre, timuī; no supine",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nunc",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "now",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saepe",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "often",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "semper",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "always",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hīc",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "here",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ibi",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "there",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "et",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and",
+   "forms": "",
+   "first_lesson": "lat-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "puella",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "girl",
+   "forms": "puellae, f.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nauta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sailor",
+   "forms": "nautae, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "poēta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "poet",
+   "forms": "poētae, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fīlia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "daughter",
+   "forms": "fīliae, f.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fīlius",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "son",
+   "forms": "fīliī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "puer",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "boy",
+   "forms": "puerī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "magister",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "teacher, master",
+   "forms": "magistrī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "socius",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ally, partner",
+   "forms": "sociī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lēgātus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "envoy; officer",
+   "forms": "lēgātī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "marītus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "husband",
+   "forms": "marītī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "turba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "crowd; uproar",
+   "forms": "turbae, f.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ventus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wind",
+   "forms": "ventī, m.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "unda",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wave",
+   "forms": "undae, f.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "umbra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "shadow, shade",
+   "forms": "umbrae, f.",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fleō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "weep",
+   "forms": "flēre, flēvī, flētum",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gaudeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "rejoice, be glad",
+   "forms": "gaudēre, gāvīsus sum",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "doleō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "feel pain, grieve",
+   "forms": "dolēre, doluī",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dubitō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hesitate; doubt",
+   "forms": "dubitāre, dubitāvī, dubitātum",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sed",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "but",
+   "forms": "",
+   "first_lesson": "lat-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vocō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "call",
+   "forms": "vocāre, vocāvī, vocātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "laudō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "praise",
+   "forms": "laudāre, laudāvī, laudātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "servō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "save, keep, watch over",
+   "forms": "servāre, servāvī, servātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "exspectō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wait for, expect",
+   "forms": "exspectāre, exspectāvī, exspectātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "spectō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "look at, watch",
+   "forms": "spectāre, spectāvī, spectātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iuvō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "help; please",
+   "forms": "iuvāre, iūvī, iūtum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cūrō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "look after, care for",
+   "forms": "cūrāre, cūrāvī, cūrātum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "habeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "have, hold",
+   "forms": "habēre, habuī, habitum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "teneō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hold, keep",
+   "forms": "tenēre, tenuī, tentum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "moveō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "move",
+   "forms": "movēre, mōvī, mōtum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "terreō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "frighten",
+   "forms": "terrēre, terruī, territum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "moneō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "warn, advise",
+   "forms": "monēre, monuī, monitum",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "silva",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "forest, wood",
+   "forms": "silvae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "porta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gate",
+   "forms": "portae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pecūnia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "money",
+   "forms": "pecūniae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mēnsa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "table",
+   "forms": "mēnsae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cūra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "care, worry",
+   "forms": "cūrae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "anger",
+   "forms": "īrae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "glōria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "glory, fame",
+   "forms": "glōriae, f.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gladius",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sword",
+   "forms": "gladiī, m.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mūrus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wall",
+   "forms": "mūrī, m.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ager",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "field",
+   "forms": "agrī, m.",
+   "first_lesson": "lat-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bellum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "war",
+   "forms": "bellī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "caelum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sky, heaven",
+   "forms": "caelī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rēgnum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "kingship, kingdom",
+   "forms": "rēgnī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dōnum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gift",
+   "forms": "dōnī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "templum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "temple",
+   "forms": "templī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "perīculum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "danger",
+   "forms": "perīculī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "signum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sign, signal; military standard",
+   "forms": "signī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tēlum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "spear, missile",
+   "forms": "tēlī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ferrum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "iron; sword",
+   "forms": "ferrī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "oppidum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "town",
+   "forms": "oppidī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "auxilium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "help",
+   "forms": "auxiliī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "praemium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "reward",
+   "forms": "praemiī, n.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "arma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "weapons, arms",
+   "forms": "armōrum, n. (plural only)",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "humus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ground",
+   "forms": "humī, f.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dea",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "goddess",
+   "forms": "deae, f.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "domina",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mistress (of a household)",
+   "forms": "dominae, f.",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "parō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "prepare; get",
+   "forms": "parāre, parāvī, parātum",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "occupō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "seize, occupy",
+   "forms": "occupāre, occupāvī, occupātum",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "superō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "overcome, surpass",
+   "forms": "superāre, superāvī, superātum",
+   "first_lesson": "lat-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sum",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be, exist",
+   "forms": "esse, fuī; future participle futūrus",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vīta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "life",
+   "forms": "vītae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fābula",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "story, play",
+   "forms": "fābulae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnsula",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "island",
+   "forms": "īnsulae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hōra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hour",
+   "forms": "hōrae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prōvincia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "province; official duty",
+   "forms": "prōvinciae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "amīcitia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "friendship",
+   "forms": "amīcitiae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sapientia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wisdom",
+   "forms": "sapientiae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "victōria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "victory",
+   "forms": "victōriae, f.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "barbarus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "foreigner, barbarian",
+   "forms": "barbarī, m.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mundus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "world, universe",
+   "forms": "mundī, m.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "numerus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "number",
+   "forms": "numerī, m.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "somnus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sleep",
+   "forms": "somnī, m.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "morbus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "illness",
+   "forms": "morbī, m.",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quoque",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "also, too (follows the word it stresses)",
+   "forms": "",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "etiam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "also, even",
+   "forms": "",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ergō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "therefore",
+   "forms": "",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "then",
+   "forms": "",
+   "first_lesson": "lat-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōn",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "not",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-ne",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "(asks a yes-or-no question; attached to a word)",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōnne",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "(asks a question expecting \"yes\")",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "num",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "(asks a question expecting \"no\"); whether",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ita",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "so, thus; yes",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sīc",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "thus, in this way; yes",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "certē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "certainly",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vērō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "truly, indeed",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "minimē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "not at all; least",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "numquam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "never",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "neque",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and not, nor; also written nec",
+   "forms": "",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "negō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "deny, say that ... not",
+   "forms": "negāre, negāvī, negātum",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rogō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "ask",
+   "forms": "rogāre, rogāvī, rogātum",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "peccō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "do wrong, make a mistake",
+   "forms": "peccāre, peccāvī, peccātum",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "culpa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fault, blame",
+   "forms": "culpae, f.",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iniūria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wrong, injustice",
+   "forms": "iniūriae, f.",
+   "first_lesson": "lat-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bonus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "good",
+   "forms": "bona, bonum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "malus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "bad, evil",
+   "forms": "mala, malum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "parvus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "small",
+   "forms": "parva, parvum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "multus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "much; (plural) many",
+   "forms": "multa, multum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "novus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "new",
+   "forms": "nova, novum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "laetus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "happy, glad",
+   "forms": "laeta, laetum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "miser",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wretched, pitiable",
+   "forms": "misera, miserum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "altus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "high; deep",
+   "forms": "alta, altum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cārus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "dear",
+   "forms": "cāra, cārum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "clārus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "clear; famous",
+   "forms": "clāra, clārum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dūrus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "hard, harsh",
+   "forms": "dūra, dūrum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saevus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "fierce, savage",
+   "forms": "saeva, saevum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vērus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "true",
+   "forms": "vēra, vērum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plēnus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "full",
+   "forms": "plēna, plēnum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tūtus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "safe",
+   "forms": "tūta, tūtum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iūstus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "just, fair",
+   "forms": "iūsta, iūstum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "antīquus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "old, ancient",
+   "forms": "antīqua, antīquum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fessus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "tired",
+   "forms": "fessa, fessum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "beātus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "happy, blessed",
+   "forms": "beāta, beātum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fōrmōsus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "beautiful, handsome",
+   "forms": "fōrmōsa, fōrmōsum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aeternus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "everlasting",
+   "forms": "aeterna, aeternum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "meus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "my, mine",
+   "forms": "mea, meum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tuus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "your, yours (of one person)",
+   "forms": "tua, tuum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "noster",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "our, ours",
+   "forms": "nostra, nostrum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vester",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "your, yours (of more than one)",
+   "forms": "vestra, vestrum",
+   "first_lesson": "lat-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-que",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and (attached to the second item)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "atque",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and also, and (also written ac)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aut",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vel",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or (either will do)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "at",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "but, yet",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "autem",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "however, moreover (never first)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "enim",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "for, indeed (never first)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nam",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "for (first in its clause)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tamen",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "nevertheless, still",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "itaque",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and so, therefore (first in its clause)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "igitur",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "therefore (usually second)",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "deinde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "then, next",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mox",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "soon",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tandem",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at last",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "statim",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at once, immediately",
+   "forms": "",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "libellus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "little book",
+   "forms": "libellī, m.",
+   "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cantō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "sing; recite",
+   "forms": "cantāre, cantāvī, cantātum",
+   "first_lesson": "lat-02-08",
    "confidence": "verified"
   }
  ]

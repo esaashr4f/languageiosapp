@@ -46,3 +46,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: tur: -mIş glossed by function (PST.EVID final, PRF before another tense marker or as participle, EVID as copular marker); -(I)yor PROG; -DIr COP; -mAz NEG.AOR as one piece; -DIK NMLZ in both uses; -(y)Ip CVB; INS not counted as a seventh case; derivational suffixes lower case.
 - 2026-11-12: tur: capstone is Yunus Emre, "Aşkın aldı benden beni" (Wikisource, first copy), older endings glossed; Nâzım Hikmet ruled out (in copyright until 2033).
 - 2026-11-12: tur: Nasreddin Hoca anecdote texts on Wikisource derive from a 2010 thesis transcription; credit it when used.
+- 2026-11-12: lat: 'declension' is defined in prose in lat-02-02, before lat-03-01 (which carries the tag); lat-03-01 treats the word as known. Part 2 gloss conventions recorded in dossier section 4.

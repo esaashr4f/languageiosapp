@@ -80,6 +80,16 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - The pronoun "I" is `1SG`, never a bare capital I.
 - Abbreviations and the lesson that unlocks each are in `glossary.json`.
 
+### Gloss conventions settled while drafting (part 2)
+
+- Verbs: stem with its vowel, then the ending: `am-ō` (1st conj. 1SG), `vide-ō` (2nd conj. 1SG); the stem vowel is shortened before another vowel, before nt and before final -t: `ama-t`, `ama-nt`.
+- *sum* is glossed fused: `be.1SG`, etc.
+- Nouns and adjectives with no nominative singular ending are glossed whole: `boy.NOM.SG` (puer, magister), `wretched.NOM.SG.M` (miser).
+- Gender on nouns appears only in lat-02-04; elsewhere only adjectives carry gender (`bon-us` `good-NOM.SG.M`).
+- Clitics: `rīdē-s=ne` `laugh-2SG=Q`; *nōnne* `nōn=ne` `not=Q`; *num* `Q` (the translation carries the expected "no"); *neque* `and.not`; *-que* `=and`. Vocab headwords -ne and -que keep their hyphen.
+- Cross-references are written "lesson N of this part" or "part N". Starred wrong forms are written in prose as `*\*form*`.
+- *nauta* is given as m. (ag1903 §42), though Wiktionary allows m or f. Where Wiktionary and the core list disagree on a macron (sīgnum / signum), follow Wiktionary.
+
 ## 5. Major paradigms and where to check them
 
 Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, entered without macrons) and, for the paradigm as a system, bennett1918 (plain text: Project Gutenberg 15665) or ag1903 (section numbers below; `ag-index.tsv` lists the page for each topic).

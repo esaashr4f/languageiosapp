@@ -91,6 +91,16 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - A noun called out on its own may be nominative, but the accusative is commoner in exclamations (ag1903 §339a). Names of towns, countries and trees are usually feminine; some town names are masculine or neuter (*Tarentum* n.; §32a).
 - *nauta* is given as m. (ag1903 §42), though Wiktionary allows m or f. Where Wiktionary and the core list disagree on a macron (sīgnum / signum), follow Wiktionary.
 
+### Gloss conventions settled while drafting (part 3)
+
+- Personal pronouns: person, number, case: `1SG.ACC`, `2SG.DAT`, *nōbīscum* `1PL.ABL=with`. Forms of *is* whole: `3SG.ACC.M`, `3SG.GEN`; adjectival *is* as `that.NOM.SG.F`.
+- Reflexive: *sē* `REFL.ACC` / `REFL.DAT`; *suus* `REFL.own-ACC.SG.F`.
+- Demonstratives glossed `this`, `that`, `self`, `same`, cut where clean (`ill-am` that-ACC.SG.F) or whole (`hic`, `huius`, `eundem`). Locatives `Rōm-ae` Rome-LOC.SG.
+- *ego*, *mihi*, *tibi*, *sibi* printed without a macron on the final vowel (ag1903 §604, Wiktionary: common). *hic* (pronoun) short i, *hīc* (adverb) long.
+- Ablative prepositions entered as *ā*, *ē* with *ab*, *ex* noted as forms.
+- `preview:` may name a feature in words ("pronoun", "third-conjugation present", "numeral") as well as an abbreviation.
+- Where sources disagree on a form (*sēdēs* gen. pl., ag1903 §78 -um vs Wiktionary *sēdium*; *prīnceps* vowel length), avoid the word in examples or present it as an exception.
+
 ## 5. Major paradigms and where to check them
 
 Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, entered without macrons) and, for the paradigm as a system, bennett1918 (plain text: Project Gutenberg 15665) or ag1903 (section numbers below; `ag-index.tsv` lists the page for each topic).

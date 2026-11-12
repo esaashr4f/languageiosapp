@@ -223,6 +223,15 @@
   "adjective": "A word that describes a noun (lat-02-07).",
   "attributive": "Of an adjective: attached directly to a noun, as in 'the good girl' (lat-02-07).",
   "predicate adjective": "An adjective that says what the subject is, after a verb like 'be' (lat-02-07).",
-  "chiasmus": "A crossed arrangement of words in the pattern A B B A (lat-02-08)."
+  "chiasmus": "A crossed arrangement of words in the pattern A B B A (lat-02-08).",
+  "preposition": "A small word placed before a noun to show place, direction or relation, such as in, ad, cum (lat-03-04).",
+  "rhotacism": "The change of s to r between vowels in early Latin, which explains pairs like corpus, corporis (lat-03-07).",
+  "i-stem": "A third-declension noun whose stem once ended in i, which shows in endings such as genitive plural -ium (lat-03-08).",
+  "parisyllabic": "Having the same number of syllables in the nominative and genitive singular, as cīvis, cīvis (lat-03-08).",
+  "vocative": "The form used to call or address someone (lat-03-06).",
+  "pronoun": "A word that stands in for a noun: I, you, he (lat-03-10).",
+  "reflexive": "Referring back to the subject of its clause: himself, herself, themselves (lat-03-10).",
+  "demonstrative": "A pointing word: this, that (lat-03-11).",
+  "locative": "A rare case meaning 'at' a place, used with names of towns and a few other nouns (lat-03-01; fully in lat-03-13)."
  }
 }

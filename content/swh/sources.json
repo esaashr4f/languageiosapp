@@ -104,7 +104,7 @@
    "id": "thompson2001",
    "citation": "Thompson, K. D. and Schleicher, A. F. (2001). Swahili Learners' Reference Grammar. Madison, WI: NALRC Press.",
    "used_for": "Learner's reference grammar in English; would be a second check on verb forms.",
-   "access": "In copyright; not consulted."
+   "access": "Owner-supplied scan (ERIC ED455681, 392 pp., image only: read page by page) in the private repo esaashr4f/polyglotsources. Use to verify verb tenses, concords and relatives."
   },
   {
    "id": "nurse1993",
@@ -173,6 +173,12 @@
    "url": "https://sw.wikipedia.org/wiki/Mungu_ibariki_Afrika",
    "used_for": "Part 8 capstone reading (both stanzas and refrains).",
    "access": "Text opened 2026-11-12 in both Wikipedias. Authorship of the Swahili words is unclear (sw.wikipedia credits Moses Nnauye; en.wikipedia says it is not known). A state anthem of 1961, widely reproduced; its exact copyright status was not verified, but the text is short and quoted here for commentary."
+  },
+  {
+   "id": "almasi2014",
+   "citation": "Almasi, O., Fallon, M. D. and Wared, N. P. (2014). Swahili Grammar for Introductory and Intermediate Levels. Lanham: University Press of America.",
+   "used_for": "Second grammar for cross-checking forms and usage; text-searchable.",
+   "access": "Owner-supplied PDF (472 pp., text layer) in the private repo esaashr4f/polyglotsources."
   }
  ]
 }

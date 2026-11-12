@@ -59,3 +59,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: swh: Ashton 1944 and Mohammed 2001 could not be opened; paradigms rest on Wiktionary, Polomé 1967 (open, ERIC) and Steere. About half the verb-table rows are (unverified) until a second source is found. Candidate for an owner-supplied textbook if open sources stay thin.
 - 2026-11-12: swh: syllabus is 98 lessons (not padded to 100).
 - 2026-11-12: Owner's instruction: review lessons at the end of parts 2 to 7 and midway through unwritten parts over 12 lessons (`review: true` in syllabus; tools/add-reviews.py). Added: lat 9, kat 7, tur 9, hbo 7, swh 10. Latin part 4 onward renumbered (unwritten).
+- 2026-11-12: swh: owner supplied Thompson & Schleicher 2001 (scan, image only; read page images directly) and Almasi et al. 2014 (text PDF) in esaashr4f/polyglotsources. Together they cover the verb tables left (unverified); Mohammed 2001 is not needed.

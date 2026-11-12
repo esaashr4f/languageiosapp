@@ -19,7 +19,7 @@ Where does *nōn* come from? Wiktionary calls its origin uncertain. One proposal
 
 To ask a question that expects "yes" or "no", Latin does not change the word order (ag1903 §331). It adds a small word. The commonest is *-ne*, which is never said alone: it is attached to the end of another word. A word attached like this is called an **enclitic**. You met one in part 1: *-que* "and". In glosses the join is shown with `=`, and *-ne* is glossed Q, the **question particle**.
 
-*-ne* goes on the word the question is about, which is usually put first (ag1903 §332). *Rīdēsne?* asks "are you laughing?". *Nautane labōrat?* asks "is it the sailor who is working?".
+*-ne* goes on the word the question is about, the emphatic word (ag1903 §332). That word is often put first. *Rīdēsne?* asks "are you laughing?". *Nautane labōrat?* asks "is it the sailor who is working?".
 
 Two further words let the speaker hint at the answer he expects (ag1903 §332):
 
@@ -45,7 +45,7 @@ To ask "is the sailor laughing?":
 
 By the traditional rule from part 1, *-ne* pulls the stress onto the syllable before it: *rī·DĒS·ne*, *rī·DET·ne*.
 
-Latin has no single word for "yes" or "no" (ag1903 §336). To say yes, repeat the verb: *Valetne? Valet.* "Is he well? Yes." To say no, repeat it with *nōn*: *Nōn valet*. Short answers also exist (ag1903 §336). For "yes": *ita* "so", *sīc* "thus", *certē* "certainly", *vērō* "truly", *ita vērō*. For "no": *nōn*, *minimē* "not at all".
+Latin has no single word for "yes" or "no" (ag1903 §336). To say yes, repeat the verb: *Valetne? Valet.* "Is he well? Yes." To say no, repeat it with *nōn*: *Nōn valet*. Short answers also exist (ag1903 §336). For "yes": *ita* "so", *certē* "certainly", *vērō* "truly", *ita vērō*; Wiktionary adds *sīc* "thus". For "no": *nōn*, *minimē* "not at all".
 
 ## Examples
 
@@ -169,7 +169,7 @@ confidence: constructed
 - **Words with "not" built in**: *numquam* "never", *nēmō* "no one", *nihil* "nothing". Latin uses these instead of *nōn* plus a positive word (ag1903 §328).
 - **Two negatives make a positive** (ag1903 §326). *Nōn numquam* is "sometimes". *Nēmō nōn rīdet* is "everyone laughs".
 - **"Say that ... not"**: Latin prefers *negō* "deny" (ag1903 §328). Part 6 shows it with a whole clause.
-- **Yes-or-no questions**: *-ne* on the word in question, usually first (ag1903 §332).
+- **Yes-or-no questions**: *-ne* on the word in question (ag1903 §332), often put first.
 - **Questions with no particle**: sometimes a question is marked only by the voice, or in writing by context. Allen and Greenough note that such a sentence may be a question or an ironic statement (ag1903 §332).
 - **Expecting an answer**: *nōnne* for yes, *num* for no (ag1903 §332).
 - **"Whether"**: in reported questions *num* and *-ne* mean "whether" (ag1903 §332). Part 6.

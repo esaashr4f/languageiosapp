@@ -153,7 +153,7 @@ confidence: constructed
 - **The object of a verb.** A verb that can take an object is called **transitive**: *vocō*, *laudō*, *habeō*. The object is accusative whatever the person of the verb: *Servōs laudō*, *Nauta puellam vocat*.
 - **Verbs where English adds a preposition.** *Exspectō* "wait for", *spectō* "look at" and *timeō* "be afraid of" take a plain accusative: *Sociōs exspectat lēgātus*.
 - **Two accusatives at once.** A few verbs of asking and teaching take one accusative for the person and one for the thing: "ask someone something", "teach someone something" (ag1903 §396). Part 3 shows them.
-- **After some prepositions, and for the goal of motion** (ag1903 §35). Part 3.
+- **After some prepositions** (ag1903 §35), **and for the goal of motion.** Part 3.
 - **Neuter objects.** A neuter noun's object form is the same as its subject form. The next lesson explains.
 
 ## Watch out

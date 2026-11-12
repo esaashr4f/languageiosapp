@@ -29,7 +29,7 @@ Most verbs have a stem and a linking vowel before the ending: *amā-mus*, *vidē
 
 The root has two shapes, *es-* and *s-*. Allen and Greenough set Latin beside Sanskrit to show the pattern (ag1903 §170). Sanskrit has *as-mi* "I am" and *as-ti* "is" with the full root, but *s-mas* "we are" and *s-anti* "they are" with the short one. Latin keeps the full root in *es*, *est*, *estis*, and the short root in *sumus*, *sunt*.
 
-*Sum* itself has the short root too, where Sanskrit has the full one. Wiktionary notes that early Latin also had *esum*, and that the short forms probably began as unstressed forms leaning on the word before.
+*Sum* itself has the short root too, where Sanskrit has the full one. Wiktionary notes that early Latin also had *esum*, and that the short forms probably began as unstressed forms leaning on a neighbouring word.
 
 The first person *sum* ends in *-m*, not *-ō*. This is the old ending of the athematic verbs, which Sanskrit *as-mi* shows in full. The *-ō* of *amō* belongs to the other main type (Wiktionary). The *u* in *sum*, *sumus*, *sunt* is not explained here.
 

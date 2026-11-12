@@ -39,9 +39,9 @@ To build a present form, take four steps.
    - before *nt* it is short: *ama-nt*, *vide-nt*;
    - before a single final consonant it is short: *ama-t*, *vide-t*.
 
-The first person singular of the first conjugation needs one more step. The stem vowel and the ending have merged: the form is *amō*, not *amaō*. Allen and Greenough explain that these verb stems were built with an old suffix whose vowels later contracted (ag1903 §174). Wiktionary, following de Vaan's etymological dictionary, gives the earlier form as probably *amāō*. In the second conjugation the *ē* only shortened before the *ō* and stayed: *videō*. Why one conjugation contracted and the other did not is not explained here.
+The first person singular of the first conjugation needs one more step. The stem vowel and the ending have merged: the form is *amō*, not *amaō*. Allen and Greenough explain that these verb stems were built with an old suffix whose vowels later contracted (ag1903 §174). Wiktionary, following de Vaan's etymological dictionary, gives the earlier form as perhaps *amāō*. In the second conjugation the *ē* only shortened before the *ō* and stayed: *videō*. Why one conjugation contracted and the other did not is not explained here.
 
-The endings are inherited, not Latin inventions. The *-ō* continues the first-person ending of the commonest verb type of the parent language, Indo-European (Wiktionary). Allen and Greenough set *-nt* beside the Doric Greek *-nti* of the same person, and trace *-mus* to an older *-mos* (ag1903 §174). They suggest, as a likelihood only, that the endings were once pronouns (ag1903 §163).
+The endings are inherited, not Latin inventions. The *-ō* continues the first-person ending that the parent language, Indo-European, used in verbs with a linking vowel before the endings (Wiktionary). Allen and Greenough set *-nt* beside the Doric Greek *-nti* of the same person, and trace *-mus* to an older *-mos* (ag1903 §174). They suggest, as a likelihood only, that the endings were once pronouns (ag1903 §163).
 
 ## Examples
 
@@ -215,7 +215,7 @@ labōrō | - | verb | work, toil | labōrāre, labōrāvī, labōrātum
 sedeō | - | verb | sit | sedēre, sēdī, sessum
 maneō | - | verb | stay, remain | manēre, mānsī, mānsum
 taceō | - | verb | be silent | tacēre, tacuī, tacitum
-iaceō | - | verb | lie (be lying down) | iacēre, iacuī; no supine
+iaceō | - | verb | lie (be lying down) | iacēre, iacuī; no supine; future participle iacitūrus
 valeō | - | verb | be strong, be well | valēre, valuī, valitum
 rīdeō | - | verb | laugh | rīdēre, rīsī, rīsum
 timeō | - | verb | fear, be afraid | timēre, timuī; no supine
@@ -247,7 +247,7 @@ Spanish kept all six endings and, like Latin, rarely needs a pronoun: *amo, amas
 1. The infinitive *stāre* minus *-re* gives the stem *stā-*. "We" is first person plural, ending *-mus*. Join them: *stāmus*. The vowel is followed by *m*, not by a vowel, *nt* or a single final consonant, so it stays long.
 2. The stem is *timē-*. "They" is third person plural, ending *-nt*. A vowel before *nt* is short, so the form is *timent*.
 3. *Properā-tis*. The stem *properā-* means "hurry". The ending *-tis* is second person plural. *Properātis*: "you (more than one) are hurrying".
-4. The stem vowel *ā* and the ending *-ō* contracted into a single *ō*. Wiktionary gives the older form as probably *amāō*.
+4. The stem vowel *ā* and the ending *-ō* contracted into a single *ō*. Wiktionary gives the older form as perhaps *amāō*.
 5. The ending *-s* leaves the vowel long. In *amat* the vowel stands before a single final consonant, *t*, and Latin shortens a vowel there.
 6. *a·MĀ·mus*: the penult has a long vowel and is heavy. *A·mant*: two syllables, so the first is stressed. *VI·de·ō*: the penult *de* is light, because its vowel is short before another vowel, so the stress goes back to *vi*. *vi·DĒ·mus*: the penult has a long vowel.
 7. "They are lying there and laughing." *Iace-nt* and *rīde-nt* are both third person plural. The first person singular forms are *iaceō* and *rīdeō*: *Ibi iaceō et rīdeō*, "I am lying there and laughing".

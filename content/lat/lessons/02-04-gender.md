@@ -153,7 +153,7 @@ preview: PTCP
 - **People and gods: natural gender.** Men and male gods are masculine, women and goddesses feminine: *deus*, *dea* (ag1903 §30).
 - **Roles usually filled by men** are masculine in any declension: *nauta*, *poēta* (ag1903 §30).
 - **Everything else, by declension and ending.** First declension feminine; second declension *-us*, *-er*, *-ir* masculine; *-um* neuter (ag1903 §§42, 48).
-- **Cities, countries and trees are feminine** whatever their ending (ag1903 §§32, 48). *Rōma* is feminine. So are Greek town names in *-us*, such as *Corinthus*.
+- **Cities, countries and trees are usually feminine**, even when their ending looks masculine (ag1903 §§32, 48). *Rōma* is feminine. So are Greek town names in *-us*, such as *Corinthus*. A few town names are masculine or neuter: *Tarentum* is neuter (ag1903 §32).
 - **Words that do not decline are neuter**, and so is a word quoted for its own sake (ag1903 §33). *Nihil* "nothing" is neuter.
 - **Nouns with no singular keep a gender too:** *arma* is neuter, *tenebrae* and *kalendae* feminine.
 - **Where gender shows.** In the noun itself, only through the neuter's nominative and accusative. In other words, through agreement: adjectives (lesson 7 of this part), then pronouns and participles in parts 3 and 4.

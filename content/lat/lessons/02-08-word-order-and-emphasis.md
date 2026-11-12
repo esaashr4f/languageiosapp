@@ -165,8 +165,8 @@ confidence: attested
 - **Persons**: Romans liked to put a name or a pronoun in an emphatic place (ag1903 §598).
 - **Parallel and crossed pairs.** Two contrasting pairs may come in the same order, or in mirror order, *a b b a*, called **chiasmus** (ag1903 §598).
 - **Splitting a noun from its adjective**, especially in verse, so that one pair wraps round another (ag1903 §598): Martial's line.
-- **Questions**: the word carrying *-ne* comes first (lesson 6 of this part).
-- **Words with fixed places**: *autem*, *enim*, *vērō*, *quoque* second; *itaque* first; *nōn* before what it denies; *-que* on the second item (ag1903 §599).
+- **Questions**: the word carrying *-ne* often comes first (lesson 6 of this part).
+- **Words with fixed places**: *autem*, *enim*, *vērō*, *quoque* second; *itaque* first; *nōn* before what it denies (ag1903 §599); *-que* on the second item.
 
 ## Watch out
 
@@ -216,7 +216,7 @@ Japanese and Korean share the neutral verb-last order of Latin prose and also ma
 4. What does the order of *Multōs libellōs habet poēta* stress?
 5. In *Magnum perīculum timēmus*, why does the adjective come first? Give the neutral alternative.
 6. In Martial's line, which adjective goes with which noun, and how do you know?
-7. Correct *\*Itaque autem nautae properant* so that both small words are in place.
+7. Correct *\*Itaque autem nautae properant*.
 8. Translate *Est puella fōrmōsa* and say why *est* comes first.
 
 ## Worked answers

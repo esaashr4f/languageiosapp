@@ -148,7 +148,7 @@ confidence: constructed
 - **Several subjects together.** Two or more singular subjects joined by *et* normally take a plural verb (ag1903 §317). When each subject is thought of separately, the verb may agree with the nearest one alone (ag1903 §317).
 - **A group named by a singular noun.** *Turba*, "crowd", normally takes a singular verb. Authors sometimes use a plural when they think of the individuals (ag1903 §317).
 - **What the subject is said to be.** After "be", the second noun is nominative too: *Nauta sum*, "I am a sailor". Lesson 5 of this part.
-- **Exclamations.** A noun called out on its own is nominative (ag1903 §339). Lesson 7 of this part has a real example from the Gospel of John.
+- **Exclamations.** A noun called out on its own may be nominative, though Allen and Greenough note that the accusative is commoner there (ag1903 §339). Lesson 7 of this part has a real example from the Gospel of John.
 - **Naming.** Dictionaries and word lists give nouns in the nominative singular.
 - **Calling someone.** The form used to address a person, the vocative, is the same as the nominative for almost every noun. The exception is second-declension nouns in *-us*, which address with *-e*: *serve*, "slave!" (ag1903 §§38, 45). Part 3 covers it.
 
@@ -201,7 +201,7 @@ unda | - | noun | wave | undae, f.
 umbra | - | noun | shadow, shade | umbrae, f.
 fleō | - | verb | weep | flēre, flēvī, flētum
 gaudeō | - | verb | rejoice, be glad | gaudēre, gāvīsus sum
-doleō | - | verb | feel pain, grieve | dolēre, doluī
+doleō | - | verb | feel pain, grieve | dolēre, doluī, dolitum
 dubitō | - | verb | hesitate; doubt | dubitāre, dubitāvī, dubitātum
 sed | - | conjunction | but |
 :::

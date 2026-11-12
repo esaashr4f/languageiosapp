@@ -41,3 +41,8 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: lat: capstone is Vergil, Aeneid 1.1–11 (now lat-08-08); Magna Carta moves to lat-08-07. Ancient Greek was already on the list (no. 73).
 - 2026-11-12: kat: Rustaveli, The Knight in the Panther's Skin (two stanzas) is already the last reading and serves as the capstone; to be confirmed as within reach when part 8 is drafted.
 - 2026-11-12: Owner's instruction: grammar lessons (parts 2 to 7) gain a required '## Where it applies' section; 'Watch out' must cover tempting-but-wrong uses with the wrong form starred; grammar lessons may run to 1,800 prose words, so depth-class totals may be exceeded. Linter, CONTENT_FORMAT, DRAFTING_BRIEF and BRIEF updated.
+- 2026-11-12: tur: base is standard Istanbul Turkish (TDK norm); colloquial reductions and formal forms (-mAktA, -DIr, plural -lAr on verbs) labelled; translit_optional.
+- 2026-11-12: tur: suffixes cited in capital-letter archiphoneme notation (-lAr, -(y)I, -DI) in prose and tables only; morphemes line shows surface spelling; buffer consonants go with the following suffix (araba-yı), pronominal n with the case ending (ev-i-nde).
+- 2026-11-12: tur: -mIş glossed by function (PST.EVID final, PRF before another tense marker or as participle, EVID as copular marker); -(I)yor PROG; -DIr COP; -mAz NEG.AOR as one piece; -DIK NMLZ in both uses; -(y)Ip CVB; INS not counted as a seventh case; derivational suffixes lower case.
+- 2026-11-12: tur: capstone is Yunus Emre, "Aşkın aldı benden beni" (Wikisource, first copy), older endings glossed; Nâzım Hikmet ruled out (in copyright until 2033).
+- 2026-11-12: tur: Nasreddin Hoca anecdote texts on Wikisource derive from a 2010 thesis transcription; credit it when used.

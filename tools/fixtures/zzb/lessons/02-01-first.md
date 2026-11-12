@@ -81,6 +81,10 @@ source: constructed
 confidence: constructed
 :::
 
+## Where it applies
+
+The fixture construction applies wherever a fixture sentence has an object and a present verb, and nowhere else in this made-up language.
+
 ## Watch out
 
 This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count. This sentence exists only so that the fixture lesson is long enough to pass the minimum word count.

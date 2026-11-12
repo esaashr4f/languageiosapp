@@ -18,7 +18,7 @@ let errors = 0, warnings = 0;
 const err = (where: string, msg: string) => { errors++; console.log(`ERROR ${where}: ${msg}`); };
 const warn = (where: string, msg: string) => { warnings++; if (!quiet) console.log(`warn  ${where}: ${msg}`); };
 
-const TEMPLATE = ["The idea", "How it is built", "Examples", "Watch out", "Reference table", "New words", "Connections", "Exercises", "Worked answers"];
+const TEMPLATE = ["The idea", "How it is built", "Examples", "Where it applies", "Watch out", "Reference table", "New words", "Connections", "Exercises", "Worked answers"];
 const REQUIRED = ["The idea", "How it is built", "Examples", "Watch out", "New words", "Exercises", "Worked answers"];
 const EXAMPLE_FIELDS = ["orig", "morphemes", "gloss", "translation", "note", "source", "confidence"];
 const splitWord = (w: string) => w.split(/[-=]/);
@@ -102,6 +102,7 @@ for (const lang of langDirs(root, onlyLangs)) {
     const names = secs.map((s) => s.name).filter(Boolean);
     if (full) {
       for (const r of REQUIRED) if (!names.includes(r)) E(`section "## ${r}" missing`);
+      if (syl.part >= 2 && !names.includes("Where it applies")) E(`section "## Where it applies" missing (required from part 2)`);
       const known = names.filter((n) => TEMPLATE.includes(n));
       if (known.join("|") !== TEMPLATE.filter((t) => known.includes(t)).join("|")) E("template sections are out of order");
       for (const n of names) if (!TEMPLATE.includes(n)) W(`unexpected section "## ${n}"`);
@@ -159,7 +160,7 @@ for (const lang of langDirs(root, onlyLangs)) {
     const wc = wordCounts(lesson.blocks);
     if (syl.part === 9) { /* generated reference appendices: no prose minimum */ }
     else if (wc.prose < 400) E(`only ${wc.prose} prose words (minimum 400, target 500 to 1,200)`);
-    else if (wc.prose < 500 || wc.prose > 1200) W(`${wc.prose} prose words (target 500 to 1,200)`);
+    else if (wc.prose < 500 || wc.prose > (syl.part >= 2 && syl.part <= 7 ? 1800 : 1200)) W(`${wc.prose} prose words (target 500 to ${syl.part >= 2 && syl.part <= 7 ? "1,800 for grammar lessons" : "1,200"})`);
     if (full) {
       const strict = syl.part >= 2;
       if (nEx < 6) (strict ? E : W)(`${nEx} examples (need 6 to 12)`);

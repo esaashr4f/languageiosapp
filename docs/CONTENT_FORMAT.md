@@ -41,11 +41,11 @@ sources: [ag1903, wiktionary]
 
 Parts 1 to 7 use the full template: these `##` sections, in this order (bracketed ones optional):
 
-`The idea` · `How it is built` · `Examples` · `Watch out` · [`Reference table`] · `New words` · [`Connections`] · `Exercises` · `Worked answers`
+`The idea` · `How it is built` · `Examples` · `Where it applies` (required in parts 2 to 7) · `Watch out` · [`Reference table`] · `New words` · [`Connections`] · `Exercises` · `Worked answers`
 
 Parts 0, 8 and 9 are free-form but still obey the block rules and the 400-word minimum.
 
-Limits: 500 to 1,200 prose words (headings, paragraphs and lists; block contents are not counted; under 400 is an error). Parts 2 to 7: 6 to 12 examples, 15 to 30 new words. Parts 1 to 7: 5 to 10 exercises as one numbered list, and the same number of worked answers as one numbered list.
+Limits: 500 to 1,200 prose words (up to 1,800 in parts 2 to 7) (headings, paragraphs and lists; block contents are not counted; under 400 is an error). Parts 2 to 7: 6 to 12 examples, 15 to 30 new words. Parts 1 to 7: 5 to 10 exercises as one numbered list, and the same number of worked answers as one numbered list.
 
 No raw HTML. No bare Markdown tables. Files must be Unicode NFC.
 
@@ -101,3 +101,7 @@ Fields: headword | transliteration (or `-`) | part of speech | meaning | optiona
 ## Verification files
 
 `VERIFY.md` has one section per part and pass: date, who checked (fresh subagent or main), counts of forms, glosses, claims checked, corrected and still open, and the list of corrections.
+
+## Where it applies, and Watch out (parts 2 to 7)
+
+`Where it applies` maps every context in which the construction is correct, including the less obvious ones, each with an example (in the Examples section or inline) or a pointer to a later lesson. `Watch out` lists the places where using it seems natural but is wrong: show the wrong version (marked with an asterisk, e.g. *\*Puella est videt*), say why it fails, and give the right version. Wrong versions are prose, never `:::example` blocks.

@@ -40,3 +40,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: Owner's instruction: each guide ends, where a famous text fits the learner's level, with a capstone reading of it as the last part 8 lesson; none is forced in. Added to BRIEF.md Amendments and docs/DOSSIER_BRIEF.md.
 - 2026-11-12: lat: capstone is Vergil, Aeneid 1.1–11 (now lat-08-08); Magna Carta moves to lat-08-07. Ancient Greek was already on the list (no. 73).
 - 2026-11-12: kat: Rustaveli, The Knight in the Panther's Skin (two stanzas) is already the last reading and serves as the capstone; to be confirmed as within reach when part 8 is drafted.
+- 2026-11-12: Owner's instruction: grammar lessons (parts 2 to 7) gain a required '## Where it applies' section; 'Watch out' must cover tempting-but-wrong uses with the wrong form starred; grammar lessons may run to 1,800 prose words, so depth-class totals may be exceeded. Linter, CONTENT_FORMAT, DRAFTING_BRIEF and BRIEF updated.

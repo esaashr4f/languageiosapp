@@ -148,13 +148,31 @@ source: constructed
 confidence: constructed
 :::
 
+## Where it applies
+
+- **The object of a verb.** A verb that can take an object is called **transitive**: *vocō*, *laudō*, *habeō*. The object is accusative whatever the person of the verb: *Servōs laudō*, *Nauta puellam vocat*.
+- **Verbs where English adds a preposition.** *Exspectō* "wait for", *spectō* "look at" and *timeō* "be afraid of" take a plain accusative: *Sociōs exspectat lēgātus*.
+- **Two accusatives at once.** A few verbs of asking and teaching take one accusative for the person and one for the thing: "ask someone something", "teach someone something" (ag1903 §396). Part 3 shows them.
+- **After some prepositions, and for the goal of motion** (ag1903 §35). Part 3.
+- **Neuter objects.** A neuter noun's object form is the same as its subject form. The next lesson explains.
+
 ## Watch out
 
-**First declension plurals look alike to a beginner.** *Puellae* is nominative and *puellās* accusative. Check the last letter: the accusative ends in *-s*, like every accusative plural in this lesson.
+**Do not leave the object in the nominative.** In English the second noun is the object because of its place. *\*Nauta puella vocat* has two nominatives and no object. Mark it: *Nauta puellam vocat*.
 
-**The verb agrees only with its subject.** In *Fīliae pecūniam cūrant* the money is singular, and the verb is plural anyway. If a plural verb has two nouns beside it, the plural one in the nominative is its subject.
+**Do not make the verb agree with the object.** *\*Puella nautās vocant* takes its plural from the wrong noun. The verb follows the subject: *Puella nautās vocat*.
 
-**English verbs and Latin verbs do not always match.** "Wait for", "look at" and "be afraid of" take a preposition in English. *Exspectō*, *spectō* and *timeō* take a plain accusative. Learn each verb with what it takes.
+**Do not use a nominative plural as an object.** *\*Puellae videō* tries to mean "I see the girls". The object plural is *-ās*: *Puellās videō*.
+
+**Do not use the object form for a subject.** *\*Servum labōrat* has no subject. *Servus labōrat*.
+
+**Do not put Spanish *a* before a person.** Spanish *veo a la niña* tempts you to write *\*A nautam vocō*. Latin marks the object by its ending only: *Nautam vocō*.
+
+**Do not build *-er* accusatives on the nominative.** *\*Agerum* keeps an *e* that *ager, agrī* drops: *agrum*.
+
+**Do not give an object to a verb that cannot take one.** "I sit on the table" is not *\*Mēnsam sedeō*. *Sedeō* takes no object. Latin needs a preposition and another case, taught in part 3.
+
+**Do not add a word for "for", "at" or "of".** *Exspectō sociōs* is "I wait for the allies". Learn each verb with what it takes.
 
 **Not every *-um* is an accusative.** The next lesson introduces nouns whose nominative also ends in *-um*. For now, every *-um* you meet is the accusative of an *-us* or *-er* noun.
 

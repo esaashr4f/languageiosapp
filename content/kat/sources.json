@@ -1,0 +1,164 @@
+{
+ "sources": [
+  {
+   "id": "hewitt1995",
+   "citation": "Hewitt, B. G. (1995). Georgian: A Structural Reference Grammar. London Oriental and African Language Library 2. Amsterdam and Philadelphia: John Benjamins. doi:10.1075/loall.2",
+   "url": "https://api.pageplace.de/preview/DT0400.9789027283115_A24761444/preview-9789027283115_A24761444.pdf",
+   "used_for": "Standard descriptive grammar in English: sound system, declension, verb classes and screeve formation, syntax. Its table of contents is the one the syllabus was checked against.",
+   "access": "In copyright. The publisher's preview (front matter, contents, abbreviations, alphabet, chapters 1-2 and chapter 3 up to about p. 53: phonemes, phonotactics, stress, noun declension, syncope, numerals) was opened and read on 2026-11-12. Chapter 4 (verbal morphology) and chapter 5 (syntax) were not opened."
+  },
+  {
+   "id": "aronson1990",
+   "citation": "Aronson, H. I. (1990). Georgian: A Reading Grammar. Corrected edition (first published 1982; third printing 1991 with addenda). Columbus, Ohio: Slavica.",
+   "url": "http://www.seelrc.org:8080/grammar/pdf/stand_alone_georgian.pdf",
+   "used_for": "Main teaching grammar: lesson order (present series and nominative/dative first, then the aorist and ergative, then series III), the four conjugations, pronunciation description, reading passages.",
+   "access": "Open PDF hosted by the Slavic and East European Language Resource Center (SEELRC, Duke/UNC). Front matter, contents, introduction and Lesson 1 (phonology, alphabet) opened 2026-11-12 (pp. 1-30 of 538). Later lessons not yet opened; verifiers should open the relevant lesson before citing it. The direct curl connection to port 8080 failed; the file was read through the Firecrawl scraper."
+  },
+  {
+   "id": "hewitt2005",
+   "citation": "Hewitt, G. (2005). Georgian: A Learner's Grammar. 2nd ed. (1st ed. 1996). London and New York: Routledge.",
+   "used_for": "Second teaching grammar; lesson-by-lesson presentation of verb classes, version and series III; dialogues in colloquial register.",
+   "access": "In copyright; not consulted. Copies found online were unauthorised and were not opened."
+  },
+  {
+   "id": "kiziria2009",
+   "citation": "Kiziria, D. (2009). Beginner's Georgian with 2 Audio CDs. New York: Hippocrene Books.",
+   "used_for": "Spoken everyday register, greetings, politeness formulas.",
+   "access": "In copyright; not consulted. Cited at second hand (Wikipedia, Georgian grammar, bibliography)."
+  },
+  {
+   "id": "vogt1971",
+   "citation": "Vogt, H. (1971). Grammaire de la langue géorgienne. Oslo: Universitetsforlaget.",
+   "used_for": "Classic structural grammar; source of the noun-syncope observations quoted in hewitt1995 §3.1.1, and of WALS word-order values.",
+   "access": "In copyright; not consulted directly. Cited through hewitt1995 and wals."
+  },
+  {
+   "id": "tschenkeli1958",
+   "citation": "Tschenkéli, K. (1958). Einführung in die georgische Sprache. 2 vols. Zürich: Amirani.",
+   "used_for": "Classic German teaching grammar; stress rule quoted in hewitt1995 §2.4.1.",
+   "access": "In copyright; not consulted directly. Cited through hewitt1995."
+  },
+  {
+   "id": "tschenkeli1965",
+   "citation": "Tschenkéli, K. (1965-1974). Georgisch-deutsches Wörterbuch. 3 vols. Zürich: Amirani.",
+   "used_for": "The standard bilingual dictionary arranged by verb root, with all screeves of each verb; authority for verb forms when wiktionary has no table.",
+   "access": "In copyright; not openly online. Not consulted."
+  },
+  {
+   "id": "rayfield2006",
+   "citation": "Rayfield, D. et al. (2006). A Comprehensive Georgian-English Dictionary. 2 vols. London: Garnett Press.",
+   "used_for": "Meanings and verb principal forms for English readers.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "ged1950",
+   "citation": "Čikobava, A. et al., eds. (1950-1964). Kartuli enis ganmarṭebiti leksiḳoni [Explanatory Dictionary of the Georgian Language]. 8 vols. Tbilisi: Academy of Sciences.",
+   "url": "http://www.ganmarteba.ge/",
+   "used_for": "Monolingual reference dictionary; cited by wiktionary entries.",
+   "access": "Online edition at ganmarteba.ge; the connection failed TLS verification through the session proxy on 2026-11-12, so not opened. Cited through wiktionary."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Georgian entries, declension tables and conjugation tables; Wiktionary:Georgian transliteration and Module:Geor-translit.",
+   "url": "https://en.wiktionary.org/wiki/Wiktionary:Georgian_transliteration",
+   "used_for": "Checking individual forms: full noun declensions (all nouns tested had tables) and full conjugation tables for many verbs (e.g. დაწერს, ხატავს, თამაშობს, მიდის, არის, ხედავს, აკეთებს, ჭამს, სვამს, ცხოვრობს, მოდის, აშენებს). Also the transliteration scheme this guide uses.",
+   "access": "Open (CC BY-SA). Query with python3 tools/wikt.py <word> Georgian. Many verbs, including most indirect (inversion) verbs such as უყვარს, აქვს, ჰყავს, უნდა, have entries but no conjugation table: check those elsewhere."
+  },
+  {
+   "id": "linguage",
+   "citation": "Lingua.ge. Conjugation of Georgian Verbs (online conjugator, about 700 verbs).",
+   "url": "https://lingua.ge/verbs-all/",
+   "used_for": "Second check for conjugations Wiktionary lacks (inversion verbs, irregular verbs, imperatives). The site states it is still correcting errors: treat a form found only here as needing a second source.",
+   "access": "Open online; index page opened 2026-11-12 (through the Firecrawl scraper; direct curl returned 406). Individual verb pages not yet opened."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M., eds. (2013). The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. Language: Georgian (wals_code_geo).",
+   "url": "https://wals.info/languoid/lect/wals_code_geo",
+   "used_for": "Typology values opened 2026-11-12: 1A consonant inventory moderately large; 2A vowel quality average (5-6); 4A voicing in plosives and fricatives; 7A ejectives only; 13A no tones; 49A 6-7 cases; 81A SOV; 85A postpositions; 87A adjective-noun; 98A case marking of full NPs active-inactive (with glossed examples); 100A verbal person marking accusative; 102A both A and P marked on the verb.",
+   "access": "Open."
+  },
+  {
+   "id": "grambank",
+   "citation": "Skirgård, H. et al. (2023). Grambank v1.0. Language: Georgian (nucl1302).",
+   "url": "https://grambank.clld.org/languages/nucl1302",
+   "used_for": "Further typological feature values when a lesson makes a cross-linguistic claim.",
+   "access": "Open; language page opened 2026-11-12, individual values not yet read."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog. Languoid: Georgian (nucl1302).",
+   "url": "https://glottolog.org/resource/languoid/id/nucl1302",
+   "used_for": "Classification (Kartvelian > Georgian-Zan > Georgic > Georgian) and the list of 27 dialects grouped as Central, Eastern, Northeast, Northwest and Southwest Georgian, plus Judeo-Georgian.",
+   "access": "Open; JSON record opened 2026-11-12."
+  },
+  {
+   "id": "wikipedia",
+   "citation": "Wikipedia (English): Georgian phonology; Georgian grammar; Georgian verb paradigm; Romanization of Georgian.",
+   "url": "https://en.wikipedia.org/wiki/Romanization_of_Georgian",
+   "used_for": "Pointers to sources only, and the table of the national romanisation system of 2002 compared in the dossier. Not an authority for forms.",
+   "access": "Open; pages opened 2026-11-12."
+  },
+  {
+   "id": "udhr",
+   "citation": "Universal Declaration of Human Rights, Georgian translation (ადამიანთა უფლებების საყოველთაო დეკლარაცია), as distributed by the Unicode UDHR in Unicode project (udhr_kat.xml).",
+   "url": "https://raw.githubusercontent.com/eric-muller/udhr/master/data/udhr/udhr_kat.xml",
+   "used_for": "Attested formal modern prose: meta sample (Article 1) and reading kat-08-02.",
+   "access": "Open; file downloaded and read 2026-11-12. OHCHR's own page refused automated access (403)."
+  },
+  {
+   "id": "kawikisource",
+   "citation": "ვიკიწყარო (Georgian Wikisource): public-domain texts of Akaki Tsereteli (სულიკო), Ilia Chavchavadze (მგზავრის წერილები, კაცია-ადამიანი?!, ოთარაანთ ქვრივი), Nikoloz Baratashvili (მერანი), Shota Rustaveli (ვეფხისტყაოსანი).",
+   "url": "https://ka.wikisource.org/",
+   "used_for": "Texts for part 8 readings.",
+   "access": "Open; pages for each listed work opened 2026-11-12 and the opening lines of სულიკო and მგზავრის წერილები read. Wikisource editions follow the spelling of their printed sources, which may be pre-reform (e.g. ტფილისი, -ზედ): note this in the reading."
+  },
+  {
+   "id": "kawikipedia",
+   "citation": "ვიკიპედია (Georgian Wikipedia), article თბილისი.",
+   "url": "https://ka.wikipedia.org/wiki/თბილისი",
+   "used_for": "Modern expository prose for reading kat-08-03 (CC BY-SA; cite the revision used).",
+   "access": "Open (CC BY-SA); page opened 2026-11-12, current revision 5550216. Cite that revision or a later fixed one."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2008, rev. 2015). The Leipzig Glossing Rules. Max Planck Institute for Evolutionary Anthropology.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and standard abbreviations.",
+   "access": "Open; page opened 2026-11-12."
+  },
+  {
+   "id": "gnc",
+   "citation": "Georgian National Corpus (GNC), ed. P. Meurer et al.",
+   "url": "https://gnc.gov.ge/",
+   "used_for": "Frequency and attested usage of modern Georgian forms; Old Georgian subcorpus.",
+   "access": "Open online, but the connection was reset through the session proxy on 2026-11-12; not opened."
+  },
+  {
+   "id": "titus",
+   "citation": "TITUS: Thesaurus Indogermanischer Text- und Sprachmaterialien (Frankfurt), Old Georgian texts.",
+   "url": "https://titus.uni-frankfurt.de/indexe.htm",
+   "used_for": "Old Georgian texts for the short note in part 7 only.",
+   "access": "Open; front page reached 2026-11-12, Georgian text pages not located."
+  },
+  {
+   "id": "harris1981",
+   "citation": "Harris, A. C. (1981). Georgian Syntax: A Study in Relational Grammar. Cambridge University Press.",
+   "used_for": "The analysis of inversion and of the verb classes (as unergative vs unaccusative); background for the disputes in dossier section 6.",
+   "access": "In copyright; not consulted. Cited at second hand (Wikipedia, Georgian grammar, references)."
+  },
+  {
+   "id": "tuite2017",
+   "citation": "Tuite, K. (2017). Alignment and orientation in Kartvelian (South Caucasian). In J. Coon, D. Massam and L. Travis, eds., The Oxford Handbook of Ergativity, 1114-1138. Oxford University Press.",
+   "used_for": "Survey of the alignment debate (ergative, active, split).",
+   "access": "In copyright; not consulted. Cited at second hand (Wikipedia, Georgian grammar)."
+  },
+  {
+   "id": "makharoblidze2018",
+   "citation": "Makharoblidze, T. (2018). On Georgian preverbs. Open Linguistics 4(1): 163-183. doi:10.1515/opli-2018-0009",
+   "url": "https://doi.org/10.1515/opli-2018-0009",
+   "used_for": "Open-access account of preverb meanings and their aspectual role.",
+   "access": "Open access; the DOI resolver answered (HTTP 202, no content returned to the script) on 2026-11-12, so the article text was not read."
+  }
+ ]
+}

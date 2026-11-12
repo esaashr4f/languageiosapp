@@ -1,0 +1,1439 @@
+{
+ "lang": "kat",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Georgian is, the idea that runs through its grammar (the verb is the sentence), and how this guide works."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and script",
+   "summary": "Five vowels, the three-way stop contrast with ejectives, consonant clusters, the Mkhedruli alphabet in stages, and the transliteration used here."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "Saying what something is, the first verbs in the present, subject and object marking in series I, negation, questions and plurals."
+  },
+  {
+   "part": 3,
+   "title": "Nouns and their machinery",
+   "summary": "The seven cases and the postpositions built on them, noun stem types and syncope, pronouns, possessives, demonstratives, adjective agreement and question words."
+  },
+  {
+   "part": 4,
+   "title": "Verbs: the core system",
+   "summary": "The verb template, object markers, preverbs and the future, the three series and eleven screeves, the four verb classes, the ergative and inversion, version, and the irregular verbs."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adverbs, comparison, numbers and time, postpositions, conjunctions and particles, participles, the masdar, reflexives and word formation."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Relative and complement clauses, reported speech, time, purpose, cause and concession, real and unreal conditions, and the subjunctive screeves."
+  },
+  {
+   "part": 7,
+   "title": "Advanced and special topics",
+   "summary": "Causatives, stative and relative intransitives, three-person verbs in series III, honorific verbs, number-suppletive verbs, colloquial speech, dialects, the Kartvelian family and a short note on Old Georgian."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Seven graded passages, from proverbs and the Universal Declaration of Human Rights to Ilia Chavchavadze, Akaki Tsereteli, Baratashvili and two stanzas of Rustaveli."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "Declension and screeve tables for every verb class, core vocabulary, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "kat-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-georgian-is",
+   "title": "What Georgian is",
+   "point": "Place Georgian in time, space and family, and know which Georgian this guide teaches",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "kat-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "the-verb-is-the-sentence",
+   "title": "The organising idea: the verb is the sentence",
+   "point": "See how one verb carries its people, direction and tense, and why tense decides the case of the nouns",
+   "requires": [
+    "kat-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide",
+   "point": "Read the transliteration, the interlinear glosses and the confidence dots, and know where the facts come from",
+   "requires": [
+    "kat-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "vowels-and-syllables",
+   "title": "Five vowels and the syllable",
+   "point": "Pronounce the five vowels and count syllables, knowing that stress is weak and never changes a vowel",
+   "requires": [
+    "kat-00-03"
+   ],
+   "introduces": [
+    "vowels",
+    "stress"
+   ]
+  },
+  {
+   "id": "kat-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "three-kinds-of-stop",
+   "title": "Three kinds of stop: voiced, aspirated, ejective",
+   "point": "Hear and make the contrast between b, p and ṗ, and between d, t and ṭ, g, k and ḳ",
+   "requires": [
+    "kat-01-01"
+   ],
+   "introduces": [
+    "ejectives"
+   ]
+  },
+  {
+   "id": "kat-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "affricates-and-back-consonants",
+   "title": "Affricates, fricatives and the back of the mouth",
+   "point": "Pronounce the three ts-sounds and three ch-sounds, and q̇, x and ɣ, and v in its variants",
+   "requires": [
+    "kat-01-02"
+   ],
+   "introduces": [
+    "affricates",
+    "uvulars"
+   ]
+  },
+  {
+   "id": "kat-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "consonant-clusters",
+   "title": "Consonant clusters",
+   "point": "Pronounce long initial clusters and recognise harmonic clusters, which release as one sound",
+   "requires": [
+    "kat-01-03"
+   ],
+   "introduces": [
+    "clusters"
+   ]
+  },
+  {
+   "id": "kat-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "mkhedruli-one",
+   "title": "Mkhedruli, stage one: vowels and sonorants",
+   "point": "Read and write the vowel letters and m, n, l, r, v, s, h, and words made of them",
+   "requires": [
+    "kat-01-01"
+   ],
+   "introduces": [
+    "mkhedruli"
+   ]
+  },
+  {
+   "id": "kat-01-06",
+   "part": 1,
+   "order": 6,
+   "slug": "mkhedruli-two",
+   "title": "Mkhedruli, stage two: the stops",
+   "point": "Read and write the nine stop letters and see how the alphabet sorts them",
+   "requires": [
+    "kat-01-05",
+    "kat-01-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-01-07",
+   "part": 1,
+   "order": 7,
+   "slug": "mkhedruli-three",
+   "title": "Mkhedruli, stage three: the rest of the alphabet",
+   "point": "Read and write the affricates and back consonants, recite the alphabet in order and read any word",
+   "requires": [
+    "kat-01-06",
+    "kat-01-03"
+   ],
+   "introduces": [
+    "alphabet-order"
+   ]
+  },
+  {
+   "id": "kat-01-08",
+   "part": 1,
+   "order": 8,
+   "slug": "scripts-and-transliteration",
+   "title": "Three scripts and one transliteration",
+   "point": "Know Asomtavruli, Nuskhuri and Mtavruli, why there are no capitals, and convert between Mkhedruli and this guide's transliteration",
+   "requires": [
+    "kat-01-07",
+    "kat-01-04"
+   ],
+   "introduces": [
+    "transliteration"
+   ]
+  },
+  {
+   "id": "kat-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "this-is-a-house",
+   "title": "This is a house: the nominative and 'is'",
+   "point": "Name things and say what something is with the nominative and the copula არის / -ა",
+   "requires": [
+    "kat-01-08"
+   ],
+   "introduces": [
+    "nominative",
+    "copula"
+   ]
+  },
+  {
+   "id": "kat-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "i-am-you-are",
+   "title": "I am, you are: persons and pronouns",
+   "point": "Say who you are with ვარ, ხარ, არის and the personal pronouns, and meet the person marker v-",
+   "requires": [
+    "kat-02-01"
+   ],
+   "introduces": [
+    "person",
+    "pronouns-basic"
+   ]
+  },
+  {
+   "id": "kat-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "no-gender-no-articles",
+   "title": "No gender, no articles",
+   "point": "Use nouns without articles or gender, and use ერთი for 'a certain'",
+   "requires": [
+    "kat-02-01"
+   ],
+   "introduces": [
+    "no-gender"
+   ]
+  },
+  {
+   "id": "kat-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "plurals",
+   "title": "More than one: the plural -ებ-",
+   "point": "Make plurals with -ებ- and keep the noun singular after numbers and 'many'",
+   "requires": [
+    "kat-02-03"
+   ],
+   "introduces": [
+    "plural"
+   ]
+  },
+  {
+   "id": "kat-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "first-verb-present",
+   "title": "The first verb: I write, you write",
+   "point": "Conjugate a transitive verb in the present with v-, -s and -t, with the subject in the nominative",
+   "requires": [
+    "kat-02-02",
+    "kat-02-04"
+   ],
+   "introduces": [
+    "present",
+    "subject-markers"
+   ]
+  },
+  {
+   "id": "kat-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "the-dative-object",
+   "title": "What you act on: the dative object",
+   "point": "Put the direct object in the dative in the present and build full subject-object-verb sentences",
+   "requires": [
+    "kat-02-05"
+   ],
+   "introduces": [
+    "dative"
+   ]
+  },
+  {
+   "id": "kat-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "negation",
+   "title": "Saying no: არ and ვერ",
+   "point": "Negate statements with არ, and say you cannot with ვერ",
+   "requires": [
+    "kat-02-06"
+   ],
+   "introduces": [
+    "negation"
+   ]
+  },
+  {
+   "id": "kat-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "yes-no-questions",
+   "title": "Yes-no questions and answers",
+   "point": "Ask yes-no questions by intonation and with ხომ, and answer with კი, დიახ and არა",
+   "requires": [
+    "kat-02-07"
+   ],
+   "introduces": [
+    "questions"
+   ]
+  },
+  {
+   "id": "kat-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "word-order-and-dropping",
+   "title": "Word order and dropped pronouns",
+   "point": "Vary word order for emphasis and leave out pronouns the verb already shows",
+   "requires": [
+    "kat-02-08"
+   ],
+   "introduces": [
+    "pro-drop"
+   ]
+  },
+  {
+   "id": "kat-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "seven-cases",
+   "title": "The seven cases at a glance",
+   "point": "See the seven cases as one system of endings and what each does in a sentence",
+   "requires": [
+    "kat-02-09"
+   ],
+   "introduces": [
+    "cases"
+   ]
+  },
+  {
+   "id": "kat-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "dative-postpositions",
+   "title": "In, on, at, like: postpositions on the dative",
+   "point": "Say where things are with -ში, -ზე, -თან and -ვით",
+   "requires": [
+    "kat-03-01"
+   ],
+   "introduces": [
+    "postpositions"
+   ]
+  },
+  {
+   "id": "kat-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "genitive",
+   "title": "Of and for: the genitive",
+   "point": "Show possession with -ის and use -თვის, -გან and -კენ",
+   "requires": [
+    "kat-03-02"
+   ],
+   "introduces": [
+    "genitive"
+   ]
+  },
+  {
+   "id": "kat-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "instrumental-and-adverbial",
+   "title": "With and as: the instrumental and adverbial",
+   "point": "Use -ით for means and -ად for 'as, into', and -დან and -მდე for 'from' and 'up to'",
+   "requires": [
+    "kat-03-03"
+   ],
+   "introduces": [
+    "instrumental",
+    "adverbial"
+   ]
+  },
+  {
+   "id": "kat-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "vowel-stems",
+   "title": "Nouns ending in a vowel",
+   "point": "Decline nouns in -ა, -ე, -ო and -უ, and know which ones lose their final vowel",
+   "requires": [
+    "kat-03-04"
+   ],
+   "introduces": [
+    "vowel-stems"
+   ]
+  },
+  {
+   "id": "kat-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "syncope",
+   "title": "Disappearing vowels: syncope",
+   "point": "Predict when a noun like მეგობარი loses a vowel (მეგობრის) and check it when you cannot",
+   "requires": [
+    "kat-03-05"
+   ],
+   "introduces": [
+    "syncope"
+   ]
+  },
+  {
+   "id": "kat-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "vocative",
+   "title": "Calling someone: the vocative",
+   "point": "Address people with -ო and -ვ, and with bare names",
+   "requires": [
+    "kat-03-05"
+   ],
+   "introduces": [
+    "vocative"
+   ]
+  },
+  {
+   "id": "kat-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "pronouns-and-possessives",
+   "title": "My, your, our: pronouns and possessives",
+   "point": "Use me, šen and the others in every case they have, and the possessives ჩემი, შენი, მისი, ჩვენი, თქვენი, მათი",
+   "requires": [
+    "kat-03-06"
+   ],
+   "introduces": [
+    "possessives"
+   ]
+  },
+  {
+   "id": "kat-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "demonstratives",
+   "title": "This, that, that over there",
+   "point": "Use the three-way ეს / ეგ / ის and their oblique forms ამ, მაგ, იმ",
+   "requires": [
+    "kat-03-08"
+   ],
+   "introduces": [
+    "demonstratives"
+   ]
+  },
+  {
+   "id": "kat-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "adjective-agreement",
+   "title": "Adjectives before the noun",
+   "point": "Put adjectives before nouns and give them the shortened endings they take there",
+   "requires": [
+    "kat-03-09"
+   ],
+   "introduces": [
+    "adjective-agreement"
+   ]
+  },
+  {
+   "id": "kat-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "question-words",
+   "title": "Who, what, where: question words and indefinites",
+   "point": "Ask with ვინ, რა, სად, როდის, რატომ, როგორ, and say someone, nobody, something, nothing",
+   "requires": [
+    "kat-03-10"
+   ],
+   "introduces": [
+    "question-words",
+    "indefinites"
+   ]
+  },
+  {
+   "id": "kat-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "old-plural",
+   "title": "The old plural in -ნ- and -თ-",
+   "point": "Recognise the stylistically marked plural of formal writing and set phrases",
+   "requires": [
+    "kat-03-11"
+   ],
+   "introduces": [
+    "old-plural"
+   ]
+  },
+  {
+   "id": "kat-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "anatomy-of-the-verb",
+   "title": "Anatomy of the verb",
+   "point": "See the slots of the verb template and which slot holds which meaning",
+   "requires": [
+    "kat-03-12"
+   ],
+   "introduces": [
+    "verb-template"
+   ]
+  },
+  {
+   "id": "kat-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "thematic-suffixes",
+   "title": "Thematic suffixes and the present stem",
+   "point": "Find the present stem by its thematic suffix (-ებ, -ობ, -ავ, -ამ, -ი and none)",
+   "requires": [
+    "kat-04-01"
+   ],
+   "introduces": [
+    "thematic-suffix"
+   ]
+  },
+  {
+   "id": "kat-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "object-markers",
+   "title": "Me, you, us: object markers",
+   "point": "Mark the object on the verb with მ-, გ-, გვ- and zero, and say 'you see me'",
+   "requires": [
+    "kat-04-02"
+   ],
+   "introduces": [
+    "object-markers"
+   ]
+  },
+  {
+   "id": "kat-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "who-gets-the-t",
+   "title": "Who gets the plural -თ",
+   "point": "Work out which person a plural -თ belongs to, and why ვ- and გ- never appear together",
+   "requires": [
+    "kat-04-03"
+   ],
+   "introduces": [
+    "person-hierarchy"
+   ]
+  },
+  {
+   "id": "kat-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "imperfect",
+   "title": "Was doing: the imperfect",
+   "point": "Form and use the imperfect with -დ-",
+   "requires": [
+    "kat-04-04"
+   ],
+   "introduces": [
+    "imperfect"
+   ]
+  },
+  {
+   "id": "kat-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "preverbs-and-future",
+   "title": "Preverbs and the future",
+   "point": "Add a preverb to the present to make the future and see what the preverbs mean",
+   "requires": [
+    "kat-04-05"
+   ],
+   "introduces": [
+    "preverb",
+    "future"
+   ]
+  },
+  {
+   "id": "kat-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "conditional",
+   "title": "Would do: the conditional",
+   "point": "Form the conditional from the future stem with -დ-",
+   "requires": [
+    "kat-04-06"
+   ],
+   "introduces": [
+    "conditional"
+   ]
+  },
+  {
+   "id": "kat-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "series-and-screeves",
+   "title": "Series and screeves: the map of the verb",
+   "point": "Name the eleven screeves, group them into three series, and know which you have already learnt",
+   "requires": [
+    "kat-04-07"
+   ],
+   "introduces": [
+    "screeve",
+    "series"
+   ]
+  },
+  {
+   "id": "kat-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "four-verb-classes",
+   "title": "Four kinds of verb",
+   "point": "Sort verbs into transitive, unaccusative, unergative and indirect, and know why the class matters for case",
+   "requires": [
+    "kat-04-08"
+   ],
+   "introduces": [
+    "verb-class"
+   ]
+  },
+  {
+   "id": "kat-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "intransitives-present",
+   "title": "Things that happen: class 2 in the present and future",
+   "point": "Form unaccusative verbs with ი-, with -დ- and without a marker (იწერება, კვდება)",
+   "requires": [
+    "kat-04-09"
+   ],
+   "introduces": [
+    "passive",
+    "intransitive"
+   ]
+  },
+  {
+   "id": "kat-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "going-and-coming",
+   "title": "Going and coming",
+   "point": "Use მიდის, მოდის, წავა and the hither/thither preverbs მი- and მო-",
+   "requires": [
+    "kat-04-10"
+   ],
+   "introduces": [
+    "motion",
+    "deixis"
+   ]
+  },
+  {
+   "id": "kat-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "aorist-and-ergative",
+   "title": "What happened: the aorist and the ergative",
+   "point": "Form the aorist of transitive verbs and put their subject in the ergative and their object in the nominative",
+   "requires": [
+    "kat-04-11"
+   ],
+   "introduces": [
+    "aorist",
+    "ergative"
+   ]
+  },
+  {
+   "id": "kat-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "aorist-intransitive",
+   "title": "The aorist of intransitives",
+   "point": "Form the aorist of class 2 verbs, whose subject stays nominative, and know strong from weak aorists",
+   "requires": [
+    "kat-04-12"
+   ],
+   "introduces": [
+    "strong-aorist"
+   ]
+  },
+  {
+   "id": "kat-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "medial-verbs",
+   "title": "Doing without an object: medial verbs",
+   "point": "Use class 3 verbs like თამაშობს and მუშაობს, which take the ergative in the aorist though they have no object",
+   "requires": [
+    "kat-04-13"
+   ],
+   "introduces": [
+    "medial"
+   ]
+  },
+  {
+   "id": "kat-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "optative",
+   "title": "Let it be done: the optative",
+   "point": "Form the optative and use it for 'should', 'let's' and wishes",
+   "requires": [
+    "kat-04-14"
+   ],
+   "introduces": [
+    "optative"
+   ]
+  },
+  {
+   "id": "kat-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "imperative-and-prohibition",
+   "title": "Commands and prohibitions",
+   "point": "Give commands with the aorist form, and forbid with ნუ and არ",
+   "requires": [
+    "kat-04-15"
+   ],
+   "introduces": [
+    "imperative",
+    "prohibition"
+   ]
+  },
+  {
+   "id": "kat-04-17",
+   "part": 4,
+   "order": 17,
+   "slug": "indirect-verbs",
+   "title": "I love, I have: indirect verbs and the dative subject",
+   "point": "Use უყვარს, აქვს, უნდა and მოსწონს with the experiencer in the dative and the thing in the nominative",
+   "requires": [
+    "kat-04-16"
+   ],
+   "introduces": [
+    "indirect-verb",
+    "inversion"
+   ]
+  },
+  {
+   "id": "kat-04-18",
+   "part": 4,
+   "order": 18,
+   "slug": "having-things-and-people",
+   "title": "Having things and having people",
+   "point": "Choose between აქვს for things and ჰყავს for people and animals",
+   "requires": [
+    "kat-04-17"
+   ],
+   "introduces": [
+    "animacy"
+   ]
+  },
+  {
+   "id": "kat-04-19",
+   "part": 4,
+   "order": 19,
+   "slug": "indirect-objects",
+   "title": "To and for someone: indirect objects",
+   "point": "Mark an indirect object on the verb, including third-person ს- and ჰ-",
+   "requires": [
+    "kat-04-18"
+   ],
+   "introduces": [
+    "indirect-object"
+   ]
+  },
+  {
+   "id": "kat-04-20",
+   "part": 4,
+   "order": 20,
+   "slug": "version",
+   "title": "For myself, for you: version",
+   "point": "Use the version vowels ა-, ი-, უ- to say whom an action is for or belongs to",
+   "requires": [
+    "kat-04-19"
+   ],
+   "introduces": [
+    "version"
+   ]
+  },
+  {
+   "id": "kat-04-21",
+   "part": 4,
+   "order": 21,
+   "slug": "perfect-transitive",
+   "title": "It seems I have done it: the perfect",
+   "point": "Form the perfect of transitive and medial verbs, with the doer in the dative, and read its evidential sense",
+   "requires": [
+    "kat-04-20"
+   ],
+   "introduces": [
+    "perfect",
+    "evidential"
+   ]
+  },
+  {
+   "id": "kat-04-22",
+   "part": 4,
+   "order": 22,
+   "slug": "pluperfect",
+   "title": "Should have, had done: the pluperfect and perfect subjunctive",
+   "point": "Form the pluperfect and the perfect subjunctive and use them for missed obligations and unreal pasts",
+   "requires": [
+    "kat-04-21"
+   ],
+   "introduces": [
+    "pluperfect"
+   ]
+  },
+  {
+   "id": "kat-04-23",
+   "part": 4,
+   "order": 23,
+   "slug": "perfect-intransitive",
+   "title": "The perfect of intransitives",
+   "point": "Form series III of class 2 verbs (დაწერილა, მისულა) from the past participle",
+   "requires": [
+    "kat-04-22"
+   ],
+   "introduces": [
+    "past-participle"
+   ]
+  },
+  {
+   "id": "kat-04-24",
+   "part": 4,
+   "order": 24,
+   "slug": "irregular-verbs",
+   "title": "Be, say, give, see: irregular and suppletive verbs",
+   "point": "Use the verbs whose stems change between series: არის/იქნება/იყო, ამბობს/თქვა, აძლევს/მისცა, ხედავს/ნახა, ჭამს, სვამს, იცის",
+   "requires": [
+    "kat-04-23"
+   ],
+   "introduces": [
+    "suppletion"
+   ]
+  },
+  {
+   "id": "kat-04-25",
+   "part": 4,
+   "order": 25,
+   "slug": "reading-a-verb-entry",
+   "title": "Reading a verb in a dictionary",
+   "point": "Find a verb from its citation forms (third person present or future and masdar) and predict its screeves",
+   "requires": [
+    "kat-04-24"
+   ],
+   "introduces": [
+    "citation-form"
+   ]
+  },
+  {
+   "id": "kat-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "adverbs",
+   "title": "How, where, when: adverbs and adverbial postpositions",
+   "point": "Make adverbs with -ად, use the common adverbs of place and time, and the genitive postpositions შესახებ, გარდა, შემდეგ, წინ, უკან, მიერ",
+   "requires": [
+    "kat-04-25"
+   ],
+   "introduces": [
+    "adverbs"
+   ]
+  },
+  {
+   "id": "kat-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "comparison",
+   "title": "Bigger, biggest",
+   "point": "Compare with უფრო and -ზე, say 'most' with ყველაზე, and recognise უ- -ეს-ი",
+   "requires": [
+    "kat-05-01"
+   ],
+   "introduces": [
+    "comparison"
+   ]
+  },
+  {
+   "id": "kat-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "numbers-to-twenty",
+   "title": "Numbers to twenty",
+   "point": "Count to twenty and keep the noun singular after a number",
+   "requires": [
+    "kat-05-02"
+   ],
+   "introduces": [
+    "numerals"
+   ]
+  },
+  {
+   "id": "kat-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "numbers-in-twenties",
+   "title": "Counting in twenties",
+   "point": "Build numbers up to a million on base twenty and form ordinals with მე- -ე",
+   "requires": [
+    "kat-05-03"
+   ],
+   "introduces": [
+    "vigesimal",
+    "ordinals"
+   ]
+  },
+  {
+   "id": "kat-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "time-and-dates",
+   "title": "Days, months, the time",
+   "point": "Tell the time, give dates and use the dative and -ში for time",
+   "requires": [
+    "kat-05-04"
+   ],
+   "introduces": [
+    "time"
+   ]
+  },
+  {
+   "id": "kat-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "conjunctions-and-particles",
+   "title": "And, but, also, even",
+   "point": "Link with და, მაგრამ, ან, თუ and use the particles -ც, კი and ხომ",
+   "requires": [
+    "kat-05-05"
+   ],
+   "introduces": [
+    "conjunctions",
+    "particles"
+   ]
+  },
+  {
+   "id": "kat-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "participles",
+   "title": "Participles: doer, done, to be done, undone",
+   "point": "Read and make the four participles (მწერალი, დაწერილი, დასაწერი, დაუწერელი)",
+   "requires": [
+    "kat-05-06"
+   ],
+   "introduces": [
+    "participle"
+   ]
+  },
+  {
+   "id": "kat-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "masdar",
+   "title": "The verbal noun (masdar)",
+   "point": "Use the masdar as a noun, with its object in the genitive",
+   "requires": [
+    "kat-05-07"
+   ],
+   "introduces": [
+    "masdar"
+   ]
+  },
+  {
+   "id": "kat-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "reflexive-and-reciprocal",
+   "title": "Myself, each other",
+   "point": "Use თავი as a reflexive and ერთმანეთი as a reciprocal",
+   "requires": [
+    "kat-05-08"
+   ],
+   "introduces": [
+    "reflexive",
+    "reciprocal"
+   ]
+  },
+  {
+   "id": "kat-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "word-formation",
+   "title": "Building words",
+   "point": "Recognise the commonest affixes: სა- -ო, მე-, -ობა, -ელი, -ური, სი- -ე, უ- -ო",
+   "requires": [
+    "kat-05-09"
+   ],
+   "introduces": [
+    "derivation"
+   ]
+  },
+  {
+   "id": "kat-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "relative-clauses",
+   "title": "The one who: relative clauses",
+   "point": "Make relative clauses with რომელიც, ვინც, რაც and with რომ",
+   "requires": [
+    "kat-05-10"
+   ],
+   "introduces": [
+    "relative"
+   ]
+  },
+  {
+   "id": "kat-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "complement-clauses",
+   "title": "That-clauses with რომ",
+   "point": "Say 'I know that...' and 'I want that...' with რომ",
+   "requires": [
+    "kat-06-01"
+   ],
+   "introduces": [
+    "complement"
+   ]
+  },
+  {
+   "id": "kat-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "reported-speech",
+   "title": "He said that: reported speech and embedded questions",
+   "point": "Report speech with -ო, -მეთქი and -თქო and with რომ, and put question words inside a larger sentence",
+   "requires": [
+    "kat-06-02"
+   ],
+   "introduces": [
+    "quotative"
+   ]
+  },
+  {
+   "id": "kat-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "time-clauses",
+   "title": "When, until, after",
+   "point": "Make time clauses with როცა, სანამ, მას შემდეგ რაც and როგორც კი",
+   "requires": [
+    "kat-06-03"
+   ],
+   "introduces": [
+    "time-clauses"
+   ]
+  },
+  {
+   "id": "kat-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "must-and-can",
+   "title": "Must, may, can",
+   "point": "Express obligation and possibility with უნდა, შეიძლება and შეუძლია plus the optative",
+   "requires": [
+    "kat-06-04"
+   ],
+   "introduces": [
+    "modality"
+   ]
+  },
+  {
+   "id": "kat-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "purpose-clauses",
+   "title": "In order to",
+   "point": "Express purpose with რომ and რათა plus the optative, and with the masdar",
+   "requires": [
+    "kat-06-05"
+   ],
+   "introduces": [
+    "purpose"
+   ]
+  },
+  {
+   "id": "kat-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "subjunctive-screeves",
+   "title": "The present and future subjunctive",
+   "point": "Recognise the two rarer subjunctive screeves and where they still occur",
+   "requires": [
+    "kat-06-06"
+   ],
+   "introduces": [
+    "subjunctive"
+   ]
+  },
+  {
+   "id": "kat-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "real-conditions",
+   "title": "If it rains: real conditions",
+   "point": "Make open conditions with თუ and the future or aorist",
+   "requires": [
+    "kat-06-07"
+   ],
+   "introduces": [
+    "conditional-clause"
+   ]
+  },
+  {
+   "id": "kat-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "unreal-conditions",
+   "title": "If it had rained: unreal conditions",
+   "point": "Make unreal conditions with რომ and the conditional, imperfect and pluperfect",
+   "requires": [
+    "kat-06-08"
+   ],
+   "introduces": [
+    "counterfactual"
+   ]
+  },
+  {
+   "id": "kat-06-10",
+   "part": 6,
+   "order": 10,
+   "slug": "cause-and-concession",
+   "title": "Because, although",
+   "point": "Give reasons with რადგან, იმიტომ რომ and concede with თუმცა and მიუხედავად",
+   "requires": [
+    "kat-06-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "causatives",
+   "title": "Making someone do it: causatives",
+   "point": "Form causatives with ა- -ინ-ებ and mark the person made to act",
+   "requires": [
+    "kat-06-10"
+   ],
+   "introduces": [
+    "causative"
+   ]
+  },
+  {
+   "id": "kat-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "stative-passives",
+   "title": "It is written: stative and resultative forms",
+   "point": "Read stative verbs like აწერია and resultative passives",
+   "requires": [
+    "kat-07-01"
+   ],
+   "introduces": [
+    "stative"
+   ]
+  },
+  {
+   "id": "kat-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "relative-intransitives",
+   "title": "Relative intransitives with ე-",
+   "point": "Use class 2 verbs with an indirect object (ეხმარება, ელოდება, ეუბნება)",
+   "requires": [
+    "kat-07-02"
+   ],
+   "introduces": [
+    "relative-intransitive"
+   ]
+  },
+  {
+   "id": "kat-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "three-people-in-series-three",
+   "title": "Three people in series III",
+   "point": "Say who gave what to whom in the perfect, where the indirect object moves into a -თვის phrase",
+   "requires": [
+    "kat-07-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "locative-version-and-superessive",
+   "title": "On top of: locative version and superessive",
+   "point": "Read verbs whose version vowel means 'on, over' (აწერს, აწერია)",
+   "requires": [
+    "kat-07-04"
+   ],
+   "introduces": [
+    "locative-version"
+   ]
+  },
+  {
+   "id": "kat-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "politeness-and-honorifics",
+   "title": "Politeness and honorific verbs",
+   "point": "Use თქვენ for one person politely and the honorific verbs ბრძანდება, მობრძანდით, ინებეთ",
+   "requires": [
+    "kat-07-05"
+   ],
+   "introduces": [
+    "politeness"
+   ]
+  },
+  {
+   "id": "kat-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "singular-and-plural-verbs",
+   "title": "Verbs that change with number",
+   "point": "Use verbs whose root changes for a plural subject or object (ზის / სხედან, დგას / დგანან, წევს / წვანან)",
+   "requires": [
+    "kat-07-06"
+   ],
+   "introduces": [
+    "number-suppletion"
+   ]
+  },
+  {
+   "id": "kat-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "hearsay-and-turme",
+   "title": "Apparently: turme and the evidential narrative",
+   "point": "Tell a story you did not witness with the perfect and თურმე",
+   "requires": [
+    "kat-07-07"
+   ],
+   "introduces": [
+    "hearsay"
+   ]
+  },
+  {
+   "id": "kat-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "colloquial-speech",
+   "title": "Colloquial Tbilisi speech",
+   "point": "Recognise the shortened forms and habits of everyday speech and when not to write them",
+   "requires": [
+    "kat-07-08"
+   ],
+   "introduces": [
+    "colloquial"
+   ]
+  },
+  {
+   "id": "kat-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "dialects-and-family",
+   "title": "Dialects and the Kartvelian family",
+   "point": "Place the main Georgian dialects and Georgian's sister languages Mingrelian, Laz and Svan",
+   "requires": [
+    "kat-07-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "old-georgian-and-loanwords",
+   "title": "Old Georgian and the layers of loanwords",
+   "point": "Recognise Old and Middle Georgian features in older texts, and the Greek, Persian, Arabic, Turkish and Russian layers of the vocabulary",
+   "requires": [
+    "kat-07-10"
+   ],
+   "introduces": [
+    "old-georgian"
+   ]
+  },
+  {
+   "id": "kat-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "proverbs",
+   "title": "Reading 1: Proverbs",
+   "point": "Read six Georgian proverbs, each a full sentence in one or two screeves",
+   "requires": [
+    "kat-07-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "human-rights",
+   "title": "Reading 2: The Universal Declaration of Human Rights, Articles 1 to 3",
+   "point": "Read formal modern prose with passives, participles and unda",
+   "requires": [
+    "kat-08-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "tbilisi",
+   "title": "Reading 3: Tbilisi, from Georgian Wikipedia",
+   "point": "Read modern expository prose about the capital",
+   "requires": [
+    "kat-08-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "suliko",
+   "title": "Reading 4: Akaki Tsereteli, Suliko",
+   "point": "Read the best-known Georgian song lyric, with its pluperfects and quoted speech",
+   "requires": [
+    "kat-08-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "letters-of-a-traveller",
+   "title": "Reading 5: Ilia Chavchavadze, Letters of a Traveller",
+   "point": "Read the opening of a classic of 19th-century prose, with its older spellings",
+   "requires": [
+    "kat-08-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "merani",
+   "title": "Reading 6: Nikoloz Baratashvili, Merani",
+   "point": "Read a Romantic poem of 1842 full of imperatives and optatives",
+   "requires": [
+    "kat-08-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-08-07",
+   "part": 8,
+   "order": 7,
+   "slug": "rustaveli",
+   "title": "Reading 7: Shota Rustaveli, The Knight in the Panther's Skin",
+   "point": "Read two stanzas of the medieval epic and see what has changed since",
+   "requires": [
+    "kat-08-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "noun-tables",
+   "title": "Noun and pronoun tables",
+   "point": "Look up every declension pattern and pronoun",
+   "requires": [
+    "kat-08-07"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "verb-tables",
+   "title": "Screeve tables for the four verb classes",
+   "point": "Look up all eleven screeves of model verbs of each class and the irregular verbs",
+   "requires": [
+    "kat-09-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "core-vocabulary",
+   "title": "Core vocabulary",
+   "point": "Find every word taught in the guide with the lesson that introduces it",
+   "requires": [
+    "kat-09-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "glossary",
+   "title": "Glossary of terms and abbreviations",
+   "point": "Look up every grammatical term and gloss abbreviation",
+   "requires": [
+    "kat-09-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "kat-09-05",
+   "part": 9,
+   "order": 5,
+   "slug": "bibliography",
+   "title": "Annotated bibliography",
+   "point": "Know which grammars, dictionaries and corpora to use next",
+   "requires": [
+    "kat-09-04"
+   ],
+   "introduces": []
+  }
+ ]
+}

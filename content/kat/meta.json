@@ -1,0 +1,47 @@
+{
+ "name": "Georgian",
+ "endonym": "ქართული ენა (kartuli ena)",
+ "iso": "kat",
+ "number": 34,
+ "family": "Kartvelian (South Caucasian)",
+ "region": "Georgia, in the South Caucasus; also communities in Turkey, Iran (Fereydan) and Azerbaijan (Ingilo)",
+ "era": "Written since the 5th century AD; this guide teaches the modern standard literary language of the 20th and 21st centuries (Tbilisi norm)",
+ "status": "living",
+ "scripts": [
+  "Mkhedruli"
+ ],
+ "typology": {
+  "word_order": "flexible, SOV preferred",
+  "morphology": "agglutinating, with a templatic polypersonal verb",
+  "alignment": "split by tense series: nominative-accusative in series I, ergative (active) in series II, inverted (dative subject) in series III",
+  "tags": [
+   "ejective consonants",
+   "large consonant clusters",
+   "seven cases",
+   "no grammatical gender",
+   "no articles",
+   "polypersonal agreement",
+   "preverbs",
+   "version vowels",
+   "screeves and series",
+   "dative subjects",
+   "evidential perfect",
+   "vigesimal numbers",
+   "unicameral alphabet"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": false,
+ "organising_idea": "The verb is the sentence. One Georgian verb carries its subject and objects as prefixes and suffixes, its direction and completeness in a preverb, and who benefits in a version vowel; and the tense series the verb is in decides which case each noun around it takes.",
+ "hook": "In Georgian one word such as დაგიხატავს (dagixaṭavs, 'it seems you have painted it') holds a doer, a direction, an aspect, a tense and an evidential shade all at once. Change the tense and the nouns around the verb change case: the person who paints is nominative today, ergative yesterday and dative in the 'it seems' perfect. Learn how the verb is put together and the rest of the language falls into place, along with a fifteen-hundred-year literature written in one of the world's most beautiful alphabets.",
+ "difficulty": "The sounds are learnable in a week: five plain vowels, and consonants that are hard only because English has no ejectives and no word-initial clusters like მწვრთნელი (mc̣vrtneli, 'trainer'). The alphabet has 33 letters, one sound each, and no capitals. Nouns are regular. The real work is the verb: each verb belongs to one of four classes, has up to eleven tense-mood forms in three series, and its future, past and perfect often cannot be guessed from the present. Speakers of Korean or Japanese will recognise verb-final order, postpositions and a dative 'I have' construction; speakers of Spanish will recognise the dative experiencer of me gusta.",
+ "sample": {
+  "orig": "ყოველი ადამიანი იბადება თავისუფალი და თანასწორი",
+  "translit": "q̇oveli adamiani ibadeba tavisupali da tanasc̣ori",
+  "morphemes": "q̇ovel-i adamian-i i-bad-eb-a tavisupal-i da tanasc̣or-i",
+  "gloss": "every-NOM person-NOM PASS-bear-TS-3SG free-NOM and equal-NOM",
+  "translation": "Every human being is born free and equal",
+  "source": "Universal Declaration of Human Rights, Article 1 (Georgian translation, Unicode UDHR udhr_kat), first clause",
+  "confidence": "attested"
+ }
+}

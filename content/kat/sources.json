@@ -159,6 +159,12 @@
    "url": "https://doi.org/10.1515/opli-2018-0009",
    "used_for": "Open-access account of preverb meanings and their aspectual role.",
    "access": "Open access; the DOI resolver answered (HTTP 202, no content returned to the script) on 2026-11-12, so the article text was not read."
+  },
+  {
+   "id": "hewitt1995cg",
+   "citation": "Hewitt, B. G. Georgian: A Comprehensive Grammar. London: Routledge.",
+   "used_for": "Reference grammar for verifying verb forms (series, screeves, inversion verbs, irregulars), case use and syntax.",
+   "access": "Owner's own copy (547 pp., text PDF) in the private repo esaashr4f/polyglotsources. Check forms against it; do not copy text or examples."
   }
  ]
 }

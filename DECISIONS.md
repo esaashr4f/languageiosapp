@@ -47,3 +47,9 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: tur: capstone is Yunus Emre, "Aşkın aldı benden beni" (Wikisource, first copy), older endings glossed; Nâzım Hikmet ruled out (in copyright until 2033).
 - 2026-11-12: tur: Nasreddin Hoca anecdote texts on Wikisource derive from a 2010 thesis transcription; credit it when used.
 - 2026-11-12: lat: 'declension' is defined in prose in lat-02-02, before lat-03-01 (which carries the tag); lat-03-01 treats the word as known. Part 2 gloss conventions recorded in dossier section 4.
+- 2026-11-12: hbo: base is Classical Biblical Hebrew prose in Tiberian (WLC) pointing; poetry, LBH, inscriptions and Biblical Aramaic flagged and taught in part 7. Tiberian pronunciation (Khan) is the reference; Israeli pronunciation mentioned, not taught.
+- 2026-11-12: hbo: transliteration SBL academic 2nd ed. (ə for vocal shewa, spirants ḇ ḡ ḏ ḵ p̄ ṯ, vowel letters shown).
+- 2026-11-12: hbo: `orig` is pointed Hebrew, NFC, accents/meteg/paseq stripped, maqqef and sof pasuq kept; U+034F between two vowels on one letter; `morphemes` is transliteration (LTR) aligned with `gloss`. This is the right-to-left glossing rule for the renderer.
+- 2026-11-12: hbo: verb forms glossed by name (QTL, YQTL, WAYY, WQTL), not as tenses, because the tense/aspect/discourse debate is unresolved; proclitics take `=`.
+- 2026-11-12: hbo: divine name YHWH in translit, glossed Yhwh, translated "the LORD"; ketiv in orig, qere elsewhere with a note; Hebrew (MT) verse numbering.
+- 2026-11-12: hbo: capstone Genesis 1:1–2:3 (or a cut of it); readings Ruth 1, 1 Sam 3, Jonah 1, Gen 22, Deut 6:4–9, Ps 23, Qohelet 1. Wiktionary used for pointing only (it describes Modern Hebrew). WALS values are Modern Hebrew only; the Compare screen must not show them as Biblical.

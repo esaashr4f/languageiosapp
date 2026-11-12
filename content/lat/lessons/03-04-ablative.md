@@ -37,7 +37,7 @@ The endings:
 
 The plural is the dative plural again (ag1903 §38). The first-declension singular differs from the nominative only by its long vowel: *puella* has a short final *a*, *puellā* a long one (ag1903 §604).
 
-Why is the vowel long? The old ablative ended in *-d*. Early Latin writes *praidād* for later *praedā* "booty" and *Gnaivōd* for *Gnaeō* (ag1903 §§43, 49). The *-d* dropped, and the long vowel before it remained.
+The ablative was once marked by more than its vowel. The old ablative ended in *-d*: early Latin writes *praidād* for later *praedā* "booty" and *Gnaivōd* for *Gnaeō* (ag1903 §§43, 49). The *-d* dropped, and the long vowel before it remained.
 
 To say "the allies are fighting with spears":
 
@@ -202,7 +202,7 @@ preview: pronoun, third-declension plural
 
 **The "in" ablative**
 
-- **Place where**, with *in*: *in silvā*, *in templō* (ag1903 §421). Lesson 13 of this part shows where *in* is left out.
+- **Place where**, with *in*: *in silvā*, *in templō* (ag1903 §426). Lesson 13 of this part shows where *in* is left out.
 - **Time when**: "in the first hour", "at night" (ag1903 §423). Lesson 13 of this part.
 
 **The prepositions with the ablative** (ag1903 §220): *ā/ab* "from, away from; by"; *ē/ex* "out of, from"; *dē* "down from; about"; *cum* "with"; *sine* "without"; *prō* "in front of; on behalf of; instead of": *prō patriā pugnant*, "they fight for their country"; *in* "in, on" (the next lesson adds its second meaning). *Sub* "under" is in the next lesson.

@@ -1,0 +1,1552 @@
+{
+ "lang": "san",
+ "parts": [
+  {
+   "part": 0,
+   "title": "Orientation",
+   "summary": "What Sanskrit is, which Sanskrit this guide teaches, the organising idea of roots, stems, endings and joins, and how the guide prints Sanskrit."
+  },
+  {
+   "part": 1,
+   "title": "Sounds and script",
+   "summary": "The sound grid behind the alphabet, vowels and consonants with their IPA values, Devanagari built up in stages (inherent a, vowel signs, virāma, conjuncts, the special signs, numerals), and IAST and Unicode as used in the guide."
+  },
+  {
+   "part": 2,
+   "title": "The simplest sentences",
+   "summary": "Subject and verb, the object, persons and numbers including the dual, gender and agreement, the first sandhi rules, being, negation, coordination and questions, the vocative and iti."
+  },
+  {
+   "part": 3,
+   "title": "Nouns and their machinery",
+   "summary": "The remaining five cases, the a- and ā-stems complete, vowel sandhi, the pronouns, guṇa and vṛddhi, and the other stem types from i- and u-stems to consonant stems with three grades, and the irregular nouns."
+  },
+  {
+   "part": 4,
+   "title": "Verbs: the core system",
+   "summary": "Roots and present classes, the middle voice, the imperfect, prefixes, imperative and optative, consonant sandhi, the athematic classes, the past participle and passive, converb and infinitive, future, perfect, aorist and the present participles."
+  },
+  {
+   "part": 5,
+   "title": "Modifying and linking",
+   "summary": "Adjectives, pronominal adjectives, adverbs and prepositional words, linking particles, numbers, comparison, internal sandhi, and five lessons on compounds."
+  },
+  {
+   "part": 6,
+   "title": "Complex sentences",
+   "summary": "Question words and indefinites, relative and correlative clauses, reported speech with iti, purpose and cause, conditions, the gerundive, participial clauses and the locative absolute."
+  },
+  {
+   "part": 7,
+   "title": "Advanced and special topics",
+   "summary": "Causative, desiderative, intensive and denominative verbs, word formation, rare verb forms, metre, epic Sanskrit, learned styles, Vedic Sanskrit, and Pāṇini and the tradition."
+  },
+  {
+   "part": 8,
+   "title": "Reading real texts",
+   "summary": "Seven graded passages from the Hitopadeśa, the Nala episode of the Mahābhārata, the Rāmāyaṇa, the Bhagavad Gītā and Kālidāsa, ending with a capstone on the opening of the Gītā and its most famous verse."
+  },
+  {
+   "part": 9,
+   "title": "Reference",
+   "summary": "Paradigm tables for nouns, pronouns and verbs, sandhi tables, glossary of terms and abbreviations, annotated bibliography."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "san-00-01",
+   "part": 0,
+   "order": 1,
+   "slug": "what-sanskrit-is",
+   "title": "What Sanskrit is",
+   "point": "Place Sanskrit in time, space and family, and know which Sanskrit this guide teaches and why",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "san-00-02",
+   "part": 0,
+   "order": 2,
+   "slug": "roots-stems-and-joins",
+   "title": "The organising idea: roots, stems, endings and joins",
+   "point": "See how a root becomes a stem and a stem takes an ending, why vowels grow (guṇa, vṛddhi), and why words fuse at their edges (sandhi)",
+   "requires": [
+    "san-00-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-00-03",
+   "part": 0,
+   "order": 3,
+   "slug": "how-to-use-this-guide",
+   "title": "How to use this guide",
+   "point": "Read the example blocks, the transliteration toggle, the unjoined and joined forms, and the source labels",
+   "requires": [
+    "san-00-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-01",
+   "part": 1,
+   "order": 1,
+   "slug": "the-sound-grid",
+   "title": "The sound system: the grid behind the alphabet",
+   "point": "See how the Indian phoneticians ordered the sounds by place and manner, and why that order runs the whole grammar",
+   "requires": [
+    "san-00-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-02",
+   "part": 1,
+   "order": 2,
+   "slug": "vowels",
+   "title": "The vowels: length, the vocalic ṛ and the diphthongs",
+   "point": "Pronounce the vowels, hold short and long apart, say ṛ as a vowel, and tell heavy from light syllables",
+   "requires": [
+    "san-01-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-03",
+   "part": 1,
+   "order": 3,
+   "slug": "stops",
+   "title": "The stops: five places, four kinds",
+   "point": "Pronounce the 25 stops and nasals, including aspirates and retroflexes",
+   "requires": [
+    "san-01-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-04",
+   "part": 1,
+   "order": 4,
+   "slug": "other-consonants",
+   "title": "Semivowels, sibilants, h, anusvāra and visarga",
+   "point": "Pronounce y r l v, the three s-sounds, h, and the two sounds that exist only at the edges of syllables",
+   "requires": [
+    "san-01-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-05",
+   "part": 1,
+   "order": 5,
+   "slug": "consonant-letters",
+   "title": "Devanagari I: consonant letters and the inherent a",
+   "point": "Read and write the consonant letters, each of which carries an a unless told otherwise",
+   "requires": [
+    "san-01-04"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-06",
+   "part": 1,
+   "order": 6,
+   "slug": "vowel-signs",
+   "title": "Devanagari II: vowel letters and vowel signs",
+   "point": "Write any vowel at the start of a word as a letter and after a consonant as a sign",
+   "requires": [
+    "san-01-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-07",
+   "part": 1,
+   "order": 7,
+   "slug": "virama-and-conjuncts",
+   "title": "Devanagari III: virāma and conjunct consonants",
+   "point": "Kill the inherent a with virāma and read the common stacked and joined consonant clusters",
+   "requires": [
+    "san-01-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-08",
+   "part": 1,
+   "order": 8,
+   "slug": "signs-and-numerals",
+   "title": "Devanagari IV: the special signs, punctuation and numerals",
+   "point": "Read anusvāra, visarga, candrabindu, avagraha, daṇḍa, oṃ and the Devanagari digits",
+   "requires": [
+    "san-01-07"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-01-09",
+   "part": 1,
+   "order": 9,
+   "slug": "iast-unicode-and-the-page",
+   "title": "Transliteration, Unicode and how joined words are printed",
+   "point": "Transliterate Devanagari into IAST and back, type both correctly, and read a line in which words run together",
+   "requires": [
+    "san-01-08"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-02-01",
+   "part": 2,
+   "order": 1,
+   "slug": "first-sentence",
+   "title": "A first sentence: who does it and what happens",
+   "point": "Say 'the god goes' with a nominative a-stem and a third-person present verb",
+   "requires": [
+    "san-01-09"
+   ],
+   "introduces": [
+    "nominative",
+    "singular",
+    "third-person"
+   ]
+  },
+  {
+   "id": "san-02-02",
+   "part": 2,
+   "order": 2,
+   "slug": "the-object",
+   "title": "The object: the accusative",
+   "point": "Add a direct object or a goal of motion, and see why word order is free",
+   "requires": [
+    "san-02-01"
+   ],
+   "introduces": [
+    "accusative"
+   ]
+  },
+  {
+   "id": "san-02-03",
+   "part": 2,
+   "order": 3,
+   "slug": "persons-and-plural",
+   "title": "I, you, they: persons and the plural",
+   "point": "Conjugate a present verb in all persons, singular and plural, and use aham, tvam, vayam, yūyam",
+   "requires": [
+    "san-02-02"
+   ],
+   "introduces": [
+    "persons",
+    "plural"
+   ]
+  },
+  {
+   "id": "san-02-04",
+   "part": 2,
+   "order": 4,
+   "slug": "the-dual",
+   "title": "Exactly two: the dual",
+   "point": "Use the dual of verbs and of a-stem nouns for any pair",
+   "requires": [
+    "san-02-03"
+   ],
+   "introduces": [
+    "dual"
+   ]
+  },
+  {
+   "id": "san-02-05",
+   "part": 2,
+   "order": 5,
+   "slug": "gender",
+   "title": "Three genders and adjectives that agree",
+   "point": "Tell masculine, neuter and feminine a- and ā-stems apart and make an adjective agree",
+   "requires": [
+    "san-02-04"
+   ],
+   "introduces": [
+    "gender"
+   ]
+  },
+  {
+   "id": "san-02-06",
+   "part": 2,
+   "order": 6,
+   "slug": "first-sandhi",
+   "title": "Joining words I: final -ḥ and -m",
+   "point": "Join words as texts do at the commonest points: -aḥ before a consonant or vowel, and final -m",
+   "requires": [
+    "san-02-05"
+   ],
+   "introduces": [
+    "visarga-sandhi"
+   ]
+  },
+  {
+   "id": "san-02-07",
+   "part": 2,
+   "order": 7,
+   "slug": "being",
+   "title": "Being: as, and the sentence without a verb",
+   "point": "Say that something is something, with or without asti",
+   "requires": [
+    "san-02-06",
+    "san-02-03"
+   ],
+   "introduces": [
+    "copula"
+   ]
+  },
+  {
+   "id": "san-02-08",
+   "part": 2,
+   "order": 8,
+   "slug": "not-and-or-questions",
+   "title": "Not, and, or, and yes/no questions",
+   "point": "Negate with na, join with ca and vā, stress with eva and api, and ask with kim and api",
+   "requires": [
+    "san-02-07"
+   ],
+   "introduces": [
+    "question-particle",
+    "emphasis"
+   ]
+  },
+  {
+   "id": "san-02-09",
+   "part": 2,
+   "order": 9,
+   "slug": "calling-and-quoting",
+   "title": "Calling and quoting: the vocative and iti",
+   "point": "Address someone, and quote what was said or thought with iti",
+   "requires": [
+    "san-02-08"
+   ],
+   "introduces": [
+    "vocative",
+    "quotative"
+   ]
+  },
+  {
+   "id": "san-02-10",
+   "part": 2,
+   "order": 10,
+   "slug": "review",
+   "title": "Review: part 2 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-02-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-03-01",
+   "part": 3,
+   "order": 1,
+   "slug": "instrumental",
+   "title": "The instrumental: with and by",
+   "point": "Say with whom and by what means, and meet the n-to-ṇ rule",
+   "requires": [
+    "san-02-09"
+   ],
+   "introduces": [
+    "instrumental"
+   ]
+  },
+  {
+   "id": "san-03-02",
+   "part": 3,
+   "order": 2,
+   "slug": "dative",
+   "title": "The dative: to and for",
+   "point": "Say to whom something is given and what it is for",
+   "requires": [
+    "san-03-01"
+   ],
+   "introduces": [
+    "dative"
+   ]
+  },
+  {
+   "id": "san-03-03",
+   "part": 3,
+   "order": 3,
+   "slug": "ablative",
+   "title": "The ablative: from and because",
+   "point": "Say where something comes from and why",
+   "requires": [
+    "san-03-02"
+   ],
+   "introduces": [
+    "ablative"
+   ]
+  },
+  {
+   "id": "san-03-04",
+   "part": 3,
+   "order": 4,
+   "slug": "genitive",
+   "title": "The genitive: of and whose",
+   "point": "Say whose and of what, and use the genitive with verbs and adjectives",
+   "requires": [
+    "san-03-03"
+   ],
+   "introduces": [
+    "genitive"
+   ]
+  },
+  {
+   "id": "san-03-05",
+   "part": 3,
+   "order": 5,
+   "slug": "locative",
+   "title": "The locative: in, on, at and when",
+   "point": "Say where and when, and among whom",
+   "requires": [
+    "san-03-04"
+   ],
+   "introduces": [
+    "locative"
+   ]
+  },
+  {
+   "id": "san-03-06",
+   "part": 3,
+   "order": 6,
+   "slug": "a-and-aa-stems",
+   "title": "The a- and ā-stems complete",
+   "point": "Decline any masculine or neuter a-stem and feminine ā-stem in all eight cases and three numbers",
+   "requires": [
+    "san-03-05",
+    "san-02-05",
+    "san-02-04"
+   ],
+   "introduces": [
+    "a-stem-declension"
+   ]
+  },
+  {
+   "id": "san-03-07",
+   "part": 3,
+   "order": 7,
+   "slug": "vowel-sandhi",
+   "title": "Joining words II: vowel meets vowel",
+   "point": "Join and split words where a final vowel meets an initial vowel",
+   "requires": [
+    "san-03-06",
+    "san-02-06"
+   ],
+   "introduces": [
+    "vowel-sandhi"
+   ]
+  },
+  {
+   "id": "san-03-08",
+   "part": 3,
+   "order": 8,
+   "slug": "personal-pronouns",
+   "title": "I, you, we: the personal pronouns in full",
+   "point": "Use aham and tvam in all cases and numbers, including the short enclitic forms",
+   "requires": [
+    "san-03-07",
+    "san-02-03"
+   ],
+   "introduces": [
+    "enclitic-pronoun"
+   ]
+  },
+  {
+   "id": "san-03-09",
+   "part": 3,
+   "order": 9,
+   "slug": "demonstrative-sa",
+   "title": "He, she, that: sa, sā, tad and eṣa",
+   "point": "Use the demonstrative as 'that' and as 'he, she, it', and know its pronominal endings",
+   "requires": [
+    "san-03-08",
+    "san-02-05"
+   ],
+   "introduces": [
+    "demonstrative"
+   ]
+  },
+  {
+   "id": "san-03-10",
+   "part": 3,
+   "order": 10,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "san-03-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-03-11",
+   "part": 3,
+   "order": 11,
+   "slug": "vowel-grades",
+   "title": "Vowel grades: guṇa and vṛddhi",
+   "point": "Know the three grades of each vowel and predict them; see why they explain irregularity everywhere",
+   "requires": [
+    "san-03-09"
+   ],
+   "introduces": [
+    "vowel-grades"
+   ]
+  },
+  {
+   "id": "san-03-12",
+   "part": 3,
+   "order": 12,
+   "slug": "i-and-u-stems",
+   "title": "Stems in -i and -u",
+   "point": "Decline agni, mati, guru and dhenu, and see guṇa at work in their endings",
+   "requires": [
+    "san-03-11",
+    "san-03-06"
+   ],
+   "introduces": [
+    "i-u-stems"
+   ]
+  },
+  {
+   "id": "san-03-13",
+   "part": 3,
+   "order": 13,
+   "slug": "feminine-ii-and-uu-stems",
+   "title": "Feminines in -ī and -ū",
+   "point": "Decline nadī, devī and vadhū, and form feminines of nouns and adjectives",
+   "requires": [
+    "san-03-12"
+   ],
+   "introduces": [
+    "feminine-ii"
+   ]
+  },
+  {
+   "id": "san-03-14",
+   "part": 3,
+   "order": 14,
+   "slug": "r-stems",
+   "title": "Stems in -ṛ: strong and weak forms",
+   "point": "Decline pitṛ, mātṛ and dātṛ, and understand strong and weak cases",
+   "requires": [
+    "san-03-13",
+    "san-03-11"
+   ],
+   "introduces": [
+    "strong-weak-stems"
+   ]
+  },
+  {
+   "id": "san-03-15",
+   "part": 3,
+   "order": 15,
+   "slug": "consonant-stems",
+   "title": "Consonant stems with one form",
+   "point": "Decline vāc, marut and manas, and see why the stem's last consonant changes before -bh- and -su",
+   "requires": [
+    "san-03-14"
+   ],
+   "introduces": [
+    "consonant-stems"
+   ]
+  },
+  {
+   "id": "san-03-16",
+   "part": 3,
+   "order": 16,
+   "slug": "n-stems",
+   "title": "Stems in -an and -man: three grades",
+   "point": "Decline rājan, ātman, nāman and karman with their strong, middle and weakest stems",
+   "requires": [
+    "san-03-15",
+    "san-03-14"
+   ],
+   "introduces": [
+    "n-stems"
+   ]
+  },
+  {
+   "id": "san-03-17",
+   "part": 3,
+   "order": 17,
+   "slug": "vat-mat-in-stems",
+   "title": "Stems in -vat, -mat and -in",
+   "point": "Decline bhagavat and balin, and recognise 'having X' adjectives",
+   "requires": [
+    "san-03-16"
+   ],
+   "introduces": [
+    "possessive-stems"
+   ]
+  },
+  {
+   "id": "san-03-18",
+   "part": 3,
+   "order": 18,
+   "slug": "ayam-and-asau",
+   "title": "This here, that yonder: ayam, idam and asau",
+   "point": "Use the near and far demonstratives with their mixed stems",
+   "requires": [
+    "san-03-17",
+    "san-03-09"
+   ],
+   "introduces": [
+    "proximal-distal"
+   ]
+  },
+  {
+   "id": "san-03-19",
+   "part": 3,
+   "order": 19,
+   "slug": "irregular-nouns",
+   "title": "The irregular nouns",
+   "point": "Recognise the common irregular nouns: pums, strī, go, dyo, ap, path, ahan, sakhi, pati",
+   "requires": [
+    "san-03-18"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-03-20",
+   "part": 3,
+   "order": 20,
+   "slug": "review",
+   "title": "Review: part 3 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-03-19"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-04-01",
+   "part": 4,
+   "order": 1,
+   "slug": "roots-and-thematic-classes",
+   "title": "Roots and the four thematic classes",
+   "point": "Find the present stem of any class 1, 4, 6 or 10 verb from its root",
+   "requires": [
+    "san-03-19",
+    "san-03-11",
+    "san-02-03"
+   ],
+   "introduces": [
+    "present-class"
+   ]
+  },
+  {
+   "id": "san-04-02",
+   "part": 4,
+   "order": 2,
+   "slug": "middle-voice",
+   "title": "The middle voice",
+   "point": "Conjugate and understand middle verbs, and verbs used in both voices",
+   "requires": [
+    "san-04-01"
+   ],
+   "introduces": [
+    "middle"
+   ]
+  },
+  {
+   "id": "san-04-03",
+   "part": 4,
+   "order": 3,
+   "slug": "imperfect",
+   "title": "The imperfect: telling what happened",
+   "point": "Narrate the past with the augment and the secondary endings",
+   "requires": [
+    "san-04-02",
+    "san-03-07"
+   ],
+   "introduces": [
+    "augment"
+   ]
+  },
+  {
+   "id": "san-04-04",
+   "part": 4,
+   "order": 4,
+   "slug": "verbal-prefixes",
+   "title": "Verbal prefixes",
+   "point": "Recognise the twenty prefixes, see how they change a root's meaning, and place the augment after them",
+   "requires": [
+    "san-04-03"
+   ],
+   "introduces": [
+    "preverb"
+   ]
+  },
+  {
+   "id": "san-04-05",
+   "part": 4,
+   "order": 5,
+   "slug": "imperative",
+   "title": "Commands: the imperative",
+   "point": "Give orders, make requests and say 'let him', 'let us'",
+   "requires": [
+    "san-04-04"
+   ],
+   "introduces": [
+    "imperative"
+   ]
+  },
+  {
+   "id": "san-04-06",
+   "part": 4,
+   "order": 6,
+   "slug": "optative",
+   "title": "Wishes, rules and possibilities: the optative",
+   "point": "Say 'may he', 'one should' and 'he would', and read rules and advice",
+   "requires": [
+    "san-04-05"
+   ],
+   "introduces": [
+    "optative"
+   ]
+  },
+  {
+   "id": "san-04-07",
+   "part": 4,
+   "order": 7,
+   "slug": "consonant-sandhi",
+   "title": "Joining words III: final consonants",
+   "point": "Join any word ending in a consonant to the next word, and undo the join",
+   "requires": [
+    "san-04-06",
+    "san-03-07",
+    "san-02-06"
+   ],
+   "introduces": [
+    "consonant-sandhi"
+   ]
+  },
+  {
+   "id": "san-04-08",
+   "part": 4,
+   "order": 8,
+   "slug": "root-class",
+   "title": "Athematic verbs I: the root class",
+   "point": "Conjugate as, i, ad, han, brū and vid, with their strong and weak stems",
+   "requires": [
+    "san-04-07",
+    "san-03-11",
+    "san-02-07"
+   ],
+   "introduces": [
+    "athematic"
+   ]
+  },
+  {
+   "id": "san-04-09",
+   "part": 4,
+   "order": 9,
+   "slug": "reduplicating-class",
+   "title": "Athematic verbs II: the reduplicating class",
+   "point": "Conjugate dā, dhā, hu and bhī, and see reduplication as a present stem",
+   "requires": [
+    "san-04-08"
+   ],
+   "introduces": [
+    "reduplication"
+   ]
+  },
+  {
+   "id": "san-04-10",
+   "part": 4,
+   "order": 10,
+   "slug": "review-midway",
+   "title": "Review: putting it together so far",
+   "point": "Translate, build and correct sentences using everything taught up to here",
+   "requires": [
+    "san-04-09"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-04-11",
+   "part": 4,
+   "order": 11,
+   "slug": "nu-and-u-classes",
+   "title": "Athematic verbs III: the nu- and u-classes, and kṛ",
+   "point": "Conjugate śak, āp, tan and the irregular kṛ 'do, make'",
+   "requires": [
+    "san-04-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-04-12",
+   "part": 4,
+   "order": 12,
+   "slug": "naa-and-infix-classes",
+   "title": "Athematic verbs IV: the nā-class and the nasal-infix class",
+   "point": "Conjugate krī, jñā and grah, and yuj, rudh and bhid",
+   "requires": [
+    "san-04-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-04-13",
+   "part": 4,
+   "order": 13,
+   "slug": "past-participle",
+   "title": "The past participle in -ta and -na",
+   "point": "Form and use the past participle, the commonest past tense of later prose, and the active participle in -tavat",
+   "requires": [
+    "san-04-12",
+    "san-03-06"
+   ],
+   "introduces": [
+    "past-participle"
+   ]
+  },
+  {
+   "id": "san-04-14",
+   "part": 4,
+   "order": 14,
+   "slug": "passive",
+   "title": "The passive",
+   "point": "Form the present passive, put the agent in the instrumental, and read impersonal passives",
+   "requires": [
+    "san-04-13",
+    "san-03-01",
+    "san-04-02"
+   ],
+   "introduces": [
+    "passive"
+   ]
+  },
+  {
+   "id": "san-04-15",
+   "part": 4,
+   "order": 15,
+   "slug": "converb",
+   "title": "One action, then another: the converb in -tvā and -ya",
+   "point": "Chain actions with the converb, the backbone of Sanskrit narrative",
+   "requires": [
+    "san-04-14",
+    "san-04-04"
+   ],
+   "introduces": [
+    "converb"
+   ]
+  },
+  {
+   "id": "san-04-16",
+   "part": 4,
+   "order": 16,
+   "slug": "infinitive",
+   "title": "The infinitive in -tum",
+   "point": "Say 'to do' after verbs of wanting, being able and deserving, and for purpose",
+   "requires": [
+    "san-04-15"
+   ],
+   "introduces": [
+    "infinitive"
+   ]
+  },
+  {
+   "id": "san-04-17",
+   "part": 4,
+   "order": 17,
+   "slug": "future",
+   "title": "The future",
+   "point": "Form and use the s-future and the periphrastic future",
+   "requires": [
+    "san-04-16",
+    "san-04-01"
+   ],
+   "introduces": [
+    "future"
+   ]
+  },
+  {
+   "id": "san-04-18",
+   "part": 4,
+   "order": 18,
+   "slug": "perfect",
+   "title": "The perfect",
+   "point": "Form the reduplicated perfect, read it as the narrative past of the epics, and know uvāca, jagāma, babhūva, āha and veda",
+   "requires": [
+    "san-04-17",
+    "san-04-09",
+    "san-03-11"
+   ],
+   "introduces": [
+    "perfect"
+   ]
+  },
+  {
+   "id": "san-04-19",
+   "part": 4,
+   "order": 19,
+   "slug": "aorist",
+   "title": "The aorist, and mā with the injunctive",
+   "point": "Recognise the main aorist types, and forbid with mā and an unaugmented aorist",
+   "requires": [
+    "san-04-18",
+    "san-04-03",
+    "san-04-05"
+   ],
+   "introduces": [
+    "aorist",
+    "prohibitive"
+   ]
+  },
+  {
+   "id": "san-04-20",
+   "part": 4,
+   "order": 20,
+   "slug": "present-participles",
+   "title": "Present participles",
+   "point": "Form and decline the active participle in -at and the middle participle in -māna and -āna",
+   "requires": [
+    "san-04-19",
+    "san-03-17",
+    "san-04-02"
+   ],
+   "introduces": [
+    "present-participle"
+   ]
+  },
+  {
+   "id": "san-04-21",
+   "part": 4,
+   "order": 21,
+   "slug": "review",
+   "title": "Review: part 4 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-04-20"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-05-01",
+   "part": 5,
+   "order": 1,
+   "slug": "adjectives",
+   "title": "Adjectives: agreement, order and use as nouns",
+   "point": "Use adjectives of every stem type attributively, predicatively and as nouns",
+   "requires": [
+    "san-04-20",
+    "san-03-13",
+    "san-03-17"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-02",
+   "part": 5,
+   "order": 2,
+   "slug": "pronominal-adjectives",
+   "title": "All, other, one: the pronominal adjectives",
+   "point": "Decline sarva, anya, para, eka and their kind with pronominal endings",
+   "requires": [
+    "san-05-01",
+    "san-03-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-03",
+   "part": 5,
+   "order": 3,
+   "slug": "adverbs-and-prepositions",
+   "title": "Adverbs, and the words that do the work of prepositions",
+   "point": "Form adverbs from cases and suffixes, and use saha, vinā, prati, upari and others with the right case",
+   "requires": [
+    "san-05-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-04",
+   "part": 5,
+   "order": 4,
+   "slug": "linking-particles",
+   "title": "Linking particles: tu, hi, atha, tataḥ, evam",
+   "point": "Mark contrast, reason, sequence and summary between sentences",
+   "requires": [
+    "san-05-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-05",
+   "part": 5,
+   "order": 5,
+   "slug": "numerals",
+   "title": "Numbers",
+   "point": "Count, decline eka, dvi, tri and catur, and use ordinals and the higher numbers",
+   "requires": [
+    "san-05-04",
+    "san-03-12",
+    "san-03-14"
+   ],
+   "introduces": [
+    "numerals"
+   ]
+  },
+  {
+   "id": "san-05-06",
+   "part": 5,
+   "order": 6,
+   "slug": "comparison",
+   "title": "Comparison: -tara, -tama, -īyas, -iṣṭha",
+   "point": "Say bigger and biggest, and compare with the ablative",
+   "requires": [
+    "san-05-05",
+    "san-03-03"
+   ],
+   "introduces": [
+    "comparative"
+   ]
+  },
+  {
+   "id": "san-05-07",
+   "part": 5,
+   "order": 7,
+   "slug": "internal-sandhi",
+   "title": "Inside the word: internal sandhi",
+   "point": "Predict the sound changes inside words (ṣ after i, u, ṛ, k, r; ṇ after ṛ, r, ṣ; consonant clashes) that make paradigms look irregular",
+   "requires": [
+    "san-05-06",
+    "san-04-07",
+    "san-03-01"
+   ],
+   "introduces": [
+    "internal-sandhi"
+   ]
+  },
+  {
+   "id": "san-05-08",
+   "part": 5,
+   "order": 8,
+   "slug": "compounds-dependent",
+   "title": "Compounds I: what a compound is, and dependent compounds",
+   "point": "Read and build tatpuruṣa compounds, where one member depends on the other in some case",
+   "requires": [
+    "san-05-07",
+    "san-04-07"
+   ],
+   "introduces": [
+    "compound"
+   ]
+  },
+  {
+   "id": "san-05-09",
+   "part": 5,
+   "order": 9,
+   "slug": "compounds-descriptive",
+   "title": "Compounds II: descriptive and number compounds",
+   "point": "Read karmadhāraya compounds (adjective + noun, 'X like Y') and dvigu compounds",
+   "requires": [
+    "san-05-08"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-10",
+   "part": 5,
+   "order": 10,
+   "slug": "compounds-copulative",
+   "title": "Compounds III: copulative compounds",
+   "point": "Read dvandva compounds ('X and Y') and choose their number and gender",
+   "requires": [
+    "san-05-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-11",
+   "part": 5,
+   "order": 11,
+   "slug": "compounds-possessive",
+   "title": "Compounds IV: possessive compounds",
+   "point": "Read bahuvrīhi compounds, which describe something else that has X",
+   "requires": [
+    "san-05-10",
+    "san-05-09",
+    "san-05-01"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-12",
+   "part": 5,
+   "order": 12,
+   "slug": "compounds-adverbial-and-long",
+   "title": "Compounds V: adverbial compounds and long compounds",
+   "point": "Read avyayībhāva compounds and take apart a compound of many members step by step",
+   "requires": [
+    "san-05-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-05-13",
+   "part": 5,
+   "order": 13,
+   "slug": "review",
+   "title": "Review: part 5 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-05-12"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-06-01",
+   "part": 6,
+   "order": 1,
+   "slug": "question-words-and-indefinites",
+   "title": "Question words and indefinites",
+   "point": "Ask who, what, where, when, how and why, and turn each into 'someone, somewhere' with cid, cana and api",
+   "requires": [
+    "san-05-12",
+    "san-02-08",
+    "san-03-09"
+   ],
+   "introduces": [
+    "indefinite"
+   ]
+  },
+  {
+   "id": "san-06-02",
+   "part": 6,
+   "order": 2,
+   "slug": "relative-clauses",
+   "title": "Relative clauses: ya ... sa",
+   "point": "Build the Sanskrit relative sentence, where a ya- clause is picked up by a sa- word",
+   "requires": [
+    "san-06-01",
+    "san-03-09"
+   ],
+   "introduces": [
+    "relative"
+   ]
+  },
+  {
+   "id": "san-06-03",
+   "part": 6,
+   "order": 3,
+   "slug": "correlative-adverbs",
+   "title": "When, where, as, as long as: correlative pairs",
+   "point": "Use yadā–tadā, yatra–tatra, yathā–tathā, yāvat–tāvat and their kin",
+   "requires": [
+    "san-06-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-06-04",
+   "part": 6,
+   "order": 4,
+   "slug": "reported-speech",
+   "title": "Reported speech and thought with iti",
+   "point": "Report words, thoughts, names and reasons with iti, and read iti-clauses inside long sentences",
+   "requires": [
+    "san-06-03",
+    "san-02-09"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-06-05",
+   "part": 6,
+   "order": 5,
+   "slug": "purpose-and-cause",
+   "title": "Purpose and cause",
+   "point": "Say why and what for with the infinitive, dative, artham, hi, yataḥ and the ablative",
+   "requires": [
+    "san-06-04",
+    "san-04-16",
+    "san-03-02",
+    "san-03-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-06-06",
+   "part": 6,
+   "order": 6,
+   "slug": "conditionals",
+   "title": "Conditions: yadi, the optative and the conditional",
+   "point": "Build real, possible and unreal conditions",
+   "requires": [
+    "san-06-05",
+    "san-04-06",
+    "san-04-17"
+   ],
+   "introduces": [
+    "conditional"
+   ]
+  },
+  {
+   "id": "san-06-07",
+   "part": 6,
+   "order": 7,
+   "slug": "gerundive",
+   "title": "Must and should: the gerundive",
+   "point": "Form and use the future passive participle in -tavya, -anīya and -ya",
+   "requires": [
+    "san-06-06",
+    "san-04-14"
+   ],
+   "introduces": [
+    "gerundive"
+   ]
+  },
+  {
+   "id": "san-06-08",
+   "part": 6,
+   "order": 8,
+   "slug": "participle-clauses-and-absolutes",
+   "title": "Participles as clauses, and the locative absolute",
+   "point": "Read participles that stand for whole clauses, and the locative and genitive absolute",
+   "requires": [
+    "san-06-07",
+    "san-04-20",
+    "san-04-13",
+    "san-03-05"
+   ],
+   "introduces": [
+    "absolute"
+   ]
+  },
+  {
+   "id": "san-06-09",
+   "part": 6,
+   "order": 9,
+   "slug": "review",
+   "title": "Review: part 6 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-06-08"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-07-01",
+   "part": 7,
+   "order": 1,
+   "slug": "causative",
+   "title": "The causative",
+   "point": "Form and use the causative in -aya-, the periphrastic perfect, and see why class 10 looks the same",
+   "requires": [
+    "san-06-08",
+    "san-04-01",
+    "san-04-18"
+   ],
+   "introduces": [
+    "causative"
+   ]
+  },
+  {
+   "id": "san-07-02",
+   "part": 7,
+   "order": 2,
+   "slug": "desiderative",
+   "title": "The desiderative",
+   "point": "Form and use the desiderative 'want to do', and its nouns and adjectives",
+   "requires": [
+    "san-07-01",
+    "san-04-09"
+   ],
+   "introduces": [
+    "desiderative"
+   ]
+  },
+  {
+   "id": "san-07-03",
+   "part": 7,
+   "order": 3,
+   "slug": "intensive-and-denominative",
+   "title": "The intensive and the denominative",
+   "point": "Recognise intensive verbs and make verbs from nouns",
+   "requires": [
+    "san-07-02"
+   ],
+   "introduces": [
+    "intensive",
+    "denominative"
+   ]
+  },
+  {
+   "id": "san-07-04",
+   "part": 7,
+   "order": 4,
+   "slug": "primary-derivation",
+   "title": "Building nouns from roots: primary suffixes",
+   "point": "Recognise the main kṛt suffixes (-a, -ana, -ti, -tṛ, -man, -as, -tra) and the vowel grade each takes",
+   "requires": [
+    "san-07-03",
+    "san-03-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-05",
+   "part": 7,
+   "order": 5,
+   "slug": "secondary-derivation",
+   "title": "Building words from words: vṛddhi and secondary suffixes",
+   "point": "Recognise taddhita derivatives such as pāṇḍava, śaiva, -tva, -tā, -ka, -ya, -maya",
+   "requires": [
+    "san-07-04",
+    "san-03-11",
+    "san-05-08"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-06",
+   "part": 7,
+   "order": 6,
+   "slug": "rare-verb-forms",
+   "title": "Rare verb forms: the precative and others",
+   "point": "Recognise the precative, the rarer aorists and other forms met mainly in verse",
+   "requires": [
+    "san-07-05",
+    "san-04-19",
+    "san-04-06"
+   ],
+   "introduces": [
+    "precative"
+   ]
+  },
+  {
+   "id": "san-07-07",
+   "part": 7,
+   "order": 7,
+   "slug": "metre",
+   "title": "Metre: the śloka and other verse",
+   "point": "Scan a śloka and a triṣṭubh line, and see how metre bends word order and form",
+   "requires": [
+    "san-07-06"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-08",
+   "part": 7,
+   "order": 8,
+   "slug": "epic-sanskrit",
+   "title": "Epic Sanskrit and ārṣa forms",
+   "point": "Recognise what the epics do that Pāṇini's grammar does not allow, and why",
+   "requires": [
+    "san-07-07",
+    "san-04-18",
+    "san-04-19"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-09",
+   "part": 7,
+   "order": 9,
+   "slug": "learned-styles",
+   "title": "Learned styles: śāstra prose and kāvya",
+   "point": "Read the nominal style of the commentaries and the ornate style of court poetry",
+   "requires": [
+    "san-07-08",
+    "san-05-12",
+    "san-07-05"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-10",
+   "part": 7,
+   "order": 10,
+   "slug": "vedic-sanskrit",
+   "title": "Vedic Sanskrit",
+   "point": "Know what the older language has that Classical lacks: pitch accent, subjunctive, many infinitives, older forms",
+   "requires": [
+    "san-07-09"
+   ],
+   "introduces": [
+    "subjunctive"
+   ]
+  },
+  {
+   "id": "san-07-11",
+   "part": 7,
+   "order": 11,
+   "slug": "panini-and-after",
+   "title": "Pāṇini, the tradition, and Sanskrit's later life",
+   "point": "Know how Pāṇini's grammar works, read its terms in commentaries, and place Sanskrit beside Pali, the Prakrits and modern languages",
+   "requires": [
+    "san-07-10"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-07-12",
+   "part": 7,
+   "order": 12,
+   "slug": "review",
+   "title": "Review: part 7 as a whole",
+   "point": "Translate a passage and build and correct sentences using everything taught so far",
+   "requires": [
+    "san-07-11"
+   ],
+   "introduces": [],
+   "review": true
+  },
+  {
+   "id": "san-08-01",
+   "part": 8,
+   "order": 1,
+   "slug": "hitopadesha-frame",
+   "title": "Reading 1: the Hitopadeśa, frame story and verses on learning",
+   "point": "Read the opening of the Hitopadeśa (prelude verses 3–6 and the beginning of the frame story)",
+   "requires": [
+    "san-07-11",
+    "san-05-12",
+    "san-06-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-02",
+   "part": 8,
+   "order": 2,
+   "slug": "nala-1",
+   "title": "Reading 2: Nala and Damayantī, Mahābhārata 3.50.1–10",
+   "point": "Read the opening of the Nala episode, the traditional first reading in Sanskrit",
+   "requires": [
+    "san-08-01",
+    "san-04-18",
+    "san-04-03"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-03",
+   "part": 8,
+   "order": 3,
+   "slug": "nala-2",
+   "title": "Reading 3: Nala and the swan, Mahābhārata 3.50.17–27",
+   "point": "Read the swan's message, with its epic forms",
+   "requires": [
+    "san-08-02",
+    "san-07-08",
+    "san-04-15",
+    "san-04-17"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-04",
+   "part": 8,
+   "order": 4,
+   "slug": "ramayana-first-shloka",
+   "title": "Reading 4: Rāmāyaṇa 1.2.9–15, the first śloka",
+   "point": "Read the story of how Vālmīki's grief became the first verse",
+   "requires": [
+    "san-08-03",
+    "san-04-19",
+    "san-07-07"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-05",
+   "part": 8,
+   "order": 5,
+   "slug": "gita-2-19-22",
+   "title": "Reading 5: Bhagavad Gītā 2.19–22, the self that is not slain",
+   "point": "Read Kṛṣṇa's argument that the self neither kills nor is killed",
+   "requires": [
+    "san-08-04",
+    "san-04-14",
+    "san-06-02"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-06",
+   "part": 8,
+   "order": 6,
+   "slug": "raghuvamsha-1",
+   "title": "Reading 6: Kālidāsa, Raghuvaṃśa 1.1–4",
+   "point": "Read the opening of Kālidāsa's epic as a first taste of kāvya",
+   "requires": [
+    "san-08-05",
+    "san-07-09",
+    "san-05-11"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-08-07",
+   "part": 8,
+   "order": 7,
+   "slug": "capstone-gita",
+   "title": "Capstone: the Bhagavad Gītā, 1.1 and 2.47–48",
+   "point": "Read the opening question of the Gītā and its most quoted teaching, on action without attachment to its fruits",
+   "requires": [
+    "san-08-06",
+    "san-04-19",
+    "san-04-15",
+    "san-05-08"
+   ],
+   "introduces": []
+  },
+  {
+   "id": "san-09-01",
+   "part": 9,
+   "order": 1,
+   "slug": "tables-nouns-pronouns",
+   "title": "Tables: nouns, adjectives and pronouns",
+   "point": "Look up any nominal or pronominal ending",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "san-09-02",
+   "part": 9,
+   "order": 2,
+   "slug": "tables-verbs",
+   "title": "Tables: verbs and the principal parts of common roots",
+   "point": "Look up any verb form, and the main forms of the commonest roots",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "san-09-03",
+   "part": 9,
+   "order": 3,
+   "slug": "tables-sandhi",
+   "title": "Tables: sandhi",
+   "point": "Look up any external or internal sandhi join",
+   "requires": [],
+   "introduces": []
+  },
+  {
+   "id": "san-09-04",
+   "part": 9,
+   "order": 4,
+   "slug": "glossary-and-bibliography",
+   "title": "Glossary of terms and abbreviations, and annotated bibliography",
+   "point": "Look up a grammatical term or abbreviation, and find where to read further",
+   "requires": [],
+   "introduces": []
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "lessons": {
+  "san-00-01": {
+   "state": "planned"
+  },
+  "san-00-02": {
+   "state": "planned"
+  },
+  "san-00-03": {
+   "state": "planned"
+  },
+  "san-01-01": {
+   "state": "planned"
+  },
+  "san-01-02": {
+   "state": "planned"
+  },
+  "san-01-03": {
+   "state": "planned"
+  },
+  "san-01-04": {
+   "state": "planned"
+  },
+  "san-01-05": {
+   "state": "planned"
+  },
+  "san-01-06": {
+   "state": "planned"
+  },
+  "san-01-07": {
+   "state": "planned"
+  },
+  "san-01-08": {
+   "state": "planned"
+  },
+  "san-01-09": {
+   "state": "planned"
+  },
+  "san-02-01": {
+   "state": "planned"
+  },
+  "san-02-02": {
+   "state": "planned"
+  },
+  "san-02-03": {
+   "state": "planned"
+  },
+  "san-02-04": {
+   "state": "planned"
+  },
+  "san-02-05": {
+   "state": "planned"
+  },
+  "san-02-06": {
+   "state": "planned"
+  },
+  "san-02-07": {
+   "state": "planned"
+  },
+  "san-02-08": {
+   "state": "planned"
+  },
+  "san-02-09": {
+   "state": "planned"
+  },
+  "san-02-10": {
+   "state": "planned"
+  },
+  "san-03-01": {
+   "state": "planned"
+  },
+  "san-03-02": {
+   "state": "planned"
+  },
+  "san-03-03": {
+   "state": "planned"
+  },
+  "san-03-04": {
+   "state": "planned"
+  },
+  "san-03-05": {
+   "state": "planned"
+  },
+  "san-03-06": {
+   "state": "planned"
+  },
+  "san-03-07": {
+   "state": "planned"
+  },
+  "san-03-08": {
+   "state": "planned"
+  },
+  "san-03-09": {
+   "state": "planned"
+  },
+  "san-03-10": {
+   "state": "planned"
+  },
+  "san-03-11": {
+   "state": "planned"
+  },
+  "san-03-12": {
+   "state": "planned"
+  },
+  "san-03-13": {
+   "state": "planned"
+  },
+  "san-03-14": {
+   "state": "planned"
+  },
+  "san-03-15": {
+   "state": "planned"
+  },
+  "san-03-16": {
+   "state": "planned"
+  },
+  "san-03-17": {
+   "state": "planned"
+  },
+  "san-03-18": {
+   "state": "planned"
+  },
+  "san-03-19": {
+   "state": "planned"
+  },
+  "san-03-20": {
+   "state": "planned"
+  },
+  "san-04-01": {
+   "state": "planned"
+  },
+  "san-04-02": {
+   "state": "planned"
+  },
+  "san-04-03": {
+   "state": "planned"
+  },
+  "san-04-04": {
+   "state": "planned"
+  },
+  "san-04-05": {
+   "state": "planned"
+  },
+  "san-04-06": {
+   "state": "planned"
+  },
+  "san-04-07": {
+   "state": "planned"
+  },
+  "san-04-08": {
+   "state": "planned"
+  },
+  "san-04-09": {
+   "state": "planned"
+  },
+  "san-04-10": {
+   "state": "planned"
+  },
+  "san-04-11": {
+   "state": "planned"
+  },
+  "san-04-12": {
+   "state": "planned"
+  },
+  "san-04-13": {
+   "state": "planned"
+  },
+  "san-04-14": {
+   "state": "planned"
+  },
+  "san-04-15": {
+   "state": "planned"
+  },
+  "san-04-16": {
+   "state": "planned"
+  },
+  "san-04-17": {
+   "state": "planned"
+  },
+  "san-04-18": {
+   "state": "planned"
+  },
+  "san-04-19": {
+   "state": "planned"
+  },
+  "san-04-20": {
+   "state": "planned"
+  },
+  "san-04-21": {
+   "state": "planned"
+  },
+  "san-05-01": {
+   "state": "planned"
+  },
+  "san-05-02": {
+   "state": "planned"
+  },
+  "san-05-03": {
+   "state": "planned"
+  },
+  "san-05-04": {
+   "state": "planned"
+  },
+  "san-05-05": {
+   "state": "planned"
+  },
+  "san-05-06": {
+   "state": "planned"
+  },
+  "san-05-07": {
+   "state": "planned"
+  },
+  "san-05-08": {
+   "state": "planned"
+  },
+  "san-05-09": {
+   "state": "planned"
+  },
+  "san-05-10": {
+   "state": "planned"
+  },
+  "san-05-11": {
+   "state": "planned"
+  },
+  "san-05-12": {
+   "state": "planned"
+  },
+  "san-05-13": {
+   "state": "planned"
+  },
+  "san-06-01": {
+   "state": "planned"
+  },
+  "san-06-02": {
+   "state": "planned"
+  },
+  "san-06-03": {
+   "state": "planned"
+  },
+  "san-06-04": {
+   "state": "planned"
+  },
+  "san-06-05": {
+   "state": "planned"
+  },
+  "san-06-06": {
+   "state": "planned"
+  },
+  "san-06-07": {
+   "state": "planned"
+  },
+  "san-06-08": {
+   "state": "planned"
+  },
+  "san-06-09": {
+   "state": "planned"
+  },
+  "san-07-01": {
+   "state": "planned"
+  },
+  "san-07-02": {
+   "state": "planned"
+  },
+  "san-07-03": {
+   "state": "planned"
+  },
+  "san-07-04": {
+   "state": "planned"
+  },
+  "san-07-05": {
+   "state": "planned"
+  },
+  "san-07-06": {
+   "state": "planned"
+  },
+  "san-07-07": {
+   "state": "planned"
+  },
+  "san-07-08": {
+   "state": "planned"
+  },
+  "san-07-09": {
+   "state": "planned"
+  },
+  "san-07-10": {
+   "state": "planned"
+  },
+  "san-07-11": {
+   "state": "planned"
+  },
+  "san-07-12": {
+   "state": "planned"
+  },
+  "san-08-01": {
+   "state": "planned"
+  },
+  "san-08-02": {
+   "state": "planned"
+  },
+  "san-08-03": {
+   "state": "planned"
+  },
+  "san-08-04": {
+   "state": "planned"
+  },
+  "san-08-05": {
+   "state": "planned"
+  },
+  "san-08-06": {
+   "state": "planned"
+  },
+  "san-08-07": {
+   "state": "planned"
+  },
+  "san-09-01": {
+   "state": "planned"
+  },
+  "san-09-02": {
+   "state": "planned"
+  },
+  "san-09-03": {
+   "state": "planned"
+  },
+  "san-09-04": {
+   "state": "planned"
+  }
+ }
+}

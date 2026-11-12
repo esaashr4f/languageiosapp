@@ -88,6 +88,7 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - Gender on nouns appears only in lat-02-04; elsewhere only adjectives carry gender (`bon-us` `good-NOM.SG.M`).
 - Clitics: `rīdē-s=ne` `laugh-2SG=Q`; *nōnne* `nōn=ne` `not=Q`; *num* `Q` (the translation carries the expected "no"); *neque* `and.not`; *-que* `=and`. Vocab headwords -ne and -que keep their hyphen.
 - Cross-references are written "lesson N of this part" or "part N". Starred wrong forms are written in prose as `*\*form*`.
+- A noun called out on its own may be nominative, but the accusative is commoner in exclamations (ag1903 §339a). Names of towns, countries and trees are usually feminine; some town names are masculine or neuter (*Tarentum* n.; §32a).
 - *nauta* is given as m. (ag1903 §42), though Wiktionary allows m or f. Where Wiktionary and the core list disagree on a macron (sīgnum / signum), follow Wiktionary.
 
 ## 5. Major paradigms and where to check them

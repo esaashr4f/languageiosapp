@@ -148,9 +148,10 @@ orig: Ego sum ōstium.
 morphemes: ego sum ōsti-um
 gloss: 1SG be.1SG door-NOM.SG
 translation: I am the door.
-note: Jesus speaking. ego "I" is not needed, since sum already says "I". It is there for emphasis (ag1903 §295). Pronouns are taught in part 3.
+note: Jesus speaking. ego "I" is not needed, since sum already says "I". It is there for emphasis (ag1903 §295). Preview: pronouns are taught in part 3.
 source: Vulgate, John 10:9
 confidence: attested
+preview: pronoun
 :::
 
 ## Where it applies

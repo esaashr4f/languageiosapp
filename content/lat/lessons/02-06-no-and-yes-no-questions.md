@@ -84,9 +84,10 @@ orig: nōn amō tē
 morphemes: nōn am-ō tē
 gloss: not love-1SG 2SG.ACC
 translation: I do not like you.
-note: The last words of Martial's two-line poem to Sabidius. tē "you" is a pronoun in the accusative, taught in part 3.
+note: The last words of Martial's two-line poem to Sabidius. tē "you" is a pronoun in the accusative; preview, taught in part 3.
 source: Martial, Epigrams 1.32.2
 confidence: attested
+preview: pronoun
 :::
 
 :::example

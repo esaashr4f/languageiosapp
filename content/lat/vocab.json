@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 237,
+ "count": 256,
  "words": [
   {
    "headword": "pater",
@@ -826,7 +826,7 @@
    "translit": "",
    "pos": "verb",
    "meaning": "lie (be lying down)",
-   "forms": "iacēre, iacuī; no supine",
+   "forms": "iacēre, iacuī; no supine; future participle iacitūrus",
    "first_lesson": "lat-02-01",
    "confidence": "verified"
   },
@@ -1060,7 +1060,7 @@
    "translit": "",
    "pos": "verb",
    "meaning": "feel pain, grieve",
-   "forms": "dolēre, doluī",
+   "forms": "dolēre, doluī, dolitum",
    "first_lesson": "lat-02-02",
    "confidence": "verified"
   },
@@ -2133,6 +2133,177 @@
    "meaning": "sing; recite",
    "forms": "cantāre, cantāvī, cantātum",
    "first_lesson": "lat-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rēs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "thing, matter, affair",
+   "forms": "reī, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "diēs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "day",
+   "forms": "diēī, m. (sometimes f.)",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "manus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hand; band of men",
+   "forms": "manūs, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cāsus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fall; chance, accident; (in grammar) case",
+   "forms": "cāsūs, m.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōmen",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "name",
+   "forms": "nōminis, n.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "genus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "birth, family; kind; (in grammar) gender",
+   "forms": "generis, n.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lēx",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "law",
+   "forms": "lēgis, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vōx",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "voice; word",
+   "forms": "vōcis, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "labor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "toil, hard work",
+   "forms": "labōris, m.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "locus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "place",
+   "forms": "locī, m.; plural loca, n. (places), locī (passages)",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "modus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "measure; manner, way",
+   "forms": "modī, m.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fāma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "report, rumour; reputation",
+   "forms": "fāmae, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "littera",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "letter of the alphabet; (plural) a letter, literature",
+   "forms": "litterae, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sententia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "opinion; sentence",
+   "forms": "sententiae, f.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nūntius",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "messenger; message",
+   "forms": "nūntiī, m.",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pūblicus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "public, of the state",
+   "forms": "pūblica, pūblicum",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "putō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, suppose",
+   "forms": "putāre, putāvī, putātum",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mūtō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "change",
+   "forms": "mūtāre, mūtāvī, mūtātum",
+   "first_lesson": "lat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nūntiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "announce, report",
+   "forms": "nūntiāre, nūntiāvī, nūntiātum",
+   "first_lesson": "lat-03-01",
    "confidence": "verified"
   }
  ]

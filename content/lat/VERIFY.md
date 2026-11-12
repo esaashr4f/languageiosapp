@@ -55,3 +55,25 @@ Still open:
 - lat-01-04: Quintilian as the ancient statement of the stress rule not opened.
 - lat-01-01 to 01-04: allen1978 (in copyright) not opened; claims checked against ag1903 §§1–13, Wiktionary and Wikipedia citing Allen.
 - lat-01-05: Spanish Julio is probably semi-learned; kept because the claim concerns only the letter j.
+
+### Part 2 — verified 2026-11-12 by fresh subagent
+Lessons checked: lat-02-01 to lat-02-08
+Forms checked: 363   corrected: 2   left unverified: 0
+Glosses checked: 230   corrected: 0
+Attested quotations checked: 8   corrected: 0
+Claims checked: 128 (113 ag1903 section citations, each opened)   corrected or removed: 11
+Worked answers checked: 62   corrected: 2
+
+Corrections:
+- lat-02-01: earlier form *amāō* "probably" -> "perhaps" (Wiktionary, de Vaan); -ō described as the Indo-European ending of thematic verbs, not "the commonest verb type"; iaceō given its future participle iacitūrus.
+- lat-02-02: doleō supine dolitum added; nominative in exclamations softened (ag1903 §339a: the accusative is commoner).
+- lat-02-03: §35 citation moved to the prepositions only.
+- lat-02-04: names of cities, countries and trees "usually" feminine; some town names masculine or neuter (ag1903 §32a).
+- lat-02-05: short forms of sum lean on "a neighbouring word" (Wiktionary gives no direction).
+- lat-02-06 and 02-08: -ne attaches to the emphatic word, which is often (not usually) first (§332); sīc as "yes" attributed to Wiktionary, not §336.
+- lat-02-08: §599 citation placed correctly; exercise 7 reworded to match its answer.
+- Main agent, after the report: `preview: pronoun` added to the attested examples *Ego sum ōstium* (02-05) and *nōn amō tē* (02-06), whose pronouns are taught in part 3.
+
+Still open:
+- lat-02-08: Pinkster 2015 and Devine and Stephens 2006 (word order varies by author and genre) not opened; agrees with dossier §6.3.
+- lat-02-01: *ibi* written without macron; Wiktionary marks the final i as variable.

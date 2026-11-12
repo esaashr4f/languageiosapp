@@ -1315,9 +1315,9 @@
    "id": "lat-08-07",
    "part": 8,
    "order": 7,
-   "slug": "reading-vergil",
-   "title": "Reading 7: Vergil, Aeneid 1.1–11",
-   "point": "Read the opening of the Aeneid",
+   "slug": "reading-magna-carta",
+   "title": "Reading 7: Magna Carta, clauses 39 and 40",
+   "point": "Read medieval legal Latin from a document",
    "requires": [
     "lat-08-06"
    ],
@@ -1327,9 +1327,9 @@
    "id": "lat-08-08",
    "part": 8,
    "order": 8,
-   "slug": "reading-magna-carta",
-   "title": "Reading 8: Magna Carta, clauses 39 and 40",
-   "point": "Read medieval legal Latin from a document",
+   "slug": "reading-vergil",
+   "title": "Capstone: Vergil, Aeneid 1.1–11",
+   "point": "Read the opening of the Aeneid",
    "requires": [
     "lat-08-07"
    ],

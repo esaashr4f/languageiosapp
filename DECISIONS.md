@@ -37,3 +37,6 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-12: kat: Aronson 1990 read from the copy openly hosted by SEELRC; an unauthorised archive.org copy was not used. Indirect verbs, irregulars and series III forms are marked (unverified) in the dossier until checked against Aronson or Lingua.ge.
 - 2026-11-12: Lessons for pilot languages after Latin wait until the Latin exemplar is complete; their dossiers may be built in parallel.
 - 2026-11-12: `tools/preview.ts` renders lessons to a single HTML page (`docs/preview/`) so the owner can review content before the app exists; it is a review aid, not the app renderer.
+- 2026-11-12: Owner's instruction: each guide ends, where a famous text fits the learner's level, with a capstone reading of it as the last part 8 lesson; none is forced in. Added to BRIEF.md Amendments and docs/DOSSIER_BRIEF.md.
+- 2026-11-12: lat: capstone is Vergil, Aeneid 1.1–11 (now lat-08-08); Magna Carta moves to lat-08-07. Ancient Greek was already on the list (no. 73).
+- 2026-11-12: kat: Rustaveli, The Knight in the Panther's Skin (two stanzas) is already the last reading and serves as the capstone; to be confirmed as within reach when part 8 is drafted.

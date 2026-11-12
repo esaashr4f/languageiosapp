@@ -1,0 +1,46 @@
+{
+ "name": "Biblical Hebrew",
+ "endonym": "עִבְרִית",
+ "iso": "hbo",
+ "number": 82,
+ "family": "Afro-Asiatic, Semitic, Northwest Semitic, Canaanite",
+ "region": "The southern Levant: the kingdoms of Israel and Judah; later Persian Yehud",
+ "era": "Written c. 1000 to 200 BC (oldest poems perhaps earlier); the vowel pointing taught here records the reading of the Tiberian Masoretes, c. AD 750 to 950",
+ "status": "classical",
+ "scripts": [
+  "Hebrew"
+ ],
+ "typology": {
+  "word_order": "verb-first in narrative (VSO); subject-first in clauses without a finite verb and for contrast",
+  "morphology": "root-and-pattern (non-concatenative) with prefixes and suffixes",
+  "alignment": "nominative-accusative",
+  "tags": [
+   "triconsonantal roots",
+   "seven verb stems (binyanim)",
+   "construct state",
+   "definite article",
+   "definite object marker",
+   "no case endings",
+   "pronominal suffixes",
+   "verbless clauses",
+   "right-to-left script",
+   "consonantal script with added vowel points"
+  ]
+ },
+ "depth": "A",
+ "translit_optional": false,
+ "organising_idea": "Words are built from roots and patterns. A root of three consonants carries the core meaning (š-m-r 'guard'); a pattern of vowels, doubling and affixes poured over it says what kind of word it is and what job it does. Narrative is told as a chain of wayyiqtol verbs, each beginning 'and...', which carries the story forward one event at a time.",
+ "hook": "The Hebrew of Genesis to Kings tells a story with a handful of sounds: three consonants hold a meaning, and the vowels and doubling around them turn 'guard' into 'he guarded', 'they will be guarded', 'guard yourselves' or 'a guard'. Its narrative runs as one long chain of verbs each opening with 'and', the rhythm behind 'And God said, Let there be light: and there was light.' The writing is a skeleton of consonants; the dots and dashes you see under and inside the letters were added a thousand years later by scholars in Tiberias to fix how the text was read aloud, and learning to read both layers is learning how the text has been passed down.",
+ "difficulty": "For an English speaker the hard parts are the script (right to left, vowels as small marks), the root-and-pattern system, which makes words that share a root look unalike and words that share a pattern look alike, and the weak verbs whose root letters drop out. The grammar itself is lean: no cases, few endings, mostly simple clause structure. A reader with some Arabic already knows how roots, patterns, the construct state and verbless sentences work; Spanish and French help only with vocabulary that passed through biblical translation.",
+ "sample": {
+  "orig": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃",
+  "translit": "bərēʾšît bārāʾ ʾĕlōhîm ʾēt haššāmayim wəʾēt hāʾāreṣ",
+  "morphemes": "bə=rēʾšît bārāʾ ʾĕlōhîm ʾēt ha=ššāmayim wə=ʾēt hā=ʾāreṣ",
+  "gloss": "in=beginning create.QTL.3SG.M God OBJ DEF=heavens and=OBJ DEF=earth",
+  "literal": "In beginning created God the heavens and the earth.",
+  "translation": "In the beginning God created the heavens and the earth.",
+  "note": "Verb before subject; ʾēt marks a definite object; the article ha- doubles the next consonant. Whether bərēʾšît means 'in the beginning' or 'in the beginning of (when God began)' has been argued since the Middle Ages.",
+  "source": "Genesis 1:1 (Westminster Leningrad Codex via OSHB; accents omitted)",
+  "confidence": "attested"
+ }
+}

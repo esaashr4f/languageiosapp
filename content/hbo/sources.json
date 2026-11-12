@@ -1,0 +1,120 @@
+{
+ "sources": [
+  {
+   "id": "gkc1910",
+   "citation": "Gesenius, W. (1909). Gesenius' Hebrew Grammar. Ed. and enlarged by E. Kautzsch; 2nd English ed. revised by A. E. Cowley. Oxford: Clarendon Press, 1910. Wikisource transcription, one page per section.",
+   "url": "https://en.wikisource.org/wiki/Gesenius%27_Hebrew_Grammar",
+   "used_for": "Standard reference grammar in English: sounds, pointing, paradigms, syntax; section numbers cited in lessons (page /N is section N). Syllabus checked against its table of contents.",
+   "access": "Public domain; open online. Table of contents and sections 2, 5, 6, 8–10, 12, 13, 15, 16, 20–22, 26, 29, 32, 33, 35, 36, 39, 40, 44, 47–54, 58, 61, 89, 91, 93, 106, 107, 111, 112, 141, 152 opened 2026-11-12. Its paradigm appendix is not transcribed on Wikisource; use the scans (Index page) or the section text."
+  },
+  {
+   "id": "oshb",
+   "citation": "Open Scriptures Hebrew Bible (OSHB): Westminster Leningrad Codex text with lemma and morphology tagging, OSIS XML, one file per book (wlc/<Book>.xml).",
+   "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml",
+   "used_for": "Main corpus for attested examples and for checking that a pointed form exists, how often, and how it is parsed (morph codes such as HVqw3ms = Hebrew verb qal wayyiqtol 3ms).",
+   "access": "WLC text public domain; OSHB morphology CC BY 4.0 (credit the Open Scriptures Hebrew Bible Project). All 39 books downloaded and searched 2026-11-12. The github.com project page refused automated access; raw files and the README were read."
+  },
+  {
+   "id": "uxlc",
+   "citation": "Unicode/XML Leningrad Codex (UXLC), a maintained fork of the Westminster Leningrad Codex 4.20, tanach.us.",
+   "url": "https://www.tanach.us/Pages/About.html",
+   "used_for": "Second check on the wording and pointing of any quoted verse; it corrects WLC towards the codex twice a year.",
+   "access": "Open; text may be copied without restriction (site licence page)."
+  },
+  {
+   "id": "bhsa",
+   "citation": "Eep Talstra Centre for Bible and Computer (ETCBC). Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA), Text-Fabric data; SHEBANQ query interface.",
+   "url": "https://shebanq.ancient-data.org/",
+   "used_for": "Clause and phrase analysis, and corpus queries (e.g. how often a construction occurs) when OSHB morphology is not enough.",
+   "access": "SHEBANQ opened 2026-11-12; the github.com repository page refused automated access, its README was read via raw.githubusercontent.com. Data licence CC BY-NC (not re-checked)."
+  },
+  {
+   "id": "khan2020",
+   "citation": "Khan, G. (2020). The Tiberian Pronunciation Tradition of Biblical Hebrew. 2 vols. Cambridge: Open Book Publishers. https://doi.org/10.11647/OBP.0163 and OBP.0194.",
+   "url": "https://books.openedition.org/obp/16762",
+   "used_for": "Authority for how the Tiberian Masoretes actually pronounced the pointed text (consonant and vowel values, vocal shewa, the gap between the pointing and the European school pronunciation).",
+   "access": "Open access (CC BY). Landing page and abstract opened 2026-11-12; the PDF download was refused (bot check), so phonetic values are taken via wp-romanization's Tiberian column and wp-bh, which cite Khan. Claims resting on Khan are marked as such in the dossier until a chapter is opened."
+  },
+  {
+   "id": "bdb",
+   "citation": "Brown, F., Driver, S. R. and Briggs, C. A. (1906). A Hebrew and English Lexicon of the Old Testament, with an Appendix containing the Biblical Aramaic. Oxford: Clarendon Press.",
+   "url": "https://archive.org/details/hebrewenglishlex00browuoft",
+   "used_for": "Meanings, roots, attested stems of each verb; arranged by root, which suits the guide's organising idea.",
+   "access": "Public domain; scan on archive.org (opened) and digitised on Sefaria (https://www.sefaria.org/BDB, opened). Individual entries not yet looked up."
+  },
+  {
+   "id": "wiktionary",
+   "citation": "Wiktionary, the free dictionary (English edition): Hebrew entries, root pages and conjugation tables.",
+   "url": "https://en.wiktionary.org/wiki/%D7%A9%D7%9E%D7%A8",
+   "used_for": "Pointing of individual words and qal paradigms of strong verbs. Query with tools/wikt.py <unpointed word> Hebrew.",
+   "access": "Open (CC BY-SA). Its tables describe Modern Hebrew: pointing of strong-verb forms matches the Biblical paradigm, but labels ('past', 'future', 'present'), some plene spellings and many meanings are modern. Use it to check pointing, never usage."
+  },
+  {
+   "id": "sblhs2",
+   "citation": "SBL Press (2014). The SBL Handbook of Style. 2nd ed. Atlanta: SBL Press. §5.1.1 Hebrew academic transliteration; §5.1.1.3 stem names.",
+   "url": "https://www.sbl-site.org/sbl-press/browse-books/sbl-handbook-of-style/",
+   "used_for": "Transliteration scheme of the guide (academic style) and spelling of the stem names.",
+   "access": "In copyright; not opened. The academic-style table is taken from wp-romanization's SBL column; the second edition's change of vocal shewa to ə and of the stem names was confirmed from the publisher's rule-change list as quoted at https://josh.do/overpriced-sbl-handbook-of-style-2nd-ed/ (opened)."
+  },
+  {
+   "id": "wp-romanization",
+   "citation": "Wikipedia: Romanization of Hebrew (table comparing Tiberian IPA, Academy of the Hebrew Language, ISO 259 and SBL academic and general-purpose styles).",
+   "url": "https://en.wikipedia.org/wiki/Romanization_of_Hebrew",
+   "used_for": "Pointer: the SBL academic and general-purpose columns and the Tiberian IPA column (citing Khan).",
+   "access": "Open; opened 2026-11-12. A pointer, not an authority."
+  },
+  {
+   "id": "wp-bh",
+   "citation": "Wikipedia: Biblical Hebrew (phonology, history of the vowels, reading traditions) and Tiberian vocalization.",
+   "url": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
+   "used_for": "Pointer to the scholarship on the consonant inventory of the biblical period (lost uvulars, lateral ś, emphatics, date of begadkefat spirantisation) and the vowel systems of different periods.",
+   "access": "Open; opened 2026-11-12 (also https://en.wikipedia.org/wiki/Tiberian_vocalization). A pointer, not an authority."
+  },
+  {
+   "id": "unicode-hebrew",
+   "citation": "The Unicode Standard, Hebrew block U+0590–U+05FF (code chart) and Unicode Character Database canonical combining classes.",
+   "url": "https://www.unicode.org/charts/PDF/U0590.pdf",
+   "used_for": "Code points and NFC behaviour of the points (checked with Python unicodedata in this session).",
+   "access": "Open; opened 2026-11-12."
+  },
+  {
+   "id": "lambdin1971",
+   "citation": "Lambdin, T. O. (1971). Introduction to Biblical Hebrew. New York: Scribner.",
+   "used_for": "Main English teaching grammar; its lesson order is a reference for what learners need first.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "jm2006",
+   "citation": "Joüon, P. and Muraoka, T. (2006). A Grammar of Biblical Hebrew. 2nd ed. Rome: Gregorian and Biblical Press.",
+   "used_for": "Modern standard reference grammar; second authority after gkc1910 on forms and syntax.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "wo1990",
+   "citation": "Waltke, B. K. and O'Connor, M. (1990). An Introduction to Biblical Hebrew Syntax. Winona Lake: Eisenbrauns.",
+   "used_for": "Syntax, the stems, and a survey of theories of the verbal system.",
+   "access": "In copyright; not consulted."
+  },
+  {
+   "id": "glottolog",
+   "citation": "Hammarström, H., Forkel, R., Haspelmath, M. and Bank, S. Glottolog 5.4: Ancient Hebrew (anci1244).",
+   "url": "https://glottolog.org/resource/languoid/id/anci1244",
+   "used_for": "Classification: Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic.",
+   "access": "Open; opened 2026-11-12."
+  },
+  {
+   "id": "wals",
+   "citation": "Dryer, M. S. and Haspelmath, M. (eds.) (2013). The World Atlas of Language Structures Online: Hebrew (Modern) (heb).",
+   "url": "https://wals.info/languoid/lect/wals_code_heb",
+   "used_for": "Only as a contrast for the Compare screen: WALS has no Biblical Hebrew entry.",
+   "access": "Open; opened 2026-11-12. Values describe Modern Hebrew and must not be given as Biblical."
+  },
+  {
+   "id": "leipzig",
+   "citation": "Comrie, B., Haspelmath, M. and Bickel, B. (2015). The Leipzig Glossing Rules.",
+   "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+   "used_for": "Glossing conventions and abbreviations.",
+   "access": "Open; opened 2026-11-12."
+  }
+ ]
+}

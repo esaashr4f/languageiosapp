@@ -12,11 +12,18 @@ Appended at the end of each session: what was done, what failed, what to do next
 - `tools/wikt.py`: Wiktionary inflection lookup for form checks.
 - lat: dossier, sources, glossary abbreviations, syllabus of 96 lessons, meta. Part 0 (3 lessons) drafted by the main agent.
 
-**In flight when this entry was written**
-- lat part 1 (lat-01-01 to 01-05) being drafted by a subagent; lat part 0 being verified by a subagent. If the session died, check `git log` and `content/lat/lessons/` for what landed, lint it, and set `STATUS.json` to match.
+**Also done (2026-11-12)**
+- lat part 0 and part 1 verified (reports in `content/lat/VERIFY.md`). lat part 2 (8 lessons) drafted.
+- kat and tur dossiers and syllabuses done (100 lessons each). Pilot changed at the owner's request: lat, kat, tur, hbo, swh, san; thin-source languages deferred (BRIEF.md Amendments).
+- Owner's rules added (BRIEF.md Amendments): capstone famous-text reading as the last part 8 lesson where it fits; required "Where it applies" section and tempting-but-wrong uses in "Watch out" for parts 2 to 7, up to 1,800 words.
+- `tools/preview.ts` renders lessons to HTML for review (`docs/preview/`).
+- `docs/DOSSIER_BRIEF.md` added for stage 1-2 subagents.
 
-**Next**
-1. lat: when part 1 lands, review it, set STATUS, then draft part 2, verify part 1, and so on part by part (draft N+1 while verifying N). Paste each verification report into `content/lat/VERIFY.md`.
-2. After each part: `npm run build:reference -- lat`, `npm run stats`, commit, push.
-3. Glossary `terms` in `content/lat/glossary.json` is empty: fill it from the terms each drafter reports defining.
-4. Allen and Greenough section numbers are confirmed (`content/lat/ag-index.tsv`). Bennett section numbers in the dossier are still from memory.
+**Stopped by the usage limit at about 03:00 UTC on 2026-11-12** (resets 05:20 UTC). Nothing was left half-written on disk.
+
+**Next, in this order**
+1. Verify lat part 2 (fresh subagent, docs/VERIFY_BRIEF.md). Paste the report into `content/lat/VERIFY.md`; set those lessons to `verified`.
+2. Draft lat part 3 (13 lessons; docs/DRAFTING_BRIEF.md; vocab so far in `content/lat/vocab.json`; 'declension' is already defined in lat-02-02).
+3. Build the hbo dossier and syllabus (docs/DOSSIER_BRIEF.md; Tiberian pointing, transliteration choice, right-to-left glossing rule, capstone choice).
+4. Then swh and san dossiers. Lessons for kat, tur and the others wait until Latin is complete.
+5. After each part: glossary terms from the drafter's report, `npm run build:reference -- lat`, `npm run stats`, commit, push.

@@ -181,5 +181,22 @@
    "tag": "supine"
   }
  },
- "terms": {}
+ "terms": {
+  "ending": "The final, changeable piece of a word that says what job it is doing (lat-00-02).",
+  "stem": "The part of a word that stays the same while the ending changes (lat-00-02).",
+  "gloss": "The line under an example that labels each piece of each word (lat-00-02).",
+  "fusional": "Built so that one ending carries several meanings at once (lat-00-02).",
+  "restored pronunciation": "The pronunciation of educated Romans of the classical period, reconstructed from ancient evidence (lat-01-01).",
+  "macron": "A bar over a vowel marking it as long: ā (lat-01-01).",
+  "diphthong": "Two vowel sounds glided together inside one syllable, as in ae and au (lat-01-02).",
+  "stop": "A consonant made by blocking the air completely and releasing it: p, t, c, b, d, g (lat-01-03).",
+  "syllable": "A beat of a word, built round one vowel or diphthong (lat-01-03).",
+  "light syllable": "A syllable with a short vowel that is not closed by a consonant (lat-01-03).",
+  "heavy syllable": "A syllable with a long vowel or diphthong, or closed by a consonant (lat-01-03).",
+  "stress": "The extra force that makes one syllable of a word stand out (lat-01-04).",
+  "penult": "The second-from-last syllable of a word (lat-01-04).",
+  "antepenult": "The third-from-last syllable of a word (lat-01-04).",
+  "orthography": "A language's spelling system and conventions (lat-01-05).",
+  "apex": "A mark Romans sometimes wrote over a long vowel in inscriptions (lat-01-05)."
+ }
 }

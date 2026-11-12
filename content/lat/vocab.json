@@ -1,0 +1,735 @@
+{
+ "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
+ "count": 81,
+ "words": [
+  {
+   "headword": "pater",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "father",
+   "forms": "patris, m.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "māter",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mother",
+   "forms": "mātris, f.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bene",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "well",
+   "forms": "",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nēmō",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "no one",
+   "forms": "",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sine",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "without",
+   "forms": "",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prīmus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "first",
+   "forms": "prīma, prīmum",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "post",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "after, behind",
+   "forms": "",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sōl",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sun",
+   "forms": "sōlis, m.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sub",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "under",
+   "forms": "",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lūna",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "moon",
+   "forms": "lūnae, f.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "malum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "an evil, misfortune",
+   "forms": "malī, n.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mālum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "apple",
+   "forms": "mālī, n.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "os",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bone",
+   "forms": "ossis, n.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ōs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mouth, face",
+   "forms": "ōris, n.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "liber",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "book",
+   "forms": "librī, m.",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "līber",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "free",
+   "forms": "lībera, līberum",
+   "first_lesson": "lat-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Caesar",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Caesar",
+   "forms": "Caesaris, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "aurum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gold",
+   "forms": "aurī, n.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "poena",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "penalty, punishment",
+   "forms": "poenae, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "Cicerō",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Cicero",
+   "forms": "Cicerōnis, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "gēns",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "clan, family, people",
+   "forms": "gentis, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "vīnum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wine",
+   "forms": "vīnī, n.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "iam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "now, already",
+   "forms": "",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "maior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "bigger, greater",
+   "forms": "maius; genitive maiōris",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "aqua",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "water",
+   "forms": "aquae, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "lingua",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tongue, language",
+   "forms": "linguae, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "annus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "year",
+   "forms": "annī, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "anus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "old woman",
+   "forms": "anūs, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "urbs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "city",
+   "forms": "urbis, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "magnus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "big, great",
+   "forms": "magna, magnum",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "pulcher",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "beautiful",
+   "forms": "pulchra, pulchrum",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "rēx",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "king",
+   "forms": "rēgis, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "cōnsul",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "consul",
+   "forms": "cōnsulis, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "homō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "human being, person",
+   "forms": "hominis, m.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "causa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cause, reason",
+   "forms": "causae, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "longus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "long",
+   "forms": "longa, longum",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "terra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "land, earth",
+   "forms": "terrae, f.",
+   "first_lesson": "lat-01-02",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "fēmina",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "woman",
+   "forms": "fēminae, f.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "amīcus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "friend",
+   "forms": "amīcī, m.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tempus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "time",
+   "forms": "temporis, n.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mittō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "send",
+   "forms": "mittere, mīsī, missum",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saxum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rock",
+   "forms": "saxī, n.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nihil",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "nothing",
+   "forms": "indeclinable",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "patria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "homeland, native country",
+   "forms": "patriae, f.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tenebrae",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "darkness",
+   "forms": "tenebrārum, f. (plural only)",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "memoria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "memory",
+   "forms": "memoriae, f.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "imperātor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "commander, general",
+   "forms": "imperātōris, m.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "deus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "god",
+   "forms": "deī, m.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aetās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "age, time of life",
+   "forms": "aetātis, f.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "corpus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "body",
+   "forms": "corporis, n.",
+   "first_lesson": "lat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lībertās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "freedom",
+   "forms": "lībertātis, f.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "populus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "a people, nation",
+   "forms": "populī, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "senātus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "senate",
+   "forms": "senātūs, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "exercitus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "army",
+   "forms": "exercitūs, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "cōnsilium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "plan, advice",
+   "forms": "cōnsiliī, n.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "inimīcus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "personal enemy",
+   "forms": "inimīcī, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "animus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mind, spirit",
+   "forms": "animī, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "dominus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "master",
+   "forms": "dominī, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "oculus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "eye",
+   "forms": "oculī, m.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "fortūna",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fortune, luck",
+   "forms": "fortūnae, f.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "nātūra",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "nature",
+   "forms": "nātūrae, f.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "imperium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "command, power",
+   "forms": "imperiī, n.",
+   "first_lesson": "lat-01-04",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "Iūlius",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Julius (a family name)",
+   "forms": "Iūliī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vir",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "man",
+   "forms": "virī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iuvenis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "young man",
+   "forms": "iuvenis, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "servus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "slave",
+   "forms": "servī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vultus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "face, expression",
+   "forms": "vultūs, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Gāius",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Gaius (a first name)",
+   "forms": "Gāiī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Gnaeus",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Gnaeus (a first name)",
+   "forms": "Gnaeī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cēna",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dinner",
+   "forms": "cēnae, f.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "harēna",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sand",
+   "forms": "harēnae, f.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalendae",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "first day of a month",
+   "forms": "kalendārum, f. (plural only)",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Rōma",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Rome",
+   "forms": "Rōmae, f.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Rōmānus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "Roman",
+   "forms": "Rōmāna, Rōmānum",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "veniō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "come",
+   "forms": "venīre, vēnī, ventum",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "videō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "see",
+   "forms": "vidēre, vīdī, vīsum",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vincō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "conquer, win",
+   "forms": "vincere, vīcī, victum",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iūs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "right, law",
+   "forms": "iūris, n.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "via",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "road, way",
+   "forms": "viae, f.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "verbum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "word",
+   "forms": "verbī, n.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "equus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "horse",
+   "forms": "equī, m.",
+   "first_lesson": "lat-01-05",
+   "confidence": "verified"
+  }
+ ]
+}

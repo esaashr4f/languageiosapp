@@ -34,12 +34,12 @@ To turn any spelling into this guide's, take four steps.
 
 This guide's choices, and why: lower case, for ease of reading; *v* and *u* kept apart, because they are different sounds; one *i*, as in Wiktionary, the *Oxford Latin Dictionary* and most current textbooks; macrons on every long vowel, because length is part of the word.
 
-Older books choose differently. Lewis and Short's dictionary prints *j* (*jam*, *Juppiter*). Many scholarly editions, including the Oxford Classical Texts, print *u* for both sounds. Almost all real editions leave out macrons.
+Older books choose differently. Lewis and Short's dictionary prints *j* (*jam*, *Juppiter*). Many scholarly editions, including most Oxford Classical Texts, print *u* for both sounds. Almost all real editions leave out macrons.
 
 Inscriptions and manuscripts add their own habits. At this stage you need four.
 
 - **Abbreviations.** C. is the first name *Gāius* and CN. is *Gnaeus*: the letter C once stood for the sound [ɡ], and the abbreviations kept the old value. COS is *cōnsul*.
-- **Older spellings.** Until the first century AD, *o* was written instead of *u* after *v*: SERVOS for *servus*, VOLTVS for *vultus*.
+- **Older spellings.** In older Latin, *o* was written instead of *u* after *v*, and the habit was not entirely given up until the middle of the first century AD: SERVOS for *servus*, VOLTVS for *vultus*.
 - **Changes in later speech.** In the Empire *ae* came to be said as a long [ɛː], so later scribes mixed it up with *e*. *H* stopped being pronounced, so they dropped it or added it in the wrong place.
 - **Dots between words.** Many inscriptions separate words with a raised dot, not a space.
 
@@ -128,7 +128,7 @@ confidence: verified
 :::
 
 :::example
-orig: arena
+orig: arēna
 morphemes: harēna
 gloss: sand
 translation: sand, arena
@@ -214,7 +214,7 @@ French and Spanish got *j* from the same Latin consonant *i*, after its sound ha
 1. *Iūlius*, three syllables: *Iū·li·us*. The first I is before a vowel at the start of the word: consonant [j]. The first V is before a consonant: vowel *u*. The second I follows a consonant, so it is a vowel. The last V is before *s*: vowel. The macron comes from the dictionary.
 2. *Vīvus*. The first and second V each stand before a vowel at the start of a syllable: consonant *v*. The third is before *s*: vowel *u*.
 3. *Iuppiter* and *venit*. Change *j* to *i*, and the consonant *u* before a vowel to *v*. Whether the word is *venit* "comes" or *vēnit* "came" only the context tells you.
-4. *Servus*. SERVOS was the correct spelling until the first century AD. Editions normally use the later one.
+4. *Servus*. SERVOS was a correct spelling until about the middle of the first century AD. Editions normally use the later one.
 5. *Vēnī, vīdī, vīcī*: the third principal part of each verb. Every vowel is long, and the capitals give no hint of it.
 6. *VĒ·nī*, *VĪ·dī*, *VĪ·cī*. Two syllables each, so each is stressed on the first.
 7. A Roman wrote IAM. The *j* is a later printers' letter. This guide follows Wiktionary and the *Oxford Latin Dictionary* in using one *i*.

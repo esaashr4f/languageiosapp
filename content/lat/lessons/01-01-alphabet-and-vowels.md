@@ -214,7 +214,7 @@ līber | - | adjective | free | lībera, līberum
 
 ## Connections
 
-Spanish and French lost vowel length, but it left tracks. A stressed Latin short *e* or *o* usually became a double vowel in Spanish, and a long one did not: *bene* gives *bien*, but *sōl* gives *sol*. Japanese keeps a length contrast of the Latin kind, and so does Arabic (*kataba* "he wrote", *kātaba* "he corresponded with").
+Spanish and French lost vowel length, but it left tracks. A stressed Latin short *e* or *o* usually became a pair of vowels in one syllable in Spanish (*ie*, *ue*), and a long one did not: *bene* gives *bien*, but *sōl* gives *sol*. Japanese keeps a length contrast of the Latin kind, and so does Arabic (*kataba* "he wrote", *kātaba* "he corresponded with").
 
 ## Exercises
 
@@ -231,5 +231,5 @@ Spanish and French lost vowel length, but it left tracks. A stressed Latin short
 2. *Nēmō*. In [ˈneːmoː] the stress mark stands before the first syllable, so the long ō of the second syllable is unstressed. In *lūna* the long vowel is the stressed one, and *bene* has no long vowel.
 3. *Liber* [ˈlɪbɛr], "book", or *līber* [ˈliːbɛr], "free". The first has short i as in "sit". The second has long ī as in "machine". Only the context tells you which the book means.
 4. Latin *i* is never the glide of English "fine": here it is short [ɪ]. And the final *e* is not silent: it is a full [ɛ], a second syllable. The word is [ˈsɪnɛ].
-5. Any two of these. Verse: lines containing *māter* scan only if its first vowel is long. Inscriptions: stonecutters sometimes marked long vowels with a stroke. Grammarians: Romans described which vowels were long. Romance: the daughter languages treat long and short vowels differently.
+5. Any two of these. Verse: lines containing *māter* scan only if its first vowel is long. Inscriptions: stonecutters sometimes marked long vowels with a stroke. Grammarians: Romans described which vowels were long. (The Romance languages do not help here: they merged long and short *a*, though they keep the difference for the other vowels.)
 6. It was short. Stressed short *e* became *ie* in Spanish, and long *ē* stayed *e*. So Spanish confirms what the missing macron on *bene* tells you.

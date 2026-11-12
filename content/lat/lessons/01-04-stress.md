@@ -7,7 +7,7 @@ title: "Stress: the second-from-last rule"
 point: Stress any Latin word correctly from its spelling alone
 requires: [lat-01-03]
 introduces: [stress]
-confidence: uncertain
+confidence: verified
 sources: [ag1903, allen1978, wiktionary]
 ---
 
@@ -158,9 +158,9 @@ orig: populusque
 morphemes: populus=que
 gloss: people=and
 translation: and the people
-note: po·pu·LUS·que by the traditional rule. The word -que, "and", is taught later; it is shown here only for its effect on stress.
+note: po·pu·LUS·que. The word -que, "and", is taught later; it is shown here only for its effect on stress. Here lus is closed by s, so the ordinary rule and the traditional rule for -que agree.
 source: ag1903 §12a
-confidence: uncertain
+confidence: verified
 :::
 
 ## Watch out
@@ -169,9 +169,9 @@ confidence: uncertain
 
 **Stress belongs to the form, not to the word.** Latin words change their endings, and a longer form has a different penult. *Imperātor* is *im·pe·RĀ·tor*. Its form *imperātōris*, which you have seen in the word list, is *im·pe·rā·TŌ·ris*.
 
-**Words with something attached.** A few small words, such as *-que* "and", are never said alone. They are attached to the end of the word before. Ancient grammarians say the stress then falls on the syllable next to the attachment: *po·pu·LUS·que*. This is the traditional rule. Some scholars doubt that it held when that syllable was light.
+**Words with something attached.** A few small words, such as *-que* "and", are never said alone. They are attached to the end of the word before. Ancient grammarians say the stress then falls on the syllable next to the attachment: *po·pu·LUS·que*. In that word the ordinary rule gives the same result, because *lus* is heavy. The rule makes a difference only when that syllable is light: *fēmina* with *-que* becomes *fē·mi·NA·que*, not *fē·MI·na·que*. This is the traditional rule. Some scholars doubt that it held when that syllable was light.
 
-**A handful of words stress the last syllable.** They once had a further syllable and kept their stress when it was lost. *Illīc* "there" is the commonest.
+**A handful of words stress the last syllable.** They once had a further syllable and kept their stress when it was lost. *Illīc* "there" (from *illīce*) is one.
 
 ## Reference table
 
@@ -206,7 +206,7 @@ imperium | - | noun | command, power | imperiī, n.
 
 ## Connections
 
-Spanish and French kept the Latin stressed syllable and lost its unstressed neighbours. *A·MĪ·cus* gives Spanish *amigo* and French *ami*. *PO·pu·lus* gives *pueblo* and *peuple*, and *O·cu·lus* gives *ojo* and *œil*: the light penult has gone. The stress rule usually taught for Modern Standard Arabic is close to the Latin one: a heavy penult is stressed, otherwise the antepenult.
+Spanish and French kept the Latin stressed syllable and lost its unstressed neighbours. *A·MĪ·cus* gives Spanish *amigo* and French *ami*. *PO·pu·lus* gives *pueblo* and *peuple*, and *O·cu·lus* gives *ojo* and *œil*: the light penult has gone. The stress rule usually taught for Modern Standard Arabic is close to the Latin one: unless the last syllable is extra heavy, a heavy penult is stressed, otherwise the antepenult.
 
 ## Exercises
 

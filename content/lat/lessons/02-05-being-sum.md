@@ -153,13 +153,31 @@ source: Vulgate, John 10:9
 confidence: attested
 :::
 
+## Where it applies
+
+- **Linking two nouns**: *Marītus nauta est*.
+- **Linking a noun and a description**: "the girl is happy". This needs adjectives, taught in lesson 7 of this part.
+- **Stating that something exists**, usually with the verb first: *Sunt deī* (ag1903 §§284, 598).
+- **Saying where something is**, with a place word: *Hīc sunt nautae*. Phrases like "in the forest" need a preposition and a case from part 3.
+- **Saying who owns something.** Latin often says "there is a book to me" for "I have a book". The case for "to me" is taught in part 3.
+- **As a helper in other verb forms.** Some passive tenses are built from a participle and *sum*, as Wiktionary's tables of *amō* show. Part 4.
+- **Left out.** Latin sometimes drops *est* altogether, especially in exclamations and short sayings. Lesson 7 of this part has a sentence with no verb at all.
+
 ## Watch out
 
-**No accusative after *sum*.** *Nauta sum*, never *nautam sum*. Think of *sum* as an equals sign: both sides name the same thing, so both are nominative.
+**Do not put the second noun in the accusative.** *\*Marītus nautam est* treats the sailor as acted on. *Sum* is an equals sign: both sides are nominative. *Marītus nauta est*.
+
+**Do not build the present with "be".** English "I am working" tempts you to write *\*Sum labōrō*. Latin uses the plain verb: *Labōrō*.
+
+**Do not leave the verb singular because it comes first.** *\*Est nautae* has a plural subject. The verb agrees wherever it stands: *Sunt nautae*.
+
+**Do not use *stō* for Spanish *estar*.** Spanish splits "be" into *ser* and *estar*. Latin has one verb. *\*Hīc stō* for "I am here" says "I stand here". Say *Hīc sum*.
+
+**Do not use "have" for "there is".** French *il y a* and Spanish *hay* tempt you to write *\*Habet fābulam* for "there is a story". That means "he has a story". Say *Est fābula*.
+
+**Do not make "I am" like *amō*.** *\*Esō* and *\*sō* are not Latin. *Sum* keeps the old ending *-m*.
 
 **Which nominative is the subject?** In *Marītus nauta est*, either noun could in principle be the subject. Usually the subject is the one already known, and it tends to come first. Context settles the rest.
-
-**The same form, two meanings.** *Est* can link ("is") or state existence ("there is"). If there is a predicate noun, it links. If there is none, or the verb stands first, it usually states existence.
 
 **Short *e*, short stress.** The *e* of *es*, *est*, *estis* is short. *Estis* is *ES·tis* and *sumus* is *SU·mus*: two syllables, so the first is stressed.
 

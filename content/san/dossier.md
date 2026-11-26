@@ -430,3 +430,11 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Not consulted (in copyright): coulson1976, goldman2004, ruppel2017, burrow1955, cardona1997, mayrhofer1986. Anything in a lesson resting on them alone is `unverified`.
 - The Heritage engines and the DCS were reachable but not queried. The first drafter of part 3 should run a few Heritage declensions to calibrate them against Wiktionary.
 - Rendering of Devanagari conjuncts and of virāma before a space on the owner's iPhone has not been checked; record it in `docs/script-rendering.md` when it is.
+
+
+## Notes from drafting parts 0 and 1 (2026-11-26)
+
+- Introduce *deva* in san-02-01 (shown in san-00-03, not in vocab). Define "pausa" at first use in part 2 (by san-02-06 at the latest); vocab notes already use the word.
+- The joined Indian printing is shown in prose only, never in example fields. Whitney's ç, āi, āu, ṁ are written ś, ai, au, ṃ; never curly quotes for avagraha.
+- Dictionary order follows the sound grid in roman letters too (all k-words, including kṣ, before kh); where Monier-Williams files ṃ and ḥ is not yet checked.
+- san-00-01 is labelled uncertain (whether Classical Sanskrit was anyone's first language). san-01-07 exercise 3 wording could be tidied.

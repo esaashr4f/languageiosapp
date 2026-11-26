@@ -8,7 +8,7 @@ point: Say my, your, his, our and their with the possessive stem and the right c
 requires: [swh-03-09]
 introduces: [possessive]
 confidence: verified
-sources: [almasi2014, thompson2001, wiktionary]
+sources: [almasi2014, thompson2001, polome1967, wiktionary]
 ---
 
 ## The idea
@@ -40,7 +40,7 @@ Say "their houses are big".
 
 **Kin terms and friends.** Lesson 3.9 said that people take class 1 and 2 agreement. The possessive is the exception. With *rafiki* and with kin terms in class 9/10, the possessive takes the class 9 and 10 prefixes, *y-* and *z-* (Almasi and colleagues; Thompson and Schleicher): *rafiki yangu* "my friend", *rafiki zangu* "my friends", *dada yangu* "my sister", *dada zangu* "my sisters". Everything else still treats them as people: *rafiki yangu anasoma*, *dada zangu wanaishi Mombasa*.
 
-For animals the two grammars differ in wording. Almasi and colleagues limit the exception to kin terms, so animals take *w-*. Thompson and Schleicher state that every noun takes the possessive of its own class, but their own example is *mbwa wetu* "our dogs", with *w-*. Both, then, show *w-* for animals: *paka wangu* "my cat".
+For animals the sources do not agree. In the singular they all point to *w-*: Almasi and colleagues limit the exception to kin terms, and Polomé gives *ng'ombe wangu* "my cow". In the plural, Polomé gives class 10 *z-* (*ng'ombe zangu* "my cattle"), while Thompson and Schleicher's example is *mbwa wetu* "our dogs", with class 2 *w-* (although their rule says the noun's own class is used). Use *paka wangu* "my cat"; for several animals expect both *paka zangu* and *paka wangu*.
 
 **Contractions.** With some very common nouns the possessive fuses with the noun (Thompson and Schleicher; Wiktionary): *mwenzangu* "my companion, my colleague" (from *mwenzi wangu*), *mwanangu* "my child" (from *mwana wangu*), *mamangu* "my mother", *mumewe* "her husband" (from *mume wake*), *mkewe* "his wife". They mean the same as the full forms.
 

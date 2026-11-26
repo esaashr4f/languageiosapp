@@ -133,3 +133,16 @@ Worked answers checked: 110   corrected: 0
 Corrections (summary): lat-03-08 dīvīs-a gloss aligned; citations moved to the right A&G sections (§§117, 134d, 149, 310–311, 315a, 324, 345, 367, 382, 409a, 410); Romance claims corrected where words are learned borrowings (dulce, nulo, majeur, présent, amant); a real form (altiōrī) removed from a starred list; mīlia declined like animal, not mare; conjunction counts softened; recēns and frequēns treated as plain adjectives; plēnus regularly takes the genitive; lēgiōnī -> legiōnī, vide-mus -> vidē-mus; indefinite quis fem. pl. quae only; bibō given its supine bibitum; untaught words glossed in exercises (Gallī, forum).
 
 Still open: Suetonius and Gallic War subsection numbers rest on standard numbering; Plautus Mil. 885 quoted without the opening At; §158b cited for the future participle gives meaning not formation; A&G quīque vs Wiktionary quisque for the adjective (lesson follows Wiktionary).
+
+
+### Part 6 — verified 2026-11-26 by fresh subagent
+Lessons checked: lat-06-01 to lat-06-16 (with reviews 06-08, 06-16); lat-05-11 answer 18
+Forms checked: 2346   corrected: 7   left unverified: 0
+Glosses checked: 1119   corrected: 1
+Attested quotations checked: 102 (all on thelatinlibrary.com)   corrected: 12
+Claims checked: about 250 (96 A&G sections on DCC)   corrected or removed: 27
+Worked answers checked: 185   corrected: 5 (and 3 exercise prompts)
+
+Corrections (summary): Nero 49.1 not "last words"; fīet; §579 verb list and §577 wording quoted as A&G give them; unmarked omissions in Gallic War 1.53.1, 1.7.3, 3.14.3, Cat. 1.10 given ellipses; Romance "descends from" claims softened to parallels (French ne < nōn); Chrīstus, Iēsūm; usque, narrō without macrons; familiae is the ordinary genitive (old genitive familiās, §43b); "whenever" takes present or perfect for present time (§548); sī aliquis un-starred (possible but emphatic, §310b); quasi = quam + sī cited to Wiktionary; Tusc. 1.18 enim restored; review exercise 15 count fixed.
+
+Still open: Pinkster 2015 not opened (sequence "schoolbook regularisation" point rests on the dossier); several Civil War, Sallust Jug. 85 and Livy 2.1 passages cited by chapter only (no section numbers in The Latin Library); some leading connectives dropped without comment (as A&G quote them); Decidius vs A&G's Dēcidius unresolved.

@@ -198,3 +198,11 @@ Cite attested sentences as author, work, book.chapter(.section) or poem.line, e.
 - Constructed examples use only words already introduced in a `:::vocab` block (this lesson or earlier) and only grammar already introduced.
 - An example whose gloss needs a category not yet taught must carry `preview:` and say so in its note.
 - Connections worth making for this reader: Spanish and French descend from Latin (sound correspondences, survival of forms); Japanese and Korean share verb-final order and case particles doing the work of Latin endings; Arabic has case endings (-u, -a, -i) with a similar three-way core.
+
+
+## Notes from verifying part 6 (2026-11-26)
+
+- Spell Chrīstus, accusative Iēsūm (Wiktionary). Messāla in the guide (Wiktionary has Messālla; the Latin Library edition of Gallic War 1.2.1 prints Messālla). Decidius without macron for now (A&G: Dēcidius; unresolved).
+- sī/nisi aliquis is allowed but emphatic (A&G §310b): do not star it in later lessons.
+- Romance and English comparisons: say "parallel" or "recalls" unless Wiktionary gives the descent (French ne < nōn, not < nē; que < quid).
+- Mark every omission inside an attested quotation with an ellipsis, and say in the note when the edition's sentence opens with a connective left out.

@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 1347,
+ "count": 1454,
  "words": [
   {
    "headword": "pater",
@@ -12123,6 +12123,969 @@
    "meaning": "a little",
    "forms": "",
    "first_lesson": "lat-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "natō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "swim",
+   "forms": "natāre, natāvī, natātum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lūdō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "play; tease",
+   "forms": "lūdere, lūsī, lūsum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lūdus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "game; school; (plural) public games",
+   "forms": "lūdī, m.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pābulor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "forage, gather fodder",
+   "forms": "pābulārī, pābulātus sum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "frūmentor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "fetch grain",
+   "forms": "frūmentārī, frūmentātus sum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "disserō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "discuss, argue",
+   "forms": "disserere, disseruī, dissertum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dīiūdicō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "decide; distinguish",
+   "forms": "dīiūdicāre, dīiūdicāvī, dīiūdicātum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "philosophus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "philosopher",
+   "forms": "philosophī, m.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "facultās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ability; opportunity; (plural) resources",
+   "forms": "facultātis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "occāsiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "opportunity, chance",
+   "forms": "occāsiōnis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnsuētūdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "custom, habit; familiarity",
+   "forms": "cōnsuētūdinis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "opera",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "work, effort; (operam dare + dative) pay attention to",
+   "forms": "operae, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "terō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "rub, wear away; (tempus terere) waste time",
+   "forms": "terere, trīvī, trītum",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Latīnē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "in Latin",
+   "forms": "",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "libīdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "desire, passion; lust",
+   "forms": "libīdinis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cupīdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "desire, longing",
+   "forms": "cupīdinis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "exercitātiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "exercise, practice",
+   "forms": "exercitātiōnis, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "inūtilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "useless",
+   "forms": "inūtilis, inūtile",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ēloquentia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "eloquence",
+   "forms": "ēloquentiae, f.",
+   "first_lesson": "lat-07-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vēxillum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "flag, banner",
+   "forms": "vēxillī, n.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tuba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "trumpet",
+   "forms": "tubae, f.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "arcessō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "send for, summon",
+   "forms": "arcessere, arcessīvī, arcessītum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tueor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "look at; protect, look after",
+   "forms": "tuērī, tuitus sum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "reditiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "returning, return",
+   "forms": "reditiōnis, f.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adhibeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "apply, bring in, use",
+   "forms": "adhibēre, adhibuī, adhibitum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnstituō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "set up, establish; begin; train",
+   "forms": "īnstituere, īnstituī, īnstitūtum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "exigō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "drive out; demand; complete",
+   "forms": "exigere, exēgī, exāctum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "intendō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "stretch; aim; intend",
+   "forms": "intendere, intendī, intentum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dīligentia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "care, attentiveness",
+   "forms": "dīligentiae, f.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "agger",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mound, rampart; siege ramp",
+   "forms": "aggeris, m.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aedēs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "temple; (plural) house",
+   "forms": "aedis, f.",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "concurrō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "run together, rush up",
+   "forms": "concurrere, concurrī, concursum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "locō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "place; (with gerundive) contract out",
+   "forms": "locāre, locāvī, locātum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "parātus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "prepared, ready",
+   "forms": "parāta, parātum",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnsignis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "conspicuous, distinguished",
+   "forms": "īnsignis, īnsigne",
+   "first_lesson": "lat-07-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cubō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lie down, lie in bed",
+   "forms": "cubāre, cubuī, cubitum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pāscō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "feed, pasture",
+   "forms": "pāscere, pāvī, pāstum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pōtō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "drink",
+   "forms": "pōtāre, pōtāvī, pōtum or pōtātum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vīsō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "go to see, visit",
+   "forms": "vīsere, vīsī, vīsum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vāstō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lay waste, ravage",
+   "forms": "vāstāre, vāstāvī, vāstātum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "populor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "plunder, ravage",
+   "forms": "populārī, populātus sum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saltō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "dance",
+   "forms": "saltāre, saltāvī, saltātum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "memorō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "mention, relate",
+   "forms": "memorāre, memorāvī, memorātum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mīrābilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wonderful, marvellous",
+   "forms": "mīrābilis, mīrābile",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "incrēdibilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unbelievable",
+   "forms": "incrēdibilis, incrēdibile",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "horribilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "dreadful, horrible",
+   "forms": "horribilis, horribile",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "horrendus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "dreadful, terrible",
+   "forms": "horrenda, horrendum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adfābilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "approachable, easy to talk to",
+   "forms": "adfābilis, adfābile",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "foedus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "foul, ugly, disgraceful",
+   "forms": "foeda, foedum",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "foedus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "treaty, alliance",
+   "forms": "foederis, n.",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mōnstrum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "portent, omen; monster",
+   "forms": "mōnstrī, n.",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "what is right by divine law",
+   "forms": "indeclinable, n.",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nefās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sin, wickedness",
+   "forms": "indeclinable, n.",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nātū",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "by birth (maior nātū \"older\")",
+   "forms": "ablative only",
+   "first_lesson": "lat-07-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "oportet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it is right, one ought",
+   "forms": "oportēre, oportuit (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "decet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it is fitting, it becomes",
+   "forms": "decēre, decuit (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "libet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it pleases",
+   "forms": "libēre, libuit or libitum est (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pudet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it shames (mē pudet, I am ashamed)",
+   "forms": "pudēre, puduit or puditum est (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "piget",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it irks, it disgusts",
+   "forms": "pigēre, piguit or pigitum est (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "paenitet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it makes sorry (mē paenitet, I regret)",
+   "forms": "paenitēre, paenituit (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "taedet",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it wearies (mē taedet, I am tired of)",
+   "forms": "taedēre, taesum est (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "miseret",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it moves to pity (mē miseret, I pity)",
+   "forms": "miserēre, miseruit (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rēfert",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it matters, it concerns",
+   "forms": "rēferre, rētulit (impersonal)",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "videor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "seem; (vidētur) it seems good",
+   "forms": "vidērī, vīsus sum",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ēveniō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "turn out, happen",
+   "forms": "ēvenīre, ēvēnī, ēventum",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pluō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "rain (pluit, it rains)",
+   "forms": "pluere, pluit or plūvit",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tonō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "thunder",
+   "forms": "tonāre, tonuī, tonitum",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ningō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "snow (ningit, it snows)",
+   "forms": "ningere, ninxit",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pariēs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wall (of a house)",
+   "forms": "parietis, m.",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "neglegēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "careless",
+   "forms": "genitive neglegentis",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "anceps",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "two-headed; on two fronts; doubtful",
+   "forms": "genitive ancipitis",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "expediō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "free, get ready; (expedit) it is useful",
+   "forms": "expedīre, expedīvī, expedītum",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnscrībō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "write down, compose; enlist",
+   "forms": "cōnscrībere, cōnscrīpsī, cōnscrīptum",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "senectūs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "old age",
+   "forms": "senectūtis, f.",
+   "first_lesson": "lat-07-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "persevērō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "persist, persevere",
+   "forms": "persevērāre, persevērāvī, persevērātum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prīstinus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "former, of old",
+   "forms": "prīstina, prīstinum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "incommodum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "disadvantage; setback, disaster",
+   "forms": "incommodī, n.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pāgus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "district, canton; village",
+   "forms": "pāgī, m.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "imprōvīsō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "unexpectedly, by surprise",
+   "forms": "",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adorior",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "attack, set upon",
+   "forms": "adorīrī, adortus sum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēspiciō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "look down on, despise",
+   "forms": "dēspicere, dēspexī, dēspectum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tribuō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "assign, grant; attribute",
+   "forms": "tribuere, tribuī, tribūtum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nītor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lean (on), rely (on: ablative); strive",
+   "forms": "nītī, nīsus or nīxus sum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "calamitās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "disaster, misfortune",
+   "forms": "calamitātis, f.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "interneciō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "massacre, destruction",
+   "forms": "interneciōnis, f.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "contumēlia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "insult, outrage",
+   "forms": "contumēliae, f.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnscius",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "aware, conscious (of: genitive)",
+   "forms": "cōnscia, cōnscium",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "possessiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "possession, property",
+   "forms": "possessiōnis, f.",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēpōnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "put down, lay aside",
+   "forms": "dēpōnere, dēposuī, dēpositum",
+   "first_lesson": "lat-07-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "damma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "deer",
+   "forms": "dammae, f.",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "superiaciō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "throw over, spread over",
+   "forms": "superiacere, superiēcī, superiectum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pavidus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "frightened, fearful",
+   "forms": "pavida, pavidum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gracilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "slender, slim",
+   "forms": "gracilis, gracile",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "perfundō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pour over, drench",
+   "forms": "perfundere, perfūdī, perfūsum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "liquidus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "liquid, clear",
+   "forms": "liquida, liquidum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "urgeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "press, push; urge on",
+   "forms": "urgēre, ursī",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "odor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "smell, scent; (plural) perfumes",
+   "forms": "odōris, m.",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "antrum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cave, grotto",
+   "forms": "antrī, n.",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "percellō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "strike down; dismay",
+   "forms": "percellere, perculī, perculsum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Mārs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Mars, god of war; war",
+   "forms": "Mārtis, m.",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Iūnō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Juno, queen of the gods",
+   "forms": "Iūnōnis, f.",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prāvus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "crooked; depraved, wicked",
+   "forms": "prāva, prāvum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "improbus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wicked, shameless",
+   "forms": "improba, improbum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "afficiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "affect; (aliquem aliquā rē) visit someone with something",
+   "forms": "afficere, affēcī, affectum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hīberna",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "winter quarters",
+   "forms": "hībernōrum, n. (plural only)",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "redūcō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lead back",
+   "forms": "redūcere, redūxī, reductum",
+   "first_lesson": "lat-07-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ēmittō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "send out, let go",
+   "forms": "ēmittere, ēmīsī, ēmissum",
+   "first_lesson": "lat-07-06",
    "confidence": "verified"
   }
  ]

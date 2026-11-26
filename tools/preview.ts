@@ -18,7 +18,7 @@ function example(f: Record<string, string>, g: Glossary) {
   const words = mw.map((m, i) => `<span class="w"><span class="m">${esc(m)}</span><span class="g">${(gw[i] ?? "").split(/([-=])/).map((p) => (p === "-" || p === "=" ? p : glossPiece(p, g))).join("")}</span></span>`).join("");
   const label = f.confidence ?? "";
   return `<figure class="ex"><button class="dot" style="background:${DOT[label] ?? "#888"}" title="${esc(label)} · ${esc(f.source ?? "")}"></button>
-<div class="orig">${esc(f.orig ?? "")}</div>${f.translit ? `<div class="tl">${esc(f.translit)}</div>` : ""}
+<div class="orig" dir="auto">${esc(f.orig ?? "")}</div>${f.translit ? `<div class="tl">${esc(f.translit)}</div>` : ""}
 <div class="il">${words}</div>${f.literal ? `<div class="lit">Literally: ${esc(f.literal)}</div>` : ""}
 <div class="tr">${esc(f.translation ?? "")}</div><figcaption>${inline(f.note ?? "")}${f.preview ? ` <span class="pv">preview</span>` : ""}<span class="src">${esc(label)}${f.source && f.source !== label ? ` · ${esc(f.source)}` : ""}</span></figcaption></figure>`;
 }

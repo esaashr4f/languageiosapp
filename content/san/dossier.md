@@ -438,3 +438,12 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - The joined Indian printing is shown in prose only, never in example fields. Whitney's ç, āi, āu, ṁ are written ś, ai, au, ṃ; never curly quotes for avagraha.
 - Dictionary order follows the sound grid in roman letters too (all k-words, including kṣ, before kh); where Monier-Williams files ṃ and ḥ is not yet checked.
 - san-00-01 is labelled uncertain (whether Classical Sanskrit was anyone's first language). san-01-07 exercise 3 wording could be tidied.
+
+
+## Notes from drafting part 2 (2026-11-26)
+
+- Correction to §4: editions (and GRETIL) write visarga before ś and s (Whitney §172); from san-02-06 examples write -ḥ before sibilants (vīrāḥ stha, devaḥ smarati). Before san-02-06, -ḥ only at the end or before k, kh, p, ph.
+- Nouns carry gender in glosses only from san-02-05 (dvau `two.ACC.DU` before that). Particles and interjections glossed in lower case (bhoḥ `hey`, he `oh`); bhoḥ in pausa form in morphemes.
+- Introduced early with pointers to part 4: jñā (jānāti), śru (śṛṇoti) in san-02-09; √as with weak stem s- in san-02-07; class-10 pūj, cint, kath. "Ask" entered as prach (Monier-Williams).
+- Avoided until san-03-01 (n → ṇ): neuter plurals of stems with r or ṣ. Accusative plural -ān used only before p, k or vowels. Quotations with iti end in -ḥ or -m until san-03-07.
+- Attested lines used: ahiṃsā paramo dharmaḥ (Hitopadeśa 1, prose after verse 1.64) in 02-07 and the 02-10 review; MBh 3.50.1 (also in san-00-03). Hitopadeśa prose is cited as "prose after verse X".

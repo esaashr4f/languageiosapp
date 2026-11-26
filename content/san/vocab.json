@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 99,
+ "count": 262,
  "words": [
   {
    "headword": "कण्ठ",
@@ -891,6 +891,1473 @@
    "meaning": "fixed, firm, strong",
    "forms": "dṛḍha, f. dṛḍhā",
    "first_lesson": "san-01-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "देव",
+   "translit": "deva",
+   "pos": "noun",
+   "meaning": "god",
+   "forms": "m., a-stem; NOM.SG devaḥ",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "बाल",
+   "translit": "bāla",
+   "pos": "noun",
+   "meaning": "boy, child",
+   "forms": "m., a-stem; also adj. \"young\" (f. bālā)",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नृप",
+   "translit": "nṛpa",
+   "pos": "noun",
+   "meaning": "king",
+   "forms": "m., a-stem; literally \"protector of men\"",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "शिष्य",
+   "translit": "śiṣya",
+   "pos": "noun",
+   "meaning": "pupil, disciple",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मृग",
+   "translit": "mṛga",
+   "pos": "noun",
+   "meaning": "deer; wild animal",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "काक",
+   "translit": "kāka",
+   "pos": "noun",
+   "meaning": "crow",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सर्प",
+   "translit": "sarpa",
+   "pos": "noun",
+   "meaning": "snake",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वृक्ष",
+   "translit": "vṛkṣa",
+   "pos": "noun",
+   "meaning": "tree",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "गम्",
+   "translit": "gam",
+   "pos": "verb",
+   "meaning": "go",
+   "forms": "root, class 1, active; gacchati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पश्",
+   "translit": "paś",
+   "pos": "verb",
+   "meaning": "see",
+   "forms": "root, class 4, active; paśyati; present only, other tenses from √dṛś",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पत्",
+   "translit": "pat",
+   "pos": "verb",
+   "meaning": "fall; fly",
+   "forms": "root, class 1, active; patati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पा",
+   "translit": "pā",
+   "pos": "verb",
+   "meaning": "drink",
+   "forms": "root, class 1, active; pibati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "खाद्",
+   "translit": "khād",
+   "pos": "verb",
+   "meaning": "eat, chew",
+   "forms": "root, class 1, active; khādati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "क्रीड्",
+   "translit": "krīḍ",
+   "pos": "verb",
+   "meaning": "play",
+   "forms": "root, class 1, active; krīḍati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "जीव्",
+   "translit": "jīv",
+   "pos": "verb",
+   "meaning": "live, be alive",
+   "forms": "root, class 1, active; jīvati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वद्",
+   "translit": "vad",
+   "pos": "verb",
+   "meaning": "speak, say",
+   "forms": "root, class 1, active; vadati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "स्था",
+   "translit": "sthā",
+   "pos": "verb",
+   "meaning": "stand, stay",
+   "forms": "root, class 1, active; tiṣṭhati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "चर्",
+   "translit": "car",
+   "pos": "verb",
+   "meaning": "move, walk, wander; graze",
+   "forms": "root, class 1, active; carati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वस्",
+   "translit": "vas",
+   "pos": "verb",
+   "meaning": "live, dwell",
+   "forms": "root, class 1, active; vasati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "धाव्",
+   "translit": "dhāv",
+   "pos": "verb",
+   "meaning": "run",
+   "forms": "root, class 1, active; dhāvati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "हस्",
+   "translit": "has",
+   "pos": "verb",
+   "meaning": "laugh",
+   "forms": "root, class 1, active; hasati",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अत्र",
+   "translit": "atra",
+   "pos": "adverb",
+   "meaning": "here",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तत्र",
+   "translit": "tatra",
+   "pos": "adverb",
+   "meaning": "there",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अद्य",
+   "translit": "adya",
+   "pos": "adverb",
+   "meaning": "today",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सदा",
+   "translit": "sadā",
+   "pos": "adverb",
+   "meaning": "always",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ग्राम",
+   "translit": "grāma",
+   "pos": "noun",
+   "meaning": "village",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "गृह",
+   "translit": "gṛha",
+   "pos": "noun",
+   "meaning": "house, home",
+   "forms": "n. (Vedic also m.), a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मार्ग",
+   "translit": "mārga",
+   "pos": "noun",
+   "meaning": "road, path, way",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पुस्तक",
+   "translit": "pustaka",
+   "pos": "noun",
+   "meaning": "book, manuscript",
+   "forms": "m. or n., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "क्षीर",
+   "translit": "kṣīra",
+   "pos": "noun",
+   "meaning": "milk",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अन्न",
+   "translit": "anna",
+   "pos": "noun",
+   "meaning": "food; boiled rice",
+   "forms": "n., a-stem; from √ad \"eat\"",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "चोर",
+   "translit": "cora",
+   "pos": "noun",
+   "meaning": "thief",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "व्याघ्र",
+   "translit": "vyāghra",
+   "pos": "noun",
+   "meaning": "tiger",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पर्वत",
+   "translit": "parvata",
+   "pos": "noun",
+   "meaning": "mountain, hill",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "समुद्र",
+   "translit": "samudra",
+   "pos": "noun",
+   "meaning": "sea, ocean",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मास",
+   "translit": "māsa",
+   "pos": "noun",
+   "meaning": "month",
+   "forms": "m., a-stem; ACC.SG māsam \"for a month\"",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नी",
+   "translit": "nī",
+   "pos": "verb",
+   "meaning": "lead, guide",
+   "forms": "root, class 1, active; nayati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "रक्ष्",
+   "translit": "rakṣ",
+   "pos": "verb",
+   "meaning": "protect, guard",
+   "forms": "root, class 1, active; rakṣati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "त्यज्",
+   "translit": "tyaj",
+   "pos": "verb",
+   "meaning": "leave, abandon",
+   "forms": "root, class 1, active; tyajati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "स्मृ",
+   "translit": "smṛ",
+   "pos": "verb",
+   "meaning": "remember",
+   "forms": "root, class 1, active; smarati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "लिख्",
+   "translit": "likh",
+   "pos": "verb",
+   "meaning": "write; scratch",
+   "forms": "root, class 6, active; likhati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पठ्",
+   "translit": "paṭh",
+   "pos": "verb",
+   "meaning": "read aloud, recite",
+   "forms": "root, class 1, active; paṭhati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पच्",
+   "translit": "pac",
+   "pos": "verb",
+   "meaning": "cook",
+   "forms": "root, class 1, active; pacati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "हृ",
+   "translit": "hṛ",
+   "pos": "verb",
+   "meaning": "carry, take away, steal",
+   "forms": "root, class 1, active; harati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वह्",
+   "translit": "vah",
+   "pos": "verb",
+   "meaning": "carry, convey",
+   "forms": "root, class 1, active; vahati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "प्रछ्",
+   "translit": "prach",
+   "pos": "verb",
+   "meaning": "ask",
+   "forms": "root, class 6, active; pṛcchati; person and thing asked in the accusative",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "इष्",
+   "translit": "iṣ",
+   "pos": "verb",
+   "meaning": "wish, want",
+   "forms": "root, class 6, active; icchati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "स्पृश्",
+   "translit": "spṛś",
+   "pos": "verb",
+   "meaning": "touch",
+   "forms": "root, class 6, active; spṛśati",
+   "first_lesson": "san-02-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अहम्",
+   "translit": "aham",
+   "pos": "pronoun",
+   "meaning": "I",
+   "forms": "1SG.NOM; other forms in san-03-08",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "त्वम्",
+   "translit": "tvam",
+   "pos": "pronoun",
+   "meaning": "you (one person)",
+   "forms": "2SG.NOM",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वयम्",
+   "translit": "vayam",
+   "pos": "pronoun",
+   "meaning": "we",
+   "forms": "1PL.NOM",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "यूयम्",
+   "translit": "yūyam",
+   "pos": "pronoun",
+   "meaning": "you (several)",
+   "forms": "2PL.NOM",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ब्राह्मण",
+   "translit": "brāhmaṇa",
+   "pos": "noun",
+   "meaning": "brahmin, member of the priestly class",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "आचार्य",
+   "translit": "ācārya",
+   "pos": "noun",
+   "meaning": "teacher",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मनुष्य",
+   "translit": "manuṣya",
+   "pos": "noun",
+   "meaning": "human being, person",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "विहग",
+   "translit": "vihaga",
+   "pos": "noun",
+   "meaning": "bird",
+   "forms": "m., a-stem; literally \"sky-goer\"",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पण्डित",
+   "translit": "paṇḍita",
+   "pos": "noun",
+   "meaning": "scholar, learned man",
+   "forms": "m., a-stem; also adj. \"learned\"",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "जि",
+   "translit": "ji",
+   "pos": "verb",
+   "meaning": "conquer, win",
+   "forms": "root, class 1, active; jayati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तॄ",
+   "translit": "tṝ",
+   "pos": "verb",
+   "meaning": "cross",
+   "forms": "root, class 1, active; tarati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "रुह्",
+   "translit": "ruh",
+   "pos": "verb",
+   "meaning": "climb; grow",
+   "forms": "root, class 1, active; rohati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "यज्",
+   "translit": "yaj",
+   "pos": "verb",
+   "meaning": "worship, sacrifice to",
+   "forms": "root, class 1, active; yajati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "शुच्",
+   "translit": "śuc",
+   "pos": "verb",
+   "meaning": "grieve, mourn",
+   "forms": "root, class 1, active; śocati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पूज्",
+   "translit": "pūj",
+   "pos": "verb",
+   "meaning": "honour, worship",
+   "forms": "root, class 10, active; pūjayati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "चिन्त्",
+   "translit": "cint",
+   "pos": "verb",
+   "meaning": "think, reflect on",
+   "forms": "root, class 10, active; cintayati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "क्षिप्",
+   "translit": "kṣip",
+   "pos": "verb",
+   "meaning": "throw",
+   "forms": "root, class 6, active; kṣipati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "दह्",
+   "translit": "dah",
+   "pos": "verb",
+   "meaning": "burn",
+   "forms": "root, class 1, active; dahati",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "इदानीम्",
+   "translit": "idānīm",
+   "pos": "adverb",
+   "meaning": "now",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "आवाम्",
+   "translit": "āvām",
+   "pos": "pronoun",
+   "meaning": "we two",
+   "forms": "1DU.NOM; also ACC \"us two\"",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "युवाम्",
+   "translit": "yuvām",
+   "pos": "pronoun",
+   "meaning": "you two",
+   "forms": "2DU.NOM; also ACC \"you two\"",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "द्वि",
+   "translit": "dvi",
+   "pos": "numeral",
+   "meaning": "two",
+   "forms": "dual only; with a-stem masculines dvau",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "उभ",
+   "translit": "ubha",
+   "pos": "adjective",
+   "meaning": "both",
+   "forms": "dual only; with a-stem masculines ubhau",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पाद",
+   "translit": "pāda",
+   "pos": "noun",
+   "meaning": "foot; quarter of a verse",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कर्ण",
+   "translit": "karṇa",
+   "pos": "noun",
+   "meaning": "ear",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वीर",
+   "translit": "vīra",
+   "pos": "noun",
+   "meaning": "hero, brave man",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "योध",
+   "translit": "yodha",
+   "pos": "noun",
+   "meaning": "warrior, fighter",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कुमार",
+   "translit": "kumāra",
+   "pos": "noun",
+   "meaning": "boy, youth; prince",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "हंस",
+   "translit": "haṃsa",
+   "pos": "noun",
+   "meaning": "goose, swan",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नम्",
+   "translit": "nam",
+   "pos": "verb",
+   "meaning": "bow, bow to",
+   "forms": "root, class 1, active; namati; the one bowed to in the accusative",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ध्यै",
+   "translit": "dhyai",
+   "pos": "verb",
+   "meaning": "think of, meditate on",
+   "forms": "root, class 1, active; dhyāyati",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भ्रम्",
+   "translit": "bhram",
+   "pos": "verb",
+   "meaning": "wander, roam",
+   "forms": "root, class 1, active; bhramati (also class 4 bhrāmyati)",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "घ्रा",
+   "translit": "ghrā",
+   "pos": "verb",
+   "meaning": "smell",
+   "forms": "root, class 1, active; jighrati",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अर्च्",
+   "translit": "arc",
+   "pos": "verb",
+   "meaning": "praise, honour",
+   "forms": "root, class 1, active; arcati",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कृष्",
+   "translit": "kṛṣ",
+   "pos": "verb",
+   "meaning": "drag, pull; plough",
+   "forms": "root, class 1, active; karṣati",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सर्वत्र",
+   "translit": "sarvatra",
+   "pos": "adverb",
+   "meaning": "everywhere",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कन्या",
+   "translit": "kanyā",
+   "pos": "noun",
+   "meaning": "girl, daughter",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सेना",
+   "translit": "senā",
+   "pos": "noun",
+   "meaning": "army",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भार्या",
+   "translit": "bhāryā",
+   "pos": "noun",
+   "meaning": "wife",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "लता",
+   "translit": "latā",
+   "pos": "noun",
+   "meaning": "creeper, vine",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "माला",
+   "translit": "mālā",
+   "pos": "noun",
+   "meaning": "garland, wreath",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कथा",
+   "translit": "kathā",
+   "pos": "noun",
+   "meaning": "story, talk",
+   "forms": "f., ā-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "प्रजा",
+   "translit": "prajā",
+   "pos": "noun",
+   "meaning": "offspring; subjects (of a king)",
+   "forms": "f., ā-stem; often plural prajāḥ",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मित्र",
+   "translit": "mitra",
+   "pos": "noun",
+   "meaning": "friend",
+   "forms": "n. in Classical Sanskrit (Vedic m.), a-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पुष्प",
+   "translit": "puṣpa",
+   "pos": "noun",
+   "meaning": "flower",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वस्त्र",
+   "translit": "vastra",
+   "pos": "noun",
+   "meaning": "cloth, garment",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मुख",
+   "translit": "mukha",
+   "pos": "noun",
+   "meaning": "mouth, face",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "प्रिय",
+   "translit": "priya",
+   "pos": "adjective",
+   "meaning": "dear, beloved",
+   "forms": "priya, f. priyā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नव",
+   "translit": "nava",
+   "pos": "adjective",
+   "meaning": "new, fresh, young",
+   "forms": "nava, f. navā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वृद्ध",
+   "translit": "vṛddha",
+   "pos": "adjective",
+   "meaning": "old; grown",
+   "forms": "vṛddha, f. vṛddhā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "दीर्घ",
+   "translit": "dīrgha",
+   "pos": "adjective",
+   "meaning": "long",
+   "forms": "dīrgha, f. dīrghā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मधुर",
+   "translit": "madhura",
+   "pos": "adjective",
+   "meaning": "sweet, pleasant",
+   "forms": "madhura, f. madhurā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "शुभ",
+   "translit": "śubha",
+   "pos": "adjective",
+   "meaning": "beautiful, auspicious, good",
+   "forms": "śubha, f. śubhā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अल्प",
+   "translit": "alpa",
+   "pos": "adjective",
+   "meaning": "small, little, few",
+   "forms": "alpa, f. alpā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "रम्य",
+   "translit": "ramya",
+   "pos": "adjective",
+   "meaning": "pleasant, delightful",
+   "forms": "ramya, f. ramyā",
+   "first_lesson": "san-02-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "इह",
+   "translit": "iha",
+   "pos": "adverb",
+   "meaning": "here",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नाम",
+   "translit": "nāma",
+   "pos": "adverb",
+   "meaning": "by name, named",
+   "forms": "indeclinable (accusative of nāman \"name\")",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मेघ",
+   "translit": "megha",
+   "pos": "noun",
+   "meaning": "cloud",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "चन्द्र",
+   "translit": "candra",
+   "pos": "noun",
+   "meaning": "moon",
+   "forms": "m., a-stem; also adj. \"shining\"",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "दूत",
+   "translit": "dūta",
+   "pos": "noun",
+   "meaning": "messenger, envoy",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "दुष्ट",
+   "translit": "duṣṭa",
+   "pos": "adjective",
+   "meaning": "wicked, corrupt",
+   "forms": "duṣṭa, f. duṣṭā",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "उत्तम",
+   "translit": "uttama",
+   "pos": "adjective",
+   "meaning": "highest, best",
+   "forms": "uttama, f. uttamā",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सद्",
+   "translit": "sad",
+   "pos": "verb",
+   "meaning": "sit; sink, despair",
+   "forms": "root, class 1, active; sīdati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "गै",
+   "translit": "gai",
+   "pos": "verb",
+   "meaning": "sing",
+   "forms": "root, class 1, active; gāyati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नृत्",
+   "translit": "nṛt",
+   "pos": "verb",
+   "meaning": "dance",
+   "forms": "root, class 4, active; nṛtyati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "विश्",
+   "translit": "viś",
+   "pos": "verb",
+   "meaning": "enter",
+   "forms": "root, class 6, active; viśati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नश्",
+   "translit": "naś",
+   "pos": "verb",
+   "meaning": "perish, be lost",
+   "forms": "root, class 4, active; naśyati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तुष्",
+   "translit": "tuṣ",
+   "pos": "verb",
+   "meaning": "be pleased, be content",
+   "forms": "root, class 4, active; tuṣyati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भज्",
+   "translit": "bhaj",
+   "pos": "verb",
+   "meaning": "share; resort to; worship",
+   "forms": "root, class 1, active; bhajati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "निन्द्",
+   "translit": "nind",
+   "pos": "verb",
+   "meaning": "blame, find fault with",
+   "forms": "root, class 1, active; nindati",
+   "first_lesson": "san-02-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अस्",
+   "translit": "as",
+   "pos": "verb",
+   "meaning": "be, exist",
+   "forms": "root, class 2, active; asti, santi (weak stem s-)",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भू",
+   "translit": "bhū",
+   "pos": "verb",
+   "meaning": "become, be, arise",
+   "forms": "root, class 1, active; bhavati",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अहिंसा",
+   "translit": "ahiṃsā",
+   "pos": "noun",
+   "meaning": "non-violence, not harming",
+   "forms": "f., ā-stem; a- \"not\" + hiṃsā \"injury\"",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "आचार",
+   "translit": "ācāra",
+   "pos": "noun",
+   "meaning": "conduct, good conduct, custom",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "आनन्द",
+   "translit": "ānanda",
+   "pos": "noun",
+   "meaning": "joy, bliss",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "क्षत्रिय",
+   "translit": "kṣatriya",
+   "pos": "noun",
+   "meaning": "member of the warrior class",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भृत्य",
+   "translit": "bhṛtya",
+   "pos": "noun",
+   "meaning": "servant",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "राज्य",
+   "translit": "rājya",
+   "pos": "noun",
+   "meaning": "kingdom, kingship",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पुण्य",
+   "translit": "puṇya",
+   "pos": "adjective",
+   "meaning": "good, virtuous, holy",
+   "forms": "puṇya, f. puṇyā; as n., merit",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "पाप",
+   "translit": "pāpa",
+   "pos": "adjective",
+   "meaning": "bad, wicked, evil",
+   "forms": "pāpa, f. pāpā; as n., evil, sin",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "परम",
+   "translit": "parama",
+   "pos": "adjective",
+   "meaning": "highest, supreme",
+   "forms": "parama, f. paramā",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मूर्ख",
+   "translit": "mūrkha",
+   "pos": "adjective",
+   "meaning": "foolish, stupid",
+   "forms": "mūrkha, f. mūrkhā; as m., a fool",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कृश",
+   "translit": "kṛśa",
+   "pos": "adjective",
+   "meaning": "thin, lean, weak",
+   "forms": "kṛśa, f. kṛśā",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "स्थूल",
+   "translit": "sthūla",
+   "pos": "adjective",
+   "meaning": "stout, thick, big",
+   "forms": "sthūla, f. sthūlā",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "नित्य",
+   "translit": "nitya",
+   "pos": "adjective",
+   "meaning": "constant, eternal",
+   "forms": "nitya, f. nityā",
+   "first_lesson": "san-02-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "न",
+   "translit": "na",
+   "pos": "particle",
+   "meaning": "not",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "च",
+   "translit": "ca",
+   "pos": "particle",
+   "meaning": "and",
+   "forms": "indeclinable, enclitic; after the word it adds",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वा",
+   "translit": "vā",
+   "pos": "particle",
+   "meaning": "or",
+   "forms": "indeclinable, enclitic; after the word it offers",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "एव",
+   "translit": "eva",
+   "pos": "particle",
+   "meaning": "just, only, the very (EMPH)",
+   "forms": "indeclinable; after the word stressed",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "अपि",
+   "translit": "api",
+   "pos": "particle",
+   "meaning": "also, even; (first in a sentence) Q",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "किम्",
+   "translit": "kim",
+   "pos": "particle",
+   "meaning": "Q: yes/no question, often expecting \"no\"",
+   "forms": "indeclinable here; also \"what\" (part 6)",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तु",
+   "translit": "tu",
+   "pos": "particle",
+   "meaning": "but, however",
+   "forms": "indeclinable; never first (mw1899)",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "सहसा",
+   "translit": "sahasā",
+   "pos": "adverb",
+   "meaning": "suddenly",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "शीघ्र",
+   "translit": "śīghra",
+   "pos": "adjective",
+   "meaning": "quick, swift",
+   "forms": "śīghra, f. śīghrā; ACC.SG.N śīghram \"quickly\"",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "दूर",
+   "translit": "dūra",
+   "pos": "adjective",
+   "meaning": "far, distant",
+   "forms": "dūra, f. dūrā; ACC.SG.N dūram \"far\"",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "चिर",
+   "translit": "cira",
+   "pos": "adjective",
+   "meaning": "long-lasting",
+   "forms": "cira, f. cirā; ACC.SG.N ciram \"for a long time\"",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "बुध्",
+   "translit": "budh",
+   "pos": "verb",
+   "meaning": "wake, be awake; notice, understand",
+   "forms": "root, class 1, active; bodhati",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "क्रुध्",
+   "translit": "krudh",
+   "pos": "verb",
+   "meaning": "be angry",
+   "forms": "root, class 4, active; krudhyati",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ज्वल्",
+   "translit": "jval",
+   "pos": "verb",
+   "meaning": "blaze, burn brightly",
+   "forms": "root, class 1, active; jvalati",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तप्",
+   "translit": "tap",
+   "pos": "verb",
+   "meaning": "be hot, shine, heat; practise austerity",
+   "forms": "root, class 1, active; tapati",
+   "first_lesson": "san-02-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "इति",
+   "translit": "iti",
+   "pos": "particle",
+   "meaning": "thus (QUOT: closes a quotation or thought)",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "भोस्",
+   "translit": "bhos",
+   "pos": "interjection",
+   "meaning": "hey, ho, O",
+   "forms": "indeclinable; bhoḥ at a pause and before voiceless sounds, bho before voiced ones",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "हे",
+   "translit": "he",
+   "pos": "interjection",
+   "meaning": "O, ho",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "एवम्",
+   "translit": "evam",
+   "pos": "adverb",
+   "meaning": "thus, so, in this way",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "तथा",
+   "translit": "tathā",
+   "pos": "adverb",
+   "meaning": "so, in that way, likewise",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "मृषा",
+   "translit": "mṛṣā",
+   "pos": "adverb",
+   "meaning": "falsely, in vain",
+   "forms": "indeclinable",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कथ्",
+   "translit": "kath",
+   "pos": "verb",
+   "meaning": "tell, relate",
+   "forms": "root, class 10, active; kathayati",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ज्ञा",
+   "translit": "jñā",
+   "pos": "verb",
+   "meaning": "know",
+   "forms": "root, class 9, active; jānāti, jānanti (class taught in part 4)",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "श्रु",
+   "translit": "śru",
+   "pos": "verb",
+   "meaning": "hear, listen",
+   "forms": "root, class 5, active; śṛṇoti, śṛṇvanti (class taught in part 4)",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "प्रश्न",
+   "translit": "praśna",
+   "pos": "noun",
+   "meaning": "question",
+   "forms": "m., a-stem; from √prach",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "उत्तर",
+   "translit": "uttara",
+   "pos": "noun",
+   "meaning": "answer, reply",
+   "forms": "n., a-stem; also adj. \"upper, northern, later\"",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "वत्स",
+   "translit": "vatsa",
+   "pos": "noun",
+   "meaning": "calf; (voc.) my dear child",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "आर्य",
+   "translit": "ārya",
+   "pos": "noun",
+   "meaning": "noble or honourable man",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "श्लोक",
+   "translit": "śloka",
+   "pos": "noun",
+   "meaning": "verse; the śloka metre",
+   "forms": "m., a-stem",
+   "first_lesson": "san-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "कारण",
+   "translit": "kāraṇa",
+   "pos": "noun",
+   "meaning": "cause, reason",
+   "forms": "n., a-stem",
+   "first_lesson": "san-02-09",
    "confidence": "verified"
   }
  ]

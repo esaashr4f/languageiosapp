@@ -22,7 +22,7 @@ This is **indirect statement**, also called reported speech or, with the Latin t
 
 Where does it come from? Allen and Greenough explain it from the plain object (ag1903 §577). In *videō hominem venīre*, "I see the man coming", *hominem* was once only the object of *videō*, and *venīre* completed the sense. In time the object "came to be regarded as, and in fact to all intents became, the subject of the infinitive". They add that the construction is "a comparatively late form of speech", developed only in Latin and Greek, perhaps separately in each (§577).
 
-It is used much more widely than English "that". Allen and Greenough list the verbs that take it (ag1903 §579 footnote): of **knowing** (*sciō*, *cognōscō*), **thinking** (*putō*, *exīstimō*, *arbitror*, *crēdō*), **telling** (*dīcō*, *nūntiō*, *negō*, *prōmittō*), and **perceiving** (*sentiō*, *videō*, *audiō*). Also verbs of **hoping, promising, threatening and swearing**, where English uses a plain infinitive: "he promises to come" is *prōmittit sē ventūrum esse*, "he promises himself to be about to come" (ag1903 §580c).
+It is used much more widely than English "that". Allen and Greenough list the verbs that take it (ag1903 §579 footnote): of **knowing** (*sciō*, *cognōscō*), **thinking** (*putō*, *exīstimō*, *arbitror*), **telling** (*dīcō*, *nūntiō*, *polliceor*, *prōmittō*), and **perceiving** (*sentiō*, *comperiō*, *videō*, *audiō*). Also verbs of **hoping, promising, threatening and swearing**, where English uses a plain infinitive: "he promises to come" is *prōmittit sē ventūrum esse*, "he promises himself to be about to come" (ag1903 §580c).
 
 To report statements about the past and the future, Latin needs infinitives for those times. Part 4 taught two infinitives, the present active *amāre* and the present passive *amārī*. This lesson completes the set of six.
 
@@ -186,7 +186,7 @@ orig: Domine, videō quia prophēta es tū.
 morphemes: domin-e vide-ō quia prophēt-a es tū
 gloss: lord-VOC.SG see-1SG that prophet-NOM.SG be.2SG 2SG.NOM
 translation: Sir, I see that you are a prophet.
-note: The Samaritan woman. Late Latin, not classical: quia with the indicative replaces the accusative and infinitive. This is the ancestor of Spanish que and French que clauses.
+note: The Samaritan woman. Late Latin, not classical: quia with the indicative replaces the accusative and infinitive. Clauses of this late type, with a conjunction and a finite verb, are the forerunners of Spanish and French que clauses; the word que itself comes from quid, which took over the jobs of quod and quia (Wiktionary).
 source: Vulgate, John 4:19
 confidence: attested
 :::
@@ -274,7 +274,7 @@ prophēta | - | noun | prophet | prophētae, m.
 
 ## Connections
 
-Spanish and French report with *que* + a finite verb, the type that replaced the accusative and infinitive in late Latin, as in the Vulgate's *videō quia prophēta es*. Classical Latin's accusative and infinitive survives in English "I believe him to be honest" and in Spanish *lo vi venir*, French *je l'ai vu venir* "I saw him come", after verbs of seeing. Japanese and Korean report with a quoting particle (*to*, *-go*) after a full clause, closer to the Spanish type.
+Spanish and French report with *que* + a finite verb, the type that replaced the accusative and infinitive in late Latin, as in the Vulgate's *videō quia prophēta es*. Classical Latin's accusative and infinitive has parallels in English "I believe him to be honest" and in Spanish *lo vi venir*, French *je l'ai vu venir* "I saw him come", after verbs of seeing. Japanese and Korean report with a quoting particle (*to*, *-go*) after a full clause, closer to the Spanish type.
 
 ## Exercises
 

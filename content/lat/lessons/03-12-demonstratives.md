@@ -23,7 +23,7 @@ The same division works in time and in thought. *Hic* is what is present or just
 
 Like *is*, all five can stand beside a noun as adjectives (*hic liber* "this book") or alone as pronouns (*hic* "this man") (ag1903 §296). All agree with their noun in gender, number and case. Spanish and Japanese divide space in the same three ways: *este*, *ese*, *aquel*; これ, それ, あれ.
 
-The forms explain themselves once you see how the words were built. Allen and Greenough explain that *hic* is an old stem *ho-* with a pointing particle *-ce*, "here", most of which wore away: *hunc* was once *hum-ce*, and the *-c* of *hic*, *haec*, *hoc*, *huic* is what is left of it (ag1903 §146). *Ipse* is *is* plus a particle *-pse*; *īdem* is *is* plus *-dem*, so *īdem* declines *is* and keeps *-dem* unchanged: *eundem*, *eōdem*, with *m* turned into *n* before *d* (ag1903 §146). *Ille* replaced an older *ollus* (ag1903 §146).
+The forms explain themselves once you see how the words were built. Allen and Greenough explain that *hic* is an old stem *ho-* with a pointing particle *-ce*, "here", most of which wore away: *hunc* is an accusative *hum* with the particle (the fuller *hunce* is also found), and the *-c* of *hic*, *haec*, *hoc*, *huic* is what is left of it (ag1903 §146). *Ipse* is *is* plus a particle *-pse*; *īdem* is *is* plus *-dem*, so *īdem* declines *is* and keeps *-dem* unchanged: *eundem*, *eōdem*, with *m* turned into *n* before *d* (ag1903 §146). *Ille* replaced an older *ollus* (ag1903 §146).
 
 ## How it is built
 

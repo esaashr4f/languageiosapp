@@ -19,7 +19,7 @@ The most common Turkish phrase you will say is a verb in a tense you have not me
 
 *Ederim* is *et-* "do" in the **aorist**. The aorist is the fourth tense of slot 5. Its main jobs are habits, general truths, willingness and promises: what someone does as a rule, or is prepared to do, rather than what is going on now. Its meaning is the subject of the next lesson. This lesson is about its form, which is the least regular thing in the Turkish verb.
 
-The name is a borrowing from Greek grammar, where it means something else, and it fits Turkish poorly. Wiktionary's headword lines call the same form the "simple present". This guide keeps "aorist", the usual name in grammars of Turkish (dossier; goksel2005 §8.2.3.3).
+The name is a borrowing from Greek grammar, where it means something else, and it fits Turkish poorly. Wiktionary's headword lines call the same form the "simple present". This guide keeps "aorist", the name used in grammars of Turkish such as Göksel and Kerslake's (goksel2005 §8.2.3.3).
 
 **Three shapes.** The suffix is *-r* after a vowel and either ***-Ar*** (*-ar*, *-er*) or ***-Ir*** (*-ır*, *-ir*, *-ur*, *-ür*) after a consonant. Göksel and Kerslake give the distribution (goksel2005 §8.2.3.3):
 
@@ -28,7 +28,7 @@ The name is a borrowing from Greek grammar, where it means something else, and i
 3. **Consonant-final stems of one syllable** take *-Ar*: *yap-ar*, *bak-ar*, *iç-er*, *sev-er*, *git-* → *gid-er*, *et-* → *ed-er*, *gül-er*, *sor-ar*.
 4. **Except thirteen** one-syllable stems, which take *-Ir*: *al-*, *bil-*, *bul-*, *dur-*, *gel-*, *gör-*, *kal-*, *ol-*, *öl-*, *san-*, *var-*, *ver-*, *vur-*: *alır*, *bilir*, *bulur*, *durur*, *gelir*, *görür*, *kalır*, *olur*, *ölür*, *sanır*, *varır*, *verir*, *vurur*.
 
-Twelve of the thirteen end in *l* or *r*; *san-* "suppose" is the odd one out. Göksel and Kerslake note that among the forty-odd one-syllable stems ending in *l* or *r*, which suffix a stem takes is unpredictable (goksel2005 §8.2.3.3): *gel-ir* but *gül-er*, *vur-ur* but *sor-ar*, *dur-ur* but *kır-ar*. The sources used here give no reason for the list. Learn the thirteen as a set. This is why the dictionaries and this guide's vocabulary notes give every verb's aorist (dossier §4).
+Twelve of the thirteen end in *l* or *r*; *san-* "suppose" is the odd one out. Göksel and Kerslake note that among the forty-odd one-syllable stems ending in *l* or *r*, which suffix a stem takes is unpredictable (goksel2005 §8.2.3.3): *gel-ir* but *gül-er*, *vur-ur* but *sor-ar*, *dur-ur* but *kır-ar*. The sources used here give no reason for the list. Learn the thirteen as a set. This is why dictionaries, and this guide's vocabulary notes, give the aorist of every verb.
 
 *Ol-* "be, become" is on the list; you will meet it properly in tur-04-16.
 
@@ -126,7 +126,7 @@ orig: Mehmet çok konuşur.
 morphemes: Mehmet çok konuş-ur
 gloss: Mehmet a.lot speak-AOR
 translation: Mehmet talks a lot.
-note: Two syllables, consonant at the end: -Ir, rounded after o... u: -ur.
+note: Two syllables, consonant at the end: -Ir, which is -ur after the u of konuş-.
 source: constructed
 confidence: constructed
 :::
@@ -210,7 +210,7 @@ This lesson covers the form; tur-04-06 maps the meanings in full. In brief, you 
 
 **Do not stress the ending.** *\*Gelirím*, *\*ederím*: the stress stays on the aorist: *gelírim*, *edérim*.
 
-**Do not translate English "I think" with düşünmek.** *Düşünüyorum* is "I am thinking (about something)". For an opinion, use *sanırım* "I suppose" (or other ways in tur-06-12): *\*Düşünürüm yarın gelir* is wrong; *Sanırım yarın gelir.*
+**Do not use the aorist of düşünmek for "I think".** *Düşünürüm* is "I (usually) think about it" or "I'll think about it", not an opinion. *\*Düşünürüm yarın gelir* is wrong. For a quick opinion use *sanırım* "I suppose": *Sanırım yarın gelir.* Longer ways to say "I think that" come in part 6.
 
 **Do not use the aorist for what is happening right now.** *\*Şimdi kitap okurum* for "I am reading a book now" is wrong. Göksel and Kerslake state that the aorist never expresses progressive aspect (goksel2005 §21.3.2). Use *Şimdi kitap okuyorum.*
 

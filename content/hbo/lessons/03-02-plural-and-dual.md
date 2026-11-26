@@ -32,7 +32,7 @@ The dual is the remains of a wider system. Arabic still has duals in nouns, pron
 ### Step 1: choose the ending
 
 1. **A masculine noun:** add stressed *-îm*. *sûs* → *sûsîm*. A word ending in *-eh* drops it: *śāḏeh* "field" → *śāḏôṯ* (this word takes *-ôṯ*), *ḥōzeh* "seer" → *ḥōzîm* (§87b). A word in *-î* usually contracts: *ʿiḇrî* → *ʿiḇrîm* "Hebrews" (§87a).
-2. **A feminine noun in *-â*:** replace the *-â* with *-ôṯ*. *mišpāḥâ* → *mišpāḥôṯ*. **In *-eṯ*:** replace it too: *ʾiggereṯ* "letter" → *ʾiggərôṯ* (§87i). **A feminine without an ending:** add *-ôṯ*: *bəʾēr* → *bəʾērôṯ* "wells".
+2. **A feminine noun in *-â*:** replace the *-â* with *-ôṯ*. *mišpāḥâ* → *mišpāḥôṯ*. **In *-eṯ*:** replace it too: *ʾiggereṯ* "letter" → *ʾiggərôṯ* (§87i). **A feminine without an ending:** add *-ôṯ*: *bəʾēr* → *bəʾērōṯ* "wells" (written without the *w*).
 3. **A dual:** add *-ayim*. A feminine adds it to the old *-aṯ*, which becomes *-āṯ-*: *śāp̄â* "lip" → *śəp̄āṯayim* "both lips", *šānâ* → *šənāṯayim* "two years", *ʾammâ* "cubit" → *ʾammāṯayim* "two cubits" (§88a).
 
 The *-ôṯ* is often written without its *w*: קֹלֹת for *qōlôṯ*. The transliteration then shows *ō*: *qōlōṯ*. It is the same ending. The same goes for *-îm* written ־ִם (§87a).
@@ -54,7 +54,7 @@ The same happens in *dāḇār* → *dəḇārîm* "words" and *zāqēn* → *z�
 
 The adjective follows the noun's **gender**, not its ending, and uses the plural for a dual. To say "the great lights":
 
-1. The noun *māʾôr* "light, lamp" is masculine (BDB "n.m."); its plural is *məʾōrôṯ*.
+1. The noun *māʾôr* "light, lamp" is masculine (BDB "n.m."); its plural is *məʾōrōṯ*.
 2. The adjective must be masculine plural: *gəḏōlîm*.
 3. Both take the article (lesson 2.2): *hamməʾōrōṯ haggəḏōlîm*. The endings do not match, and that is correct.
 
@@ -194,11 +194,11 @@ preview: CSTR
 ## Where it applies
 
 - **Ordinary plurals** of countable things: *dəḇārîm*, *ʿārîm*, *qōlôṯ*.
-- **Both endings on one noun.** Some nouns have two plurals with the same gender, such as *dôr* "generation", *dôrîm* and *dôrôṯ* (§87m).
+- **Both endings on one noun.** Some nouns have two plurals with the same gender, such as *dôr* "generation", *dôrîm* and *dōrôṯ* (§87m).
 - **Different endings, different senses.** With body parts the dual is the living pair, and the plural in *-ôṯ* something shaped like them: *yāḏayim* "hands", *yāḏôṯ* "arm-rests, handles"; *qarnayim* "horns" of an animal, *qərānôṯ* "horns" of the altar (§87o).
 - **Male and female of one stem.** Where a noun has a feminine pair, the endings do follow sex: *bānîm* "sons", *bānôṯ* "daughters" (§87r).
 - **The dual for pairs of the body:** *yāḏayim*, *ʿênayim*, *ʾoznayim* "ears", *raḡlayim*, *birkayim* "knees", *kənāp̄ayim* "wings", *šinnayim* "teeth".
-- **The dual for paired objects:** *naʿălayim* "a pair of sandals", *moʾznayim* "scales" (§88e).
+- **The dual for paired objects:** *naʿălayim* "a pair of sandals", *mōʾznayim* "scales" (§88e).
 - **The dual for two units of time or measure:** *yômayim*, *šənāṯayim*, *ʾammāṯayim*. Also in numbers: *māʾṯayim* 200 (part 5).
 - **The dual for more than two pairs.** A paired noun stays dual with a number above two: Gesenius cites *ʾarbaʿ raḡlayim* "four feet" (Leviticus 11:23) and *šēš kənāp̄ayim* "six wings" (Isaiah 6:2) (§88f).
 - **Plurals of extension and abstraction:** *mayim*, *šāmayim*, *pānîm*, *ḥayyîm* (§124).
@@ -217,7 +217,7 @@ preview: CSTR
 
 **A plural form is not always a plural meaning.** *ʾĕlōhîm bārāʾ*, with a singular verb, means "God created", not "gods". The verb shows which is meant (§124g). *pānîm* is one face.
 
-**A singular form is not always singular.** *ṣōʾn* is a whole flock; it often takes a plural verb. Spanish *la gente* and French *le bétail* work the same way.
+**A singular form is not always singular.** *ṣōʾn* is a whole flock; it often takes a plural verb. Spanish *la gente* and French *le bétail* are also singular words for a group, though they take a singular verb.
 
 **Do not add *-îm* to a word with an *-eh*.** *\*śāḏehîm* is wrong; the *-eh* drops (§87b).
 
@@ -233,8 +233,8 @@ source: gkc1910 §§87–88; oshb
 |---|---|---|---|---|
 | סוּס | sûs | סוּסִים | sûsîm | masculine -îm |
 | מִשְׁפָּחָה | mišpāḥâ | מִשְׁפָּחוֹת | mišpāḥôṯ | feminine -ôṯ |
-| בְּאֵר | bəʾēr | בְּאֵרֹת | bəʾērôṯ | feminine, no ending, -ôṯ |
-| קוֹל | qôl | קֹלֹת | qōlôṯ | masculine with -ôṯ |
+| בְּאֵר | bəʾēr | בְּאֵרֹת | bəʾērōṯ | feminine, no ending, -ôṯ |
+| קוֹל | qôl | קֹלֹת | qōlōṯ | masculine with -ôṯ |
 | שָׁנָה | šānâ | שָׁנִים | šānîm | feminine with -îm |
 | דָּבָר | dāḇār | דְּבָרִים | dəḇārîm | vowel reduction |
 | יָם | yām | יַמִּים | yammîm | doubling returns |
@@ -246,11 +246,11 @@ source: gkc1910 §§87–88; oshb
 ## New words
 
 :::vocab
-מָאוֹר | māʾôr | noun | light, lamp, luminary | m.; pl. məʾōrôṯ; root ʾ-w-r, as in ʾôr
+מָאוֹר | māʾôr | noun | light, lamp, luminary | m.; pl. məʾōrōṯ; root ʾ-w-r, as in ʾôr
 כּוֹכָב | kôḵāḇ | noun | star | m.; pl. kôḵāḇîm
-לוּחַ | lûaḥ | noun | tablet, board | m.; pl. lûḥôṯ
+לוּחַ | lûaḥ | noun | tablet, board | m.; pl. luḥōṯ
 שֻׁלְחָן | šulḥān | noun | table | m.; pl. šulḥānôṯ
-דּוֹר | dôr | noun | generation, age | m.; pl. dôrîm and dôrôṯ
+דּוֹר | dôr | noun | generation, age | m.; pl. dôrîm and dōrôṯ
 בָּרָד | bārāḏ | noun | hail | m.
 שָׂפָה | śāp̄â | noun | lip; language; edge, shore | f.; dual śəp̄āṯayim
 אַמָּה | ʾammâ | noun | cubit (forearm's length) | f.; dual ʾammāṯayim
@@ -259,7 +259,7 @@ source: gkc1910 §§87–88; oshb
 שֵׁן | šēn | noun | tooth; ivory | f.; dual šinnayim
 קֶרֶן | qeren | noun | horn | f.; dual qarnayim, pl. qərānôṯ; stressed qéren
 נַעַל | naʿal | noun | sandal | f.; dual naʿălayim; stressed náʿal
-מֹאזְנַיִם | moʾznayim | noun | scales, balances | dual only
+מֹאזְנַיִם | mōʾznayim | noun | scales, balances | dual only
 זְרוֹעַ | zərôaʿ | noun | arm; strength | f.; pl. zərōʿîm, zərōʿôṯ, never dual
 חַיִּים | ḥayyîm | noun | life | m. pl.; same letters as the plural of ḥay "alive"
 תַּיִשׁ | tayiš | noun | he-goat | m.; pl. təyāšîm
@@ -286,7 +286,7 @@ Arabic has the same three numbers and similar endings: masculine plural *-ūna*/
 
 ## Worked answers
 
-1. *sûsîm*; *mišpāḥôṯ* (the *-â* is replaced); *bəʾērôṯ* (feminine without an ending, so *-ôṯ* is added); *yāḏayim* (Gesenius §§87–88).
+1. *sûsîm*; *mišpāḥôṯ* (the *-â* is replaced); *bəʾērōṯ* (feminine without an ending, so *-ôṯ* is added, here written without its *w*); *yāḏayim* (Gesenius §§87–88).
 2. Masculine, because the plural keeps the gender of the singular (§87p). An adjective would take *-îm*.
 3. "Great and good cities." *ʿîr* is feminine, and adjectives follow the noun's gender, not its ending (§87r).
 4. *hakkôḵāḇîm haggəḏōlîm*. *kôḵāḇ* is masculine with *-îm*; the adjective is masculine plural, and both take the article. Its *ô* is written with *w* and does not reduce (lesson 3.3).

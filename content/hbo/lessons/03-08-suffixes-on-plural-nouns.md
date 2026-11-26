@@ -45,7 +45,7 @@ The same two groups as in lesson 3.7 (Gesenius §92b, d; §93b):
 
 ### Feminine plurals
 
-A feminine plural keeps its *-ôṯ* and then adds the same plural set (§91m, §95): *bānôṯ* → *bənōṯay* "my daughters", *bənôṯêḵā* "your daughters", *ʾāḇôṯ* → *ʾăḇōṯênû* "our fathers". So the feminine plural shows plurality twice: once in *-ôṯ*, once in the *y*. Gesenius notes this "double indication of the plural" (§87s). One exception is common: "their" on a feminine plural is often the short *-ām* added straight to *-ôṯ*, as in *ʾăḇōṯām* "their fathers" (Exodus 6:14; §96).
+A feminine plural keeps its *-ôṯ* and then adds the same plural set (§91m, §95): *bānôṯ* → *bənōṯay* "my daughters", *bənôṯêḵā* "your daughters", *ʾāḇôṯ* → *ʾăḇōṯênû* "our fathers". So the feminine plural shows plurality twice: once in *-ôṯ*, once in the *y*. Gesenius notes this "double indication of the plural" (§87s). One exception is common: "their" on a feminine plural is often the short *-ām* added straight to *-ôṯ*, as in *ʾăḇōṯām* "their fathers" (Exodus 6:14; §91n).
 
 ### Duals
 
@@ -199,11 +199,11 @@ source: gkc1910 §§91, 92, 95; oshb (forms attested except those in brackets)
 |---|---|---|---|
 | 1SG | -ay | דְּבָרַי dəḇāray | יָדַי yāḏay |
 | 2SG.M | -êḵā | דְּבָרֶיךָ dəḇārêḵā | יָדֶיךָ yāḏêḵā |
-| 2SG.F | -ayiḵ | (dəḇārayiḵ) | (yāḏayiḵ) |
+| 2SG.F | -ayiḵ | (dəḇārayiḵ) | יָדַיִךְ yāḏayiḵ |
 | 3SG.M | -āyw | דְּבָרָיו dəḇārāyw | יָדָיו yāḏāyw |
-| 3SG.F | -êhā | (dəḇārêhā) | יָדֶיהָ yāḏêhā |
+| 3SG.F | -êhā | דְּבָרֶיהָ dəḇārêhā | יָדֶיהָ yāḏêhā |
 | 1PL | -ênû | (dəḇārênû) | יָדֵינוּ yāḏênû |
-| 2PL.M | -êḵem | (diḇrêḵem) | יְדֵיכֶם yəḏêḵem |
+| 2PL.M | -êḵem | דִּבְרֵיכֶם diḇrêḵem | יְדֵיכֶם yəḏêḵem |
 | 3PL.M | -êhem | דִּבְרֵיהֶם diḇrêhem | יְדֵיהֶם yəḏêhem |
 :::
 

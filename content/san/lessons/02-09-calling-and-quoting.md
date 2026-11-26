@@ -270,7 +270,7 @@ Japanese quotes almost exactly like Sanskrit: the words, then a quotative partic
 3. Correct *\*putraḥ kiṃ śocasi* "son, are you grieving?".
 4. Quote: "'We two are going to the village,' the boys say" (two boys).
 5. A text has *mṛṣā vadasīti krudhyati nṛpaḥ*. Find the quotation, translate, and explain the long *ī*.
-6. Translate *vīrāḥ stha iti vadati ācāryaḥ*: who are the heroes?
+6. Translate *ācāryo vīrāḥ stha iti vadati*: who are the heroes?
 7. Say "the pupil thinks there is a snake here" with *iti*.
 8. Undo the joins in *bho deva* and *dūta iti*.
 

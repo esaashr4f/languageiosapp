@@ -30,17 +30,17 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 7. Caesar, cum audīvisset quantō in perīculō cīvēs essent, statim profectus est, nē oppidum dēlērētur.
 8. Sī tardius vēnisset, nihil oppidum servāre potuisset.
 
-**B. Orgetorix's plan (Caesar, Gallic War 1.2.1-2).** Attested; wording from The Latin Library, in this guide's spelling (the edition spells the consul's name *Messala*). New words, glossed here: *Mārcus Messāla* and *Mārcus Pīsō*, the consuls of 61 BC; *perfacilis* "very easy"; *praestō* "excel" (+ dat.).
+**B. Orgetorix's plan (Caesar, Gallic War 1.2.1-2).** Attested; wording from The Latin Library, in this guide's spelling (the edition prints *Messala*, a name also spelled *Messālla*, and an editorial *[et P.]* before *M. Pīsōne*, left out here). New words, glossed here: *Mārcus Messāla* and *Mārcus Pīsō*, the consuls of 61 BC; *perfacilis* "very easy"; *praestō* "excel" (+ dat.).
 
 1. *Is, Mārcō Messālā et Mārcō Pīsōne cōnsulibus, rēgnī cupiditāte inductus coniūrātiōnem nōbilitātis fēcit,*
 2. *et cīvitātī persuāsit ut dē fīnibus suīs cum omnibus cōpiīs exīrent:*
 3. *perfacile esse, cum virtūte omnibus praestārent, tōtīus Galliae imperiō potīrī.*
 
-**C. Cicero to Catiline (Against Catiline 1.10, shortened).** Attested. New words, glossed here: *ēgredior* "go out"; *aliquandō* "at last" (part 3); *ēdūcō* "lead out"; *pūrgō* "cleanse".
+**C. Cicero to Catiline (Against Catiline 1.10, shortened).** Attested. New words, glossed here: *ēgredior* "go out"; *aliquandō* "at last" (part 4); *ēdūcō* "lead out"; *pūrgō* "cleanse".
 
 1. *Quae cum ita sint, Catilīna, perge quō coepistī; ēgredere aliquandō ex urbe; patent portae; proficīscere.*
-2. *Ēdūc tēcum etiam omnēs tuōs; pūrgā urbem.*
-3. *Magnō mē metū līberābis, dummodo inter mē atque tē mūrus intersit.*
+2. *Ēdūc tēcum etiam omnēs tuōs …; pūrgā urbem.*
+3. *Magnō mē metū līberābis, dummodo inter mē atque tē mūrus intersit.* (The edition prints *dum modo* as two words.)
 
 ## Exercises
 
@@ -58,7 +58,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 12. In B2, explain *persuāsit ut … exīrent*, and why the verb is plural though *cīvitātī* is singular.
 13. In B3, explain the construction of *perfacile esse … potīrī* and of *cum … praestārent*.
 14. Translate passage C.
-15. In C1, explain *quae cum ita sint* and the four imperatives.
+15. In C1 and C2, explain *quae cum ita sint* and the five imperatives.
 16. In C3, explain *magnō metū* and *dummodo … intersit*.
 17. Say "I asked him why he had not come, and whether he would come tomorrow".
 18. Say "the soldiers were so tired that they could not fight, although the general urged them".
@@ -80,7 +80,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 6. A future more vivid condition: future perfect *petīverimus* in the protasis (lesson 13; ag1903 §516c); the apodosis is *nōn dubitō …*. *Quīn … servātūrī sint*: *quīn* after negative doubt, with the future participle and *sint* to show the future (lessons 15 and 11; ag1903 §§558a, 575a). *Quī amīcōs dēserat*: characteristic clause after *quis est tam dēmēns*, a question implying "nobody" (lesson 15; ag1903 §535a).
 7. *Quī Caesarem rogārent*: a relative clause of purpose, *quī* = *ut eī*, imperfect after *mīsit* (lesson 7; ag1903 §531.2). *Quandō ventūrus esset*: an indirect question about the future, future participle with *esset* by secondary sequence (lesson 11; ag1903 §575a).
 8. *Quamquam … erat*: indicative, a conceded fact (lesson 14; ag1903 §527d). *Cum audīvisset*: narrative *cum*, pluperfect subjunctive for the earlier step (lesson 12). *Quantō in perīculō … essent*: an indirect question after *audīvisset*, imperfect by secondary sequence (lesson 11). *Nē … dēlērētur*: a negative purpose clause, imperfect after *profectus est* (lesson 7).
-9. Past contrary to fact: pluperfect subjunctive in both clauses, *vēnisset … potuisset* (lesson 13; ag1903 §517). *Tardius* is the comparative adverb (part 5, lesson 4).
+9. Past contrary to fact: pluperfect subjunctive in both clauses, *vēnisset … potuisset* (lesson 13; ag1903 §517). *Tardius* is the comparative adverb (part 5, lesson 4). *Nihil* "not at all" is the neuter used adverbially, like *quid* "why?" (lesson 1).
 10. "In the consulship of Marcus Messala and Marcus Piso, he was led by desire for kingship to form a conspiracy of the nobility, and persuaded the state to leave its territory with all its forces: it would be very easy, he said, since they surpassed everyone in courage, to gain control of the whole of Gaul."
 11. *Mārcō Messālā et Mārcō Pīsōne cōnsulibus*: an ablative absolute of nouns without a participle, the Roman way of dating a year (lesson 4; ag1903 §419a). *Inductus*: perfect participle of *indūcō*, agreeing with *is*, "induced, led on" (lesson 4 vocabulary; part 5, lesson 7).
 12. An indirect command after *persuādeō*, which takes the dative *cīvitātī* (lesson 10; ag1903 §563). *Exīrent* is plural because *cīvitās* means the people of the state: agreement by sense. Imperfect after the perfect *persuāsit* (lesson 6).

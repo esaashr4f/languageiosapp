@@ -174,7 +174,7 @@ The slots always come in the same order:
 6. extensions (for someone, be done, make do, each other)
 7. final vowel (-a, or -e and -i in some forms)
 
-A negative marker joins the row in some forms: *ha-* in front of the subject prefix, or *-si-* just after it. Only the subject, the root and the final vowel are present in almost every verb. The others are filled when the meaning needs them. Part 4 fills the slots one at a time, part 6 the relative slot, and part 7 the extensions.
+A negative marker joins the row in some forms: *ha-* in front of the subject prefix, or *-si-* immediately after it. Only the subject, the root and the final vowel are present in almost every verb. The others are filled when the meaning needs them. Part 4 fills the slots one at a time, part 6 the relative slot, and part 7 the extensions.
 
 Languages that build words by sticking such pieces together, each with one meaning, are called **agglutinative**. Japanese, Korean and Turkish are agglutinative too. The difference is direction: they add most pieces after the root, while Swahili adds most before it.
 

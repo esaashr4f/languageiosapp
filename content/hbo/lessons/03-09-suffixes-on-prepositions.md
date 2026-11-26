@@ -31,7 +31,7 @@ These take the suffixes of lesson 3.7, sometimes with a changed vowel (Gesenius 
 - ***min*** "from" doubles itself: *mimmennî* "from me", *mimməḵā*, *mimmēḵ*, *mimmennû* "from him", *mimmennâ* "from her", *mikkem*, *mēhem*. Gesenius gives two explanations for *mimmen-*: a doubled *min-min-*, or an older *minnen-* (§103m).
 - ***ʿim*** "with" doubles its *m*: *ʿimmî*, *ʿimməḵā*, *ʿimmô*, *ʿimmāh*, *ʿimmānû*, *ʿimmāḵem*, *ʿimmām* (§103c).
 - ***ʾēṯ*** "with" (the preposition) takes *ʾitt-*: *ʾittî*, *ʾittəḵā*, *ʾittô*, *ʾittānû*, *ʾittām* (§103b).
-- ***bên*** "between" has the singular set for one owner: *bênî ûḇênêḵā* "between me and you" (with the plural set on the second; §103o).
+- ***bên*** "between" has the singular set for one owner: *bênî*, *bênəḵā* (§103o). Genesis 13:8 has *bênî ûḇênêḵā* "between me and you", with the plural set on the second: an exception (example 12).
 
 ### The object marker ʾēṯ
 
@@ -50,7 +50,7 @@ These take the suffixes of lesson 3.8 (Gesenius §103n–o):
 - ***ʾel*** "to, towards": *ʾēlay*, *ʾēlêḵā*, *ʾēlāyw*, *ʾēlêhā*, *ʾēlênû*, *ʾălêḵem*, *ʾălêhem*.
 - ***ʿal*** "on, over": *ʿālay*, *ʿālêḵā*, *ʿālāyw*, *ʿālêhā*, *ʿālênû*, *ʿălêḵem*, *ʿălêhem*.
 - ***ʿaḏ*** "as far as": *ʿāḏay*, *ʿāḏêḵā*.
-- ***taḥaṯ*** "under, instead of": *taḥtay*, *taḥtāyw*; ***ʾaḥărê*** "after": *ʾaḥăray*, *ʾaḥărāyw*.
+- ***taḥaṯ*** "under, instead of": *taḥtāy*, *taḥtāyw*; ***ʾaḥărê*** "after": *ʾaḥăray*, *ʾaḥărāyw*.
 - ***lip̄nê*** "before": *ləp̄ānay*, *ləp̄ānêḵā*, *ləp̄ānāyw*, *lip̄nêḵem*, *lip̄nêhem*: this is *lə-* + *pānîm* "face", "to the face of".
 
 ### Building "I am with you"
@@ -201,7 +201,7 @@ translit: ʾal-nāʾ ṯəhî mərîḇâ bênî ûḇênêḵā
 morphemes: ʾal nāʾ ṯəhî mərîḇâ bên-î û=ḇên-êḵā
 gloss: not please be.JUSS.3SG.F strife between-1SG and=between-2SG.M
 translation: Please let there be no strife between me and you.
-note: Abram to Lot. bên is repeated, as always (lesson 2.2). It takes -î, but here -êḵā with y on the second; Gesenius notes that the y is marked as doubtful in the manuscripts (§103o).
+note: Abram to Lot. bên is repeated, as usual (lesson 2.2). The rule is the singular set, bênî, bênəḵā (Gesenius §103o; bênəḵā 6× in WLC), but here the second takes -êḵā with y, the only such form in WLC. Gesenius notes a similar bênêḵā in Genesis 16:5, where the y is dotted as doubtful.
 source: Genesis 13:8 (WLC)
 confidence: attested
 preview: JUSS

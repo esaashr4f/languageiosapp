@@ -26,7 +26,7 @@ Syncope is not random. Bolkvadze and Kiziria describe it in two parts, one about
 
 The postpositions follow their case. Those on the dative keep the full stem (*megobarši*, *megobartan*, lesson 3-2). Those on the genitive, instrumental and adverbial take the short one: *megobristvis*, *megobridan*, *megobramde*.
 
-Why these cases and not the others? The sources consulted do not give a settled answer. Bolkvadze and Kiziria offer a tentative one: it is possible that syncope depends on stress and on the number of syllables. Their evidence is *ḳari* "door", which never syncopates, against the compounds *ciskari* "dawn" and *č̣išḳari* "gate", which do (*č̣išḳris*): in the longer word the stress falls on the first syllable, and the syllable *-ar* "loses its defence". Treat this as a hypothesis, not a rule you can apply.
+Why these cases and not the others? The sources consulted do not give a settled answer. Bolkvadze and Kiziria offer a tentative one: it is possible that syncope depends on stress and on the number of syllables. Their evidence is *ḳari* "door", which never syncopates, against the compounds *cisḳari* "dawn" and *č̣išḳari* "gate", which do (*č̣išḳris*): in the longer word the stress falls on the first syllable, and the syllable *-ar* "loses its defence". Treat this as a hypothesis, not a rule you can apply.
 
 ## How it is built
 
@@ -43,7 +43,7 @@ Why these cases and not the others? The sources consulted do not give a settled 
 **Step 3: check the exceptions.** Many nouns with the right shape do not syncopate, and these must be learnt. Bolkvadze and Kiziria list, among others:
 
 - most one-syllable stems: *kali* "woman" → *kalis*, *bari* → *baris*, *xeli* → *xelis*; but *c̣eli* "year" → *c̣lis* is an exception to the exception.
-- many longer nouns, native and borrowed: *saxeli* → *saxelis*, *cxeni* → *cxenis*, *c̣veni* → *c̣venis*, *gemi* "ship" → *gemis*, *sḳami*, *avṭori*, *c̣erili* (*-il* is not a syncope shape anyway).
+- many other nouns, native and borrowed: *saxeli* → *saxelis*, *cxeni* → *cxenis*, *c̣veni* "juice" → *c̣venis* (so Wiktionary too; Hewitt, quoting Vogt, has *c̣vnis*), *gemi* "ship" → *gemis*, *sḳami*, *avṭori*, *c̣erili* (*-il* is not a syncope shape anyway).
 - Wiktionary gives *cxoveli* "animal" → *cxovelis* and *anbani* → *anbanis*, although *ɣrubeli* "cloud" → *ɣrublis* and *mezobeli* → *mezoblis*. The shape alone does not decide.
 
 **Two variations on the rule.**

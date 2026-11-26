@@ -266,7 +266,7 @@ source: wiktionary सेना; whitney1889 §364
 
 ## Connections
 
-Latin's first and second declensions are the cousins of these: *rosa* (like *senā*) and *dominus*, *donum* (like *deva*, *phala*). Latin *-ōrum* in the genitive plural and Sanskrit *-ānām* both insert a consonant before the ending, though not the same one. The neuter rule "nominative and accusative always alike" holds in Latin, Greek and Sanskrit alike.
+Latin's first and second declensions are the cousins of these: *rosa* (like *senā*) and *dominus*, *donum* (like *deva*, *phala*). The neuter rule "nominative and accusative always alike" holds in Latin, Greek and Sanskrit alike.
 
 ## Exercises
 

@@ -8,7 +8,7 @@ point: Give orders with the bare stem, -(y)In, -(y)InIz and -sIn, and forbid wit
 requires: [tur-04-01]
 introduces: [imperative]
 confidence: verified
-sources: [goksel2005, wiktionary]
+sources: [goksel2005, wiktionary, tdk]
 ---
 
 ## The idea
@@ -193,7 +193,7 @@ confidence: attested
 
 **Do not forget the buffer after a vowel, or add one after a consonant.** *\*Bekleın*, *\*okuun* lack the *y*: *bekleyin*, *okuyun*. *\*Gelyin*, *\*bakyın* add one where none belongs: *gelin*, *bakın*.
 
-**Do not keep the vowel of de- and ye-.** *\*Deyin*, *\*yeyin* follow the spelling of the stem. Wiktionary gives *diyin*, *yiyin*. The negative keeps the vowel, because *-mA* is next to the stem: *demeyin*, *yemeyin*.
+**Do not keep the vowel of ye-.** *\*Yeyin* follows the spelling of the stem. Before a suffix beginning with *y*, the Turkish Language Association writes *i* in the stems of *demek* and *yemek* (*diyen*, *diyelim*, *yiyen*, *yiyelim*; tdk spelling rules, "Ünlü daralması"), and Wiktionary gives *yiyin* and *diyin*. For *de-* you will also see *deyin*, which some usage writers prefer; the rule does not list the imperative, so this guide follows Wiktionary's *diyin*. The negative keeps the vowel, because *-mA* is next to the stem: *demeyin*, *yemeyin*.
 
 **Do not forget gid- and ed-.** *\*Gitin*, *\*yardım etin*: before the vowel of *-(y)In* these stems change: *gidin*, *yardım edin*. Before a consonant they do not: *gitsin*, *gitme*, *etmeyin*.
 

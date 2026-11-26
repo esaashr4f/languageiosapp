@@ -36,7 +36,7 @@ The ordinals are adjectives like *bonus*. Allen and Greenough explain most of th
 2. *Duo* "two": masculine *duo*, feminine *duae*, neuter *duo*. Accusative *duōs, duās, duo*; genitive *duōrum, duārum*; dative and ablative *duōbus, duābus*.
 3. *Trēs* "three": masculine and feminine *trēs*, neuter *tria*, genitive *trium*, dative and ablative *tribus*. It is an ordinary third-declension i-stem plural.
 
-**Four to a hundred.** These do not change: *quattuor*, *quīnque*, *sex*, *septem*, *octō*, *novem*, *decem*; *ūndecim* "eleven" (*ūnus* + *decem*), *duodecim* "twelve"; *vīgintī* "twenty"; *centum* "a hundred". Allen and Greenough derive the *-gintā* of thirty and above from a word for ten (ag1903 §132 footnote).
+**Four to a hundred.** These do not change: *quattuor*, *quīnque*, *sex*, *septem*, *octō*, *novem*, *decem*; *ūndecim* "eleven" (*ūnus* + *decem*), *duodecim* "twelve"; *vīgintī* "twenty"; *centum* "a hundred". Allen and Greenough derive the *-gint-* of the tens (*vīgintī*, *trīgintā* "thirty" and so on) from a fragment of a word for ten (ag1903 §132 footnote).
 
 **Compound numbers.**
 
@@ -48,7 +48,7 @@ The ordinals are adjectives like *bonus*. Allen and Greenough explain most of th
 
 1. Two hundred to nine hundred are plural adjectives like *bonī*: *ducentī, -ae, -a*, *trecentī*, *quīngentī* (ag1903 §134c).
 2. *Mīlle* "a thousand" is an indeclinable adjective in the singular: *mīlle mīlitēs*, *cum mīlle mīlitibus* (ag1903 §134d).
-3. The plural *mīlia* is a neuter noun, declined like *maria*: *mīlia*, *mīlium*, *mīlibus*. As a noun it takes the genitive of what is counted: *duo mīlia mīlitum* "two thousand soldiers", literally "two thousands of soldiers" (ag1903 §135c).
+3. The plural *mīlia* is a neuter noun, declined like the plural of an i-stem neuter such as *animal*: *mīlia*, *mīlium*, *mīlibus* (ag1903 §134d). As a noun it takes the genitive of what is counted: *duo mīlia mīlitum* "two thousand soldiers", literally "two thousands of soldiers" (ag1903 §135c).
 
 **Ordinals.** *Prīmus*, *secundus* (or *alter*), *tertius*, *quārtus*, *quīntus*, *sextus*, *septimus*, *octāvus*, *nōnus*, *decimus*; *vīcēsimus* "twentieth", *centēsimus* "hundredth". All decline like *bonus* and agree with their noun.
 
@@ -188,7 +188,7 @@ confidence: attested
 - **"How many times"**: *semel*, *bis*, *ter*, *quater*, then *-iēns*: *quīnquiēns* "five times", *deciēns* "ten times" (ag1903 §138).
 - **"Same" and "only"**: *ūnus* can mean "one and the same" or "alone", and its plural is used that way too (ag1903 §134a).
 - **"Both"**: *ambō, ambae, ambō*, declined like *duo* (ag1903 §134b note). *Uterque* (lesson 2) treats the two separately; *ambō* takes them together.
-- **"Second"**: *secundus*, or *alter* when there are only two (ag1903 §133).
+- **"Second"**: *secundus*, or *alter* (ag1903 §133); *alter* is also "the other" of a pair (lesson 2).
 
 ## Watch out
 
@@ -245,7 +245,7 @@ source: ag1903 §§133, 136, 138; wiktionary (each word)
 | M | mīlle | mīllēsimus | mīllēnī | mīliēns |
 :::
 
-The ordinals in *-ēsimus* are also written *-ēnsimus* (ag1903 §133 note 1), and the adverbs in *-iēns* also as *-iēs* (ag1903 §138 footnote). Wiktionary prints *vicēnī* with a short first vowel.
+The ordinals in *-ēsimus* are also written *-ēnsimus* (ag1903 §133 note 1), and the adverbs in *-iēns* also as *-iēs* (ag1903 §138 footnote). Wiktionary's entry *vicēnī* has a short first vowel, though its entry *vīcēnus* has a long one; this guide follows Allen and Greenough.
 
 ## New words
 

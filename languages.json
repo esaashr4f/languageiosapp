@@ -1,5 +1,5 @@
 {
- "count": 100,
+ "count": 101,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -867,6 +867,15 @@
    "group": "Dead and classical",
    "script": "Tibetan + Wylie",
    "depth": "A"
+  },
+  {
+   "number": 101,
+   "name": "Classical Armenian",
+   "iso": "xcl",
+   "group": "Dead and classical",
+   "script": "Armenian",
+   "depth": "B",
+   "notes": "Grabar, 5th-century Bible and early histories; cross-link Armenian (Eastern) and Georgian; depth may rise to A if the dossier finds the sources support it"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-100, then 59-71, then 1-58, skipping deferred languages; deferred languages (thin open sources) come last, when the owner can supply textbooks."

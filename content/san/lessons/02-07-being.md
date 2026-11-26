@@ -238,7 +238,7 @@ source: whitney1889 §636; wiktionary (अस्ति); mw1899 (as)
 भृत्य | bhṛtya | noun | servant | m., a-stem
 राज्य | rājya | noun | kingdom, kingship | n., a-stem
 पुण्य | puṇya | adjective | good, virtuous, holy | puṇya, f. puṇyā; as n., merit
-पाप | pāpa | adjective | bad, wicked, evil | pāpa, f. pāpā; as n., evil, sin
+पाप | pāpa | adjective | bad, wicked, evil | pāpa, f. pāpā (older pāpī, mw1899); as n., evil, sin
 परम | parama | adjective | highest, supreme | parama, f. paramā
 मूर्ख | mūrkha | adjective | foolish, stupid | mūrkha, f. mūrkhā; as m., a fool
 कृश | kṛśa | adjective | thin, lean, weak | kṛśa, f. kṛśā

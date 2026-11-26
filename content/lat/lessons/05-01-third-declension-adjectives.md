@@ -46,7 +46,7 @@ The separate masculine matters only in the nominative and vocative singular. All
 2. Add the endings to the stem: *fēlīcem*, *fēlīcis*, *fēlīcī*; plural *fēlīcēs*, *fēlīcium*, *fēlīcibus*.
 3. The neuter differs only where neuters always differ: its accusative singular is the same as its nominative, *fēlīx*, and its plural ends in *-ia*, *fēlīcia*.
 
-These are consonant stems at heart, like *rēx*, but they have taken over the i-forms: usually ablative *-ī* (often also *-e*), neuter plural *-ia*, genitive plural *-ium* (ag1903 §117). A few keep the pure consonant pattern: *vetus, veteris* "old", *dīves, dīvitis* "rich" and *pauper, pauperis* "poor" have ablative *-e* and genitive plural *-um*: *vetere*, *veterum* (ag1903 §121). *Vetus* is an old *s*-stem whose *s* became *r* between vowels, as in *corpus, corporis* (ag1903 §119 note; part 3, lesson 7).
+These are consonant stems at heart, like *rēx*, but they have taken over the i-forms: usually ablative *-ī* (often also *-e*), neuter plural *-ia*, genitive plural *-ium* (ag1903 §117). A few keep the pure consonant pattern: *vetus, veteris* "old", *dīves, dīvitis* "rich" and *pauper, pauperis* "poor" have ablative *-e* and genitive plural *-um*: *vetere*, *veterum* (ag1903 §121a, b, d; for *pauperum*, Wiktionary). *Vetus* is an old *s*-stem whose *s* became *r* between vowels, as in *corpus, corporis* (ag1903 §119 note; part 3, lesson 7).
 
 **Agreement step by step.** Say "the brave soldiers were carrying everything".
 
@@ -196,7 +196,7 @@ confidence: attested
 
 **Do not use the ablative *-e* of nouns.** *\*Cum mīlite forte* follows *mīlite*. The adjective takes *-ī*: *cum mīlite fortī*, *in omnī bellō* (ag1903 §114a). Poets sometimes have *-e*; prose rarely does (ag1903 §116 note).
 
-**Do not give *vetus*, *dīves* and *pauper* the i-forms.** *\*Veteria*, *\*in urbe veterī*, *\*pauperium*: these three keep the consonant pattern, *vetera*, *in urbe vetere*, *pauperum* (ag1903 §121). (Wiktionary allows *dīvitī* beside *dīvite*.)
+**Do not give *vetus*, *dīves* and *pauper* the i-forms.** *\*Veteria*, *\*in urbe veterī*, *\*pauperium*: these three keep the consonant pattern, *vetera*, *in urbe vetere*, *pauperum* (ag1903 §121; Wiktionary for *pauperum*). (Wiktionary allows *dīvitī* beside *dīvite*.)
 
 **Do not use *ācer* for the feminine or neuter.** *\*Fēmina ācer*, *\*bellum ācer*: the *-er* form is masculine only. *Fēmina ācris*, *bellum ācre*. In early Latin and in poetry you may meet one form for both genders (ag1903 §115 note 1).
 
@@ -281,7 +281,7 @@ pauper | - | adjective | poor | genitive pauperis; ablative paupere, genitive pl
 
 ## Connections
 
-French and Spanish inherited this split. Latin *fortis* gives French *fort*, *forte* and Spanish *fuerte*, and *dulcis* gives *doux*, *douce* and *dulce* (Wiktionary). Spanish *fuerte* and *dulce* still have one form for masculine and feminine. French went the other way and made a feminine on the model of *bon*, *bonne*.
+French and Spanish inherited this split. Latin *fortis* gives French *fort*, *forte* and Spanish *fuerte*, and *dulcis* gives French *doux*, *douce* (Spanish *dulce* is a semi-learned form taken from the Latin) (Wiktionary). Spanish *fuerte* and *dulce* still have one form for masculine and feminine. French went the other way and now has a separate feminine, *forte*, *douce*.
 
 ## Exercises
 

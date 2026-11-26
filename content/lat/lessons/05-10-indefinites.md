@@ -28,7 +28,7 @@ Where do these words come from? Most are built on one stem, the stem of *quis* "
 
 ## How it is built
 
-**The base forms.** *Quis* "anyone" declines like this in the singular: masculine and feminine *quis*, neuter *quid*; accusative *quem*, *quid*; genitive *cuius*; dative *cui*; ablative *quō*. The plural is *quī*, feminine *quae* or *qua*, neuter *qua*; *quōs*, *quās*; *quōrum*; *quibus* (ag1903 §§148-149). All the compounds decline their *quis* part this way and keep the addition fixed: *aliquem*, *alicuius*; *quemquam*, *cuiquam*; *quemque*, *cuique*.
+**The base forms.** *Quis* "anyone" declines like this in the singular: masculine and feminine *quis*, neuter *quid*; accusative *quem*, *quid*; genitive *cuius*; dative *cui*; ablative *quō*. The plural is *quī*, feminine *quae*, neuter *qua* (Wiktionary also gives *quae*); *quōs*, *quās*; *quōrum*; *quibus* (ag1903 §§148-149). All the compounds decline their *quis* part this way and keep the addition fixed: *aliquem*, *alicuius*; *quemquam*, *cuiquam*; *quemque*, *cuique*.
 
 **Pronoun and adjective.** Most of these have two sets of forms. The pronoun ("someone", "something") uses *quis* and *quid*: *aliquis*, *aliquid*. The adjective ("some man", "some thing") uses *quī*, *quae*, *quod* in the nominative and accusative: *aliquī vir* "some man", *aliquod perīculum* "some danger" (ag1903 §151e). In the feminine singular and neuter plural, *aliquis* has *aliqua*.
 
@@ -160,14 +160,14 @@ orig: numquam nocet cuiquam
 morphemes: numquam noce-t cuiquam
 gloss: never harm-3SG anyone.DAT.SG
 translation: it never harms anyone
-note: Cicero on justice. After numquam, "anyone" is quisquam; alicui would mean "someone in particular" (ag1903 §311).
+note: Cicero on justice. After numquam, "anyone" is quisquam; Allen and Greenough, who quote this sentence, note that alicui would mean "to somebody who possesses it" (ag1903 §311).
 source: Cicero, De Finibus 1.50
 confidence: attested
 :::
 
 ## Where it applies
 
-- ***Quīdam***, "a certain", "a sort of": a definite person not named, *mulier quaedam* "a certain woman"; with an adjective, softening it: *quaedam vīs* "a kind of force". In stories, *quōdam diē* "one day" (ag1903 §310).
+- ***Quīdam***, "a certain", "a sort of": a definite person not named (ag1903 §310), *mulier quaedam* "a certain woman"; with an adjective, softening it: *quaedam vīs* "a kind of force". In stories, *quōdam diē* "one day".
 - ***Aliquis*, *aliquī***, "some(one), some(thing)": in positive statements, and in "not without": *nōn sine aliquō metū* (ag1903 §311). *Aliquid* takes a partitive genitive: *aliquid novī* "something new".
 - ***Quis*, *quī***, "any(one)", after *sī*, *nisi*, *nē*, *num*: *sī quid* "if anything", *nē quis* "so that no one" (ag1903 §310a). *Aliquis* can replace it there for emphasis (ag1903 §310b).
 - ***Quisquam***, "anyone at all", pronoun only; ***ūllus***, "any", its adjective. After a negative or a word with negative force: *nōn*, *neque*, *numquam*, *vix* "hardly", *sine* "without"; in questions expecting "no"; after comparatives: *fortior quam quisquam* "braver than anyone" (ag1903 §§311-312).

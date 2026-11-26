@@ -154,7 +154,7 @@ orig: Yorgan gitti, kavga bitti.
 morphemes: yorgan git-ti kavga bit-ti
 gloss: quilt go-PST fight end-PST
 translation: The quilt's gone, the fight's over.
-note: The Hoca's own punch line, about what happened to him: -DI.
+note: The Hoca's own punch line, about what happened to him: -DI. In the source the line ends with işte "you see", left out here.
 source: trwikisource, Yorgan gitti kavga bitti, last line
 confidence: attested
 :::
@@ -164,7 +164,7 @@ confidence: attested
 - **Hearsay**: anything you pass on from someone else, a newspaper, the radio, a message: *Komşumuz piyangoyu kazanmış*, *Ali gelmiş.* English "apparently", "I hear", "they say" (goksel2005 §21.4.3.1).
 - **Inference from results**: *Yağmur yağmış*, *Lastik patlamış*, *Hırsız arabamızı çalmış.* Also comments on how something was made or done, judged from the result: tasting a dish, *Bu yemeğe tuz koymamışlar* "they haven't put any salt in this".
 - **Things you did without knowing**: asleep, as a baby, absent-mindedly: *Çok uyumuşum*, *Anahtarımı unutmuşum.*
-- **Sudden discovery** of a past event: *Meğer Ali gelmiş!* "Ali had come, as it turns out!" *Meğer* "it turns out" goes with *-mIş* (goksel2005 §21.4.3). *Galiba* "probably, I think" also often accompanies it: *Galiba yanlış otobüse binmişiz* "I think we've got on the wrong bus."
+- **Sudden discovery** of a past event: *Meğer Ali gelmiş!* "Ali had come, as it turns out!" *Meğer* "it turns out" goes with *-mIş* and marks a revised belief (goksel2005 §16.3 (iv)). *Galiba* "probably, I think" also often accompanies it: *Galiba yanlış otobüse binmişiz* "I think we've got on the wrong bus."
 - **Traditional narrative**: folk tales, anecdotes, jokes, history told from hearsay: the Nasreddin Hoca stories, and tales that begin *Bir varmış, bir yokmuş* "once upon a time" (literally "there was one, there wasn't one"; the copular form is taught in tur-04-08).
 - **What others say about you**, in the 2nd person: *Türkçe öğreniyormuşsun* "I hear you're learning Turkish" (copular, tur-04-08); with a finished event, *Ehliyet almışsın* "I hear you got your driving licence."
 - **Questions** where you expect the answer to be second-hand: *Ne demiş?* "What did he say (in his letter)?", *Film bitmiş mi?* "Has the film finished (can you see)?"

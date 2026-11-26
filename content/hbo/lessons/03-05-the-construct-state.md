@@ -17,7 +17,7 @@ English links two nouns with "of" or with *'s*: "the word of the LORD", "the kin
 
 The first noun is said to be in the **construct state**, glossed CSTR: a bound form that leans on the noun after it. The second is in its ordinary form, the **absolute state**. Grammars call the pair a **construct chain**.
 
-The construct is not marked by an ending. It is marked by what happens to the first noun's vowels. Gesenius explains the mechanism (§89a). The two nouns are said so closely together that the stress of the first is "forced on to" the second. The first noun loses its own stress. Its tone-long vowels, which needed that stress, shorten or reduce, exactly as in lesson 3.3. So *dāḇār* "word" becomes *dəḇar* "word of", and *yāḏ* "hand" becomes *yaḏ* "hand of". Gesenius stresses that the construct is therefore "simply phonetic and rhythmical" in origin, not a grammatical ending (§89a). He compares English compounds such as "landlord", in which two words share one stress.
+The construct is not marked by an ending. It is marked by what happens to the first noun's vowels. Gesenius explains the mechanism (§89a). The two nouns are said so closely together that the stress of the first is "forced on to" the second. The first noun loses its own stress. Its tone-long vowels, which needed that stress, shorten or reduce, exactly as in lesson 3.3. So *dāḇār* "word" becomes *dəḇar* "word of", and *yāḏ* "hand" becomes *yaḏ* "hand of". Gesenius concludes that the construct is in origin "phonetic and rhythmical", not a grammatical ending (§89a). He compares English compounds such as "landlord", in which two words share one stress.
 
 Often the two words are joined by maqqef: *bêṯ-YHWH*. That is a matter of the accents, not a rule; the chain is the same without it (§89b).
 
@@ -287,7 +287,7 @@ The construct chain is the Arabic *iḍāfa*. *bêṯ hammeleḵ* and *bayt al-m
 2. *zəqan*, *məqôm*, *śəḏēh*, *yaḏ* (lessons 3.3 and 3.5; §§27d, 93).
 3. "Abram settled in the land of Canaan." *ʾereṣ* is construct. Its form does not change, because segholates are their own construct, but it stands first and is bound to the name after it.
 4. *bêṯ hammeleḵ*. The article goes only on the last noun.
-5. *ʾîš ʾĕlōhîm* and *ʾîš hāʾĕlōhîm*. Strictly, *ʾĕlōhîm* meaning God is like a name and so definite; the article makes the definiteness explicit. Both phrases occur, and both are usually translated "the man of God". This is the kind of case Gesenius discusses in §127.
+5. *ʾîš ʾĕlōhîm* and *ʾîš hāʾĕlōhîm*. 1 Kings 13 shows both: a prophet is introduced as *ʾîš ʾĕlōhîm* "a man of God" (13:1), and from then on he is *ʾîš hāʾĕlōhîm* "the man of God" (13:4). The article on the last noun decides (§127a).
 6. *bēn ləšāʾûl*. A name is definite, so *ben-šāʾûl* would mean "the son of Saul". For an indefinite first noun, Hebrew keeps it absolute and uses *lə-* (§129c).
 7. "The man took a gold ring." No: the second noun, *zāhāḇ*, is indefinite, so the chain is indefinite.
 8. *zəqan hāʿîr*. Construct of *zāqēn*, then the definite noun; *ʿîr* takes *hā-* before ʿayin (lesson 2.2).

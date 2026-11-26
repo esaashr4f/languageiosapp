@@ -38,7 +38,7 @@ To say a Turkish vowel, start from one you know and change one setting.
 
 Now sort them. Front: *e i ö ü*. Back: *a ı o u*. Rounded: *o ö u ü*. High: *ı i u ü*. So *ü*, for example, is front, rounded and high.
 
-Sounds in this guide are written in the International Phonetic Alphabet, in square brackets. Most symbols are the letters you expect. The new ones are [ɯ] for *ı*, [œ] for *ö*, [y] for *ü*, and [ɟ] for the *g* of *göz* and *gün*, which the next lesson explains. Stress is not marked until lesson 7 of this part.
+Sounds are written in the International Phonetic Alphabet, in square brackets. Note [ɯ] for *ı*, [œ] for *ö*, [y] for *ü*, and [ɟ] for the *g* of *göz*, explained next lesson. Stress is not marked until lesson 7.
 
 ## Examples
 
@@ -224,8 +224,7 @@ French and German readers already own *ö* and *ü*: Turkish *göz* has the vowe
 3. Start from *i* and change one setting at a time to reach *u*. Name the vowel you pass through on each route, and say which setting changed.
 4. Write *ılık* "lukewarm" and *iki* in capital letters.
 5. A learner says *gün* with the vowel of English "goon". Which of the three settings is wrong?
-6. Sort the vowels of *at, ev, dil, kız, yol, göz, su, gün* into front and back.
-7. Why does no native Turkish suffix contain *o* or *ö*? What is the one exception, and how does its history explain it?
+6. Why does no native Turkish suffix contain *o* or *ö*? What is the one exception, and how does its history explain it?
 
 ## Worked answers
 
@@ -234,5 +233,4 @@ French and German readers already own *ö* and *ü*: Turkish *göz* has the vowe
 3. Two routes. Round the lips first: *i* becomes *ü* (front, rounded, high), then pull the tongue back to get *u*. Or pull the tongue back first: *i* becomes *ı* (back, unrounded, high), then round the lips to get *u*. Either way, two settings change and each step changes one.
 4. *ILIK* and *İKİ*. Dotless ı has a dotless capital, I. Dotted i keeps its dot in the capital, İ.
 5. Front or back. English "goon" has a back vowel, *u*. Turkish *ü* has the same height and the same rounded lips, but the tongue is forward, as for *i*.
-6. Front: *ev*, *dil*, *göz*, *gün* (e, i, ö, ü). Back: *at*, *kız*, *yol*, *su* (a, ı, o, u).
-7. In native words o and ö occur only in the first syllable, and a suffix never stands in the first syllable. The exception is *-iyor*. It was once a separate verb, *yorı-* "walk", whose o was in its own first syllable, and the o survived when the verb fused onto the word before it.
+6. In native words o and ö occur only in the first syllable, and a suffix never stands in the first syllable. The exception is *-iyor*. It was once a separate verb, *yorı-* "walk", whose o was in its own first syllable, and the o survived when the verb fused onto the word before it.

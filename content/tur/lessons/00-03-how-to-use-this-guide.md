@@ -15,7 +15,7 @@ sources: [goksel2005, tdk, wiktionary, wpphon, glottolog, wals, leipzig]
 
 The guide has nine parts after this one. Read them in order. Each lesson uses only what earlier lessons have taught, so skipping ahead will show you suffixes nobody has explained yet.
 
-Part 1 covers sounds and spelling, and above all vowel harmony. Part 2 gets you to short, complete sentences: "this is a book", "I am a teacher", "there is no tea", "she is coming". Part 3 covers nouns: the cases, possession and the pronouns. Part 4 is the verb, slot by slot, with its tenses and moods. Part 5 adds description and linking words. Part 6 shows how Turkish builds long sentences by turning whole clauses into nouns. Part 7 covers the special topics, from the passive to the Ottoman legacy. Part 8 reads real texts, from proverbs to a medieval poem. Part 9 is reference: the chart of suffix slots, tables, the glossary and the book list.
+Part 1 covers sounds and spelling, above all vowel harmony. Part 2 gets you to short, complete sentences. Part 3 covers nouns: cases, possession, pronouns. Part 4 is the verb, slot by slot. Part 5 adds description and linking words. Part 6 shows how Turkish builds long sentences by turning whole clauses into nouns. Part 7 covers special topics, from the passive to the Ottoman legacy. Part 8 reads real texts, from proverbs to a medieval poem. Part 9 is reference: the chart of suffix slots, tables, glossary and book list.
 
 Each lesson has the same shape. First the idea and the reason for it. Then how the form is built, step by step. Then examples. From part 2 on, a section maps everywhere the construction is used. Then the traps. A table comes only after the pattern has been explained. Each lesson ends with exercises and worked answers. Do the exercises before reading the answers: building a word yourself is the test of whether you understood it.
 
@@ -41,7 +41,7 @@ The second line cuts each word at the joins. A hyphen separates the stem from ea
 
 The third line is the **gloss**. It labels each piece, word under word and piece under piece, following the Leipzig Glossing Rules used by linguists. Meanings are in lower case: *book*, *house*. Grammatical labels are in capitals: PL, LOC. A full stop joins labels that share one piece: in *evim* "my house" the suffix *-im* is glossed 1SG.POSS, "first person singular possessive", because it says "mine" in one piece. Tap any label in the app to see what it stands for. Each is explained in plain words in the lesson that introduces it, and all of them are listed in part 9.
 
-Some meanings are not glossed, because Turkish does not mark them. A noun with no plural suffix is singular. A verb with no person suffix is "he, she or it". The guide does not write a label for an empty slot.
+An empty slot gets no label. A noun with no plural suffix is singular, and a verb with no person suffix means "he, she or it", but neither is glossed.
 
 A literal translation follows where it helps to show the Turkish order. Then comes natural English, and a note on what the example is there to show.
 
@@ -49,7 +49,7 @@ A literal translation follows where it helps to show the Turkish order. Then com
 
 In the prose and the tables of this guide, a suffix is written with capital letters wherever its sound changes. This follows the reference grammar of Göksel and Kerslake. You saw in the last lesson that the plural is *-ler* or *-lar*. The guide writes it **-lAr**: the capital A means "e or a, chosen by harmony". The other capitals work the same way. **I** means one of four vowels, **D** means d or t, **C** means c or ç. Letters in brackets appear only in some positions: **-(y)A** has a *y* after a vowel and none after a consonant.
 
-You never need to say these capitals aloud, and they never appear in Turkish text. They are a compact way of naming a suffix with all its shapes at once. Lesson 5 of part 1 explains them fully, once you know the harmony rules they stand for. The table at the end of this lesson lists them for reference.
+These capitals never appear in Turkish text. They name a suffix with all its shapes at once. Lesson 5 of part 1 explains them fully, and the table below lists them.
 
 ## Speech, writing and stress
 
@@ -75,7 +75,7 @@ Every word form, every plural and every case form was checked against the Turkis
 
 Pronunciation follows the published phonetic descriptions of Istanbul Turkish, reached through the English Wikipedia article on Turkish phonology and checked against Göksel and Kerslake. Comparisons with other languages use the World Atlas of Language Structures and Glottolog.
 
-Words are chosen by what each lesson's grammar needs and by everyday use. No frequency count of Turkish was available when this guide was written, so the choice rests on the dictionary and on the needs of the readings in part 8.
+Words are chosen by what each lesson's grammar needs and by everyday use. No frequency count of Turkish was available when this guide was written.
 
 The bibliography in part 9 gives full details and says what each source is good for.
 

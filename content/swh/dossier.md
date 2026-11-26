@@ -419,3 +419,11 @@ Translations are always our own.
 - Origins only from Wiktionary etymologies (-li-, -me-, -ta-, -ja-, hu- < ni ku-, kuto- < kutoa, -mesha-).
 - T&S PDF = printed −5 at pp. 180–187, −7 at 192, −9 at 204, −12 at 243–258, −15 at 267–273, −16 at 289–300; printed +7 at pp. 45–60.
 - Taken for later parts (do not re-list): tangu, -wahi, kamwe, ili, kama, ikiwa, halafu, kisha, -bichi, vigumu, rahisi, muhimu; derived verbs introduced whole (-funza, -onyesha, -chemsha, -rudisha, -safisha, -endesha, -poteza, -umiza, -tumia, -karibisha, -kutana, -badilika, -zaliwa, -olewa): part 7 explains, does not re-list. mpaka, hadi left for swh-06-11.
+
+
+## Notes from verifying part 4 (2026-11-26)
+
+- Disagreements now stated in lessons: same-subject -taka + subjunctive (Wikipedia "usually" vs T&S's different-subject rule); negating kuwa + -me- (Wikipedia -ja- vs Polomé: negate kuwa, or -ku- for -me-); class 18 object prefix (Almasi -m(w)- vs T&S, Wiktionary -mu-); -ngali before -ki-/-me- verbs (Polomé p. 153).
+- Confirmed (no longer unverified): -ka- nikala (T&S p. 184), plural kuleni (Almasi ch. 30–31).
+- Avoid -nya in examples (Wiktionary: both "rain" and "defecate"); use -nyesha.
+- More T&S offsets (printed → PDF): 68 → 70; 183–188 → 178–183; 191–197 → 184–189; 244–247 → 232–235; 268–273 → 253–258; 283–300 → 268–285.

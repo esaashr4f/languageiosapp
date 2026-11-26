@@ -21,3 +21,14 @@ Worked answers checked: 175   corrected: 0
 
 Corrections (summary): usiku plural siku (T&S p. 32); source attributions corrected (Almasi on meaning-based classes and ki/vi; ni dropped in speech credited to Wikipedia; animate agreement not from Mpiranya); unsourced explanations removed (lone vowel prefix loss); taa not native; class 12 in rare traces; possessives with animals reported per source (Almasi and Polomé w-; T&S rule vs their own example); mpira wa miguu has no plural; Almasi's four-way demonstrative scheme and word-order view added; mahali the older form, pahali = pa- + mahali; class 18 adjectives mu- (mahali murefu); Polomé's pronominal vs verbal concords distinguished.
 Still open: kucourse school names and WALS codings not re-opened; hapo "then" unsourced; class 15 negative subject haku- derived by rule; paka's lost nasal (part 1) not re-checked.
+
+### Part 4 — verified 2026-11-26 by fresh subagent
+Lessons checked: swh-04-01 to swh-04-19 (both reviews); cross-references in swh-02-02, 02-03, 02-07
+Forms checked: 851   corrected: 0   left unverified: 0
+Glosses checked: 625   corrected: 0
+Attested quotations checked: 10   corrected: 1
+Claims checked: 259   corrected or removed: 27
+Worked answers checked: 186   corrected: 4
+
+Corrections (summary): 8 stale lesson references in part 2 fixed against the syllabus; Polomé's verb positions compared accurately; source attributions corrected (Wiktionary, Wikipedia, T&S, Almasi, Polomé) and unsourced generalisations removed; -keti native; same-subject -taka + subjunctive is usual per Wikipedia (star removed, disagreement with T&S stated); negating kuwa + -me- per Polomé as well as Wikipedia; -ngali also before -ki-/-me- verbs (Polomé p. 153); class 18 object prefix -m(w)- (Almasi) vs -mu- (T&S, Wiktionary); -ka- classed under time (Polomé §2.4.4.5); afadhali + subjunctive (T&S p. 271).
+Still open: T&S page for wameenda/kuenda not found; some Japanese/Korean Connections not checked.

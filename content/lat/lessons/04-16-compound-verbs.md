@@ -74,7 +74,7 @@ confidence: constructed
 
 :::example
 orig: Labor cōnficitur.
-morphemes: labōr cōnfic-itur
+morphemes: labor cōnfic-itur
 gloss: work.NOM.SG finish-3SG.PASS
 translation: The work is being finished.
 note: A compound of faciō in -ficiō has a regular passive, unlike faciō itself (lesson 15).
@@ -134,8 +134,8 @@ confidence: attested
 
 :::example
 orig: Quō usque tandem abūtēre, Catilīna, patientiā nostrā?
-morphemes: quō_usque tandem abūt-ē-re Catilīn-a patienti-ā nostr-ā
-gloss: how.long at.last abuse-FUT-2SG.DEP Catiline-VOC.SG patience-ABL.SG our-ABL.SG.F
+morphemes: quō usque tandem abūt-ē-re Catilīn-a patienti-ā nostr-ā
+gloss: to.what.point all.the.way at.last abuse-FUT-2SG.DEP Catiline-VOC.SG patience-ABL.SG our-ABL.SG.F
 translation: How long, Catiline, will you go on abusing our patience?
 note: The first words of Cicero's first speech against Catiline. abūtor is ab + ūtor, and takes the ablative like ūtor. abūtēre is the -re form of abūtēris. patientia "patience" is glossed here; quō usque "how far, how long" is a question word, a preview (part 6).
 source: Cicero, Against Catiline 1.1
@@ -170,7 +170,7 @@ preview: third-declension adjective
 
 **Do not weaken the perfect stem when it has a long vowel.** *\*Interfīcī* is wrong; the perfect of *interficiō* is *interfēcī*, keeping the long *ē* of *fēcī*. Long vowels resist weakening (ag1903 §267a, note 2).
 
-**Do not keep the reduplication.** *\*Occecidī* and *\*expepulī* repeat a syllable the compound has lost: *occidī*, *expulī*. A few compounds do keep it (*occurrī* beside *occucurrī*), so check the dictionary.
+**Do not keep the reduplication.** *\*Occecidī* and *\*expepulī* repeat a syllable the compound has lost: *occidī*, *expulī*. Check the third principal part of each compound in the dictionary.
 
 **Do not confuse *occidō* and *occīdō*.** *Occidō* (short *i*, from *cadō*) is "fall, die, set (of the sun)"; *occīdō* (long *ī*, from *caedō*) is "kill". The same length difference as *cecidī* and *cecīdī* (lesson 6).
 
@@ -246,10 +246,10 @@ English is full of Latin compounds, often borrowed through French, and you can r
 
 1. Take apart *afferō*, *efficiō*, *colligō* and *occīdō*: prefix, simple verb, change, meaning.
 2. Give the principal parts of *suscipiō* and explain each from *capiō*.
-3. Translate *Caesar cōpiās ē castrīs ēdūxit et ad hostēs accessit* — *ēdūcō* "lead out" is new here, *ex* + *dūcō*.
+3. Translate *Caesar cōpiās ē castrīs ēdūxit et ad hostēs accessit*. (*Ēdūcō* "lead out", *ex* + *dūcō*, is new here.)
 4. Say "the general sent the soldiers away".
 5. Say "I understand your words".
-6. Correct *\*Mīlitēs urbem cōnfacere nōn possunt* and *\*Hostēs ducem interficiērunt*.
+6. Correct *\*Mīlitēs opus cōnfacere nōn possunt* ("the soldiers cannot finish the work") and *\*Hostēs ducem interficiērunt*.
 7. Why does *faciō* become *-ficiō* but *fēcī* stay *-fēcī* in compounds?
 8. What is the difference between *occidit* and *occīdit*?
 9. Translate *Nōlī spem āmittere* and explain the prefix.
@@ -261,7 +261,7 @@ English is full of Latin compounds, often borrowed through French, and you can r
 3. "Caesar led his troops out of the camp and approached the enemy." *Ēdūxit*: perfect, like *dūxit*. *Accessit*: perfect of *accēdō*, like *cessit*.
 4. *Dux mīlitēs dīmīsit.* *Dīmittō, dīmīsī*: perfect like *mīsī*.
 5. *Verba tua intellegō.* Third conjugation, like *legō*.
-6. *Mīlitēs urbem capere nōn possunt* or, with a compound, *expugnāre* would be needed; but the error is *\*cōnfacere*: the compound is *cōnficere*. *Hostēs ducem interfēcērunt*: the perfect keeps the long *ē* of *fēcī*.
+6. *Mīlitēs opus cōnficere nōn possunt*: the compound weakens *a* to *i* (ag1903 §267a, note 2). *Hostēs ducem interfēcērunt*: the perfect keeps the long *ē* of *fēcī*.
 7. Short vowels weaken in the unstressed syllable of a compound; long vowels do not (ag1903 §267a, note 2). *Fac-* has a short *a*; *fēc-* a long *ē*.
 8. *Occidit* (short *i*): "he falls, he dies" (present, from *cadō*). *Occīdit* (long *ī*): "he kills" or "he killed" (from *caedō*).
 9. "Don't lose hope." *Āmittō* is *ab* + *mittō*, "let go away", hence "lose". *Nōlī* + infinitive forbids (lesson 9).

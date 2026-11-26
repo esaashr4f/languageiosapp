@@ -13,17 +13,17 @@ sources: [gkc1910, oshb, bdb, wp-bh]
 
 ## The idea
 
-The Hebrew alphabet has twenty-two letters, and every one of them is a consonant. There is no letter for a, e, i, o or u. A Hebrew scribe wrote the skeleton of each word and left the reader to supply the vowels from knowledge of the language. That works better than it sounds, because of the root-and-pattern system: the consonants carry the meaning, and a reader who knows the patterns can usually hear the vowels.
+The Hebrew alphabet has twenty-two letters, and every one of them is a consonant. There is no letter for a, e, i, o or u. A Hebrew scribe wrote the skeleton of each word and left the reader to supply the vowels from knowledge of the language. That works better than it sounds: the consonants carry the root, and a reader who knows the patterns can usually hear the vowels.
 
-The vowel signs you see in printed Bibles came a thousand years later (lesson 3). This lesson is about the consonants alone. Every example below is printed with its vowel marks, because that is how you will always meet Hebrew in this guide. Ignore the marks for now and look at the letters. The transliteration shows you the whole word.
+The vowel signs you see in printed Bibles came a thousand years later (lesson 3). This lesson is about the consonants alone. The examples below are printed with their vowel marks, as all Hebrew in this guide is. Ignore the marks for now and look at the letters. The transliteration shows you the whole word.
 
 Hebrew is written and read **right to left**. A book opens from what an English reader thinks of as the back, and each line starts at the right margin.
 
-Each letter has a name, and in most cases the name begins with the letter's own sound. Yod, the letter for y, has the same consonants as *yāḏ* "hand"; ʿayin has those of *ʿayin* "eye"; resh is close to *rōʾš* "head". Gesenius thought the shapes began as rough pictures of these objects. He also warned that some of the names may be later guesses about what the shapes showed, so do not lean on them.
+Each letter has a name, and in most cases the name begins with the letter's own sound. Yod, the letter for y, has the same consonants as *yāḏ* "hand"; ʿayin has those of *ʿayin* "eye"; resh is close to *rōʾš* "head". Gesenius thought the shapes began as rough pictures of these objects, but warned that some names may be later guesses.
 
-## Where the letters come from
+### Where the letters come from
 
-The alphabet was invented in Canaan, probably in the middle of the second millennium BC, and all its early users wrote only consonants. Phoenicians, Israelites and Moabites used closely related forms of it. Greek, and through Greek the Latin alphabet you are reading now, descend from the same Phoenician source, which is why *alpha beta* echoes *alef bet*.
+The alphabet was invented in Canaan in the second millennium BC, and all its early users wrote only consonants. Greek, and through Greek the Latin alphabet you are reading now, descend from the same Phoenician source, which is why *alpha beta* echoes *alef bet*.
 
 The letters in this guide are not the shapes the earliest biblical scribes used. Until the Babylonian exile, Hebrew was written in an older script, now called **Palaeo-Hebrew**. You can see it on the Siloam tunnel inscription in Jerusalem (eighth century BC) and, in a closely related form, on the stone of the Moabite king Mesha (ninth century BC). After the exile, Jews gradually switched to the script of Aramaic, the language of the Persian empire. Out of that Aramaic hand grew the **square script** (in Hebrew *kəṯāḇ ʾaššûrî*, "Assyrian writing"), which was settled by about the third century BC.
 
@@ -162,14 +162,12 @@ confidence: verified
 - ט ṭet, ס samekh and final ם mem (ṭet is open at the top; samekh and final mem are closed, samekh round and mem square);
 - ע ʿayin and צ ṣade (ʿayin's tail runs to the left; ṣade has a flat base).
 
-**Final forms are not extra letters.** There are twenty-two letters, not twenty-seven. ך and כ are both kaf. Dictionaries put words ending in ך under the same letter as words with כ.
-
-**Do not read the line backwards.** When a Hebrew word appears inside an English sentence, your eyes jump. Each Hebrew word in this guide's prose is followed by its transliteration in italics, so you can always check which end is the start.
+**Final forms are not extra letters.** There are twenty-two letters, not twenty-seven. ך and כ are both kaf.
 
 ## Reference table
 
 :::table
-caption: The 22 letters in alphabetical order, with final forms
+caption: The 22 letters in alphabetical order, with final forms (where two transliterations are given, the second is the soft pronunciation: lessons 2 and 7)
 confidence: verified
 source: gkc1910 §5b–c
 | Letter | Final form | Name | Transliteration |
@@ -198,8 +196,6 @@ source: gkc1910 §5b–c
 | ת | | taw | t, ṯ |
 :::
 
-The six letters with two transliterations have a hard and a soft pronunciation. Lesson 2 gives the sounds, and lesson 7 the rule for which one you hear.
-
 ## New words
 
 :::vocab
@@ -219,7 +215,7 @@ The six letters with two transliterations have a hard and a soft pronunciation. 
 
 ## Connections
 
-The Arabic alphabet descends from the same Aramaic branch of the alphabet as the square script, and keeps the old order in its numerical sequence (*abjad*: alif, bāʾ, jīm, dāl). Like Hebrew, Arabic gives some letters a different shape at the end of a word, and writes right to left. The Greek letter names *alpha*, *beta*, *gamma*, *delta* are the Semitic names, borrowed with the letters.
+The Arabic alphabet is another descendant of the same ancestor, and keeps the old order in its numerical sequence (*abjad*: alif, bāʾ, jīm, dāl). Like Hebrew, Arabic gives some letters a different shape at the end of a word, and writes right to left. The Greek letter names *alpha*, *beta*, *gamma*, *delta* are the Semitic names, borrowed with the letters.
 
 ## Exercises
 

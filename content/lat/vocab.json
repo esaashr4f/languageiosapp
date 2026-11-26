@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 1089,
+ "count": 1197,
  "words": [
   {
    "headword": "pater",
@@ -8953,7 +8953,7 @@
    "translit": "",
    "pos": "verb",
    "meaning": "drink",
-   "forms": "bibere, bibī",
+   "forms": "bibere, bibī, bibitum",
    "first_lesson": "lat-05-06",
    "confidence": "verified"
   },
@@ -9801,6 +9801,978 @@
    "meaning": "knock, strike",
    "forms": "pulsāre, pulsāvī, pulsātum",
    "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quis",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "who?, what? (question word)",
+   "forms": "quid; see the table",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quī",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "which?, what? (question word, with a noun)",
+   "forms": "quae, quod",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quisnam",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "who (on earth)?",
+   "forms": "quaenam, quidnam",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-nam",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "(added to a question word for emphasis) on earth, pray",
+   "forms": "ubinam, quisnam",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ubi",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "where?; (lesson 3) where, when",
+   "forms": "final i usually short (ag1903 §604)",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "where to?, to what place?; to what end?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "unde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "where from?, from what place?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quā",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "by what way?, where?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quandō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "when?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cūr",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "why?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quōmodo",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "how?, in what way?",
+   "forms": "also written quō modō",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quemadmodum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "how?, in what manner?",
+   "forms": "also written quem ad modum",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quālis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "of what kind?, what sort of?",
+   "forms": "quāle",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quantus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "how great?, how much?",
+   "forms": "quanta, quantum",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quantum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "how much?, how greatly?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quot",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "how many?",
+   "forms": "not declined",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quotiēns",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "how often?, how many times?",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "utrum",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "(asks a question with two alternatives) whether",
+   "forms": "utrum … an",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "an",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or (in a question)",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "necne",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "or not (in a question)",
+   "forms": "",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "how (with an adjective or adverb); how!",
+   "forms": "quam diū \"how long?\"",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vādō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "go, walk",
+   "forms": "vādere",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "custōdiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "guard, watch over",
+   "forms": "custōdīre, custōdīvī, custōdītum",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vēritās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "truth",
+   "forms": "vēritātis, f.",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "artifex",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "artist, craftsman",
+   "forms": "artificis, m.",
+   "first_lesson": "lat-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quī",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "who, which, that (relative)",
+   "forms": "quae, quod",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīcumque",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "whoever, whatever",
+   "forms": "quaecumque, quodcumque",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quisquis",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "whoever, whatever",
+   "forms": "quidquid or quicquid",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tot",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "so many",
+   "forms": "not declined",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "totiēns",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "so often, so many times",
+   "forms": "",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "incolō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "live in, inhabit",
+   "forms": "incolere, incoluī",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "congregō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "gather together",
+   "forms": "congregāre, congregāvī, congregātum",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rescindō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "cut down, break down; cancel",
+   "forms": "rescindere, rescidī, rescissum",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "illūminō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "light up, give light to",
+   "forms": "illūmināre, illūmināvī, illūminātum; also spelled inlūminō",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lūceō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "shine",
+   "forms": "lūcēre, lūxī",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aethēr",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "upper air, sky",
+   "forms": "aetheris, m.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "stēlla",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "star",
+   "forms": "stēllae, f.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "forum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "public square, forum",
+   "forms": "forī, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "initium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "beginning",
+   "forms": "initiī, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "imāgō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "likeness, image; ghost",
+   "forms": "imāginis, f.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saeculum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "generation, age; century",
+   "forms": "saeculī, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sacerdōs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "priest, priestess",
+   "forms": "sacerdōtis, m. or f.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "heart",
+   "forms": "cordis, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vestīgium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "footprint, track, trace",
+   "forms": "vestīgiī, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sepulcrum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tomb",
+   "forms": "sepulcrī, n.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pōns",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bridge",
+   "forms": "pontis, m.",
+   "first_lesson": "lat-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "postquam",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "after, when",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "antequam",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "before",
+   "forms": "often split ante … quam",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "priusquam",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "before",
+   "forms": "often split prius … quam",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dum",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "while; as long as; (with subjunctive) until",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dōnec",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "until; (poetic) as long as",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quoad",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "as long as; until",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ac",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and; (simul ac) as soon as",
+   "forms": "before consonants; atque before vowels",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nec",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and not, nor",
+   "forms": "= neque",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ut",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "as; when (with the indicative); how",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quod",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "because; that",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quia",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "because",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quoniam",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "since, seeing that",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "proptereā",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "for that reason (often before quod)",
+   "forms": "",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adventus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "arrival",
+   "forms": "adventūs, m.",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "colloquium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "conversation, conference",
+   "forms": "colloquiī, n.; also spelled conloquium",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cultus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "way of life; refinement; worship",
+   "forms": "cultūs, m.",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hūmānitās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "humanity, kindness; civilisation",
+   "forms": "hūmānitātis, f.",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "subdūcō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "draw up, lead up; withdraw",
+   "forms": "subdūcere, subdūxī, subductum",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "advertō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "turn towards; (animum advertō) notice",
+   "forms": "advertere, advertī, adversum",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēsistō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "stop, cease (from)",
+   "forms": "dēsistere, dēstitī, dēstitum",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vigeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "flourish, thrive",
+   "forms": "vigēre, viguī",
+   "first_lesson": "lat-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōntiōnor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "address a meeting, make a speech",
+   "forms": "cōntiōnārī, cōntiōnātus sum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōntiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "public meeting; speech",
+   "forms": "cōntiōnis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "contendō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hurry; strive; fight; insist",
+   "forms": "contendere, contendī, contentum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "indūcō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lead in; induce, persuade",
+   "forms": "indūcere, indūxī, inductum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "excitō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "rouse; raise, put up",
+   "forms": "excitāre, excitāvī, excitātum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnstruō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "draw up (troops); equip; instruct",
+   "forms": "īnstruere, īnstrūxī, īnstrūctum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēspērō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "despair (of)",
+   "forms": "dēspērāre, dēspērāvī, dēspērātum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prōvideō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "foresee; provide (for)",
+   "forms": "prōvidēre, prōvīdī, prōvīsum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnfīdō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "trust (+ dat.), be confident",
+   "forms": "cōnfīdere, cōnfīsus sum (semi-deponent)",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēligō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "choose, pick out",
+   "forms": "dēligere, dēlēgī, dēlēctum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "imprōvīsus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unforeseen; (dē imprōvīsō) unexpectedly",
+   "forms": "imprōvīsa, imprōvīsum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "invītus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unwilling",
+   "forms": "invīta, invītum",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "equitātus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cavalry",
+   "forms": "equitātūs, m.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pedes",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "foot soldier",
+   "forms": "peditis, m.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "obses",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hostage",
+   "forms": "obsidis, m. or f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lēgātiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "embassy",
+   "forms": "lēgātiōnis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "coniūrātiō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "conspiracy",
+   "forms": "coniūrātiōnis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cupiditās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "desire, greed",
+   "forms": "cupiditātis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōbilitās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fame; the nobility",
+   "forms": "nōbilitātis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "inopia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lack, shortage; poverty",
+   "forms": "inopiae, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "altitūdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "height; depth",
+   "forms": "altitūdinis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "puppis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "stern (of a ship)",
+   "forms": "puppis, f.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "explōrātor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "scout, spy",
+   "forms": "explōrātōris, m.",
+   "first_lesson": "lat-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "reor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, suppose",
+   "forms": "rērī, ratus sum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "opīnor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, suppose",
+   "forms": "opīnārī, opīnātus sum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "suspicor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "suspect",
+   "forms": "suspicārī, suspicātus sum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "affirmō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "assert, declare",
+   "forms": "affirmāre, affirmāvī, affirmātum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnfirmō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "strengthen; assert",
+   "forms": "cōnfirmāre, cōnfirmāvī, cōnfirmātum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "polliceor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "promise",
+   "forms": "pollicērī, pollicitus sum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "minor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "threaten",
+   "forms": "minārī, minātus sum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "comperiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "find out, learn",
+   "forms": "comperīre, comperī, compertum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "simulō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pretend",
+   "forms": "simulāre, simulāvī, simulātum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dissimulō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hide, pretend not",
+   "forms": "dissimulāre, dissimulāvī, dissimulātum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnstringō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "bind fast; restrain",
+   "forms": "cōnstringere, cōnstrīnxī, cōnstrictum",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fore",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "to be going to be (future infinitive of sum)",
+   "forms": "= futūrum esse",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sēcrētō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "in private, secretly",
+   "forms": "",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rūmor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rumour, report",
+   "forms": "rūmōris, m.",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "opīniō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "opinion, belief; expectation",
+   "forms": "opīniōnis, f.",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "suspīciō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "suspicion",
+   "forms": "suspīciōnis, f.",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "testimōnium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "evidence, testimony",
+   "forms": "testimōniī, n.",
+   "first_lesson": "lat-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prophēta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "prophet",
+   "forms": "prophētae, m.",
+   "first_lesson": "lat-06-05",
    "confidence": "verified"
   }
  ]

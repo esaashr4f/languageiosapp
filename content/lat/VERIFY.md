@@ -121,3 +121,15 @@ Still open:
 - Section numbers within Cicero Fam. 7.18.3 and 7.25.2, Livy 21.10.10 and 2.43.9, Suetonius Iul. 37.2 and 32 rest on A&G or standard numbering (wording confirmed on The Latin Library).
 - Mil. 93 quoted as A&G quote it, without the intervening inquit.
 - Weiss, Sihler, Pinkster not opened (copyright); perfect-as-aspect claims agree with dossier §6.4.
+
+### Part 5 — verified 2026-11-26 by fresh subagent
+Lessons checked: lat-05-01 to lat-05-11 (including the review); lat-03-08 (one gloss)
+Forms checked: 1750   corrected: 2   left unverified: 0
+Glosses checked: 586   corrected: 1
+Attested quotations checked: 37   corrected: 1
+Claims checked: 230 (about 205 ag1903 sections opened)   corrected or removed: 28
+Worked answers checked: 110   corrected: 0
+
+Corrections (summary): lat-03-08 dīvīs-a gloss aligned; citations moved to the right A&G sections (§§117, 134d, 149, 310–311, 315a, 324, 345, 367, 382, 409a, 410); Romance claims corrected where words are learned borrowings (dulce, nulo, majeur, présent, amant); a real form (altiōrī) removed from a starred list; mīlia declined like animal, not mare; conjunction counts softened; recēns and frequēns treated as plain adjectives; plēnus regularly takes the genitive; lēgiōnī -> legiōnī, vide-mus -> vidē-mus; indefinite quis fem. pl. quae only; bibō given its supine bibitum; untaught words glossed in exercises (Gallī, forum).
+
+Still open: Suetonius and Gallic War subsection numbers rest on standard numbering; Plautus Mil. 885 quoted without the opening At; §158b cited for the future participle gives meaning not formation; A&G quīque vs Wiktionary quisque for the adjective (lesson follows Wiktionary).

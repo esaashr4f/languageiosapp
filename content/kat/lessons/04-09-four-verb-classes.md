@@ -20,7 +20,7 @@ The difference is the verb's **class**: the conjugation type it belongs to, whic
 1. **transitive (class 1)**: a doer acting on an object: *c̣ers* "writes", *ašenebs* "builds".
 2. **unaccusative or "happening" (class 2)**: something happens to the subject, or the subject comes to be in a state: *ic̣ereba* "is being written", *tbeba* "warms up". "Unaccusative" is the linguists' term for a verb whose subject undergoes rather than acts.
 3. **medial (class 3)**: a doer doing an activity, usually without an object: *ṭiris* "cries", *mušaobs* "works", *cxovrobs* "lives". Linguists call such verbs **unergative**: their single participant acts.
-4. **indirect (class 4)**: verbs of feeling, wanting and having, where the person who feels is in the dative: *uq̇vars* "loves", *aḳvs* "has" (lesson 4-18).
+4. **indirect (class 4)**: verbs of feeling, wanting and having, where the person who feels is in the dative: *uq̇vars* "loves", *akvs* "has" (lesson 4-18).
 
 Bolkvadze and Kiziria number the same four conjugations I to IV and describe them by voice: active (I), dynamic passive (II), medio-active (III), and a fourth group of static and "medio-passive" verbs that includes about forty verbs of feeling (IV). Their fourth group is a little wider than this guide's class 4: it also takes in verbs of position like "is standing". Nothing below depends on the difference.
 
@@ -164,7 +164,7 @@ confidence: constructed
 - **Class 1** covers the verbs of parts 2 and 4 with objects: *c̣ers*, *xaṭavs*, *ašenebs*, *xsnis*, *q̇idis* and the rest.
 - **Class 2** covers "is being done" (passives), "becomes, gets" (*tbeba* "gets warm"), and many verbs of motion and change (*midis* "goes", lesson 4-11).
 - **Class 3** covers most activities without an object: *mušaobs*, *tamašobs*, *cxovrobs*, *ṭiris*, *icinis*, *mɣeris*, *ceḳvavs*, *curavs*, *prinavs*, *nadirobs*, *čkarobs* "hurries". Some take an object in a looser sense: Bolkvadze and Kiziria give *man pexburti itamaša* "he played football" and *man simɣera imɣera* "he sang a song".
-- **Class 4** covers feelings, wants, possession, and bodily states: *uq̇vars*, *mosc̣ons*, *unda*, *aḳvs*, *hq̇avs* (lessons 4-18 to 4-19).
+- **Class 4** covers feelings, wants, possession, and bodily states: *uq̇vars*, *mosc̣ons*, *unda*, *akvs*, *hq̇avs* (lessons 4-18 to 4-19).
 - **Series I hides the differences.** In the present, imperfect, future and conditional, classes 1 to 3 all have a nominative subject. Only in series II and III do they part company.
 
 ## Watch out

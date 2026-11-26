@@ -51,6 +51,17 @@ confidence: verified
 :::
 
 :::example
+orig: संकल्प
+translit: saṃkalpa
+morphemes: saṃkalpa
+gloss: resolve
+translation: resolve, intention
+note: [sɐŋkɐlpɐ]. Before the stop k, anusvāra is said as the nasal of k's row, ṅ. The dictionary writes this word with the dot; some editions print सङ्कल्प, with the same sound.
+source: mw1899; wiktionary
+confidence: verified
+:::
+
+:::example
 orig: नमः
 translit: namaḥ
 morphemes: namaḥ

@@ -22,7 +22,7 @@ The Latin alphabet was not made for Swahili. It has no single letters for four c
 - *ny* for [ɲ], Spanish *ñ*;
 - *ng'* for [ŋ], the sound in English "singer".
 
-Each pair is one consonant. *Ch* in *chai* is not a *c* followed by an *h*.
+Each pair is one consonant.
 
 The apostrophe in *ng'* has a history. *Ng* without it spells something else: [ŋ] followed by [ɡ], as in English "finger". The first missionary writers mixed the two up. Polomé records that Bishop Steere's handbook of 1865 introduced *ng'* to keep them apart, and the standard spelling kept it. The difference matters: lesson 3 gives words that differ only in it.
 
@@ -35,7 +35,7 @@ Read a word from left to right and take these decisions.
 1. Is the next letter part of a digraph? Look for *ch*, *sh*, *ny* and *ng'*. Treat each as one consonant. It goes with the vowel after it, like any consonant: *cha-ku-la*, *nyo-ka*, *ng'o-mbe*.
 2. Is it *b*, *d*, *j* or *g*? Say a voiced stop as in English, with *g* always hard as in "go" and *j* as in "jam". On the coast you will hear these four as **implosives**: the voice is made while the air is drawn slightly inwards, giving a hollow, popping sound. Wiktionary writes them [ɓ ɗ ʄ ɠ]. Plain [b d dʒ ɡ] are normal for many speakers, and this guide does not ask you to make implosives.
 3. Is it *r*? Make a single tap of the tongue, as in Spanish *pero*: [ɾ]. Some speakers roll it.
-4. Is it *h*? Say it. *H* is never silent.
+4. Is it *h*? Say it. *H* is never silent, except as the second letter of a digraph.
 5. Is it a consonant followed by *w* or *y*? Say the two together at the start of the syllable: *kwe-li* "truth", *mwa-ka* "year". The *w* rounds the lips while the consonant is made.
 
 *S* is always [s], never [z]. *W* and *y* are as in English "wet" and "yet".
@@ -170,11 +170,9 @@ confidence: verified
 
 **Ng' at the start of a word.** English has [ŋ] only in the middle or at the end of words ("singer", "sing"), so starting a word with it feels odd. Say "singing" slowly, hold the *ng* in the middle, then try it again without the "si" in front: *ng'o-*.
 
-**R and l are different letters for a reason.** In standard Swahili *wali* and *wari* are two words. Polomé explains that in words of Bantu origin *r* was once only a variant of *l*; the many Arabic loans with *r* made the difference meaningful. In some regions speakers still mix them, and one teaching grammar describes this as poor standard Swahili. Keep them apart.
+**R and l are different letters for a reason.** In standard Swahili *wali* and *wari* are two words; Polomé explains that Arabic loans made the difference meaningful. Some speakers mix them, and one teaching grammar calls this poor standard Swahili. Keep them apart.
 
-**H is never silent and never a letter mark.** In *habari* it is a full [h]. The only *h* that is not [h] is the second letter of a digraph: *ch*, *sh*, and the Arabic ones of lesson 4.
-
-**Aspiration is real but unwritten.** A few pairs of words, like the two *paa*, once differed only by a puff of breath after *p*, *t*, *ch* or *k*. Polomé reports that most educated speakers in Dar es Salaam no longer make the difference, though some on the coast, especially further north, still do. Spelling never shows it. Lesson 3 explains where the puff came from.
+**Aspiration is real but unwritten.** A few pairs of words, like the two *paa*, once differed only by a puff of breath after *p*, *t*, *ch* or *k*. Polomé reports that most educated speakers in Dar es Salaam no longer make the difference, though some further north still do. Lesson 3 explains where the puff came from.
 
 ## Reference table
 

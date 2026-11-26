@@ -15,14 +15,14 @@ sources: [thompson2001, almasi2014, polome1967, wiktionary, wpgrammar]
 
 Every verb you have built so far states something: it happens, it happened, it will happen. Swahili has a second kind of verb form for things that are wanted, asked for, proposed or allowed rather than stated. This is the **subjunctive**: the form of the verb used for an action that someone wishes or requests, not one that is reported as fact.
 
-Its shape is simple. Take the subject prefix, leave the tense slot empty, add the root, and change the final vowel to *-e*: *u-som-e*, *usome* "(you) read, please; you should read". Thompson and Schleicher give the formula as subject prefix + verb with *-a* changed to *-e*. Wpgrammar describes the subjunctive as marked by "the lack of any tense prefix" and the *-e*.
+Its shape is simple. Take the subject prefix, leave the tense slot empty, add the root, and change the final vowel to *-e*: *u-som-e*, *usome* "(you) read, please; you should read". Thompson and Schleicher give the formula as subject prefix + verb with *-a* changed to *-e*. Wpgrammar describes the subjunctive as marked by "the lack of any Tense-Aspect-Mood prefix" and the *-e*.
 
 So the final vowel slot, which you have seen hold *-a* and *-i*, now holds a third value. Each one goes with a kind of verb: *-a* for statements, *-i* for the negative present, *-e* for the subjunctive.
 
 The usual adjustments follow from what you know:
 
 - **Loan verbs** have no final vowel to change, so the subjunctive is the subject prefix + the stem: *ujibu* "(you) answer", *turudi* "let's go back" (Thompson and Schleicher). Only the empty tense slot shows the mood.
-- **Short verbs** drop *ku-*: *nile* "let me eat", *wale* "let them eat" (Thompson and Schleicher). There is no tense marker to avoid stressing, and the subject prefix carries the stress (lesson 4.4).
+- **Short verbs** drop *ku-*: *wale* "let them eat" (Thompson and Schleicher), *nile* "let me eat" (Wiktionary). There is no tense marker to avoid stressing, and the subject prefix carries the stress (lesson 4.4).
 - **-enda** loses its *kw-* too: *niende* "let me go". With "we", Wiktionary gives both *twende* and *tuende*; *twende* "let's go" is one of the commonest words in the language.
 
 This lesson covers the uses where the subjunctive stands on its own as a request or proposal. Lesson 4.11 covers the uses after another verb ("I want you to...") and the negative.

@@ -148,7 +148,7 @@ confidence: verified
 orig: tembo
 morphemes: tembo
 gloss: elephant
-translation: elephant (coastal word)
+translation: elephant
 note: From Bantu *ntémbó. The first nasal was lost before t; the mb inside the word was kept, because b is voiced.
 source: wiktionary
 confidence: verified
@@ -206,7 +206,7 @@ punda | - | noun | donkey | 9/10, pl. punda
 mvua | - | noun | rain | 9, no plural
 mbwa | - | noun | dog | 9/10 with agreement of 1/2; pl. mbwa
 paka | - | noun | cat | 9/10, pl. paka
-tembo | - | noun | elephant | 9/10, pl. tembo; coastal word
+tembo | - | noun | elephant | 9/10, pl. tembo; Mombasa says ndovu (Polomé)
 njaa | - | noun | hunger; famine | 9/10
 nzige | - | noun | locust | 9/10, pl. nzige
 shamba | - | noun | farm, field, plot | 5/6, pl. mashamba

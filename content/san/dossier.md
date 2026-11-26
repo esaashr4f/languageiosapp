@@ -129,7 +129,7 @@ Other signs:
 |---|---|---|---|
 | ṃ | ं | U+0902 | anusvāra. IAST ṃ is U+1E43 (dot below). Do not use ṁ U+1E41 (dot above, the ISO 15919 letter). |
 | ḥ | ः | U+0903 | visarga; IAST ḥ U+1E25 |
-| m̐ | ँ | U+0901 | candrabindu (nasalised semivowel in sandhi: *tāṃl lokān*, often printed *tām̐l lokān*). IAST m + U+0310 COMBINING CANDRABINDU; no precomposed form. Rare: use only when the edition has it. |
+| m̐ | ँ | U+0901 | candrabindu (final *n* before *l* becomes nasalised *l*: *tān lokān* → *tām̐l lokān*, whitney1889 §206). IAST m + U+0310 COMBINING CANDRABINDU; no precomposed form. Rare: use only when the edition has it. |
 | ' | ऽ | U+093D | avagraha: marks an initial *a* lost after -e or -o (*śāśvato 'yaṃ*). IAST uses ASCII apostrophe U+0027, as GRETIL does; not ’ U+2019. |
 | \| | । | U+0964 | daṇḍa, end of a half-verse or sentence. In `translit` write \| (U+007C); in prose write the Devanagari sign. |
 | \|\| | ॥ | U+0965 | double daṇḍa, end of a verse or paragraph |
@@ -180,7 +180,7 @@ got = d2i(sys.argv[1]); print('OK' if got == u.normalize('NFC', sys.argv[2]) els
 
 ### Spelling conventions inside IAST
 
-- **Final m before a consonant** is written ṃ (anusvāra), as GRETIL writes it (*enaṃ vetti*, *saṅgaṃ tyaktvā*), never the homorganic nasal (*enan vetti*), even though Pāṇini allows that too. Before a vowel and at a pause, m. Inside a word, follow the dictionary: a nasal before a stop is written as the stop's own nasal (*aṅga*, *pañca*, *kaṇṭha*, *anta*, *kampa*), before *ś ṣ s h* and *y r l v* as ṃ (*saṃsāra*, *vaṃśa*, *saṃyoga*, *siṃha*). Cologne MW writes some of these with ṃ (*saṃkalpa*) and Wiktionary with the nasal (*saṅkalpa*): follow mw1899 and do not make a point of it.
+- **Final m before a consonant** is written ṃ (anusvāra), as GRETIL writes it (*enaṃ vetti*, *saṅgaṃ tyaktvā*), never the homorganic nasal (*enan vetti*), even though Pāṇini allows that too. Before a vowel and at a pause, m. Inside a word, follow the dictionary: a nasal before a stop is written as the stop's own nasal (*aṅga*, *pañca*, *kaṇṭha*, *anta*, *kampa*), before *ś ṣ s h* and *y r l v* as ṃ (*saṃsāra*, *vaṃśa*, *saṃyoga*, *siṃha*). Exception: the prefix *sam-* keeps ṃ before a stop too, as mw1899 and Wiktionary both spell it (*saṃkalpa*, checked in both); editions sometimes print *saṅkalpa*. Follow mw1899 and do not make a point of it.
 - **Capitals:** none in example fields (IAST has no case and Devanagari none). Names keep lower case in `translit` and `morphemes`; in `gloss` and English prose they get a capital (*nala* → `Nala`).
 - **Doubled consonants after r** (*karmma*, *arttha*), common in older printing and manuscripts, are normalised to the dictionary spelling (*karma*, *artha*).
 - Vedic accent marks (Devanagari U+0951, U+0952; IAST acute and grave) are stripped everywhere except in san-07-10.

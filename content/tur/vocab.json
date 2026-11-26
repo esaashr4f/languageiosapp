@@ -1,0 +1,942 @@
+{
+ "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
+ "count": 104,
+ "words": [
+  {
+   "headword": "at",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "horse",
+   "forms": "acc. atı",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ev",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "house, home",
+   "forms": "acc. evi",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dil",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tongue; language",
+   "forms": "acc. dili",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kız",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "girl; daughter",
+   "forms": "acc. kızı",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yol",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "road, way",
+   "forms": "acc. yolu",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "göz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "eye",
+   "forms": "acc. gözü",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "su",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "water",
+   "forms": "acc. suyu",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gün",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "day",
+   "forms": "acc. günü",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kır",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "countryside, open country",
+   "forms": "acc. kırı",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kir",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dirt",
+   "forms": "acc. kiri",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "el",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hand",
+   "forms": "acc. eli",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iki",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "two",
+   "forms": "",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "üç",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "three",
+   "forms": "",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "on",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "ten",
+   "forms": "",
+   "first_lesson": "tur-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cam",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "glass",
+   "forms": "acc. camı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çay",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tea",
+   "forms": "acc. çayı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "şey",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "thing",
+   "forms": "acc. şeyi",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jilet",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "razor blade",
+   "forms": "acc. jileti",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gece",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "night",
+   "forms": "acc. geceyi",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kar",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "snow",
+   "forms": "acc. karı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kedi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cat",
+   "forms": "acc. kediyi",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kol",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "arm",
+   "forms": "acc. kolu",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "göl",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lake",
+   "forms": "acc. gölü",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bal",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "honey",
+   "forms": "acc. balı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gül",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rose",
+   "forms": "acc. gülü",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sabah",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "morning",
+   "forms": "acc. sabahı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kahve",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "coffee",
+   "forms": "acc. kahveyi",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tavuk",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "chicken",
+   "forms": "acc. tavuğu",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "elli",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "fifty",
+   "forms": "",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ad",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "name",
+   "forms": "acc. adı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bir",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "one; a, an",
+   "forms": "",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kapı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "door",
+   "forms": "acc. kapıyı",
+   "first_lesson": "tur-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dağ",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mountain",
+   "forms": "acc. dağı; said [daː]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yağmur",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rain",
+   "forms": "acc. yağmuru",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ağaç",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tree",
+   "forms": "acc. ağacı",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "soğuk",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "cold",
+   "forms": "also noun \"the cold\", acc. soğuğu",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ağır",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "heavy; slow",
+   "forms": "",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "doğru",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "true, right, correct",
+   "forms": "said [doːɾu]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saat",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hour; clock, watch; time",
+   "forms": "acc. saati; said [saːt]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tarih",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "history; date",
+   "forms": "acc. tarihi; said [taːɾih]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mavi",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "blue",
+   "forms": "said [maːvi]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dakika",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "minute",
+   "forms": "acc. dakikayı; said [dakiːka]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kâr",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "profit",
+   "forms": "acc. kârı; said [caɾ]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hâlâ",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "still, yet",
+   "forms": "said [haːlaː]",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hala",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "paternal aunt (father's sister)",
+   "forms": "acc. halayı",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kâğıt",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "paper",
+   "forms": "acc. kâğıdı",
+   "first_lesson": "tur-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kadın",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "woman",
+   "forms": "acc. kadını",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "deniz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sea",
+   "forms": "acc. denizi",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "araba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "car; cart",
+   "forms": "acc. arabayı",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "okul",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "school",
+   "forms": "acc. okulu",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "oda",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "room",
+   "forms": "acc. odayı",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "elma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "apple",
+   "forms": "acc. elmayı; mixed vowels",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "anne",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mother",
+   "forms": "acc. anneyi; mixed vowels",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kardeş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "brother or sister, sibling",
+   "forms": "acc. kardeşi; mixed vowels",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çocuk",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "child",
+   "forms": "acc. çocuğu",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ekmek",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bread",
+   "forms": "acc. ekmeği",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalem",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "pen, pencil",
+   "forms": "acc. kalemi; from Arabic",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "güzel",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "beautiful; nice",
+   "forms": "",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "büyük",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "big; elder",
+   "forms": "",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "küçük",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "small, little",
+   "forms": "",
+   "first_lesson": "tur-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "baş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "head; beginning",
+   "forms": "acc. başı",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yüz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "face",
+   "forms": "acc. yüzü; also the numeral \"hundred\"",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "diz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "knee",
+   "forms": "acc. dizi",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "söz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "word, remark; promise",
+   "forms": "acc. sözü",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "work, job, task",
+   "forms": "acc. işi",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kuş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bird",
+   "forms": "acc. kuşu",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tuz",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "salt",
+   "forms": "acc. tuzu",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "süt",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "milk",
+   "forms": "acc. sütü",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ay",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "moon; month",
+   "forms": "acc. ayı",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yıl",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "year",
+   "forms": "acc. yılı",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "köy",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "village",
+   "forms": "acc. köyü",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tuzlu",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "salty",
+   "forms": "tuz + -lI",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sütlü",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "milky; with milk",
+   "forms": "süt + -lI",
+   "first_lesson": "tur-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kitap",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "book",
+   "forms": "acc. kitabı; from Arabic",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "köpek",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dog",
+   "forms": "acc. köpeği",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "renk",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "colour",
+   "forms": "acc. rengi",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "balık",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fish",
+   "forms": "acc. balığı",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sokak",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "street",
+   "forms": "acc. sokağı",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "top",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ball",
+   "forms": "acc. topu",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "park",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "park",
+   "forms": "acc. parkı",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saç",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hair (of the head)",
+   "forms": "acc. saçı",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sütçü",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "milkman",
+   "forms": "süt + -CI",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "balıkçı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fisherman; fishmonger",
+   "forms": "balık + -CI",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kapıcı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "doorman, gatekeeper",
+   "forms": "kapı + -CI",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kitapçı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bookseller; bookshop",
+   "forms": "kitap + -CI",
+   "first_lesson": "tur-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "masa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "table",
+   "forms": "acc. masayı",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Ankara",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Ankara, the capital of Turkey",
+   "forms": "stressed Ánkara",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "İstanbul",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Istanbul",
+   "forms": "stressed İstánbul",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Türkiye",
+   "translit": "",
+   "pos": "proper noun",
+   "meaning": "Turkey",
+   "forms": "stressed Tǘrkiye",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lokanta",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "restaurant",
+   "forms": "acc. lokantayı; stressed lokánta; from Italian",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "banka",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bank",
+   "forms": "acc. bankayı; stressed bánka",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pencere",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "window",
+   "forms": "acc. pencereyi; stressed péncere; from Persian",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "şimdi",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "now",
+   "forms": "stressed şímdi",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bebek",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "baby; doll",
+   "forms": "acc. bebeği",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ordu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "army",
+   "forms": "acc. orduyu",
+   "first_lesson": "tur-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "otobüs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bus",
+   "forms": "acc. otobüsü; from French",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "telefon",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "telephone",
+   "forms": "acc. telefonu; from French",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tren",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "train",
+   "forms": "acc. treni; from French",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "spor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sport",
+   "forms": "acc. sporu",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "istasyon",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "station",
+   "forms": "acc. istasyonu; from French",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rol",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "role",
+   "forms": "acc. rolü (front suffixes); from French",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalp",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "heart",
+   "forms": "acc. kalbi (front suffixes); from Arabic",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Türk",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Turk",
+   "forms": "pl. Türkler",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Türkçe",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Turkish (the language)",
+   "forms": "Türk + -CA",
+   "first_lesson": "tur-01-08",
+   "confidence": "verified"
+  }
+ ]
+}

@@ -285,3 +285,13 @@ Translations are always our own.
   - **Persian**: *ki* 'that' and the izafet (*Türk-i*, in Ottoman and set phrases) are Persian; cross-link Persian (`pes`) and Ottoman (`ota`) in tur-07-11.
   - **Georgian** (in the app): another verb-final language with case suffixes and postpositions; Georgian has many Turkish loanwords **(check in kat dossier or wiktionary before claiming any)**.
 - Do not use vulgar proverbs from the wiktionary category. Avoid political material in examples (beyond the fixed readings, which are presented as historical documents).
+
+
+## Notes from drafting parts 0 and 1 (2026-11-26)
+
+- Confirmed against goksel2005 (owner's copy): 1928 alphabet and 1932 vocabulary campaign (Introduction pp. xxv–xxix); colloquial r-loss in -Iyor and *bir* [bi]; ğ in *ağaç*, *değil* [dejil]/[diːl], *soğuk*; j words (*jilet*, *garaj*); final b/d only in a few words (*ad*, *hac*) (§1.1.1.1); circumflex use declining; -(I)yor called "imperfective" by G&K. These items are no longer unverified.
+- "fıstıkçı şahap" remains unverified as a school mnemonic; present it only as a phrase whose consonants are the voiceless set.
+- Wiktionary and G&K disagree on exceptional stress (*belki*, *Mısır*): do not rely on Wiktionary IPA alone for stress exceptions; prefer G&K.
+- Part 3 must teach vowel loss (*oğul/oğlu*, *isim/ismi*) and doubling in Arabic loans (*hak/hakkı*) when the accusative arrives; tur-01-06 does not.
+- Part 2 must teach the stress behaviour of mI, -mA, -(I)yor and person endings after nouns (promised in tur-01-07), and introduce *bu*, *ne*, *değil*, *var*, *gel-*, *yap-* (shown but not yet in vocab).
+- Conventions: derivational suffixes glossed in lower case (salt-with, milk-seller); choose one gloss for -CI ("seller" vs "person.dealing.in") at first grammatical use and record it here. Proper names drop the apostrophe in morphemes (İstanbul-a). Acute stress marks only in tur-01-07 and vocab notes.

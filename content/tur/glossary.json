@@ -186,5 +186,27 @@
    "tag": "reflexive-reciprocal"
   }
  },
- "terms": {}
+ "terms": {
+  "Turkic": "The language family Turkish belongs to, spread from Turkey to Siberia (tur-00-01).",
+  "Oghuz": "The south-western branch of Turkic, with Turkish, Azerbaijani and Turkmen (tur-00-01).",
+  "Ottoman Turkish": "The written Turkish of the Ottoman Empire, in Arabic script with heavy Arabic and Persian borrowing (tur-00-01).",
+  "suffix": "A piece added to the end of a word (tur-00-02).",
+  "stem": "The part of a word that suffixes attach to (tur-00-02).",
+  "agglutinative": "Built by adding suffixes one after another, each with one meaning (tur-00-02).",
+  "vowel harmony": "The rule that a suffix's vowel matches the vowels of the word it joins (tur-00-02).",
+  "gloss": "The line under an example that labels each piece of each word (tur-00-02).",
+  "front vowel": "A vowel made with the tongue forward: e, i, ö, ü (tur-01-01).",
+  "back vowel": "A vowel made with the tongue pulled back: a, ı, o, u (tur-01-01).",
+  "rounded vowel": "A vowel made with rounded lips: o, ö, u, ü (tur-01-01).",
+  "voiced": "Made with the vocal cords vibrating, as b, d, g (tur-01-02).",
+  "voiceless": "Made without vibration, as p, t, k (tur-01-02).",
+  "soft g": "The letter ğ, which lengthens or glides the vowel before it rather than sounding as a consonant (tur-01-03).",
+  "circumflex": "The mark on â, î, û, showing a long vowel or a softened consonant before it in loanwords (tur-01-03).",
+  "two-way harmony": "A suffix vowel that is e after front vowels and a after back ones (tur-01-04).",
+  "four-way harmony": "A suffix vowel that is i, ı, ü or u, matching both front/back and rounding (tur-01-05).",
+  "assimilation": "A sound changing to match its neighbour, as d becoming t after a voiceless consonant (tur-01-06).",
+  "buffer consonant": "A consonant (y, n, s) inserted between two vowels when a suffix joins a stem (tur-01-06).",
+  "stress": "The extra prominence on one syllable of a word (tur-01-07).",
+  "pre-stressing suffix": "A suffix that cannot take stress and pushes it onto the syllable before it (tur-01-07)."
+ }
 }

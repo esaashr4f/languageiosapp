@@ -1,5 +1,5 @@
 {
- "count": 153,
+ "count": 154,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1398,7 +1398,16 @@
    "script": "Tamil + transliteration (Tamil-Brahmi intro)",
    "depth": "B",
    "notes": "Sangam (Caṅkam) poetry and the Tolkāppiyam; cross-link Tamil, Malayalam, Telugu"
+  },
+  {
+   "number": 154,
+   "name": "Linguistics: the theory behind every guide",
+   "iso": "qli",
+   "group": "Theory",
+   "script": "Latin + IPA; examples in each language's own script",
+   "depth": "A",
+   "notes": "Not a language: a guide to linguistics itself (phonetics and IPA, phonology, morphology, syntax, semantics and pragmatics, typology, historical linguistics and reconstruction, writing systems, sociolinguistics, Leipzig glossing). Every example comes from a language in the atlas and links to that guide. Code qli is from ISO 639's local-use range (qaa–qtz), so it cannot clash with a real language. Written first after the pilot gate."
   }
  ],
- "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."
+ "writing_order_note": "Pilot (pilot field), then 154 (the linguistics guide), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."
 }

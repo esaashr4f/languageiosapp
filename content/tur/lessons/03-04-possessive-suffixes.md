@@ -19,7 +19,7 @@ English puts "my" in front of the noun. Turkish puts it at the end, as a suffix:
 
 **The owner can stay unsaid.** The suffix already tells you the person, so a separate word for "my" is not needed, just as *geliyorum* needs no *ben* (tur-02-08). *Evim büyük* is a full sentence: "my house is big". A separate owner word, *benim* "my", exists, and you will meet it with the genitive (tur-03-05); it adds emphasis or clarity.
 
-**Possessed means definite.** A noun with a possessive suffix refers to something identifiable, so as a direct object it always takes the accusative (goksel2005 §14.3.3.2): *kitabımı okuyorum* "I'm reading my book", never *\*kitabım okuyorum*.
+**Possessed objects take the accusative.** As a direct object, a noun with a possessive suffix always takes the accusative, even an indefinite one such as *bir arkadaşım* "a friend of mine" (goksel2005 §14.3.3.2): *kitabımı okuyorum* "I'm reading my book", never *\*kitabım okuyorum*.
 
 ## How it is built
 
@@ -127,7 +127,7 @@ orig: Biletimi arıyorum.
 morphemes: bilet-im-i ar-ıyor-um
 gloss: ticket-1SG.POSS-ACC look.for-PROG-1SG
 translation: I'm looking for my ticket.
-note: A possessed object is definite, so it must take the accusative.
+note: A possessed object must take the accusative (goksel2005 §14.3.3.2).
 source: constructed
 confidence: constructed
 :::
@@ -191,7 +191,7 @@ confidence: constructed
 
 **Do not forget the vowel/consonant switch.** *\*Arabaım*, *\*arabaı*, *\*arabaımız* are wrong. After a vowel: *arabam*, *arabası*, *arabamız*. After a consonant: *evim*, *evi*, *evimiz*, never *\*evsi*.
 
-**Do not mix up the 3SG -(s)I and the accusative -(y)I.** After a vowel they differ: *arabası* "his car", *arabayı* "the car (object)". After a consonant they are identical, *evi*, and you must read the sentence: *Evi büyük* "his house is big"; *Evi görüyorum* "I see the house" or "I see his house" (tur-03-01).
+**Do not mix up the 3SG -(s)I and the accusative -(y)I.** After a vowel they differ: *arabası* "his car", *arabayı* "the car (object)". After a consonant they are identical, *evi*, and you must read the sentence: *Evi büyük* "his house is big"; *Evi görüyorum* "I see the house" (tur-03-01); "his house" as an object is *evini* (tur-03-06).
 
 **Do not confuse "my" with "I am".** *Öğretmenim* is both "my teacher" (possessive *-(I)m*) and "I'm a teacher" (personal ending *-(y)Im*, tur-02-02). After a vowel they part: *arabam* "my car", but *hastayım* "I'm ill", with the buffer *y*. Stress also differs: possessive *öğretmením* (stressed), personal ending *öğretmenim* with the stress before it (goksel2005 §4.3.2).
 
@@ -199,7 +199,7 @@ confidence: constructed
 
 **Do not use a bare noun for body parts.** *\*Baş ağrıyor* sounds like a general statement about heads. Say whose: *Başım ağrıyor*. Spanish *me duele la cabeza* and French *j'ai mal à la tête* use "the"; Turkish uses "my".
 
-**Do not leave a possessed object bare.** *\*Biletim arıyorum* is wrong. A possessed noun is definite, so as an object: *Biletimi arıyorum*.
+**Do not leave a possessed object bare.** *\*Biletim arıyorum* is wrong. A possessed noun as an object always takes the accusative: *Biletimi arıyorum*.
 
 **Do not forget the stem changes.** *\*Kitapım*, *\*çocukum*, *\*oğulum*, *\*fikirim* are wrong: *kitabım*, *çocuğum*, *oğlum*, *fikrim*. And *su* is *suyum*, not *\*sum*.
 

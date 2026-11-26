@@ -7,3 +7,4 @@ dist/
 .cache/
 private-sources/
 __pycache__/
+/lemforms.json

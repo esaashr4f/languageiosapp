@@ -46,7 +46,7 @@ The same chain works for people, which you already do: *watoto* is class 2, the 
 
 **Three ways of naming the classes.** You will meet all three.
 
-- **Numbers**, 1 to 18, shared by all Bantu languages, so that class 7 in Swahili corresponds to class 7 in Zulu or Kikuyu. Class 13 does not exist in Swahili and class 12 is extremely rare (Thompson and Schleicher). This guide uses numbers.
+- **Numbers**, 1 to 18, shared by the Bantu languages, so that class 7 in Swahili corresponds to class 7 in its relatives (Wikipedia's grammar article). Class 13 does not exist in Swahili and class 12 is extremely rare (Thompson and Schleicher). This guide uses numbers.
 - **Pair names by the noun prefix**: m-wa (1/2), m-mi (3/4), ji-ma (5/6), ki-vi (7/8), n (9/10), u (11 and 14), and the place and infinitive classes pa, ku, mu. Almasi and colleagues organise their book this way, with eight named classes.
 - **School names by agreement.** East African schools name each class after the subject prefixes it takes, singular and plural: A-WA, U-I, LI-YA, KI-VI, I-ZI, U-ZI, U-U, KU-KU, PA, KU, MU (University of Kansas course notes). So the m-mi class is "U-I" because *mti* takes *u-* and *miti* takes *i-*.
 

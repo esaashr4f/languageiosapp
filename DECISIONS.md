@@ -68,3 +68,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-26: The plan stays pilot-first (owner confirmed). Pilot dossiers were already done, so lesson drafting starts for kat and hbo (parts 0 and 1) alongside Latin, instead of waiting for the Latin exemplar to be complete. The grc and pli dossier agents were stopped before writing anything; those dossiers wait.
 - 2026-11-26: Nothing outside the six pilot languages is started until the pilot gate is passed (grc and pli dossiers were started by mistake and stopped before writing anything).
 - 2026-11-26: Owner asked to start Turkish and Swahili lessons too: all six pilot languages are now in progress, one agent each (seven agents in all with Latin verification and the Sanskrit dossier).
+- 2026-11-26: lat: macron conflicts between Allen and Greenough and Wiktionary: keep AG where the lesson cites AG, with a note on the variant; otherwise Wiktionary. Quotations may modernise vo- to vu-.

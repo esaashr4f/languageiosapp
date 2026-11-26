@@ -99,6 +99,10 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - *ego*, *mihi*, *tibi*, *sibi* printed without a macron on the final vowel (ag1903 §604, Wiktionary: common). *hic* (pronoun) short i, *hīc* (adverb) long.
 - Ablative prepositions entered as *ā*, *ē* with *ab*, *ex* noted as forms.
 - `preview:` may name a feature in words ("pronoun", "third-conjugation present", "numeral") as well as an abbreviation.
+- *mare* has no usable classical genitive plural (*marum* once; *marium* unattested: ag1903 §78, Wiktionary): do not set it in exercises.
+- Gallic War is cited by the Perseus/Latin Library section numbering (*Dumnorīgem ad sē vocat* is 1.20.5).
+- Where Allen and Greenough and Wiktionary disagree on a macron and the lesson cites Allen and Greenough (*tētē* vs *tēte*, *fideī* vs *fidē̆ī*), keep Allen and Greenough and add a short note on the variant; otherwise follow Wiktionary.
+- Quoted text may modernise *vo-* to *vu-* (*voltu* -> *vultū*) along with u/v, i and macrons; say so in the note when it matters.
 - Where sources disagree on a form (*sēdēs* gen. pl., ag1903 §78 -um vs Wiktionary *sēdium*; *prīnceps* vowel length), avoid the word in examples or present it as an exception.
 
 ## 5. Major paradigms and where to check them

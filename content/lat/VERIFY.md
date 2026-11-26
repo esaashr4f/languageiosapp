@@ -77,3 +77,24 @@ Corrections:
 Still open:
 - lat-02-08: Pinkster 2015 and Devine and Stephens 2006 (word order varies by author and genre) not opened; agrees with dossier §6.3.
 - lat-02-01: *ibi* written without macron; Wiktionary marks the final i as variable.
+
+### Part 3 — verified 2026-11-26 by fresh subagent
+Lessons checked: lat-03-01 to lat-03-14 (corrections by an earlier, interrupted verifier to 03-01 to 03-04 were re-checked)
+Forms checked: 1471 (799 distinct forms, each looked up on Wiktionary)   corrected: 1   left unverified: 0
+Glosses checked: 540   corrected: 1
+Attested quotations checked: 26   corrected: 1
+Claims checked: 253   corrected or removed: 7
+Worked answers checked: 128   corrected: 2
+
+Corrections:
+- lat-03-05: prepositions "most" still adverbs -> "many" (§219); apud with a place marked rare and archaic (§221.4a); only a one-syllable preposition stands between adjective and noun (§599 d).
+- lat-03-08: genitive plural of mare given as *marum* (once), noting that regular *marium* is not found in classical texts (§78; Wiktionary); worked answer 3 to match; i-stem/consonant-stem merger claim softened (§§73–76).
+- lat-03-10: Caesar, Gallic War 1.20.6 -> 1.20.5; asterisk removed from the correct sentence *Marītus uxōrem suam amat*; worked answer 7: reflexive points to the subject "in a simple sentence" (§300).
+- lat-03-11: John 1:5 translation aligned with the gloss ("has not grasped it"); description of is-ea-id aligned with §297 d.
+- lat-03-12: unsourced *hum-ce* origin replaced by §146 a Note 1 (*hum* + particle; *hunce* attested).
+- lat-03-13: ablative of duration is "only occasional" (§424 b), not wrong.
+
+Still open:
+- lat-03-10 *tētē* (ag1903 §143 e) vs Wiktionary *tēte*; lat-03-09 *fideī* (ag1903 §96) vs Wiktionary *fidē̆ī*: kept with Allen and Greenough, which the lessons cite.
+- lat-03-09: *vultū* printed where The Latin Library has *voltu*.
+- Comparative remarks on Korean and Japanese (03-07, 03-10, 03-11) not checked against a source; they are not historical claims.

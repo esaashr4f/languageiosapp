@@ -220,7 +220,7 @@ preview: PST, PTCP, OPT
 :::table
 caption: Masculine agni "fire" and guru "teacher"
 confidence: verified
-source: wiktionary अग्नि, गुरु; whitney1889 §339
+source: wiktionary अग्नि, गुरु; whitney1889 §§339, 341
 | Case | agni sg. | du. | pl. | guru sg. | du. | pl. |
 |---|---|---|---|---|---|---|
 | Nominative | agniḥ | agnī | agnayaḥ | guruḥ | gurū | guravaḥ |
@@ -236,7 +236,7 @@ source: wiktionary अग्नि, गुरु; whitney1889 §339
 :::table
 caption: Feminine mati "thought" and dhenu "cow" (where different from the masculine)
 confidence: verified
-source: wiktionary मति, धेनु; whitney1889 §339
+source: wiktionary मति, धेनु; whitney1889 §§339, 341
 | Case | mati | dhenu |
 |---|---|---|
 | Instrumental sg. | matyā | dhenvā |
@@ -249,7 +249,7 @@ source: wiktionary मति, धेनु; whitney1889 §339
 :::table
 caption: Neuter vāri "water" and madhu "honey" (other cases as the masculine)
 confidence: verified
-source: wiktionary वारि, मधु; whitney1889 §339
+source: wiktionary वारि, मधु; whitney1889 §§339, 341
 | Case | vāri | madhu |
 |---|---|---|
 | Nominative, accusative sg. | vāri | madhu |

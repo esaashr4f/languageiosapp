@@ -23,7 +23,7 @@ A noun with *-ni* is no longer in its old class. It has become a place, and plac
 
 The same place word can take any of the three, and the agreement says which kind of place you mean. Thompson and Schleicher put it plainly: the three classes look the same on the noun, and other clues in the sentence show the difference. So *chumbani* is "at the room" with *pa-*, "around the room" with *ku-*, "in the room" with *mu-*. *Chumbani mna kitanda* "in the room there is a bed".
 
-Only one ordinary noun belongs to class 16 without *-ni*: *mahali* "place" (Almasi and colleagues; Wiktionary lists the older form *pahali*). It is the one place noun you can describe with an adjective: *mahali pazuri* "a nice place".
+Only one ordinary noun belongs to class 16 without *-ni*: *mahali* "place" (Almasi and colleagues; Wiktionary also lists *pahali*, which it explains as *pa-* put onto the older *mahali*, itself from Arabic *maḥall*). It is the one place noun you can describe with an adjective: *mahali pazuri* "a nice place".
 
 Why a suffix and three classes? The sources used here do not trace the history of *-ni*. They do agree on the system: the place classes are ordinary Bantu classes, with numbers like the others, and their prefixes behave like any other agreement prefixes. Swahili treats a place as a noun with its own class, and lets every agreeing word say what kind of place it is.
 
@@ -219,7 +219,7 @@ source: almasi2014 table 10.1 (p. 95), table 12.2 (p. 112), table 13.2 (p. 127),
 ## New words
 
 :::vocab
-mahali | - | noun | place | 16, no plural; older form pahali
+mahali | - | noun | place | 16, no plural; also pahali; loan from Arabic
 pwani | - | noun | coast, shore | 16; a locative already
 juu | - | adverb | up, above, on top | juu ya "on, above" (lesson 5.8)
 chini | - | adverb | down, below, underneath | chini ya "under" (lesson 5.8)

@@ -31,7 +31,7 @@ Here is the row, using the names this guide will keep:
 
 After the final vowel one more piece can come: the *-ni* of "you all" (*someni*).
 
-This is not the guide's invention. Polomé, the structural sketch this guide uses most, lists the same row in nine positions: a "preinitial", an "initial", a "postinitial", a "marker", an "infix", the root, "suffixes", a "final" and a "postfinal". His names are technical; ours are plain, but the positions match one for one. Wiktionary's verb appendix gives the core of it as subject prefix + tense marker + (object prefix) + stem.
+This is not the guide's invention. Polomé, the structural sketch this guide uses most, lists the row in nine positions: a "preinitial", an "initial", a "postinitial", a "marker", an "infix", the root, "suffixes", a "final" and a "postfinal". His names are technical; ours are plain. Two differences of bookkeeping: he does not count the relative marker as a position of its own, but says it is "inserted immediately before the infix" (our slot 5, just before the object prefix); and his ninth position, the postfinal, is the *-ni* that this guide puts after slot 9. Wiktionary's verb appendix gives the core of it as subject prefix + tense marker + (object prefix) + stem.
 
 Learner books call the pieces in the middle of the verb "infixes", because they sit inside the word. Linguists use "infix" for something else (a piece pushed into the middle of a root), so this guide says **marker** or **prefix** instead. When you meet "object infix" in another book, it means the object prefix.
 

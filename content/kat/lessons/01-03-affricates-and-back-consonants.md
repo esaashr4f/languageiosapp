@@ -162,7 +162,7 @@ translit: vašli, bavšvi
 morphemes: vašli bavšvi
 gloss: apple child
 translation: apple; child
-note: [vaʃli], and Wiktionary [bafʃwi]: v as [v] at the start, as [f] before š, and as [w] after š.
+note: [vaʃli], and Wiktionary [b̥äfʃʷi]: v as [v] at the start, as [f] before š, and as a lip-rounding [ʷ] (a [w]) after š.
 source: wiktionary
 confidence: verified
 :::

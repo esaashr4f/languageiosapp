@@ -17,7 +17,7 @@ Two classes share the prefix *u-*. **Class 11** holds countable things, often lo
 
 In the modern language the two are almost one class. Their prefixes are the same everywhere: *u-* on the noun, *u-* on the verb, *m-* on the adjective. Wiktionary does not even separate them (it labels both "class XI"). What still divides them is number. A class 11 noun has a plural, and that plural lives in class 10, the nasal class of lesson 3.6: *ukuta* "wall", *kuta* "walls". Class 14 has none.
 
-Why class 10? Swahili has no class 12 or 13 to pair with 11, and the plural of class 11 is class 10. The sources used here state the pairing but do not trace its history, so take it as a fact of the system.
+Why class 10? Swahili has no class 13, class 12 survives only in rare traces (Thompson and Schleicher), and the plural of class 11 is class 10. The sources used here state the pairing but do not trace its history, so take it as a fact of the system.
 
 This explains the odd-looking plurals. To make the plural, take away *u-* and put the class 10 nasal N in its place, with all the sound rules of lesson 3.6:
 

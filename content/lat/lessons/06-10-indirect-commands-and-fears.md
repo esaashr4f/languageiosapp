@@ -50,7 +50,7 @@ Each verb keeps its own case for the person told: *imperō*, *persuādeō*, *man
 3. Secondary sequence; the attack lies ahead: imperfect: *nē hostēs castra oppugnārent*.
 4. *Mīlitēs timēbant nē hostēs castra oppugnārent.*
 
-"That … not" after a fear is *ut* or *nē nōn* (ag1903 §564). *Nē nōn* is the usual form when the main verb is negative: *nōn vereor nē nōn veniat* "I am not afraid that he won't come".
+"That … not" after a fear is *ut* or *nē nōn* (ag1903 §564). *Nē nōn* is common when the main verb is negative, as in Allen and Greenough's *haud sānē perīculum est nē nōn …* "there is no danger that … not" (ag1903 §564): *nōn vereor nē nōn veniat* "I am not afraid that he won't come".
 
 The fear may be about something already done: *timeō nē fēcerit* "I fear he has done it", perfect subjunctive by primary sequence.
 
@@ -179,7 +179,7 @@ confidence: constructed
 - **resolving**: *cōnstituō*, *statuō* (also with the infinitive, §563d);
 - **permitting**: *permittō*, *concēdō* (§563c);
 - **taking care, striving**: *cūrō*, *videō*, *operam dō* "take pains": *cūrā ut valeās* "take care to keep well", a common letter ending (ag1903 §563e). But *cōnor* "try" takes the infinitive.
-- **caution**: *caveō nē* "take care not to" (§563e note 2).
+- **caution**: *caveō nē* "take care not to" (§563 footnote 1).
 
 **The infinitive instead**: *iubeō*, *vetō* (§563a); *patior*, *sinō* (§563c); usually *volō*, *nōlō*, *mālō*, *cupiō* (§563b). Poets use the infinitive with almost any of these verbs (§563 note).
 
@@ -206,7 +206,7 @@ confidence: constructed
 
 **Do not translate *timeō nē* as "I fear that … not".** It is the other way round: *nē* "that", *ut* "that not" (ag1903 §564). The English "lest" helps: *timeō nē veniat* "I fear lest he come", "I fear he will come".
 
-**Do not write *\*timeō quod veniat* or *\*timeō eum ventūrum esse*.** Spanish *temo que venga* and French *je crains qu'il ne vienne* use a "that" clause; Latin uses *nē*. (French keeps a trace of the Latin *nē*: the "expletive" *ne* in *je crains qu'il ne vienne*.)
+**Do not write *\*timeō quod veniat* or *\*timeō eum ventūrum esse*.** Spanish *temo que venga* and French *je crains qu'il ne vienne* use a "that" clause; Latin uses *nē*. (French has a parallel, though not a descendant: the "expletive" *ne* in *je crains qu'il ne vienne* comes from *nōn*.)
 
 **Do not mix up fear and purpose.** *Fūgit nē caperētur* is purpose, "he fled so as not to be caught". *Timuit nē caperētur* is fear, "he feared he would be caught". The main verb decides.
 
@@ -235,7 +235,7 @@ praeceptum | - | noun | rule, instruction, order | praeceptī, n.
 
 ## Connections
 
-Spanish and French put both indirect commands and fears into *que* + subjunctive: *le pidió que viniera*, *je crains qu'il ne vienne*. French's "expletive *ne*" after verbs of fearing is a survival of the Latin habit of marking the feared event with a negative word, though French *ne* comes from *nōn*, not from *nē* (Wiktionary). English keeps the logic in "lest": "I fear lest he come".
+Spanish and French put both indirect commands and fears into *que* + subjunctive: *le pidió que viniera*, *je crains qu'il ne vienne*. French's "expletive *ne*" after verbs of fearing recalls the Latin habit of marking the feared event with a negative word, though French *ne* comes from *nōn*, not from *nē* (Wiktionary). English keeps the logic in "lest": "I fear lest he come".
 
 ## Exercises
 
@@ -257,7 +257,7 @@ Spanish and French put both indirect commands and fears into *que* + subjunctive
 3. *Cōnsul equitibus imperāvit ut proficīscerentur*; *Cōnsul equitēs proficīscī iussit.* *Imperō* + dative + *ut*; *iubeō* + accusative and infinitive (ag1903 §563a). *Proficīscī* is the deponent infinitive.
 4. *Eōs ē castrīs discēdere vetuit.* *Vetō* takes the accusative and infinitive (ag1903 §563a).
 5. *Timeō nē hostēs veniant*; *Timeō ut hostēs veniant* (or *nē hostēs nōn veniant*). After verbs of fearing, *nē* is "that", *ut* "that not" (ag1903 §564).
-6. "I am not afraid that he will not come." After a negative main verb, *nē nōn* is the usual "that not" (ag1903 §564).
+6. "I am not afraid that he will not come." After a negative main verb, *nē nōn* is the common "that not" (ag1903 §564).
 7. "I am afraid that Marcus has done this." *Fēcerit*: perfect subjunctive, because the feared thing is already past and *timeō* is primary (lesson 6; ag1903 §564).
 8. *Imperāvit mīlitibus ut castra mūnīrent*: *imperō* takes the dative and an *ut* clause. *Iussit eōs discēdere*: *iubeō* takes the accusative and infinitive (ag1903 §563a).
 9. *Hortātus est eōs nē fugerent.* A negative indirect command uses *nē*, not *ut nōn* (ag1903 §563).

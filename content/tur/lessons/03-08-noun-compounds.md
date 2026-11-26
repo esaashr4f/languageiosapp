@@ -252,7 +252,7 @@ English and Japanese make compounds by putting two nouns side by side (bus ticke
 2. Make plural: *otobüs bileti*, *çay bardağı*, *diş fırçası*.
 3. Say "my birthday", "your (one friend) bedroom" and "our football team".
 4. Translate *Ayşe'nin kız kardeşi İstanbul Üniversitesinde çalışıyor.*
-5. What is the difference between *İngilizce öğretmeni* and *İngiliz öğretmen*?
+5. What is the difference between *İngilizce öğretmeni* and *İngiliz öğretmen*? (*İngilizce* "English, the language" is *İngiliz* + *-CA*, like *Türkçe*.)
 6. Say "I'm putting the toothbrush in the cup".
 7. Correct *\*Bir Türk kahve istiyorum* and *\*Otobüs durakta bekliyoruz*.
 8. Explain why *Türk kahvesini seviyorum* has the accusative though no particular cup is meant.
@@ -268,6 +268,6 @@ English and Japanese make compounds by putting two nouns side by side (bus ticke
 5. *İngilizce öğretmeni* is a compound: a teacher of English, of any nationality. *İngiliz öğretmen* is a bare compound: a teacher who is English, of any subject (goksel2005 §10.1.1).
 6. *Diş fırçasını fincana koyuyorum.* A known toothbrush is a definite object: marker, *n*, accusative. *Koymak* takes the dative (tur-03-02).
 7. *Bir Türk kahvesi istiyorum*: a thing typical of a nation needs the marker. *Otobüs durağında bekliyoruz*: the compound needs its marker, then *n*, then the locative.
-8. Compounds whose first part is a nationality must take the accusative as objects, even when the meaning is general (goksel2005 §22.4.3).
+8. Compounds whose first part is a nationality must take the accusative as generic objects, with verbs such as *sevmek*, even when no particular cup is meant (goksel2005 §22.4.3). An activity object stays bare: *Türk kahvesi içiyoruz*.
 9. *Büyük bir taş duvar.* A material compound needs no marker, and the adjective and *bir* go before the whole compound.
 10. *Ayakkabı* is now a single noun and its *-ı* is no longer felt as a marker, so the plural goes at the end. *Buzdolabı* is still felt as *buz* + *dolap* + marker, so the plural goes before the marker (goksel2005 §10.2; wiktionary).

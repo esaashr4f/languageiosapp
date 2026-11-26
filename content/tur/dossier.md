@@ -301,7 +301,7 @@ Translations are always our own.
 
 - Correction: *meşgul* takes front-vowel endings (TDK "l ince okunur"; meşgulüm, meşgul mü); add it to the loan-harmony exceptions.
 - -(I)yor from Proto-Turkic *yorï- "walk": confirmed (Wiktionary -iyor; G&K §8.2.3.3 obsolete stem yor-); no longer unverified.
-- Colloquial 1SG: G&K §8.2.3.3 keep r before a vowel (seviyorum); Wiktionary records içiyom. Lessons give both.
+- Colloquial 1SG: G&K §8.2.3.3 keep r before a vowel (seviyorum); Wiktionary records yapıyom (informal, dialectal, İzmir) and has no entry for içiyom. Standard colloquial drops r only before a consonant or word-finally.
 - Stress of *değil*: G&K deĞİL (second syllable); Wiktionary IPA first; lessons follow G&K and note the difference. Sentence stress per G&K §23.1.
 - Segmentation: negative before -(I)yor `gel-mi-yor`, `anla-mı-yor` (come-NEG-PROG); positive `anl-ıyor`. Pronoun + accusative `sen-i`, `ben-i` (2SG-ACC). *kimse* `anyone`, *hiç* `at.all`, *artık* `any.more` with a negative.
 - Rule relaxed: acute stress marks may appear in prose and notes from part 2 on (as tur-02-01 to 02-10 do), not only in tur-01-07 and vocab notes.
@@ -314,3 +314,10 @@ Translations are always our own.
 - No longer unverified: cam, çay, şey, jilet (Wiktionary); -(I)yor < Proto-Turkic *yorı- (Wiktionary); Altaic rejected (Glottolog: Turkic is a top-level family); 1928/1932 dates (G&K Introduction); G&K's "imperfective" for -(I)yor (§8.2.3.3).
 - Arabic tāʼ marbūṭa loans: front harmony usual but not universal (rahat, sanat back; Lewis 2001 via Wikipedia).
 - The dossier's G&K is the owner's 2005 edition (goksel2005) wherever forms were checked.
+
+
+## Notes from verifying part 2 (2026-11-26)
+
+- Apostrophe rule: proper nouns, including nationality nouns, take an apostrophe before person and copular endings as well as case and possessive endings: Türk'üm, Japon'sunuz, Koreli'yim, Türk'ü, İngiliz'e (TDK kesme işareti rules). Wiktionary's predicate tables omit it: do not copy them.
+- Sentence-stress capitals follow G&K: capitalise only the stressed syllable (kiTAP, maSA, iYİ, deĞİL). değil stress: G&K §19.1.1.2 ex. 13–14.
+- napıyosun remains unverified; do not use it.

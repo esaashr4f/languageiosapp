@@ -33,9 +33,9 @@ The voiced aspirates *gh jh ḍh dh bh* are voiced stops released with a breathy
 
 **Row 2, palatal: c ch j jh ñ.** The old phoneticians describe these as simple stops made with the middle of the tongue on the hard palate. Today, in India and in Europe, they are said as affricates, a stop gliding into a hiss: *c* close to the *ch* of *church*, *j* to the *j* of *judge* (Whitney §44). This guide writes them [t͡ɕ d͡ʑ], says them that way, and reminds you that the older value was probably [c ɟ]. IAST *c* is never [k] or [s]. *jh* is very rare (§42).
 
-The palatals are also a history lesson. Whitney (§42) says the whole row comes from older velars, shifted forward before front vowels. That is why *c* and *k* often alternate inside one root, a pattern part 4 will show.
+The palatals are also a history lesson. Whitney (§42) says the whole row comes from older velars, and Macdonell (§6, note) adds that the change happened largely under the influence of palatal vowels. That is why *c* and *k* sometimes alternate within one root: the old velar "reverts" in some forms (Whitney §43).
 
-**Row 3, retroflex: ṭ ṭh ḍ ḍh ṇ** [ʈ ʈʰ ɖ ɖʱ ɳ]. Curl the tip of the tongue up and back, and touch the roof of the mouth behind the gum ridge (Whitney §45). The sound is hollow, a little like an American *t* or *d* in a word such as *hard*.
+**Row 3, retroflex: ṭ ṭh ḍ ḍh ṇ** [ʈ ʈʰ ɖ ɖʱ ɳ]. Turn the tip of the tongue up and draw it back into the dome of the palate, and make the stop there (Whitney §45). Whitney compares the tongue position to that of the smooth English *r*.
 
 **Row 4, dental: t th d dh n** [t̪ t̪ʰ d̪ d̪ʱ n̪]. Put the tip of the tongue against the back of the upper teeth (§47), as for Spanish or French *t* and *d*. The small mark under [t̪] in phonetic writing means "dental".
 

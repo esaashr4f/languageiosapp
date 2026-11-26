@@ -17,9 +17,9 @@ English has two pointing words, "this" and "that". Swahili has three, and each a
 
 - **This**, near the speaker: *kitabu hiki* "this book", *mtu huyu* "this person".
 - **That**, at a distance from both speaker and listener: *kitabu kile* "that book (over there)", *mtu yule* "that person".
-- **That one**, the one just mentioned or already known: *kitabu hicho* "that book (we were talking about)", *mtu huyo*. Wiktionary defines *hiyo* as "that (which we were just speaking of before)". Thompson and Schleicher describe it as "mentioned earlier"; Almasi and colleagues call it the demonstrative of reference.
+- **That one**, the one just mentioned or already known: *kitabu hicho* "that book (we were talking about)", *mtu huyo*. Wiktionary defines *hiyo* as "that (which we were just speaking of before)". Thompson and Schleicher describe it as "mentioned earlier"; Almasi and colleagues call it the demonstrative of reference (for proximity); they add that the *-le* form placed before the noun does the same job for something at a distance (*lile ua* "that flower we spoke of").
 
-The third form is the new idea. It does not point at a place but back into the conversation. If someone says *Nina gari jipya* "I've got a new car", you ask *Gari hilo ni zuri?* "Is it (that car) nice?", not *gari hili* or *gari lile*. This guide glosses it ANA, for "anaphoric": referring back to something already mentioned. Descriptions differ on how to count: the World Atlas of Language Structures codes Swahili with a two-way distance contrast, while Wikipedia's grammar article describes three forms. This guide follows Polomé and the teaching grammars: two distances plus a referring form.
+The third form is the new idea. It does not point at a place but back into the conversation. If someone says *Nina gari jipya* "I've got a new car" (*jipya* "new", lesson 5.1), you ask *Gari hilo ni zuri?* "Is it (that car) nice?", not *gari hili* or *gari lile*. This guide glosses it ANA, for "anaphoric": referring back to something already mentioned. Descriptions differ on how to count: the World Atlas of Language Structures codes Swahili with a two-way distance contrast, while Wikipedia's grammar article describes three forms. This guide follows Polomé and the teaching grammars: two distances plus a referring form.
 
 All three are built from the subject prefix you know, and the formulas are regular (Polomé; Thompson and Schleicher; Almasi and colleagues):
 
@@ -135,7 +135,7 @@ orig: Mti ule mrefu unaanguka!
 morphemes: m-ti ule m-refu u-na-anguk-a
 gloss: C3-tree that.C3 C3-tall C3.SM-PRS-fall-FV
 translation: That tall tree over there is falling!
-note: Noun, demonstrative, adjective: the order Polomé gives for a following demonstrative.
+note: Noun, demonstrative, adjective: the order Polomé gives for a following demonstrative. Almasi and colleagues put a plain "that" after the adjective (mti mrefu ule) and the referring forms before it; expect both orders when you read.
 source: constructed
 confidence: constructed
 :::
@@ -176,7 +176,7 @@ confidence: constructed
 - **Pointing**: *hiki* "this (here, by me)", *kile* "that (over there)".
 - **Referring back**: the *-o* forms for anything already mentioned or known to both speakers: *gari hilo*, *watoto hao*, *huko*. In stories and conversation these are the commonest demonstratives.
 - **Near the listener.** Wikipedia's grammar article also describes the *-o* form for something near the person spoken to: *kitabu hicho* "that book (by you)".
-- **Standing alone** for a noun: *Huyu ni nani?* "who is this?" (*nani* "who", lesson 5.10); *Nataka hiki.*
+- **Standing alone** for a noun: *Huyu ni nani?* "who is this?" (*nani* "who", lesson 5.10); *Ninataka hiki.*
 - **Every class**, including people and animals (class 1/2 forms: *paka huyu*, *mbwa wale*), with the reference table below.
 - **Places**: *hapa*, *pale*, *hapo* (class 16); *huku*, *kule*, *huko* (17); *humu*, *mle*, *humo* (18). Lesson 3.13 uses them with place nouns.
 - **Emphasis by doubling**: Polomé gives *usiku ule ule* "that very night", and identifying pairs such as *papo hapo* "right there, then and there" (Wiktionary).
@@ -200,14 +200,14 @@ confidence: constructed
 
 **Do not mix up *hapa* and *hapo*.** *Hapa* is "here, where I am"; *hapo* is "there, at that spot we mentioned" (or "then").
 
-**Do not use *mule* where the standard has *mle*.** The class 18 "that inside" is *mle* in Polomé, Thompson and Schleicher, and Wiktionary's entry; Wiktionary's noun-class appendix writes *mule*. Use *mle*.
+**Do not use *mule* where the standard has *mle*.** The class 18 "that inside" is *mle* in Polomé, Thompson and Schleicher, Almasi and colleagues, and Wiktionary's entry; Wiktionary's noun-class appendix writes *mule*, and Polomé notes that the *u* survives in some dialects. Use *mle*.
 
 ## Reference table
 
 :::table
 caption: The three demonstratives by class
 confidence: verified
-source: polome1967 §2.4.3.2; thompson2001 pp. 137–140; almasi2014 tables 14.1–14.3 (pp. 140–145); wiktionary (hii, -le, hiyo)
+source: polome1967 §2.4.3.2; thompson2001 pp. 137–141; almasi2014 tables 14.1–14.3 (pp. 140–145); wiktionary (hii, -le, hiyo)
 | Class | This | That | That one (ANA) |
 |---|---|---|---|
 | 1 | huyu | yule | huyo |

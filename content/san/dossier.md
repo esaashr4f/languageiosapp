@@ -405,3 +405,28 @@ Cite attested lines as work, book.chapter.verse and pāda letter where useful: `
 - 2.48 adds the imperative *kuru*, the absolutives *tyaktvā* and *bhūtvā* (san-04-15), the dvandva in the locative dual *siddhyasiddhyoḥ* (san-05-10), the secondary noun *samatvam* (san-07-05), and the passive *ucyate* of *vac* with its weak root form (san-04-14).
 
 Fame of the verses is from general knowledge (Gītā 2.47 is the verse most often quoted), not from a source opened here.
+
+## 8. Notes for drafters
+
+- British spelling; second person; short sentences; one idea per paragraph. No "simply", no "just" as filler.
+- **The organising idea** (meta `organising_idea`): root → stem (with a vowel grade) → ending, then sandhi joins everything. Return to it in every lesson of parts 3 to 7: name the root, say which grade the stem has and why, then show the join.
+- **Why before how.** Most Sanskrit irregularity has a reason the learner can use: guṇa/vṛddhi and strong/weak stems (accent shift in the parent language; whitney1889 §238 "connection with an accent on the increased syllable"); the n → ṇ and s → ṣ rules (retroflexion after r, ṛ, ṣ and after i, u, k, r); the visarga rules (final *s* in different surroundings); suppletion (*gam/gacch*, *dṛś/paś*, *brū/vac*, *as/bhū*). Historical claims beyond Whitney's need a source; otherwise say "the reason is not certain".
+- **Constructed examples** use only words introduced in a `:::vocab` block in this lesson or earlier and only grammar introduced; check every form (section 5); obey the sandhi stage (section 4). Prefer short prose sentences in the style of the Hitopadeśa over invented verse.
+- **Attested examples** are preferred wherever a short line at the right level exists. Good mines for early parts: Hitopadeśa verses and frame prose, Nala, the Gītā, Manusmṛti maxims. An attested line that uses something not yet taught carries `preview:` for any unintroduced gloss label and a note.
+- **Dictionary look-up habits to teach** (san-01-09, san-04-01): mw1899 is ordered by the Devanagari alphabet (section 2), verbs are under the root, and compounds under their first member.
+- **Typing searches:** Cologne and Heritage take SLP1 or Harvard-Kyoto (SLP1: `A` = ā, `f` = ṛ, `S` = ś, `z` = ṣ, `M` = ṃ, `H` = ḥ, `kz` = kṣ, aspirates by capitals: `K` = kh, `B` = bh). Never paste these into content.
+- **Vocabulary:** 15 to 30 words per lesson, chosen by frequency (dcs) and by need. The core list (800 to 1,500 words) is to be built from the lessons, as for Latin; no frequency list was downloaded in this session.
+- **Connections** for this reader (keep them short and checked):
+  - **Spanish and French:** Sanskrit and Latin are both Indo-European, so many basic words are cognate: *pitṛ* (nom. *pitā*) ~ *padre*, *père*; *mātṛ* ~ *madre*, *mère*; *nāman* ~ *nombre*, *nom*; *dvi-* ~ *dos*, *deux*; *trayaḥ* ~ *tres*, *trois*; *asti* ~ *es*, *est*; *deva* ~ *dios*, *dieu* (via Latin *deus*, same root). The case system of Latin is the closest European parallel. Check each pair against Wiktionary etymologies before printing (`unverified` as listed here).
+  - **Japanese and Korean:** verb-final order, postposed case marking (Sanskrit endings do the work of Japanese particles *ga, o, ni, de, kara, no*) and freely dropped pronouns are shared typological traits, not inherited ones. Buddhist vocabulary entered both languages from Sanskrit through Chinese; the claim that the Japanese kana order (a i u e o; k s t n h m y r w) follows the Indian phonetic order is widely repeated (`unverified`: Wikipedia was rate-limited in this session; check before using).
+  - **Arabic:** both grammars are built on roots, but differently: an Arabic root is a set of consonants slotted into vowel patterns, a Sanskrit root is a syllable whose vowel is graded (guṇa, vṛddhi) and to which suffixes are added. Both have a dual. Arabic's three-case core (-u, -a, -i) can be compared with Sanskrit's eight cases.
+  - **Hindi-Urdu (`hin`), Bengali (`ben`), Pali (`pli`):** Hindi and Bengali descend from Middle Indo-Aryan dialects related to Sanskrit, and take learned words (*tatsama*) unchanged from it; Pali is a Middle Indo-Aryan language. Devanagari is shared with Hindi; the inherent-a rule differs (Hindi drops final and some medial a). Tamil and Telugu are Dravidian but full of Sanskrit loans (macdonell1927 ch. I §2).
+  - **Ancient Greek (`grc`):** the closest structural match: augment, reduplicated perfect, aorist, middle voice, optative, dual. Latin (`lat`): case functions, gerundive.
+
+## 9. Open items
+
+- Everything marked `unverified` above: Spanish/French cognate pairs (check etymologies), the kana-order claim, vulgate Nala numbering, a second edition for Raghuvaṃśa 1.1–4 and for the Hitopadeśa text.
+- Whitney section numbers were read from OCR headings; before citing a section in a lesson, open it on Wikisource (Page namespace, `Sanskrit_Grammar_by_Whitney_p1.djvu/N`; the API was rate-limited late in this session).
+- Not consulted (in copyright): coulson1976, goldman2004, ruppel2017, burrow1955, cardona1997, mayrhofer1986. Anything in a lesson resting on them alone is `unverified`.
+- The Heritage engines and the DCS were reachable but not queried. The first drafter of part 3 should run a few Heritage declensions to calibrate them against Wiktionary.
+- Rendering of Devanagari conjuncts and of virāma before a space on the owner's iPhone has not been checked; record it in `docs/script-rendering.md` when it is.

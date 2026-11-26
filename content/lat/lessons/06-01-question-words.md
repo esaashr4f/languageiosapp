@@ -22,7 +22,7 @@ Two things make Latin questions easier than English ones.
 
 Nearly all the question words share one stem, *qu-*, and that is not an accident. Lesson 10 of part 5 showed that the indefinites *aliquis*, *quisquam*, *quīdam* are built on *quis*. Allen and Greenough say the relative, interrogative and indefinite pronouns are "originally of the same stem", and that "the interrogative sense is doubtless the original one" (ag1903 §150). Wiktionary traces *quis* to an Indo-European *kʷís*. So the question word is the root of the whole family: "who?" came first, and "someone" and "who" in "the man who came" (next lesson) grew out of it.
 
-The adverbs grew from the same root. Wiktionary derives *cūr* "why?" from Old Latin *quōr*, *ubi* "where?" from older *cubī*, *unde* from older *cunde*. Why *ubi* and *unde* lost their *c* is not settled (Wiktionary).
+The adverbs grew from the same root. Wiktionary derives *cūr* "why?" from Old Latin *quōr*, *ubi* "where?" from older *cubī*, *unde* from reconstructed *cunde*. Why *ubi* and *unde* lost their *c* is not settled (Wiktionary).
 
 ## How it is built
 
@@ -160,7 +160,7 @@ orig: Sed quis custōdiet ipsōs custōdēs?
 morphemes: sed quis custōdi-e-t ips-ōs custōd-ēs
 gloss: but who.NOM.SG guard-FUT-3SG self-ACC.PL.M guard-ACC.PL
 translation: But who will guard the guards themselves?
-note: Juvenal on locking up a wife: the guards can be bought. custōdiō is the verb from custōs.
+note: Juvenal on locking up a wife: she simply starts with the guards. The Latin Library prints lines 346-348 in square brackets: they repeat lines O31-O32 of the Oxford fragment of this satire, and editors doubt they belong here. custōdiō is the verb from custōs.
 source: Juvenal, Satires 6.347-348
 confidence: attested
 :::
@@ -171,7 +171,7 @@ morphemes: quāl-is artifex pere-ō
 gloss: what.kind-NOM.SG.M artist.NOM.SG perish-1SG
 translation: What an artist dies with me!
 literal: Of what kind an artist I perish!
-note: Nero's last words, according to Suetonius. A question word used as an exclamation. quālis agrees with artifex.
+note: Nero, repeating it again and again as his grave was being prepared, according to Suetonius (these were not his last words). A question word used as an exclamation. quālis agrees with artifex.
 source: Suetonius, Nero 49.1
 confidence: attested
 :::
@@ -185,7 +185,7 @@ confidence: attested
 - **Which of two**: *uter*: *uter vestrum?* "which of you two?" (lesson 2 of part 5).
 - **Place**: *ubi*, *quō*, *unde*, *quā*. Also *ubi gentium?* "where in the world?" (ag1903 §346a).
 - **Time**: *quandō*; for "how long?" use *quam diū* (*quam* "how" + *diū* "for a long time"): *quam diū etiam furor iste tuus nōs ēlūdet?* "how much longer will that madness of yours make fools of us?" (Cicero, Against Catiline 1.1).
-- **Cause**: *cūr*, *quārē*, *quam ob rem*. The neuter *quid* can also mean "why?": Allen and Greenough list it among neuter pronouns used adverbially (ag1903 §390c): *quid moror?* "why do I delay?".
+- **Cause**: *cūr*, *quārē*, *quam ob rem*. The neuter *quid* can also mean "why?": Allen and Greenough class it as a cognate accusative (ag1903 §390c): *quid moror?* "why do I delay?".
 - **Manner**: *quōmodo*, *quemadmodum*.
 - **Amount, size, kind, number**: *quantus*, *quālis*, *quot*, *quotiēns*.
 - **Alternatives**: *utrum … an*, *-ne … an*, *… an*, *… necne* (ag1903 §335).
@@ -200,13 +200,13 @@ confidence: attested
 
 **Do not use *quid* with a noun.** *\*Quid templum vidēs?* uses the pronoun where an adjective is needed. "Which temple": *quod templum vidēs?* (ag1903 §148b). In the masculine and feminine the two sets overlap more (*quis homō*, *quī homō*), but in the neuter they never do.
 
-**Do not use one word for every English "where".** English "where" covers rest, goal and origin; Latin splits them, as Spanish splits *dónde*, *adónde*, *de dónde*. *\*Ubi vādis?* asks "in what place are you going?". The goal of motion is *quō*: *Quō vādis?* "Where are you from?" is *Unde es?*, not *\*Ubi es?*
+**Do not use one word for every English "where".** English "where" covers rest, goal and origin; Latin splits them, as Spanish splits *dónde*, *adónde*, *de dónde*. *\*Ubi vādis?* asks "in what place are you going?". The goal of motion is *quō*: *Quō vādis?*. "Where are you from?" is *Unde es?*, not *\*Ubi es?*
 
 **Do not put the question word in the nominative by default.** English "who did you see?" uses the subject form; Latin does not. *\*Quis vīdistī?* has no subject for "you saw". The person seen is the object: *Quem vīdistī?*
 
-**Do not invent a plural *\*quēs*.** The plural is *quī*, *quae*, *quae* (ag1903 §148); *quēs* is Old Latin.
+**Do not invent a plural *\*quēs*.** The plural is *quī*, *quae*, *quae* (ag1903 §148); *quēs* is early Latin (ag1903 §150c).
 
-**Do not join alternatives with *aut*.** "Did he come or not?" is a choice between two answers: *Vēnitne an nōn?*, or *… necne?* *Aut* and *vel* belong to a single question with an alternative detail inside it: *quaerō num iniūstē aut improbē fēcerit* asks whether he acted either unjustly or wickedly, not which (ag1903 §335 note).
+**Do not join alternatives with *aut*.** "Did he come or not?" is a choice between two answers: *Vēnitne an nōn?*, or *… necne?* *Aut* and *vel* belong to a single question with an alternative detail inside it: *quaerō num iniūstē aut improbē fēcerit* asks whether he acted either unjustly or wickedly, not which (ag1903 §335d note).
 
 **Do not add *-ne* to a question that already has a question word.** *\*Quisne venit?* doubles the question; say *Quis venit?* (Horace's *quantane?* "how big?" is colloquial: ag1903 §332 note 2.)
 

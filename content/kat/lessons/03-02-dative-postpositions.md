@@ -33,7 +33,7 @@ Start from the dative: *saxl-s*, *deda-s*, *ezo-s*, *megobar-s*. Then:
 
 **-ვით "like".** This one is built differently. A consonant stem adds it to the nominative, *-i* included: *čiṭivit* "like a bird", *megobarivit*. A vowel stem adds it to the long dative *-sa*: *dedasavit*, *zɣvasavit*. Wiktionary lists *-vit* among the dative postpositions; Bolkvadze and Kiziria place the consonant-stem form on the nominative and note that a dative form for consonant stems, such as *mṭersavit* "like an enemy", is going out of use.
 
-**The plural.** The plural stem ends in a consonant, *-eb-*, so it follows the consonant rules: *saxlebši*, *dedebze*, *megobrebtan*, *dedebivit*. Remember that the plural is the one place where *megobari* syncopates (lesson 2-4).
+**The plural.** The plural stem ends in a consonant, *-eb-*, so it follows the consonant rules: *saxlebši*, *dedebze*, *megobrebtan*, *dedebivit*. Remember that *megobari* syncopates in the plural, *megobrebi* (lesson 2-4).
 
 **In a sentence.** The noun with its postposition sits where any adverb of place sits, usually before the verb:
 
@@ -200,7 +200,7 @@ confidence: constructed
 
 **-ზე *-ze***
 
-- **On a surface:** *magidaze*, *kedelze* "on the wall", *iaṭaḳze* "on the floor", *sac̣olze* "on the bed".
+- **On a surface:** *magidaze*, *ḳedelze* "on the wall", *iaṭaḳze* "on the floor", *sac̣olze* "on the bed".
 - **About, with verbs of speaking, thinking, reading and writing:** *pilmze laṗaraḳoben*, *ʒmaze pikrobs* "she thinks about her brother", *ṗoliṭiḳaze c̣ers* "she writes about politics", *pexburtze laṗaraḳoben* "they talk about football".
 - **At an event:** *ḳoncerṭze* "at the concert". Bolkvadze and Kiziria translate *ḳoncerṭze* as both "at the concert" and "about the concert"; the verb decides.
 - **Later uses:** clock time, "at two o'clock" (lesson 5-5); "than" in comparisons (lesson 5-2).
@@ -226,7 +226,7 @@ confidence: constructed
 
 **Do not put the postposition first.** *\*Ši sasṭumro* copies English. Postpositions follow: *sasṭumroši*.
 
-**Do not syncopate before a dative postposition.** *\*Megobrtan* and *\*sopltan* borrow the short stem of the plural or genitive. The dative keeps the full stem: *megobartan*, *sopelši*, *kedelze*.
+**Do not syncopate before a dative postposition.** *\*Megobrtan* and *\*sopltan* borrow the short stem of the plural or genitive. The dative keeps the full stem: *megobartan*, *sopelši*, *ḳedelze*.
 
 **Do not use -ze for "at school".** English "at" suggests *-ze* or *-tan*, but an institution you are inside takes *-ši*: *sḳolaši*, *universiṭeṭši*. *Sḳolastan* means "next to the school", outside it.
 

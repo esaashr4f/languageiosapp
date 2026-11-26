@@ -32,7 +32,7 @@ Göksel and Kerslake call it the **comitative-instrumental** marker: "comitative
 
 **The separate word ile** means the same and is written after the noun: *Ali ile*, *otobüs ile*. Göksel and Kerslake note that it is much rarer than the suffix (goksel2005 §8.1.4); you will see it mainly in formal writing.
 
-**After a possessive.** *-(y)lA* goes last, after the possessive, like a case, but it takes **no** pronominal *n*: *annem-le* "with my mother", *araba-m-la* "with my car", *araba-sı-yla* "with his car", *el-i-yle* "with his hand" (goksel2005 §§4.3.2, 8.1.4).
+**After a possessive.** *-(y)lA* goes last, after the possessive, like a case, but it takes **no** pronominal *n*: *annem-le* "with my mother", *araba-m-la* "with my car", *araba-sı-yla* "with his car", *el-i-yle* "with his hand": the *n* comes only before a case suffix or *-CA* (goksel2005 §§6.2, 8.1.2).
 
 **After pronouns**, the genitive comes first for the singular pronouns, *biz*, *siz*, the demonstratives and *kim* (goksel2005 §8.1.4):
 

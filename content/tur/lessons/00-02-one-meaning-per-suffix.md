@@ -19,7 +19,7 @@ English mostly uses separate words placed in front: "in my houses". Latin and Sp
 
 Turkish uses a chain of **suffixes**. A suffix is a small piece added after a word. The word you start from is the **stem**. In Turkish each suffix carries one meaning, and the suffixes stand in a fixed order. You build a word by adding them one at a time, like beads on a string.
 
-Languages built like this are called **agglutinative**, from the Latin for "glued on". The name fits: the pieces are glued on and stay visible. Turkish adds all its grammar at the end of the word. It has no grammatical prefixes.
+Languages built like this are called **agglutinative**, from the Latin for "glued on". The name fits: the pieces are glued on and stay visible. Turkish adds all its grammar at the end of the word. It has no grammatical prefixes; the few prefixes it has occur in loanwords and in emphatic forms of adjectives.
 
 That is the organising idea of this guide: **one meaning per suffix, in a fixed order**. Almost every grammar lesson teaches a new suffix, the place it takes in the chain, or a new use for one you already know.
 
@@ -66,7 +66,7 @@ orig: evlerimde
 morphemes: ev-ler-im-de
 gloss: house-PL-1SG.POSS-LOC
 translation: in my houses
-note: Preview. Add -de and the word means "in". One Turkish word, four English ones.
+note: Preview. Add -de and the word means "in". One Turkish word, three English ones.
 source: wiktionary
 confidence: verified
 preview: PL, 1, SG, POSS, LOC
@@ -149,7 +149,7 @@ English needs a pronoun, a helper verb and a separate "not". Turkish puts all of
 
 ## Why Turkish is like this
 
-Turkish did not invent this system. It inherited it. Many of its suffixes have relatives across the Turkic family and can be traced back to Proto-Turkic, the reconstructed ancestor of the family. Wiktionary's etymologies, for instance, trace the "in, at" suffix to a Proto-Turkic suffix that already had a front-vowel form and a back-vowel form, as *-de* and *-da* do today. So harmony is old too: it was already working on suffixes in the parent language. Why the parent language worked this way is not known.
+Turkish did not invent this system. It inherited it. Suffixes such as the "in, at" suffix and *-iyor* have relatives across the Turkic family and can be traced back to Proto-Turkic, the reconstructed ancestor of the family. Wiktionary's etymologies, for instance, trace the "in, at" suffix to a Proto-Turkic suffix that already had a front-vowel form and a back-vowel form, as *-de* and *-da* do today. So harmony is old too: it was already working on suffixes in the parent language.
 
 ## What this means for you as a reader
 

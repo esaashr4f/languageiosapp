@@ -65,8 +65,8 @@ And for "you are hiding me":
 :::example
 orig: დედა დილას მაღვიძებს.
 translit: deda dilas maɣviʒebs.
-morphemes: deda dilas m-a-ɣviʒ-eb-s
-gloss: mother in.the.morning 1SG.OBJ-NV-wake-TS-3SG.SBJ
+morphemes: deda dila-s m-a-ɣviʒ-eb-s
+gloss: mother morning-DAT 1SG.OBJ-NV-wake-TS-3SG.SBJ
 translation: Mother wakes me in the morning.
 note: m- for "me" in front; the a-, the root and -eb-s are unchanged. Preview: NV, lesson 4-21.
 source: constructed

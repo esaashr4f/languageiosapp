@@ -184,7 +184,7 @@ preview: PV
 - **Owner or person related:** *megobris saxli*, *ninos c̣igni*, *giorgis ʒma* "Giorgi's brother".
 - **Part of a whole:** *saxlis saxuravi* "the roof of the house", *kalakis cenṭri* "the city centre", *ṭq̇is nac̣ili* "part of the forest".
 - **Material:** *kvis saxli*, *xis magida* "a wooden table", *rḳinis ḳari* "an iron door", *okros saati* "a gold watch".
-- **Function or contents type:** *čais č̣ika*, *q̇avis pinǯani* "a coffee cup", *ɣvinis botli* "a wine bottle".
+- **Function or contents type:** *čais č̣ika*, *q̇avis pinǯani* "a coffee cup", *ɣvinis botli* "a wine bottle" (on *ɣvinis*, see lesson 3-5).
 - **Institutions and names:** *tbilisis universiṭeṭi*, *sakartvelos isṭoria* "the history of Georgia", *sakartvelos ruḳa* "a map of Georgia".
 - **Author, maker, colour, and other qualities expressed by a noun:** *c̣ignis avṭori*, *zɣvis peri* "the colour of the sea".
 - **Later uses:** with a masdar ("the writing of the letter", lesson 5-8), with times of day (lesson 5-5), and as the base of separate postpositions such as *šesaxeb* "about" (lesson 5-1).
@@ -279,7 +279,7 @@ Japanese の and Korean 의 also come between the two nouns with the describer f
 ## Worked answers
 
 1. *Kalakis*: consonant stem, *-is*. *Magidis*: *-a* truncates. *Ṭq̇is*: a native *-e* stem truncates too. *Meṭros*: an *-o* stem keeps its vowel and adds *-s*. *Pankris*: *pankari* syncopates, as its vocabulary note said in lesson 2-4.
-2. *Ɣvinis peri* and *ɣvinis botli*. The first is a quality of the wine, the second a bottle for wine (function). Georgian uses the genitive for both. *Ɣvino* is irregular: it loses its *-o* in the genitive (lesson 3-5).
+2. *Ɣvinis peri* and *ɣvinis botli*. The first is a quality of the wine, the second a bottle for wine (function). Georgian uses the genitive for both. *Ɣvino* is irregular: Bolkvadze and Kiziria give the genitive *ɣvinis*, with the *-o* lost, while Wiktionary's table has the regular *ɣvinos*. Lesson 3-5 returns to it.
 3. *Giorgis biʒašvili kalakis cenṭrši cxovrobs.* *Giorgis* and *kalakis* are genitives before their nouns; *cenṭrši* is *cenṭri* with *-ši*. The verb agrees with *biʒašvili*.
 4. "This is a map of Georgia." *Sakartvelo* is an *-o* stem, so its genitive is *sakartvelos*, identical to the dative. It stands before *ruḳa*, which shows it describes the map; the copula *-a* follows *ruḳa*.
 5. *Sačukari masc̣avleblistvis aris*: *-tvis* on the genitive *masc̣avleblis*. *Sačukars masc̣avleblisgan viɣeb*: the gift is the object, dative; *-gan* for the person it comes from.

@@ -32,7 +32,7 @@ What makes it worth a lesson is that the vocative is not used everywhere you mig
 - Vowel-stem given names stay as they are: *nino*, *giorgi*, *ia*.
 - Consonant-stem given names drop the nominative *-i* and add nothing: *daviti* → *davit!*, *tamari* → *tamar!*. Bolkvadze and Kiziria's table gives the bare stem as the vocative of such names.
 - Surnames are different: those in *-švili* take *-o* (*mč̣edlišvilo*), and those in *-ʒe* take an optional *-v* (Bolkvadze and Kiziria).
-- Place names have no vocative ending (Bolkvadze and Kiziria).
+- Place names in *-i*, *-o* and *-u* have no vocative ending; those in *-a* may take one (Bolkvadze and Kiziria).
 
 **Words that describe the addressee take -o too.** An adjective before a noun in the vocative takes *-o* if it is a consonant stem: *ʒvirpaso megobaro* "dear friend", *saq̇varelo daiḳo* "dear little sister". It stays singular before a plural noun: *ʒvirpaso megobrebo* "dear friends". Lesson 3-10 shows that this is the general rule for adjectives before nouns.
 
@@ -168,7 +168,7 @@ confidence: attested
 - **Animals and things, in speech or poetry:** any noun can be addressed: *ʒaɣlo!* "dog!", *mtvarev!* "moon!".
 - **As an interjection:** *ḳaco* "man!, come on!", especially after *ḳi* and *ara*; colloquial.
 - **Prayers and set phrases:** *ɣmerto čemo* "my God". Bolkvadze and Kiziria note that *dedao* is used only for a nun or the Virgin Mary, and *mamao* only for a priest.
-- **Not with given names, place names,** or your own *deda* and *mama*: these stay bare.
+- **Not with given names, most place names,** or your own *deda* and *mama*: these stay bare.
 
 ## Watch out
 

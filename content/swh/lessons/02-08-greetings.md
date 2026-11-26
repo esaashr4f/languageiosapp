@@ -116,7 +116,7 @@ preview: C5
 :::example
 orig: Hodi! Karibu!
 morphemes: hodi karibu
-gloss: may.I.come.in welcome
+gloss: anyone.home welcome
 translation: Anyone home? Come in!
 note: Hodi is called out at a door instead of knocking; karibu "welcome" (lesson 2.5) is the answer.
 source: constructed

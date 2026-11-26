@@ -206,7 +206,7 @@ confidence: constructed
 
 **Answering a negative question.** In Japanese, "yes" to "aren't you tired?" agrees with the negative ("yes, I'm not"); in English, "no" does. The sources consulted do not say which pattern Georgian follows. Avoid the question: answer with the full verb, *ara, ar var* or *ḳi, daɣlili var*.
 
-**Do not use tu as "or" in statements.** *Tu* is the "or" of questions. Statements use another word, taught with the conjunctions in lesson 5-6.
+**Do not use tu as the plain "or" of statements.** Bolkvadze and Kiziria say *tu* replaces the ordinary "or" in questions; a statement offering alternatives uses another word, taught with the conjunctions in lesson 5-6. *Tu* does appear in statements in paired phrases such as "man or woman, girl or boy, everyone celebrated", where it means "X and Y alike" (also lesson 5-6).
 
 ## New words
 
@@ -214,7 +214,7 @@ confidence: constructed
 კი | ḳi | particle | yes (everyday); also "but" |
 დიახ | diax | particle | yes (polite) |
 ჰო | ho | particle | yeah (colloquial) | also written ხო
-არა | ara | particle | no | a whole answer; not before the verb
+არა | ara | particle | no | a whole answer; before a verb the usual form is არ, though the two sometimes alternate (bolkvadze2023 §13.3; Wiktionary)
 ხომ | xom | particle | isn't it?, aren't you? (expects yes) | not with question words
 განა | gana | particle | surely not? (expects no, with surprise) |
 ნუთუ | nutu | particle | can it be that ...? (doubt, astonishment) |

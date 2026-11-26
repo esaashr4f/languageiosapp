@@ -19,7 +19,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 
 ## Passage
 
-**A. The envoy.** A constructed passage, using only words and grammar taught so far.
+**A. The envoy.** A constructed passage, using only words and grammar taught so far, except *brevī* "soon" (the ablative of *brevis*, "in a short time"), glossed here.
 
 1. Ubi hostēs ad flūmen pervēnērunt, cōnsul, quī in castrīs erat, lēgātum ad eōs mīsit.
 2. Lēgātus, quem cōnsul dēlēgerat, vir summā prūdentiā erat.
@@ -35,12 +35,12 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 2. *sed, quod plūribus praesentibus eās rēs iactārī nōlēbat, celeriter concilium dīmittit, Liscum retinet.*
 3. *Quaerit ex sōlō ea quae in conventū dīxerat.*
 
-**C. Thomas (Vulgate, John 20:24-26, 31, shortened).** Attested. New words, glossed here: *discipulus* "disciple"; *Didymus* "the Twin"; *intus* "inside"; *Christus* "Christ".
+**C. Thomas (Vulgate, John 20:24-26, 31, shortened).** Attested. New words, glossed here: *discipulus* "disciple"; *Didymus* "the Twin"; *intus* "inside"; *Chrīstus* "Christ".
 
 1. *Thōmās autem, ūnus ex duodecim, quī dīcitur Didymus, nōn erat cum eīs quandō vēnit Iēsūs.*
 2. *Dīxērunt ergō eī aliī discipulī: "Vīdimus Dominum!"*
 3. *Et post diēs octō iterum erant discipulī eius intus et Thōmās cum eīs. Venit Iēsūs iānuīs clausīs et stetit in mediō.*
-4. *Haec autem scrīpta sunt ut crēdātis quia Iēsūs est Christus.*
+4. *Haec autem scrīpta sunt ut crēdātis quia Iēsūs est Chrīstus.*
 
 ## Exercises
 
@@ -58,7 +58,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 12. In B3, explain *ea quae* and the tense of *dīxerat*.
 13. Translate passage C.
 14. In C1, explain *quī dīcitur Didymus* and *quandō vēnit*.
-15. In C3 and C4, explain *iānuīs clausīs*, *ut crēdātis* and *quia Iēsūs est Christus*, and say what a classical writer would have put instead of the *quia* clause.
+15. In C3 and C4, explain *iānuīs clausīs*, *ut crēdātis* and *quia Iēsūs est Chrīstus*, and say what a classical writer would have put instead of the *quia* clause.
 16. Say "Who are the men whom you sent to the city, and why did they go?"
 17. Say "the soldiers said that they had seen the enemy and that they would fight".
 18. Say "when the signal had been given, the cavalry hurried to the hill to help the legion" with an ablative absolute and a purpose clause.
@@ -66,7 +66,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 20. Correct *\*Mīles quī vīdistī frāter meus est*.
 21. Correct *\*Dīxit quod hostēs fūgērunt* and *\*Spērat vincere* (meant as "he hopes he will win").
 22. Correct *\*Caesare urbem captā, Caesar discessit*.
-23. Correct *\*Vēnērunt videre urbem* and *\*Fūgit ut nōn caperētur*.
+23. Correct *\*Vēnērunt vidēre urbem* and *\*Fūgit ut nōn caperētur*.
 24. Correct *\*Dīxit librum quem legit bonum esse* (reporting "the book I am reading is good").
 25. Give all six infinitives of *mittō*, and say which agree with a subject accusative.
 
@@ -86,7 +86,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 12. *Ea quae*: "those things which"; the antecedent *ea* is neuter plural, and *quae* agrees with it, accusative as the object of *dīxerat* (lesson 2). *Dīxerat*: pluperfect indicative, because he had spoken before the questioning; a relative clause in plain narrative keeps the indicative (lesson 2).
 13. "But Thomas, one of the twelve, who is called the Twin, was not with them when Jesus came. So the other disciples said to him: 'We have seen the Lord!' And eight days later his disciples were inside again, and Thomas was with them. Jesus came, though the doors were shut, and stood among them. But these things have been written so that you may believe that Jesus is the Christ."
 14. *Quī dīcitur Didymus*: a relative clause, *quī* masculine singular from *Thōmās*, nominative as subject of the passive *dīcitur* (lesson 2). *Quandō vēnit*: "when he came"; Allen and Greenough list *quandō* as a relative "when" (ag1903 §540a note), here with the perfect indicative like *ubi* (lesson 3).
-15. *Iānuīs clausīs*: ablative absolute, "the doors having been shut", best "although the doors were shut" (lesson 4). *Ut crēdātis*: purpose; present subjunctive because *scrīpta sunt* "have been written" looks at the present, a perfect with primary sequence (lessons 6 and 7; ag1903 §485a). *Quia Iēsūs est Christus*: late Latin "that" clause for a reported statement. A classical writer would write *ut crēdātis Iēsum esse Christum* (lesson 5).
+15. *Iānuīs clausīs*: ablative absolute, "the doors having been shut", best "although the doors were shut" (lesson 4). *Ut crēdātis*: purpose; present subjunctive because *scrīpta sunt* "have been written" looks at the present, a perfect with primary sequence (lessons 6 and 7; ag1903 §485a). *Quia Iēsūs est Chrīstus*: late Latin "that" clause for a reported statement. A classical writer would write *ut crēdātis Iēsūm esse Chrīstum* (lesson 5).
 16. *Quī sunt virī quōs ad urbem mīsistī, et cūr iērunt?* *Quī*: plural of the question pronoun (lesson 1); *quōs*: relative, masculine plural from *virī*, accusative object of *mīsistī* (lesson 2); *iērunt*: perfect of *eō* (part 4, lesson 14).
 17. *Mīlitēs dīxērunt sē hostēs vīdisse et sē pugnātūrōs esse.* Perfect infinitive for the earlier seeing, future infinitive for the later fighting; *sē* for the speakers (lesson 5; ag1903 §584).
 18. *Signō datō, equitēs ad collem contendērunt ut legiōnī auxiliō essent* (or *ut legiōnem iuvārent*). Ablative absolute *signō datō* (lesson 4); purpose with *ut* + imperfect after the secondary *contendērunt* (lessons 6 and 7); *auxiliō* is the dative of purpose (part 5, lesson 9).

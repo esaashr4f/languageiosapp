@@ -1,5 +1,5 @@
 {
- "count": 101,
+ "count": 114,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -876,6 +876,130 @@
    "script": "Armenian",
    "depth": "B",
    "notes": "Grabar, 5th-century Bible and early histories; cross-link Armenian (Eastern) and Georgian; depth may rise to A if the dossier finds the sources support it"
+  },
+  {
+   "number": 102,
+   "name": "Classical Japanese",
+   "iso": "qbj",
+   "group": "Dead and classical",
+   "script": "Kana + kanji",
+   "depth": "A",
+   "notes": "Bungo: Heian literature (Genji, Kokinshū) to pre-war written style; Old Japanese of the Man'yōshū flagged. No ISO code of its own (ojp is Old Japanese only): qbj is a private-use code",
+   "iso_note": "No ISO 639-3 code; private-use qbj (ISO reserves qaa–qtz for local use). Related: jpn, ojp"
+  },
+  {
+   "number": 103,
+   "name": "Middle Korean",
+   "iso": "okm",
+   "group": "Dead and classical",
+   "script": "Hangul (15th-century letters) + hanja",
+   "depth": "B",
+   "notes": "The 1446 Hunminjeongeum and 15th-century texts; pitch-accent dots and obsolete letters",
+   "iso_note": "ISO: Middle Korean (10th–16th cent.)"
+  },
+  {
+   "number": 104,
+   "name": "Old French",
+   "iso": "fro",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Chanson de Roland, Chrétien de Troyes; two-case system"
+  },
+  {
+   "number": 105,
+   "name": "Old Spanish",
+   "iso": "osp",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Cantar de mio Cid, Alfonso X"
+  },
+  {
+   "number": 106,
+   "name": "Aljamiado",
+   "iso": "qal",
+   "group": "Dead and classical",
+   "script": "Arabic (aljamiado) + Latin",
+   "depth": "C",
+   "notes": "Spanish of the Moriscos written in Arabic script; taught as a script and reading guide on top of Old Spanish, so short",
+   "iso_note": "No ISO 639-3 code (it is Old/Middle Spanish in Arabic script); private-use qal. Related: osp"
+  },
+  {
+   "number": 107,
+   "name": "Ugaritic",
+   "iso": "uga",
+   "group": "Dead and classical",
+   "script": "Ugaritic cuneiform alphabet + transliteration",
+   "depth": "B",
+   "notes": "Baal cycle; cross-link Biblical Hebrew and Akkadian"
+  },
+  {
+   "number": 108,
+   "name": "Phoenician and Punic",
+   "iso": "phn",
+   "group": "Dead and classical",
+   "script": "Phoenician + transliteration",
+   "depth": "C",
+   "notes": "Inscriptions from Byblos to Carthage; Punic flagged; known vs probable stated",
+   "iso_note": "Phoenician phn; Punic xpu"
+  },
+  {
+   "number": 109,
+   "name": "Old Persian",
+   "iso": "peo",
+   "group": "Dead and classical",
+   "script": "Old Persian cuneiform + transliteration",
+   "depth": "B",
+   "notes": "Achaemenid royal inscriptions (Behistun); cross-link Persian, Avestan, Sanskrit"
+  },
+  {
+   "number": 110,
+   "name": "Middle Persian",
+   "iso": "pal",
+   "group": "Dead and classical",
+   "script": "Book Pahlavi + transliteration",
+   "depth": "B",
+   "notes": "Zoroastrian Pahlavi books and Sasanian inscriptions; the ideogram (heterogram) system taught; cross-link Persian",
+   "iso_note": "ISO name: Pahlavi"
+  },
+  {
+   "number": 111,
+   "name": "Avestan",
+   "iso": "ave",
+   "group": "Dead and classical",
+   "script": "Avestan + transliteration",
+   "depth": "B",
+   "notes": "Gāthās and Younger Avesta; cross-link Sanskrit and Old Persian"
+  },
+  {
+   "number": 112,
+   "name": "Mycenaean Greek",
+   "iso": "gmy",
+   "group": "Dead and classical",
+   "script": "Linear B + transliteration",
+   "depth": "C",
+   "notes": "How Linear B was deciphered; tablets from Pylos and Knossos; established vs probable stated; cross-link Ancient Greek"
+  },
+  {
+   "number": 113,
+   "name": "Old Turkic",
+   "iso": "otk",
+   "group": "Dead and classical",
+   "script": "Old Turkic runes + transliteration",
+   "depth": "B",
+   "notes": "Orkhon inscriptions (Kül Tegin, Bilge Kagan); cross-link Turkish",
+   "iso_note": "ISO name: Old Turkish"
+  },
+  {
+   "number": 114,
+   "name": "Demotic Egyptian",
+   "iso": "qde",
+   "group": "Dead and classical",
+   "script": "Demotic + transliteration",
+   "depth": "B",
+   "notes": "Bridge between Middle Egyptian and Coptic; magical papyri; cross-link both",
+   "iso_note": "No separate ISO code (egy covers all stages of Egyptian); private-use qde. Related: egy, cop"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-100, then 59-71, then 1-58, skipping deferred languages; deferred languages (thin open sources) come last, when the owner can supply textbooks."

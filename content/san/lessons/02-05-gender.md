@@ -258,7 +258,7 @@ Latin has the same three genders and the same pattern for neuters: *templum* is 
 5. Correct *\*mukhaḥ śubhaḥ* "a beautiful face" and *\*priyaḥ kanyā*.
 6. Translate *kathāḥ smarati vṛddhaḥ*, and say how you know who remembers.
 7. Translate *ramyaṃ vanaṃ gacchanti kumārāḥ*.
-8. Make *alpaḥ vṛkṣaḥ* feminine (with *latā*) and neuter (with *puṣpa*).
+8. "A small tree" is *alpa* with *vṛkṣa*, both in the nominative singular masculine. Say "a small creeper" (*latā*) and "a small flower" (*puṣpa*).
 
 ## Worked answers
 

@@ -17,7 +17,7 @@ The guide has nine parts after this one. Read them in order. Each lesson uses on
 
 Part 1 teaches the script and the sounds: the letters, the vowel points and the other marks, in stages, ending with the first verses of Genesis read aloud. Part 2 gets you to short, complete sentences. Part 3 covers nouns and their machinery, and part 4, the longest, the verb. Parts 5 and 6 build longer sentences. Part 7 covers special topics, including poetry, Late Biblical Hebrew and the old inscriptions. Part 8 is real passages, read line by line, ending with the first chapter of Genesis. Part 9 is reference: tables, vocabulary and the book list.
 
-Each lesson has the same shape. First the idea and the reason for it. Then how the form is built, step by step. Then examples, and from part 2 a map of where the construction applies. Then the traps. A table comes only after the pattern has been explained. The lesson ends with exercises and worked answers. Do the exercises before reading the answers.
+Each lesson has the same shape. First the idea and the reason for it. Then how the form is built, step by step. Then examples and traps. A table comes only after the pattern has been explained. The lesson ends with exercises and worked answers. Do the exercises before reading the answers.
 
 ## How to read an example
 
@@ -38,7 +38,7 @@ preview: QTL, 3, SG, M, OBJ, DEF
 
 The first line is the Hebrew, pointed, as printed. It runs **right to left**: the first word, *bərēʾšîṯ*, is the one on the right. The mark at the end, like a colon, closes the verse. The guide leaves out the musical accents printed in most Bibles, because they are cantillation and punctuation rather than grammar. Lesson 1.9 shows them and teaches the few that matter for reading.
 
-The second line is the **transliteration**: the same words in Latin letters, left to right. The scheme is the academic one of the *SBL Handbook of Style*, which most English-language scholarship uses. It is nearly letter for letter, so you can turn it back into the pointed Hebrew. Part 1 builds it up sound by sound, and lesson 1.10 gives the whole scheme in one table.
+The second line is the **transliteration**: the same words in Latin letters, left to right. The scheme is the academic one of the *SBL Handbook of Style*, which most English-language scholarship uses. It is nearly letter for letter. Part 1 builds it up sound by sound, and lesson 1.10 gives the whole scheme in one table.
 
 The third line cuts each word at its joins, still in transliteration, so that it lines up with the line below. Two marks are used. An equals sign **=** joins a little word that is written as part of the next word: *wə=* "and", *ha=* "the", *bə=* "in". A hyphen **-** separates a word from an ending or prefix that belongs to it, such as a pronoun ending or the *way-* of the narrative verb.
 
@@ -79,8 +79,6 @@ The text is the Westminster Leningrad Codex, as published with word-by-word anal
 The sounds follow Geoffrey Khan's account of the Tiberian pronunciation tradition (2020), the modern standard work on how the Masoretes read the text. Where a detail from it has not yet been checked against his chapters, the guide says so.
 
 Wiktionary was used to check the pointing of individual words, never their meanings: its Hebrew entries mostly describe Modern Hebrew.
-
-The annotated bibliography in part 9 gives full details and says what each source is good for.
 
 ## How much to memorise
 

@@ -179,7 +179,7 @@ confidence: attested
 
 ## Watch out
 
-**Do not use the plural for two.** English, Spanish and French have only "more than one", so *\*dvau devāḥ* or *\*kumārāḥ krīḍataḥ* feels natural. Both are wrong: the noun, the number word and the verb must all be dual. Say *dvau devau*, *kumārau krīḍataḥ*. Speijer (§25) notes one licence: Pāṇini allows a first person plural "we" for two speakers. Do not extend it to nouns.
+**Do not use the plural for two.** English, Spanish and French have only "more than one", so *\*dvau devāḥ* or *\*kumārāḥ krīḍataḥ* feels natural. Both are wrong: the noun, the number word and the verb must all be dual. Say *dvau devau*, *kumārau krīḍataḥ*. Speijer (§25) notes one licence: the first person plural "we" may be used for two speakers (or even one). Do not extend it to nouns.
 
 **Do not leave "both" with a plural verb.** *\*ubhau gacchanti*, on the pattern of *ambos van*, *tous les deux vont*, is wrong. "Both go" is *ubhau gacchataḥ*.
 
@@ -246,7 +246,7 @@ Arabic is the nearest parallel for this reader: it too has a dual in nouns and v
 4. Say "two horses run" with the word *dvau*. What goes wrong at the join, and what can you write for now?
 5. Correct *\*ubhau śiṣyau paṭhanti*.
 6. Translate *pādau spṛśati putraḥ*.
-7. Turn *haṃsaḥ jalaṃ pibati* into "the two swans drink water", then into "the swans drink water" (several).
+7. Turn *jalaṃ pibati haṃsaḥ* into "the two swans drink water", then into "the swans drink water" (several).
 8. Someone reads *gacchatha* as "you two go". What has he missed?
 
 ## Worked answers

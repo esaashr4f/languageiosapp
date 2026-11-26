@@ -47,7 +47,7 @@ Once you know the grades, a great deal of apparent irregularity disappears. *ved
 
 1. **In derived words, on the first syllable** (Whitney §239b): a word meaning "of X, descended from X, belonging to X" puts the first vowel of X in vṛddhi. *deva* → *daiva* "divine"; *putra* → *pautra* "grandson"; *tila* "sesame" → *taila* "oil"; *śiva* → *śaiva* "of Śiva"; *manu* → *mānava* "human, descendant of Manu"; *vidyā* → *vaidya* "learned man, physician"; *kuśala* → *kauśala* "skill"; *pṛthivī* "earth" → *pārthiva* "earthly, king". With a suffix *-ya*: *madhura* → *mādhurya* "sweetness". You know several of these pairs from part 1.
 2. **In some nouns from roots**: *bhāva* "being, state" (√bhū), *kāra* "act, maker" (√kṛ).
-3. **In some verb stems**: class 10 *tāḍayati* (√taḍ), *dhārayati* (√dhṛ "hold"); and in the strong cases of some nouns: *dātāram* (san-03-14), *sakhāyam* (san-03-19).
+3. **In some verb stems**: class 10 *tāḍayati* (√taḍ), and *dhārayati* (√dhṛ "hold", a causative form used in the plain sense, mw1899); and in the strong cases of some nouns: *dātāram* (san-03-14), *sakhāyam* (san-03-19).
 
 **The exception for heavy syllables.** Whitney (§240) states that guṇa "does not usually take place in a heavy syllable ending with a consonant": a short vowel before two consonants, or a long vowel not at the end of the root. So √nind "blame" gives *nindati*, not *\*nendati*; √jīv "live" gives *jīvati*; √krīḍ *krīḍati*. But a final long vowel takes guṇa: *nī* → *nayati*. Vṛddhi has no such restriction (§240a).
 
@@ -206,7 +206,7 @@ confidence: attested
 
 **The guṇa of *a* is *a*.** Roots with *a* show no change at the guṇa grade: √vad gives *vadati*, √pac *pacati*. Do not invent *\*vādati*. Their vṛddhi is *ā*: *vāda* "speech", *pāka* "cooking".
 
-**Do not take "raising" as history.** In the reconstructed parent language the vowel *e/o* (Sanskrit *a*) of the full grade is often older than the simple vowel (Whitney §237). Use the rule to predict forms; do not use it to tell the history of a word.
+**Do not take "raising" as history.** Historically the full grade is often the older one: Whitney (§237) notes that *ṛ* comes "by abbreviation or weakening from an earlier *ar*". Use the rule to predict forms; do not use it to tell the history of a word.
 
 ## Reference table
 
@@ -243,7 +243,7 @@ source: whitney1889 §§235–236
 दीप | dīpa | noun | lamp, light | m., a-stem
 स्रु | sru | verb | flow | root, class 1, active; sravati
 सृ | sṛ | verb | flow, run, move | root, class 1, active; sarati
-धृ | dhṛ | verb | hold, bear, keep | root, class 10 in use, active; dhārayati
+धृ | dhṛ | verb | hold, bear, keep | root, class 1 (dharati), active; more often the causative form dhārayati in the same sense (mw1899)
 :::
 
 ## Connections

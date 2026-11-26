@@ -40,7 +40,7 @@ Here are the nine letters. Read each with its height first, as in lesson 1-5.
 
 - დ *d*: a wide double loop whose left end sweeps below the line. Name: *don*.
 - თ *t*: a double arch like a rounded m, between the lines. Name: *tan*.
-- ტ *ṭ*: a circle with a straight stroke through it, rising above and hanging below. Name: *ṭar*.
+- ტ *ṭ*: a circle with a straight stroke through it, rising above and hanging below. Name: *ṭari*.
 
 **Soft palate**
 
@@ -163,7 +163,7 @@ translit: teaṭri
 morphemes: teaṭri
 gloss: theatre
 translation: theatre
-note: From Greek théātron: Greek theta became aspirated თ, Greek tau became ejective ტ, as in the alphabet's own order.
+note: Ultimately from Greek théātron (Wiktionary): Greek theta became aspirated თ, Greek tau became ejective ტ, as in the alphabet's own order.
 source: wiktionary
 confidence: verified
 :::

@@ -54,7 +54,7 @@ Here are the twelve letters, each with its sound, its position and its name. Let
 - ს *s*: a U whose left arm rises above the line. Name: *san*.
 - ჰ *h*: a 3 shape that rises above the line. Name: *hae*.
 
-The letter names come from Wiktionary, which gives each with its IPA. They are useful labels when you talk about spelling. Most of them end in *-n*.
+The letter names come from Wiktionary, which gives each with its IPA. They are useful labels when you talk about spelling. Most of them end in *-n*. Wiktionary prints most names in this short form; in full, as Wikipedia gives them, most end in *-i*: *ani*, *eni*, *mani*, *nari* (but *rae* and *hae* stay as they are). A few, such as *uni*, appear in Wiktionary only in the full form.
 
 To read a word, take three steps.
 

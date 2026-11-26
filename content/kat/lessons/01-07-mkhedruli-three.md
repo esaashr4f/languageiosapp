@@ -224,7 +224,7 @@ source: aronson1990 §1.10, §1.10.2; wiktionary (letter entries and Georgian tr
 | 16 | ჟ | ž | ʒ | žan | below |
 | 17 | რ | r | r | rae | above |
 | 18 | ს | s | s | san | above |
-| 19 | ტ | ṭ | tʼ | ṭar | both |
+| 19 | ტ | ṭ | tʼ | ṭari | both |
 | 20 | უ | u | u | uni | below |
 | 21 | ფ | p | pʰ | par | below |
 | 22 | ქ | k | kʰ | kan | both |

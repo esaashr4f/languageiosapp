@@ -17,7 +17,7 @@ Lesson 4.10 used the subjunctive on its own: *usome*, *twende*, *nisaidie!* This
 
 **After wanting, asking, telling.** "I want you to come." English uses an infinitive, "to come", and puts "you" in front of it as an object. Swahili cannot do that: an infinitive has no subject slot. Instead the second verb is a full subjunctive with its own subject prefix: *Ninataka uje*, literally "I want (that) you come". Thompson and Schleicher give the rule: when the subject of the second verb differs from the subject of the first, the second verb is in the subjunctive. Their examples include *Nilitaka aje nyumbani kwetu* "I wanted her to come to our house" and *Aliomba nimsaidie* "she asked me to help her".
 
-When the subject is the same, the infinitive is normal: *Ninataka kuja* "I want to come" (lesson 2.2). Wpgrammar adds that *-taka* is sometimes followed by a same-subject subjunctive (*Nataka niende sokoni* "I want to go to the market"), when the speaker can do something about it. Use the infinitive and recognise the other.
+When the subject is the same, Thompson and Schleicher's rule points to the infinitive: *Ninataka kuja* "I want to come" (lesson 2.2). Wpgrammar describes it differently: it says that *-taka* and similar verbs of wishing "are usually followed by the subjunctive even when the subject is the same" (*Nataka niende sokoni* "I want to go to the market") when the outcome can be influenced, and that the infinitive is used when nothing can be done about it. The sources disagree on which is more usual; both are correct. This guide uses the infinitive, and you should recognise the other.
 
 The verbs that take a subjunctive this way include *-taka* "want", *-omba* "ask for", *-ambia* "tell", *-shauri* "advise", *-agiza* "order", *-acha* "let" (Almasi and colleagues list these and more). With *-ambia*, *-omba* and *-shauri* the person is also an object prefix on the first verb: *Nilimwambia aende* "I told him to go" (wpgrammar).
 
@@ -183,14 +183,14 @@ confidence: constructed
 - **Negative "let's" and "let me not"**: *tusisahau*, *tusifanye hivi* "let's not do this" (Thompson and Schleicher), *nisiende*.
 - **After verbs of forbidding, preventing, refusing**, with the negative: *alikataza watoto wasicheze nje* "she forbade the children to play outside" (built on Almasi and colleagues' list: *-kataza*, *-zuia*, *-kataa*, *-onya*).
 - **"Should I or not?"**: *niende nisiende?*
-- **A failed attempt**, in narrative: Almasi and colleagues note that a negative subjunctive after a past verb can mean "but did not manage to": *Tulimtafuta paka tusimwone* "we looked for the cat but didn't find him".
+- **A failed attempt**, in narrative: Almasi and colleagues note that a negative subjunctive after a past verb can mean "but did not manage to": *Tulimtafuta mbwa tusimwone* "we looked for the dog but could not find it".
 - **Questions asking what to do**: *Nisubiri?* "Should I wait?"
 
 ## Watch out
 
 **Not *\*Ninataka wewe kuja*.** English "want you to come" does not carry over. The second verb needs its own subject: *Ninataka uje.*
 
-**Not *\*Ninataka nije* as the normal "I want to come".** With the same subject, use the infinitive: *Ninataka kuja.* (Wpgrammar reports the subjunctive here as a less common option.)
+**With the same subject, both forms occur.** *Ninataka kuja* and *Ninataka nije* are both correct for "I want to come". This guide uses the infinitive; wpgrammar says the subjunctive is usual after *-taka* when the outcome can be influenced. What is wrong is an English-style subject before an infinitive (above).
 
 **No *ha-* in the negative subjunctive.** *\*Husome* and *\*Hasome* borrow the statement negatives. Use *-si-* after the positive prefix: *usisome*, *asisome*.
 

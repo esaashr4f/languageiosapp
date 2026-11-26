@@ -189,7 +189,7 @@ The nominative has a second use, after verbs meaning "be" and "become": "the boy
 
 **Do not add "he".** English needs "he goes"; Sanskrit does not. *gacchati* is complete. Adding a word for "that one" (san-03-09) is possible but adds emphasis, as Spanish *él va* does beside *va*.
 
-**Do not translate "is going" with "is".** English "the god is going" uses "is", but Sanskrit has no such helper. *\*devaḥ asti gacchati*, with *asti* "is" (san-02-07), is not a Sanskrit sentence. Say *devaḥ gacchati*.
+**Do not translate "is going" with "is".** English "the god is going" uses "is", but Sanskrit has no such helper. *\*devaḥ asti gacchati*, with *asti* "is" (san-02-07), is not a Sanskrit sentence. Say *gacchati devaḥ*.
 
 **The verb shows no sex.** *gacchati* is "he goes", "she goes" or "it goes". Only the subject noun, when there is one, says which.
 
@@ -246,7 +246,7 @@ The ending *-ti* is inherited: Wiktionary traces it to the Indo-European third p
 1. Build "the deer runs" from *mṛga* and √dhāv. Show each step.
 2. Build "the pupil speaks" in two orders, and say which is the usual one.
 3. Take apart *tiṣṭhati*: root, present stem, ending, meaning.
-4. Translate *tatra carati aśvaḥ*, and say how you know which word is the subject.
+4. Translate *tatra carati mṛgaḥ*, and say how you know which word is the subject.
 5. What is wrong with *\*gamati nṛpaḥ* for "the king goes"? Correct it.
 6. Translate *atra krīḍati bālaḥ*, then replace the boy with the crow.
 7. Someone writes *\*kāka khādati* for "the crow eats". What does the missing *ḥ* do to the sentence?
@@ -257,7 +257,7 @@ The ending *-ti* is inherited: Wiktionary traces it to the Indo-European third p
 1. The present stem of √dhāv is *dhāva-*, and one other person takes *-ti*: *dhāvati*. *mṛga* in the nominative singular is *mṛgaḥ*. *dhāvati mṛgaḥ*, "the deer runs". The usual order would put *mṛgaḥ* first, but before *d* texts change its ending (san-02-06), so for now put the verb first or write the subject last.
 2. √vad has the present stem *vada-*: *vadati*; *śiṣya* gives *śiṣyaḥ*. *śiṣyaḥ vadati* puts the subject first, the usual order (Speijer §16), but texts will write its ending differently before *v* (san-02-06). *vadati śiṣyaḥ*, verb first, avoids that and means the same.
 3. Root √sthā "stand"; present stem *tiṣṭha-* (Whitney §749a); ending *-ti*, third person singular: "he, she or it stands".
-4. "The horse is wandering there" (or "grazing there"). *aśvaḥ* has the nominative singular ending *-aḥ*; *tatra* is an adverb with no ending, and *carati* is the verb.
+4. "The deer is wandering there" (or "grazing there"). *mṛgaḥ* has the nominative singular ending *-aḥ*; *tatra* is an adverb with no ending, and *carati* is the verb.
 5. *gamati* is not the Classical present of √gam (Monier-Williams gives it only as Vedic). The stem is *gaccha-*: *gacchati nṛpaḥ*.
 6. "The boy is playing here." With the crow: *atra krīḍati kākaḥ*. Only the noun changes; the verb already says "one other person".
 7. Without its ending, *kāka* is not a nominative: it is the form for calling out, so the line reads "O crow, (he) eats". The subject needs *-ḥ*: *kākaḥ khādati*.

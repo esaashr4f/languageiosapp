@@ -38,7 +38,7 @@ To build a compound tense, take five steps.
 
 1. **Stem and negative**: *gel-*, *gel-me-*.
 2. **Tense** in slot 5: *-(I)yor*, the aorist, *-mIş* or *-(y)AcAK*: *geliyor*, *gelir*, *gelmiş*, *gelecek*. For the negative: *gelmiyor*, *gelmez*, *gelmemiş*, *gelmeyecek*. The negative aorist keeps its *z* in all persons here, since the person ending no longer touches it: *gelmezdim*, *gelmezdik* (goksel2005 §8.2.3.3).
-3. **Copula** in slot 6. Every tense suffix ends in a consonant, so there is no *y*: *-DI* or *-mIş*, harmonising with the tense: *geliyor-du*, *gelir-di*, *gelmiş-ti*, *gelecek-ti*. D becomes *t* after *ş* and *k*.
+3. **Copula** in slot 6. These four tense suffixes end in a consonant, so there is no *y*: *-DI* or *-mIş*, harmonising with the tense: *geliyor-du*, *gelir-di*, *gelmiş-ti*, *gelecek-ti*. D becomes *t* after *ş* and *k*.
 4. **Person**, chosen by the copula: after *-(y)DI* the k-set, after *-(y)mIş* the z-set: *geliyordum*, *geliyormuşum*. *K* of the future stays *k*, since a consonant follows: *gelecektim*.
 5. **"They"**: *-lAr* usually goes between the tense and the copula: *geliyorlardı*, *gelirlerdi*, *gelmişlerdi*, *geleceklerdi*, *geliyorlarmış*; it can also come last (goksel2005 §8.4).
 
@@ -262,7 +262,7 @@ anı | - | noun | memory (of the past) | acc. anıyı; pl. anılar "memories"
 
 ## Connections
 
-French and Spanish have three past tenses where Turkish has *-DI*, *-(I)yordu* and *-(A/I)rdI*: *je suis venu*, *je venais* and the imperfect of habit. Turkish divides the ground differently, splitting the Spanish imperfect into *-(I)yordu* (in progress) and *-(A/I)rdI* (characteristic habit). Japanese 〜ていた and Korean -고 있었다 build "was doing" the same way, from a progressive plus a past: *okuyordu*, 読んでいた, 읽고 있었다.
+French and Spanish have one imperfect (*je venais*, *venía*) for both "was coming" and "used to come", beside a perfective past (*je suis venu*, *vine*) that matches *-DI*. Turkish divides the ground differently, splitting the imperfect into *-(I)yordu* (in progress) and *-(A/I)rdI* (characteristic habit). Japanese 〜ていた and Korean -고 있었다 build "was doing" the same way, from a progressive plus a past: *okuyordu*, 読んでいた, 읽고 있었다.
 
 ## Exercises
 

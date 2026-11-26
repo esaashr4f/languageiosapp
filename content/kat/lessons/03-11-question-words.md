@@ -38,7 +38,7 @@ So one question word gives you a whole family. Once you know *vin*, *ra* and *sa
 
 **Building a question.**
 
-1. Start from the answer: *nino biblioteḳaši muša­obs*? No: start from *nino biblioteḳaši mušaobs* "Nino works in the library".
+1. Start from the answer: *nino biblioteḳaši mušaobs* "Nino works in the library".
 2. Replace the part you are asking about: the place, *biblioteḳaši*, becomes *sad*.
 3. Move the question word to the front, before the verb: *sad mušaobs nino?*
 
@@ -219,7 +219,7 @@ confidence: constructed
 
 **Do not leave the question word in its English case.** "Who" is not always *vin*. As the object of a present verb it is dative: *\*Vin xedavs nino?* means "who sees Nino?". For "whom does Nino see?", *vis xedavs nino?*
 
-**Do not separate the question word from the verb.** French *Où est-ce que Nino travaille?* and Spanish *¿Dónde trabaja Nino?* both put the subject after the verb, and Georgian likes this too. What it avoids is *\*sad nino mušaobs?* with the subject wedged between, in a neutral question; say *sad mušaobs nino?* Bolkvadze and Kiziria's rule is that the question word is followed by the verb.
+**Do not separate the question word from the verb.** Spanish *¿Dónde trabaja Nino?* puts the subject after the verb, and Georgian likes this too. What it avoids is *\*sad nino mušaobs?* with the subject wedged between, in a neutral question; say *sad mušaobs nino?* Bolkvadze and Kiziria's rule is that the question word is followed by the verb.
 
 **Do not make the verb plural for vin.** "Who (all) is coming?" may expect several people, but *vin* takes a singular verb (Bolkvadze and Kiziria): *vin laṗaraḳobs?*
 
@@ -229,7 +229,7 @@ confidence: constructed
 
 **Do not use -me when you are reporting a real person.** *Vinme ezošia* sounds like "anyone at all is in the yard". If you saw someone, say *viɣac ezošia*.
 
-**Do not drop ar with ver-words in the wrong way.** *Veravin* goes with *ver*, not *ar*: *veravin ver muša­obs*? Keep it simple: *veravin ver c̣ers* "nobody can write (it)", or *veravin c̣ers*. *\*Veravin ar c̣ers* mixes the two kinds of "not".
+**Do not drop ar with ver-words in the wrong way.** *Veravin* goes with *ver*, not *ar*: *veravin ver c̣ers* "nobody can write (it)", or *veravin c̣ers*. *\*Veravin ar c̣ers* mixes the two kinds of "not".
 
 **Do not translate "nothing" with ar alone.** *\*Ar vxedav* is "I don't see (it)". "I see nothing" needs *araperi*: *arapers vxedav*, or *arapers ar vxedav*. The object case of *araperi* is the dative *arapers*.
 
@@ -262,7 +262,7 @@ source: bolkvadze2023 §7.7, §7.9; wiktionary
 | vin "who" | vinme | viɣac | aravin |
 | ra "what" | rame | raɣac | araperi |
 | sad "where" | sadme | sadɣac | arsad |
-| rodis "when" | odesme "ever" | — | arasdros "never" |
+| rodis "when" | odesme "ever" (from old odes "when") | — | arasdros "never" |
 :::
 
 ## New words
@@ -316,7 +316,7 @@ Japanese builds the same families from question words: 誰 "who", 誰か "someon
 2. *Vistan laṗaraḳobs giorgi?*: the answer would be *megobartan*, so the question word takes *-tan* on its dative *vis*. *Raze laṗaraḳoben?*: the answer would be *pilmze*; *ra* takes *-ze*.
 3. *Magidaze ramdeni c̣ignia?* (or *ramdeni c̣ignia magidaze?*): singular noun and verb after *ramdeni*. *Romeli c̣ignia šeni?*: *romeli* before the noun, the copula on *c̣igni*.
 4. *Sad mušaobs nino?* *Rit tamašoben bavšvebi?*: the instrumental *burtit* becomes *rit*. *Vin ḳitxulobs?*: the nominative subject becomes *vin*.
-5. *Viɣac ḳartanaa* would need the short copula after a consonant; write *viɣac ḳartan aris*: a real but unnamed person, so *-ɣac*. *Vinme saxlšia?*: an open question, so *-me*.
+5. *Viɣac ḳartan aris*: a real but unnamed person, so *-ɣac*; *ḳari* is a consonant stem, so *-tan* replaces the dative *-s*. *Vinme saxlšia?*: an open question, so *-me*.
 6. *Q̇utši araperi ar aris* (or *araperia*). *Ak aravin (ar) cxovrobs.* Both negatives can take *ar* on the verb or not.
 7. "Whom" as the object is dative: *vis xedav?* After *ramdeni* the noun is singular, and so is the verb: *ramdeni bavšvia ak?* The question word wants the verb right after it: *sad cxovrobs nino?*
 8. *Rame* is open: "anything at all, if there is something". *Raɣac* is specific: "there is something, I am not saying or do not know what". You ask with *rame* and report with *raɣac*.

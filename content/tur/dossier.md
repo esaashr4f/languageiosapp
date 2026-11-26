@@ -338,3 +338,12 @@ Translations are always our own.
 - The pronominal n of o and the demonstratives appears before case suffixes, -lAr, -CA and -sIz, not before every suffix (§6.2).
 - TDK's telaffuz field marks stress with an apostrophe after the stressed vowel (numa'ra, ki'lo); vocab stress notes were checked against it.
 - Confirmed: gribi (TDK); şehre/şehire (G&K §2.3); şehir from Persian; ki "that" from Persian (no longer unverified).
+
+
+## Notes from drafting part 4 (2026-11-26)
+
+- Glossing: -(y)AmA one piece IMPOT (-amı/-emi before -yor: bul-amı-yor); aorist after it `-z` AOR (ed-eme-z), first persons IMPOT.AOR (yüz-eme-m); persuasive imperative -sAnA/-sAnIzA IMP.2SG/IMP.2PL; -sInlAr IMP.3PL; -mIş PRF before -DIr and before a copula (the PRF use taught in tur-04-10, since tur-04-09 is the midway review); -(y)Abil ABIL (bil- never harmonises); ist-iyor; ne zaman two words `what time`; precomposed ǘ for stressed ü.
+- -(y)sA on nouns taught in tur-04-08 with `preview: COND` (COND's tag stays at tur-06-10, the verbal conditional). INF previewed in tur-04-16; VN, NMLZ in 04-12, 04-17. tur-07-08 will need an abbreviation for -mAktA (add to glossary with that lesson's tag when drafted).
+- Forms built from G&K patterns, not in Wiktionary's tables: verb + -DIr (biliyordur), -lAr with -DIr, neredeydin, gelmeyebilir, gelemeyebilirim (§§8.3.3, 8.4, 21.4.1.4, 21.4.2.1).
+- Wiktionary errors: its potential tables harmonise -bil wrongly for the 13 -Ir monosyllables (kalabılır → kalabilir, olabilur → olabilir); yakında lacks "soon" (G&K §16.4.1.1). TDK unreachable on 2026-11-26.
+- For part 5: glossed in place only daha, de/da "also", çünkü, bir daha, sürekli, akşamları, müşteri, başka, sükût, yetişmek, kavga etmek; önümüzdeki in prose only. In vocab: önce/sonra (adverbs only), many time adverbs, language names in -CA, biraz, biri, az. Forward pointers: tur-05-04 clock times; tur-06-02 lazım/gerek; tur-06-10 conditional; tur-06-11 counterfactual; tur-06-12 diye, ki; tur-07-08 -mAktA; -ken in part 6.

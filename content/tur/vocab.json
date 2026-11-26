@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 525,
+ "count": 779,
  "words": [
   {
    "headword": "at",
@@ -4093,7 +4093,7 @@
    "translit": "",
    "pos": "adverb",
    "meaning": "only",
-   "forms": "from Arabic",
+   "forms": "sade \"plain\" (from Persian, tdk) + -CA",
    "first_lesson": "tur-03-10",
    "confidence": "verified"
   },
@@ -4725,6 +4725,2292 @@
    "meaning": "sweet",
    "forms": "also a noun \"dessert\", acc. tatlıyı",
    "first_lesson": "tur-03-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "düşünmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think",
+   "forms": "aor. düşünür",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "oynamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "play",
+   "forms": "aor. oynar; oynuyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gülmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "laugh",
+   "forms": "aor. güler",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ağlamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "cry, weep",
+   "forms": "aor. ağlar; ağlıyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "koşmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "run",
+   "forms": "aor. koşar",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yürümek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "walk",
+   "forms": "aor. yürür; yürüyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "giymek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wear; put on (clothes)",
+   "forms": "aor. giyer",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "temizlemek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "clean",
+   "forms": "aor. temizler; temizliyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hazırlamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "prepare",
+   "forms": "aor. hazırlar; hazırlıyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pişirmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "cook (something)",
+   "forms": "aor. pişirir",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ödemek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pay",
+   "forms": "aor. öder; ödüyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kazanmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "win; earn",
+   "forms": "aor. kazanır",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "denemek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "try; try on",
+   "forms": "aor. dener; deniyor",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tutmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hold; catch",
+   "forms": "aor. tutar",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hesap",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bill; account; calculation",
+   "forms": "acc. hesabı",
+   "first_lesson": "tur-04-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalkmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get up, stand up; (of vehicles) leave",
+   "forms": "aor. kalkar",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yatmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lie down; go to bed",
+   "forms": "aor. yatar",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "durmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "stop; stand; stay",
+   "forms": "aor. durur",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "susmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be quiet, stop talking",
+   "forms": "aor. susar",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dokunmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "touch",
+   "forms": "aor. dokunur; takes the dative",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "atmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "throw; throw away",
+   "forms": "aor. atar",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "acele",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hurry, haste",
+   "forms": "acc. aceleyi",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "acele etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hurry",
+   "forms": "aor. acele eder",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dikkat etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pay attention, be careful",
+   "forms": "aor. dikkat eder; what you watch takes the dative",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "merak",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "curiosity; worry",
+   "forms": "acc. merakı",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "merak etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wonder, be curious; worry",
+   "forms": "aor. merak eder; merak etme \"don't worry\"",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "içeri",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "inside, in",
+   "forms": "İçeri gel \"come in\"",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dışarı",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "outside, out",
+   "forms": "dışarıda \"outside (at)\"",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hemen",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at once, immediately",
+   "forms": "",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çabuk",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "quickly; quick",
+   "forms": "",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yavaş",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "slow; (as adverb) slowly",
+   "forms": "",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tekrar",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "again",
+   "forms": "",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ışık",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "light",
+   "forms": "acc. ışığı",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "buyurun",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "here you are; come in; please go ahead",
+   "forms": "imperative of buyurmak \"command\"",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kolay gelsin",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "(to someone working) may it go easily",
+   "forms": "",
+   "first_lesson": "tur-04-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "geçen",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "last (week, year)",
+   "forms": "geçen hafta \"last week\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "önce",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "first; (after a time phrase) ago",
+   "forms": "iki gün önce \"two days ago\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sonra",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "then, afterwards, later",
+   "forms": "",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "demin",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "just now",
+   "forms": "",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çoktan",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "long ago; already",
+   "forms": "",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "erken",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "early",
+   "forms": "",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "geç",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "late",
+   "forms": "",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "geç kalmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be late",
+   "forms": "aor. geç kalır; geç kaldım \"I'm late\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kahvaltı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "breakfast",
+   "forms": "kahvaltı etmek \"have breakfast\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uyanmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wake up",
+   "forms": "aor. uyanır",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "doğmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be born; (of the sun) rise",
+   "forms": "aor. doğar",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ölmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "die",
+   "forms": "aor. ölür",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kırmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "break",
+   "forms": "aor. kırar",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bitmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "end, finish; run out",
+   "forms": "aor. biter",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "acıkmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get hungry",
+   "forms": "aor. acıkır; acıktım \"I'm hungry\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "susamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get thirsty",
+   "forms": "aor. susar; susadım \"I'm thirsty\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yorulmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get tired",
+   "forms": "aor. yorulur; yoruldum \"I'm tired\"",
+   "first_lesson": "tur-04-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gelecek",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "next; coming",
+   "forms": "gelecek hafta \"next week\"; also a noun \"the future\", acc. geleceği",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yakında",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "soon; nearby",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "belki",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "perhaps, maybe",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "inşallah",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "hopefully; God willing",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "haftaya",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "next week",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "seneye",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "next year",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ileride",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "later on, in the future",
+   "forms": "",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hafta sonu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "weekend",
+   "forms": "acc. hafta sonunu; hafta sonu \"at the weekend\"",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yağmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "(of rain, snow) fall",
+   "forms": "aor. yağar; yağmur yağıyor \"it is raining\"",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "seyahat",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "journey, trip, travel",
+   "forms": "acc. seyahati",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "seyahat etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "travel",
+   "forms": "aor. seyahat eder",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "değişmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "change",
+   "forms": "aor. değişir",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "büyümek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "grow; grow up",
+   "forms": "aor. büyür",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "karar",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "decision",
+   "forms": "acc. kararı",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "karar vermek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "decide",
+   "forms": "aor. karar verir; what you decide on takes the dative",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plan",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "plan",
+   "forms": "acc. planı",
+   "first_lesson": "tur-04-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "teşekkür ederim",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "thank you",
+   "forms": "aorist of teşekkür etmek",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rica",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "request",
+   "forms": "acc. ricayı",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rica etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "request, ask (politely)",
+   "forms": "aor. rica eder",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rica ederim",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "you're welcome; please",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "affetmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "forgive",
+   "forms": "aor. affeder; stem affet-, affed- before a vowel",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "affedersiniz",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "excuse me; I'm sorry",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "özür",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "apology",
+   "forms": "acc. özrü",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "özür dilemek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "apologise",
+   "forms": "aor. özür diler; özür dilerim \"I'm sorry\"",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ummak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hope",
+   "forms": "aor. umar; umarım \"I hope\"",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sanmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, suppose",
+   "forms": "aor. sanır (one of the thirteen); sanırım \"I think\"",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "varmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "arrive, reach",
+   "forms": "aor. varır (one of the thirteen); takes the dative",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vurmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hit, strike",
+   "forms": "aor. vurur (one of the thirteen)",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "görüşmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "meet, see each other; talk",
+   "forms": "aor. görüşür",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "görüşürüz",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "see you",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "her zaman",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "always",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bazen",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "sometimes",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sık sık",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "often",
+   "forms": "",
+   "first_lesson": "tur-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "güneş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sun",
+   "forms": "acc. güneşi",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "doğu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "east",
+   "forms": "acc. doğuyu",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "batı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "west",
+   "forms": "acc. batıyı",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "batmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "sink; (of the sun) set",
+   "forms": "aor. batar",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "havlamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "bark",
+   "forms": "aor. havlar",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ısırmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "bite",
+   "forms": "aor. ısırır",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hiçbir zaman",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "never (with a negative); ever",
+   "forms": "hiçbir zaman gelmez \"he never comes\"",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "içki",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "(alcoholic) drink",
+   "forms": "acc. içkiyi",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "söz vermek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "promise",
+   "forms": "aor. söz verir; söz veririm \"I promise\"",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cevap vermek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "answer, reply",
+   "forms": "aor. cevap verir; the person answered takes the dative",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rahatsız",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "uncomfortable, uneasy; unwell",
+   "forms": "",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rahatsız etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "disturb, bother",
+   "forms": "aor. rahatsız eder",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dürüst",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "honest",
+   "forms": "",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pazartesi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Monday",
+   "forms": "acc. pazartesiyi",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cumartesi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Saturday",
+   "forms": "acc. cumartesiyi",
+   "first_lesson": "tur-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "galiba",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "probably, I think, it seems",
+   "forms": "",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "meğer",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "it turns out (that)",
+   "forms": "used with -mIş",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kaza",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "accident",
+   "forms": "acc. kazayı",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hırsız",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "thief, burglar",
+   "forms": "acc. hırsızı",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çalmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "steal; ring; play (an instrument)",
+   "forms": "aor. çalar",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "polis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "police; police officer",
+   "forms": "acc. polisi",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "masal",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fairy tale",
+   "forms": "acc. masalı",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eşek",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "donkey",
+   "forms": "acc. eşeği",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hoca",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "teacher, master; (religious) teacher",
+   "forms": "acc. hocayı; Nasreddin Hoca, the hero of Turkish anecdotes",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ıslak",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wet",
+   "forms": "",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "patlamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "burst, explode",
+   "forms": "aor. patlar",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lastik",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tyre; rubber",
+   "forms": "acc. lastiği",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "piyango",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lottery",
+   "forms": "acc. piyangoyu",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "boşanmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get divorced",
+   "forms": "aor. boşanır",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eyvah",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "oh no; alas",
+   "forms": "",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kavga",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fight, quarrel",
+   "forms": "acc. kavgayı; kavga etmek \"fight, quarrel\"",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "biri",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "someone",
+   "forms": "acc. birini",
+   "first_lesson": "tur-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ünlü",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "famous",
+   "forms": "also a noun, \"celebrity\"",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "üzgün",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "sad",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kızgın",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "angry; red-hot",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sıkıcı",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "boring",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eğlenceli",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "fun, entertaining",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lezzetli",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "delicious, tasty",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "heyecanlı",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "excited; exciting",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tehlikeli",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "dangerous",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çocukluk",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "childhood",
+   "forms": "acc. çocukluğu",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "o zaman",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "then; in that case",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fakat",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "but, however",
+   "forms": "",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "parti",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "party (social gathering; political)",
+   "forms": "acc. partiyi",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "konser",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "concert",
+   "forms": "acc. konseri",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yolcu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "passenger, traveller",
+   "forms": "acc. yolcuyu",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bir varmış bir yokmuş",
+   "translit": "",
+   "pos": "phrase",
+   "meaning": "once upon a time",
+   "forms": "written with a comma: Bir varmış, bir yokmuş",
+   "first_lesson": "tur-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eskiden",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "in the past, formerly",
+   "forms": "",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "o zamanlar",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "in those days, at that time",
+   "forms": "",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "o sırada",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at that moment, just then",
+   "forms": "",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ertesi",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "following, next (in the past)",
+   "forms": "ertesi gün \"the next day\"",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "zaten",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "anyway; already; in fact",
+   "forms": "",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tırmanmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "climb",
+   "forms": "aor. tırmanır; what you climb takes the dative",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yüzmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "swim",
+   "forms": "aor. yüzer",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mahalle",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "neighbourhood, quarter",
+   "forms": "acc. mahalleyi",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uçurtma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "kite",
+   "forms": "acc. uçurtmayı",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "duş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "shower",
+   "forms": "acc. duşu",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "duş almak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "have a shower",
+   "forms": "aor. duş alır",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "postacı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "postman",
+   "forms": "acc. postacıyı",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "soba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "stove",
+   "forms": "acc. sobayı",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fırsat",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "opportunity, chance",
+   "forms": "acc. fırsatı",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bir zamanlar",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "once, at one time (in the past)",
+   "forms": "",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "anı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "memory (of the past)",
+   "forms": "acc. anıyı; pl. anılar \"memories\"",
+   "first_lesson": "tur-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "herhalde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "probably, I expect",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mutlaka",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "definitely, without fail",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kesinlikle",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "certainly, definitely",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "giriş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "entrance; entry; introduction",
+   "forms": "acc. girişi",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ücretsiz",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "free of charge",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yasak",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "forbidden",
+   "forms": "also a noun, \"ban\", acc. yasağı",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kural",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rule",
+   "forms": "acc. kuralı",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dünya",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "world",
+   "forms": "acc. dünyayı",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nüfus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "population",
+   "forms": "acc. nüfusu",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "resmî",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "official",
+   "forms": "also written resmi",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bilim",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "science",
+   "forms": "acc. bilimi",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eser",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "work (of art or literature)",
+   "forms": "acc. eseri",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yüzyıl",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "century",
+   "forms": "acc. yüzyılı",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gümüş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "silver",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "altın",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gold",
+   "forms": "",
+   "first_lesson": "tur-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lazım",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "necessary, needed",
+   "forms": "bana ... lazım \"I need ...\"",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gerek",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "necessary",
+   "forms": "also a noun, \"need, necessity\", acc. gereği",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bence",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "in my opinion, I think",
+   "forms": "",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ilaç",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "medicine, drug",
+   "forms": "acc. ilacı",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sağlık",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "health",
+   "forms": "acc. sağlığı",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sağlıklı",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "healthy",
+   "forms": "",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sebze",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "vegetable",
+   "forms": "acc. sebzeyi",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "meyve",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fruit",
+   "forms": "acc. meyveyi",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dinlenmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "rest",
+   "forms": "aor. dinlenir",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dikkatli",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "careful",
+   "forms": "",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "az",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "little, a little; few",
+   "forms": "",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kilo vermek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lose weight",
+   "forms": "aor. kilo verir",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sözlük",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dictionary",
+   "forms": "acc. sözlüğü",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fırçalamak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "brush",
+   "forms": "aor. fırçalar",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uyku",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sleep",
+   "forms": "acc. uykuyu",
+   "first_lesson": "tur-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "İngilizce",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "English (language)",
+   "forms": "also an adverb, \"in English\"",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Fransızca",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "French (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Almanca",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "German (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "İspanyolca",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Spanish (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Japonca",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Japanese (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Korece",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Korean (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "Arapça",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "Arabic (language)",
+   "forms": "",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "piyano",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "piano",
+   "forms": "acc. piyanoyu",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gitar",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "guitar",
+   "forms": "acc. gitarı",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dans",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dance",
+   "forms": "acc. dansı",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dans etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "dance",
+   "forms": "aor. dans eder",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "taşımak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "carry",
+   "forms": "aor. taşır; taşıyor",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kaldırmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lift; remove; get (someone) up",
+   "forms": "aor. kaldırır",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çekmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pull; draw",
+   "forms": "aor. çeker",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fotoğraf çekmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "take a photograph",
+   "forms": "aor. fotoğraf çeker",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "park etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "park",
+   "forms": "aor. park eder",
+   "first_lesson": "tur-04-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "haydi",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "come on; let's",
+   "forms": "also hadi",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yürüyüş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "walk",
+   "forms": "acc. yürüyüşü; yürüyüşe çıkmak \"go for a walk\"",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "piknik",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "picnic",
+   "forms": "acc. pikniği",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plaj",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "beach",
+   "forms": "acc. plajı",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "öğle yemeği",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lunch",
+   "forms": "acc. öğle yemeğini",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "akşam yemeği",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dinner, evening meal",
+   "forms": "acc. akşam yemeğini",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sipariş",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "order (in a shop or restaurant)",
+   "forms": "acc. siparişi; sipariş etmek \"order\"",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "menü",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "menu",
+   "forms": "acc. menüyü",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bira",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "beer",
+   "forms": "acc. birayı",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "şarap",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wine",
+   "forms": "acc. şarabı",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sohbet",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "chat, conversation",
+   "forms": "acc. sohbeti",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sohbet etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "chat",
+   "forms": "aor. sohbet eder",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "biraz",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "a little, a bit",
+   "forms": "",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tiyatro",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "theatre",
+   "forms": "acc. tiyatroyu",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gezmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "go around, stroll; travel, tour",
+   "forms": "aor. gezer",
+   "first_lesson": "tur-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "baklava",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "baklava",
+   "forms": "acc. baklavayı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kebap",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "kebab",
+   "forms": "acc. kebabı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "çorba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "soup",
+   "forms": "acc. çorbayı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "salata",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "salad",
+   "forms": "acc. salatayı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pilav",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "pilaf; cooked rice",
+   "forms": "acc. pilavı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dondurma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ice cream",
+   "forms": "acc. dondurmayı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ayran",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ayran (salted yoghurt drink)",
+   "forms": "acc. ayranı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rakı",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "raki (aniseed spirit)",
+   "forms": "acc. rakıyı",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "köfte",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "meatball",
+   "forms": "acc. köfteyi",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "börek",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "börek (filled pastry)",
+   "forms": "acc. böreği",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "simit",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "simit (sesame bread ring)",
+   "forms": "acc. simidi",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "zeytin",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "olive",
+   "forms": "acc. zeytini",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "domates",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tomato",
+   "forms": "acc. domatesi",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tatmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "taste",
+   "forms": "aor. tadar; tat-, tad- before a vowel",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "öyle mi",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "really? is that so?",
+   "forms": "",
+   "first_lesson": "tur-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "olmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be; become; happen",
+   "forms": "aor. olur (one of the thirteen)",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sahip olmak",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "own, possess",
+   "forms": "aor. sahip olur; what is owned takes the dative",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "olur",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "OK, all right",
+   "forms": "the aorist of olmak",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "olmaz",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "no, that won't do; impossible",
+   "forms": "the negative aorist of olmak",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "olsun",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "never mind, it doesn't matter",
+   "forms": "the command -sIn of olmak",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "afiyet olsun",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "enjoy your meal",
+   "forms": "",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "geçmiş olsun",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "get well soon; sorry to hear that",
+   "forms": "",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "emekli",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "retired",
+   "forms": "also a noun, \"retired person\"; emekli olmak \"retire\"",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "afiyet",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "health (in set phrases)",
+   "forms": "acc. afiyeti",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "deprem",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "earthquake",
+   "forms": "acc. depremi",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "düğün",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wedding",
+   "forms": "acc. düğünü",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "doğum günü",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "birthday",
+   "forms": "acc. doğum gününü",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "olay",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "event, incident",
+   "forms": "acc. olayı",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mümkün",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "possible",
+   "forms": "",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "başkan",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "president; chairman; mayor",
+   "forms": "acc. başkanı",
+   "first_lesson": "tur-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "şu anda",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at the moment, right now",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bu günlerde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "these days, at present",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "genelde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "generally, in general",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aslında",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "actually, in fact",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yine",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "again; still",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sonunda",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "finally, in the end",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "birden",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "suddenly",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nihayet",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at last, finally",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "zamanında",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "on time, in time",
+   "forms": "",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "takvim",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "calendar",
+   "forms": "acc. takvimi",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalkış",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "departure",
+   "forms": "acc. kalkışı",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hikâye",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "story",
+   "forms": "acc. hikâyeyi; also spelt hikaye",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tahmin",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "guess, estimate",
+   "forms": "acc. tahmini",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tahmin etmek",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "guess, predict",
+   "forms": "aor. tahmin eder",
+   "first_lesson": "tur-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "durum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "situation, condition",
+   "forms": "acc. durumu",
+   "first_lesson": "tur-04-17",
    "confidence": "verified"
   }
  ]

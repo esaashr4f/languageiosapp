@@ -236,6 +236,19 @@
   "determiner": "A word before a noun that fixes its reference, such as bu or her (tur-03-11).",
   "question word": "A word asking for information: kim, ne, nerede (tur-03-12).",
   "comitative-instrumental": "The -(y)lA ending meaning 'with' (company or tool) (tur-03-13).",
-  "postposition": "A word after a noun showing relation, like ile (tur-03-13)."
+  "postposition": "A word after a noun showing relation, like ile (tur-03-13).",
+  "slot": "One position in the fixed order of verb suffixes (tur-04-01).",
+  "finite": "Of a verb form: carrying tense and person, able to end a sentence (tur-04-01).",
+  "aspect": "How an action is viewed: as a whole or in progress (tur-04-03).",
+  "perfective": "Viewing an action as a completed whole (tur-04-03).",
+  "k-set and z-set": "The two sets of person endings: the k-set after -DI and -sA, the z-set elsewhere (tur-04-03).",
+  "evidentiality": "Marking how the speaker knows something, as -mIş does (tur-04-07).",
+  "copular markers": "The endings that do the work of 'be': -(y)DI, -(y)mIş, -(y)sA, -DIr (tur-04-08).",
+  "compound tense": "A tense built from two markers, such as -mIştI (tur-04-10).",
+  "generalising modality": "The -DIr use for general truths and assumptions (tur-04-11).",
+  "necessitative": "The -mAlI form 'must' (tur-04-12).",
+  "impotential": "The -(y)AmA form 'cannot' (tur-04-13).",
+  "optative": "The -(y)A form for wishes and suggestions (tur-04-14).",
+  "imperfective": "Viewing an action as ongoing or repeated (tur-04-17)."
  }
 }

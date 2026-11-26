@@ -19,7 +19,7 @@ The infinitive is half verb and half noun. Thompson and Schleicher call it a "ve
 
 **As a verb** it keeps the verb's inside. It can take an object prefix: *kukuona* "to see you" (lesson 4.7). It can have objects after it: *kusoma kitabu*. It can be negative. What it cannot take are a subject prefix or a tense marker: wpgrammar notes that infinitives "cannot take subject, relative or TAM prefixes". The *ku-* stands in the subject slot (lesson 4.1), and there is no tense slot.
 
-**As a noun** it belongs to class 15, with *ku-* as its noun prefix. Like any noun it can be a subject, an object, or the second noun after *-a* "of", and words that agree with it take class 15 prefixes: subject prefix *ku-*, possessive *kw-* (*kusoma kwako* "your reading"), adjective *ku-*, *kw-* before a vowel. Polomé gives *kuimba kwetu* "our singing" and *kusoma kwema* "good reading". Thompson and Schleicher give a sentence with an infinitive subject: *Kuona kifaru kunavutia* "seeing a rhino is fascinating", where the verb has class 15 *ku-*.
+**As a noun** it belongs to class 15, with *ku-* as its noun prefix. Like any noun it can be a subject, an object, or the second noun after *-a* "of", and words that agree with it take class 15 prefixes: subject prefix *ku-*, possessive *kw-* (*kusoma kwako* "your reading"), adjective *ku-*, *kw-* before a vowel. Polomé gives *kuimba kwetu* "our singing" and *kusoma kwema* "good reading". Thompson and Schleicher give a sentence with an infinitive subject: *Kuona kifaru kunavutia* "seeing a rhino is interesting", where the verb has class 15 *ku-*.
 
 **The negative** adds *-to-* after *ku-*: *kutosoma* "not to read, not reading" (Wiktionary; Thompson and Schleicher). Wiktionary derives *kuto-* from *kutoa* "to lack"; wpgrammar from the same verb in the sense "take away". With short verbs, Wiktionary says *kuto-* is put in front of the whole positive infinitive: *kutokula* "not to eat". Thompson and Schleicher also give a longer form for all verbs, *kutokufanya* beside *kutofanya*; Wiktionary calls such forms older or dialectal. This guide writes *kuto-* + stem, and *kutoku-* only for short verbs.
 
@@ -219,7 +219,7 @@ kitendo | - | noun | act, action | 7/8, pl. vitendo
 
 ## Connections
 
-Spanish *el leer* "reading" and Japanese 読むこと show the same idea: an infinitive or verb form treated as a noun. Swahili goes further and gives it a full noun class with its own agreement. Polomé notes that class 15 *ku-* is the same prefix across Bantu, and the infinitive is a noun throughout the family.
+Spanish *el leer* "reading" and Japanese 読むこと show the same idea: an infinitive or verb form treated as a noun. Swahili goes further and gives it a full noun class with its own agreement. Polomé traces the class 15 prefix *ku-* back to proto-Bantu *\*ko*, and notes that in Swahili the class is used for nothing but infinitives.
 
 ## Exercises
 

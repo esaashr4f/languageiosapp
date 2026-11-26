@@ -13,19 +13,19 @@ sources: [goksel2005, wpphon, wiktionary]
 
 ## The idea
 
-Turkish spelling is close to a recording. Each letter stands for one sound, every letter is pronounced, and the alphabet of 1928 was designed for the language. This lesson covers the vowels. The consonants follow in the next lesson; until then, read them roughly as in English.
+Turkish spelling is close to a recording: one letter, one sound, nothing silent. This lesson covers the vowels. Until the next lesson, read the consonants roughly as in English.
 
 There are eight vowel letters: *a e ı i o ö u ü*. Five of them, *a e i o u*, have the values of Spanish or Japanese. The other three are new to English speakers: dotless *ı*, and *ö* and *ü* with two dots.
 
-You could learn the eight one by one. Do not. Turkish vowels form a system, and the grammar uses the system all the time. Each vowel is the answer to three yes-or-no questions about how you make it.
+Do not learn the eight one by one. They form a system, and the grammar uses it constantly. Each vowel is the answer to three yes-or-no questions about how you make it.
 
 1. **Front or back?** Is the tongue pushed forward in the mouth, or pulled back? Say English "tea" and then "two" and feel your tongue move back.
 2. **Rounded or not?** Are the lips pushed out into a round shape, or spread? Say "tea" and then French *tu*: the tongue stays where it is and only the lips change.
 3. **High or low?** Is the tongue raised close to the roof of the mouth, or lowered with the jaw open? Say "tea" and then "ten".
 
-Three questions with two answers each give eight combinations, and Turkish uses all eight. Picture them as the corners of a cube. Every vowel sits on one corner, and two vowels on neighbouring corners differ in exactly one answer.
+Three questions with two answers each give eight combinations, and Turkish uses all eight. Picture them as the corners of a cube: neighbouring corners differ in one answer.
 
-Why learn them this way? Because vowel harmony, the rule that chooses the vowel of every suffix, works by these questions. A suffix asks the word in front of it "were you front or back?", and sometimes "were you rounded?". If you know the answers for each vowel, harmony becomes easy. If you do not, it stays a mystery.
+Why learn them this way? Because vowel harmony, the rule that chooses the vowel of every suffix, works by these questions. A suffix asks the word in front of it "were you front or back?", and sometimes "were you rounded?". Know the answers and harmony becomes easy.
 
 ## How it is built
 
@@ -36,7 +36,7 @@ To say a Turkish vowel, start from one you know and change one setting.
 3. For **ö**, say *e* and round your lips. That is French *eu* in *peu*, or German *ö*.
 4. For **ı**, say *u* and spread your lips as for a smile, keeping the tongue back. Korean ㅡ (*eu*) is very close. To an English ear it is close to the weak vowel at the start of "about".
 
-Now sort them. The front vowels are *e i ö ü*. The back vowels are *a ı o u*. The rounded vowels are *o ö u ü*. The high vowels are *ı i u ü*. Each vowel is in exactly the groups its corner of the cube puts it in: *ü*, for example, is front, rounded and high.
+Now sort them. Front: *e i ö ü*. Back: *a ı o u*. Rounded: *o ö u ü*. High: *ı i u ü*. So *ü*, for example, is front, rounded and high.
 
 Sounds in this guide are written in the International Phonetic Alphabet, in square brackets. Most symbols are the letters you expect. The new ones are [ɯ] for *ı*, [œ] for *ö*, [y] for *ü*, and [ɟ] for the *g* of *göz* and *gün*, which the next lesson explains. Stress is not marked until lesson 7 of this part.
 
@@ -164,17 +164,17 @@ confidence: verified
 
 ## Watch out
 
-**Dotless ı is a different letter, not a misprint.** *Kır* and *kir* are different words. The dot matters in capitals too. The capital of *i* is *İ*, with a dot. The capital of *ı* is *I*, without one. So *iki* in capitals is *İKİ*, and the city of *İstanbul* starts with a dotted capital.
+**Dotless ı is a different letter, not a misprint.** *Kır* and *kir* are different words. The dot matters in capitals too: the capital of *i* is *İ*, the capital of *ı* is *I*. So *iki* in capitals is *İKİ*, and *İstanbul* starts with a dotted capital.
 
 **ü and ö are not u and o with decoration.** Putting *u* for *ü* changes the word, as French *tu* differs from *tout*. Keep the lips rounded and the tongue forward.
 
-**No glides.** English turns *e* and *o* into "ay" and "oh-oo". Turkish vowels stay still from start to finish. Spanish and Japanese speakers have this already.
+**No glides.** English turns *e* and *o* into "ay" and "oh-oo". Turkish vowels stay still, as Spanish and Japanese ones do.
 
-**e has a lower version.** Before *l*, *m*, *n* or *r* at the end of a syllable, many speakers lower *e* towards the vowel of English "cat": *yer* "place" is close to [jæɾ]. You will be understood either way. Göksel and Kerslake describe the rule in detail.
+**e has a lower version.** Before *l*, *m*, *n* or *r* at the end of a syllable, many speakers lower *e* towards the vowel of English "cat": *yer* "place" is close to [jæɾ]. You will be understood either way.
 
-**Two vowels in a row are two syllables.** Turkish has no diphthongs, no vowels that glide into one another inside a syllable. Native words never even put two vowels next to each other. Where loanwords do, as in *saat* "hour" (lesson 3), each vowel is said separately or the pair is lengthened. *y* is always a consonant.
+**No diphthongs.** Native words never put two vowels side by side. Where loanwords do, as in *saat* "hour" (lesson 3), the two are not merged into a glide. *y* is always a consonant.
 
-**o and ö only start a word.** In native Turkish words, *o* and *ö* stand only in the first syllable. No native suffix contains them, which is why harmony never produces an o or an ö. The one exception, the suffix *-iyor* (part 2), goes back to a separate verb, *yorı-* "walk", according to Wiktionary's etymology. Its o stood in that verb's own first syllable, and it survived when the verb fused with the one before it. Loanwords such as *otobüs* "bus" can have o and ö anywhere.
+**o and ö only start a word.** In native words, *o* and *ö* stand only in the first syllable, so no native suffix contains them and harmony never produces them. The one exception, the suffix *-iyor* (part 2), goes back to a separate verb, *yorı-* "walk", according to Wiktionary's etymology. Its o stood in that verb's own first syllable, and it survived when the verb fused with the one before it. Loanwords such as *otobüs* "bus" can have o and ö anywhere.
 
 ## Reference table
 

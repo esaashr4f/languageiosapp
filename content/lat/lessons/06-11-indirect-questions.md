@@ -22,7 +22,7 @@ Latin changes only one thing: the verb goes into the subjunctive (ag1903 §574).
 
 The question word stays the same; the word order stays the same. Allen and Greenough put it plainly: the form of an indirect question "is in Latin the same as that of direct; the difference being only in the verb" (ag1903 §331 note). The subjunctive's tense then follows the sequence of tenses (lesson 6).
 
-Why the subjunctive? The clause is no longer the speaker's own question: it reports someone else's, or names an unknown. Allen and Greenough treat it as a reported construction, like the clauses inside reported statements (ag1903 §577), and say the subjunctive there serves mainly to mark the clause as subordinate. They add that the details of its origin are not certain. Note also that this is a fact of Latin, not of logic: English and Spanish keep the indicative, "I know where he *is*", *sé dónde está*.
+Why the subjunctive? The clause is no longer the speaker's own question: it reports someone else's, or names an unknown. Allen and Greenough think it probable that the subjunctive of indirect questions was among the earliest steps by which the subjunctive became "in some degree a mood of subordination", a mark that a clause depends on another (ag1903 §577). That is a probable account, not a certain one. Note also that this is a fact of Latin, not of logic: English and Spanish keep the indicative, "I know where he *is*", *sé dónde está*.
 
 This lesson brings together the question words of lesson 1 and the sequence of lesson 6. You already have nearly all you need.
 
@@ -137,11 +137,11 @@ confidence: attested
 :::
 
 :::example
-orig: Neque satis cōnstābat quid agerent.
+orig: Neque satis … cōnstābat quid agerent.
 morphemes: neque satis cōnstā-ba-t quid age-re-nt
 gloss: and.not enough be.agreed-IPFV-3SG what.ACC.SG.N do-IPFV.SBJV-3PL
 translation: And it was not clear what they were to do.
-note: The Roman officers at sea against the Veneti. The indirect question is the subject of cōnstābat; the direct form was a deliberative quid agāmus? (ag1903 §575b).
+note: The Roman officers at sea against the Veneti; the gap names them (Brutus, the tribunes and the centurions, in the dative). The indirect question is the subject of cōnstābat; the direct form was a deliberative quid agāmus? (ag1903 §575b).
 source: Caesar, Gallic War 3.14.3
 confidence: attested
 :::

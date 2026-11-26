@@ -28,7 +28,7 @@ Check it on forms you know:
 - *Nilikula*, *nitakula*: *-li-* and *-ta-* cannot be stressed, so *ku-* stays, in the positive and in the negative future (*sitakula*).
 - *Kula!* "eat!": a command has no prefix at all (lesson 2.7). Without *ku-*, *\*la!* would be a one-syllable word with no penult. The command therefore takes the infinitive: *kula!*, *kunywa!*, plural *kuleni!*, *kunyweni!* (Almasi and colleagues; Wiktionary).
 
-Two longer verbs behave in the same way: *-enda* "go" and *-isha* "finish". Their infinitives are *kwenda* and *kwisha*, with *kw-* before the vowel, and they keep it where short verbs keep *ku-*: *ninakwenda*, *nilikwenda*, *itakwisha*. Polomé notes that *kw-* appears with these verbs "analogically", under the same conditions as *ku-* with one-syllable stems, and that the root of *kwenda* once began with a consonant, a trace of which survives in another word. Both sources also report that the verb is drifting towards the ordinary pattern: *anaenda*, *ameenda* are also used (wpgrammar), and Thompson and Schleicher print *wameenda*. This guide teaches *kw-* as the standard and accepts the other.
+Two longer verbs behave in the same way: *-enda* "go" and *-isha* "finish". Their infinitives are *kwenda* and *kwisha*, with *kw-* before the vowel, and they keep it where short verbs keep *ku-*: *ninakwenda*, *nilikwenda*, *itakwisha*. Polomé notes that this *kw-* follows "a similar distributional pattern" to the *ku-* of one-syllable stems, though it looks "unmotivated" (the stem is not one syllable), and elsewhere that *-enda* goes back to an older *\*genda*, a trace of which survives in *mkurugenzi* "leader". Wiktionary's verb appendix adds that *-enda* "has moved to the normal verbs in colloquial speech", and wpgrammar notes that both verbs are also commonly conjugated as ordinary verbs: *anaenda*, *ameenda* are also used. This guide teaches *kw-* as the standard and accepts the other.
 
 ## How it is built
 
@@ -178,7 +178,7 @@ preview: OM
 
 ## Where it applies
 
-- **The short verbs**: *-la* "eat", *-nywa* "drink", *-ja* "come", *-wa* "be, become", *-fa* "die", *-cha* "dawn", *-chwa* "set (of the sun)", and *-pa* "give" (lesson 4.7; it always has an object prefix, so it never shows *ku-*). Almasi and colleagues list these as the common ones.
+- **The short verbs**: *-la* "eat", *-nywa* "drink", *-ja* "come", *-wa* "be, become", *-fa* "die", *-cha* "dawn", *-chwa* "set (of the sun)", and *-pa* "give" (lesson 4.7; it always has an object prefix, so it never shows *ku-*). Almasi and colleagues list these as the common ones, with one more, *-nya* "rain" (lesson 4.2 used the longer *-nyesha*).
 - **Two longer verbs**: *-enda* (*kwenda*) and *-isha* (*kwisha*), with *kw-*.
 - **After *-na-*, *-li-*, *-ta-*, *-me-***: *ninakula*, *nilikula*, *nitakula*, *nimekula* (lesson 4.5). Also after *-nge-*, *-ngali-* (part 6) and after relative markers (part 6).
 - **In the negative future**: *sitakula*.
@@ -200,7 +200,7 @@ preview: OM
 
 **Do not treat *kuja* and *-ja-* as one.** *Kuja* is the verb "come". Lesson 4.5 adds a tense marker *-ja-* "not yet", which Wiktionary derives from this verb. In *hajaja* "he hasn't come yet", the first *ja* is the tense, the second the root.
 
-**Do not spell *kwenda* as *kuenda*.** The standard infinitive is *kwenda* (Polomé; Wiktionary). Thompson and Schleicher print *kuenda* in one exercise; treat it as a variant. Inflected forms with or without *kw-* both occur: *anakwenda*, *anaenda*.
+**Do not spell *kwenda* as *kuenda*.** The standard infinitive is *kwenda* (Polomé; Wiktionary). Wpgrammar mentions *kuenda* among the forms of speakers who conjugate the verb as an ordinary one; treat it as a variant. Inflected forms with or without *kw-* both occur: *anakwenda*, *anaenda*.
 
 ***Kuwa* is "be", not "have".** "I had" needs *na*: *nilikuwa na gari*. *Nilikuwa gari* says "I was a car".
 

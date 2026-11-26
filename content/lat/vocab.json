@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 843,
+ "count": 1089,
  "words": [
   {
    "headword": "pater",
@@ -7587,6 +7587,2220 @@
    "meaning": "truly, rightly",
    "forms": "",
    "first_lesson": "lat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "omnis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "every; (plural) all; the whole",
+   "forms": "omnis, omne",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fortis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "brave; strong",
+   "forms": "fortis, forte",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gravis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "heavy; serious, grave",
+   "forms": "gravis, grave",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "levis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "light; trivial",
+   "forms": "levis, leve",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "brevis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "short, brief",
+   "forms": "brevis, breve",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "trīstis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "sad, gloomy, grim",
+   "forms": "trīstis, trīste",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "turpis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "ugly; shameful",
+   "forms": "turpis, turpe",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dulcis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "sweet",
+   "forms": "dulcis, dulce",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mollis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "soft, gentle",
+   "forms": "mollis, molle",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "commūnis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "shared, common",
+   "forms": "commūnis, commūne",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōbilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "well-known, noble",
+   "forms": "nōbilis, nōbile",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ūtilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "useful",
+   "forms": "ūtilis, ūtile",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fidēlis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "faithful, loyal",
+   "forms": "fidēlis, fidēle",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mortālis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "mortal; (as noun) a mortal, a human being",
+   "forms": "mortālis, mortāle",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tālis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "such, of such a kind",
+   "forms": "tālis, tāle",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ācer",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "sharp; keen, fierce, spirited",
+   "forms": "ācer, ācris, ācre",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "celer",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "swift",
+   "forms": "celer, celeris, celere",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fēlīx",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "lucky, fortunate, happy",
+   "forms": "genitive fēlīcis",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ingēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "huge",
+   "forms": "genitive ingentis",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "audāx",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "bold, daring",
+   "forms": "genitive audācis",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pār",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "equal, a match (for)",
+   "forms": "genitive paris",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "potēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "powerful",
+   "forms": "genitive potentis",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sapiēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wise; (as noun) a wise man",
+   "forms": "genitive sapientis",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vetus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "old",
+   "forms": "genitive veteris; ablative vetere, genitive plural veterum",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dīves",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "rich",
+   "forms": "genitive dīvitis; ablative dīvite, genitive plural dīvitum",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pauper",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "poor",
+   "forms": "genitive pauperis; ablative paupere, genitive plural pauperum",
+   "first_lesson": "lat-05-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ūnus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "one; alone, only",
+   "forms": "ūna, ūnum; genitive ūnīus, dative ūnī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sōlus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "alone, only",
+   "forms": "sōla, sōlum; genitive sōlīus, dative sōlī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tōtus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "whole, entire",
+   "forms": "tōta, tōtum; genitive tōtīus, dative tōtī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nūllus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "no, not any",
+   "forms": "nūlla, nūllum; genitive nūllīus, dative nūllī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ūllus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "any (after a negative)",
+   "forms": "ūlla, ūllum; genitive ūllīus, dative ūllī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "alius",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "other, another",
+   "forms": "alia, aliud; dative aliī; genitive usually alterīus",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "alter",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "the other (of two); the second",
+   "forms": "altera, alterum; genitive alterīus, dative alterī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uter",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "which (of two)?",
+   "forms": "utra, utrum; genitive utrīus, dative utrī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "neuter",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "neither (of two)",
+   "forms": "neutra, neutrum; genitive neutrīus, dative neutrī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uterque",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "each (of two), both",
+   "forms": "utraque, utrumque; genitive utrīusque",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cēterus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "the other, the rest (mostly plural)",
+   "forms": "cētera, cēterum",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "reliquus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "remaining, the rest",
+   "forms": "reliqua, reliquum",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "paucī",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "few, a few",
+   "forms": "paucae, pauca (plural)",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plērusque",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "(plural) most, the majority",
+   "forms": "plēraque, plērumque; mostly plural plērīque",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "posterus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "next, following; (plural as noun) descendants",
+   "forms": "postera, posterum",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "superī",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "the gods above",
+   "forms": "superōrum, m. pl.",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maiōrēs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ancestors",
+   "forms": "maiōrum, m. pl.",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "līberī",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "children",
+   "forms": "līberōrum, m. pl.",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "propinquus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "near; (as noun) relative",
+   "forms": "propinqua, propinquum",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "familiāris",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "of the household; (as noun) close friend",
+   "forms": "familiāris, familiāre",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prīvātus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "private; (as noun) private citizen",
+   "forms": "prīvāta, prīvātum",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "proprius",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "one's own, particular",
+   "forms": "propria, proprium",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sapiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be wise, have sense; taste of",
+   "forms": "sapere, sapīvī",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tumultus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "uproar, commotion",
+   "forms": "tumultūs, m.",
+   "first_lesson": "lat-05-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fortiter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "bravely, strongly",
+   "forms": "comparative fortius",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "celeriter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "quickly",
+   "forms": "from celer",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fēlīciter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "luckily, successfully",
+   "forms": "from fēlīx",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "breviter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "briefly",
+   "forms": "from brevis",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lātus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "wide, broad",
+   "forms": "lāta, lātum; not lātus, the participle of ferō",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lātē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "widely, far and wide",
+   "forms": "from lātus",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aequē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "equally",
+   "forms": "from aequus",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "facilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "easy",
+   "forms": "facilis, facile",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "facile",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "easily",
+   "forms": "neuter of facilis",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "multum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "much, a great deal",
+   "forms": "neuter of multus",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "magnopere",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "greatly",
+   "forms": "magnō + opere",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "valdē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "very, very much",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "admodum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "quite, very; fully",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adeō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "to such a degree, so (much)",
+   "forms": "not adeō \"approach\"",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rārus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "rare; thin, scattered",
+   "forms": "rāra, rārum",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rārō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "rarely",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aliter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "otherwise, differently",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sōlum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "only",
+   "forms": "nōn sōlum … sed etiam: not only … but also",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ferē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "almost; generally",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plērumque",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "generally, mostly",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "interdum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "sometimes",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prōtinus",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at once; straight on",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dēmum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at last; only",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vulgō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "commonly, publicly",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "palam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "openly, publicly",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "partim",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "partly",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "illīc",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "there, in that place",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sapienter",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "wisely",
+   "forms": "from sapiēns",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "scīlicet",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "of course, obviously",
+   "forms": "",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "concilium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "council, assembly",
+   "forms": "conciliī, n.",
+   "first_lesson": "lat-05-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "melior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "better",
+   "forms": "melius; genitive meliōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "optimus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "best, very good",
+   "forms": "optima, optimum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "peior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "worse",
+   "forms": "peius; genitive peiōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pessimus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "worst, very bad",
+   "forms": "pessima, pessimum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maximus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "greatest, very great",
+   "forms": "maxima, maximum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "minor",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "smaller, less",
+   "forms": "minus; genitive minōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "minimus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "smallest, least",
+   "forms": "minima, minimum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plūs",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "more",
+   "forms": "neuter noun in the singular, genitive plūris; plural plūrēs, plūra",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "plūrimus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "most, very many",
+   "forms": "plūrima, plūrimum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "earlier, former",
+   "forms": "prius; genitive priōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "proximus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "nearest, next",
+   "forms": "proxima, proximum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "superus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "upper, higher",
+   "forms": "supera, superum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "superior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "higher; earlier; superior",
+   "forms": "superius; genitive superiōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "summus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "highest; the top of",
+   "forms": "summa, summum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnferus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "lower, below",
+   "forms": "īnfera, īnferum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnferior",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "lower",
+   "forms": "īnferius; genitive īnferiōris",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "īnfimus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "lowest; the bottom of",
+   "forms": "īnfima, īnfimum",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "difficilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "difficult",
+   "forms": "difficilis, difficile",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "similis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "like, similar",
+   "forms": "similis, simile",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dissimilis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unlike",
+   "forms": "dissimilis, dissimile",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vīlis",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "cheap; worthless",
+   "forms": "vīlis, vīle",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maximē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "most, especially",
+   "forms": "",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "minus",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "less",
+   "forms": "",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "multō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "by much, much (with comparatives)",
+   "forms": "",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "paulō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "by a little, a little (with comparatives)",
+   "forms": "",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "argentum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "silver; money",
+   "forms": "argentī, n.",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "collis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hill",
+   "forms": "collis, m.",
+   "first_lesson": "lat-05-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "duo",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "two",
+   "forms": "duae, duo",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "trēs",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "three",
+   "forms": "tria",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quattuor",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "four",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīnque",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "five",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sex",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "six",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "septem",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "seven",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "octō",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "eight",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "novem",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "nine",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "decem",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "ten",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ūndecim",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "eleven",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "duodecim",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "twelve",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vīgintī",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "twenty",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "centum",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "a hundred",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mīlle",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "a thousand",
+   "forms": "indeclinable; plural mīlia, mīlium, n. (a noun)",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quārtus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "fourth",
+   "forms": "quārta, quārtum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīntus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "fifth",
+   "forms": "quīnta, quīntum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sextus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "sixth",
+   "forms": "sexta, sextum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "septimus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "seventh",
+   "forms": "septima, septimum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "octāvus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "eighth",
+   "forms": "octāva, octāvum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōnus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "ninth",
+   "forms": "nōna, nōnum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "decimus",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "tenth",
+   "forms": "decima, decimum",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "singulī",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "one each; individual",
+   "forms": "singulae, singula",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bīnī",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "two each; a pair",
+   "forms": "bīnae, bīna",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bis",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "twice",
+   "forms": "",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ambō",
+   "translit": "",
+   "pos": "numeral",
+   "meaning": "both",
+   "forms": "ambae, ambō; declined like duo",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "passus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "pace, step",
+   "forms": "passūs, m.; mīlle passūs, a mile",
+   "first_lesson": "lat-05-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-ve",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or (attached to the second item)",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sīve",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or if; whether … or (sīve … sīve)",
+   "forms": "also seu",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "seu",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "or if; whether … or",
+   "forms": "short form of sīve",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vērum",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "but, but in fact",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "namque",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "for (emphatic)",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "etenim",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "for, of course",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "atquī",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "and yet, but now",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "attamen",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "but nevertheless",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nihilōminus",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "none the less, nevertheless",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cēterum",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "but; for the rest",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "proinde",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "accordingly, therefore",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "idcircō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "for that reason",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quārē",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "for which reason, therefore; (in questions) why?",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quam ob rem",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "for which reason, therefore",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "immō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "no, rather; on the contrary",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nempe",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "surely, of course",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quippe",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "of course, naturally",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "postrēmō",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "finally, lastly",
+   "forms": "",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bibō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "drink",
+   "forms": "bibere, bibī",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pluit",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "it rains",
+   "forms": "pluere, pluit (third person only)",
+   "first_lesson": "lat-05-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "praesēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "present, in person; immediate",
+   "forms": "genitive praesentis",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "absēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "absent",
+   "forms": "genitive absentis",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "recēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "fresh, recent",
+   "forms": "genitive recentis",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "frequēns",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "crowded, in large numbers; frequent",
+   "forms": "genitive frequentis",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cognōscō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get to know, learn; (perfect) know",
+   "forms": "cognōscere, cognōvī, cognitum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "perveniō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "arrive, reach",
+   "forms": "pervenīre, pervēnī, perventum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "conveniō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "come together, meet; agree",
+   "forms": "convenīre, convēnī, conventum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adveniō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "arrive",
+   "forms": "advenīre, advēnī, adventum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "excipiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "take up, receive; catch",
+   "forms": "excipere, excēpī, exceptum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "impōnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "put on, impose",
+   "forms": "impōnere, imposuī, impositum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "compōnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "put together, arrange; settle",
+   "forms": "compōnere, composuī, compositum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prōpōnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "set out, propose",
+   "forms": "prōpōnere, prōposuī, prōpositum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "repetō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "seek again; repeat; recall",
+   "forms": "repetere, repetīvī, repetītum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vehō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "carry, convey; (passive) ride, sail",
+   "forms": "vehere, vexī, vectum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "effundō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pour out",
+   "forms": "effundere, effūdī, effūsum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnsūmō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "use up, consume",
+   "forms": "cōnsūmere, cōnsūmpsī, cōnsūmptum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "corrumpō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "spoil, ruin; bribe",
+   "forms": "corrumpere, corrūpī, corruptum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "recēdō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "withdraw, go back",
+   "forms": "recēdere, recessī, recessum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "convertō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "turn round, change",
+   "forms": "convertere, convertī, conversum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnsequor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "follow up, overtake; achieve",
+   "forms": "cōnsequī, cōnsecūtus sum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cōnfiteor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "admit, confess",
+   "forms": "cōnfitērī, cōnfessus sum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ēdūcō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lead out",
+   "forms": "ēdūcere, ēdūxī, ēductum",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "poscō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "demand",
+   "forms": "poscere, poposcī",
+   "first_lesson": "lat-05-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fungor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "perform, carry out (+ abl.)",
+   "forms": "fungī, fūnctus sum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "potior",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "take possession of, get control of (+ abl., sometimes gen.)",
+   "forms": "potīrī, potītus sum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vēscor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "feed on, eat (+ abl.)",
+   "forms": "vēscī",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "egeō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "need, lack (+ abl. or gen.)",
+   "forms": "egēre, eguī",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prīvō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "deprive (of + abl.)",
+   "forms": "prīvāre, prīvāvī, prīvātum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "emō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "buy",
+   "forms": "emere, ēmī, ēmptum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "vēndō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "sell",
+   "forms": "vēndere, vēndidī, vēnditum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "praecēdō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "go before; surpass",
+   "forms": "praecēdere, praecessī, praecessum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "indignus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unworthy (of + abl.)",
+   "forms": "indigna, indignum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "contentus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "content, satisfied (with + abl.)",
+   "forms": "contenta, contentum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "frētus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "relying on (+ abl.)",
+   "forms": "frēta, frētum",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "celeritās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "speed",
+   "forms": "celeritātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "auctōritās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "influence, authority",
+   "forms": "auctōritātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dignitās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "worth, standing, rank",
+   "forms": "dignitātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "potestās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "power; opportunity",
+   "forms": "potestātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "voluntās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "will, wish; goodwill",
+   "forms": "voluntātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pietās",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sense of duty (to gods, country, family)",
+   "forms": "pietātis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "multitūdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "crowd, great number",
+   "forms": "multitūdinis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pulchritūdō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "beauty",
+   "forms": "pulchritūdinis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "prūdentia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "good sense, foresight",
+   "forms": "prūdentiae, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "condiciō",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "terms, condition; situation",
+   "forms": "condiciōnis, f.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "error",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wandering; mistake",
+   "forms": "errōris, m.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "color",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "colour",
+   "forms": "colōris, m.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "flōs",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "flower",
+   "forms": "flōris, m.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "onus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "load, burden",
+   "forms": "oneris, n.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sanguis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "blood",
+   "forms": "sanguinis, m.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "capillus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hair",
+   "forms": "capillī, m.",
+   "first_lesson": "lat-05-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "oblīvīscor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "forget (+ gen. or acc.)",
+   "forms": "oblīvīscī, oblītus sum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "reminīscor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "remember, recall (+ gen. or acc.)",
+   "forms": "reminīscī",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "misereor",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "pity (+ gen.)",
+   "forms": "miserērī, miseritus sum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "condemnō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "condemn, convict (of + gen.)",
+   "forms": "condemnāre, condemnāvī, condemnātum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "absolvō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "acquit (of + gen.); finish",
+   "forms": "absolvere, absolvī, absolūtum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aestimō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "value, estimate",
+   "forms": "aestimāre, aestimāvī, aestimātum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "invideō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "envy (+ dat.)",
+   "forms": "invidēre, invīdī, invīsum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "resistō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "resist (+ dat.)",
+   "forms": "resistere, restitī",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "praeficiō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "put in charge of (acc. + dat.)",
+   "forms": "praeficere, praefēcī, praefectum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "succurrō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "run to help (+ dat.)",
+   "forms": "succurrere, succurrī, succursum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nūbō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "marry (of a woman, + dat.)",
+   "forms": "nūbere, nūpsī, nuptum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "memor",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "mindful (of + gen.)",
+   "forms": "genitive memoris",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "immemor",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "forgetful (of + gen.)",
+   "forms": "genitive immemoris",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "perītus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "skilled, experienced (in + gen.)",
+   "forms": "perīta, perītum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "imperītus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "unskilled, inexperienced (in + gen.)",
+   "forms": "imperīta, imperītum",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iūdex",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "judge, juror",
+   "forms": "iūdicis, m.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "reus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "defendant, the accused",
+   "forms": "reī, m.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "testis",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "witness",
+   "forms": "testis, m. or f.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iūdicium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "judgement; trial, court",
+   "forms": "iūdiciī, n.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fūrtum",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "theft",
+   "forms": "fūrtī, n.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dolus",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "trick, deceit",
+   "forms": "dolī, m.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "invidia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "envy, ill will, unpopularity",
+   "forms": "invidiae, f.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mulier",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "woman",
+   "forms": "mulieris, f.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hospes",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "guest; host; stranger",
+   "forms": "hospitis, m. or f.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "praetor",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "praetor (a senior Roman magistrate)",
+   "forms": "praetōris, m.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "subsidium",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "support, reserve troops",
+   "forms": "subsidiī, n.",
+   "first_lesson": "lat-05-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aliquis",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "someone, something; (adj. aliquī) some",
+   "forms": "aliqua, aliquid; adj. aliquī, aliqua, aliquod",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quis",
+   "translit": "",
+   "pos": "indefinite pronoun",
+   "meaning": "anyone, anything (after sī, nisi, nē, num)",
+   "forms": "quid; adj. quī, qua, quod",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīdam",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "a certain (person or thing); (plural) certain people",
+   "forms": "quaedam, quiddam; adj. quoddam",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quisquam",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "anyone at all (after a negative)",
+   "forms": "quicquam or quidquam",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quisque",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "each, every one",
+   "forms": "quaeque, quidque; adj. quodque",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ūnusquisque",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "every single one",
+   "forms": "ūnaquaeque, ūnumquidque",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīvīs",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "anyone you like",
+   "forms": "quaevīs, quidvīs",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quīlibet",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "anyone you please",
+   "forms": "quaelibet, quidlibet; adj. quodlibet",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "quispiam",
+   "translit": "",
+   "pos": "pronoun",
+   "meaning": "someone, anyone",
+   "forms": "quaepiam, quidpiam",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōnnūllus",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "some; (plural) several",
+   "forms": "nōnnūlla, nōnnūllum",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "aliquot",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "several, some",
+   "forms": "indeclinable",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nōnnumquam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "sometimes",
+   "forms": "",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "usquam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "anywhere (after a negative)",
+   "forms": "",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nusquam",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "nowhere",
+   "forms": "",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ubīque",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "everywhere",
+   "forms": "",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iānua",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "door",
+   "forms": "iānuae, f.",
+   "first_lesson": "lat-05-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pulsō",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "knock, strike",
+   "forms": "pulsāre, pulsāvī, pulsātum",
+   "first_lesson": "lat-05-10",
    "confidence": "verified"
   }
  ]

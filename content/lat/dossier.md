@@ -117,6 +117,15 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - The potential perfect subjunctive in main clauses refers to present or immediate future (A&G §446): do not translate it 'may have done'.
 - Part 5 inherits: third-declension adjectives, present participles, numerals, quīdam and nūllus were only preview-flagged in part 4; pointers to part 5 for fortiter, quam after comparatives, adjectives as nouns, adeō, lātus "wide". quīdam, aliquis, omnis, nūllus not yet introduced.
 
+### Gloss conventions settled while drafting (part 5)
+
+- Present and future participles glossed PRS.PTCP, FUT.PTCP; comparative adverb CMPR.ADV; superlative SUPL; adverb ending ADV.
+- -īus genitives (ūnīus, alterīus, tōtīus) follow A&G §113 (Wiktionary marks either length); vīcēnī follows A&G; vexī and nuptum printed short with a note.
+- Wiktionary is inconsistent on ārdeō/ardēns (avoid in new examples) and narrō/nārrāvit (the guide uses narrō, narrāvit).
+- Perfect participles are glossed fused where the stem changes (dīvīs-a divide.PTCP-…, as lat-04-12); lat-03-08's dīvī-s-a should be brought into line.
+- Indefinite quis is entered as "indefinite pronoun", so interrogative quis can be entered as "pronoun" in part 6; uter, ter, adeō (verb), quārē already introduced; sī and nisi not yet. quī/quae/quod appear only in quotations, glossed lexically, until lat-06-02.
+- Gallic War 1.2 is cited without a subsection where The Latin Library's numbering differs.
+
 ## 5. Major paradigms and where to check them
 
 Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, entered without macrons) and, for the paradigm as a system, bennett1918 (plain text: Project Gutenberg 15665) or ag1903 (section numbers below; `ag-index.tsv` lists the page for each topic).

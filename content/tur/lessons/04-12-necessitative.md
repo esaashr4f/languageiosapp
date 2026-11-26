@@ -171,7 +171,7 @@ preview: VN
 
 - **Your own sense of duty or resolution**, 1st person: *Gitmeliyim*, *Erken yatmalıyım*, *Komşumuza yardım etmeliyiz.*
 - **Advice and instructions** to others, 2nd person: *Dinlenmelisin*, *Bu ilacı almalısınız.* With *bence* or *herhalde* it is softer.
-- **What someone else ought to do**, 3rd person: *Ali bunu bilmeli* "Ali ought to know this." Göksel and Kerslake note that the 3rd singular can also be impersonal, "one ought to" (goksel2005 §21.4.2.2): *Bunu herkes bilmeli.*
+- **What someone else ought to do**, 3rd person: *Ali bunu bilmeli* "Ali ought to know this." Göksel and Kerslake note that the 3rd singular with no subject can also be impersonal, "one ought to" (goksel2005 §21.4.2.2): *Bence bunu bilmeli* "I think one ought to know this". With a subject: *Bunu herkes bilmeli* "everyone ought to know this".
 - **Prohibitions and warnings**: *-mA-mAlI*: *Sigara içmemelisin*, *Kimseye söylememelisin* "you mustn't tell anyone".
 - **Should have**: *-mAlIydI*, for an obligation not met: *Ali'ye söylemeliydin*, *Daha erken gelmeliydik* "we should have come earlier".
 - **In a story**, *-mAlIydI* can also mean "had to, now must", with the outcome still open (goksel2005 §21.4.2.2).

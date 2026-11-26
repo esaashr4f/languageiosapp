@@ -34,7 +34,7 @@ Build the grid in two steps, then add the sounds that sit around it.
 **Step 2: the manners, five in each row** (Whitney §34). The grammarians call them the first, second, third, fourth and fifth:
 
 1. **Voiceless**: the vocal cords do not vibrate, as in English *k*, *t*, *p*. The Indian term is *aghoṣa*, "toneless".
-2. **Voiceless aspirate**: the same, followed by a clear puff of breath: *kh*, *th*, *ph*. The Pāṇinian term for aspirates is *mahāprāṇa*, "great expiration" (§37).
+2. **Voiceless aspirate**: the same, followed by a clear puff of breath: *kh*, *th*, *ph*. Pāṇini himself has no name for aspirates; the scheme in the commentary on his grammar calls them *mahāprāṇa*, "great expiration" (Whitney §37d).
 3. **Voiced**: the vocal cords vibrate, as in English *g*, *d*, *b*.
 4. **Voiced aspirate**: voiced, with a breathy release: *gh*, *dh*, *bh*.
 5. **Nasal**: the mouth closed at the same place, the air going out through the nose: *ṅ*, *ñ*, *ṇ*, *n*, *m*.
@@ -224,4 +224,4 @@ Anusvāra *ṃ* and visarga *ḥ* never begin a word. In dictionaries they are s
 4. A nasal before a stop takes the stop's row. *t* is dental, so the nasal before it is the dental *n*. Velar *ṅ* would need a following *k*, and labial *m* a *p*.
 5. *i* is palatal. The palatal semivowel is *y* and the palatal sibilant is *ś*.
 6. Retroflex. It is made with the tip of the tongue curled back against the roof of the mouth.
-7. As *m*, the labial nasal, because *p* is a labial stop and a nasal before a stop takes the stop's row. Here the written letter and the sound happen to agree.
+7. As [m], the labial nasal, because *p* is a labial stop and a nasal before a stop takes the stop's row. The sound is [m] itself, although this guide writes a final *m* before a consonant as anusvāra *ṃ* (san-01-04).

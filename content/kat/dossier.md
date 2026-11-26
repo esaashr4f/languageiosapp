@@ -273,3 +273,14 @@ Translations are always our own.
 - Sources disagree on whether identical adjacent vowels merge (bolkvadze2023) or stay two syllables (Hewitt, Aronson): kat-01-01 is labelled uncertain.
 - Left out of vocab on purpose, to be introduced later: pronouns and question words (მე, ის, შენ, თქვენ, ვინ, რა), numerals, არა, the verbs წერს, ხატავს, აშენებს, and წერილი.
 - Lessons refer to each other as "lesson 1-4", "part 4". "Screeve" must be defined properly in kat-04-08.
+
+
+## Notes from drafting part 2 (2026-11-26)
+
+- Segmentation before part 4: `xaṭ-av-s` draw-TS-3SG.SBJ, `a-šen-eb-s` NV-build-TS-3SG.SBJ with `preview: TS` (and NV); ჭამს unsegmented; სვამს `sv-am`; ხსნის, მღერის, ტირის take TS -i with 3PL -an. Zero second person not glossed (c̣er `write`, c̣ert `write-PL`). Pronoun datives `3SG.DAT`.
+- Numerals and adjectives before a dative noun lose -i, the bare stem left unglossed (B&K §5.3.2.2, §6.3.4.2).
+- Agreement: plural people take a plural verb; plural things a singular verb (B&K §17.2.1); a noun after a numeral or quantifier is singular with a singular verb (§6.1.1, §7.8); collectives such as ხალხი singular.
+- Objects stay third person in part 2; "sees me/you" appears only as a starred form pointing to kat-04-03.
+- Yes-no question stress: B&K §18.2 on the last syllable of the verb, alongside Aronson's final rise. How Georgian answers negative questions is not settled in the sources (kat-02-08 says so).
+- Source: lingua.ge (conjugator) is the checked source for სვამს, ლაპარაკობს, მუშაობს, სწავლობს (no Wiktionary tables); it pairs სვამს with future შესვამს / aorist შესვა: compare with დალევს / დალია when the aorist is taught.
+- Already introduced (do not re-list): ვინ, რა; ერთი, მეორე, ორი–ათი; მაგრამ, კი, თუ; თვითონ; არა, არ, ვერ, აღარ, ვეღარ, არც; ქართულად, ერთად, ცუდად, სწრაფად; დილას, საღამოს, დღეს; 23 verbs with class and forms (see vocab.json); წერილი, ესენი, გმადლობთ.

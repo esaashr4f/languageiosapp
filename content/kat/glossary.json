@@ -209,6 +209,20 @@
   "Asomtavruli": "The oldest Georgian script (kat-01-08).",
   "Nuskhuri": "The medieval church script (kat-01-08).",
   "Khutsuri": "Asomtavruli and Nuskhuri together, the ecclesiastical scripts (kat-01-08).",
-  "Mtavruli": "Capital-style letters of Mkhedruli used in headings (kat-01-08)."
+  "Mtavruli": "Capital-style letters of Mkhedruli used in headings (kat-01-08).",
+  "grammatical gender": "Sorting nouns into classes that change agreement; Georgian has none (kat-02-03).",
+  "article": "A word for 'the' or 'a'; Georgian has none (kat-02-03).",
+  "agglutinative": "Built by adding pieces one after another, each with one meaning (kat-02-04).",
+  "quantifier": "A word of amount such as 'many' or a number (kat-02-04).",
+  "truncation": "Losing a final vowel before an ending (kat-02-04).",
+  "syncope": "Losing a vowel inside the stem when an ending is added (kat-02-04; fully in kat-03-06).",
+  "subject marker": "The prefix or suffix on the verb that shows the subject's person (kat-02-05).",
+  "thematic suffix": "The piece after the verb root that forms the present stem (previewed kat-02-05).",
+  "version vowel": "A vowel before the root saying for whom the action is (previewed kat-02-05).",
+  "direct object": "The thing or person acted on (kat-02-06).",
+  "dative": "The case of the object in the present series, and of time and some other roles (kat-02-06).",
+  "particle": "A small unchanging word that adds meaning, such as არ 'not' (kat-02-07).",
+  "yes-no question": "A question answered yes or no (kat-02-08).",
+  "pro-drop": "Leaving out subject and object pronouns because the verb shows them (kat-02-09)."
  }
 }

@@ -363,7 +363,7 @@ Translations are always our own.
 
 - Class 12 is extremely rare in Swahili rather than absent (Thompson & Schleicher pp. 29, 32); say "rare traces of class 12", not "no class 12".
 - *mwimbaji*: Wiktionary gives the plural *wimbaji*, Polomé implies *waimbaji*; avoid the word or note both.
-- *kiatu* keeps ki- before a vowel (plural *viatu*), against Polomé's ki → ch rule; the sources used do not explain it.
+- ki- is kept before a vowel in kiazi, kioo, kiuno, kiatu (pairs chatu/kiatu, choo/kioo), analysed as ki- before a juncture (Polomé note 25 to §2.2.1.2).
 - Attested locatives *shule → shuleni*, *nyumba → nyumbani* are preferred to constructed ones.
 - Polomé 1967's history chapter uses colonial-era framing: use it for dated facts only, with the modern view beside it.
 - Settled conventions: single-word examples in part 1 glossed by meaning only, IPA in notes, class prefixes flagged as previews; pairs shown as one example; stress in capitals only in swh-01-05, acute only on exceptions (núsura, lázima, barábara).
@@ -377,5 +377,13 @@ Translations are always our own.
 - *jambo* glossed matter.C5 (C5 preview); *hujambo* = hu-jambo NEG.2SG.SM-matter.C5 (Wiktionary: from huna jambo). *nzuri* introduced as an interjection; *-zuri* as adjective still free for swh-03-03; *-kubwa* still to introduce there.
 - Merged-prefix nouns (wenyeji, walimu) glossed whole (host.C2).
 - Promises to keep: swh-03-12 huko "there" vs huko "you are not there"; swh-03-14 short answers with reference forms (ninayo); swh-04-09/10 requests and negative commands (usisome); swh-04-04 the ku- of kula!; swh-04-12 habitual hu- vs the hu- of hujambo.
-- Thompson & Schleicher: cite printed page numbers; the scan's PDF page is roughly printed − 10 near p. 220, − 15 near p. 265, − 25 near p. 360.
+- Thompson & Schleicher: cite printed page numbers. Measured printed→PDF pages: 23→32, 29→36, 172→167, 210→201, 221→211, 230→219, 264→249, 361→336.
 - Unresolved in sources: how ndiyo answers a negative question; question intonation (three descriptions given).
+
+
+## Notes from verifying parts 0–2 (2026-11-26)
+
+- Steere's handbook: begun in print 1865, first edition 1870 (Polomé §3.2).
+- *tembo* inland (Tanganyika, Congo) vs *ndovu* Mombasa (Polomé). *saa*, *paa*: Wiktionary one long syllable, Polomé §2.1.5.3 two syllables for most cultivated speakers; the guide follows Polomé.
+- The "how" clitic is written joined: *-je* (umelalaje).
+- Identification sentences: *ni* vs subject prefix, with the older written usage *ni mpishi* "I am a cook" (Polomé §2.5.6.3, §2.6.3.1, notes 113, 131).

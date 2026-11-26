@@ -223,6 +223,12 @@
   "dative": "The case of the object in the present series, and of time and some other roles (kat-02-06).",
   "particle": "A small unchanging word that adds meaning, such as არ 'not' (kat-02-07).",
   "yes-no question": "A question answered yes or no (kat-02-08).",
-  "pro-drop": "Leaving out subject and object pronouns because the verb shows them (kat-02-09)."
+  "pro-drop": "Leaving out subject and object pronouns because the verb shows them (kat-02-09).",
+  "case": "The form of a noun that shows its job (kat-03-01).",
+  "postposition": "A word or ending after a noun showing place or relation, like -ში 'in' (kat-03-01, kat-03-02).",
+  "stem": "The form endings attach to (kat-03-01).",
+  "vowel stem": "A noun whose stem ends in a vowel, with its own case endings (kat-03-05).",
+  "oblique": "The short form a demonstrative takes before a noun in any case but the nominative (kat-03-09).",
+  "old plural": "The older plural in -ნ-/-თ, used in formal and fixed language (kat-03-12)."
  }
 }

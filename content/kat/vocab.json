@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 274,
+ "count": 499,
  "words": [
   {
    "headword": "მამა",
@@ -1726,7 +1726,7 @@
    "translit": "svams",
    "pos": "verb",
    "meaning": "drinks",
-   "forms": "class 1; fut. შესვამს; aor. შესვა; pf. შეუსვამს (linguage); masdar სმა",
+   "forms": "class 1; outside the present group usually replaced by დალევა: fut. დალევს, aor. დალია, pf. დაულევია; the forms შესვამს, შესვა, შეუსვამს exist but sound formal or ceremonial (bolkvadze2023 §9.7.5; linguage); masdar სმა",
    "first_lesson": "kat-02-05",
    "confidence": "verified"
   },
@@ -1762,7 +1762,7 @@
    "translit": "sc̣avlobs",
    "pos": "verb",
    "meaning": "learns, studies",
-   "forms": "class 3 (Wiktionary: medioactive); fut. შეისწავლის; aor. შეისწავლა; pf. შეუსწავლია (linguage); masdar სწავლა",
+   "forms": "class 3 (Wiktionary: medioactive); fut. შეისწავლის; aor. შეისწავლა, also ისწავლა; pf. შეუსწავლია (linguage; bolkvadze2023 §9.2.1 and §9.5 use both aorists); masdar სწავლა",
    "first_lesson": "kat-02-05",
    "confidence": "verified"
   },
@@ -2194,7 +2194,7 @@
    "translit": "ara",
    "pos": "particle",
    "meaning": "no",
-   "forms": "a whole answer; not before the verb",
+   "forms": "a whole answer; before a verb the usual form is არ, though the two sometimes alternate (bolkvadze2023 §13.3; Wiktionary)",
    "first_lesson": "kat-02-08",
    "confidence": "verified"
   },
@@ -2466,6 +2466,2031 @@
    "meaning": "-self (himself, herself, myself ...)",
    "forms": "lesson 5-9",
    "first_lesson": "kat-02-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბრუნვა",
+   "translit": "brunva",
+   "pos": "noun",
+   "meaning": "case (in grammar); turning",
+   "forms": "gen. ბრუნვის",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფუძე",
+   "translit": "puʒe",
+   "pos": "noun",
+   "meaning": "stem (of a word); base",
+   "forms": "gen. ფუძის",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბოლო",
+   "translit": "bolo",
+   "pos": "noun",
+   "meaning": "end",
+   "forms": "gen. ბოლოს",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფეხი",
+   "translit": "pexi",
+   "pos": "noun",
+   "meaning": "foot; leg",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თვალი",
+   "translit": "tvali",
+   "pos": "noun",
+   "meaning": "eye",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყური",
+   "translit": "q̇uri",
+   "pos": "noun",
+   "meaning": "ear",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პირი",
+   "translit": "ṗiri",
+   "pos": "noun",
+   "meaning": "mouth; face",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ავტობუსი",
+   "translit": "avṭobusi",
+   "pos": "noun",
+   "meaning": "bus",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მატარებელი",
+   "translit": "maṭarebeli",
+   "pos": "noun",
+   "meaning": "train",
+   "forms": "gen. მატარებლის, pl. მატარებლები",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თვითმფრინავი",
+   "translit": "tvitmprinavi",
+   "pos": "noun",
+   "meaning": "aeroplane",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტაქსი",
+   "translit": "ṭaksi",
+   "pos": "noun",
+   "meaning": "taxi",
+   "forms": "gen. ტაქსის, pl. ტაქსები",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მეტრო",
+   "translit": "meṭro",
+   "pos": "noun",
+   "meaning": "metro, underground",
+   "forms": "gen. მეტროს",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადგური",
+   "translit": "sadguri",
+   "pos": "noun",
+   "meaning": "station",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აეროპორტი",
+   "translit": "aeroṗorṭi",
+   "pos": "noun",
+   "meaning": "airport",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბილეთი",
+   "translit": "bileti",
+   "pos": "noun",
+   "meaning": "ticket",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საჩუქარი",
+   "translit": "sačukari",
+   "pos": "noun",
+   "meaning": "gift, present",
+   "forms": "gen. საჩუქრის, pl. საჩუქრები",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქვა",
+   "translit": "kva",
+   "pos": "noun",
+   "meaning": "stone",
+   "forms": "gen. ქვის",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საათი",
+   "translit": "saati",
+   "pos": "noun",
+   "meaning": "hour; clock, watch",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უნივერსიტეტი",
+   "translit": "universiṭeṭi",
+   "pos": "noun",
+   "meaning": "university",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სამსახური",
+   "translit": "samsaxuri",
+   "pos": "noun",
+   "meaning": "work, job; place of work",
+   "forms": "",
+   "first_lesson": "kat-03-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დებს",
+   "translit": "debs",
+   "pos": "verb",
+   "meaning": "puts, lays",
+   "forms": "class 1; fut. დადებს; aor. დადო; pf. დაუდვია; masdar დება",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ახლოს",
+   "translit": "axlos",
+   "pos": "adverb",
+   "meaning": "near, close",
+   "forms": "with -თან: სახლთან ახლოს \"near the house\"",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩანთა",
+   "translit": "čanta",
+   "pos": "noun",
+   "meaning": "bag, satchel",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყუთი",
+   "translit": "q̇uti",
+   "pos": "noun",
+   "meaning": "box",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კედელი",
+   "translit": "ḳedeli",
+   "pos": "noun",
+   "meaning": "wall",
+   "forms": "gen. კედლის, pl. კედლები",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იატაკი",
+   "translit": "iaṭaḳi",
+   "pos": "noun",
+   "meaning": "floor",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საწოლი",
+   "translit": "sac̣oli",
+   "pos": "noun",
+   "meaning": "bed",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კარადა",
+   "translit": "ḳarada",
+   "pos": "noun",
+   "meaning": "cupboard, wardrobe",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თარო",
+   "translit": "taro",
+   "pos": "noun",
+   "meaning": "shelf",
+   "forms": "gen. თაროს",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სამზარეულო",
+   "translit": "samzareulo",
+   "pos": "noun",
+   "meaning": "kitchen",
+   "forms": "gen. სამზარეულოს",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სასტუმრო",
+   "translit": "sasṭumro",
+   "pos": "noun",
+   "meaning": "hotel",
+   "forms": "gen. სასტუმროს",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რესტორანი",
+   "translit": "resṭorani",
+   "pos": "noun",
+   "meaning": "restaurant",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კაფე",
+   "translit": "ḳape",
+   "pos": "noun",
+   "meaning": "café",
+   "forms": "gen. კაფეს; never truncates",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბაზარი",
+   "translit": "bazari",
+   "pos": "noun",
+   "meaning": "market",
+   "forms": "gen. ბაზრის, pl. ბაზრები",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბიბლიოთეკა",
+   "translit": "biblioteḳa",
+   "pos": "noun",
+   "meaning": "library",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კონცერტი",
+   "translit": "ḳoncerṭi",
+   "pos": "noun",
+   "meaning": "concert",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფეხბურთი",
+   "translit": "pexburti",
+   "pos": "noun",
+   "meaning": "football (the game)",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მუსიკა",
+   "translit": "musiḳa",
+   "pos": "noun",
+   "meaning": "music",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დედაქალაქი",
+   "translit": "dedakalaki",
+   "pos": "noun",
+   "meaning": "capital (city)",
+   "forms": "",
+   "first_lesson": "kat-03-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იღებს",
+   "translit": "iɣebs",
+   "pos": "verb",
+   "meaning": "takes; gets, receives",
+   "forms": "class 1; fut. აიღებს \"will take\", მიიღებს \"will receive\"; aor. აიღო; pf. აუღია; masdar ღება",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ავტორი",
+   "translit": "avṭori",
+   "pos": "noun",
+   "meaning": "author",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დირექტორი",
+   "translit": "direkṭori",
+   "pos": "noun",
+   "meaning": "director, head (of a school, firm)",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მეუღლე",
+   "translit": "meuɣle",
+   "pos": "noun",
+   "meaning": "spouse, husband or wife",
+   "forms": "gen. მეუღლის",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბიძაშვილი",
+   "translit": "biʒašvili",
+   "pos": "noun",
+   "meaning": "cousin",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სათამაშო",
+   "translit": "satamašo",
+   "pos": "noun",
+   "meaning": "toy",
+   "forms": "gen. სათამაშოს",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რკინა",
+   "translit": "rḳina",
+   "pos": "noun",
+   "meaning": "iron",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქაღალდი",
+   "translit": "kaɣaldi",
+   "pos": "noun",
+   "meaning": "paper",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბოთლი",
+   "translit": "botli",
+   "pos": "noun",
+   "meaning": "bottle",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფინჯანი",
+   "translit": "pinǯani",
+   "pos": "noun",
+   "meaning": "cup",
+   "forms": "gen. ფინჯნის, pl. ფინჯნები",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცენტრი",
+   "translit": "cenṭri",
+   "pos": "noun",
+   "meaning": "centre",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რუკა",
+   "translit": "ruḳa",
+   "pos": "noun",
+   "meaning": "map",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ისტორია",
+   "translit": "isṭoria",
+   "pos": "noun",
+   "meaning": "history",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მუზეუმი",
+   "translit": "muzeumi",
+   "pos": "noun",
+   "meaning": "museum",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფერი",
+   "translit": "peri",
+   "pos": "noun",
+   "meaning": "colour",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნაწილი",
+   "translit": "nac̣ili",
+   "pos": "noun",
+   "meaning": "part",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სახურავი",
+   "translit": "saxuravi",
+   "pos": "noun",
+   "meaning": "roof; lid",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხმაური",
+   "translit": "xmauri",
+   "pos": "noun",
+   "meaning": "noise",
+   "forms": "",
+   "first_lesson": "kat-03-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კოვზი",
+   "translit": "ḳovzi",
+   "pos": "noun",
+   "meaning": "spoon",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დანა",
+   "translit": "dana",
+   "pos": "noun",
+   "meaning": "knife",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩანგალი",
+   "translit": "čangali",
+   "pos": "noun",
+   "meaning": "fork",
+   "forms": "gen. ჩანგლის, inst. ჩანგლით, pl. ჩანგლები",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სიამოვნება",
+   "translit": "siamovneba",
+   "pos": "noun",
+   "meaning": "pleasure",
+   "forms": "inst. სიამოვნებით \"with pleasure\"",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფოსტა",
+   "translit": "posṭa",
+   "pos": "noun",
+   "meaning": "post, mail; post office",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კილომეტრი",
+   "translit": "ḳilomeṭri",
+   "pos": "noun",
+   "meaning": "kilometre",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ლარი",
+   "translit": "lari",
+   "pos": "noun",
+   "meaning": "lari (Georgian currency)",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გაკვეთილი",
+   "translit": "gaḳvetili",
+   "pos": "noun",
+   "meaning": "lesson (at school)",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მზარეული",
+   "translit": "mzareuli",
+   "pos": "noun",
+   "meaning": "cook",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თარჯიმანი",
+   "translit": "tarǯimani",
+   "pos": "noun",
+   "meaning": "translator, interpreter",
+   "forms": "gen. თარჯიმნის, pl. თარჯიმნები",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბავშვობა",
+   "translit": "bavšvoba",
+   "pos": "noun",
+   "meaning": "childhood",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზაფხული",
+   "translit": "zapxuli",
+   "pos": "noun",
+   "meaning": "summer",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გაზაფხული",
+   "translit": "gazapxuli",
+   "pos": "noun",
+   "meaning": "spring (season)",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შემოდგომა",
+   "translit": "šemodgoma",
+   "pos": "noun",
+   "meaning": "autumn",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღამით",
+   "translit": "ɣamit",
+   "pos": "adverb",
+   "meaning": "at night",
+   "forms": "instrumental of ღამე",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დღისით",
+   "translit": "dɣisit",
+   "pos": "adverb",
+   "meaning": "by day, in the daytime",
+   "forms": "",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შორს",
+   "translit": "šors",
+   "pos": "adverb",
+   "meaning": "far",
+   "forms": "with -დან: სახლიდან შორს \"far from home\"",
+   "first_lesson": "kat-03-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იტალია",
+   "translit": "iṭalia",
+   "pos": "noun",
+   "meaning": "Italy",
+   "forms": "gen. იტალიის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "გერმანია",
+   "translit": "germania",
+   "pos": "noun",
+   "meaning": "Germany",
+   "forms": "gen. გერმანიის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ამერიკა",
+   "translit": "ameriḳa",
+   "pos": "noun",
+   "meaning": "America",
+   "forms": "gen. ამერიკის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "იაპონია",
+   "translit": "iaṗonia",
+   "pos": "noun",
+   "meaning": "Japan",
+   "forms": "gen. იაპონიის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "კორეა",
+   "translit": "ḳorea",
+   "pos": "noun",
+   "meaning": "Korea",
+   "forms": "gen. კორეის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მცხეთა",
+   "translit": "mcxeta",
+   "pos": "noun",
+   "meaning": "Mtskheta (the old capital, near Tbilisi)",
+   "forms": "gen. მცხეთის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "გოგონა",
+   "translit": "gogona",
+   "pos": "noun",
+   "meaning": "little girl",
+   "forms": "gen. გოგონის (Wiktionary) or გოგონას (B&K)",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მამიდა",
+   "translit": "mamida",
+   "pos": "noun",
+   "meaning": "aunt (father's sister)",
+   "forms": "gen. მამიდის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "პაპა",
+   "translit": "ṗaṗa",
+   "pos": "noun",
+   "meaning": "grandad",
+   "forms": "gen. პაპის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მთვარე",
+   "translit": "mtvare",
+   "pos": "noun",
+   "meaning": "moon",
+   "forms": "gen. მთვარის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "კლდე",
+   "translit": "ḳlde",
+   "pos": "noun",
+   "meaning": "cliff, rock",
+   "forms": "gen. კლდის, pl. კლდეები",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "სახე",
+   "translit": "saxe",
+   "pos": "noun",
+   "meaning": "face",
+   "forms": "gen. სახის",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "კინო",
+   "translit": "ḳino",
+   "pos": "noun",
+   "meaning": "cinema; the films",
+   "forms": "gen. კინოს",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "რადიო",
+   "translit": "radio",
+   "pos": "noun",
+   "meaning": "radio",
+   "forms": "gen. რადიოს",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ტრამვაი",
+   "translit": "ṭramvai",
+   "pos": "noun",
+   "meaning": "tram",
+   "forms": "gen. ტრამვაის, pl. ტრამვაები",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ლობიო",
+   "translit": "lobio",
+   "pos": "noun",
+   "meaning": "beans; a bean stew",
+   "forms": "gen. ლობიოს",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "დრო",
+   "translit": "dro",
+   "pos": "noun",
+   "meaning": "time; (in grammar) tense",
+   "forms": "gen. დროს (also დროის)",
+   "first_lesson": "kat-03-05",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მტერი",
+   "translit": "mṭeri",
+   "pos": "noun",
+   "meaning": "enemy",
+   "forms": "gen. მტრის, pl. მტრები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ღმერთი",
+   "translit": "ɣmerti",
+   "pos": "noun",
+   "meaning": "God, god",
+   "forms": "gen. ღვთის (also ღმერთის)",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ამბავი",
+   "translit": "ambavi",
+   "pos": "noun",
+   "meaning": "news; story; event",
+   "forms": "gen. ამბის, pl. ამბები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ზღაპარი",
+   "translit": "zɣaṗari",
+   "pos": "noun",
+   "meaning": "fairy tale",
+   "forms": "gen. ზღაპრის, pl. ზღაპრები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "სიზმარი",
+   "translit": "sizmari",
+   "pos": "noun",
+   "meaning": "dream",
+   "forms": "gen. სიზმრის, pl. სიზმრები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მინდორი",
+   "translit": "mindori",
+   "pos": "noun",
+   "meaning": "field",
+   "forms": "gen. მინდვრის, pl. მინდვრები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ფოთოლი",
+   "translit": "potoli",
+   "pos": "noun",
+   "meaning": "leaf",
+   "forms": "gen. ფოთლის, pl. ფოთლები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ყურძენი",
+   "translit": "q̇urʒeni",
+   "pos": "noun",
+   "meaning": "grapes",
+   "forms": "gen. ყურძნის",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ატამი",
+   "translit": "aṭami",
+   "pos": "noun",
+   "meaning": "peach",
+   "forms": "gen. ატმის, pl. ატმები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ლიმონი",
+   "translit": "limoni",
+   "pos": "noun",
+   "meaning": "lemon",
+   "forms": "gen. ლიმონის (also ლიმნის)",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ნიორი",
+   "translit": "niori",
+   "pos": "noun",
+   "meaning": "garlic",
+   "forms": "gen. ნივრის",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ირემი",
+   "translit": "iremi",
+   "pos": "noun",
+   "meaning": "deer",
+   "forms": "gen. ირმის, pl. ირმები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "საპონი",
+   "translit": "saṗoni",
+   "pos": "noun",
+   "meaning": "soap",
+   "forms": "gen. საპნის",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ბეჭედი",
+   "translit": "beč̣edi",
+   "pos": "noun",
+   "meaning": "ring",
+   "forms": "gen. ბეჭდის, pl. ბეჭდები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "კარავი",
+   "translit": "ḳaravi",
+   "pos": "noun",
+   "meaning": "tent",
+   "forms": "gen. კარვის, pl. კარვები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ნაგავი",
+   "translit": "nagavi",
+   "pos": "noun",
+   "meaning": "rubbish",
+   "forms": "gen. ნაგვის",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ჭიშკარი",
+   "translit": "č̣išḳari",
+   "pos": "noun",
+   "meaning": "gate",
+   "forms": "gen. ჭიშკრის, pl. ჭიშკრები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ქარხანა",
+   "translit": "karxana",
+   "pos": "noun",
+   "meaning": "factory",
+   "forms": "gen. ქარხნის, pl. ქარხნები",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "გემი",
+   "translit": "gemi",
+   "pos": "noun",
+   "meaning": "ship",
+   "forms": "gen. გემის; does not syncopate",
+   "first_lesson": "kat-03-06",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "დავითი",
+   "translit": "daviti",
+   "pos": "proper noun",
+   "meaning": "Davit (a man's name; David)",
+   "forms": "voc. დავით",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თამარი",
+   "translit": "tamari",
+   "pos": "proper noun",
+   "meaning": "Tamar (a woman's name)",
+   "forms": "voc. თამარ",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძვირფასი",
+   "translit": "ʒvirpasi",
+   "pos": "adjective",
+   "meaning": "dear; precious, expensive",
+   "forms": "voc. ძვირფასო",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საყვარელი",
+   "translit": "saq̇vareli",
+   "pos": "adjective",
+   "meaning": "dear, beloved; favourite",
+   "forms": "voc. საყვარელო",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაიკო",
+   "translit": "daiḳo",
+   "pos": "noun",
+   "meaning": "little sister (affectionate)",
+   "forms": "voc. დაიკოვ",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გენაცვალე",
+   "translit": "genacvale",
+   "pos": "interjection",
+   "meaning": "dear, darling; (softening a request) please",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კაცო",
+   "translit": "ḳaco",
+   "pos": "interjection",
+   "meaning": "man!, come on! (colloquial emphasis)",
+   "forms": "vocative of კაცი",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძმაკაცი",
+   "translit": "ʒmaḳaci",
+   "pos": "noun",
+   "meaning": "close friend (of a man), mate",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ამხანაგი",
+   "translit": "amxanagi",
+   "pos": "noun",
+   "meaning": "companion, mate; (Soviet) comrade",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კოლეგა",
+   "translit": "ḳolega",
+   "pos": "noun",
+   "meaning": "colleague",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უფროსი",
+   "translit": "uprosi",
+   "pos": "noun",
+   "meaning": "boss; elder",
+   "forms": "also adjective \"older\"",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პროფესორი",
+   "translit": "ṗropesori",
+   "pos": "noun",
+   "meaning": "professor",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ოფიციანტი",
+   "translit": "opicianṭi",
+   "pos": "noun",
+   "meaning": "waiter, waitress",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გამყიდველი",
+   "translit": "gamq̇idveli",
+   "pos": "noun",
+   "meaning": "shop assistant, seller",
+   "forms": "gen. გამყიდველის",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მგზავრი",
+   "translit": "mgzavri",
+   "pos": "noun",
+   "meaning": "passenger, traveller",
+   "forms": "",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოქალაქე",
+   "translit": "mokalake",
+   "pos": "noun",
+   "meaning": "citizen",
+   "forms": "gen. მოქალაქის",
+   "first_lesson": "kat-03-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩემი",
+   "translit": "čemi",
+   "pos": "possessive",
+   "meaning": "my, mine",
+   "forms": "dat. before a noun ჩემს",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შენი",
+   "translit": "šeni",
+   "pos": "possessive",
+   "meaning": "your, yours (one person, familiar)",
+   "forms": "dat. შენს",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მისი",
+   "translit": "misi",
+   "pos": "possessive",
+   "meaning": "his, her, its",
+   "forms": "dat. მის",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩვენი",
+   "translit": "čveni",
+   "pos": "possessive",
+   "meaning": "our, ours",
+   "forms": "dat. ჩვენს",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თქვენი",
+   "translit": "tkveni",
+   "pos": "possessive",
+   "meaning": "your, yours (several, or polite)",
+   "forms": "dat. თქვენს",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მათი",
+   "translit": "mati",
+   "pos": "possessive",
+   "meaning": "their, theirs",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თავისი",
+   "translit": "tavisi",
+   "pos": "possessive",
+   "meaning": "his own, her own, its own",
+   "forms": "dat. თავის",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თავიანთი",
+   "translit": "tavianti",
+   "pos": "possessive",
+   "meaning": "their own",
+   "forms": "dat. თავიანთ",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სხვისი",
+   "translit": "sxvisi",
+   "pos": "possessive",
+   "meaning": "someone else's",
+   "forms": "dat. სხვის",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სხვა",
+   "translit": "sxva",
+   "pos": "adjective",
+   "meaning": "other, another; (as a noun) someone else",
+   "forms": "pl. სხვები",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საკუთარი",
+   "translit": "saḳutari",
+   "pos": "adjective",
+   "meaning": "own (one's own)",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დედაჩემი",
+   "translit": "dedačemi",
+   "pos": "noun",
+   "meaning": "my mother",
+   "forms": "declines at the end: დედაჩემს, დედაჩემის",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მამაჩემი",
+   "translit": "mamačemi",
+   "pos": "noun",
+   "meaning": "my father",
+   "forms": "მამაჩემს, მამაჩემის",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მამამისი",
+   "translit": "mamamisi",
+   "pos": "noun",
+   "meaning": "his father, her father",
+   "forms": "dat. მამამისს",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მშობელი",
+   "translit": "mšobeli",
+   "pos": "noun",
+   "meaning": "parent",
+   "forms": "gen. მშობლის, pl. მშობლები",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნათესავი",
+   "translit": "natesavi",
+   "pos": "noun",
+   "meaning": "relative",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კლასელი",
+   "translit": "ḳlaseli",
+   "pos": "noun",
+   "meaning": "classmate",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჯგუფი",
+   "translit": "ǯgupi",
+   "pos": "noun",
+   "meaning": "group",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რვეული",
+   "translit": "rveuli",
+   "pos": "noun",
+   "meaning": "exercise book, notebook",
+   "forms": "",
+   "first_lesson": "kat-03-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეგ",
+   "translit": "eg",
+   "pos": "pronoun",
+   "meaning": "that (near you); he, she, it",
+   "forms": "obl. მაგ; erg. მაგან; dat. მაგას",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეგენი",
+   "translit": "egeni",
+   "pos": "pronoun",
+   "meaning": "those (near you)",
+   "forms": "plural of ეგ; obl. მაგათ",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მანდ",
+   "translit": "mand",
+   "pos": "adverb",
+   "meaning": "there (where you are)",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აქედან",
+   "translit": "akedan",
+   "pos": "adverb",
+   "meaning": "from here",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იქიდან",
+   "translit": "ikidan",
+   "pos": "adverb",
+   "meaning": "from there",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აქამდე",
+   "translit": "akamde",
+   "pos": "adverb",
+   "meaning": "up to here; until now",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასე",
+   "translit": "ase",
+   "pos": "adverb",
+   "meaning": "like this, so, thus",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ისე",
+   "translit": "ise",
+   "pos": "adverb",
+   "meaning": "like that, in that way",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასეთი",
+   "translit": "aseti",
+   "pos": "adjective",
+   "meaning": "such, like this",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ისეთი",
+   "translit": "iseti",
+   "pos": "adjective",
+   "meaning": "such, like that",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ამდენი",
+   "translit": "amdeni",
+   "pos": "adjective",
+   "meaning": "this much, this many",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იმდენი",
+   "translit": "imdeni",
+   "pos": "adjective",
+   "meaning": "that much, that many",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იგივე",
+   "translit": "igive",
+   "pos": "pronoun",
+   "meaning": "the same",
+   "forms": "obl. იმავე",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გვერდი",
+   "translit": "gverdi",
+   "pos": "noun",
+   "meaning": "side; page",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კუთხე",
+   "translit": "ḳutxe",
+   "pos": "noun",
+   "meaning": "corner",
+   "forms": "gen. კუთხის",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კაბა",
+   "translit": "ḳaba",
+   "pos": "noun",
+   "meaning": "dress",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პერანგი",
+   "translit": "ṗerangi",
+   "pos": "noun",
+   "meaning": "shirt",
+   "forms": "",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფოტო",
+   "translit": "poṭo",
+   "pos": "noun",
+   "meaning": "photo",
+   "forms": "gen. ფოტოს",
+   "first_lesson": "kat-03-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თეთრი",
+   "translit": "tetri",
+   "pos": "adjective",
+   "meaning": "white",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შავი",
+   "translit": "šavi",
+   "pos": "adjective",
+   "meaning": "black",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წითელი",
+   "translit": "c̣iteli",
+   "pos": "adjective",
+   "meaning": "red",
+   "forms": "alone: gen. წითლის",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყვითელი",
+   "translit": "q̇viteli",
+   "pos": "adjective",
+   "meaning": "yellow",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ლურჯი",
+   "translit": "lurǯi",
+   "pos": "adjective",
+   "meaning": "blue",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწვანე",
+   "translit": "mc̣vane",
+   "pos": "adjective",
+   "meaning": "green",
+   "forms": "does not change before a noun",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მაღალი",
+   "translit": "maɣali",
+   "pos": "adjective",
+   "meaning": "tall, high",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაბალი",
+   "translit": "dabali",
+   "pos": "adjective",
+   "meaning": "low; short (of a person)",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გრძელი",
+   "translit": "grʒeli",
+   "pos": "adjective",
+   "meaning": "long",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოკლე",
+   "translit": "moḳle",
+   "pos": "adjective",
+   "meaning": "short",
+   "forms": "does not change before a noun",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძვირი",
+   "translit": "ʒviri",
+   "pos": "adjective",
+   "meaning": "expensive",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იაფი",
+   "translit": "iapi",
+   "pos": "adjective",
+   "meaning": "cheap",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ახალგაზრდა",
+   "translit": "axalgazrda",
+   "pos": "adjective",
+   "meaning": "young",
+   "forms": "does not change",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სუფთა",
+   "translit": "sufta",
+   "pos": "adjective",
+   "meaning": "clean",
+   "forms": "does not change",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მძიმე",
+   "translit": "mʒime",
+   "pos": "adjective",
+   "meaning": "heavy; hard",
+   "forms": "does not change",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სავსე",
+   "translit": "savse",
+   "pos": "adjective",
+   "meaning": "full",
+   "forms": "does not change",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცარიელი",
+   "translit": "carieli",
+   "pos": "adjective",
+   "meaning": "empty",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჭკვიანი",
+   "translit": "č̣ḳviani",
+   "pos": "adjective",
+   "meaning": "clever",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საინტერესო",
+   "translit": "saintereso",
+   "pos": "adjective",
+   "meaning": "interesting",
+   "forms": "does not change",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რთული",
+   "translit": "rtuli",
+   "pos": "adjective",
+   "meaning": "difficult, complicated",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ადვილი",
+   "translit": "advili",
+   "pos": "adjective",
+   "meaning": "easy",
+   "forms": "",
+   "first_lesson": "kat-03-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სად",
+   "translit": "sad",
+   "pos": "adverb",
+   "meaning": "where",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საიდან",
+   "translit": "saidan",
+   "pos": "adverb",
+   "meaning": "where from",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადამდე",
+   "translit": "sadamde",
+   "pos": "adverb",
+   "meaning": "how far, up to where",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "როდის",
+   "translit": "rodis",
+   "pos": "adverb",
+   "meaning": "when",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რატომ",
+   "translit": "raṭom",
+   "pos": "adverb",
+   "meaning": "why",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "როგორ",
+   "translit": "rogor",
+   "pos": "adverb",
+   "meaning": "how",
+   "forms": "როგორ ხარ? \"how are you?\"",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რამდენი",
+   "translit": "ramdeni",
+   "pos": "pronoun",
+   "meaning": "how many, how much",
+   "forms": "+ singular noun",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რომელი",
+   "translit": "romeli",
+   "pos": "pronoun",
+   "meaning": "which",
+   "forms": "alone: gen. რომლის",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "როგორი",
+   "translit": "rogori",
+   "pos": "pronoun",
+   "meaning": "what kind of, what like",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვისი",
+   "translit": "visi",
+   "pos": "pronoun",
+   "meaning": "whose",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვინმე",
+   "translit": "vinme",
+   "pos": "pronoun",
+   "meaning": "anyone; someone (open)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვიღაც",
+   "translit": "viɣac",
+   "pos": "pronoun",
+   "meaning": "someone (a particular person)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რამე",
+   "translit": "rame",
+   "pos": "pronoun",
+   "meaning": "anything; something (open)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რაღაც",
+   "translit": "raɣac",
+   "pos": "pronoun",
+   "meaning": "something (a particular thing)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "არავინ",
+   "translit": "aravin",
+   "pos": "pronoun",
+   "meaning": "nobody",
+   "forms": "dat. არავის",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "არაფერი",
+   "translit": "araperi",
+   "pos": "pronoun",
+   "meaning": "nothing",
+   "forms": "dat. არაფერს, gen. არაფრის",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვერავინ",
+   "translit": "veravin",
+   "pos": "pronoun",
+   "meaning": "nobody (is able to)",
+   "forms": "with ვერ",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვერაფერი",
+   "translit": "veraperi",
+   "pos": "pronoun",
+   "meaning": "nothing (one is able to)",
+   "forms": "with ვერ",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადმე",
+   "translit": "sadme",
+   "pos": "adverb",
+   "meaning": "anywhere; somewhere (open)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადღაც",
+   "translit": "sadɣac",
+   "pos": "adverb",
+   "meaning": "somewhere (a particular place)",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "არსად",
+   "translit": "arsad",
+   "pos": "adverb",
+   "meaning": "nowhere",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ოდესმე",
+   "translit": "odesme",
+   "pos": "adverb",
+   "meaning": "ever",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "არასდროს",
+   "translit": "arasdros",
+   "pos": "adverb",
+   "meaning": "never",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყველაფერი",
+   "translit": "q̇velaperi",
+   "pos": "pronoun",
+   "meaning": "everything",
+   "forms": "gen. ყველაფრის",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყველგან",
+   "translit": "q̇velgan",
+   "pos": "adverb",
+   "meaning": "everywhere",
+   "forms": "",
+   "first_lesson": "kat-03-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უფლება",
+   "translit": "upleba",
+   "pos": "noun",
+   "meaning": "right (legal or moral)",
+   "forms": "old pl. უფლებანი, უფლებათა",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოვალეობა",
+   "translit": "movaleoba",
+   "pos": "noun",
+   "meaning": "duty, obligation",
+   "forms": "old pl. მოვალეობანი",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თავისუფლება",
+   "translit": "tavisupleba",
+   "pos": "noun",
+   "meaning": "freedom",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დეკლარაცია",
+   "translit": "deḳlaracia",
+   "pos": "noun",
+   "meaning": "declaration",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საყოველთაო",
+   "translit": "saq̇oveltao",
+   "pos": "adjective",
+   "meaning": "universal, general",
+   "forms": "does not change",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საზოგადოება",
+   "translit": "sazogadoeba",
+   "pos": "noun",
+   "meaning": "society, community",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სახელმწიფო",
+   "translit": "saxelmc̣ipo",
+   "pos": "noun",
+   "meaning": "state (country)",
+   "forms": "gen. სახელმწიფოს",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კაცობრიობა",
+   "translit": "ḳacobrioba",
+   "pos": "noun",
+   "meaning": "humanity, mankind",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღირსება",
+   "translit": "ɣirseba",
+   "pos": "noun",
+   "meaning": "dignity",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კანონი",
+   "translit": "ḳanoni",
+   "pos": "noun",
+   "meaning": "law",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მშვიდობა",
+   "translit": "mšvidoba",
+   "pos": "noun",
+   "meaning": "peace",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ომი",
+   "translit": "omi",
+   "pos": "noun",
+   "meaning": "war",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მთავრობა",
+   "translit": "mtavroba",
+   "pos": "noun",
+   "meaning": "government",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ორგანიზაცია",
+   "translit": "organizacia",
+   "pos": "noun",
+   "meaning": "organisation",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პრეზიდენტი",
+   "translit": "ṗrezidenṭi",
+   "pos": "noun",
+   "meaning": "president",
+   "forms": "",
+   "first_lesson": "kat-03-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შორის",
+   "translit": "šoris",
+   "pos": "postposition",
+   "meaning": "between, among",
+   "forms": "after a dative or genitive: ერთა შორის",
+   "first_lesson": "kat-03-12",
    "confidence": "verified"
   }
  ]

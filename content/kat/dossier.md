@@ -292,3 +292,11 @@ Translations are always our own.
 - Letter names are cited in Wiktionary's short form (ტ ṭari, უ uni); full forms mostly end in -i (ani, eni, mani, nari; not rae, hae).
 - Yes-no question stress on the verb's last syllable, or on a final ხომ or განა (B&K §18.2).
 - Aronson's SEELRC PDF was unreachable on 2026-11-26 (connection refused); only its Introduction and Lesson 1 were checked, from an earlier copy.
+
+
+## Notes from drafting part 3 (2026-11-26)
+
+- Source disagreements (lessons kat-03-05/06 labelled uncertain, each form shown): ღვინო gen. ღვინის (B&K) vs ღვინოს (Wiktionary); გოგონა gen. გოგონას (B&K) vs გოგონის; დრო both დროს and დროის (B&K); მხარე gen. მხრის (B&K) vs მხარის; ლიმონი and ღმერთი with two accepted forms (ლიმონის/ლიმნის, ღმერთის/ღვთის); ფეხსაცმელი/ტანსაცმელი plural patterns. Syncope's cause given only as B&K's tentative stress hypothesis.
+- Possessives checked (B&K §7.3, Wiktionary): dative before a noun keeps -s (ჩემს); მისი dative მის; Wiktionary's მათს not used. Given names take no vocative ending; consonant-stem names use the bare stem (დავით) (B&K §4.2.2). Short copula after a consonant-final postposition is -აა (წლისაა); lessons use full არის.
+- Glossing: dative -s lost before -ში/-ზე/-თან glossed house.DAT-in only in kat-03-02, plain house-in from kat-03-03; deda-s-tan mother-DAT-at, deda-sa-vit mother-DAT-like; tbilis-i-dan Tbilisi-INS-from, sadgur-a-mde station-ADV-up.to, fused where no trace (saɣamo-mde evening.ADV-until); adjectives and possessives before genitive/instrumental nouns unsegmented; čem-s my-DAT; čem-tan 1SG-at, mas-ze 3SG.DAT-on; am/mag/im this.OBL/that.OBL; old plural ḳac-n-i man-PL-NOM, adamian-ta human-PL.GEN; deda-čem-i mother-my-NOM.
+- Introduced in part 3 (do not re-list): verbs დებს, იღებს with principal forms; all possessives; ეგ, ეგენი, იგივე; question words and indefinites (სად … ყველგან); შორის; adverbs ახლოს, შორს, ღამით, დღისით, აქედან, იქიდან, აქამდე, მანდ, ასე, ისე.

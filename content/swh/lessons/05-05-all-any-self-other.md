@@ -196,7 +196,7 @@ confidence: constructed
 
 **Do not use *-ote* in class 1 for "the whole person".** *\*Mtoto wote* is wrong. For "the whole child, the child in one piece" use *-zima*: *mtoto mzima*.
 
-**Do not translate "any" in a positive question with *-o-ote* by reflex.** *Una swali lolote?* "Do you have any question (whatever)?" is fine, but English "any" in "do you have any bread?" is usually just *Una mkate?* Use *-o-ote* when you mean "whichever, no matter which".
+**Do not translate "any" in a positive question with *-o-ote* by reflex.** *Una swali lolote?* "Do you have any question (whatever)?" is fine, but English "any" in "do you have any bread?" is usually plain *Una mkate?* Use *-o-ote* when you mean "whichever, no matter which".
 
 **Do not use *mwenyewe* as a reflexive object.** "He saw himself" is *alijiona* with *-ji-* (lesson 4.8). *\*Alimwona mwenyewe* means "he saw him, the owner" or "he himself saw him". *Mwenyewe* adds emphasis; it does not fill the object slot.
 

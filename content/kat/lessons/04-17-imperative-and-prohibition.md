@@ -32,7 +32,7 @@ Lingua.ge calls these "prohibitive I" (*ar* + optative) and "prohibitive II" (*n
 2. Use the second person: singular *-e* or *-i* (*dac̣ere*, *gaaḳete*, *dabrundi*), plural or polite with *-t* (*dac̣eret*, *dabrundit*).
 3. Keep the case pattern of series II: a class 1 object is nominative. *C̣erili dac̣ere!* "write the letter!", not *c̣erils*.
 
-**Object markers** go after the preverb as usual: *da-m-xaṭ-e!* "draw me!", *ga-m-aɣviʒ-e!* "wake me!", *gv-acile!*... in the aorist, *ga-gv-acil-e!* "see us off!".
+**Object markers** go after the preverb as usual: *da-m-xaṭ-e!* "draw me!", *ga-m-aɣviʒ-e!* "wake me!", *ga-gv-acil-e!* "see us off!".
 
 **Irregular commands.** The verbs of going and coming have imperatives of their own (Wiktionary): *c̣adi!* "go (away)!", *midi!* "go (there)!", *modi!* "come!", *c̣amodi!* "come along!", with plurals *c̣adit*, *midit*, *modit*. *Modi* is also the "let's" particle of lesson 4-16.
 
@@ -109,11 +109,11 @@ confidence: constructed
 orig: სახლში დაბრუნდით, ბნელა.
 translit: saxlši dabrundit, bnela.
 morphemes: saxl-ši da-brun-d-i-t bnela
-gloss: house-in PV-turn-PASS-AOR-PL it.is.dark
-translation: Come back home, it's getting dark.
-note: A class 2 verb: strong aorist dabrundi, plural dabrundit. bnela "it is dark" (Wiktionary).
+gloss: house-in PV-turn-PASS-AOR-PL be.dark
+translation: Come back home, it's dark.
+note: A class 2 verb: strong aorist dabrundi, plural dabrundit. bnela "it is dark (outside)" (Wiktionary).
 source: constructed
-confidence: unverified
+confidence: constructed
 :::
 
 :::example
@@ -176,12 +176,11 @@ confidence: constructed
 orig: თქვენ ჩუმად იყავით, გთხოვთ!
 translit: tkven čumad iq̇avit, gtxovt!
 morphemes: tkven čumad iq̇av-i-t g-txov-t
-gloss: 2PL quietly be.AOR-AOR-PL 2OBJ-ask-PL
+gloss: 2PL quietly be-AOR-PL 2OBJ-ask-PL
 translation: Be quiet, please!
-note: Preview: the command "be!" is the aorist of "be", iq̇avi (lesson 4-25). gtxovt is the polite "please".
+note: Preview of lesson 4-25: the command "be!" is the aorist of "be", იყავი, plural იყავით (Wiktionary). gtxovt is the polite "please".
 source: constructed
 confidence: constructed
-preview: AOR
 :::
 
 ## Where it applies
@@ -205,7 +204,7 @@ preview: AOR
 
 **Match the object case to the screeve.** *\*Nu gaaɣviʒeb bavšvi* gives a series I verb a series II object; *\*bavšvs ar gaaɣviʒo* the reverse. Say *nu gaaɣviʒeb bavšvs* or *bavšvi ar gaaɣviʒo*.
 
-**Do not drop the preverb.** *\*Ḳitxe!* or *\*xaṭe!* (without preverbs) are aorists of continuing action ("keep reading"); for "read it!" use *c̣aiḳitxe!*, "draw it!" *daxaṭe!*.
+**Do not drop the preverb.** Without it the aorist describes an activity, not a completed act (lesson 4-12), so *\*xaṭe!* does not mean "draw it!". Say *daxaṭe!*; for "read it!", *c̣aiḳitxe!*.
 
 **Irregular imperatives.** *\*C̣avide!* is the optative "let me go". "Go!" is *c̣adi!*; "come!" *modi!*.
 
@@ -244,7 +243,7 @@ source: bolkvadze2023 §9.5.1; wiktionary (დაწერს); linguage
 ნებართვა | nebartva | noun | permission |
 აჩერებს | ačerebs | verb | stops (something) | class 1; fut. გააჩერებს; aor. გააჩერა; pf. გაუჩერებია; masdar გაჩერება (lingua.ge)
 კეტავს | ḳeṭavs | verb | locks | class 1; fut. დაკეტავს; aor. დაკეტა; pf. დაუკეტავს; masdar დაკეტვა (lingua.ge)
-ბნელა | bnela | verb | it is dark | no subject | unverified: Wiktionary not checked
+ბნელა | bnela | verb | it is dark (outside) | no subject
 :::
 
 ## Connections
@@ -254,10 +253,10 @@ Spanish distinguishes the positive *¡escribe!* from the negative *¡no escribas
 ## Exercises
 
 1. Tell a friend: "Draw me!", "Come back!", "Rest!".
-2. Say politely to a stranger: "Sit... " is not yet possible; say "Write your name here, please."
+2. Say politely to a stranger: "Write your name here, please."
 3. Say "Let them play in the yard."
 4. Say to a child "Stop shouting!"
-5. Say "Please don't leave the door open" is too hard; say "Please don't close the window" (*xuravs*, future *daxuravs*).
+5. Say "Please don't close the window" (*xuravs*, future *daxuravs*).
 6. Say firmly: "Don't eat the cake!" (*šeč̣ams*, aorist *šeč̣ama*, weak).
 7. Correct *\*Ar dac̣ere!* and *\*Nu gaxsna!*
 8. Correct *\*C̣erils dac̣ere!* and *\*C̣avide!* (meaning "go!").

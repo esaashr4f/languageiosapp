@@ -214,7 +214,6 @@ source: bolkvadze2023 §3.1.1–3.1.2; aronson1990 §§1.1–1.6; wiktionary
 ყავა | q̇ava | noun | coffee |
 ხელი | xeli | noun | hand; handwriting |
 ღამე | ɣame | noun | night |
-შენ | šen | pronoun | you (singular) |
 ჟურნალი | žurnali | noun | magazine; register |
 ზღვა | zɣva | noun | sea |
 ვაშლი | vašli | noun | apple |

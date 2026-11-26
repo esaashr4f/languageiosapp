@@ -207,7 +207,6 @@ source: bolkvadze2023 §3.1.4; hewitt1995 §2.1.1.1
 დღე | dɣe | noun | day; daytime |
 ტყე | ṭq̇e | noun | forest, wood |
 წყალი | c̣q̇ali | noun | water | gen. წყლის
-თქვენ | tkven | pronoun | you (plural, or polite singular) |
 ბგერა | bgera | noun | sound |
 ფქვილი | pkvili | noun | flour |
 ცხვირი | cxviri | noun | nose |

@@ -45,7 +45,7 @@ The same two groups as in lesson 3.7 (Gesenius §92b, d; §93b):
 
 ### Feminine plurals
 
-A feminine plural keeps its *-ôṯ* and then adds the same plural set (§91m, §95): *bānôṯ* → *bənōṯay* "my daughters", *bənôṯêḵā* "your daughters", *ʾāḇôṯ* → *ʾăḇōṯênû* "our fathers". So the feminine plural shows plurality twice: once in *-ôṯ*, once in the *y*. Gesenius notes this "double indication of the plural" (§87s).
+A feminine plural keeps its *-ôṯ* and then adds the same plural set (§91m, §95): *bānôṯ* → *bənōṯay* "my daughters", *bənôṯêḵā* "your daughters", *ʾāḇôṯ* → *ʾăḇōṯênû* "our fathers". So the feminine plural shows plurality twice: once in *-ôṯ*, once in the *y*. Gesenius notes this "double indication of the plural" (§87s). One exception is common: "their" on a feminine plural is often the short *-ām* added straight to *-ôṯ*, as in *ʾăḇōṯām* "their fathers" (Exodus 6:14; §96).
 
 ### Duals
 

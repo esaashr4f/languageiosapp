@@ -210,7 +210,7 @@ confidence: constructed
 
 **Do not drop the z of -mAz in the compound.** *\*Gelmedim* for "I didn't use to come" is the plain negative past "I didn't come". The negative habit is *gelmezdim*.
 
-**Do not read -mIştI as hearsay.** *Ali gelmişti* is "Ali had come", which you may have seen with your own eyes. For "Ali had come, apparently", Turkish uses other means (*gelmişmiş* exists in Wiktionary's tables but is rare).
+**Do not read -mIştI as hearsay.** *Ali gelmişti* is "Ali had come", which you may have seen with your own eyes. Wiktionary's tables also list a double form, *gelmişmiş*, which this guide does not teach.
 
 **Do not use -DI for the Spanish or French imperfect.** *\*Eskiden her yaz köye gittik* lists summers as finished events; for "we used to go", use *giderdik* or *gidiyorduk*. Spanish *íbamos*, French *nous allions*.
 
@@ -256,6 +256,8 @@ duş almak | - | verb | have a shower | aor. duş alır
 postacı | - | noun | postman | acc. postacıyı
 soba | - | noun | stove | acc. sobayı
 fırsat | - | noun | opportunity, chance | acc. fırsatı
+bir zamanlar | - | adverb | once, at one time (in the past) | 
+anı | - | noun | memory (of the past) | acc. anıyı; pl. anılar "memories"
 :::
 
 ## Connections

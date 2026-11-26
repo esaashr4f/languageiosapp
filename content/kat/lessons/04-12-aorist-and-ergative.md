@@ -244,6 +244,7 @@ source: wiktionary (წერს, ხატავს, აშენებს, ჭ
 გუშინწინ | gušinc̣in | adverb | the day before yesterday |
 წინა | c̣ina | adjective | previous; front |
 მთლიანად | mtlianad | adverb | completely, entirely |
+ხელახლა | xelaxla | adverb | again, anew |
 თეფში | tepši | noun | plate |
 ღობე | ɣobe | noun | fence, hedge | gen. ღობის
 ვაზი | vazi | noun | vine, grapevine |

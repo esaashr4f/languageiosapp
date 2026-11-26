@@ -81,7 +81,7 @@ translit: mah-nnôrāʾ hammāqôm hazzeh
 morphemes: mah nnôrāʾ ha=mmāqôm ha=zzeh
 gloss: what awesome DEF=place DEF=this.M
 translation: How awesome this place is!
-note: Jacob at Bethel: the place where he stands, so zeh. After the noun, with the article. The n of nôrāʾ is doubled after mah- (Gesenius §20c).
+note: Jacob at Bethel: the place where he stands, so zeh. After the noun, with the article. The n of nôrāʾ is doubled after mah- (Gesenius §20d).
 source: Genesis 28:17 (WLC)
 confidence: attested
 :::
@@ -114,7 +114,7 @@ translit: hannəp̄ilîm hāyû ḇāʾāreṣ bayyāmîm hāhēm
 morphemes: ha=nnəp̄il-îm hāy-û ḇā=ʾāreṣ ba=yyām-îm hā=hēm
 gloss: DEF=Nephil-PL be.QTL-3PL in.DEF=earth in.DEF=day-PL DEF=3PL.M
 translation: The Nephilim were on the earth in those days.
-note: hāhēm "those". Gesenius notes that "those days" is almost always bayyāmîm hāhēm or hāhēmmâ, not with ʾēlleh (§136b).
+note: hāhēm "those". Gesenius lists bayyāmîm hāhēm or hāhēmmâ among the fixed phrases (§136b); WLC has it 39 times, bayyāmîm hāʾēlleh only twice (Zechariah 8:9, 15).
 source: Genesis 6:4 (WLC)
 confidence: attested
 :::

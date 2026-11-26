@@ -13,13 +13,13 @@ sources: [goksel2005, wiktionary]
 
 ## The idea
 
-The most common Turkish phrase you will say is a verb in a tense you have not met yet:
+One of the commonest Turkish phrases you will say is a verb in a tense you have not met yet:
 
 *Teşekkür ederim.* "Thank you." Literally "I do thanks."
 
 *Ederim* is *et-* "do" in the **aorist**. The aorist is the fourth tense of slot 5. Its main jobs are habits, general truths, willingness and promises: what someone does as a rule, or is prepared to do, rather than what is going on now. Its meaning is the subject of the next lesson. This lesson is about its form, which is the least regular thing in the Turkish verb.
 
-The name is a borrowing from Greek grammar, where it means something else, and it fits Turkish poorly. Wiktionary's headword lines call the same form the "simple present". This guide keeps "aorist", the name used in grammars of Turkish such as Göksel and Kerslake's (goksel2005 §8.2.3.3).
+The name is borrowed from the grammar of Ancient Greek, *aóristos* "unbounded" (Wiktionary, entry aorist), where it names a different category, and it fits Turkish poorly. Wiktionary's headword lines call the same form the "simple present". This guide keeps "aorist", the name used in grammars of Turkish such as Göksel and Kerslake's (goksel2005 §8.2.3.3).
 
 **Three shapes.** The suffix is *-r* after a vowel and either ***-Ar*** (*-ar*, *-er*) or ***-Ir*** (*-ır*, *-ir*, *-ur*, *-ür*) after a consonant. Göksel and Kerslake give the distribution (goksel2005 §8.2.3.3):
 
@@ -146,7 +146,7 @@ orig: Sanırım yarın gelir.
 morphemes: san-ır-ım yarın gel-ir
 gloss: suppose-AOR-1SG tomorrow come-AOR
 translation: I think he'll come tomorrow.
-note: Two of the thirteen. Sanırım "I suppose" is a set phrase (goksel2005 §8.2.3.3). The aorist also makes guesses about the future (tur-04-06).
+note: Two of the thirteen. Göksel and Kerslake give sanırım "I think" as their example of san- (goksel2005 §8.2.3.3). The aorist also makes guesses about the future (tur-04-06).
 source: constructed
 confidence: constructed
 :::
@@ -281,7 +281,7 @@ The Japanese plain non-past 〜る (食べる "eat, will eat") and the Korean pl
 
 ## Worked answers
 
-1. *Alır* (one of the thirteen), *atar* (one syllable, not on the list), *bulur* (one of the thirteen), *güler* (one syllable, not on the list, though it ends in *l*), *söyler* (vowel stem: *-r*), *çalışır* (three syllables: *-Ir*).
+1. *Alır* (one of the thirteen), *atar* (one syllable, not on the list), *bulur* (one of the thirteen), *güler* (one syllable, not on the list, though it ends in *l*), *söyler* (vowel stem: *-r*), *çalışır* (two syllables, consonant at the end: *-Ir*).
 2. *Her sabah çay içeriz.* *İç-* has one syllable and is not on the list: *-er*; "we" *-iz*.
 3. *Sanırım Ali bilir.* *San-* is the odd one of the thirteen: *san-ır*, with "I" *-ım*. *Bil-* is also on the list: *bil-ir*, third person, no ending.
 4. *Gör-ür-sünüz*: stem *gör-* (one of the thirteen), *-ür* by rounded front harmony, 2nd plural *-sünüz*: "you see". *Bak-ar-lar*: *bak-* takes *-Ar*, 3rd plural *-lar*: "they look".

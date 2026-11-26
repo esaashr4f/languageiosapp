@@ -15,7 +15,7 @@ sources: [ag1903, wiktionary, thelatinlibrary]
 
 The last lesson introduced the prepositions that take the ablative. This lesson adds the larger group that takes the accusative, and the two prepositions, *in* and *sub*, that take either.
 
-Why does Latin need prepositions at all, when it has cases? Allen and Greenough answer that it once hardly did. In the earliest stages, they say, the case endings alone gave the sense. As the endings lost force, speakers added adverbs to make the meaning precise, and these adverbs became prepositions (ag1903 §219). Many are still case forms themselves: *suprā* "above" is an old ablative, *circum* "around" an old accusative (ag1903 §219). Most of them still work as adverbs too: *post* "behind, after" also means "afterwards"; *prope* "near" also means "nearby".
+Why does Latin need prepositions at all, when it has cases? Allen and Greenough answer that it once hardly did. In the earliest stages, they say, the case endings alone gave the sense. As the endings lost force, speakers added adverbs to make the meaning precise, and these adverbs became prepositions (ag1903 §219). Many are still case forms themselves: *suprā* "above" is an old ablative, *circum* "around" an old accusative (ag1903 §219). Many of them still work as adverbs too (ag1903 §219): *post* "behind, after" also means "afterwards"; *prope* "near" also means "nearby".
 
 So a preposition does not replace the case. It sharpens it. Each preposition is fixed to one case, and the choice is not random. The ablative ones are the "from" words (*ā*, *ē*, *dē*), the "with" words (*cum*, *sine*) and a few of position (*prō*). The accusative is the case of the goal, the point a movement aims at. *Ad* "to, towards" takes it for that reason, and most prepositions of direction and position follow.
 
@@ -38,7 +38,7 @@ To choose between the two cases after *in*:
 
 *Sub* works the same way. "Under" with movement, accusative; "under" at rest, ablative.
 
-A preposition normally stands just before its noun. When an adjective goes with the noun, the preposition often stands between them: *magnā cum cūrā*, "with great care"; *multās per gentēs*, "through many nations" (ag1903 §599).
+A preposition normally stands just before its noun. When an adjective goes with the noun, a one-syllable preposition often stands between them: *magnā cum cūrā*, "with great care"; *multās per gentēs*, "through many nations" (ag1903 §599).
 
 The accusative has one more use that belongs here. A few verbs of teaching, asking and hiding take two accusatives: one for the person, one for the thing (ag1903 §396). *Doceō* "teach", *rogō* "ask" and *cēlō* "hide" are the commonest. Allen and Greenough explain why: each verb has two senses at once. *Doceō* means both "show a thing" and "instruct a person"; *cēlō* both "hide a thing" and "keep a person in the dark" (ag1903 §396). Each sense brings its own object.
 
@@ -211,7 +211,7 @@ preview: third-declension plural
 
 **Do not use *ad* for a receiver.** "He gives a gift to the king" is *Rēgī dōnum dat* (lesson 3 of this part). *Ad* means movement towards.
 
-**Do not read *apud* as "in".** *\*Apud silvam habitat* does not mean "he lives in the forest". *Apud* is used with persons, or with a place in the sense "at, near". Say *In silvā habitat*.
+**Do not read *apud* as "in".** *\*Apud silvam habitat* does not mean "he lives in the forest". *Apud* is used with persons and communities; with a place, "at, near", it is rare and archaic (ag1903 §221). Say *In silvā habitat*.
 
 **Do not add a preposition to the name of a town you go to.** "They hurry to Rome" is *Rōmam properant*, with no *ad* in the usual classical style (ag1903 §427). Lesson 13 of this part explains.
 

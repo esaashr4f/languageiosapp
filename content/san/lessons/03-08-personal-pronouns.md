@@ -269,6 +269,7 @@ source: wiktionary त्वम्; whitney1889 §491
 विश्वास | viśvāsa | noun | trust, confidence | m., a-stem; with the locative or genitive
 प्रभव | prabhava | noun | origin, source | m., a-stem
 धार्मिक | dhārmika | adjective | righteous, just | dhārmika, f. dhārmikī
+दास | dāsa | noun | servant, slave | m., a-stem
 याच् | yāc | verb | ask for, beg | root, class 1, active; yācati; with two accusatives
 :::
 

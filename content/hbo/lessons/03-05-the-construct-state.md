@@ -89,7 +89,7 @@ translit: ʾaḇrām yāšaḇ bəʾereṣ-kənāʿan
 morphemes: ʾaḇrām yāšaḇ bə=ʾereṣ kənāʿan
 gloss: Abram dwell.QTL.3SG.M in=land.CSTR Canaan
 translation: Abram settled in the land of Canaan.
-note: ʾereṣ, a segholate, is its own construct. "The land of Canaan" names the land: the second noun says which one. kənaʿan has its pausal vowel here. Subject before verb: Abram is contrasted with Lot (lesson 2.6).
+note: ʾereṣ, a segholate, is its own construct. "The land of Canaan" names the land: the second noun says which one. The name appears here in its pausal form kənāʿan. Subject before verb: Abram is contrasted with Lot (lesson 2.6).
 source: Genesis 13:12 (WLC)
 confidence: attested
 :::
@@ -200,7 +200,7 @@ preview: WAYY
 - **Possession:** *bêṯ hammeleḵ*, *zəqan bêṯô*.
 - **A name that says which one:** *ʾereṣ kənaʿan*, *śəḏēh ʾĕḏôm*. Gesenius calls this an explanatory genitive.
 - **Material:** *nezem zāhāḇ* "a gold ring".
-- **A quality:** *gibbôr ḥayil* "a man of valour", *ʾîš milḥāmâ* "a warrior". Hebrew has few adjectives, so this is a very common way of describing (Gesenius §128p).
+- **A quality:** *gibbôr ḥayil* "a man of valour", *ʾîš milḥāmâ* "a warrior". This is a very common way of describing, even where an adjective exists (Gesenius §128p).
 - **Age:** *ben-šānâ* "a year old"; *ben-ʾāḏām* "a son of man", that is, a human being.
 - **Belonging to a group:** *bənê yiśrāʾēl* "the Israelites" (plural construct, lesson 3.6).
 - **The whole or a part:** *kol-hāʿām* "all the people", *kol-hāʾāreṣ* "the whole earth".

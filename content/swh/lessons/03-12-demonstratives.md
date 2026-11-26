@@ -8,7 +8,7 @@ point: Form and choose the three demonstratives (huyu, yule, huyo) for every cla
 requires: [swh-03-11]
 introduces: [demonstrative]
 confidence: verified
-sources: [polome1967, thompson2001, almasi2014, wiktionary]
+sources: [polome1967, thompson2001, almasi2014, wiktionary, wpgrammar, wals]
 ---
 
 ## The idea

@@ -193,7 +193,7 @@ confidence: constructed
 
 **Do not mix up *hu-* and *ha-*.** *Hupiki* is "you don't cook"; *hapiki* is "she doesn't cook". One letter decides the person.
 
-**Two homographs to keep apart.** *Hali* is "he or she isn't eating" (*ha-l-i*) and also a noun meaning "condition" (lesson 2.8). Later, lesson 4.12 introduces a habitual *hu-* that looks like the "you" prefix: *husoma* "one usually reads" against *husomi* "you don't read". The final vowel tells them apart.
+**Two homographs to keep apart.** *Hali* is "he or she isn't eating" (*ha-l-i*) and also a noun meaning "condition" (lesson 2.8). Later, lesson 4.13 introduces a habitual *hu-* that looks like the "you" prefix: *husoma* "one usually reads" against *husomi* "you don't read". The final vowel tells them apart.
 
 **Do not negate the infinitive by mistake.** In *Sipendi kusoma*, "not" belongs to "like". *\*Ninapenda kusomi* is not Swahili; the infinitive has no *-i* form.
 

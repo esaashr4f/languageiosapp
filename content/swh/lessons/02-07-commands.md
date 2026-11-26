@@ -50,7 +50,7 @@ Tell several people to come here.
 1. *-ja* is irregular: *njoo* for one, *njooni* for several.
 2. Add the place: *Njooni hapa!*
 
-Soften it with *tafadhali* "please", usually at the start: *Tafadhali, ngoja.* Almasi and colleagues stress that a bare command can sound blunt and that Swahili speakers do not use bare commands to their elders. Politer requests are made with the subjunctive (lesson 4.9).
+Soften it with *tafadhali* "please", usually at the start: *Tafadhali, ngoja.* Almasi and colleagues stress that a bare command can sound blunt and that Swahili speakers do not use bare commands to their elders. Politer requests are made with the subjunctive (lesson 4.10).
 
 ## Examples
 
@@ -179,7 +179,7 @@ confidence: constructed
 - **With an object, place or adverb after the verb.** *Funga mlango*, *Njoo hapa*, *Soma polepole* "read slowly", *Ngoja kidogo*.
 - **With *tafadhali* "please".** Before or after the command. Wiktionary also gives a plural *tafadhalini*, matching the *-ni* of the verb.
 - **Everyday set phrases.** *Karibu!* "welcome" behaves like a command and takes *-ni* for several people: *Karibuni!* Thompson and Schleicher translate it literally "come near!". *Pole!* "sorry", plural *Poleni!*, works the same way (lesson 2.8).
-- **Not for "don't...!".** A negative command is built on the subjunctive (*usisome* "don't read"), taught in lesson 4.10. Thompson and Schleicher note that commands with object prefixes also use the subjunctive (lesson 4.9).
+- **Not for "don't...!".** A negative command is built on the subjunctive (*usisome* "don't read"), taught in lesson 4.11. Thompson and Schleicher note that commands with object prefixes also use the subjunctive (lesson 4.10).
 
 ## Watch out
 
@@ -193,13 +193,13 @@ confidence: constructed
 
 **Do not use the singular for a group.** *Soma!* to a whole class tells one person. Use *Someni!* And do not use *Someni!* to one person, however politely.
 
-**Do not add a subject prefix to make it "you".** *\*Usoma!* and *\*Unasoma!* are not commands; the second is a statement, "you are reading". The command has no prefix. (A form with *u-* and final *-e*, *usome*, exists: it is the subjunctive of lesson 4.9.)
+**Do not add a subject prefix to make it "you".** *\*Usoma!* and *\*Unasoma!* are not commands; the second is a statement, "you are reading". The command has no prefix. (A form with *u-* and final *-e*, *usome*, exists: it is the subjunctive of lesson 4.10.)
 
-**Do not negate a command with the negative present.** *\*Husomi!* means "you don't read", a statement. "Don't read!" needs the subjunctive, *Usisome!*, taught in lesson 4.10.
+**Do not negate a command with the negative present.** *\*Husomi!* means "you don't read", a statement. "Don't read!" needs the subjunctive, *Usisome!*, taught in lesson 4.11.
 
 **Do not confuse the two kinds of *-ni*.** In *nendeni nyumbani*, the first *-ni* means "you (several)" and the second means "at" (the place ending of lesson 3.13). They sound alike and do different jobs.
 
-**Do not command elders.** A bare *Njoo!* to a grandparent or a teacher is rude. Almasi and colleagues say Swahili speakers use requests, not commands, with their elders. Until lesson 4.9, add *tafadhali* and keep commands for equals and children.
+**Do not command elders.** A bare *Njoo!* to a grandparent or a teacher is rude. Almasi and colleagues say Swahili speakers use requests, not commands, with their elders. Until lesson 4.10, add *tafadhali* and keep commands for equals and children.
 
 **Do not confuse *rudi* and *rudia*.** *Rudi!* (loan verb) is "come back!"; *Rudia!* (native verb with final *-a*) is "repeat!". Their plurals are *rudini!* and *rudieni!*
 

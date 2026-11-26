@@ -175,7 +175,7 @@ preview: C7
 ## Where it applies
 
 - **Happening now.** *Ninasoma* "I'm reading (at the moment)".
-- **Happening generally or regularly.** *Ninasoma* can also be "I read", "I study (these days)". Thompson and Schleicher stress that *-na-* serves both and the context chooses. A separate habitual form exists (lesson 4.12), but *-na-* is the everyday choice.
+- **Happening generally or regularly.** *Ninasoma* can also be "I read", "I study (these days)". Thompson and Schleicher stress that *-na-* serves both and the context chooses. A separate habitual form exists (lesson 4.13), but *-na-* is the everyday choice.
 - **A process under way.** Wiktionary's example translates *wanalala* as "they are falling asleep": *-na-* can describe a change in progress.
 - **Every person, and any class 1 or 2 noun.** The six subject prefixes, plus *a-* and *wa-* after any person noun or name: *Amina anapika*.
 - **Thing subjects.** Every class has its own subject prefix, used in exactly this slot. Part 3 adds them class by class: the book "it" will be *ki-*, not *a-*.
@@ -199,7 +199,7 @@ preview: C7
 
 **Do not build "I want to sleep" with two tensed verbs.** *\*Ninataka ninalala* is wrong. The second verb is an infinitive: *Ninataka kulala*.
 
-**You will hear *nasoma* for *ninasoma*.** In everyday speech the *ni-* is often dropped before *-na-*. Wiktionary's tables list both. This guide writes the full standard form; lesson 7.11 explains why the short form can be confused with another tense.
+**You will hear *nasoma* for *ninasoma*.** In everyday speech the *ni-* is often dropped before *-na-*. Wiktionary's tables list both. This guide writes the full standard form; lesson 7.12 explains why the short form can be confused with another tense.
 
 **Verbs of one syllable keep *ku-*.** "I am eating" is *ninakula*, not *\*ninala*, because a stem like *-la* "eat" is too short. Almasi and colleagues list these verbs (*-la*, *-nywa*, *-ja*...) as keeping their *ku-* after *-na-*. Lesson 4.4 explains it. Until then they appear only as infinitives and in the negative.
 

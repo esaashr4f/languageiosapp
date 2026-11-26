@@ -175,7 +175,7 @@ confidence: constructed
 - **Short forms after *na***: "with me" (*yuko nami*), "and you" (*mimi nawe*), and *nami pia* "me too". With things: *nacho*, *nalo*, *nayo*, *nazo*, *navyo*, *nao*.
 - **Short answers with "have"**: *ninayo*, *ninacho*, *tunavyo*, and the negatives *sinacho*, *hatunayo*. Choose the ending by the class of the thing asked about.
 - **"Alone, by myself"**: *peke yangu*, *peke yako*, *peke yake*, *peke yetu*, *peke yenu*, *peke yao* (Polomé, Wiktionary).
-- **"Together"**: *pamoja* "together" (Wiktionary: *pa-* + *moja* "one"), and *pamoja na* "together with": *pamoja nami* "together with me" (Polomé).
+- **"Together"**: *pamoja* "together" (Wiktionary: *pa-* + *moja* "one"), and *pamoja na* "together with": *pamoja nasi* "together with us" (Polomé's *alikaa pamoja nasi* "he stayed with us").
 - **Word order** in every plain statement and yes-no question: subject, verb, object; time first or last; place after the object.
 
 ## Watch out

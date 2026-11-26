@@ -69,7 +69,7 @@ Each example and table has a small coloured dot. Tap it to see its label and sou
 
 ## Where the facts come from
 
-The grammar is checked against Göksel and Kerslake's *Turkish: A Comprehensive Grammar* (2005), the fullest modern reference grammar in English. This guide uses it to check facts. It does not copy its text or its examples.
+The grammar is checked against Göksel and Kerslake's *Turkish: A Comprehensive Grammar* (2005), a detailed modern reference grammar in English. This guide uses it to check facts. It does not copy its text or its examples.
 
 Every word form, every plural and every case form was checked against the Turkish entries of Wiktionary, which give full declension and conjugation tables. Spelling, meanings and the origin of loanwords follow the online dictionary of the Türk Dil Kurumu, the Turkish Language Association, which sets the standard spelling.
 

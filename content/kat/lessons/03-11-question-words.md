@@ -15,7 +15,7 @@ sources: [bolkvadze2023, wiktionary]
 
 Lesson 2-8 made yes-no questions out of statements. This lesson adds the other kind: questions with a **question word**, such as "who", "what", "where". Georgian builds them the way Japanese and Korean do: the question word stands where the answer would stand, in the same case, and nothing else changes. "Nino sees *Giorgi*" (*giorgis xedavs*) becomes "Whom does Nino see?" (*vis xedavs?*): *vis* is dative because *giorgis* is. Bolkvadze and Kiziria put it this way: the case of *vin* or *vis* is the case of the noun it stands for in the answer.
 
-There is one rule of position. Bolkvadze and Kiziria note that the question word usually opens the sentence and that the verb follows it directly: *sad cxovrob?* "where do you live?", *ras aḳeteb?* "what are you doing?". The voice rises on the question word itself; they place the stress on its first syllable.
+There is one rule of position. Bolkvadze and Kiziria note that the question word usually opens the sentence and that the verb follows it directly: *sad cxovrob?* "where do you live?", *ras aḳeteb?* "what are you doing?". They place the sentence stress on the first syllable of the question word. Hewitt describes the pitch differently, with a high fall on the verb's stressed syllable; listen for both.
 
 The second half of the lesson is the words for "someone", "nobody" and the like. Here too Georgian is systematic. Bolkvadze and Kiziria show that they are made from the question words with small additions:
 
@@ -256,13 +256,13 @@ source: bolkvadze2023 §7.5; wiktionary
 :::table
 caption: One question word, a family of indefinites
 confidence: verified
-source: bolkvadze2023 §7.7, §7.9; wiktionary
+source: bolkvadze2023 §7.7, §7.9, §10.2; wiktionary
 | Question | any (-me) | some (-ɣac) | no (ara-) |
 |---|---|---|---|
 | vin "who" | vinme | viɣac | aravin |
 | ra "what" | rame | raɣac | araperi |
 | sad "where" | sadme | sadɣac | arsad |
-| rodis "when" | odesme "ever" (from old odes "when") | — | arasdros "never" |
+| rodis "when" | odesme "ever" | odesɣac "once, long ago" | arasdros "never" |
 :::
 
 ## New words

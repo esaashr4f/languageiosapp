@@ -48,7 +48,7 @@ Neither change can be predicted from the bare form; the words are learnt one by 
 3. *Gömlek* ends in a consonant: no buffer. Last vowel *e*: *-i*. The *k* comes between vowels: *ğ*. *Gömleği.*
 4. Object before the verb: *Gömleği yıkıyorum.*
 
-**Word order.** A bare object must stand directly before the verb. An object placed further left normally takes the accusative even if it is not definite (goksel2005 §14.3.3.2: "usually necessary"): *Ali kitap okuyor*, but *Kitabı Ali okuyor* "It's Ali who's reading the book".
+**Word order.** A bare object must stand directly before the verb. An object placed further left normally takes the accusative even if it is not definite (goksel2005 §14.3.3.2): *Ali kitap okuyor*, but *Kitabı Ali okuyor* "It's Ali who's reading the book".
 
 **Stress.** *-(y)I* takes the stress like most suffixes: *kitabí*, *arabayí* (tur-01-07).
 
@@ -184,7 +184,7 @@ confidence: constructed
 - ***Kimse*** "anyone, no one" with a negative, and the question word *kim* "who" (tur-03-12): these are not definite, but they always take it as objects (goksel2005 §22.1): *Kimseyi tanımıyorum* "I don't know anyone".
 - **A specific indefinite**, with *bir*: *Bir öğrenciyi arıyorum* (goksel2005 §22.2.1).
 - **One of a group already mentioned**: if you have been talking about some books, *iki kitabı* is "two of the books" (goksel2005 §14.3.3.2).
-- **Any object not right before the verb**, whatever its meaning, as a rule: *Gazeteyi Mehmet okuyor* (goksel2005 §14.3.3.2).
+- **Any object not right before the verb**, as a rule: *Gazeteyi Mehmet okuyor* (goksel2005 §14.3.3.2).
 - **A plural object meaning a whole class**: *Kedileri sevmiyorum*, *Doktorları sevmiyor* (goksel2005 §22.4.3). A singular bare object can say the same: *Kedi sevmiyorum*.
 - **Something treated as an institution**: *Okulu sevmiyor* "he doesn't like school" (goksel2005 §22.4.3).
 - **An object with a possessive suffix**, always: *kitabımı* "my book" (tur-03-04).

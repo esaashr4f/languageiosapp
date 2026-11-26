@@ -36,9 +36,9 @@ Two refinements.
 
 First, words run together. A begadkefat letter at the start of a word is soft if the word before ends in a vowel and the two are said together without a pause: *wayhî-ḵēn* "and it was so". At the start of a verse or after a pause it is hard. Lesson 9 shows how the accents mark those pauses.
 
-Second, a few soft letters stand after a silent shewa, against step 3. *Malḵê* "kings of" has a soft k. Gesenius reports the explanation: the softening is older than the loss of the vowel. The form was once something like *malakai*; the k was softened after the second a, and only later did that vowel drop. History left the soft sound behind.
+Second, a few soft letters stand after a silent shewa, against step 3. *Malḵê* "kings of" has a soft k. Gesenius reports the explanation: the softening is older than the loss of the vowel. The form was once something like *malaḵê* (Gesenius writes *mălăkhê*, §21f); the k was softened after the second a, and only later did that vowel drop. History left the soft sound behind.
 
-Where does dagesh forte come from? Gesenius lists three sources. A consonant can be absorbed into the next one: *yittēn* "he will give" was once *yintēn*. Some patterns double a root letter as part of their meaning: *lāmaḏ* "he learned" but *limmaḏ* "he taught". And a short vowel can be kept short by doubling the consonant after it. Gutturals and resh never take dagesh forte (lesson 2).
+Where does dagesh forte come from? Gesenius lists three sources. A consonant can be absorbed into the next one: *yittēn* "he will give" was once *yintēn*. Some patterns double a root letter as part of their meaning: *lāmaḏ* "he learned" but *limmaḏ* "he taught". And a short vowel can be kept short by doubling the consonant after it. Gutturals and resh do not take dagesh forte (lesson 2; Gesenius lists a handful of exceptions with resh, §22s).
 
 ## Examples
 

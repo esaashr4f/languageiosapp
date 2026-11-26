@@ -170,7 +170,7 @@ confidence: verified
 
 **Mi- never merges in nouns.** *Miaka* is *mi-A-ka*, three syllables, stressed on the *a*. Do not reduce it to "myaka".
 
-**Not every vowel meeting merges.** Many loans keep both vowels: *maembe*, *maisha* "life". So do the names of peoples: Almasi and colleagues give *Mwarabu*, plural *Waarabu* "Arabs", and *Mwafrika*, plural *Waafrika* "Africans". Even *mwalimu* "teacher" has two plurals in Wiktionary, *walimu* and *waalimu*. A few native nouns also keep *ki-* before *a*: *kiatu* "shoe", plural *viatu*. The sources used here do not explain why. Learn the plural with the noun.
+**Not every vowel meeting merges.** Many loans keep both vowels: *maembe*, *maisha* "life". So do the names of peoples: Almasi and colleagues give *Mwarabu*, plural *Waarabu* "Arabs", and *Mwafrika*, plural *Waafrika* "Africans". Even *mwalimu* "teacher" has two plurals in Wiktionary, *walimu* and *waalimu*. A few native nouns also keep *ki-* before a vowel: *kiatu* "shoe", plural *viatu*, and *kioo* "mirror" from lesson 1. Polomé lists such words (*kiazi* "yam", *kioo*, *kiuno* "loin", *kiatu*) beside pairs like *chatu* "python" and *kiatu* "shoe", and treats them as a fixed exception, without a history. Learn the plural with the noun.
 
 **Ch- and vy- are clues, not proof.** *Chumba*, plural *vyumba*, is a *ki-* noun in disguise. But *chai* "tea" is not: it belongs to class 9, with no prefix at all. The plural is the test.
 
@@ -188,7 +188,7 @@ source: polome1967 §2.2.1.1, §2.2.1.2, §2.2.2.2; almasi2014 ch. 7; wiktionary
 | mi- (4) | no change | miaka, miezi | |
 | wa- (2) | a + a → a; a + e, a + i → e | wana, wenzi, wezi | names of peoples, many loans: Waarabu, waalimu |
 | ma- (6) | a + e, a + i → e | meno | many loans: maembe, maisha |
-| ki-, vi- (7, 8) | ch-, vy- | chumba, vyumba | before i: kiini, viini; also kiatu |
+| ki-, vi- (7, 8) | ch-, vy- | chumba, vyumba | before i: kiini, viini; also kiatu, kioo |
 | u- (11) | w- | wimbo | |
 | nasal (9, 10) | ny- | nyumba, nyimbo | |
 | ku- (infinitive) | usually no change; kw- in a few verbs | kuona; kwenda | |

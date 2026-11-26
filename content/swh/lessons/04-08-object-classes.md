@@ -27,7 +27,7 @@ Thompson and Schleicher give a third use: object prefix and noun together for co
 
 ### Object first
 
-Lesson 3.14 told you to keep subject, verb, object until now. Wpgrammar notes that because the verb carries both subject and object prefixes, the basic order can change to emphasise part of the sentence. The commonest change puts a known object at the front, as a topic: "This book, I've read it." When you do that, use the object prefix. It is what ties the fronted noun to its verb: *Kitabu hiki nimekisoma.* Without it, *kitabu hiki* would hang at the front with nothing in the verb pointing back to it.
+Lesson 3.14 told you to keep subject, verb, object until now. Wpgrammar notes that because the verb carries both subject and object prefixes, the basic order can change to emphasise part of the sentence. One such change puts a known object at the front, as a topic: "This book, I've read it." When you do that, use the object prefix. It is what ties the fronted noun to its verb: *Kitabu hiki nimekisoma.* Without it, *kitabu hiki* would hang at the front with nothing in the verb pointing back to it.
 
 ### The reflexive -ji-
 
@@ -136,7 +136,7 @@ orig: Nimepaona mahali.
 morphemes: ni-me-pa-on-a mahali
 gloss: 1SG.SM-PRF-C16.OM-see-FV place.C16
 translation: I've seen the place.
-note: Place classes have object prefixes too: -pa-, -ku-, -m(w)- (Almasi and colleagues).
+note: Place classes have object prefixes too: -pa-, -ku-, -m(w)- (Almasi and colleagues; Thompson and Schleicher and Wiktionary write the class 18 one -mu-).
 source: constructed
 confidence: constructed
 :::
@@ -186,7 +186,7 @@ preview: SBJV
 
 ## Where it applies
 
-- **Every class**: *-u-* (3, 11, 14), *-i-* (4, 9), *-li-* (5), *-ya-* (6), *-ki-* (7), *-vi-* (8), *-zi-* (10), *-ku-* (15, 17), *-pa-* (16), *-m(w)-* (18). Thompson and Schleicher give *anaupenda*, *anaipenda*, *analipenda*, *anayapenda*, *anakipenda*, *anavipenda*, *anazipenda* and so on.
+- **Every class**: *-u-* (3, 11, 14), *-i-* (4, 9), *-li-* (5), *-ya-* (6), *-ki-* (7), *-vi-* (8), *-zi-* (10), *-ku-* (15, 17), *-pa-* (16), *-m(w)-* or *-mu-* (18). Thompson and Schleicher give *anaupenda*, *anaipenda*, *analipenda*, *anayapenda*, *anakipenda*, *anavipenda*, *anazipenda* and so on.
 - **A known or particular thing**: *Nimekisoma kitabu*, especially with *hiki*, *changu* and the like (Almasi and colleagues).
 - **"It, them" for a thing already mentioned**: *Nimelileta*. *Walivinunua.*
 - **Contrast**: *Alizitaka ndizi.*
@@ -231,7 +231,7 @@ source: thompson2001 pp. 245–246; almasi2014 ch. 11; wiktionary, Appendix:Swah
 | 11, 14 | -u- | anaupenda |
 | 15, 17 | -ku- | anakupenda |
 | 16 | -pa- | anapapenda |
-| 18 | -mu- | anamupenda |
+| 18 | -mu- (Almasi: -m(w)-) | anamupenda |
 | reflexive | -ji- | anajipenda |
 :::
 

@@ -71,7 +71,7 @@ confidence: verified
 
 Classical Sanskrit has no community of native speakers to ask. Everything known about it comes from texts and from the grammarians. This guide therefore tells you where each example comes from. In the app, each example and table has a small coloured dot. Tap it to see the label and the source.
 
-- **attested**: a real line from a real text, cited by work and passage, as edited in a critical edition. Translations are always this guide's own.
+- **attested**: a real line from a real text, cited by work and passage, as printed in an edition (a critical edition wherever one exists). Translations are always this guide's own.
 - **constructed**: a sentence built for this guide from rules and words that have each been checked. Early lessons use mostly constructed examples, because real lines use too much grammar at once. As the guide goes on, attested lines take over.
 - **verified**: a form or table checked against a named source.
 - **uncertain**: the sources disagree, or the form is a reconstruction. The lesson says so in words as well.
@@ -81,9 +81,9 @@ Classical Sanskrit has no community of native speakers to ask. Everything known 
 
 The grammar follows two standard reference works that are free to read: William Dwight Whitney's *Sanskrit Grammar* (2nd edition, 1889) and Arthur Macdonell's *Sanskrit Grammar for Students* (3rd edition, 1927). Section numbers such as "Whitney §9" point to Whitney. Syntax, the uses of the cases and moods, follows J. S. Speijer's *Sanskrit Syntax* (1886).
 
-Meanings follow Monier-Williams's *Sanskrit-English Dictionary* (1899), with Apte's *Practical Sanskrit-English Dictionary* (1890) as a second opinion. Individual inflected forms were checked against the Sanskrit tables of Wiktionary, and where needed against the declension engines of the Sanskrit Heritage Site.
+Meanings follow Monier-Williams's *Sanskrit-English Dictionary* (1899), with Apte's *Practical Sanskrit-English Dictionary* (1890) as a second opinion. Individual inflected forms were checked against the Sanskrit tables of Wiktionary, and against Monier-Williams for forms the tables do not give. The declension engines of the Sanskrit Heritage Site are a further check you can run yourself.
 
-Attested lines come from GRETIL, the Göttingen register of Sanskrit e-texts, which transcribes the critical editions: the Poona edition of the Mahābhārata (which includes the Gītā and Nala), the Baroda edition of the Rāmāyaṇa, and others. The Digital Corpus of Sanskrit, which splits texts into words and counts them, guides the choice of vocabulary towards the most frequent words.
+Attested lines come from GRETIL, the Göttingen register of Sanskrit e-texts, which transcribes the critical editions: the Poona edition of the Mahābhārata (which includes the Gītā and Nala), the Baroda edition of the Rāmāyaṇa, and others. The Digital Corpus of Sanskrit splits texts into words and counts them: use it to see how a line divides and how common a word is.
 
 ## How much to memorise
 

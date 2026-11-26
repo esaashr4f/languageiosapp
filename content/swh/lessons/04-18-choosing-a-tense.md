@@ -181,7 +181,7 @@ The questions above apply to every finite verb. Some common English patterns and
 
 ## Watch out
 
-**Do not copy English tense names.** English "present perfect" is not always *-me-*. "I have lived here for years" describes a situation still going on, not a completed action: *\*Nimeishi hapa* misses that. Use the compound of lesson 4.16, *nimekuwa nikiishi hapa* "I have been living here". Ask whether a completed action matters now.
+**Do not copy English tense names.** English "present perfect" is not always *-me-*. "I have lived here for years" describes a situation still going on, not a completed action; *nimeishi hapa* would present it as done. Use the compound of lesson 4.16, *nimekuwa nikiishi hapa* "I have been living here". Ask whether a completed action matters now.
 
 **Not *\*Nilichoka* for "I was tired".** That is "I got tired". A past state is *nilikuwa nimechoka* (lesson 4.6).
 

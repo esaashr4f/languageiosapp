@@ -15,11 +15,11 @@ sources: [hewitt1995, aronson1990, bolkvadze2023, wiktionary]
 
 A **cluster** is a run of consonants with no vowel between them, like the *str* of "street". English allows three at the start of a word. Georgian allows far more. Hewitt reports Hans Vogt's count of the clusters that can begin a Georgian word: 740 in all, of which 148 have four consonants, 21 have five and 4 have six. Bolkvadze and Kiziria give *brdɣvna* "plucking" as a six-consonant cluster inside a single root.
 
-Clusters grow longer when pieces of words meet. *c̣vrtna* "training" already starts with four consonants; add the prefix *m-* that makes "one who does it" and you get *mc̣vrtneli* "trainer", with five. They also arise when a vowel drops out of a word: *mgeli* "wolf" has the form *mglis* "of the wolf". Part 3 explains that drop.
+Clusters grow longer when pieces of words meet. *c̣vrtna* "training" already starts with four consonants; *mc̣vrtneli* "trainer", built on it with a prefix *m-*, starts with five. They also arise when a vowel drops out of a word: *mgeli* "wolf" has the form *mglis* "of the wolf". Part 3 explains that drop.
 
 The rule from lesson 1-1 holds throughout: consonants never make a syllable. Hewitt says sonants, the consonants *m*, *n*, *l*, *r*, have "no syllable-forming capacity" in clusters. *mc̣vrtneli* has three vowels and three syllables. Do not add vowels to break a cluster up.
 
-## Two kinds of cluster
+### Two kinds of cluster
 
 Most clusters are said one consonant after another, each with its own release. Aronson's example is *tbilisi*: you hear an aspirated *t* with its puff, then a voiced *b*.
 
@@ -164,7 +164,7 @@ translit: mc̣vrtneli
 morphemes: mc̣vrtneli
 gloss: trainer
 translation: trainer, coach
-note: Five consonants before the first vowel. Wiktionary notes that the r may be lost in speech, between the voiceless consonants.
+note: Five consonants before the first vowel. Wiktionary marks the r as one that may be lost in speech, between voiceless consonants.
 source: wiktionary
 confidence: verified
 :::
@@ -223,7 +223,7 @@ source: bolkvadze2023 §3.1.4; hewitt1995 §2.1.1.1
 
 ## Connections
 
-Korean and Japanese allow almost no clusters, so this lesson is new ground for both. Spanish helps a little: *tr*, *pl* and *bl* are clusters, and Spanish speakers already avoid adding vowels inside them. Russian, the main European language Georgians learn, also allows long clusters, which is one reason Georgian sounds less strange to Russian ears.
+Korean and Japanese allow almost no clusters, so this lesson is new ground for both. Spanish helps a little: *tr*, *pl* and *bl* are clusters, and Spanish speakers already avoid adding vowels inside them.
 
 ## Exercises
 

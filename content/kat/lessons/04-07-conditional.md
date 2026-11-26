@@ -227,7 +227,7 @@ Spanish and French build their conditional from the future stem with the imperfe
 3. Say "We'd gladly see you (one person) off."
 4. Say "Grandmother would bake a cake, but there is no flour."
 5. What is the difference between *vxaṭavdi*, *davxaṭav* and *davxaṭavdi*?
-6. Correct *\*Bavšvebma ṭorṭi šeč̣amdnen* and *\*Gavaḳeteb, magram dro ar aris* (meaning "I would do it").
+6. Correct *\*Bavšvebma namcxvari šeč̣amdnen* and *\*Gavaḳeteb, magram dro ar aris* (meaning "I would do it").
 7. Correct *\*Zapxulši gavcuravdit xolme* (meaning "in summer we would swim, as a habit").
 8. Translate *Ṭelevizors čavrtavdi, magram šuki ar aris; santels avantebdi, magram santeli ar aris.*
 
@@ -238,6 +238,6 @@ Spanish and French build their conditional from the future stem with the imperfe
 3. *Siamovnebit gagacilebdit.* Future *gaacilebs*; object "you" *g-* after the preverb; *-di-t* because "we" is plural.
 4. *Bebia namcxvars gamoacxobda, magram pkvili ar aris.* Future *gamoacxobs* + *-da*.
 5. *Vxaṭavdi* is the imperfect, "I was drawing"; *davxaṭav* is the future, "I will draw"; *davxaṭavdi* is the conditional, "I would draw".
-6. The conditional keeps the present cases, and "cake" in this guide is *namcxvari*: *bavšvebi namcxvars šeč̣amdnen* "the children would eat the cake". "Would do" needs the *-di*: *gavaḳetebdi, magram dro ar aris*.
+6. The conditional keeps the present cases, nominative subject and dative object: *bavšvebi namcxvars šeč̣amdnen* "the children would eat the cake". "Would do" needs the *-di*: *gavaḳetebdi, magram dro ar aris*.
 7. A past habit is the imperfect, without a preverb: *zapxulši vcuravdit xolme*.
 8. "I would switch on the television, but there's no electricity; I'd light a candle, but there's no candle." *Ča-v-rt-av-di*, *a-v-ant-eb-di*: future + *-di*.

@@ -47,7 +47,7 @@ Say "if you had been here, my brother would not have died".
 
 1. Past, and false: past contrary to fact.
 2. Pluperfect subjunctive in both clauses.
-3. *Sī hīc fuissēs, frāter meus nōn fuisset mortuus.* (This is Martha's sentence in the Vulgate, below.)
+3. *Sī hīc fuissēs, frāter meus nōn fuisset mortuus.* (Martha's sentence in the Vulgate, below.)
 
 Say "if I were rich, I would buy a house".
 

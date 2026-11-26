@@ -60,11 +60,11 @@ Without a negative, *dubitō* takes an indirect question: *dubitō an veniat* "I
 ## Examples
 
 :::example
-orig: Sunt quī discessum animī ā corpore putent esse mortem.
-morphemes: sunt quī discess-um anim-ī ā corpor-e put-e-nt es-se mort-em
-gloss: be.3PL REL.NOM.PL.M departure-ACC.SG soul-GEN.SG from body-ABL.SG think-SBJV-3PL be-INF death-ACC.SG
-translation: There are those who think that death is the departure of the soul from the body.
-note: sunt quī + subjunctive: a kind of people, not named (ag1903 §535a, which quotes this). Cicero goes on: "there are those who think there is no departure".
+orig: Sunt enim quī discessum animī ā corpore putent esse mortem.
+morphemes: sunt enim quī discess-um anim-ī ā corpor-e put-e-nt es-se mort-em
+gloss: be.3PL for REL.NOM.PL.M departure-ACC.SG soul-GEN.SG from body-ABL.SG think-SBJV-3PL be-INF death-ACC.SG
+translation: For there are those who think that death is the departure of the soul from the body.
+note: sunt quī + subjunctive: a kind of people, not named (ag1903 §535a, which quotes this without enim "for"). Cicero goes on: "there are those who think there is no departure".
 source: Cicero, Tusculan Disputations 1.18
 confidence: attested
 :::

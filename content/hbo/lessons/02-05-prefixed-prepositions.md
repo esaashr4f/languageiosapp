@@ -31,7 +31,7 @@ These prefixes are glossed with the English preposition, joined by `=`: *bə=rē
 The three behave alike. Look at the start of the noun (Gesenius §102d–i).
 
 1. **Before a consonant with a full vowel: shewa.** *lə=śārâ* "to Sarah", *kə=ʿammî* "like my people".
-2. **Before a consonant with shewa: ḥireq.** Two shewas cannot open a word (lesson 1.5), so the old vowel returns as *i*: *li=p̄rî* "for fruit" (§102d). Before *yə*, the *i* merges with the yod: *bə* + *yərûšālayim* → *bîrûšālayim* "in Jerusalem".
+2. **Before a consonant with shewa: ḥireq.** Two shewas cannot open a word (lesson 1.5), so the old vowel returns as *i*: *li=šmûʾēl* "to Samuel" (§102d). Before *yə*, the *i* merges with the yod: *bə* + *yərûšālayim* → *bîrûšālayim* "in Jerusalem".
 3. **Before a ḥaṭep̄ vowel: that vowel in full.** *ka=ʾărî* "like a lion" (§102d). With *ʾĕlōhîm* the two syllables contract to *ē*: *bēʾlōhîm*, *lēʾlōhîm*, *kēʾlōhîm* (§102d).
 4. **Before the divine name: *a*.** The name is read *ʾăḏōnāy*, so the prefix is pointed for that reading: *laYHWH*, read *laʾḏōnāy* (§102m).
 5. **Before the article, the *h* drops out and the prefix takes the article's vowel and doubling.** *bə* + *haššāmayim* → *baššāmayim*; *lə* + *hāʾôr* → *lāʾôr*; *bə* + *hehārîm* → *behārîm* (Gesenius §35n). A guttural keeps its effect on the vowel: *lāʾôr*, not *\*laʾʾôr*.
@@ -79,7 +79,7 @@ translit: mēʾarṣəḵā ûmimmôlaḏtəḵā ûmibbêṯ ʾāḇîḵā
 morphemes: mē=ʾarṣ-əḵā û=mi=mmôlaḏt-əḵā û=mi=bbêṯ ʾāḇî-ḵā
 gloss: from=land-2SG.M and=from=kindred-2SG.M and=from=house.of father-2SG.M
 translation: from your land, from your kindred, from your father's house
-note: The call of Abram. mē- before alef; mi- with doubling before m and b. û- "and" before the prefix with shewa... here before mi-, which has a full vowel, it is û- because m is a lip consonant (lesson 2.3). Preview of the suffix -əḵā "your" (part 3).
+note: The call of Abram. mē- before alef; mi- with doubling before m and b. "And" is û- here because the next letter, m, is a lip consonant (lesson 2.3). Preview of the suffix -əḵā "your" (part 3).
 source: Genesis 12:1 (WLC)
 confidence: attested
 :::
@@ -213,7 +213,7 @@ confidence: attested
 
 **Not *\*ləʾĕlōhîm*.** The prefix and the ḥaṭep̄ segol contract: *lēʾlōhîm*, *bēʾlōhîm*, *kēʾlōhîm*.
 
-**Do not use a verb for "have".** Spanish *tener* and French *avoir* lead to *\*ʾāḥaz* or some other verb. Hebrew says "to Laban (are) two daughters": *ləlāḇān šətê ḇānôṯ*.
+**Do not use a verb for "have".** Spanish *tener* and French *avoir* tempt you to look for a verb, but there is none for plain possession. Hebrew says "to Laban (are) two daughters": *ləlāḇān šətê ḇānôṯ*.
 
 **Do not use *lə-* for every "to".** "To" with verbs of motion towards a place or person is usually *ʾel*; *ʿal* is "on, over". Spanish *a* and French *à* cover all of these; Hebrew splits them.
 
@@ -228,11 +228,11 @@ confidence: attested
 :::table
 caption: bə-, lə-, kə- before different beginnings (shown with lə-)
 confidence: verified
-source: gkc1910 §102d–m, §35n; oshb
+source: gkc1910 §102d–m, §35n; oshb (forms checked in WLC)
 | Before | Form | Example | Translit |
 |---|---|---|---|
 | full vowel | lə | לְשָׂרָה | ləśārâ |
-| shewa | li | לִפְרִי | lip̄rî |
+| shewa | li | לִשְׁמוּאֵל | lišmûʾēl |
 | yə | lî | לִיהוּדָה | lîhûḏâ |
 | ḥaṭep̄ vowel | its full vowel | לַאֲנָשִׁים | laʾănāšîm |
 | ʾĕlōhîm | lē | לֵאלֹהִים | lēʾlōhîm |

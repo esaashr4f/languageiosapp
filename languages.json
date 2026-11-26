@@ -1,5 +1,5 @@
 {
- "count": 149,
+ "count": 156,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1329,6 +1329,72 @@
    "depth": "B",
    "notes": "Achaemenid documents (Elephantine papyri) and the Aramaic of Daniel and Ezra; the hub for Syriac, Jewish Babylonian Aramaic and Mandaic; cross-link Biblical Hebrew and Akkadian",
    "iso_note": "ISO name: Official Aramaic (700–300 BCE); Biblical Aramaic included"
+  },
+  {
+   "number": 150,
+   "name": "Chagatai",
+   "iso": "chg",
+   "group": "Dead and classical",
+   "script": "Perso-Arabic + transliteration",
+   "depth": "B",
+   "notes": "Classical Central Asian Turkic: Navoi, Babur's Baburnama; cross-link Uzbek, Uyghur, Ottoman Turkish, Persian"
+  },
+  {
+   "number": 151,
+   "name": "Oscan",
+   "iso": "osc",
+   "group": "Dead and classical",
+   "script": "Oscan alphabet + Latin + transliteration",
+   "depth": "C",
+   "notes": "Inscriptions (Tabula Bantina, Cippus Abellanus); Sabellic sister of Latin; established vs probable stated; cross-link Latin and Umbrian"
+  },
+  {
+   "number": 152,
+   "name": "Umbrian",
+   "iso": "xum",
+   "group": "Dead and classical",
+   "script": "Umbrian alphabet + Latin + transliteration",
+   "depth": "C",
+   "notes": "The Iguvine Tables; cross-link Latin and Oscan"
+  },
+  {
+   "number": 153,
+   "name": "Elamite",
+   "iso": "elx",
+   "group": "Dead and classical",
+   "script": "Cuneiform intro + transliteration",
+   "depth": "C",
+   "notes": "Isolate; Achaemenid Persepolis texts and royal inscriptions; known vs guessed stated; cross-link Old Persian and Akkadian",
+   "deferred": true
+  },
+  {
+   "number": 154,
+   "name": "Tangut",
+   "iso": "txg",
+   "group": "Dead and classical",
+   "script": "Tangut script + reconstruction",
+   "depth": "C",
+   "notes": "Xi Xia empire; logographic script; reconstructions disputed; cross-link Classical Chinese and Tibetan",
+   "deferred": true
+  },
+  {
+   "number": 155,
+   "name": "Khotanese",
+   "iso": "kho",
+   "group": "Dead and classical",
+   "script": "Brahmi + transliteration",
+   "depth": "C",
+   "notes": "Middle Iranian Buddhist texts from Khotan; cross-link Sanskrit, Avestan, Middle Persian",
+   "deferred": true
+  },
+  {
+   "number": 156,
+   "name": "Old Tibetan",
+   "iso": "otb",
+   "group": "Dead and classical",
+   "script": "Tibetan + Wylie",
+   "depth": "B",
+   "notes": "Imperial-era inscriptions and Dunhuang documents (Old Tibetan Annals); cross-link Classical Tibetan"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

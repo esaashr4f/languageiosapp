@@ -13,7 +13,7 @@ sources: [ag1903, wiktionary, thelatinlibrary, weiss2020, sihler1995]
 
 ## The idea
 
-Latin has two everyday past tenses, and they do not divide the past by time. They divide it by how the speaker looks at the action. This lesson gives the first, the **imperfect**: a past tense that shows an action as going on, repeated, or simply the state of things at the time. Its name means "not completed": the action is seen from inside, still in progress. The other past tense, the perfect, comes in lesson 6, and lesson 7 shows how to choose between them.
+Latin has two everyday past tenses, and they do not divide the past by time. They divide it by how the speaker looks at the action. This lesson gives the first, the **imperfect**: a past tense that shows an action as going on, repeated, or as the state of things at the time. Its name means "not completed": the action is seen from inside, still in progress. The other past tense, the perfect, comes in lesson 6, and lesson 7 shows how to choose between them.
 
 Allen and Greenough put it in one line: the imperfect "represents a present tense transferred to past time" (ag1903 §471). Everything the present does for now, the imperfect does for then. *Rēx regit* is "the king rules" or "the king is ruling"; *rēx regēbat* is "the king was ruling", "the king used to rule", or "the king ruled" in the sense "was the ruler at that time".
 
@@ -31,7 +31,7 @@ The imperfect is built on the present stem, the second principal part minus *-re
 4. **Add the person ending.** The first person singular is *-m*, not *-ō*: *amābam* "I was loving". The other five are the endings you know: *-s*, *-t*, *-mus*, *-tis*, *-nt*.
 5. **Check the length of *ā*.** It is shortened before *-m*, *-t* and *-nt*, the same rule as in part 2 (ag1903 §167): *amābam*, *amābat*, *amābant*, but *amābās*, *amābāmus*, *amābātis*.
 
-Say "the farmers were working in the fields". The verb is *labōrō, labōrāre*: stem *labōrā-*. Add *-bā-*, then *-nt* for "they", with *a* short before *nt*: *labōrābant*. *Agricolae* is not in your vocabulary, so say "the slaves": *Servī in agrīs labōrābant.*
+Say "the slaves were working in the fields". The verb is *labōrō, labōrāre*: stem *labōrā-*. Add *-bā-*, then *-nt* for "they", with *a* short before *nt*: *labōrābant*. *Servī in agrīs labōrābant.*
 
 Say "I used to read books". *Legō, legere*: stem *lege-*, lengthened to *legē-*. Add *-bā-* and *-m*: *legēbam*. *Librōs legēbam.*
 
@@ -145,8 +145,8 @@ preview: numeral
 
 :::example
 orig: Hī ad utramque rīpam flūminis agrōs, aedificia vīcōsque habēbant.
-morphemes: hī ad utram=que rīp-am flūmin-is agr-ōs aedifici-a vīc-ōs=que habē-ba-nt
-gloss: this.NOM.PL.M at each.ACC.SG.F=of.two bank-ACC.SG river-GEN.SG field-ACC.PL building-ACC.PL village-ACC.PL=and have-IPFV-3PL
+morphemes: hī ad utramque rīp-am flūmin-is agr-ōs aedifici-a vīc-ōs=que habē-ba-nt
+gloss: this.NOM.PL.M at each.of.two.ACC.SG.F bank-ACC.SG river-GEN.SG field-ACC.PL building-ACC.PL village-ACC.PL=and have-IPFV-3PL
 translation: These people had fields, buildings and villages on both banks of the river.
 note: Caesar on the Menapii, a Gallic tribe on the Rhine. The imperfect describes how things stood. uterque "each of two" is a pronominal adjective, a preview (part 5); aedificium "building" and vīcus "village" are glossed here.
 source: Caesar, Gallic War 4.4.2
@@ -170,7 +170,7 @@ Allen and Greenough list the imperfect's uses (ag1903 §§470-471). Each is a pr
 
 ## Watch out
 
-**Do not use the imperfect for a single completed event.** "Caesar crossed the river" in a narrative of what happened is not *\*Caesar flūmen trānsībat*, which would mean "was crossing" or "tried to cross". The plain event is the perfect (lesson 6). The Spanish and French imperfects (*cantaba*, *chantait*) are close to the Latin in meaning, so trust that instinct.
+**Do not use the imperfect for a single completed event.** "Caesar took the city" in a narrative of what happened is not *\*Caesar urbem capiēbat*, which would mean "was taking" or "tried to take". The plain event is the perfect (lesson 6). The Spanish and French imperfects (*cantaba*, *chantait*) are close to the Latin in meaning, so trust that instinct.
 
 **Do not write *-bō* in the first person.** *\*Amābō* is not "I was loving"; it is the future "I shall love" (lesson 5 of this part). The imperfect "I" ends in *-m*: *amābam*.
 
@@ -229,7 +229,7 @@ omnīnō | - | adverb | altogether, in all; at all |
 
 ## Connections
 
-Spanish and French kept the imperfect and its meaning: Latin *amābam*, Spanish *amaba*, Italian *amavo*, and Spanish *-aba* still has the Latin *b*. French *aimait* has lost it. Russian and the other Slavic languages make a similar split between "was doing" and "did" inside the verb itself, as aspect pairs; Latin makes it with two tenses.
+Spanish and French kept the imperfect and its meaning: Latin *amābam*, Spanish *amaba*, Italian *amavo*, and Spanish *-aba* still has the Latin *b*. French *aimait* has lost it. Japanese says "was doing" with a helping verb, *-te ita*; Latin builds the same meaning into one form with *-bā-*.
 
 ## Exercises
 
@@ -240,7 +240,7 @@ Spanish and French kept the imperfect and its meaning: Latin *amābam*, Spanish 
 5. Take apart *claudēbātis* and *eram*.
 6. Translate *Iam diū flēbat*, and explain why English needs "had been".
 7. Correct *\*Puerī in viā currēbānt* and *\*Hostēs fugēbant*.
-8. Say "the poet used to be poor and wretched", and explain why "poor" can use *miser* here and why the adjective is nominative.
+8. Say "the poet used to be wretched", and explain why the adjective is nominative and masculine.
 9. Why does the imperfect marker contain a *b*? Give the explanation and say how certain it is.
 
 ## Worked answers
@@ -252,5 +252,5 @@ Spanish and French kept the imperfect and its meaning: Latin *amābam*, Spanish 
 5. *Claudē-bā-tis*: third conjugation (*claudō, claudere*), imperfect, second person plural, "you (more than one) were shutting"; the *ā* is long before *-tis*. *Eram*: imperfect of *sum*, first person singular, "I was"; no *-bā-*, and *er-* from older *es-* (ag1903 §170).
 6. "She had been weeping for a long time." The weeping began before the past moment of the story and was still going on then, so English uses "had been"; Latin uses the imperfect (ag1903 §471b).
 7. *Puerī in viā currēbant*: the *a* is short before *-nt*. *Hostēs fugiēbant*: an -iō verb keeps its *i*: *fugiē-*.
-8. *Poēta quondam miser erat.* *Miser* can mean poor in the sense "wretched, badly off". It is nominative because after *erat* the adjective describes the subject (part 2, lesson 5); masculine because *poēta* is masculine (part 2, lesson 7).
+8. *Poēta quondam miser erat.* *Miser* is nominative because after *erat* the adjective describes the subject (part 2, lesson 5); masculine because *poēta* is masculine (part 2, lesson 7).
 9. The *b* goes back to the Indo-European root *\*bʰuH-* "be, become", the root of *fuī* (Wiktionary, *-bam*). Allen and Greenough think the marker was once a separate verb, "I was", joined to a noun-like form of the main verb (ag1903 §168). The root is agreed; how exactly the form was put together is debated (Weiss; Sihler), so treat that part as a likely explanation, not a fact.

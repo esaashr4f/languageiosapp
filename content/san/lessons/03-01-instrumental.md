@@ -45,25 +45,25 @@ Test it on the words you know:
 - *ratha* + *-ena*: the *r* is followed by *th*, a dental, which blocks. Result: *rathena*, with dental *n*.
 - *deva*, *bāla*, *hasta*: no trigger at all. *devena*, *bālena*, *hastena*.
 
-The same rule now lets you use neuter plurals you had to avoid in part 2: *puṣpāṇi* "flowers", *kṣetrāṇi* "fields", *netrāṇi* "eyes" (Wiktionary पुष्प, क्षेत्र, नेत्र). Inside a word you never choose: the rule always applies. It does not reach across a space into the next word.
+The same rule now lets you use neuter plurals you had to avoid in part 2: *puṣpāṇi* "flowers", *kṣetrāṇi* "fields", *netrāṇi* "eyes" (Wiktionary पुष्प, क्षेत्र, नेत्र).
 
 **From meaning to form.** "The boy touches the fruit with his hand."
 
-1. The verb: √spṛś "touch", *spṛśati* (san-02-06's sandhi lesson used it; class 6).
+1. The verb: √spṛś "touch", *spṛśati* (san-02-02; class 6).
 2. The doer: *bālaḥ*, nominative.
 3. What is touched: *phalam*, accusative.
 4. What he touches it with: *hasta*, instrumental singular. Is there a trigger in *hasta*? No. *hastena*.
 5. Order: subject first, verb last, the instrumental before the object: *bālaḥ hastena phalam spṛśati*.
 6. Joins (san-02-06): *bālaḥ* before *h*, a voiced sound: *bālo*. *phalam* before *s*: *phalaṃ*. Result: *bālo hastena phalaṃ spṛśati*.
 
-"His" is not expressed. Sanskrit leaves out the owner when it is obvious, as Spanish does with *se lava las manos*.
+"His" is not expressed: Sanskrit leaves out an obvious owner.
 
 **With *saha*.** To say "together with" a person, Sanskrit can use the instrumental alone, but more often it adds the word *saha* "with", which stands after the noun (Whitney §279, §284): *śiṣyaiḥ saha* "with the pupils". *saha* never changes its form, and it does not govern any other case.
 
 ## Examples
 
 :::example
-orig: AUTO
+orig: बालो हस्तेन फलं स्पृशति
 translit: bālo hastena phalaṃ spṛśati
 morphemes: bāl-aḥ hast-ena phal-am spṛśa-ti
 gloss: boy-NOM.SG hand-INS.SG fruit-ACC.SG touch-3SG
@@ -74,7 +74,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: वीरः खड्गेन सर्पं ताडयति
 translit: vīraḥ khaḍgena sarpaṃ tāḍayati
 morphemes: vīr-aḥ khaḍg-ena sarp-am tāḍaya-ti
 gloss: hero-NOM.SG sword-INS.SG snake-ACC.SG strike-3SG
@@ -85,7 +85,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: नृपो रथेन नगरं गच्छति
 translit: nṛpo rathena nagaraṃ gacchati
 morphemes: nṛp-aḥ rath-ena nagar-am gaccha-ti
 gloss: king-NOM.SG chariot-INS.SG town-ACC.SG go-3SG
@@ -96,7 +96,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: योधः शरेण मृगं ताडयति
 translit: yodhaḥ śareṇa mṛgaṃ tāḍayati
 morphemes: yodh-aḥ śar-eṇa mṛg-am tāḍaya-ti
 gloss: warrior-NOM.SG arrow-INS.SG deer-ACC.SG strike-3SG
@@ -107,7 +107,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: आचार्यः शिष्यैः सह वनं गच्छति
 translit: ācāryaḥ śiṣyaiḥ saha vanaṃ gacchati
 morphemes: ācāry-aḥ śiṣy-aiḥ saha van-am gaccha-ti
 gloss: teacher-NOM.SG pupil-INS.PL with forest-ACC.SG go-3SG
@@ -118,7 +118,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: कन्या मालाभिर् गृहं भूषयति
 translit: kanyā mālābhir gṛhaṃ bhūṣayati
 morphemes: kany-ā māl-ābhiḥ gṛh-am bhūṣaya-ti
 gloss: girl-NOM.SG garland-INS.PL house-ACC.SG adorn-3SG
@@ -129,30 +129,30 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: नरः स्कन्धेन भारं वहति
 translit: naraḥ skandhena bhāraṃ vahati
 morphemes: nar-aḥ skandh-ena bhār-am vaha-ti
 gloss: man-NOM.SG shoulder-INS.SG load-ACC.SG carry-3SG
 translation: The man carries the load on his shoulder.
-note: The part of the body that bears something is in the instrumental (Whitney §281e). English says "on". In skandha the dentals n and dh stand before the ending's n anyway, and there is no trigger.
+note: The part of the body that bears something is in the instrumental (Whitney §281e). English says "on". skandha has no r, ṛ or ṣ, so: skandhena.
 source: constructed
 confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: बालाः सुखेन क्रीडन्ति
 translit: bālāḥ sukhena krīḍanti
 morphemes: bāl-āḥ sukh-ena krīḍa-nti
 gloss: boy-NOM.PL ease-INS.SG play-3PL
 literal: The boys play with ease.
 translation: The children play happily.
-note: Manner. The instrumental of an abstract noun works as an adverb: sukhena "with ease, happily". The Hitopadeśa uses the same word of birds that "live happily" in a tree (book 4, prose before verse 4.5).
+note: Manner. The instrumental of an abstract noun works as an adverb: sukhena "with ease, happily". The Hitopadeśa uses the same word of birds that "live happily" in a tree (book 3, prose after verse 3.5).
 source: constructed
 confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: क्रोधेन नृपो दूतं ताडयति
 translit: krodhena nṛpo dūtaṃ tāḍayati
 morphemes: krodh-ena nṛp-aḥ dūt-am tāḍaya-ti
 gloss: anger-INS.SG king-NOM.SG messenger-ACC.SG strike-3SG
@@ -163,7 +163,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: दूतो दीर्घेण मार्गेण ग्रामं गच्छति
 translit: dūto dīrgheṇa mārgeṇa grāmaṃ gacchati
 morphemes: dūt-aḥ dīrgh-eṇa mārg-eṇa grām-am gaccha-ti
 gloss: messenger-NOM.SG long-INS.SG.M road-INS.SG village-ACC.SG go-3SG
@@ -174,7 +174,7 @@ confidence: constructed
 :::
 
 :::example
-orig: AUTO
+orig: उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः
 translit: udyamena hi sidhyanti kāryāṇi na manorathaiḥ
 morphemes: udyam-ena hi sidhya-nti kāry-āṇi na manaḥ-rath-aiḥ
 gloss: effort-INS.SG for succeed-3PL task-NOM.PL not mind-chariot-INS.PL
@@ -186,7 +186,7 @@ confidence: attested
 :::
 
 :::example
-orig: AUTO
+orig: सङ्गमः सज्जनैः सह
 translit: saṅgamaḥ sajjanaiḥ saha
 morphemes: saṅgam-aḥ sat-jan-aiḥ saha
 gloss: meeting-NOM.SG good-person-INS.PL with
@@ -202,14 +202,14 @@ confidence: attested
 - **The vehicle and the way**: *rathena* "by chariot"; *mārgeṇa* "by the road". Whitney (§281c) extends this to the medium passed through, *vihāyasā* "through the air".
 - **The companion**, alone or with *saha*: *śiṣyaiḥ saha* (Whitney §279). In prose, *saha* is the norm.
 - **Manner**, with abstract nouns: *sukhena* "happily", *duḥkhena* "with difficulty", *vegena* "with speed, swiftly", *yatnena* "with care".
-- **Cause or reason**: *krodhena* "out of anger", *kṛpayā* "out of pity" (Whitney §280). The Hitopadeśa has *kṛpayā* in exactly this sense (book 1, prose after verse 1.58). The ablative of san-03-03 does this job more often.
+- **Cause or reason**: *krodhena* "out of anger", *kṛpayā* "out of pity" (Whitney §280). The Hitopadeśa has *kṛpayā* in exactly this sense (book 1, prose after verse 1.56). The ablative of san-03-03 does this job more often.
 - **Equality and likeness**, with *tulya* "equal, like" and *sama* "same, equal": *siṃhena tulyaḥ* "a match for a lion" (Whitney §281a; mw1899 gives both words with the instrumental or the genitive).
 - **The part of the body that carries**: *skandhena vahati* (Whitney §281e).
 - **Time within which**: "in the course of", as *māsena* "in a month" (Whitney §281d).
 - **Price**: what something is bought or exchanged for (Whitney §281b); you will meet a verb of buying in part 4.
 - **"What use is ...?"**, with *kim* "what" (part 6): Whitney (§281f) quotes the Rāmāyaṇa's "what is gained by much talking?" with the talking in the instrumental.
 - **The agent of a passive**: "by the king". This is the commonest use of all in later prose (Whitney §282), and it waits for the passive in san-04-14.
-- **Separation, with words of parting**: Whitney (§283a) notes that the instrumental sometimes does the ablative's work with verbs meaning "be parted from". Recognise it; do not imitate it yet.
+- **Separation, with words of parting**: Whitney (§283a) notes that the instrumental sometimes does the ablative's work with verbs meaning "be parted from".
 
 ## Watch out
 
@@ -221,7 +221,7 @@ confidence: attested
 
 **Do not put *saha* before the noun.** *\*saha śiṣyaiḥ* is possible in verse, but in prose *saha* follows: *śiṣyaiḥ saha*. And *saha* does not replace the case ending: *\*śiṣyāḥ saha* is wrong.
 
-**Apply the n-to-ṇ rule, and only where it belongs.** *\*nṛpena* and *\*putrena* are wrong: nothing blocks the *r* or *ṛ*. *nṛpeṇa*, *putreṇa*. Equally wrong is *\*ratheṇa*: the dental *th* blocks it. And there is no reason to write *\*bāleṇa*, since *bāla* has no trigger. Run the three-part test each time until it is automatic.
+**Apply the n-to-ṇ rule, and only where it belongs.** *\*nṛpena* and *\*putrena* are wrong: nothing blocks the *r* or *ṛ*. *nṛpeṇa*, *putreṇa*. Equally wrong is *\*ratheṇa*: the dental *th* blocks it. And there is no reason to write *\*bāleṇa*, since *bāla* has no trigger.
 
 **The rule does not cross a space.** In *vīraḥ khaḍgena* the *r* of *vīraḥ* has no effect on *khaḍgena*. Only inside one word, and in some compounds and after some preverbs (Whitney §§192–193, part 5), does it apply.
 

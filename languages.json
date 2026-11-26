@@ -1,5 +1,5 @@
 {
- "count": 118,
+ "count": 148,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1038,6 +1038,287 @@
    "depth": "A",
    "notes": "Cross-link Hindi-Urdu and Sanskrit; honorific levels",
    "iso_note": "Nepali individual language npi (macrolanguage nep)"
+  },
+  {
+   "number": 119,
+   "name": "Egyptian Arabic",
+   "iso": "arz",
+   "group": "Major living",
+   "script": "Arabic + Latin transcription",
+   "depth": "A",
+   "notes": "Cairene; cross-link MSA and Moroccan Darija; flag MSA forms"
+  },
+  {
+   "number": 120,
+   "name": "Levantine Arabic",
+   "iso": "apc",
+   "group": "Major living",
+   "script": "Arabic + Latin transcription",
+   "depth": "A",
+   "notes": "Name the city variety taught (e.g. Damascus/Beirut/Jerusalem) and flag others; cross-link MSA, Darija, Egyptian",
+   "iso_note": "ISO 639-3 apc now covers North and South Levantine (ajp retired)"
+  },
+  {
+   "number": 121,
+   "name": "Yiddish",
+   "iso": "ydd",
+   "group": "Europe, less common",
+   "script": "Hebrew (YIVO)",
+   "depth": "A",
+   "notes": "Standard (YIVO) Eastern Yiddish; cross-link German, Modern and Biblical Hebrew",
+   "iso_note": "Eastern Yiddish ydd (macrolanguage yid)"
+  },
+  {
+   "number": 122,
+   "name": "Catalan",
+   "iso": "cat",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Central (Barcelona) standard; cross-link Spanish, French, Occitan"
+  },
+  {
+   "number": 123,
+   "name": "Galician",
+   "iso": "glg",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Cross-link Spanish and Portuguese (Portuguese itself is excluded from the list)"
+  },
+  {
+   "number": 124,
+   "name": "Ukrainian",
+   "iso": "ukr",
+   "group": "Europe, less common",
+   "script": "Cyrillic",
+   "depth": "A",
+   "notes": "Cross-link Russian and Polish"
+  },
+  {
+   "number": 125,
+   "name": "Czech",
+   "iso": "ces",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Standard written Czech with common spoken Czech labelled"
+  },
+  {
+   "number": 126,
+   "name": "Estonian",
+   "iso": "ekk",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Cross-link Finnish",
+   "iso_note": "Standard Estonian ekk (macrolanguage est)"
+  },
+  {
+   "number": 127,
+   "name": "Latvian",
+   "iso": "lvs",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Cross-link Lithuanian",
+   "iso_note": "Standard Latvian lvs (macrolanguage lav)"
+  },
+  {
+   "number": 128,
+   "name": "Uyghur",
+   "iso": "uig",
+   "group": "Caucasus and Central Asia",
+   "script": "Perso-Arabic (UEY) + Latin",
+   "depth": "A",
+   "notes": "Turkic in Arabic script; cross-link Turkish, Uzbek, Arabic script"
+  },
+  {
+   "number": 129,
+   "name": "Uzbek",
+   "iso": "uzn",
+   "group": "Caucasus and Central Asia",
+   "script": "Latin + Cyrillic",
+   "depth": "A",
+   "notes": "Cross-link Uyghur, Turkish",
+   "iso_note": "Northern Uzbek uzn (macrolanguage uzb)"
+  },
+  {
+   "number": 130,
+   "name": "Kyrgyz",
+   "iso": "kir",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic",
+   "depth": "A",
+   "notes": "Cross-link Kazakh"
+  },
+  {
+   "number": 131,
+   "name": "Turkmen",
+   "iso": "tuk",
+   "group": "Caucasus and Central Asia",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Cross-link Turkish, Azerbaijani"
+  },
+  {
+   "number": 132,
+   "name": "Azerbaijani",
+   "iso": "azj",
+   "group": "Caucasus and Central Asia",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Northern (Republic of Azerbaijan) standard; cross-link Turkish",
+   "iso_note": "North Azerbaijani azj (macrolanguage aze)"
+  },
+  {
+   "number": 133,
+   "name": "Dari",
+   "iso": "prs",
+   "group": "Caucasus and Central Asia",
+   "script": "Perso-Arabic",
+   "depth": "B",
+   "notes": "Afghan Persian; built as a companion to the Persian guide: what differs in sounds, words and grammar; cross-link Pashto"
+  },
+  {
+   "number": 134,
+   "name": "Yakut (Sakha)",
+   "iso": "sah",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic",
+   "depth": "B",
+   "notes": "Siberian Turkic; cross-link Turkish"
+  },
+  {
+   "number": 135,
+   "name": "Tibetan",
+   "iso": "bod",
+   "group": "Asia and Pacific",
+   "script": "Tibetan + Wylie",
+   "depth": "A",
+   "notes": "Modern spoken Lhasa (Central) Tibetan; cross-link Classical Tibetan"
+  },
+  {
+   "number": 136,
+   "name": "Dzongkha",
+   "iso": "dzo",
+   "group": "Asia and Pacific",
+   "script": "Tibetan + romanisation",
+   "depth": "B",
+   "notes": "Cross-link Tibetan and Classical Tibetan"
+  },
+  {
+   "number": 137,
+   "name": "Dhivehi",
+   "iso": "div",
+   "group": "Asia and Pacific",
+   "script": "Thaana + Latin",
+   "depth": "B",
+   "notes": "Thaana script (right to left); cross-link Sinhala-related Indo-Aryan and Arabic loans"
+  },
+  {
+   "number": 138,
+   "name": "Lao",
+   "iso": "lao",
+   "group": "Asia and Pacific",
+   "script": "Lao",
+   "depth": "A",
+   "notes": "Tones; cross-link Thai"
+  },
+  {
+   "number": 139,
+   "name": "Malayalam",
+   "iso": "mal",
+   "group": "Asia and Pacific",
+   "script": "Malayalam",
+   "depth": "A",
+   "notes": "Diglossia noted; cross-link Tamil, Telugu, Sanskrit"
+  },
+  {
+   "number": 140,
+   "name": "Malay",
+   "iso": "zsm",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Standard Malay (Malaysia); cross-link Indonesian",
+   "iso_note": "Standard Malay zsm (macrolanguage msa)"
+  },
+  {
+   "number": 141,
+   "name": "Javanese",
+   "iso": "jav",
+   "group": "Asia and Pacific",
+   "script": "Latin + Javanese script appendix",
+   "depth": "A",
+   "notes": "Speech levels (ngoko, krama); cross-link Indonesian, Balinese"
+  },
+  {
+   "number": 142,
+   "name": "Tetun",
+   "iso": "tdt",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Tetun Dili (Timor-Leste's official Tetun); Portuguese loans",
+   "iso_note": "Tetun Dili tdt (tet is Tetun Terik)"
+  },
+  {
+   "number": 143,
+   "name": "Papiamentu",
+   "iso": "pap",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Creole of Curaçao, Aruba, Bonaire; cross-link Spanish and Dutch",
+   "iso_note": "ISO name: Papiamento"
+  },
+  {
+   "number": 144,
+   "name": "Afrikaans",
+   "iso": "afr",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Cross-link Dutch"
+  },
+  {
+   "number": 145,
+   "name": "Xhosa",
+   "iso": "xho",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Clicks and noun classes; cross-link Zulu, Swahili"
+  },
+  {
+   "number": 146,
+   "name": "Oromo",
+   "iso": "gaz",
+   "group": "Africa",
+   "script": "Latin (Qubee)",
+   "depth": "A",
+   "notes": "West Central Oromo; Cushitic; cross-link Somali, Amharic",
+   "iso_note": "West Central Oromo gaz (macrolanguage orm)"
+  },
+  {
+   "number": 147,
+   "name": "Lingala",
+   "iso": "lin",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Bantu lingua franca of the Congo; cross-link Swahili"
+  },
+  {
+   "number": 148,
+   "name": "Fula",
+   "iso": "ful",
+   "group": "Africa",
+   "script": "Latin (+ Ajami note)",
+   "depth": "B",
+   "notes": "Choose and name one variety in the dossier (e.g. Pulaar or Adamawa Fulfulde); consonant mutation and many noun classes",
+   "iso_note": "Macrolanguage ful; the dossier fixes the variety and its individual code"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

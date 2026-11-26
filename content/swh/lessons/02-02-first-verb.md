@@ -185,7 +185,7 @@ preview: C7
 
 ## Watch out
 
-**Do not leave out the subject prefix.** *\*Mimi nasoma* and *\*Mimi soma* lose the "I" slot or the tense slot. A bare stem like *soma* is a command (lesson 2.7). Say *Mimi ninasoma*, or just *Ninasoma*.
+**Do not leave out the subject prefix.** *\*Mimi soma* loses both the "I" slot and the tense slot. A bare stem like *soma* is a command (lesson 2.7). Say *Mimi ninasoma*, or just *Ninasoma*. (The spoken *nasoma* is a different matter: a shortening of the standard form, described below.)
 
 **Do not add *ni* to translate English "am".** "I am reading" is *Ninasoma*. *\*Mimi ni ninasoma* puts the copula of lesson 2.1 in front of a verb. *Ni* links nouns; the verb already contains the person and the tense.
 

@@ -437,7 +437,7 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Introduce *deva* in san-02-01 (shown in san-00-03, not in vocab). Define "pausa" at first use in part 2 (by san-02-06 at the latest); vocab notes already use the word.
 - The joined Indian printing is shown in prose only, never in example fields. Whitney's ç, āi, āu, ṁ are written ś, ai, au, ṃ; never curly quotes for avagraha.
 - Dictionary order follows the sound grid in roman letters too (all k-words, including kṣ, before kh); where Monier-Williams files ṃ and ḥ is not yet checked.
-- san-00-01 is labelled uncertain (whether Classical Sanskrit was anyone's first language). san-01-07 exercise 3 wording could be tidied.
+- san-00-01 is labelled uncertain (whether Classical Sanskrit was anyone's first language). 
 
 
 ## Notes from drafting part 2 (2026-11-26)
@@ -447,3 +447,11 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Introduced early with pointers to part 4: jñā (jānāti), śru (śṛṇoti) in san-02-09; √as with weak stem s- in san-02-07; class-10 pūj, cint, kath. "Ask" entered as prach (Monier-Williams).
 - Avoided until san-03-01 (n → ṇ): neuter plurals of stems with r or ṣ. Accusative plural -ān used only before p, k or vowels. Quotations with iti end in -ḥ or -m until san-03-07.
 - Attested lines used: ahiṃsā paramo dharmaḥ (Hitopadeśa 1, prose after verse 1.64) in 02-07 and the 02-10 review; MBh 3.50.1 (also in san-00-03). Hitopadeśa prose is cited as "prose after verse X".
+
+
+## Notes from verifying parts 0–2 (2026-11-26)
+
+- Whitney's Introduction (p. xiv): the classical sound form "never can have been a truly vernacular and living one": cited as his view in san-00-01.
+- Visarga before ś, ṣ, s is correct at every stage (Whitney §172). Before other voiced sounds and m, -aḥ changes (§175a): early prose and exercises must respect this too, not only examples.
+- Whitney section numbers in the archive.org OCR are often misread (§65 as 66, §67 as 87, §268 as 2368): check the paragraph text, not just the number.
+- GRETIL files used: corpustei/sa_manusmRti.xml (Manu 1.108, 8.15); corpustei/sa_taittirIyopaniSad-zaMkarabhASya.xml (TaittU 1.11.1).

@@ -153,7 +153,7 @@ morphemes: qəḥû l-î ḥāreḇ way-yāḇiʾû ha=ḥereḇ
 gloss: take.IMP.2PL.M to-1SG sword WAYY-bring.HIPH.3PL.M DEF=sword
 literal: Take for-me a-sword. And-they-brought the-sword.
 translation: "Fetch me a sword." So they brought the sword.
-note: Preview of almost everything but the point: Solomon's judgement. First mention, no article; second mention, the article. This is Gesenius's own example (§126d). ḥāreḇ is a lengthened form of ḥereḇ under the accent.
+note: Preview of almost everything but the point: Solomon's judgement. First mention, no article; second mention, the article. This is Gesenius's own example (§126d). ḥāreḇ is the pausal form of ḥereḇ: it carries atnaḥ, the main break of the verse (lesson 1.8).
 source: 1 Kings 3:24 (WLC)
 confidence: attested
 preview: IMP, 2, PL, M, 1, SG, WAYY, HIPH, 3

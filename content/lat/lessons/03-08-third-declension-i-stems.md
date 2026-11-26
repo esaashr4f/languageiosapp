@@ -187,7 +187,7 @@ preview: PTCP, third-declension adjective, numeral
 
 **Do not trust the look of *-is* alone.** *Canis* and *iuvenis* are parisyllabic but have *canum*, *iuvenum* (ag1903 §78). Allen and Greenough explain that both are really *n*-stems. Note these two.
 
-**Do not give the neuter i-stems *-a* or *-e*.** *\*Mara*, *\*animāla* and *\*in mare* (as ablative) follow *corpus* and *rēx*. Neuters in *-e*, *-al*, *-ar* have *maria*, *animālia*, *in marī*. (Allen and Greenough note that *mare* sometimes has the ablative *mare*, ag1903 §76, but *marī* is the regular form.)
+**Do not give the neuter i-stems *-a* or *-e*.** *\*Mara*, *\*animāla* and *\*in mare* (as ablative) follow *corpus* and *rēx*. Neuters in *-e*, *-al*, *-ar* have *maria*, *animālia*, *in marī*. (Allen and Greenough note that *mare* sometimes has the ablative *mare*, ag1903 §76, but *marī* is the regular form. *Mare* also has almost no genitive plural: the regular *\*marium* is not found in classical texts, and *marum* occurs once, ag1903 §78; Wiktionary.)
 
 **Do not read *-īs* as a dative or ablative.** In *Mīlitēs montīs occupant*, *montīs* is an accusative plural of the third declension, not the *-īs* of *puellīs* and *servīs*. The noun's declension tells you which.
 
@@ -214,7 +214,7 @@ source: ag1903 §§65-78; wiktionary (cīvis, urbs, mare, animal)
 | Nom. pl. | cīvēs | urbēs | maria | animālia |
 | Voc. pl. | cīvēs | urbēs | maria | animālia |
 | Acc. pl. | cīvēs, cīvīs | urbēs, urbīs | maria | animālia |
-| Gen. pl. | cīvium | urbium | marium | animālium |
+| Gen. pl. | cīvium | urbium | (marum, once) | animālium |
 | Dat. pl. | cīvibus | urbibus | maribus | animālibus |
 | Abl. pl. | cīvibus | urbibus | maribus | animālibus |
 :::
@@ -250,7 +250,7 @@ canis | - | noun | dog | canis, m. or f.; genitive plural canum
 
 ## Connections
 
-Spanish *monte* and *muerte* come from the accusatives *montem* and *mortem* (Wiktionary). The accusative singular was the one form where i-stems and consonant stems had already merged, so the Romance languages kept no trace of the difference.
+Spanish *monte* and *muerte* come from the accusatives *montem* and *mortem* (Wiktionary). In the accusative singular most i-stems had already taken the consonant-stem *-em*, so these words carry no trace of the i.
 
 ## Exercises
 
@@ -267,7 +267,7 @@ Spanish *monte* and *muerte* come from the accusatives *montem* and *mortem* (Wi
 
 1. Yes. *Hostis* and *hostis* have the same number of syllables, and the nominative is in *-is* (rule 1). Genitive plural *hostium*.
 2. No. *Rēx* has one syllable, *rēgis* two, so rule 1 does not apply; and the stem *rēg-* ends in a single consonant, so rule 2 does not either. Genitive plural *rēgum*.
-3. *Maria*, *maria*, *maria*, *marium*, *maribus*, *maribus*. As a neuter in *-e*, *mare* takes *-ia* in the nominative and accusative plural.
+3. *Maria*, *maria*, *maria*, then no usual genitive (*marum* occurs once; the regular *marium* is not found in classical texts), *maribus*, *maribus*. As a neuter in *-e*, *mare* takes *-ia* in the nominative and accusative plural.
 4. *Class-is*: the fleet, nominative singular. *Host-ium*: of the enemy, genitive plural. *In mar-ī*: on the sea, ablative in *-ī*. *Est*: is. "The enemy's fleet is at sea."
 5. *Cīvēs* is the subject. "Of the cities" is the genitive plural *urbium*, an i-stem by rule 2. Peace is the object: *pācem*. *Cīvēs urbium pācem amant*.
 6. *Animal* is a neuter in *-al*, so its plural is *animālia*: *Animālia in montibus habitant*, "animals live in the mountains".

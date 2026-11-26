@@ -159,7 +159,7 @@ gloss: Dumnorix-ACC.SG to REFL.ACC call-3SG
 translation: He summons Dumnorix to him.
 literal: He calls Dumnorix to himself.
 note: The subject is Caesar, and sē refers to him. English "him" is ambiguous here; Latin sē is not.
-source: Caesar, Gallic War 1.20.6
+source: Caesar, Gallic War 1.20.5
 confidence: attested
 :::
 
@@ -194,7 +194,7 @@ confidence: attested
 
 **Do not use *vōs* to address one person politely.** French *vous* and Spanish *vosotros* or *usted* habits tempt *\*Vōs, magister, bene docētis* to a single teacher. Latin has no polite plural. One person is *tū*: *Tū, magister, bene docēs*.
 
-**Do not use *sē* or *suus* for someone other than the subject.** *\*Marītus uxōrem suam amat* is right only if it is his own wife. To say "the husband loves his (another man's) wife", Latin uses a genitive pronoun, *eius*, taught in the next lesson: *Marītus uxōrem eius amat*.
+**Do not use *sē* or *suus* for someone other than the subject.** *Marītus uxōrem suam amat* is right only if it is his own wife. To say "the husband loves his (another man's) wife", Latin uses a genitive pronoun, *eius*, taught in the next lesson: *Marītus uxōrem eius amat*.
 
 **Do not make *suus* agree with the owner.** *\*Puella frātrem suam amat* copies the girl's gender. *Suus*, like *meus*, agrees with the thing owned: *frātrem suum*.
 
@@ -263,5 +263,5 @@ Spanish and French continue these forms: Spanish *me*, *te*, *se*, *nos*; French
 4. *Nēmō nostrum*: none of us, with the group genitive *nostrum*. *Tē*: you, object. *Accūsa-t*: accuses. "None of us is accusing you."
 5. *Mīles* is the subject. The leader receives: dative *ducī*. The wound is the object: *vulnus*, neuter. "His own" refers to the subject: *suum*, neuter accusative singular to agree with *vulnus*. *Mīles ducī vulnus suum mōnstrat*.
 6. Possession takes the adjective, not the genitive of *ego*: *Liber meus novus est*.
-7. *Sē* is Caesar. The reflexive always points back to the subject of its own sentence, and Dumnorix is the object. For any other person Latin uses a form of *is*, from the next lesson.
+7. *Sē* is Caesar. In a simple sentence the reflexive points back to the subject of its own sentence, and Dumnorix is the object. For any other person Latin uses a form of *is*, from the next lesson.
 8. The subject is "I", first person, and *sibi* is the third-person reflexive. In the first person the ordinary pronoun is the reflexive: *Vōbīs fābulam narrō, nōn mihi*.

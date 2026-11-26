@@ -29,7 +29,7 @@ The irregular comparisons are a different matter. *Bonus, melior, optimus* "good
 
 1. Take the stem of the positive by removing the genitive ending: *alt-ī* gives *alt-*; *fort-is* gives *fort-*; *fēlīc-is* gives *fēlīc-*.
 2. Comparative: add *-ior* (masculine and feminine), *-ius* (neuter): *altior, altius*; *fortior, fortius*; *fēlīcior, fēlīcius*.
-3. Decline it like a consonant stem on *-iōr-*: *altiōrem*, *altiōris*, *altiōrī*, *altiōre*; plural *altiōrēs*, neuter *altiōra*, *altiōrum*, *altiōribus*. The ablative is normally *-e* and the genitive plural *-um*: no i-forms here (ag1903 §121).
+3. Decline it like a consonant stem on *-iōr-*: *altiōrem*, *altiōris*, *altiōrī*, *altiōre*; plural *altiōrēs*, neuter *altiōra*, *altiōrum*, *altiōribus*. The ablative is normally *-e* and the genitive plural *-um*: comparatives do not take the i-forms (ag1903 §117).
 4. Superlative: add *-issimus, -a, -um*: *altissimus*, *fortissimus*, *fēlīcissimus*.
 
 **Two special groups.**
@@ -198,7 +198,7 @@ confidence: constructed
 
 **Do not use the ablative when the first term is not nominative or accusative.** *\*Mihi gravius est illō* for "harder for me than for him": the first term is dative, so *quam* is required, *quam illī* (ag1903 §407a).
 
-**Do not give comparatives the i-forms of lesson 1.** *\*Altiōrī* as ablative, *\*altiōria*, *\*altiōrium*: the comparative is a consonant stem. *Altiōre*, *altiōra*, *altiōrum* (ag1903 §121). Wiktionary also lists *altiōrī* as a rarer ablative.
+**Do not give comparatives the i-forms of lesson 1.** *\*Altiōria*, *\*altiōrium*: the comparative is a consonant stem, *altiōra*, *altiōrum*, and its ablative is normally *altiōre* (ag1903 §117). Wiktionary also lists *altiōrī* as an ablative, so that form is not wrong, only less usual.
 
 **Do not decline *plūs* as an adjective in the singular.** *\*Plūs pecūnia* for "more money": in the singular *plūs* is a noun with a genitive, *plūs pecūniae* (ag1903 §120c).
 
@@ -208,7 +208,7 @@ confidence: constructed
 
 **Do not take every superlative as "the most".** *Vir fortissimus* in Cicero is often "a very brave man", a compliment, not a ranking (ag1903 §291b note).
 
-**Do not use *maior* and *minor* for age without *nātū*.** "Older brother" is *frāter maior nātū*, "greater by birth"; *frāter maior* alone may mean "bigger". Allen and Greenough explain *maiōrēs* "ancestors" as short for *maiōrēs nātū* (ag1903 §291 note 3). *Nātū* "by birth" is an ablative, glossed here.
+**Do not read *maior* and *minor* as "older" and "younger" without checking.** "Older brother" is fully *frāter maior nātū*, "greater by birth"; Allen and Greenough note that *nātū* is often left out (ag1903 §131c), so *frāter maior* can mean "older" or "bigger", and context decides. They explain *maiōrēs* "ancestors" as short for *maiōrēs nātū* (ag1903 §291 note 3). *Nātū* "by birth" is an ablative of respect (ag1903 §131c note), glossed here.
 
 ## Reference table
 
@@ -276,7 +276,7 @@ collis | - | noun | hill | collis, m.
 
 ## Connections
 
-French and Spanish kept only a few of these one-word forms: Latin *melior* gives French *meilleur* and Spanish *mejor*, *peior* gives *pire* and *peor*, *minor* gives *moindre* and *menor*, *maior* gives *majeur* and *mayor* (Wiktionary). For everything else they replaced the suffix with *plus* and *más*, from Latin *plūs* and *magis*.
+French and Spanish kept only a few of these one-word forms: Latin *melior* gives French *meilleur* and Spanish *mejor*, *peior* gives *pire* and *peor*, *minor* gives *moindre* and *menor*, *maior* gives Spanish *mayor* (French *majeur* is a later borrowing) (Wiktionary). For everything else they replaced the suffix with *plus* and *más*, from Latin *plūs* and *magis*.
 
 ## Exercises
 

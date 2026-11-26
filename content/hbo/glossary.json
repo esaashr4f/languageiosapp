@@ -206,6 +206,19 @@
   "preposition": "A word placed before a noun to show place or relation (hbo-02-05).",
   "strong verb": "A verb whose root letters never drop or change (hbo-02-06).",
   "stative verb": "A verb describing a state, such as 'be heavy' (hbo-02-06).",
-  "object": "The thing or person acted on (hbo-02-09)."
+  "object": "The thing or person acted on (hbo-02-09).",
+  "masculine": "One of the two genders (hbo-03-01).",
+  "feminine": "The other gender, often marked by -â or -t (hbo-03-01).",
+  "construct state": "The shortened form a noun takes when another noun follows it: 'the king of…' (hbo-03-05).",
+  "absolute state": "The ordinary, independent form of a noun (hbo-03-05).",
+  "construct chain": "A noun in the construct state followed by the noun it belongs to (hbo-03-05).",
+  "pretonic": "Just before the stressed syllable (hbo-03-03).",
+  "changeable vowel": "A vowel that shortens or reduces when the stress moves (hbo-03-03).",
+  "unchangeable vowel": "A vowel that never reduces, often written with a vowel letter (hbo-03-03).",
+  "pronoun suffix": "A pronoun attached to the end of a noun or preposition: 'his', 'my' (hbo-03-07).",
+  "connecting vowel": "The vowel between a noun and a suffix (hbo-03-07).",
+  "demonstrative": "A pointing word: zeh, hûʾ (hbo-03-10).",
+  "attributive": "Of an adjective: directly describing a noun, after it and agreeing with it (hbo-03-11).",
+  "predicative": "Of an adjective: saying something about the subject, usually before it without the article (hbo-03-11)."
  }
 }

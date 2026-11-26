@@ -398,3 +398,14 @@ Say so in the lesson when one of these comes up.
 - הִוא as "she": 193 with prefixes (192 tagged 3fs, all in the Torah; 1 in Isaiah 3ms); Gesenius §32l: all but eleven places in the Torah, rejecting the archaism explanation.
 - OSHB counts confirmed: hāʾāreṣ 934 (never segol), hammeleḵ 1,043, ʾănî 587 + 106 pausal, ʾānōḵî 293, hēnnâ 70 (44 adverb, 26 pronoun).
 - Renderer check needed: vowel signs shown on no letter in prose (hbo-01-05, 01-06).
+
+
+## Notes from drafting part 3 (2026-11-26)
+
+- Segolate ground forms confirmed: mălk, sĭphr, qŭdš (Gesenius §93c) with the helping-vowel explanation (§84a): no longer unverified.
+- Suffix paradigms taught on qôl and dāḇār, not sûs (sûs with suffixes is almost unattested: only sûsāyw, sûsêḵā).
+- Qameṣ ḥaṭuf in an open syllable: WLC קָדָשִׁים (plain qameṣ with meteg) read as short o (Gesenius §9v), transliterated qoḏāšîm; likewise שָׁרָשִׁים. Add as an exception to the qameṣ rule.
+- Uncertain, stated as such: origin of construct plural -ê (§89d); doubled t in bāttîm (§96 "no solution"); ʾîš/ʾănāšîm, ʾiššâ, yāmîm, ʿārîm, peh (§96); Gesenius's gender classes; reduction in qōṭēl nouns; "soft eyes" (Gen 29:17); bənê hāʾĕlōhîm.
+- Glossing: feminine -â and plural endings segmented (-PL; adjectives -PL.M, -PL.F, -F); construct .CSTR, .PL.CSTR, .DU.CSTR, dual absolute -DU; kol glossed `all` without CSTR; 3fs wayyiqtol wat-; ʾĕlōhîm "God" glossed God even with the article; suffixes after the base (ʾarṣ-əḵā, ʾāḇî-ḵā, bātt-ênû); mah-nnôrāʾ.
+- Forward pointers made: 4.2 (2nd-person qatal), 4.18 (hāyâ), 4.19 (object suffixes), 5.2, 5.3, 5.5 (comparison with min), 5.6 (kol), 5.8 (kî ʾim), 5.10, 6.1, 6.4 (pen), 7.3 (infinitive absolute).
+- In vocab already: zeh, zōʾṯ, ʾēlleh, pen, yaḥdāw, ʾēṣel, sāḇîḇ, neḡeḏ; numbers šeḇaʿ, ʿăśārâ, māʾṯayim, ʿeśrîm, ʾelep̄, šəlōšeṯ glossed but not listed.

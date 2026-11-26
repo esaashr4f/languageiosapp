@@ -19,7 +19,7 @@ Part 3 gave the core of each case. The genitive ties a noun to another noun: "of
 
 The **partitive genitive**, or genitive of the whole, names the whole that a part is taken from: *pars mīlitum* "part of the soldiers", *nēmō eōrum* "not one of them", *satis pecūniae* "enough (of) money" (ag1903 §346). English "of" does the same in "some of the money".
 
-**The dative** names the person or thing an action is aimed at or matters to. Some verbs that English treats as transitive take the dative in Latin. Allen and Greenough explain why: these verbs "retain an original intransitive meaning". *Invideō* "envy" is literally "look askance at" someone; *serviō* is "be a slave to"; *persuādeō* is "make a thing pleasant to" (ag1903 §367). Read them with "to" and the dative is natural: *tibi invideō* "I look askance at you"; *dominō servit* "he is a slave to his master".
+**The dative** names the person or thing an action is aimed at or matters to. Some verbs that English treats as transitive take the dative in Latin. Allen and Greenough explain why: these verbs "retain an original intransitive meaning". *Invideō* "envy" is literally "look askance at" someone; *serviō* is "be a slave to"; *suādeō*, the verb inside *persuādeō*, is "make a thing pleasant (sweet) to" (ag1903 §367). Read them with "to" and the dative is natural: *tibi invideō* "I look askance at you"; *dominō servit* "he is a slave to his master".
 
 The **dative of purpose** says what something serves as: *auxiliō mittere* "send as help". Allen and Greenough describe it as a use "once apparently general" that survives in only a few constructions (ag1903 §382). It usually comes with a second dative of the person: *nostrīs auxiliō* "as help for our men". This is the **double dative**.
 
@@ -43,7 +43,7 @@ The **dative of purpose** says what something serves as: *auxiliō mittere* "sen
 **Dative with verbs.**
 
 1. Verbs of favouring, helping, pleasing, trusting, believing, persuading, commanding, obeying, serving, resisting, envying, pardoning and sparing take the dative (ag1903 §367): *crēdō*, *faveō*, *ignōscō*, *imperō*, *invideō*, *noceō*, *parcō*, *pāreō*, *persuādeō*, *placeō*, *resistō*, *serviō*, *studeō*.
-2. Many compounds of *ad*, *ante*, *con*, *in*, *inter*, *ob*, *post*, *prae*, *prō*, *sub*, *super* take a dative in their new meaning: *praesum* "be in charge of", *succurrō* "run to help", *occurrō* "meet" (ag1903 §370). A transitive one has both: *lēgiōnī lēgātum praeficit* "he puts a lieutenant in command of the legion".
+2. Many compounds of *ad*, *ante*, *con*, *in*, *inter*, *ob*, *post*, *prae*, *prō*, *sub*, *super* take a dative in their new meaning: *praesum* "be in charge of", *succurrō* "run to help", *occurrō* "meet" (ag1903 §370). A transitive one has both: *legiōnī lēgātum praeficit* "he puts a lieutenant in command of the legion".
 3. *Nūbō* "marry", said of a woman, takes the dative of the husband (Wiktionary).
 
 **The double dative.**
@@ -67,7 +67,7 @@ confidence: constructed
 
 :::example
 orig: Nihil novī audīvimus, sed satis perīculī vidēmus.
-morphemes: nihil nov-ī audīv-imus sed satis perīcul-ī vide-mus
+morphemes: nihil nov-ī audīv-imus sed satis perīcul-ī vidē-mus
 gloss: nothing new-GEN.SG.N hear.PRF-1PL but enough danger-GEN.SG see-1PL
 translation: We have heard nothing new, but we see danger enough.
 note: Partitive after a neuter pronoun and after an adverb of quantity (ag1903 §346a).
@@ -184,7 +184,7 @@ confidence: attested
 
 - **Partitive** after: nouns of part and quantity, *pars*, *nēmō*; numerals, comparatives, superlatives and the ūnus group, *ūnus tribūnōrum*, *maior frātrum* "the elder of the brothers", *alter cōnsulum*; neuter pronouns and words of amount, *nihil*, *quid*, *multum*, *plūs*, *tantum*; adverbs, *satis*, *parum*, *ubi gentium* "where in the world" (ag1903 §346a).
 - **Objective** after nouns of feeling and action, *amor*, *metus*, *cūra*, *spēs*, *memoria*, and after adjectives (ag1903 §§348-349).
-- **Quality**, always with an adjective: *vir magnī animī*; in classical prose the genitive of quality is mostly confined to measure and number: *fossa trium pedum* "a ditch three feet deep"; elsewhere the ablative is commoner (ag1903 §345 and note).
+- **Quality**, always with an adjective: *vir magnī animī*; in classical prose the genitive of quality is much less common than the ablative and practically confined to measure and number, *fossa trium pedum* "a ditch three feet deep", and to nouns with *magnus*, *maximus*, *summus* or *tantus*, as in *vir magnī animī* (ag1903 §345 note and b).
 - **Value**: *magnī*, *parvī*, *plūris*, *minōris*, *tantī*, *nihilī* with *aestimō*, *faciō*, *putō*, *sum*: *magnī aestimō* "I value highly", *Est mihi tantī* "it is worth it to me" (ag1903 §417).
 - **Charge**, with verbs of accusing and condemning (ag1903 §352).
 - **With *meminī*, *oblīvīscor*, *misereor*** (ag1903 §§350, 354).
@@ -214,7 +214,7 @@ confidence: attested
 
 **Do not read *amor patris* only one way.** It can be the father's love or love for the father (ag1903 §348 note). Let the context choose.
 
-**Do not use *auxilium* in the accusative for "as help".** *\*Auxilium nostrīs mīsit* says he sent "help" as an object, which is possible; but "sent the cavalry as help" is *equitēs auxiliō mīsit*, with the dative of purpose. The purpose noun is always singular and almost always abstract (ag1903 §382 note 1).
+**Do not use *auxilium* in the accusative for "as help".** *\*Auxilium nostrīs mīsit* says he sent "help" as an object, which is possible; but "sent the cavalry as help" is *equitēs auxiliō mīsit*, with the dative of purpose. The purpose noun is regularly abstract and singular (ag1903 §382 note 1).
 
 **Do not use the ablative for value.** "I value you highly" is *tē magnī aestimō*, genitive. The ablative is for an actual price paid (lesson 8).
 

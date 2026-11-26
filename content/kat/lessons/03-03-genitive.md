@@ -279,7 +279,7 @@ Japanese の and Korean 의 also come between the two nouns with the describer f
 ## Worked answers
 
 1. *Kalakis*: consonant stem, *-is*. *Magidis*: *-a* truncates. *Ṭq̇is*: a native *-e* stem truncates too. *Meṭros*: an *-o* stem keeps its vowel and adds *-s*. *Pankris*: *pankari* syncopates, as its vocabulary note said in lesson 2-4.
-2. *Ɣvinis peri* and *ɣvinis botli*. The first is a quality of the wine, the second a bottle for wine (function). Georgian uses the genitive for both. *Ɣvino* is irregular: Bolkvadze and Kiziria give the genitive *ɣvinis*, with the *-o* lost, while Wiktionary's table has the regular *ɣvinos*. Lesson 3-5 returns to it.
+2. *Ɣvinis peri* and *ɣvinis botli*. The first is a quality of the wine, the second a bottle for wine (function). Georgian uses the genitive for both. *Ɣvino* is irregular: Bolkvadze and Kiziria give the genitive *ɣvinis*, with the *-o* lost, while Wiktionary's table gives both *ɣvinos* and *ɣvinis*. Lesson 3-5 returns to it.
 3. *Giorgis biʒašvili kalakis cenṭrši cxovrobs.* *Giorgis* and *kalakis* are genitives before their nouns; *cenṭrši* is *cenṭri* with *-ši*. The verb agrees with *biʒašvili*.
 4. "This is a map of Georgia." *Sakartvelo* is an *-o* stem, so its genitive is *sakartvelos*, identical to the dative. It stands before *ruḳa*, which shows it describes the map; the copula *-a* follows *ruḳa*.
 5. *Sačukari masc̣avleblistvis aris*: *-tvis* on the genitive *masc̣avleblis*. *Sačukars masc̣avleblisgan viɣeb*: the gift is the object, dative; *-gan* for the person it comes from.

@@ -36,7 +36,7 @@ That is why "from" and "up to" look as if they had a vowel before them: the vowe
 **The adverbial.**
 
 - Consonant stems add *-ad*: *saxlad*, *mzareulad*, *lamazad*.
-- All vowel stems add *-d* and do not truncate: *deda* → *dedad*, *xe* → *xed*, *ezo* → *ezod*.
+- Vowel stems add *-d* and do not truncate: *deda* → *dedad*, *xe* → *xed*, *ezo* → *ezod*.
 - Syncopating stems syncopate: *tarǯimani* → *tarǯimnad* "as a translator", *sačukari* → *sačukrad* "as a gift".
 
 **-დან "from".** Take the instrumental and replace its *-t* with *-dan*:
@@ -207,7 +207,7 @@ confidence: constructed
 - **A role, "as":** *mzareulad*, *tarǯimnad*, *masc̣avleblad mušaobs* "works as a teacher".
 - **"As a ...", with nouns of function:** *sačukrad*, and *sṭumrad* "as a guest, on a visit", which Bolkvadze and Kiziria use with "come".
 - **Change, "into":** with verbs of becoming and turning (lessons 4-10 and 4-14).
-- **Some fixed adverbs:** *ertad* "together", *pirvelad* "for the first time" (Wiktionary, under *-ad*).
+- **Some fixed adverbs:** *ertad* "together", *ṗirvelad* "for the first time" (Wiktionary, under *-ad*).
 
 **-დან *-dan***
 
@@ -233,7 +233,7 @@ confidence: constructed
 
 **Do not keep the -d before -mde.** *\*Sadguradmde* stacks the full adverbial. It loses its *-d*: *sadguramde*.
 
-**Do not truncate in the adverbial.** After *dedit* and *xit* it is tempting to write *\*xad* for "as a tree". The adverbial of a vowel stem never truncates: it adds *-d* to the full stem: *xed*, *dedad*, *sḳolad*.
+**Do not truncate in the adverbial.** After *dedit* and *xit* it is tempting to write *\*xad* for "as a tree". The adverbial of an ordinary vowel stem does not truncate: it adds *-d* to the full stem: *xed*, *dedad*, *sḳolad*.
 
 **Do not translate "as" with -vit.** *-Vit* compares (lesson 3-2): *masc̣avlebelivit* "like a teacher", someone who is not one. *Masc̣avleblad mušaobs* says what the person's role actually is.
 

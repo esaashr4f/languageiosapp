@@ -55,7 +55,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 15. Say "Rome is much larger than Carthage" in two ways (*Carthāgō, Carthāginis* f.).
 16. Say "with three thousand soldiers and two legions".
 17. Say "the citizens, fearing the enemy, sent the cavalry (*equitēs*) to help the town" with a double dative.
-18. Say "I saw a certain man in the forum, but I did not speak to anyone".
+18. Say "I saw a certain man in the forum, but I did not speak to anyone" (*forum, -ī* n. "forum, public square").
 19. Say "each man praises his own things, and nobody is content with another man's".
 20. Correct *\*In urbe ingente omnēs mīlitēs fortī erant*.
 21. Correct *\*Dux magis sapiēns est quam frāter suum*.
@@ -76,7 +76,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 8. *Memorēs*: adjective agreeing with *fīliī*, taking the genitive *verbōrum* (lesson 9). *Multōs annōs*: accusative of duration (part 3). *Fēlīciter*: adverb of *fēlīx* (lesson 3). *Neque quisquam*: "and no one"; after *neque*, "anyone" is *quisquam*, not *nēmō* (lesson 10).
 9. *Plūs quam duo mīlia*: *plūs* "more" with *quam*, here used without changing the case of *mīlia*, the subject; *mīlia* is a noun with the genitive *cīvium* (lessons 4 and 5). *Nēmō*: "no one", of persons (lesson 10).
 10. Ablatives of respect: "in language, customs, laws" (lesson 8). No conjunction, asyndeton: a quick, complete list (lesson 6).
-11. *Hōrum omnium*: partitive genitive with a superlative (lesson 9). *Fortissimī*: superlative of *fortis* (lesson 4). *Longē*: "by far", strengthening a superlative; an adverb from *longus* (lesson 3). *Dītissimus*: a contracted superlative of *dīves* (Wiktionary gives *dītior*, *dītissimus*; lesson 4).
+11. *Hōrum omnium*: partitive genitive with a superlative (lesson 9). *Fortissimī*: superlative of *fortis* (lesson 4). *Longē*: "by far", strengthening a superlative; an adverb from *longus* (lesson 3). *Dītissimus*: a contracted superlative of *dīves* (Wiktionary lists *dītior*, *dītissimus* under *dīs*, the contracted form of *dīves*; lesson 4).
 12. *Ūnā ex parte*: "on one side", *ūnus* as a numeral; Caesar goes on *alterā ex parte* and *tertiā* (lessons 2 and 5). *Flūmine*: ablative of means, "hemmed in by the river" (lesson 8). *Lātissimō atque altissimō*: superlatives agreeing with *flūmine*, "very wide and very deep", joined by *atque* (lessons 4 and 6). *Lātus* "wide" is lesson 3.
 13. *Mīles ācer*, *mīlitem ācrem*, *mīlitis ācris*, *mīlitī ācrī*, *mīlite ācrī*. Neuter nominative plural: *ācria*. Only the masculine nominative and vocative are *ācer*; the adjective ablative is *-ī* (lesson 1).
 14. *Fēminae fortēs gravia onera facile ferēbant.* *Fortēs*: third-declension, feminine plural like masculine; *gravia*: neuter plural *-ia*; *facile*: the adverb (lessons 1 and 3).

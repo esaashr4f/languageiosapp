@@ -133,7 +133,7 @@ orig: lazima
 morphemes: lazima
 gloss: necessity
 translation: necessity; must
-note: Wiktionary gives both /ˈlɑ.zi.mɑ/ (lázima, Arabic-style) and /lɑˈzi.mɑ/ (regular).
+note: Wiktionary gives both /ˈlɑ.zi.mɑ/ (lázima, Arabic-style, which it labels the Unguja standard) and /lɑˈzi.mɑ/ (regular, which it labels colloquial).
 source: wiktionary; polome1967 §2.1.5.1
 confidence: verified
 :::

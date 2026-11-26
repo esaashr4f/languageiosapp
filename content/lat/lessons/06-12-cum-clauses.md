@@ -49,7 +49,7 @@ Say "when this had been reported to Caesar, he hurried".
 
 - dating a past time, often with *tum* "then" in the main clause: *tum cum urbem condidit* "at the time when he founded the city";
 - present and future time: *cum vēneris, cognōscēs* "when you come, you will find out" (future perfect, as in lesson 3 of part 4);
-- "whenever", a repeated action: *cum … prohibent* "whenever they keep them out" (ag1903 §548);
+- "whenever", a repeated action: *cum … suīs fīnibus eōs prohibent* "when(ever) they keep them out of their own territory" (Caesar, Gallic War 1.1.4; ag1903 §548);
 - "inverted *cum*", where the main event is in the *cum* clause, often after *iam* or *nōndum*: *iam lūx appārēbat, cum prōcēdit* "day was already dawning when he came forward" (ag1903 §546a);
 - "in that", explaining: *cum tacent, clāmant* "in keeping silent, they cry out" (§549a).
 
@@ -134,7 +134,7 @@ orig: Iamque hoc facere noctū apparābant, cum mātrēs familiae repente in pū
 morphemes: iam=que hoc face-re noctū apparā-ba-nt cum mātr-ēs famili-ae repente in pūblic-um prōcurr-ērunt
 gloss: already=and this.ACC.SG.N do-INF by.night prepare-IPFV-3PL when mother-NOM.PL family-GEN.SG suddenly into public-ACC.SG.N run.out.PRF-3PL
 translation: They were already getting ready to do this by night, when suddenly the mothers of families ran out into the streets.
-note: The besieged Gauls at Avaricum plan to escape. Inverted cum: the main event is in the cum clause, with the indicative (ag1903 §546a). familiae is an old genitive form in the phrase māter familiae.
+note: The besieged Gauls at Avaricum plan to escape. Inverted cum: the main event is in the cum clause, with the indicative (ag1903 §546a). familiae is the ordinary genitive; the phrase is also written with the old genitive familiās, māter familiās (ag1903 §43b).
 source: Caesar, Gallic War 7.26.3
 confidence: attested
 :::
@@ -173,7 +173,7 @@ confidence: attested
 - **Dating a past time**, often with *tum*, *eō tempore* in the main clause; with the perfect or historic present it is always indicative (ag1903 §545 note 1).
 - **Exactly the same time** as the main verb, same tense: *laetus fuī cum audīvī* "I was glad when I heard" (ag1903 §545a).
 - **Present and future time**: present, future, future perfect (ag1903 §547).
-- **"Whenever"**: perfect for present time, pluperfect for past time (ag1903 §548; lesson 13 on general conditions).
+- **"Whenever"**: present or perfect for present time, pluperfect for past time (ag1903 §548; lesson 13 on general conditions).
 - **Inverted *cum***: after *iam*, *vix*, *nōndum* (ag1903 §546a).
 - **Explaining "in that"**, and after verbs of thanks: *grātulor tibi cum* "I congratulate you that" (ag1903 §549a).
 - **"Both … and"**: *cum … tum* (ag1903 §549b).
@@ -184,7 +184,7 @@ confidence: attested
 
 **Do not assume the subjunctive means "since".** In a past story, *cum* + imperfect or pluperfect subjunctive is most often plain "when". Try "when" first; switch to "since" or "although" only if the sense demands it.
 
-**Do not use the indicative for a narrative background by English habit.** *\*Cum Caesar in Galliā erat, litterās accēpit* is the early-Latin pattern. Classical prose describes the circumstances with the subjunctive: *cum … esset* (ag1903 §546).
+**Do not use the indicative for a narrative background by English habit.** *\*Cum Caesar in Galliā erat, litterās accēpit* is the early-Latin habit (ag1903 §546 note 4); in classical prose the imperfect indicative with *cum* only dates the time, and is much less common (§545 note 1). Classical prose describes the circumstances with the subjunctive: *cum … esset* (ag1903 §546).
 
 **Do not use the subjunctive with *cum* for future time.** *\*Cum veniās, cognōscēs* for "when you come". The future uses the indicative, usually the future perfect: *cum vēneris, cognōscēs* (ag1903 §547). Spanish *cuando vengas* uses the subjunctive here; Latin does not.
 
@@ -209,7 +209,7 @@ source: ag1903 §§544-549
 | subjunctive | although | by sequence | tamen in main clause |
 | indicative | when (dating) | perfect, historic present; any past | tum, eō tempore |
 | indicative | when (present, future) | present, future, future perfect | |
-| indicative | whenever | perfect (present time), pluperfect (past time) | repeated action |
+| indicative | whenever | present or perfect (present time), pluperfect (past time) | repeated action |
 | indicative | when (inverted) | perfect, historic present | iam, vix, nōndum before |
 | indicative | in that | same tense as main verb | |
 | indicative | cum … tum: both … and | any | tum in the next clause |
@@ -238,7 +238,7 @@ adversus | - | preposition | against, facing (+ acc.) | also adverb
 
 ## Connections
 
-Spanish *cuando* and French *quand* come from *quandō*, not from *cum*, which left no descendant in Spanish or French (Wiktionary). The Latin habit survives in another form: Spanish uses the subjunctive after *cuando* for future time (*cuando vengas*), where Latin used the indicative, and the indicative for past time, where classical Latin preferred the subjunctive. Japanese marks the same distinctions with different endings: *-ta toki* "at the time when", *-node* "since", *-noni* "although".
+Spanish *cuando* and French *quand* come from *quandō*, not from *cum* (Wiktionary); the conjunction *cum* did not survive as "when" in either language. The Latin habit survives in another form: Spanish uses the subjunctive after *cuando* for future time (*cuando vengas*), where Latin used the indicative, and the indicative for past time, where classical Latin preferred the subjunctive. Japanese marks the same distinctions with different endings: *-ta toki* "at the time when", *-node* "since", *-noni* "although".
 
 ## Exercises
 

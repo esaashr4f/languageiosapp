@@ -19,7 +19,7 @@ The **perfect** is the first screeve of series III. In form it brings two surpri
 
 **The second surprise is the vowel.** The perfect always has a version vowel, *i-* after *m-*, *g-*, *gv-* and *u-* for a third-person doer: *da-m-i-c̣eria*, *da-u-c̣eria*. Bolkvadze and Kiziria note that here the vowel "cannot express the category of version": it is part of the perfect's shape, not a "for whom". This guide still glosses it OV, by the marker-set convention of lesson 4-18.
 
-**The third point is meaning.** Bolkvadze and Kiziria write that the perfect "often implies that the subject did not witness or was not aware of the action being completed", and that its Georgian name, თურმეობითი, comes from *turme* "apparently". That is an **evidential** meaning: the form says something about how the speaker knows. *Ninom c̣erili dac̣era* (aorist) reports an event as seen or known; *ninos c̣erili dauc̣eria* (perfect) reports it as inferred or heard: "Nino has written the letter, it seems". But the perfect is not always evidential. Bolkvadze and Kiziria show that with *ar* it can be a plain statement: *ǯer ar minaxavs* "I haven't seen it yet" simply states that it has not happened, with no hint of hearsay. And with *uḳve* "already" it often means plain English "have done". Descriptions differ on how central the evidential sense is; this guide gives both readings and lets the context decide.
+**The third point is meaning.** Bolkvadze and Kiziria write that the perfect "often implies that the subject did not witness or was not aware of the action being completed", and that its Georgian name, თურმეობითი, comes from *turme* "apparently". That is an **evidential** meaning: the form says something about how the speaker knows. *Ninom c̣erili dac̣era* (aorist) reports an event as seen or known; *ninos c̣erili dauc̣eria* (perfect) reports it as inferred or heard: "Nino has written the letter, it seems". But the perfect is not always evidential. Bolkvadze and Kiziria show that with *ar* it can be a plain statement: *ǯer ar minaxavs* "I haven't seen it yet" states that it has not happened, with no hint of hearsay. And with *uḳve* "already" it often means plain English "have done". Descriptions differ on how central the evidential sense is; this guide gives both readings and lets the context decide.
 
 ## How it is built
 
@@ -199,6 +199,10 @@ source: wiktionary (დაწერს, ხატავს, თამაშო�
 თურმე | turme | particle | apparently, it turns out | marks what the speaker did not witness; mostly with the perfect (bolkvadze2023 §13.14)
 აგროვებს | agrovebs | verb | collects, gathers | class 1; perfect შეუგროვებია (bolkvadze2023 §9.6.3.1)
 მარკა | marḳa | noun | (postage) stamp |
+ახსოვს | axsovs | verb | remembers | class 4; 1SG მახსოვს; imperf. ახსოვდა; fut. ემახსოვრება (lingua.ge)
+ივიწყებს | ivic̣q̇ebs | verb | forgets | class 1; fut. დაივიწყებს; aor. დაივიწყა; pf. დაუვიწყია or დაუვიწყებია; masdar დავიწყება (lingua.ge)
+ჩანს | čans | verb | is visible; seems, turns out | present screeves; also მოჩანს "can be seen" (bolkvadze2023 §9.6.1.2.1)
+ეტყობა | eṭq̇oba | verb | it seems, it shows (that) | present; used like "apparently" |
 ეკლესია | eḳlesia | noun | church |
 კრება | ḳreba | noun | meeting, assembly |
 შეხვედრა | šexvedra | noun | meeting; get-together |

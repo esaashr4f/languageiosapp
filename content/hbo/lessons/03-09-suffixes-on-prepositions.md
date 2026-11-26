@@ -201,7 +201,7 @@ translit: ʾal-nāʾ ṯəhî mərîḇâ bênî ûḇênêḵā
 morphemes: ʾal nāʾ ṯəhî mərîḇâ bên-î û=ḇên-êḵā
 gloss: not please be.JUSS.3SG.F strife between-1SG and=between-2SG.M
 translation: Please let there be no strife between me and you.
-note: Abram to Lot. bên is repeated, as usual (lesson 2.2). The rule is the singular set, bênî, bênəḵā (Gesenius §103o; bênəḵā 6× in WLC), but here the second takes -êḵā with y, the only such form in WLC. Gesenius notes a similar bênêḵā in Genesis 16:5, where the y is dotted as doubtful.
+note: Abram to Lot. bên is repeated, as usual (lesson 2.2). The rule is the singular set, bênî, bênəḵā (Gesenius §103o; bênəḵā 6× in WLC), but here the second takes -êḵā with y. WLC has this form only here and in Genesis 16:5, where the y carries a dot marking it as doubtful (Gesenius §103o).
 source: Genesis 13:8 (WLC)
 confidence: attested
 preview: JUSS

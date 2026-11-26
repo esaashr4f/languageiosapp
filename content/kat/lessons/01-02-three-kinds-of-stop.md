@@ -21,23 +21,22 @@ Georgian has three kinds, at each of three places in the mouth: the lips, the te
 - **Aspirated**: *p*, *t*, *k*, with a clear puff of breath, like English "pin", "tin", "kin". **Aspiration** is that puff.
 - **Ejective**: *ṗ*, *ṭ*, *ḳ*, with no puff and no hum, but a sharp click-like release. This guide marks them with a dot.
 
-The three are different sounds, as different as *p* and *b* are in English. Swapping one for another changes the word: *kari* is "wind" and *ḳari* is "door". Bolkvadze and Kiziria call these sets of three the consonant **triples**, and they point out that each member contrasts with both of the others.
+The three are different sounds. Swapping one for another changes the word: *kari* is "wind" and *ḳari* is "door". Bolkvadze and Kiziria call these sets of three the consonant **triples**, and they point out that each member contrasts with both of the others.
 
-Why three? The answer is history and geography. Bolkvadze and Kiziria report the reconstruction of Gamkrelidze and Ivanov, in which Proto-Kartvelian, the ancestor of Georgian and its sister languages, already had three series of stops. And Hewitt notes that every native language family of the Caucasus has ejectives. Georgian is not an oddity in its region. English is the odd one out.
+Why three? Bolkvadze and Kiziria report the reconstruction of Gamkrelidze and Ivanov, in which Proto-Kartvelian, the ancestor of Georgian and its sister languages, already had three series of stops. And Hewitt notes that every native language family of the Caucasus has ejectives. Georgian is not an oddity in its region. English is the odd one out.
 
 ## How it is built
 
 An **ejective** is a stop made with the throat closed. The air that pushes it out comes not from the lungs but from the mouth itself. Aronson describes it as saying a glottal stop and the ordinary stop at the same moment. A **glottal stop** is the catch in the throat in the middle of English "uh-oh", or in "button" said as "bu'on".
 
-To make *ḳ*, take five steps.
+To make *ḳ*, take four steps.
 
 1. Hold your breath, as if about to lift something heavy. That closes the throat.
-2. Keeping it closed, put your tongue in position for *k*.
-3. Push up from the throat, as if swallowing in reverse. Pressure builds behind the tongue.
-4. Release the *k*. You hear a sharp pop, louder than an English *k*, with no breath after it.
-5. Then release the throat and go into the vowel: *ḳa*.
+2. Keeping it closed, put your tongue in position for *k* and push up from the throat. Pressure builds behind the tongue.
+3. Release the *k*. You hear a sharp pop with no breath after it.
+4. Then open the throat and go into the vowel: *ḳa*.
 
-Practise *ḳa*, *ṭa*, *ṗa* until the pop is clean, then put them against *ka*, *ta*, *pa*, which have a strong puff, and *ga*, *da*, *ba*.
+Practise *ḳa*, *ṭa*, *ṗa* against *ka*, *ta*, *pa* and *ga*, *da*, *ba*.
 
 Two details matter.
 
@@ -167,7 +166,7 @@ confidence: verified
 
 **Arabic emphatics are not ejectives either.** Arabic ṭ in *ṭayyib* is made with the back of the tongue raised; it has no throat closure and no pop.
 
-**Do not over-aspirate after s.** English *t* in "stop" has no puff. Georgian *t* keeps its puff in clusters: Aronson notes that clusters change little.
+**Clusters keep each kind.** English *t* loses its puff after *s*, as in "stop". Georgian consonants in a cluster keep their own kind: Aronson notes little or no blending of voicing, aspiration or ejection inside clusters. Lesson 1-4 shows what this means in practice.
 
 ## Reference table
 
@@ -204,7 +203,7 @@ source: bolkvadze2023 §3.1.1; aronson1990 §1.1; wiktionary
 
 ## Connections
 
-Korean gives you the closest start: its plain, aspirated and tense stops are a three-way set like Georgian's, and Korean ㅋ ㅌ ㅍ are close to Georgian *k*, *t*, *p*. Spanish and French *p*, *t*, *k* have no puff; they are halfway between Georgian aspirates and ejectives and are neither.
+Korean gives you the closest start: its plain, aspirated and tense stops are a three-way set like Georgian's, and Korean ㅋ ㅌ ㅍ are close to Georgian *k*, *t*, *p*. Spanish and French *p*, *t*, *k* have no puff, so do not use them for Georgian *p*, *t*, *k*, which need it.
 
 ## Exercises
 
@@ -223,5 +222,5 @@ Korean gives you the closest start: its plain, aspirated and tense stops are a t
 3. *puri* is "cow". Bread is *ṗuri*, with the ejective.
 4. Because *ḳ* has no puff of breath, and in English a *k*-like sound without a puff is usually a *g*. He should listen for the pop of the release and the absence of hum.
 5. [tʰavi] and [tʼani]. [ʰ] marks aspiration, the puff of breath. [ʼ] marks an ejective, made with the throat closed.
-6. Because the sound is a *d* in Georgian's system: it is voiced elsewhere in the word's forms, and the spelling records that. Aronson says final voiced stops are generally said as aspirates; Hewitt says the tendency is slight and not widespread.
+6. Because Georgian spelling writes the sound in the system, a voiced *d*. Losing the voice at the end of a word is a habit of pronunciation, and spelling does not follow it; Hewitt knows only a very few words whose spelling changed to *t* as a result. Aronson says final voiced stops are generally said as aspirates; Hewitt calls the tendency slight and not widespread.
 7. Because every native language family of the Caucasus has ejectives (Hewitt), and the three series go back to Proto-Kartvelian in the standard reconstruction (reported by Bolkvadze and Kiziria). In its region the contrast is normal.

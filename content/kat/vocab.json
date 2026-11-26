@@ -1,0 +1,825 @@
+{
+ "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
+ "count": 91,
+ "words": [
+  {
+   "headword": "მამა",
+   "translit": "mama",
+   "pos": "noun",
+   "meaning": "father",
+   "forms": "gen. მამის",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "დედა",
+   "translit": "deda",
+   "pos": "noun",
+   "meaning": "mother",
+   "forms": "gen. დედის; also \"nun\"",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ხე",
+   "translit": "xe",
+   "pos": "noun",
+   "meaning": "tree",
+   "forms": "gen. ხის",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ია",
+   "translit": "ia",
+   "pos": "noun",
+   "meaning": "violet (flower); a woman's name",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ეზო",
+   "translit": "ezo",
+   "pos": "noun",
+   "meaning": "yard, courtyard",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ქუდი",
+   "translit": "kudi",
+   "pos": "noun",
+   "meaning": "hat",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "გული",
+   "translit": "guli",
+   "pos": "noun",
+   "meaning": "heart",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ოქრო",
+   "translit": "okro",
+   "pos": "noun",
+   "meaning": "gold",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "მეგობარი",
+   "translit": "megobari",
+   "pos": "noun",
+   "meaning": "friend",
+   "forms": "gen. მეგობრის",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ძმა",
+   "translit": "ʒma",
+   "pos": "noun",
+   "meaning": "brother",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "და",
+   "translit": "da",
+   "pos": "noun",
+   "meaning": "sister",
+   "forms": "pl. დები",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "და",
+   "translit": "da",
+   "pos": "conjunction",
+   "meaning": "and",
+   "forms": "",
+   "first_lesson": "kat-01-01",
+   "confidence": "uncertain"
+  },
+  {
+   "headword": "ბარი",
+   "translit": "bari",
+   "pos": "noun",
+   "meaning": "valley; spade",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფარი",
+   "translit": "pari",
+   "pos": "noun",
+   "meaning": "shield",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პური",
+   "translit": "ṗuri",
+   "pos": "noun",
+   "meaning": "bread",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფური",
+   "translit": "puri",
+   "pos": "noun",
+   "meaning": "cow",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დარი",
+   "translit": "dari",
+   "pos": "noun",
+   "meaning": "weather, fine weather",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტარი",
+   "translit": "ṭari",
+   "pos": "noun",
+   "meaning": "handle",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თავი",
+   "translit": "tavi",
+   "pos": "noun",
+   "meaning": "head; chapter",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტანი",
+   "translit": "ṭani",
+   "pos": "noun",
+   "meaning": "body",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქარი",
+   "translit": "kari",
+   "pos": "noun",
+   "meaning": "wind",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კარი",
+   "translit": "ḳari",
+   "pos": "noun",
+   "meaning": "door",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქალი",
+   "translit": "kali",
+   "pos": "noun",
+   "meaning": "woman",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კაცი",
+   "translit": "ḳaci",
+   "pos": "noun",
+   "meaning": "man; person",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გოგო",
+   "translit": "gogo",
+   "pos": "noun",
+   "meaning": "girl",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კარგი",
+   "translit": "ḳargi",
+   "pos": "adjective",
+   "meaning": "good",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კარგად",
+   "translit": "ḳargad",
+   "pos": "adverb",
+   "meaning": "well; (as a farewell) bye",
+   "forms": "",
+   "first_lesson": "kat-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძილი",
+   "translit": "ʒili",
+   "pos": "noun",
+   "meaning": "sleep",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცა",
+   "translit": "ca",
+   "pos": "noun",
+   "meaning": "sky",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წელი",
+   "translit": "c̣eli",
+   "pos": "noun",
+   "meaning": "year",
+   "forms": "gen. წლის",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჯარი",
+   "translit": "ǯari",
+   "pos": "noun",
+   "meaning": "army",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩაი",
+   "translit": "čai",
+   "pos": "noun",
+   "meaning": "tea",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჭიქა",
+   "translit": "č̣ika",
+   "pos": "noun",
+   "meaning": "glass, cup, mug",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყავა",
+   "translit": "q̇ava",
+   "pos": "noun",
+   "meaning": "coffee",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხელი",
+   "translit": "xeli",
+   "pos": "noun",
+   "meaning": "hand; handwriting",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღამე",
+   "translit": "ɣame",
+   "pos": "noun",
+   "meaning": "night",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჟურნალი",
+   "translit": "žurnali",
+   "pos": "noun",
+   "meaning": "magazine; register",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზღვა",
+   "translit": "zɣva",
+   "pos": "noun",
+   "meaning": "sea",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვაშლი",
+   "translit": "vašli",
+   "pos": "noun",
+   "meaning": "apple",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბავშვი",
+   "translit": "bavšvi",
+   "pos": "noun",
+   "meaning": "child",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჰაერი",
+   "translit": "haeri",
+   "pos": "noun",
+   "meaning": "air",
+   "forms": "",
+   "first_lesson": "kat-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დღე",
+   "translit": "dɣe",
+   "pos": "noun",
+   "meaning": "day; daytime",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტყე",
+   "translit": "ṭq̇e",
+   "pos": "noun",
+   "meaning": "forest, wood",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წყალი",
+   "translit": "c̣q̇ali",
+   "pos": "noun",
+   "meaning": "water",
+   "forms": "gen. წყლის",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბგერა",
+   "translit": "bgera",
+   "pos": "noun",
+   "meaning": "sound",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფქვილი",
+   "translit": "pkvili",
+   "pos": "noun",
+   "meaning": "flour",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცხვირი",
+   "translit": "cxviri",
+   "pos": "noun",
+   "meaning": "nose",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თხილი",
+   "translit": "txili",
+   "pos": "noun",
+   "meaning": "hazelnut",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცხენი",
+   "translit": "cxeni",
+   "pos": "noun",
+   "meaning": "horse",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტკბილი",
+   "translit": "ṭḳbili",
+   "pos": "adjective",
+   "meaning": "sweet",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კბილი",
+   "translit": "ḳbili",
+   "pos": "noun",
+   "meaning": "tooth",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყბა",
+   "translit": "q̇ba",
+   "pos": "noun",
+   "meaning": "jaw",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მგელი",
+   "translit": "mgeli",
+   "pos": "noun",
+   "meaning": "wolf",
+   "forms": "gen. მგლის",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწვრთნელი",
+   "translit": "mc̣vrtneli",
+   "pos": "noun",
+   "meaning": "trainer, coach",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თბილისი",
+   "translit": "tbilisi",
+   "pos": "proper noun",
+   "meaning": "Tbilisi, the capital of Georgia",
+   "forms": "",
+   "first_lesson": "kat-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ენა",
+   "translit": "ena",
+   "pos": "noun",
+   "meaning": "language; tongue",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ლომი",
+   "translit": "lomi",
+   "pos": "noun",
+   "meaning": "lion",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სული",
+   "translit": "suli",
+   "pos": "noun",
+   "meaning": "soul, spirit",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნავი",
+   "translit": "navi",
+   "pos": "noun",
+   "meaning": "boat",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნისლი",
+   "translit": "nisli",
+   "pos": "noun",
+   "meaning": "fog, mist",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მელა",
+   "translit": "mela",
+   "pos": "noun",
+   "meaning": "fox",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მარილი",
+   "translit": "marili",
+   "pos": "noun",
+   "meaning": "salt",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ერი",
+   "translit": "eri",
+   "pos": "noun",
+   "meaning": "nation, people",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სალამი",
+   "translit": "salami",
+   "pos": "interjection",
+   "meaning": "hello",
+   "forms": "",
+   "first_lesson": "kat-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფული",
+   "translit": "puli",
+   "pos": "noun",
+   "meaning": "money",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დიდი",
+   "translit": "didi",
+   "pos": "adjective",
+   "meaning": "big, large, great",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თითი",
+   "translit": "titi",
+   "pos": "noun",
+   "meaning": "finger",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პატარა",
+   "translit": "ṗaṭara",
+   "pos": "adjective",
+   "meaning": "little, small",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტბა",
+   "translit": "ṭba",
+   "pos": "noun",
+   "meaning": "lake",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქალაქი",
+   "translit": "kalaki",
+   "pos": "noun",
+   "meaning": "city, town",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბინა",
+   "translit": "bina",
+   "pos": "noun",
+   "meaning": "flat, apartment",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დილა",
+   "translit": "dila",
+   "pos": "noun",
+   "meaning": "morning",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თეატრი",
+   "translit": "teaṭri",
+   "pos": "noun",
+   "meaning": "theatre",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პოლიტიკა",
+   "translit": "ṗoliṭiḳa",
+   "pos": "noun",
+   "meaning": "politics; policy",
+   "forms": "",
+   "first_lesson": "kat-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სახლი",
+   "translit": "saxli",
+   "pos": "noun",
+   "meaning": "house; home",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წიგნი",
+   "translit": "c̣igni",
+   "pos": "noun",
+   "meaning": "book",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძაღლი",
+   "translit": "ʒaɣli",
+   "pos": "noun",
+   "meaning": "dog",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩიტი",
+   "translit": "čiṭi",
+   "pos": "noun",
+   "meaning": "bird; sparrow",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყველი",
+   "translit": "q̇veli",
+   "pos": "noun",
+   "meaning": "cheese",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შაქარი",
+   "translit": "šakari",
+   "pos": "noun",
+   "meaning": "sugar",
+   "forms": "gen. შაქრის",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზამთარი",
+   "translit": "zamtari",
+   "pos": "noun",
+   "meaning": "winter",
+   "forms": "gen. ზამთრის",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცივი",
+   "translit": "civi",
+   "pos": "adjective",
+   "meaning": "cold",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჯიბე",
+   "translit": "ǯibe",
+   "pos": "noun",
+   "meaning": "pocket",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხორცი",
+   "translit": "xorci",
+   "pos": "noun",
+   "meaning": "meat",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძროხა",
+   "translit": "ʒroxa",
+   "pos": "noun",
+   "meaning": "cow",
+   "forms": "",
+   "first_lesson": "kat-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ანბანი",
+   "translit": "anbani",
+   "pos": "noun",
+   "meaning": "alphabet; ABC book",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასო",
+   "translit": "aso",
+   "pos": "noun",
+   "meaning": "letter (of the alphabet)",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დამწერლობა",
+   "translit": "damc̣erloba",
+   "pos": "noun",
+   "meaning": "script, writing system",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მხედრული",
+   "translit": "mxedruli",
+   "pos": "noun",
+   "meaning": "Mkhedruli, the modern Georgian script",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მთავრული",
+   "translit": "mtavruli",
+   "pos": "noun",
+   "meaning": "Mtavruli, all-capital letters; (adjective) capital, main",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მხედარი",
+   "translit": "mxedari",
+   "pos": "noun",
+   "meaning": "horseman, rider",
+   "forms": "",
+   "first_lesson": "kat-01-08",
+   "confidence": "verified"
+  }
+ ]
+}

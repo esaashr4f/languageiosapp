@@ -181,5 +181,34 @@
    "tag": "demonstratives"
   }
  },
- "terms": {}
+ "terms": {
+  "polypersonal": "Marking more than one person (subject and objects) on the verb (kat-00-02).",
+  "preverb": "A prefix on the verb that adds direction or completion and often marks the future (kat-00-02).",
+  "version": "A vowel before the verb root saying for whom or whose the action is (kat-00-02).",
+  "series": "One of three groups of verb forms (present/future, aorist, perfect) that differ in how subject and object are marked (kat-00-02).",
+  "screeve": "One tense-aspect-mood form of the verb, such as the present or the aorist (named kat-00-02; defined in kat-04-08).",
+  "ergative": "The case of a transitive subject in the aorist series (kat-00-02).",
+  "transliteration": "Writing a script letter for letter in Latin letters (kat-00-03).",
+  "gloss": "The line under an example that labels each piece of each word (kat-00-03).",
+  "diphthong": "Two vowel sounds glided together in one syllable (kat-01-01).",
+  "syllable": "A beat of a word, built round one vowel (kat-01-01).",
+  "stress": "The extra force on one syllable; weak in Georgian (kat-01-01).",
+  "intonation": "The rise and fall of pitch across a sentence (kat-01-01).",
+  "stop": "A consonant made by blocking the air and releasing it (kat-01-02).",
+  "aspiration": "A puff of breath after a stop (kat-01-02).",
+  "ejective": "A stop made with a closed throat and released with a pop, marked with a dot in this guide (kat-01-02).",
+  "glottal stop": "A catch in the throat, as in the middle of 'uh-oh' (kat-01-02).",
+  "triple": "A set of three related stops: voiced, aspirated and ejective (kat-01-02).",
+  "affricate": "A stop released into a fricative, as ts or ch (kat-01-03).",
+  "fricative": "A consonant made with friction, as s, sh, x (kat-01-03).",
+  "uvular": "Made at the uvula, at the back of the mouth, as q̇ (kat-01-03).",
+  "cluster": "Two or more consonants with no vowel between them (kat-01-04).",
+  "harmonic cluster": "A pair of stops released together as one sound, such as bg or tkh (kat-01-04).",
+  "sonant": "A consonant such as m, n, l, r, v that can carry a syllable-like role (kat-01-04).",
+  "Mkhedruli": "The everyday Georgian script (kat-01-05).",
+  "Asomtavruli": "The oldest Georgian script (kat-01-08).",
+  "Nuskhuri": "The medieval church script (kat-01-08).",
+  "Khutsuri": "Asomtavruli and Nuskhuri together, the ecclesiastical scripts (kat-01-08).",
+  "Mtavruli": "Capital-style letters of Mkhedruli used in headings (kat-01-08)."
+ }
 }

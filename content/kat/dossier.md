@@ -261,3 +261,15 @@ Translations are always our own.
   - **Japanese and Korean**: verb-final order, postpositions, no articles, dropped pronouns, and dative-subject "I have" constructions (Korean *-ege ... itta*); Korean's three-way stop contrast (plain, aspirated, tense) is the nearest familiar thing to Georgian's, though Korean tense stops are not ejectives.
   - **Arabic**: Georgian has Arabic loanwords, mostly received through Persian (hewitt1995 §3.1.1, quoting Vogt, mentions stems "of foreign origin, especially Arabo-Persian"). Check any claimed loan in wiktionary's etymology section before stating it. Arabic's emphatic consonants are not ejectives: do not equate them.
   - **Basque** (if in the app): another ergative language of Europe with case-driven alignment, but without Georgian's split by tense.
+
+
+## Notes from drafting parts 0 and 1 (2026-11-26)
+
+- Correction to §2: Wiktionary prints the vowels as [ä e̞ i o̞ u], not [ɑ …]. The lessons use Aronson's broad [a ɛ i ɔ u] and mention Wiktionary's symbols.
+- Harmonic clusters: cite bolkvadze2023 §3.1.4 too (two systems of four triples: A with g/k/ḳ, B with ɣ/x/q̇).
+- Cluster example: Hewitt *prckvna*, Bolkvadze & Kiziria ფცქვნა, Wiktionary ფრცქვნა only; the lesson uses Hewitt's verb form with the root checked on Wiktionary.
+- Correction to §8: inversion glossing is explained in kat-04-18 (where the `inversion` tag is), not kat-04-17.
+- Sources disagree on the site of the c. 430 inscription (Hewitt: near Bethlehem; Aronson: Monastery of the Cross, Jerusalem) and on the end of Old Georgian (11th vs 12th century); lessons give both or the neutral form.
+- Sources disagree on whether identical adjacent vowels merge (bolkvadze2023) or stay two syllables (Hewitt, Aronson): kat-01-01 is labelled uncertain.
+- Left out of vocab on purpose, to be introduced later: pronouns and question words (მე, ის, შენ, თქვენ, ვინ, რა), numerals, არა, the verbs წერს, ხატავს, აშენებს, and წერილი.
+- Lessons refer to each other as "lesson 1-4", "part 4". "Screeve" must be defined properly in kat-04-08.

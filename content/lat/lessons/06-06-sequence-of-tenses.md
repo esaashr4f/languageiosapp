@@ -35,7 +35,7 @@ One honest warning. The dossier's sources stress that the sequence of tenses is 
 
 ## How it is built
 
-**The first place you will use it: clauses inside a reported statement.** The last lesson put the main verb of a reported statement into the infinitive. Any clause *inside* it, a relative clause or a *quod* clause, goes into the subjunctive (ag1903 §580). The subjunctive here does not add a meaning of wish or possibility; Allen and Greenough say it only marks the clause as part of what someone else said (ag1903 §577).
+**The first place you will use it: clauses inside a reported statement.** The last lesson put the main verb of a reported statement into the infinitive. Any clause *inside* it, a relative clause or a *quod* clause, goes into the subjunctive (ag1903 §580). The subjunctive here does not add a meaning of wish or possibility; Allen and Greenough say it has "no significance except to make more distinct the fact that these clauses are subordinate" (ag1903 §577).
 
 Say "he says that the book which he is reading is good".
 
@@ -119,12 +119,12 @@ confidence: attested
 :::
 
 :::example
-orig: Lēgātōs ad eum mittunt, quī dīcerent sibi esse in animō sine ūllō maleficiō iter per prōvinciam facere, proptereā quod aliud iter habērent nūllum: rogāre ut eius voluntāte id sibi facere liceat.
+orig: Lēgātōs ad eum mittunt … quī dīcerent sibi esse in animō sine ūllō maleficiō iter per prōvinciam facere, proptereā quod aliud iter habērent nūllum: rogāre ut eius voluntāte id sibi facere liceat.
 morphemes: lēgāt-ōs ad eum mitt-unt quī dīce-re-nt sibi es-se in anim-ō sine ūll-ō malefici-ō iter per prōvinci-am face-re proptereā quod ali-ud iter habē-re-nt nūll-um rogā-re ut eius voluntāt-e id sibi face-re lice-a-t
 gloss: envoy-ACC.PL to 3SG.ACC.M send-3PL REL.NOM.PL.M say-IPFV.SBJV-3PL REFL.DAT be-INF in mind-ABL.SG without any-ABL.SG.N wrongdoing-ABL.SG journey.ACC.SG through province-ACC.SG make-INF for.that.reason because other-ACC.SG.N route.ACC.SG have-IPFV.SBJV-3PL none-ACC.SG.N ask-INF that 3SG.GEN goodwill-ABL.SG 3SG.ACC.N REFL.DAT do-INF be.allowed-SBJV-3SG
 translation: They send envoys to say that they intended to march through the Province without doing any harm, because they had no other route; they asked to be allowed to do it with his consent.
 literal: They send envoys who were to say that it was in their mind to make a journey… because they had no other route: (they said that they) asked that it might be allowed to them by his goodwill to do it.
-note: An exception inside one sentence. After the historic present mittunt, Caesar uses secondary sequence (dīcerent, habērent) and then primary (liceat) (ag1903 §485e). quī dīcerent is a purpose clause and ut … liceat an indirect request, both previews (lessons 7 and 10).
+note: An exception inside one sentence. The gap names the leading envoys. After the historic present mittunt, Caesar uses secondary sequence (dīcerent, habērent) and then primary (liceat) (ag1903 §485e). quī dīcerent is a purpose clause and ut … liceat an indirect request, both previews (lessons 7 and 10).
 source: Caesar, Gallic War 1.7.3
 confidence: attested
 preview: purpose clause, indirect command

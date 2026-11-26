@@ -13,19 +13,19 @@ sources: [goksel2005, wpphon, wiktionary, tdk]
 
 ## The idea
 
-The rules of this part were made by native words. Turkish has also taken in thousands of words from Arabic, Persian, French, Italian and other languages, and those words did not grow up under harmony. This lesson covers what happens when they meet Turkish suffixes, and closes with two spelling conventions: the apostrophe on names and the shape of the alphabet itself.
+The rules of this part were made by native words. Turkish has also taken in a great many words from Arabic, Persian, French, Italian and other languages, and those words did not grow up under harmony. This lesson covers what happens when they meet Turkish suffixes, and closes with two spelling conventions: the apostrophe on names and the shape of the alphabet itself.
 
 **Mixed vowels in the root.** Many loanwords mix front and back vowels: *kitap* "book" (from Arabic), *otobüs* "bus" and *telefon* "telephone" (from French). That does not disturb the suffixes. A suffix always looks at the last vowel, so *otobüsler*, *telefonlar*. You saw the same with native *elma* in lesson 4.
 
 **Front suffixes after a back vowel.** A smaller group of loans goes further: the last vowel is back, yet the suffixes are front. *Saat* "hour" gives *saatler*, *saati*. *Rol* "role" gives *roller*, *rolü*. *Kalp* "heart" gives *kalpler*, *kalbi*. This is the main exception to the harmony rules, and it has a reason.
 
-Harmony, as lesson 2 showed, is really about the front or back position of the tongue, and consonants have that position too. In *rol*, borrowed from French *rôle*, the *l* is the clear, front [l] of the French word, not the dark Turkish [ɫ] that would normally follow *o*. The suffix harmonises with that front consonant. In *saat*, from Arabic *sāʿa*, the final *t* stands for an Arabic feminine ending, and words of that type regularly take front suffixes. *Kalp* belongs to a set of Arabic words of one syllable that do the same. The pattern is lexical: it belongs to particular words, not to a class you can always spot. The dictionary of the Türk Dil Kurumu marks such words by giving their accusative, and this guide does the same.
+Harmony, as lesson 2 showed, is really about the front or back position of the tongue, and consonants have that position too. In *rol*, borrowed from French *rôle*, the *l* is the clear, front [l] of the French word, not the dark Turkish [ɫ] that would normally follow *o*. The suffix harmonises with that front consonant. In *saat*, from Arabic *sāʿa*, the final *t* stands for an Arabic feminine ending, and words of that type usually take front suffixes. *Kalp* belongs to a set of Arabic words of one syllable that do the same. The pattern is lexical: it belongs to particular words, not to a class you can always spot. The dictionary of the Türk Dil Kurumu marks such words by giving their accusative, and this guide does the same.
 
 The exceptions are slowly being worn away. The Wikipedia article on Turkish phonology, following Lewis's grammar, notes a tendency to regularise them, especially in common words whose foreign origin is no longer felt.
 
 **Consonant clusters at the start.** Native words never begin with two consonants. Many loans do: *tren* "train", *spor* "sport". Some speakers insert a helping vowel, saying something like [tiɾen] or [ispoɾ]. The spelling does not change.
 
-**The apostrophe on names.** When a case suffix or a possessive is added to a proper name, an apostrophe separates them: *İstanbul'a* "to Istanbul", *Türkiye'de* "in Turkey". It shows where the name ends. Common nouns never take it: *evde*, not \**ev'de*. Nor does the plural or a suffix that makes a new word: *Türkler* "Turks", *Türkçe* "Turkish". The name keeps its spelling even when the sound changes: a name ending in *t* is still written with *t* before a vowel, though often said with [d].
+**The apostrophe on names.** When an inflectional suffix, such as a case suffix or a possessive, is added to a proper name, an apostrophe separates them: *İstanbul'a* "to Istanbul", *Türkiye'de* "in Turkey". It shows where the name ends. Common nouns never take it: *evde*, not \**ev'de*. Nor does the plural or a suffix that makes a new word: *Türkler* "Turks", *Türkçe* "Turkish". The name keeps its spelling even when the sound changes: a name ending in *t* is still written with *t* before a vowel, though often said with [d].
 
 **The alphabet of 1928.** The alphabet has 29 letters: *a b c ç d e f g ğ h ı i j k l m n o ö p r s ş t u ü v y z*. There is no *q*, *w* or *x*. The circumflex is a mark, not a letter. In the alphabetical order of dictionaries, *ç* follows *c*, *ğ* follows *g*, *ı* comes before *i*, *ö* follows *o*, *ş* follows *s* and *ü* follows *u*. The design reflects the language: eight vowel letters for eight vowels, and one letter for each of the "ch", "sh" and "j" sounds.
 
@@ -226,7 +226,7 @@ French readers will recognise *otobüs*, *tren*, *istasyon*, *telefon* and *rol*
 1. *İstasyonlar* and *otobüsler*, following the last vowel. *Roller* is the surprise: the last vowel is back *o*, but the *l* is the clear front [l] of French *rôle*, so the suffix is front.
 2. *Türkiye* is a proper name, so the case suffix is separated by an apostrophe. *Ev* is a common noun and takes none.
 3. *Saatte*. *Saat* takes front suffixes, so *e*; and its final *t* is voiceless, so *-DA* becomes *-te* (lesson 6).
-4. *Türkler*. The apostrophe goes only before case and possessive suffixes on names. The plural takes none.
+4. *Türkler*. The apostrophe goes only before inflectional suffixes on names, such as case and possessive suffixes. The plural is the exception and takes none.
 5. *Kalbi*. The final *p* becomes *b* before a vowel (lesson 6), and the suffix is front *-i*, not *-ı*, because *kalp* is one of the loans with front suffixes.
 6. *Ankara'ya*. *Ankara* ends in a vowel, so the buffer *y* comes in; the last vowel *a* is back, so the vowel is *a*; and the apostrophe separates the name.
 7. One letter for one sound: *ç* and *ş* give single letters to "ch" and "sh". And Turkish has eight vowels, so it needs eight vowel letters, including *ı*, *ö* and *ü*.

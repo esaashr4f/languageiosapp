@@ -61,7 +61,7 @@ Historians of the language divide its written history into three periods.
 - **Middle Georgian**, from the twelfth century to the eighteenth. Rustaveli belongs here.
 - **Modern Georgian**, from the nineteenth century on.
 
-The sources disagree slightly about where to draw the lines. Hewitt ends Old Georgian in the eleventh century, and Bolkvadze and Kiziria in the twelfth. Hewitt also warns that the language changed gradually and that the periods are a convenience, not clean breaks.
+The sources disagree slightly about where to draw the lines. Hewitt ends Old Georgian in the eleventh century, and Bolkvadze and Kiziria in the twelfth. Hewitt, following the Georgian scholar Sardzhveladze, warns that the language changed gradually and that clean breaks cannot be imposed on it; Bolkvadze and Kiziria likewise call the three periods "only working terms".
 
 The modern standard was shaped in the second half of the nineteenth century, when writers led by Ilia Chavchavadze (1837–1907), as part of a national revival, replaced the church's old written norm with the language people actually spoke.
 

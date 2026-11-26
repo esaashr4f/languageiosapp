@@ -161,8 +161,8 @@ confidence: attested
 
 :::example
 orig: Gallia est omnis dīvīsa in partēs trēs
-morphemes: Galli-a est omn-is dīvī-s-a in part-ēs tr-ēs
-gloss: Gaul-NOM.SG be.3SG all-NOM.SG.F divide-PTCP-NOM.SG.F into part-ACC.PL three-ACC.PL.F
+morphemes: Galli-a est omn-is dīvīs-a in part-ēs tr-ēs
+gloss: Gaul-NOM.SG be.3SG all-NOM.SG.F divide.PTCP-NOM.SG.F into part-ACC.PL three-ACC.PL.F
 translation: Gaul as a whole is divided into three parts.
 note: The opening of Caesar's Gallic War. pars, partis is an i-stem (rule 2), genitive plural partium. Previews: dīvīsa, a participle (part 4), and the third-declension adjectives omnis and trēs (part 5).
 source: Caesar, Gallic War 1.1.1

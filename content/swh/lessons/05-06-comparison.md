@@ -122,9 +122,9 @@ orig: Nina vitabu vingi zaidi.
 morphemes: ni-na vi-tabu v-ingi zaidi
 gloss: 1SG.SM-with C8-book C8-many more
 translation: I have more books.
-note: Zaidi alone when nothing follows; Thompson and Schleicher give this sentence.
-source: thompson2001 p. 378
-confidence: verified
+note: Zaidi alone when nothing follows. Thompson and Schleicher (p. 378) give this sentence, printed with vyingi.
+source: constructed
+confidence: constructed
 :::
 
 :::example
@@ -255,8 +255,8 @@ Many languages compare with a word for "pass" or "exceed": Japanese uses *yori* 
 1. Say "the cow is bigger than the goat".
 2. Say "this is the cheapest shop" (*rahisi* "cheap").
 3. Translate *Kiswahili ni rahisi kuliko Kiarabu.*
-4. Say "she is older than me" with *kumzidi*-type phrasing avoided: use *mkubwa kuliko*.
-5. Say "more than twenty students failed" (*-shindwa* is not taught: use *hawakufaulu*).
+4. Say "she is older than me".
+5. Say "more than twenty students did not pass".
 6. Say "better to eat now than later" (*baadaye*).
 7. Correct *\*Ali ni mrefu kushinda mimi.*
 8. Correct *\*Chai ni zaidi tamu kuliko kahawa.*
@@ -272,6 +272,6 @@ Many languages compare with a word for "pass" or "exceed": Japanese uses *yori* 
 5. *Zaidi ya* with a number: *Zaidi ya wanafunzi ishirini hawakufaulu.*
 6. *Afadhali kula sasa kuliko baadaye.*
 7. *Kushinda* takes an object prefix for a person, here "me": *Ali ni mrefu kunishinda mimi* (or *mrefu kuliko mimi*).
-8. *Zaidi* follows the adjective, and the class 9 adjective *-tamu* is *tamu*: *Chai ni tamu zaidi kuliko kahawa*, or simply *Chai ni tamu kuliko kahawa.*
+8. *Zaidi* never goes before the adjective. Either *Chai ni tamu kuliko kahawa* or *Chai ni tamu zaidi ya kahawa.*
 9. *Sawa na* with a possessive standing for the noun: *Simu yangu ni sawa na yako.*
 10. *Mrefu sana* is "very tall", with no comparison. *Mrefu kuliko wote* is "taller than all", the superlative. Lesson 5.6.

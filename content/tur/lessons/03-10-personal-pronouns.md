@@ -15,10 +15,10 @@ sources: [goksel2005, wiktionary, tdk]
 
 You met the six personal pronouns in tur-02-02: *ben* "I", *sen* "you", *o* "he, she, it", *biz* "we", *siz* "you (plural or polite)", *onlar* "they". A **pronoun** is a word that stands in for a noun. Like nouns, Turkish pronouns take the case suffixes, so "me", "to me", "from me" and "my" are all *ben* plus a case: *beni*, *bana*, *benden*, *benim*.
 
-Almost everything here follows from what you already know. There are three irregularities, each old and fixed (goksel2005 §§6.2, 18.1.1):
+Almost everything here follows from what you already know. There are three irregularities, each fixed (goksel2005 §§6.2, 18.1.1):
 
 1. **Bana and sana.** In the dative, *ben* and *sen* change their vowel: *bana* "to me", *sana* "to you", not *\*bene*, *\*sene*. *Biz* and *siz* are regular: *bize*, *size*.
-2. **The n of o.** *O* never takes a suffix directly. An *n* comes first: *onu*, *ona*, *onda*, *ondan*, *onun*, and *onlar* itself is *o* + *n* + *-lAr*. This is the same *n* you saw after the 3rd-person possessive (tur-03-06).
+2. **The n of o.** *O* never takes a case suffix or the plural directly. An *n* comes first: *onu*, *ona*, *onda*, *ondan*, *onun*, and *onlar* itself is *o* + *n* + *-lAr*. This is the same *n* you saw after the 3rd-person possessive (tur-03-06).
 3. **Benim and bizim.** The 1st person genitive is *-Im*, not *-In* (tur-03-05).
 
 **Why are pronouns so often missing?** The verb ending or the possessive suffix already names the person: *geliyorum* is "I'm coming", *evim* is "my house". A subject pronoun adds nothing that the ending does not say, so Turkish leaves it out unless it has a job to do (goksel2005 §18.1.5). Objects that have been mentioned are dropped too, as long as it is clear what they are (goksel2005 §28.4.3): *Ali'yi tanıyor musun? — Evet, tanıyorum* "Do you know Ali? — Yes, I know (him)".
@@ -197,7 +197,7 @@ confidence: constructed
 
 **Do not regularise the dative.** *\*Bene* and *\*sene* are wrong: *bana*, *sana*. But *\*baza* and *\*saza* are wrong too: *bize*, *size* are regular.
 
-**Do not attach a suffix straight to o.** *\*Ou*, *\*oa*, *\*oda* (which is "room"!) are wrong: *onu*, *ona*, *onda*.
+**Do not attach a case suffix straight to o.** *\*Ou*, *\*oa*, *\*oda* (which is "room"!) are wrong: *onu*, *ona*, *onda*.
 
 **Do not use the subject pronoun every time.** *Ben Türkçe öğreniyorum. Ben her gün çalışıyorum* repeats *ben* where Spanish *yo* would also be dropped. Say it once, or not at all: *Türkçe öğreniyorum. Her gün çalışıyorum.*
 
@@ -247,7 +247,7 @@ yalan | - | noun | lie | acc. yalanı; also an adjective "false"
 gerçek | - | adjective | real, true | as a noun "truth", acc. gerçeği
 sevgi | - | noun | love, affection | acc. sevgiyi; from sevmek
 hep | - | adverb | always; all | 
-sadece | - | adverb | only | from Arabic
+sadece | - | adverb | only | sade "plain" (from Persian, tdk) + -CA
 lütfen | - | adverb | please | from Arabic; stressed lǘtfen
 :::
 
@@ -270,7 +270,7 @@ Japanese and Korean drop pronouns even more freely than Turkish, and Japanese us
 
 ## Worked answers
 
-1. *Bana, sana, ona, bize, size, onlara*; *benden, senden, ondan, bizden, sizden, onlardan*. Only *bana* and *sana* are irregular; *o* adds *n* before the suffix.
+1. *Bana, sana, ona, bize, size, onlara*; *benden, senden, ondan, bizden, sizden, onlardan*. Only *bana* and *sana* are irregular; *o* adds *n* before the case suffix.
 2. *Bana bakıyor.* — *Ona bakıyorum.* *Bakmak* takes the dative (tur-03-02).
 3. *Onlara yardım ediyor musunuz?* *Yardım etmek* takes the dative; *mu-sunuz* is polite.
 4. "They don't believe us." *İnanmak* takes the dative: *bize*. The negative is inside the verb (tur-02-09).
@@ -278,5 +278,5 @@ Japanese and Korean drop pronouns even more freely than Turkish, and Japanese us
 6. *Bana bir hediye veriyor.* The dative of *ben* is *bana*.
 7. Yes: *Bilmiyorum, görmüyorum* is natural, because Ayşe has just been named (goksel2005 §28.4.3). Saying *onu* adds a little weight to "her", but the meaning is the same.
 8. *Seni özlüyoruz.* — *Bizi özlüyorlar.* *Özlemek* takes a direct object in the accusative.
-9. *O* always takes *n* before a suffix (goksel2005 §6.2); *ben* ends in a consonant already. Both are the locative *-DA*.
+9. *O* always takes *n* before a case suffix (goksel2005 §6.2); *ben* ends in a consonant already. Both are the locative *-DA*.
 10. *Şimdi size telefon ediyorum.* *Telefon etmek* takes the dative; *etmek* becomes *ed-* before the vowel of *-(I)yor*.

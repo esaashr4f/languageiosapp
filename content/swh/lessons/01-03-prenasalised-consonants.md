@@ -15,7 +15,7 @@ sources: [polome1967, almasi2014, wplang, wiktionary]
 
 Many Swahili words begin with a nasal followed by another consonant: *mbuzi* "goat", *ndege* "bird", *njia* "path", *ngoma* "drum". The same combinations occur inside words: *nyumba* "house", *punda* "donkey".
 
-In these words the nasal and the consonant are said together, as the start of one syllable. The tongue or lips make the closure for the consonant, the air goes through the nose for a moment, and then the consonant is released into the vowel. *Ndege* is *nde-ge*, two syllables, not *n-de-ge*. A consonant started with a brief nasal like this is called **prenasalised**.
+In these words the nasal and the consonant are said together, as the start of one syllable: the air goes through the nose for a moment, then the consonant is released into the vowel. *Ndege* is *nde-ge*, two syllables, not *n-de-ge*. A consonant started with a brief nasal like this is called **prenasalised**.
 
 There are six such combinations:
 
@@ -26,7 +26,7 @@ There are six such combinations:
 - *mv* [ᶬv], as in *mvua* "rain";
 - *nz* [ⁿz], as in *nzige* "locust".
 
-The small raised letter in the IPA shows the short nasal. Whether these are single sounds or pairs of sounds is a question linguists disagree on; the Wikipedia article on the language reports that several studies favour pairs. For you the practical answer is the same: two letters, said as one onset.
+The small raised letter in the IPA shows the short nasal. Linguists disagree on whether these are single sounds or pairs; Wikipedia reports that several studies favour pairs. For you the answer is the same: two letters, said as one onset.
 
 Notice what is missing. There is no *mp*, *nt* or *nk* at the start of a native Swahili syllable, except in a handful of very short words. The reason is history. Wiktionary's etymologies show that *paka* "cat" comes from a Bantu word reconstructed as *\*mpákà*, and *tembo* "elephant" from *\*ntémbó*. Before a voiceless consonant (*p*, *t*, *ch*, *k*), Swahili dropped the nasal. What it left behind, for some speakers, was the puff of breath you met in lesson 2: Bishop Steere already noted in the 1860s that where the *n* is dropped before *k*, *p* and *t*, they are aspirated.
 
@@ -174,7 +174,7 @@ confidence: verified
 
 **Inside a word, the cluster goes forward.** Spanish divides *mundo* as *mun-do* and English hears "pun-der". Swahili divides *punda* as *pu-nda*. This matters for the stress rule of lesson 5, which counts syllables.
 
-**Some speakers bring their own nasals.** Polomé notes that some teachers carry habits from their first language into Swahili; Kikuyu speakers, for example, may put a nasal before a *b*, *d* or *g* at the start of a word. He also notes that the coastal implosives never occur after a nasal. Plain [ᵐb ⁿd ⁿdʒ ᵑɡ] are always right.
+**No implosives after a nasal.** Polomé notes that the coastal implosive *b*, *d*, *j*, *g* never occur after a nasal. Plain [ᵐb ⁿd ⁿdʒ ᵑɡ] are always right.
 
 ## Reference table
 

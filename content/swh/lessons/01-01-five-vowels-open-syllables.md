@@ -13,7 +13,7 @@ sources: [polome1967, almasi2014, wplang, wiktionary]
 
 ## The idea
 
-Swahili spelling is close to a recording. Each letter, or each fixed pair of letters, stands for one sound, and nothing is silent. This lesson covers the vowels and how they divide a word into syllables. The consonants follow in the next three lessons; until then, read them as in Spanish.
+Swahili spelling is close to a recording: each letter, or fixed pair of letters, stands for one sound, and nothing is silent. This lesson covers the vowels and how they divide a word into syllables. The consonants follow in the next three lessons; until then, read them as in Spanish.
 
 There are five vowel letters, *a e i o u*, and five vowel sounds. They are the vowels of Spanish or Japanese: pure, steady sounds that do not glide. Swahili has no long vowels as a separate category, no silent vowels, and no weak, blurred vowels like the last one in English "sofa". A vowel sounds the same whether it is stressed or not.
 
@@ -162,15 +162,15 @@ confidence: verified
 
 **No glides.** English turns "e" into "ay" and "o" into "oh-w". Swahili does not. *Pesa* is not "pay-sa". Spanish and Japanese vowels are the model.
 
-**No silent or swallowed final vowels.** *Pesa* has two full syllables, and so does *leo*. English speakers tend to drop or blur the last vowel. Every vowel you see is said.
+**No swallowed final vowels.** *Pesa* and *leo* each have two full syllables. Every vowel you see is said.
 
 **Two vowels are two syllables.** *Chai* is two syllables, not the one-syllable English "chai". *Sauti* is three. Native words have no diphthongs. A few Arabic loans are sometimes said with one, but Polomé reports that a two-syllable pronunciation is usually heard beside it.
 
 **A double vowel sounds long but counts double.** *Saa* and *kioo* sound as if the vowel were held. For the stress rule of lesson 5 they count as two syllables, and the stress lands on the first of the pair either way.
 
-**Loanwords can break the pattern.** Words borrowed from Arabic or English sometimes keep a consonant at the end of a syllable: *labda*, and *sultani* "sultan" (*sul-ta-ni*). Polomé notes that ordinary speech tends to restore the Bantu shape by adding a short vowel.
+**Loanwords can break the pattern.** Some loans keep a consonant at the end of a syllable: *labda*, *sultani* "sultan" (*sul-ta-ni*). Ordinary speech often slips in a short vowel (Polomé).
 
-**Fine detail you can ignore for now.** Polomé describes the unstressed vowels as slightly more relaxed than the stressed ones. Other descriptions report no difference. Say full, clear vowels everywhere and you will be understood.
+**Fine detail.** Polomé describes unstressed vowels as slightly more relaxed than stressed ones; other descriptions report no difference. Say full, clear vowels everywhere.
 
 ## Reference table
 
@@ -206,7 +206,7 @@ labda | - | adverb | perhaps | loan from Arabic
 
 ## Connections
 
-Spanish, Japanese and Swahili share the same five-vowel shape, so a Spanish or Japanese vowel will always be understood. Japanese also counts its syllabic *n* as a beat of its own, as Swahili counts the *m* of *mtu*. Arabic has only three vowel qualities, *a i u*; Swahili's *e* and *o* in Arabic loans come from Swahili's own system, and its final vowels, as in *kitabu* from *kitāb*, keep the syllables open.
+Spanish, Japanese and Swahili share the same five-vowel shape, so a Spanish or Japanese vowel will always be understood. Japanese also counts its syllabic *n* as a beat of its own, as Swahili counts the *m* of *mtu*. Arabic has only three vowel qualities, *a i u*; Arabic loans in Swahili take on its five.
 
 ## Exercises
 
@@ -216,8 +216,7 @@ Spanish, Japanese and Swahili share the same five-vowel shape, so a Spanish or J
 4. An English speaker says *chai* to rhyme with "high". What has gone wrong?
 5. *Nchi* has one vowel. How many syllables does it have, and why?
 6. *Kioo* sounds as if it had one long o. How many syllables does it have for the purposes of this guide?
-7. A learner says *pesa* as "pay-sa" and *leo* as "lay-oh". Describe the two vowels correctly.
-8. Why does Swahili *kitabu* end in *u*, when Arabic *kitāb* ends in *b*?
+7. Why does Swahili *kitabu* end in *u*, when Arabic *kitāb* ends in *b*?
 
 ## Worked answers
 
@@ -227,5 +226,4 @@ Spanish, Japanese and Swahili share the same five-vowel shape, so a Spanish or J
 4. They have made it one syllable with an English diphthong. Swahili *chai* is two syllables, *cha-i*, with a clear [ɑ] and a clear [i].
 5. Two: *n-chi*. The *n* stands before a consonant, and the rest of the word is a single syllable, so the *n* is a syllable on its own, [n̩].
 6. Three: *ki-o-o*. Two written vowels are always two syllables, even when they are the same vowel and sound like one long one.
-7. Both *e*'s are an open, steady [ɛ], as in "bed", with no glide to "ee". The *o* of *leo* is an open, steady [ɔ], with no glide to "w". So /ˈpɛ.sɑ/, /ˈlɛ.ɔ/.
-8. Native Swahili syllables end in a vowel, and loans are reshaped to fit. Adding a vowel after the final *b* gives an open last syllable: *ki-ta-bu*.
+7. Native Swahili syllables end in a vowel, and loans are reshaped to fit. Adding a vowel after the final *b* gives an open last syllable: *ki-ta-bu*.

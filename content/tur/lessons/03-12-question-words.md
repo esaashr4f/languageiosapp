@@ -50,7 +50,7 @@ Japanese and Korean work the same way: 誰を見た？, 누구를 봤어? keep �
 
 **Where.** Choose the case as for a place: *nerede* (locative) for where something is, *nereye* (dative) for where to, *nereden* (ablative) for where from. *Neresi* asks what a place is: *Burası neresi?* "Where are we? What is this place?" (goksel2005 §19.2.1.3). *Nereli* asks where someone is from: *Nerelisiniz?* "Where are you from?" (tdk).
 
-**How many, how much.** *Kaç* stands where a number would, and the noun stays singular: *Kaç kardeşin var?* "How many brothers and sisters do you have?" *Saat kaç?* "What time is it?" *Kaç yaşındasın?* "How old are you?", literally "you are in how many of age". *Ne kadar* asks about amount, degree and price: *Bu kazak ne kadar?* "How much is this jumper?" (goksel2005 §19.2.1.6).
+**How many, how much.** *Kaç* stands where a number would, and the noun stays singular: *Kaç kardeşin var?* "How many brothers and sisters do you have?" *Saat kaç?* "What time is it?" *Kaç yaşındasın?* "How old are you?", literally "you are in how many of age". *Ne kadar* asks about amount, degree and price: *Bu kazak ne kadar?* "How much is this jumper?" (goksel2005 §§19.2.1.5, 19.2.1.6).
 
 **Personal endings.** A question word can be the predicate and take personal endings: *Nasılsın?* "How are you?", *Kimsiniz?* "Who are you?", *Nerelisin?* "Where are you from?".
 
@@ -196,7 +196,7 @@ confidence: constructed
 
 **Do not add mI to a question word.** *\*Kim geliyor mu?* and *\*Nerede mi?* are wrong: *Kim geliyor?*, *Nerede?* The question word already asks.
 
-**Do not move the question word to the front.** *\*Kimi Ali görüyor?* by analogy with "Whom does Ali see?" puts it in a strange place. Keep it where the answer goes: *Ali kimi görüyor?*
+**Do not move the question word to the front.** *\*Kimi Ali görüyor?*, by analogy with "Whom does Ali see?", is wrong as a neutral question: it puts *Ali*, not the question word, in the slot before the verb. Keep the question word where the answer goes, just before the verb: *Ali kimi görüyor?* (goksel2005 §19.2.2).
 
 **Do not forget the case.** "Who are you talking to?" is not *\*Kim konuşuyorsun?* ("who are you, talking?"). The verb *konuşmak* takes the partner with *-(y)lA* (tur-03-13): *Kiminle konuşuyorsun?* Likewise "Who are you looking at?": *Kime bakıyorsun?*
 

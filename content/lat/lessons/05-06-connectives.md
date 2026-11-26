@@ -17,7 +17,7 @@ You met the commonest linking words in part 2, lesson 8, mainly for their place 
 
 A **conjunction** is a word that joins words, phrases or sentences: "and", "or", "but", "for". This lesson covers **coordinating** conjunctions, which join things of equal rank: two nouns, two adjectives, two main clauses. Conjunctions that attach a dependent clause, such as "if" and "because", are part 6 (ag1903 §223).
 
-Allen and Greenough make two points that explain the whole system. First, Latin conjunctions are "more numerous and more accurately distinguished" than English ones (ag1903 §224). Latin has three words for "and", three for "or", five for "but", three for "for" and four for "therefore", and each has its own shade. Second, conjunctions are related to adverbs. Many are frozen cases or phrases (ag1903 §222): *vērō* "but, indeed" is an old ablative of *vērus* "true"; *nihilōminus* "nevertheless" is *nihilō minus* "less by nothing" (ag1903 §216); *quārē* "for which reason" is *quā rē* "by which thing" (Wiktionary). That is why the line between "linking adverb" (*tamen*, *deinde*) and "conjunction" (*sed*) is blurred.
+Allen and Greenough make two points that explain the whole system. First, Latin conjunctions are "more numerous and more accurately distinguished" than English ones (ag1903 §224). Latin has three common words for "and", three for "or", and several each for "but", "for" and "therefore", and each has its own shade. Second, conjunctions are related to adverbs. Many are frozen cases or phrases (ag1903 §222): *vērō* "but, indeed" is an old ablative of *vērus* "true"; *nihilōminus* "nevertheless" is *nihilō minus* "less by nothing" (ag1903 §216); *quārē* "for which reason" is *quā rē* "by which thing" (Wiktionary). That is why the line between "linking adverb" (*tamen*, *deinde*) and "conjunction" (*sed*) is blurred.
 
 One rule holds for all coordinating conjunctions: they join like with like. What stands after them is normally in the same case or mood as what stands before (ag1903 §323). *Senātuī et populō*: two datives. *Venit et videt*: two present verbs.
 
@@ -33,7 +33,7 @@ One rule holds for all coordinating conjunctions: they join like with like. What
 **"Or"** (ag1903 §324e).
 
 1. *Aut* excludes: one or the other, not both. *Aut bibat aut abeat*, "let him drink or leave".
-2. *Vel* and the enclitic *-ve* offer a choice: either will do. Allen and Greenough explain *vel* as an old imperative of *volō*, "choose" (ag1903 §324e).
+2. *Vel* and the enclitic *-ve* offer a choice: either will do. Allen and Greenough explain *vel* as an old imperative of *volō* "want", so roughly "take your pick" (ag1903 §324e); Wiktionary instead derives it from an old form meaning "you wish".
 3. *Sīve* (or *seu*) is "or if", "whether … or": *sīve … sīve*. Wiktionary derives it from *sī* "if" + *-ve*. It is used especially with two names for the same thing (ag1903 §324f).
 
 **"But"** (ag1903 §324d).
@@ -56,9 +56,9 @@ One rule holds for all coordinating conjunctions: they join like with like. What
 3. *Itaque* "and so" draws a consequence from the facts.
 4. *Proinde* "accordingly", often with a command; *idcircō* "for this reason", pointing to a reason given in a clause.
 
-**Where they stand.** *Autem*, *enim* and *vērō* never come first; they stand second. *Igitur* and *tamen* usually do too (ag1903 §324j). *Nam*, *sed*, *at*, *itaque* come first. *-que* and *-ve* hang on the second of the two things joined.
+**Where they stand.** *Autem*, *enim* and *vērō* never come first; they stand second. *Igitur* usually does too, and *tamen* often (ag1903 §324j). *Nam*, *sed*, *at*, *itaque* come first. *-que* and *-ve* hang on the second of the two things joined.
 
-Say "the enemy could not withstand the attack, and turned and fled". Two main clauses: *hostēs impetum ferre nōn potuērunt* and *terga vertērunt* "they turned their backs". The second follows from the first, so *ac* "and so": *Hostēs impetum ferre nōn potuērunt ac terga vertērunt*, which is what Caesar wrote.
+Say "the enemy could not withstand the attack, and turned and fled". Two main clauses: *hostēs impetum ferre nōn potuērunt* and *terga vertērunt* "they turned their backs". The second follows from the first, so *ac* "and so": *Hostēs impetum ferre nōn potuērunt ac terga vertērunt*, which is how Allen and Greenough quote Caesar (Gallic War 4.35; ag1903 §324d note, where they render *ac* as "but").
 
 ## Examples
 
@@ -227,7 +227,7 @@ source: ag1903 §§224, 324
 | and not | neque, nec | first |
 | or | aut (excludes); vel, -ve (free choice); sīve, seu (whether, or if) | first; -ve on the second item |
 | but | sed, vērum (after a negative); at (new point); autem (mild turn); vērō | autem, vērō second |
-| nevertheless | tamen, attamen, nihilōminus | tamen usually second |
+| nevertheless | tamen, attamen, nihilōminus | tamen often second |
 | for | nam, namque (real reason); enim (by the way); etenim (obvious) | nam first; enim second |
 | therefore | ergō (proved); igitur (next step); itaque (consequence); proinde, idcircō, quārē | itaque first; igitur usually second |
 :::
@@ -253,7 +253,7 @@ immō | - | adverb | no, rather; on the contrary |
 nempe | - | adverb | surely, of course | 
 quippe | - | adverb | of course, naturally | 
 postrēmō | - | adverb | finally, lastly | 
-bibō | - | verb | drink | bibere, bibī
+bibō | - | verb | drink | bibere, bibī, bibitum
 pluit | - | verb | it rains | pluere, pluit (third person only)
 :::
 

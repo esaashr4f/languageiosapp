@@ -42,7 +42,7 @@ The pointing word does not change for the plural: *es saxlebi* "these houses", *
 
 - *es*: ergative *aman*, dative *amas*, genitive *amis-* (before a postposition), instrumental *amit*, adverbial *amad*; plural *eseni*, oblique *amat*.
 - *eg*: *magan*, *magas*, *magis-*, *magit*, *magad*; plural *egeni*, oblique *magat*.
-- *is*: *(i)man*, *(i)mas*, *(i)mis-*, *(i)mit*, *imad*; plural *isini*, oblique *(i)mat*. The forms with *i-* are "that one" with emphasis; the short ones are "he, she, it".
+- *is*: *(i)man*, *(i)mas*, *(i)mis-*, *(i)mit*, *imad*; plural *isini*, oblique *(i)mat*. Both sources give each of these with and without the *i-*; this guide uses the short forms for "he, she, it".
 
 With postpositions: *amaze* "about this", *amaši* "in this", *amastan* "next to this", *amistvis* "for this", *amisgan* "from this".
 
@@ -277,7 +277,7 @@ Japanese これ・それ・あれ and Korean 이・그・저 are the closest mat
 
 1. *Es ḳaci*: nominative. *Am ḳacistvis*: the noun is in the genitive with *-tvis*, so the oblique *am*. *Im kalakši*: oblique of *is*, noun with *-ši*. *Eg ʒaɣli*: nominative, near the listener.
 2. *Es bavšvebi im saxlši arian.* *Es* in the nominative stays *es* before a plural noun; *im* before *saxlši*; *arian* because children are people.
-3. *Eg poṭo šenia?* *Ki, es poṭo čemia.* The question points at the photo near the listener, the answer at the same photo, now near the speaker who is talking about it: *eg* becomes *es*.
+3. *Eg poṭo šenia?* *Ḳi, es poṭo čemia.* The question points at the photo near the listener, the answer at the same photo, now near the speaker who is talking about it: *eg* becomes *es*.
 4. *Imaze vpikrob* (or *maze*, *masze*). The standalone dative *imas* with *-ze* in place of *-s*.
 5. Outside the nominative, the oblique: *am kalakši vcxovrob*. Before a noun, *es*, not *eseni*: *es c̣ignebi axalia*. Before a noun, the bare oblique: *am ḳacs vxedav*.
 6. *Am* "this" (oblique), *bavšv-eb-is* "of the children", *deda* "mother": "the mother of these children". *Am* goes with *bavšvebis*, which is genitive; the case of *deda* does not matter.

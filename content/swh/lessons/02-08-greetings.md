@@ -233,7 +233,7 @@ samahani | - | interjection | excuse me, sorry | loan from Arabic
 asubuhi | - | noun | morning | 9/10; loan from Arabic
 mchana | - | noun | daytime, afternoon | 3, no plural
 jioni | - | noun | evening | 9/10
-usiku | - | noun | night | 11, no plural
+usiku | - | noun | night | 11/10, pl. siku (Thompson & Schleicher p. 32; Wiktionary lists no plural)
 bwana | - | noun | sir, Mr; master; husband | 5/6, pl. mabwana; agreement 1/2
 bibi | - | noun | madam, Mrs; grandmother | 5/6, pl. mabibi; agreement 1/2
 safi | - | adjective | clean; (colloquial reply) fine | loan from Arabic

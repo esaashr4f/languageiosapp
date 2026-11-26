@@ -216,11 +216,11 @@ preview: WAYY, HIPH
 
 ## Watch out
 
-**No article on a suffixed noun.** *\*haqqôlî* or *\*habbənî* is impossible; the suffix makes it definite. Spanish says *mi hijo* and French *mon fils* without an article too, but Italian *il mio figlio* would mislead you.
+**No article on a suffixed noun.** *\*haqqôlî* or *\*habbənî* is impossible; the suffix makes it definite. Spanish says *mi hijo* and French *mon fils* without an article too, but Italian *il mio libro* "my book" would mislead you.
 
 **But do put the article on its adjective.** *bənāh haqqāṭān*, not *\*bənāh qāṭān*, which would mean "her son is small" (lesson 2.1).
 
-**Do not confuse *-āh* "her" with *-â* (feminine).** *sûsâ* is "a mare"; *sûsāh* is "her horse". In the script the difference is the dot in the *h*: סוּסָה versus סוּסָהּ.
+**Do not confuse *-āh* "her" with *-â* (feminine).** *sûsâ* is "a mare"; *sûsāh* is "her horse" (built by pattern; *sûs* is rare with suffixes). In the script the difference is the dot in the *h*: סוּסָה versus סוּסָהּ.
 
 **Do not add the suffix to the plain segholate.** *\*ʾereṣəḵā* keeps the helping vowel. Use the base: *ʾarṣəḵā*.
 

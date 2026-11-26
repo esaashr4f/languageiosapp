@@ -1,5 +1,5 @@
 {
- "count": 114,
+ "count": 118,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1000,7 +1000,45 @@
    "depth": "B",
    "notes": "Bridge between Middle Egyptian and Coptic; magical papyri; cross-link both",
    "iso_note": "No separate ISO code (egy covers all stages of Egyptian); private-use qde. Related: egy, cop"
+  },
+  {
+   "number": 115,
+   "name": "Danish",
+   "iso": "dan",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Spoken Danish's reductions (stød, soft d) taught alongside the spelling; cross-link Norwegian, Swedish, Old Norse"
+  },
+  {
+   "number": 116,
+   "name": "Norwegian",
+   "iso": "nob",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Bokmål taught; Nynorsk and dialect variation described; cross-link Danish, Swedish, Old Norse",
+   "iso_note": "Norwegian Bokmål nob (macrolanguage nor; Nynorsk nno described, not taught)"
+  },
+  {
+   "number": 117,
+   "name": "Swedish",
+   "iso": "swe",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Pitch accent; cross-link Danish, Norwegian, Old Norse"
+  },
+  {
+   "number": 118,
+   "name": "Nepali",
+   "iso": "npi",
+   "group": "Asia and Pacific",
+   "script": "Devanagari",
+   "depth": "A",
+   "notes": "Cross-link Hindi-Urdu and Sanskrit; honorific levels",
+   "iso_note": "Nepali individual language npi (macrolanguage nep)"
   }
  ],
- "writing_order_note": "Pilot (pilot field), then 72-100, then 59-71, then 1-58, skipping deferred languages; deferred languages (thin open sources) come last, when the owner can supply textbooks."
+ "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."
 }

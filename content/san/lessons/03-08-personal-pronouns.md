@@ -19,7 +19,7 @@ Do not expect them to look like nouns. Whitney (§491) calls the pronouns of the
 
 They have **no gender** (Whitney §491). A woman says *aham* as a man does; "you" is *tvam* to a king or a girl.
 
-They have a second feature you have not met: **enclitic forms**. An **enclitic** is a word with no stress of its own that leans on the word before it (san-02-08 defined the term for *ca* and *eva*). Beside the full forms *mām*, *mama*, *mahyam*, the pronouns have short ones: *mā* "me", *me* "to me, my", *te* "to you, your", *naḥ* "us, to us, our", *vaḥ* "you, to you, your", and the duals *nau*, *vām*. Whitney (§491b) explains that they are unaccented, "and hence they are not allowed to stand at the beginning of a sentence, or elsewhere where any emphasis is laid". English has the same contrast in speech: "give 'em to *me*" against "give 'em to me".
+They have a second feature you have not met: **enclitic forms**. An **enclitic** is a word with no stress of its own that leans on the word before it (san-02-08 defined the term for *ca* and *vā*). Beside the full forms *mām*, *mama*, *mahyam*, the pronouns have short ones: *mā* "me", *me* "to me, my", *te* "to you, your", *naḥ* "us, to us, our", *vaḥ* "you, to you, your", and the duals *nau*, *vām*. Whitney (§491b) explains that they are unaccented, "and hence they are not allowed to stand at the beginning of a sentence, or elsewhere where any emphasis is laid". English has the same contrast in speech: "give 'em to *me*" against "give 'em to me".
 
 ## How it is built
 
@@ -158,7 +158,7 @@ gloss: 1SG.NOM all-GEN.SG.N origin-NOM.SG 1SG.ABL all-NOM.SG.N forth-turn-3SG.MI
 literal: I (am) the origin of all; from me all goes forth.
 translation: I am the source of everything; from me everything comes forth.
 note: Preview: pravartate has a preverb and middle endings (san-04-02, san-04-04). Kṛṣṇa speaks. The ablative mattaḥ "from me"; sarva "all" has noun-like forms in these two cells (san-05-02).
-source: Bhagavad Gītā 10.8a (GRETIL e-text bhgce)
+source: Bhagavad Gītā 10.8a–b (GRETIL e-text bhgce)
 confidence: attested
 preview: MID
 :::
@@ -275,7 +275,7 @@ source: wiktionary त्वम्; whitney1889 §491
 
 ## Connections
 
-French and Spanish have the same split between stressed and unstressed pronouns: *moi* against *me*, *mí* against *me*. *Il me voit* uses the clitic, *c'est moi* the full form, as Sanskrit uses *mā* after the first word and *mām* for emphasis. Latin *me*, *te* and Sanskrit *mā*, *tvā* go back to the same old forms (Spanish *me*, *te* continue the Latin).
+French and Spanish have the same split between stressed and unstressed pronouns: *moi* against *me*, *mí* against *me*. *Il me voit* uses the clitic, *c'est moi* the full form, as Sanskrit uses *mā* after the first word and *mām* for emphasis.
 
 ## Exercises
 

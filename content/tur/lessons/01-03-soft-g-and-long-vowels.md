@@ -228,4 +228,4 @@ Arabic readers will recognise *saat* (*sāʿa*), *tarih* (*tārīkh*) and *dakik
 4. Two each: so·ğuk, and a·ğaç. The *ğ* links two vowels that belong to separate syllables. In fast speech *ağaç* can sound like one long [aː] plus [tʃ], but it still counts as two.
 5. It is the common practice of leaving out the circumflex, not a real error, though the dictionary writes *hâlâ*. The sentence tells you: an aunt is a person, and "still" goes with a verb or a state.
 6. One long vowel, [aː]. The word is from Arabic *sāʿa*, which had a consonant between the vowels. Turkish lost the consonant, and the two vowels merged into a long one.
-7. *Tarih* and *mavi*: [taːɾih], [maːvi]. *Kedi* and *gece* are native words with short vowels.
+7. *Tarih* and *mavi*: [taːɾih], [maːvi]. *Kedi* and *gece* have only short vowels; the dictionary marks no length in either.

@@ -15,7 +15,7 @@ sources: [bolkvadze2023, wiktionary, linguage]
 
 Lesson 4-9 introduced class 2, the verbs of happening: *c̣erili ic̣ereba* "the letter is being written", *c̣q̇ali tbeba* "the water is warming up". This lesson shows how they are built.
 
-A class 2 verb is **intransitive**: it has a subject and no direct object. Most class 2 verbs are made from a class 1 verb by a simple operation, which Bolkvadze and Kiziria describe in three steps: the doer is removed, the object of the class 1 verb becomes the subject, and any indirect object stays as it was. "Somebody writes a letter" becomes "a letter is written". When the doer of the original action is still understood, the result is a **passive**: a form in which the thing acted on is the subject. When there is no doer at all ("the water warms up", "the child grows"), it is simply an intransitive verb of change.
+A class 2 verb is **intransitive**: it has a subject and no direct object. Most class 2 verbs are made from a class 1 verb by a simple operation, which Bolkvadze and Kiziria describe in three steps: the doer is removed, the object of the class 1 verb becomes the subject, and any indirect object stays as it was. "Somebody writes a letter" becomes "a letter is written". When the doer of the original action is still understood, the result is a **passive**: a form in which the thing acted on is the subject. When there is no doer at all ("the water warms up", "the child grows"), it is an intransitive verb of change.
 
 Georgian does not keep these two apart in form. Both are class 2, built the same way, and both have a nominative subject in every series. That is why the glossary has one label, PASS, for "passive or intransitive marker".
 

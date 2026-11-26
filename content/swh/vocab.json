@@ -1,0 +1,663 @@
+{
+ "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
+ "count": 73,
+ "words": [
+  {
+   "headword": "mama",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mother",
+   "forms": "9/10 with agreement of 1/2; pl. mama",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pesa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "money",
+   "forms": "9/10 or 5/6 (pl. pesa or mapesa); loan from Hindi",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kiti",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "chair, seat",
+   "forms": "7/8, pl. viti",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "leo",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "today",
+   "forms": "",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "chai",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tea",
+   "forms": "9/10; loan from Persian",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sauti",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "voice, sound",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kioo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mirror, glass",
+   "forms": "7/8, pl. vioo",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "saa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hour, clock, watch",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mtu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "person",
+   "forms": "1/2, pl. watu",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mtoto",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "child",
+   "forms": "1/2, pl. watoto",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nchi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "country, land",
+   "forms": "9/10, pl. nchi",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "labda",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "perhaps",
+   "forms": "loan from Arabic",
+   "first_lesson": "swh-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jina",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "name",
+   "forms": "5/6, pl. majina",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "car, vehicle",
+   "forms": "5/6, pl. magari",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rafiki",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "friend",
+   "forms": "9/10 with agreement of 1/2; pl. rafiki or marafiki; loan from Arabic",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "wali",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cooked rice",
+   "forms": "u class (Wiktionary: class 11), no plural",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "habari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "news",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "zawadi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gift, present",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "chakula",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "food",
+   "forms": "7/8, pl. vyakula",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "shule",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "school",
+   "forms": "9/10 (also 5/6, pl. mashule); loan from German",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nyoka",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "snake",
+   "forms": "9/10, pl. nyoka",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ng'ombe",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cow, ox; cattle",
+   "forms": "9/10 with agreement of 1/2; pl. ng'ombe",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kweli",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "truth",
+   "forms": "9/10; also 'true' (-a kweli) and 'really'",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "paa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "roof",
+   "forms": "5/6, pl. mapaa",
+   "first_lesson": "swh-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mbuzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "goat",
+   "forms": "9/10, pl. mbuzi",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ndege",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bird; aeroplane",
+   "forms": "9/10, pl. ndege; 'bird' takes the agreement of 1/2",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "njia",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "path, road, way; method",
+   "forms": "9/10, pl. njia",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ngoma",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "drum; dance",
+   "forms": "9/10, pl. ngoma",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nyumba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "house",
+   "forms": "9/10, pl. nyumba",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "punda",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "donkey",
+   "forms": "9/10, pl. punda",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mvua",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rain",
+   "forms": "9, no plural",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mbwa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dog",
+   "forms": "9/10 with agreement of 1/2; pl. mbwa",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "paka",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cat",
+   "forms": "9/10, pl. paka",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tembo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "elephant",
+   "forms": "9/10, pl. tembo; coastal word",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "njaa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hunger; famine",
+   "forms": "9/10",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nzige",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "locust",
+   "forms": "9/10, pl. nzige",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "shamba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "farm, field, plot",
+   "forms": "5/6, pl. mashamba",
+   "first_lesson": "swh-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dhahabu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "gold",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fedha",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "silver; money",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dhambi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sin",
+   "forms": "5/6, pl. madhambi; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "thamani",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "value, worth",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ghali",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "expensive",
+   "forms": "invariable; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lugha",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "language",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sabalkheri",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "good morning",
+   "forms": "used mainly by Muslims; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kalamu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "pen, pencil",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maana",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "meaning, sense; reason",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "baada",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "after",
+   "forms": "usually followed by an infinitive; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hadithi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "story, tale",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kitabu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "book",
+   "forms": "7/8, pl. vitabu; loan from Arabic kitāb",
+   "first_lesson": "swh-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "baba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "father",
+   "forms": "9/10 with agreement of 1/2; pl. baba",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "safari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "journey, trip",
+   "forms": "9/10; loan from Arabic",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwalimu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "teacher",
+   "forms": "1/2, pl. walimu (also waalimu); loan from Arabic",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kiatu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "shoe, sandal",
+   "forms": "7/8, pl. viatu",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nyumbani",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "at home, home",
+   "forms": "place form of nyumba",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "samaki",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fish",
+   "forms": "9/10, pl. samaki; loan from Arabic",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lazima",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "necessity; must",
+   "forms": "9/10; stressed lázima or lazíma; loan from Arabic",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nusura",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "almost, nearly",
+   "forms": "stressed núsura",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "barabara",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "road, highway",
+   "forms": "9/10, pl. barabara",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "barabara",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "exactly, just right",
+   "forms": "stressed barábara; loan from Persian",
+   "first_lesson": "swh-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwaka",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "year",
+   "forms": "3/4, pl. miaka",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwezi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "moon; month",
+   "forms": "3/4, pl. miezi",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "moyo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "heart; courage",
+   "forms": "3/4, pl. mioyo",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwili",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "body",
+   "forms": "3/4, pl. miili",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwana",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "child (son or daughter)",
+   "forms": "1/2, pl. wana",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwizi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "thief",
+   "forms": "1/2, pl. wezi",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwenzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "companion, friend",
+   "forms": "1/2, pl. wenzi",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jino",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tooth",
+   "forms": "5/6, pl. meno",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "chumba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "room",
+   "forms": "7/8, pl. vyumba",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "wimbo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "song",
+   "forms": "11/10, pl. nyimbo",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kiini",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "yolk, kernel, core",
+   "forms": "7/8, pl. viini",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "embe",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mango",
+   "forms": "5/6, pl. maembe; loan from Omani Arabic",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maisha",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "life",
+   "forms": "6, no singular; loan from Arabic",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yai",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "egg",
+   "forms": "5/6, pl. mayai",
+   "first_lesson": "swh-01-06",
+   "confidence": "verified"
+  }
+ ]
+}

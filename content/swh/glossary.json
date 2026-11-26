@@ -266,5 +266,27 @@
    "tag": "gnomic"
   }
  },
- "terms": {}
+ "terms": {
+  "lingua franca": "A language used for communication between speakers of different languages (swh-00-01).",
+  "Bantu": "A large family of African languages that share noun classes and verb-building patterns (swh-00-01).",
+  "tone": "Pitch used to tell words apart; Swahili has lost it, unlike most Bantu languages (swh-00-01).",
+  "noun class": "One of the groups into which every noun falls, each with its own prefixes and agreement (swh-00-02).",
+  "agreement": "Other words in the sentence taking a prefix that matches the noun's class (swh-00-02).",
+  "verb template": "The fixed order of slots in which a Swahili verb is built (swh-00-02).",
+  "slot": "One position in the verb template, filled by one kind of piece (swh-00-02).",
+  "gloss": "The line under an example that labels each piece of each word (swh-00-02).",
+  "agglutinative": "Built by stringing pieces together, each with one meaning (swh-00-02).",
+  "subject prefix": "The piece at the front of a verb that shows the subject's person or class (SM) (swh-00-03).",
+  "object prefix": "The piece just before the verb root that shows the object (OM) (swh-00-03).",
+  "syllable": "A beat of a word, built round one vowel (swh-01-01).",
+  "open syllable": "A syllable that ends in a vowel, the normal Swahili shape (swh-01-01).",
+  "syllabic nasal": "An m or n that forms a syllable on its own, as in mtu (swh-01-01).",
+  "digraph": "Two letters spelling one sound, such as ch or ng' (swh-01-02).",
+  "implosive": "A b, d, j or g said by drawing air inwards, heard at the coast (swh-01-02).",
+  "prenasalised": "A consonant begun with a nasal in the same syllable, such as mb or nd (swh-01-03).",
+  "stress": "The extra force that makes one syllable stand out (swh-01-05).",
+  "penult": "The second-from-last syllable of a word (swh-01-05).",
+  "glide": "A w or y sound formed when a vowel runs into another vowel (swh-01-06).",
+  "coalescence": "Two vowels merging into one when a prefix meets a stem (swh-01-06)."
+ }
 }

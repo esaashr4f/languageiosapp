@@ -357,3 +357,15 @@ Translations are always our own.
   - **Japanese and Korean**: no structural kinship. Useful contrasts: Swahili is head-first (noun before adjective, preposition, relative after the noun) where Japanese and Korean are head-final; but like them it drops pronouns freely and packs grammar into affixes on the verb. Korean speech levels can be compared with the subjunctive as a "polite imperative" only loosely; do not overstate. Swahili has no honorific verb forms.
   - **Other Bantu languages in the app** (if any are added): the class numbers are shared across Bantu, so *ki-/vi-* and *m-/wa-* correspond regularly (wpgrammar: "corresponding classes in the other Bantu languages which can be identified by the same system of numbers").
 - Do not use vulgar examples (wpgrammar has a few); avoid political material beyond the fixed readings, which are presented as historical or civic documents.
+
+
+## Notes from drafting parts 0 and 1 (2026-11-26)
+
+- Class 12 is extremely rare in Swahili rather than absent (Thompson & Schleicher pp. 29, 32); say "rare traces of class 12", not "no class 12".
+- *mwimbaji*: Wiktionary gives the plural *wimbaji*, Polomé implies *waimbaji*; avoid the word or note both.
+- *kiatu* keeps ki- before a vowel (plural *viatu*), against Polomé's ki → ch rule; the sources used do not explain it.
+- Attested locatives *shule → shuleni*, *nyumba → nyumbani* are preferred to constructed ones.
+- Polomé 1967's history chapter uses colonial-era framing: use it for dated facts only, with the modern view beside it.
+- Settled conventions: single-word examples in part 1 glossed by meaning only, IPA in notes, class prefixes flagged as previews; pairs shown as one example; stress in capitals only in swh-01-05, acute only on exceptions (núsura, lázima, barábara).
+- Promised to the reader for later: ni- + a- → na-; a + o → o; copula *ni* is unstressed and leans on the next word.
+- Previews in part 0 use -kubwa, -anguka, -soma, -pika before any vocab block; they still need introducing.

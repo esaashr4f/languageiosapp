@@ -12,3 +12,14 @@ Corrections:
 - kat-02-07: arc … arc pattern stated narrowly (B&K §13.3). kat-02-08: tu as "or" in questions and paired phrases; არ usual before a verb, alternating with არა.
 
 Still open: ტ's height class (lessons: ascender and descender; Wikipedia/Unicode: descender only); identical-vowel merging (labelled uncertain); answering negative questions (no source). Aronson's SEELRC PDF was unreachable on 2026-11-26.
+
+### Part 3 — verified 2026-11-26 by fresh subagent
+Lessons checked: kat-03-01 to kat-03-13
+Forms checked: 1,199   corrected: 9   left unverified: 0
+Glosses checked: 422   corrected: 0
+Attested quotations checked: 7   corrected: 0
+Claims checked: 107   corrected or removed: 15
+Worked answers checked: 121   corrected: 4
+
+Corrections (summary): seven transliterations that did not match the Mkhedruli (ḳedelze, ṗirvelad, cisḳari, Ḳi, supta, sainṭereso, ḳaba … ḳi); Wiktionary reported accurately for ღვინო (both ღვინოს and ღვინის) and დრო (both forms, no disagreement); vowel-stem adverbial truncation softened (B&K §4.3.1.8); megobari syncope stated correctly; place-name vocatives per B&K §4.4; i- forms of demonstratives not called emphatic; question-word intonation per source (B&K §18.2, Hewitt §2.4.2); unsourced etymology removed; old plural in literature per Hewitt §3.1; one Spanish comparison and one lesson pointer fixed.
+Still open: ღვინო adverbial (B&K text vs table); c̣veni genitive (B&K, Wiktionary c̣venis vs Hewitt/Vogt c̣vnis; both given); ṭansacmeli tables; B&K's syncope evidence; B&K inconsistent on old-plural agreement (both reported).

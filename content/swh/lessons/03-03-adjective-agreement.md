@@ -168,7 +168,7 @@ confidence: constructed
 - **With *sana***: *kizuri sana* "very good".
 - **Two or more adjectives**, each agreeing: *vitabu vikubwa vizuri*.
 - **Every new class** adds its own adjective prefix: *m-*/*mi-* for classes 3 and 4 (lesson 3.4), none/*ma-* for 5 and 6 (3.5), a nasal for 9 and 10 (3.6), *m-* for 11 and 14 (3.7).
-- **In speech and headlines** *ni* is sometimes left out before a predicate adjective (Almasi and colleagues give *kuandika kuzuri* "writing is good"). Use *ni* yourself.
+- **In speech and headlines** *ni* is sometimes left out before a predicate adjective (Wikipedia's grammar article; Almasi and colleagues also print *Kuandika kuzuri* "the writing is good" without *ni*, in their table of agreements). Use *ni* yourself.
 
 ## Watch out
 

@@ -35,7 +35,7 @@ Number works the same way. An adjective before a plural noun stays singular: *di
 
 Wiktionary's adjective tables print exactly these attributive forms: for *axali*, "nominative, genitive, instrumental *axali*; ergative *axalma*; dative, adverbial *axal*; vocative *axalo*".
 
-**Vowel-stem adjectives** (*ṗaṭara* "small", *mc̣vane* "green", *axalgazrda* "young", *sufta* "clean", *savse* "full", *saintereso* "interesting"). Before a noun they never change: *ṗaṭara saxli*, *ṗaṭara saxls*, *ṗaṭara saxlis*, *ṗaṭara saxlši*.
+**Vowel-stem adjectives** (*ṗaṭara* "small", *mc̣vane* "green", *axalgazrda* "young", *supta* "clean", *savse* "full", *sainṭereso* "interesting"). Before a noun they never change: *ṗaṭara saxli*, *ṗaṭara saxls*, *ṗaṭara saxlis*, *ṗaṭara saxlši*.
 
 **With postpositions.** The adjective takes the form of the case under the postposition:
 
@@ -251,12 +251,12 @@ source: bolkvadze2023 §5.3.2.1–2; wiktionary (ახალი, ახალ�
 ძვირი | ʒviri | adjective | expensive |
 იაფი | iapi | adjective | cheap |
 ახალგაზრდა | axalgazrda | adjective | young | does not change
-სუფთა | sufta | adjective | clean | does not change
+სუფთა | supta | adjective | clean | does not change
 მძიმე | mʒime | adjective | heavy; hard | does not change
 სავსე | savse | adjective | full | does not change
 ცარიელი | carieli | adjective | empty |
 ჭკვიანი | č̣ḳviani | adjective | clever |
-საინტერესო | saintereso | adjective | interesting | does not change
+საინტერესო | sainṭereso | adjective | interesting | does not change
 რთული | rtuli | adjective | difficult, complicated |
 ადვილი | advili | adjective | easy |
 :::
@@ -273,7 +273,7 @@ Japanese and Korean adjectives also come first and never take case: 大きい家
 4. Say "Nino is reading an interesting book."
 5. Correct *\*Dids saxlši vcxovrob*, *\*Lamazebi q̇vavilebi* and *\*did kalakis cenṭri*.
 6. Take apart *didi tetri saxlistvis* and translate it.
-7. Translate *es kaba ʒviria, is ki iapi* and say why *ʒviri* has the shape it has.
+7. Translate *es ḳaba ʒviria, is ḳi iapi* and say why *ʒviri* has the shape it has.
 8. "The red one is mine": say it with *c̣iteli* standing alone, then say "with the red one".
 
 ## Worked answers
@@ -281,7 +281,7 @@ Japanese and Korean adjectives also come first and never take case: 大きい家
 1. Dative *axal c̣igns*: the adjective is a bare stem. Genitive *axali c̣ignis* and instrumental *axali c̣ignit*: the adjective keeps *-i*.
 2. *Ṗaṭara otaxši*: a vowel-stem adjective never changes. *Axalgazrda masc̣avleblistvis*: *axalgazrda* is a vowel stem too; *masc̣avlebeli* syncopates in the genitive. *Didi kalakidan*: *-dan* is on the instrumental, so *didi* keeps *-i*.
 3. *Maɣal mtebs vxedav.* The plural object is dative; the adjective is singular and bare.
-4. *Nino saintereso c̣igns ḳitxulobs.* *Saintereso* ends in a vowel and does not change.
+4. *Nino sainṭereso c̣igns ḳitxulobs.* *Sainṭereso* ends in a vowel and does not change.
 5. A dative-based form takes the bare adjective: *did saxlši vcxovrob*. The adjective is singular before a plural noun: *lamazi q̇vavilebi*. Before a genitive noun the adjective keeps *-i*: *didi kalakis cenṭri*.
 6. *didi* "big", *tetri* "white" (both keeping *-i* before a genitive), *saxl-is-tvis* "house, genitive, for": "for a big white house".
 7. "This dress is expensive, and that one cheap." *Ʒviri* is a predicate, nominative with the copula *-a*; *iapi* shares the copula. Neither stands before a noun, so both are full nominatives.

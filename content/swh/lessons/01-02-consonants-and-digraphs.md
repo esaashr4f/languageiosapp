@@ -168,7 +168,7 @@ confidence: verified
 
 **Ny is one sound.** English speakers tend to say *nyoka* as "nee-oka". Start the word on the Spanish *ñ* sound of *año*.
 
-**Ng' at the start of a word.** English has [ŋ] only in the middle or at the end of words ("singer", "sing"), so starting a word with it feels odd. Say "singer", stop before the *s* of "singer" is reached in reverse: hold the *ng* and open straight into the vowel.
+**Ng' at the start of a word.** English has [ŋ] only in the middle or at the end of words ("singer", "sing"), so starting a word with it feels odd. Say "singing" slowly, hold the *ng* in the middle, then try it again without the "si" in front: *ng'o-*.
 
 **R and l are different letters for a reason.** In standard Swahili *wali* and *wari* are two words. Polomé explains that in words of Bantu origin *r* was once only a variant of *l*; the many Arabic loans with *r* made the difference meaningful. In some regions speakers still mix them, and one teaching grammar describes this as poor standard Swahili. Keep them apart.
 
@@ -201,12 +201,12 @@ source: polome1967 §2.1.1 and §3.3; wplang 'Consonants' and 'Orthography'; wik
 jina | - | noun | name | 5/6, pl. majina
 gari | - | noun | car, vehicle | 5/6, pl. magari
 rafiki | - | noun | friend | 9/10 with agreement of 1/2; pl. rafiki or marafiki; loan from Arabic
-wali | - | noun | cooked rice | 11, no plural
+wali | - | noun | cooked rice | u class (Wiktionary: class 11), no plural
 habari | - | noun | news | 9/10; loan from Arabic
 zawadi | - | noun | gift, present | 9/10; loan from Arabic
 chakula | - | noun | food | 7/8, pl. vyakula
 shule | - | noun | school | 9/10 (also 5/6, pl. mashule); loan from German
-nyoka | - | noun | snake | 9/10 with agreement of 1/2; pl. nyoka
+nyoka | - | noun | snake | 9/10, pl. nyoka
 ng'ombe | - | noun | cow, ox; cattle | 9/10 with agreement of 1/2; pl. ng'ombe
 kweli | - | noun | truth | 9/10; also 'true' (-a kweli) and 'really'
 paa | - | noun | roof | 5/6, pl. mapaa
@@ -214,7 +214,7 @@ paa | - | noun | roof | 5/6, pl. mapaa
 
 ## Connections
 
-Spanish speakers have three of the hard sounds already: *ñ* for *ny*, the tapped *r* of *pero*, and a clear *ch*. Arabic speakers will recognise *rafiki* (*rafīq*) and *habari* (*khabar*): the Arabic [q] became Swahili *k*, and the Arabic [x] of *khabar* is usually plain *h* in Swahili, a change lesson 4 returns to. Japanese has no [ɾ]–[l] contrast; Swahili, unusually for a Bantu language, has one, thanks to Arabic.
+Spanish speakers have three of the hard sounds already: *ñ* for *ny*, the tapped *r* of *pero*, and a clear *ch*. Arabic speakers will recognise *rafiki* (*rafīq*) and *habari* (*khabar*): the Arabic [q] became Swahili *k*, and the Arabic [x] of *khabar* is written *h* and usually said [h], a change lesson 4 returns to. Japanese has no [ɾ]–[l] contrast; Swahili has one, and Polomé credits Arabic for it.
 
 ## Exercises
 

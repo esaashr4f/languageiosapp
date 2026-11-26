@@ -23,7 +23,7 @@ An **adverb** is a word that says how, when, where or how much something happens
 
 **4. Reduplication.** **Reduplication** means saying a word twice to make a new word. *Polepole* "slowly" (lesson 2.7) is *pole* doubled; *sawasawa* "equally" is *sawa* doubled (Wiktionary); *mbalimbali* "various" doubles *mbali* "far" (Wiktionary). Almasi and colleagues list *kisirisiri* "secretly" and *mojamoja* "one by one". Doubling a noun or adverb often gives a manner or a repetition: *haraka haraka* "in a rush, hurriedly", the start of a well-known proverb.
 
-A fifth group is simply adverbs by birth: *sana* "very, a lot", *tena* "again", *kabisa* "completely", *sasa* "now", *ghafla* "suddenly", *upesi* "quickly", *mno* "too much".
+A fifth group are adverbs from the start: *sana* "very, a lot", *tena* "again", *kabisa* "completely", *sasa* "now", *ghafla* "suddenly", *upesi* "quickly", *mno* "too much".
 
 ## How it is built
 

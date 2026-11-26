@@ -66,7 +66,7 @@ To say "the word of the man of God":
 3. "God", the last noun, is absolute and definite: *hāʾĕlōhîm*.
 4. *dəḇar ʾîš-hāʾĕlōhîm*. As an object it takes *ʾeṯ*: *ʾeṯ-dəḇar ʾîš-hāʾĕlōhîm* (1 Kings 13:4).
 
-Gesenius cites chains of four and more, such as *yəmê šənê ḥayyê ʾăḇōṯay* "the days of the years of the life of my fathers" (Genesis 47:9; §128a). He also notes that writers usually avoid long chains by repeating the first noun or by using *lə-* (§128a, §129).
+Gesenius cites chains of four and more, such as *yəmê šənê ḥayyê ʾăḇōṯay* "the days of the years of the life of my fathers" (Genesis 47:9; §128a). He also notes that the language avoids hanging two nouns joined by "and" on one construct noun; it repeats the construct noun instead: *ʾĕlōhê haššāmayim wēʾlōhê hāʾāreṣ* "the God of heaven and the God of the earth" (Genesis 24:3; §128a).
 
 ### Adjectives after a chain
 
@@ -105,7 +105,7 @@ translit: wəʾanšê səḏōm rāʿîm wəḥaṭṭāʾîm laYHWH məʾōḏ
 morphemes: wə=ʾanšê səḏōm rāʿ-îm wə=ḥaṭṭāʾ-îm la=YHWH məʾōḏ
 gloss: and=man.PL.CSTR Sodom bad-PL.M and=sinner-PL to=Yhwh very
 translation: The men of Sodom were wicked, great sinners against the LORD.
-note: ʾănāšîm → ʾanšê. A verbless clause: the chain is the subject, the plural adjectives the predicate. raʿ → rāʿîm: the ā is pretonic here (lesson 3.3).
+note: ʾănāšîm → ʾanšê. A verbless clause: the chain is the subject, the plural adjectives the predicate. raʿ → rāʿîm: the root's ʿ would double before the ending, but a guttural cannot, so the vowel before it lengthens instead (Gesenius §22c).
 source: Genesis 13:13 (WLC)
 confidence: attested
 :::
@@ -140,7 +140,7 @@ translit: bəyôm milḥemeṯ
 morphemes: bə=yôm milḥemeṯ
 gloss: in=day.CSTR war.CSTR
 translation: on the day of battle
-note: milḥāmâ has the construct milḥemeṯ. Here it stands at the end of the verse's first phrase with nothing after it; BDB notes that the Septuagint reads "the battle of Michmash", so a word may have dropped out of the Hebrew.
+note: milḥāmâ has the construct milḥemeṯ. Here it stands at the end of the verse's first phrase with nothing after it; BDB notes that the Septuagint reads "the battle of Michmash", so a word may have dropped out of the Hebrew; others take milḥemeṯ here as an absolute form.
 source: 1 Samuel 13:22 (WLC)
 confidence: attested
 :::

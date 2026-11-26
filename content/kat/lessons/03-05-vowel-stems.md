@@ -179,7 +179,7 @@ confidence: constructed
 
 - **Truncating -a nouns:** most common nouns in *-a*: *deda*, *mama*, *ʒma*, *mta*, *magida*, *sḳola*, *mankana*, *ena*, *biblioteḳa*, *isṭoria*; relatives such as *mamida*, *ṗaṗa*, *biʒa*, *bebia*, *babua* (Bolkvadze and Kiziria list the blood relations as truncating); and place names: *mcxeta*, *iṭalia*, *germania*, *ameriḳa*, *iaṗonia*, *ḳorea*.
 - **Truncating -e nouns:** native nouns such as *xe*, *dɣe*, *ɣame*, *rʒe*, *ṭq̇e*, *ǯibe*, *mze*, *mtvare*, *ḳlde*, *saxe*, *mdinare*, *meuɣle*, and surnames in *-ʒe*. (*Zɣva* "sea" looks similar but ends in *-a*: *zɣvis*.)
-- **Non-truncating -o and -u nouns:** *ezo*, *saɣamo*, *ɣvino* in Wiktionary (see Watch out), *meṭro*, *ḳino*, *radio*, *lobio*, *okro*, *dro* "time", *sakartvelo*, *samzareulo*, *sasṭumro*. Bolkvadze and Kiziria say *-o* nouns never truncate, with one exception, *ɣvino*.
+- **Non-truncating -o and -u nouns:** *ezo*, *saɣamo*, *ɣvino* in some of its forms (see Watch out), *meṭro*, *ḳino*, *radio*, *lobio*, *okro*, *dro* "time", *sakartvelo*, *samzareulo*, *sasṭumro*. Bolkvadze and Kiziria say *-o* nouns never truncate, with one exception, *ɣvino*.
 - **Non-truncating -i nouns:** all borrowed: *čai*, *ṭaksi*, *ṭramvai* "tram".
 - **Borrowed -e nouns:** never truncate: *ḳape* → *ḳapes*, *ḳapet*.
 - **Given names:** *nino*, *giorgi*, *ia*: never truncate, have no vocative ending (lesson 3-7) and, unlike surnames, are not normally plural.
@@ -196,13 +196,13 @@ confidence: constructed
 
 **Do not truncate an -e noun in the plural.** *\*Xebi* and *\*ḳldebi* drop a vowel that only goes in the genitive and instrumental singular. Say *xeebi*, *ḳldeebi*.
 
-**Do not truncate in the adverbial.** *\*Dedd* or *\*xd* has no vowel left to carry the *-d*. The adverbial never truncates: *dedad*, *xed*.
+**Do not truncate in the adverbial.** *\*Dedd* or *\*xd* has no vowel left to carry the *-d*. A noun that only truncates keeps its vowel in the adverbial: *dedad*, *xed*. (A few nouns that also lose an inner vowel, lesson 3-6, are the exception.)
 
 **Do not read every *-os* as a dative.** In *ḳinos bileti*, *ḳinos* is genitive. Look at what follows: a noun after it makes it genitive; a verb after it usually makes it an object.
 
 **Your own mother is a name.** *Dedis otaxi* is "the mother's room", someone's mother. For your own, Bolkvadze and Kiziria give *dedas*: *dedas otaxi*. The same for *mama*, *babua*, *bebia*, *ṗaṗa*.
 
-**Sources disagree on a few nouns.** For *ɣvino* "wine", Bolkvadze and Kiziria give a truncating genitive *ɣvinis* and instrumental *ɣvinit*, but Wiktionary's table has *ɣvinos*, *ɣvinot*. For *gogona* "little girl", Wiktionary truncates (*gogonis*), while Bolkvadze and Kiziria say diminutives in *-a* keep their vowel in the singular (*gogonas*) and note that many such nouns are used both ways. For *dro* "time", Bolkvadze and Kiziria give two genitives, *dros* and *drois*. These forms are labelled uncertain in this guide; you will meet both.
+**Sources disagree on a few nouns.** For *ɣvino* "wine", Bolkvadze and Kiziria give a truncating genitive *ɣvinis* and instrumental *ɣvinit*, while Wiktionary's table gives both shapes: *ɣvinos* or *ɣvinis*, *ɣvinot* or *ɣvinit*. For *gogona* "little girl", Wiktionary truncates (*gogonis*), while Bolkvadze and Kiziria say diminutives in *-a* keep their vowel in the singular (*gogonas*) and note that many such nouns are used both ways. For *dro* "time", both sources give two genitives, *dros* and *drois*. These forms are labelled uncertain in this guide; you will meet both.
 
 ## Reference table
 
@@ -223,14 +223,14 @@ source: wiktionary (დედა, ხე, ეზო, კაფე); bolkvadze202
 :::
 
 :::table
-caption: Nouns on which the sources differ
+caption: Nouns with disputed or double forms
 confidence: uncertain
 source: bolkvadze2023 §4.3.1.6–7; wiktionary (ღვინო, გოგონა, დრო)
 | Noun | Bolkvadze and Kiziria | Wiktionary |
 |---|---|---|
-| ɣvino "wine" | gen. ɣvinis, inst. ɣvinit | gen. ɣvinos, inst. ɣvinot |
+| ɣvino "wine" | gen. ɣvinis, inst. ɣvinit | gen. ɣvinos or ɣvinis, inst. ɣvinot or ɣvinit |
 | gogona "little girl" | gen. gogonas(i) | gen. gogonis |
-| dro "time" | gen. dros or drois | gen. dros |
+| dro "time" | gen. dros or drois | gen. dros or drois |
 :::
 
 ## New words
@@ -257,7 +257,7 @@ source: bolkvadze2023 §4.3.1.6–7; wiktionary (ღვინო, გოგო�
 
 ## Connections
 
-Spanish solves the same clash with the opposite tool: it adds a consonant or chooses a different ending (*café* → *cafés*, not *\*cafes*). Japanese and Korean avoid it by choosing the particle by the noun's last sound: Korean 가 after a vowel and 이 after a consonant, 를 and 을, are the same idea as Georgian *-m* after a vowel and *-ma* after a consonant.
+Spanish settles a similar clash by choosing the ending: plural *-s* after a vowel (*casa* → *casas*), *-es* after a consonant (*papel* → *papeles*). Japanese and Korean avoid it by choosing the particle by the noun's last sound: Korean 가 after a vowel and 이 after a consonant, 를 and 을, are the same idea as Georgian *-m* after a vowel and *-ma* after a consonant.
 
 ## Exercises
 

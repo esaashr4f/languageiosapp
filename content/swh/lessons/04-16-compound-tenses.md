@@ -30,7 +30,7 @@ Polomé glosses *mtoto alikuwa akicheza mlangoni* as "the child used to play at 
 **Completed action with its result** (English "had done", "will have done"): *kuwa* + *-me-*.
 - *Walikuwa wamefika* "they had arrived".
 - *Watakuwa wamefika* "they will have arrived".
-With the change-of-state verbs of lesson 4.6 this gives past and future states: *walikuwa wamelala* "they were asleep", *nitakuwa nimechoka* "I'll be tired" (wpgrammar).
+With the change-of-state verbs of lesson 4.6 this gives past and future states: *walikuwa wamelala* "they were asleep", *nitakuwa nimeamka* "I'll be awake" (wpgrammar).
 
 Notice that English "had done" and "will have done", which feel like simple tenses to an English speaker, are two-word forms in Swahili. Thompson and Schleicher make exactly this point.
 
@@ -42,7 +42,7 @@ Polomé and wpgrammar describe the negatives.
 
 - **With *-na-*, negate the main verb**: *ulikuwa husomi* "you weren't reading" (wpgrammar), with the negative present.
 - **With *-ki-*, negate *kuwa***: *hakuwa akisoma* "he wasn't reading". *-ki-* itself has no negative.
-- **With *-me-*, usually negate the main verb with *-ja-***: *alikuwa hajavaa viatu* "he hadn't (yet) put his shoes on" (wpgrammar). Negating *kuwa* instead, *hakuwa amevaa viatu*, is used to contradict an assumption.
+- **With *-me-*, the sources differ.** Wpgrammar says the main verb is usually negated, with *-ja-*: *alikuwa hajavaa viatu* "he hadn't (yet) put his shoes on"; negating *kuwa* instead, *hakuwa amevaa viatu*, is used to contradict an assumption. Polomé describes the negative as going either on *kuwa* or on the main verb, where the negative past *-ku-* replaces *-me-* (*alikuwa hakufika* "he had not arrived"), and does not mention *-ja-* here. This guide uses *-ja-* for "hadn't (yet)" and expects you to recognise the others.
 
 ### "There was", "I had"
 
@@ -255,7 +255,7 @@ English builds the same forms with "be" and "have" (*was reading*, *had read*), 
 5. Say "he wasn't watching television" in the two possible ways.
 6. Say "I had a computer" and "there will be music".
 7. Correct *\*Tulikuwa tulisoma.*
-8. Correct *\*Wageni walikuwa hawakufika.* (meant: "the guests hadn't arrived yet")
+8. For "the guests hadn't arrived yet", which is better, *Wageni walikuwa hawakufika* or *Wageni walikuwa hawajafika*? Why?
 
 ## Worked answers
 
@@ -266,4 +266,4 @@ English builds the same forms with "be" and "have" (*was reading*, *had read*), 
 5. *Hakuwa akitazama televisheni* (negative on *kuwa* with *-ki-*) or *Alikuwa hatazami televisheni* (negative present on the main verb with *-na-*).
 6. *Nilikuwa na kompyuta.* *Kutakuwa na muziki.*
 7. The main verb takes the kind of action, not the past: *Tulikuwa tumesoma* "we had studied" or *Tulikuwa tukisoma* "we were studying".
-8. "Not yet" with *-me-* is *-ja-* on the main verb: *Wageni walikuwa hawajafika.*
+8. *Wageni walikuwa hawajafika.* "Not yet" with *-me-* is *-ja-* on the main verb (wpgrammar). *Walikuwa hawakufika* is the pattern Polomé describes, but its negative past *-ku-* gives a flat "had not arrived", without the "yet".

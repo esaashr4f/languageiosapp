@@ -17,7 +17,7 @@ The nouns of this lesson are few in kind but constant in use: the words for fami
 
 They teach the most important idea in the rest of part 3: **strong and weak stems**. A noun of this kind has more than one stem, and the case decides which one you use. In the nominative, the accusative singular and dual, and the nominative plural, the stem is "fuller"; in the rest it is "briefer" (Whitney §369b). *pitaram* "father" (accusative) has *pitar-*; *pitrā* "by the father" has *pitr-*; *pitṛbhiḥ* "by the fathers" has *pitṛ-*.
 
-Whitney (§311a) gives the reason: the five strong cases are "the five cases whose endings are never accented". In the parent language the accent fell on the stem in those cases, and a stressed syllable kept its full vowel; in the other cases the accent fell on the ending, and the stem's vowel was reduced. You do not need the accent to use the rule, but it explains why the same five cases are strong in every class of noun that has the distinction: the consonant stems of san-03-16 and san-03-17 follow the same pattern.
+Whitney (§311a) puts the distinction "in evident connection with the phenomena of accent": the five strong cases are "the five cases whose endings are never accented", and a syllable that keeps the accent tends to keep its full vowel (compare guṇa and accent, §238, san-03-11). You do not need the accent to use the rule, but it explains why the same five cases are strong in every class of noun that has the distinction: the consonant stems of san-03-16 and san-03-17 follow the same pattern.
 
 The **strong cases** are: nominative singular, accusative singular, nominative-accusative-vocative dual, nominative plural (and the vocative singular, which goes with them here). Every other case is **weak**. Some later classes also split the weak cases in two (san-03-16).
 
@@ -175,9 +175,9 @@ confidence: constructed
 orig: पिता रक्षति कौमारे भर्ता रक्षति यौवने । रक्षन्ति स्थविरे पुत्रा न स्त्री स्वातन्त्र्यम् अर्हति
 translit: pitā rakṣati kaumāre bhartā rakṣati yauvane | rakṣanti sthavire putrā na strī svātantryam arhati
 morphemes: pit-ā rakṣa-ti kaumār-e bhart-ā rakṣa-ti yauvan-e rakṣa-nti sthavir-e putr-āḥ na strī svātantry-am arha-ti
-gloss: father-NOM.SG protect-3SG childhood-LOC.SG husband-NOM.SG protect-3SG youth-LOC.SG protect-3PL old.age-LOC.SG son-NOM.PL not woman.NOM.SG independence-ACC.SG deserve-3SG
+gloss: father-NOM.SG protect-3SG childhood-LOC.SG husband-NOM.SG protect-3SG youth-LOC.SG protect-3PL old-LOC.SG.M son-NOM.PL not woman.NOM.SG independence-ACC.SG deserve-3SG
 translation: Her father guards her in childhood, her husband in youth, her sons in old age: a woman is not fit for independence.
-note: The lawbook's view of women, much quoted and much criticised. Two ṛ-stems in the nominative (pitā, bhartā) and three locatives of time. kaumāra "childhood" and svātantrya "independence" are vṛddhi derivatives (san-03-11) of kumāra and svatantra; yauvana "youth" and sthavira "old age" are glossed in place. strī "woman" is irregular (san-03-19).
+note: The lawbook's view of women, much quoted and much criticised. Two ṛ-stems in the nominative (pitā, bhartā) and three locatives of time. kaumāra "childhood" and svātantrya "independence" are vṛddhi derivatives (san-03-11) of kumāra and svatantra; yauvana "youth" is glossed in place; sthavire "in old age" is the adjective sthavira "old" with kāla "time" understood (mw1899). strī "woman" is irregular (san-03-19).
 source: Manusmṛti 9.3 (GRETIL e-text sa_manusmRti)
 confidence: attested
 :::
@@ -252,7 +252,7 @@ Feminine *mātṛ* and *svasṛ* are the same as *pitṛ* and *dātṛ* respecti
 
 ## Connections
 
-These are the words that first convinced European scholars that Sanskrit is related to Latin, Greek and Germanic. *pitṛ* (nominative *pitā*) answers to Latin *pater*, Spanish *padre*, French *père*; *mātṛ* to *mater*, *madre*, *mère*; *bhrātṛ* to *frater* (French *frère*); *duhitṛ* to English *daughter* and Greek *thugatēr*; *svasṛ* to *soror*, French *sœur*. Latin *-tor* in *dator* "giver", *actor* is the same agent suffix as Sanskrit *-tṛ* (*dātā*, *kartā*), and has the same long vowel in the strong forms (*datōrem*, *dātāram*).
+These are among the clearest words linking Sanskrit to Latin, Greek and Germanic (Wiktionary gives these cognates under each Sanskrit word). *pitṛ* (nominative *pitā*) answers to Latin *pater*, Spanish *padre*, French *père*; *mātṛ* to *mater*, *madre*, *mère*; *bhrātṛ* to *frater* (French *frère*); *duhitṛ* to English *daughter* and Greek *thugatēr*; *svasṛ* to *soror*, French *sœur*. Latin *-tor* in *dator* "giver", *actor* is the same agent suffix as Sanskrit *-tṛ* (*dātā*, *kartā*), and has a long vowel there too (*datōrem*, *dātāram*), though Latin spread it to every case but the nominative (Wiktionary *-tor*).
 
 ## Exercises
 

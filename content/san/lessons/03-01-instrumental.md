@@ -181,7 +181,7 @@ gloss: effort-INS.SG for succeed-3PL task-NOM.PL not mind-chariot-INS.PL
 literal: For by effort tasks succeed, not by chariots of the mind.
 translation: Work gets done by effort, not by wishing.
 note: Two instruments of means set against each other. manoratha "wish" is a compound, manas "mind" + ratha "chariot" (san-05-08): in the morphemes line its first member is in pausa form, manaḥ. kāryāṇi shows the rule on a neuter plural: r, y, ā, n. hi "for" is a particle (san-05-04).
-source: Hitopadeśa, introductory verse 36a (GRETIL e-text sa_nArAyaNa-hitopadeza)
+source: Hitopadeśa, introductory verse 36a–b (GRETIL e-text sa_nArAyaNa-hitopadeza)
 confidence: attested
 :::
 
@@ -208,7 +208,7 @@ confidence: attested
 - **Time within which**: "in the course of", as *māsena* "in a month" (Whitney §281d).
 - **Price**: what something is bought or exchanged for (Whitney §281b); you will meet a verb of buying in part 4.
 - **"What use is ...?"**, with *kim* "what" (part 6): Whitney (§281f) quotes the Rāmāyaṇa's "what is gained by much talking?" with the talking in the instrumental.
-- **The agent of a passive**: "by the king". This is the commonest use of all in later prose (Whitney §282), and it waits for the passive in san-04-14.
+- **The agent of a passive**: "by the king". Whitney (§282) notes that it is common from the earliest texts and "becomes decidedly more so later". It waits for the passive in san-04-14.
 - **Separation, with words of parting**: Whitney (§283a) notes that the instrumental sometimes does the ablative's work with verbs meaning "be parted from".
 
 ## Watch out

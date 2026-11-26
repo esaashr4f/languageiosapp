@@ -39,7 +39,7 @@ To make a "let me" or "let's" form, take four steps.
    - "let me": *-ayım* / *-eyim*; after a vowel, *-yayım* / *-yeyim*;
    - "let's": *-alım* / *-elim*; after a vowel, *-yalım* / *-yelim*.
    The buffer *y* comes after any vowel, including the negative's: *oku-yayım*, *bekle-yelim*, *gitme-yelim*. The usual stem changes apply before the vowel: *gid-elim*, *ed-eyim*, *di-yelim*, *yi-yelim* (Wiktionary's tables for *gitmek*, *etmek*, *demek*, *yemek*).
-4. **Stress** falls on the *A* of the optative, the syllable before the ending: *gidélim*, *bakáyım*. With *-mA* it falls before the negative: *gítmeyelim* (goksel2005 §4.3.2).
+4. **Stress** falls on the last syllable: *gidelím*, *bakayím*. Göksel and Kerslake list only the 2nd-person optative endings *-sIn*, *-sInIz* as unstressable, not *-yIm* and *-lIm* (goksel2005 §4.3.2 (iv b)). With *-mA* it falls before the negative: *gítmeyelim* (goksel2005 §4.3.2.1).
 
 **Questions.** *mI* follows the whole form, after the person ending (goksel2005 §11.1.1.5): *Bakayım mı?* "Shall I look?", *Gidelim mi?* "Shall we go?"
 

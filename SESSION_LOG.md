@@ -90,3 +90,16 @@ All agents were stopped by the 5-hour usage limit at about 07:20 UTC and did not
 2. Resume or restart: lat part 5 verification + lat part 6 drafting; kat, tur, hbo, san part 3 drafting; swh part 3 verification + part 4 drafting; hbo parts 0–2 verification; san parts 0–2 verification.
 3. Record each report as before (STATUS, glossary terms, dossier notes, `npm run build:reference -- <code>`, VERIFY.md, `npm run stats`), commit, push.
 
+
+## Session 3, pause (2026-11-26)
+
+Paused at the owner's request. All agents stopped. State on pause:
+
+- lat: parts 0–6 verified. Part 7 being drafted: 07-01 to 07-08 on disk (the drafter was stopped at the start of a resumed run); continue from 07-09, then verify part 7, then parts 8 (capstone Aeneid 1.1–11) and 9.
+- kat: parts 0–3 verified. Part 4 drafting: 04-01 to 04-23 committed; 04-24 was being written when stopped (committed as work in progress; check or rewrite it). Then the rest of part 4, verify part 4, part 5.
+- tur: parts 0–3 verified, part 4 drafted. Part 4 verification reached 04-16 (an edit to the oluyor claim in 04-16 was half done: committed as work in progress, recheck it), continue from 04-16. Part 5 drafting: 05-01 to 05-03 done; continue from 05-04.
+- swh: parts 0–4 verified, part 5 drafted (12). Part 5 verification and part 6 drafting had just started; nothing committed by either. Restart both.
+- hbo: parts 0–3 verified. Part 4 drafting: 04-01 to 04-12 done; continue from 04-13 (the stopped agent said "lesson 4.6", but files up to 04-12 exist: check the last one is complete).
+- san: parts 0–2 verified, part 3 drafted. Part 3 verification reached 03-14 (corrections committed through 03-14-r-stems); continue from 03-15. Part 4 drafting: 04-01 done, 04-02 was being written when stopped (committed as work in progress; check or rewrite it).
+
+To resume: start one drafter and one verifier per language from the points above, with the same briefs (docs/DRAFTING_BRIEF.md, docs/VERIFY_BRIEF.md), telling each where to continue.

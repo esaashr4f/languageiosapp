@@ -191,7 +191,7 @@ preview: INF
 
 **Do not use -(y)DI for "became".** *\*Ali doktordu* is not "Ali became a doctor". For a change: *Ali doktor oldu.*
 
-**Do not use olmak for the plain present.** *\*Ali doktor oluyor* is not "Ali is a doctor"; it means "Ali is becoming a doctor" or "Ali is (usually) the doctor". *\*Ben öğretmen olurum* is "I'll be a teacher, I'd make a teacher". The plain present needs no verb: *Ali doktor*, *Öğretmenim.*
+**Do not use olmak for the plain present.** *\*Ali doktor oluyor* is not the plain "Ali is a doctor"; it means "Ali is becoming a doctor" or "Ali is (usually) the doctor". (Göksel and Kerslake note an optional softening *oluyor* in statements of identity, *Halil benim kuzenim oluyor* type, but it is in decreasing use; goksel2005 §21.3.4.3.) *\*Ben öğretmen olurum* is "I'll be a teacher, I'd make a teacher". The plain present needs no verb: *Ali doktor*, *Öğretmenim.*
 
 **Do not keep var with olmak.** *\*Toplantı var olacak*, *\*arabam var olacak*: *olacak* replaces *var*: *Toplantı olacak*, *Arabam olacak.*
 

@@ -47,7 +47,7 @@ The predicate may also follow the negated verb: *es ar aris saxli*. Bolkvadze an
 
 **aɣar, veɣar.** They take the place of *ar* and *ver*: *aɣar vc̣er* "I no longer write"; *veɣar vxedav* "I can no longer see (it)".
 
-**arc ... arc.** Put *arc* before each of the two things you deny and join the two halves with *da* "and". In Bolkvadze and Kiziria's examples the verb has no further *ar*: *arc kalaks vxedav da arc sopels* "I see neither the town nor the village".
+**arc ... arc.** Put *arc* before each of the two things you deny and join the two halves with *da* "and". When the first *arc* phrase stands before the verb, as here, the verb takes no further *ar* in Bolkvadze and Kiziria's examples or in Wiktionary's: *arc kalaks vxedav da arc sopels* "I see neither the town nor the village". (When *arc ... arc* or *verc ... verc* pairs two subjects before the verb, Bolkvadze and Kiziria also have the verb keeping its own particle: "neither I nor you can help this person" is *verc me da verc šen ... ver vušvelit*. You will not need that pattern yet.)
 
 ## Examples
 
@@ -204,7 +204,7 @@ preview: TS
 
 **Do not look for a verb "can" yet.** Spanish *no puedo escribir* suggests "can" plus a verb. In the present, Georgian says *ver vc̣er*. A verb meaning "can, be able" exists, but it is an indirect verb (lesson 4-18) and you will rarely need it for simple sentences.
 
-**Do not double the negation with arc.** *\*Arc kalaks ar vxedav da arc sopels* adds *ar* to the verb. In Bolkvadze and Kiziria's examples, *arc ... arc* alone carries the negation.
+**Do not add ar after an arc that already stands before the verb.** In *arc kalaks vxedav da arc sopels*, the first *arc* sits right before the verb's phrase and carries the negation; the examples in Bolkvadze and Kiziria and in Wiktionary of this pattern have no second *ar*, so do not add one. (Bolkvadze and Kiziria do have a negated verb after a pair of negated subjects, *verc me da verc šen ... ver vušvelit*, so the rule is about this pattern, not every *arc*.)
 
 **Do not use ar for a command.** *Ar c̣er* is a statement, "you don't write", not "don't write!". Commands use *nu* or another form (lesson 4-17).
 

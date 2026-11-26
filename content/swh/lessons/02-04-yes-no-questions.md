@@ -177,7 +177,7 @@ preview: C9
 
 **Do not add a "do".** English "do you read?" tempts you to use *-fanya* "do, make". *\*Unafanya kusoma?* means something like "are you doing reading?" and is not a question form. Say *Unasoma?*
 
-**Do not use *je* at the end as a question mark.** After a verb, *-je* is a different word meaning "how": Wiktionary gives *umelala je?* "how did you sleep?". So *\*Unasoma je?* asks "how are you reading?", not "are you reading?". Put *je* first: *Je, unasoma?* After a noun or pronoun, *je* means "what about": *Na wewe je?*
+**Do not use *je* at the end as a question mark.** After a verb, *-je* is a different element meaning "how", written joined to the verb: Wiktionary gives *umelalaje?* "how did you sleep?", and Almasi and colleagues *aliandikaje?* "how did he write?". So *\*Unasoma je?* is heard as *unasomaje?* "how are you reading?", not "are you reading?". Put *je* first: *Je, unasoma?* After a noun or pronoun, *je* means "what about": *Na wewe je?*
 
 **Do not change *sivyo* to match the subject.** English tags change ("isn't she?", "don't they?", "aren't I?"). *Sivyo* is fixed. *\*Wanafika leo, hawavyo?* is invented. Say *Wanafika leo, sivyo?*
 
@@ -244,6 +244,6 @@ Japanese and Korean also ask yes-no questions without moving anything: 読みま
 3. *Wafanyakazi*, class 2: prefix *wa-*. *Wafanyakazi wanafika leo?* The answer stays with "they": *Hapana, wanafika kesho.*
 4. *Wenyeji wanangoja, sivyo?* *Sivyo* never changes; *au sivyo* is also possible.
 5. *Je*: a question is coming. *Mw-anafunzi*: class 1 prefix and "student". *A-na-uliz-a*: class 1 subject, present, "ask", final vowel. "Is the student asking?"
-6. After a verb, *-je* means "how", so the sentence asks "how are you helping?". Put *je* at the front, or leave it out: *Je, unasaidia?* or *Unasaidia?*
+6. After a verb, *-je* means "how" (and is written joined to it, *unasaidiaje?*), so the sentence asks "how are you helping?". Put *je* at the front, or leave it out: *Je, unasaidia?* or *Unasaidia?*
 7. *Mnafundisha au mnasoma?* The answer is about "we" and names one choice: *Tunafundisha.* (or *Tunasoma.*)
 8. Add the verb after the answer word. "I understand": *Hapana, ninaelewa.* "I don't": *Ndiyo, sielewi.* The verb carries the real answer, so the choice of *ndiyo* or *hapana* cannot mislead.

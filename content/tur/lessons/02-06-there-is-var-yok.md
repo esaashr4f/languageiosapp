@@ -50,7 +50,7 @@ Questions put *mI* after *var* or *yok*: *Evde süt var mı?* "Is there milk at 
 
 **Persons with var and yok.** *Yok* takes the personal endings and "they": *yokum* "I'm not there", *yoksun*, *yoklar* (wiktionary, *yok*). *Var* may take first and second person endings, but not the "they" ending (goksel2005 §12.1.1.2). In practice you will mostly use them in the third person.
 
-**Stress.** *-DA* takes stress like most suffixes: *evdé*, *okuldá*. A personal ending after it does not: *evdéyim*. A stem with fixed stress keeps it: *Ánkara'da*. In the sentence, the main stress in a positive existential falls on the thing that exists; in a negative one it falls on *yok* (goksel2005 §23.1.2.2): *Mutfakta bir MAsa var*, *Mutfakta masa YOK*.
+**Stress.** *-DA* takes stress like most suffixes: *evdé*, *okuldá*. A personal ending after it does not: *evdéyim*. A stem with fixed stress keeps it: *Ánkara'da*. In the sentence, the main stress in a positive existential falls on the thing that exists; in a negative one it falls on *yok* (goksel2005 §23.1.2.2): *Mutfakta bir maSA var*, *Mutfakta masa YOK*.
 
 ## Examples
 
@@ -199,7 +199,7 @@ confidence: constructed
 
 **Do not put the place after var.** English "there is a book on the table" ends with the place. Turkish puts it first and *var* last: *Masada bir kitap var*, not *\*Bir kitap var masada* as a neutral sentence.
 
-**Do not use *bir* in a plain negative.** *Mutfakta peynir yok* is the normal form; *bir* in a negative means "not even one" and is emphatic.
+**Do not use *bir* in a plain negative.** *Mutfakta peynir yok* is the normal form, with a bare noun. To stress "not even one", Göksel and Kerslake's example adds *tane* and *bile* "even": *bir tane bile ... yok* (goksel2005 §20.3).
 
 **Do not add *-lAr* to *var*.** *\*Bahçede çocuklar varlar* is wrong: *var* never takes the "they" ending. *Bahçede çocuklar var.*
 

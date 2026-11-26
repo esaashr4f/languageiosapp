@@ -13,7 +13,7 @@ sources: [whitney1889, macdonell1927, glottolog, mw1899, wiktionary]
 
 ## A name that means "perfected"
 
-The word Sanskrit is the Sanskrit adjective *saṃskṛta*. Monier-Williams's dictionary gives its meanings as "put together", "well or completely formed", "perfected", and, of speech, "refined" or "highly elaborated", as opposed to the everyday languages. The name already tells you the language's history. It is the speech that was worked over, fixed by rule and kept that way.
+The word Sanskrit is the Sanskrit adjective *saṃskṛta*. Monier-Williams gives its meanings as "put together", "well or completely formed", "perfected", and, of speech, "refined" or "highly elaborated", as opposed to the everyday languages. The name already tells you the language's history. It is the speech that was worked over, fixed by rule and kept that way.
 
 Sanskrit is an Indo-European language. Glottolog places it in Indo-European, within Indo-Iranian and its Indo-Aryan branch. The Indo-Iranian branch holds the old languages of Iran (Avestan, Old Persian) and of northern India. So Sanskrit is a distant relative of Latin, Greek, the Germanic languages and the Slavonic languages, and a much closer one of Persian.
 

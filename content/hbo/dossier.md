@@ -381,3 +381,12 @@ Say so in the lesson when one of these comes up.
 - Jerusalem in WLC: lamed with pataḥ + ḥireq (qameṣ + ḥireq only in pause), written lamed, pataḥ, U+034F, ḥireq.
 - With the article the word for land is always hāʾāreṣ (934× in WLC); hbo-02-02 must explain why, with a source (probably Gesenius §35).
 - Conventions: letter names written plainly (alef, bet, … ṣade, qof, resh, sin/shin, taw); acute stress only in prose and notes; accents in `orig` only in hbo-01-09; wayyiqtol segmented way-yōʾmer, way-hî. Grammar words (lōʾ, ʿal, hîʾ) were left for their own lessons.
+
+
+## Notes from drafting part 2 (2026-11-26)
+
+- hāʾāreṣ: Gesenius §35o lists the five nouns that always take the pausal vowel after the article (ʾereṣ, har, ḥag, ʿam, par); §29k explains the ā; no source says why the article triggers it, and hbo-02-02 says so. The origin of ʾēṯ is given as Gesenius's guess (§117b).
+- Conventions: article merged into a preposition glossed as one piece (bā=ʾāreṣ in.DEF=land); "and" before yə: wî=hûḏâ, bî=rûšālayim; third-person qatal šāmər-û guard.QTL-3PL, weak qatal forms (bāʾ, ʿāśâ, mēṯ, hāyəṯâ) taught as words; wayyiqtol plural one piece way-yōʾmərû WAYY-say.3PL.M; weqatal wə-ʾāmar-t WQTL-say-2SG.F; yēš `there.is`, ʾên/ʾayin `there.is.not`, hă- Q, ʾēṯ OBJ (ʾēṯ "with" a separate entry); kēn adjective and adverb separate entries.
+- Pausal pronouns ʾā́nî, ʾā́ttâ, ʾănā́ḥnû, ʾā́tt; 2fs ʾatt.
+- Previews only so far: possessive suffixes, plurals, construct forms, hāhēm/hazzeh, participles.
+- Expected differences from the check script: YHWH lines, ketiv הִוא, qameṣ ḥaṭuf in kol-, silent shewa after a stressed long vowel in pausal forms, CGJ in bîrûšālayim.

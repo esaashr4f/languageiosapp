@@ -189,6 +189,23 @@
   "ketiv": "What is written in the consonantal text (hbo-01-09).",
   "qere": "What is read aloud where it differs from the ketiv (hbo-01-09).",
   "perpetual qere": "A word always read differently from its spelling, such as the divine name (hbo-01-09).",
-  "transliteration": "Writing Hebrew letter for letter in Latin letters (hbo-01-10)."
+  "transliteration": "Writing Hebrew letter for letter in Latin letters (hbo-01-10).",
+  "clause": "A unit with a subject and a predicate (hbo-02-01).",
+  "subject": "What the clause is about (hbo-02-01).",
+  "predicate": "What is said about the subject (hbo-02-01).",
+  "verbless clause": "A clause with no verb, as 'the man (is) good' (hbo-02-01).",
+  "copula": "A word like English 'is' linking subject and predicate; Hebrew usually has none (hbo-02-01).",
+  "definite": "Referring to a particular, known thing (hbo-02-02).",
+  "compensatory lengthening": "A vowel growing longer to make up for a doubling a guttural cannot take (hbo-02-02).",
+  "virtual doubling": "A doubling understood but not written, before ḥet and he (hbo-02-02).",
+  "conjunction": "A joining word, such as wə- 'and' (hbo-02-03).",
+  "pronoun": "A word standing in for a noun (hbo-02-04).",
+  "person": "Speaker, addressee or someone else (hbo-02-04).",
+  "number": "One or more than one (hbo-02-04).",
+  "gender": "Masculine or feminine (hbo-02-04).",
+  "preposition": "A word placed before a noun to show place or relation (hbo-02-05).",
+  "strong verb": "A verb whose root letters never drop or change (hbo-02-06).",
+  "stative verb": "A verb describing a state, such as 'be heavy' (hbo-02-06).",
+  "object": "The thing or person acted on (hbo-02-09)."
  }
 }

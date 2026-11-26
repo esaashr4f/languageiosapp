@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 78,
+ "count": 226,
  "words": [
   {
    "headword": "דָּבָר",
@@ -703,6 +703,1338 @@
    "forms": "m.; stressed bṓhû; almost only in tōhû wāḇōhû",
    "first_lesson": "hbo-01-10",
    "confidence": "verified"
+  },
+  {
+   "headword": "כִּי",
+   "translit": "kî",
+   "pos": "conjunction",
+   "meaning": "that; because, for; when",
+   "forms": "",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵן",
+   "translit": "hēn",
+   "pos": "particle",
+   "meaning": "look, here is (pointing to what follows)",
+   "forms": "",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גָּדוֹל",
+   "translit": "gāḏôl",
+   "pos": "adjective",
+   "meaning": "big, great; loud; important",
+   "forms": "root g-d-l",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָטֹן",
+   "translit": "qāṭōn",
+   "pos": "adjective",
+   "meaning": "small, young, unimportant",
+   "forms": "also קָטָן qāṭān",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָדוֹשׁ",
+   "translit": "qāḏôš",
+   "pos": "adjective",
+   "meaning": "holy, sacred, set apart",
+   "forms": "root q-d-š, as in qōḏeš",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צַדִּיק",
+   "translit": "ṣaddîq",
+   "pos": "adjective",
+   "meaning": "righteous, just, in the right",
+   "forms": "root ṣ-d-q",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָשָׁע",
+   "translit": "rāšāʿ",
+   "pos": "adjective",
+   "meaning": "wicked, guilty, in the wrong",
+   "forms": "often as a noun, \"a wicked man\"",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רַע",
+   "translit": "raʿ",
+   "pos": "adjective",
+   "meaning": "bad, evil, harmful",
+   "forms": "rāʿ in pause",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חַי",
+   "translit": "ḥay",
+   "pos": "adjective",
+   "meaning": "alive, living",
+   "forms": "ḥāy in pause",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֶחָד",
+   "translit": "ʾeḥāḏ",
+   "pos": "number",
+   "meaning": "one; a certain",
+   "forms": "stands after its noun",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עַל",
+   "translit": "ʿal",
+   "pos": "preposition",
+   "meaning": "on, upon, over; about; against",
+   "forms": "joined by maqqef: ʿal-",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מְאֹד",
+   "translit": "məʾōḏ",
+   "pos": "adverb",
+   "meaning": "very, greatly",
+   "forms": "after the word it strengthens",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יַעֲקֹב",
+   "translit": "yaʿăqōḇ",
+   "pos": "proper noun",
+   "meaning": "Jacob",
+   "forms": "",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּם",
+   "translit": "tām",
+   "pos": "adjective",
+   "meaning": "complete; sound, wholesome; blameless",
+   "forms": "root t-m-m",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כֹּהֵן",
+   "translit": "kōhēn",
+   "pos": "noun",
+   "meaning": "priest",
+   "forms": "m.",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עֶבֶד",
+   "translit": "ʿeḇeḏ",
+   "pos": "noun",
+   "meaning": "servant, slave; subject of a king",
+   "forms": "m.; stressed ʿéḇeḏ; root ʿ-b-d",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָב",
+   "translit": "ʾāḇ",
+   "pos": "noun",
+   "meaning": "father; ancestor",
+   "forms": "m.",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָח",
+   "translit": "ʾāḥ",
+   "pos": "noun",
+   "meaning": "brother; kinsman",
+   "forms": "m.",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָקוֹם",
+   "translit": "māqôm",
+   "pos": "noun",
+   "meaning": "place",
+   "forms": "m.",
+   "first_lesson": "hbo-02-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בֵּין",
+   "translit": "bên",
+   "pos": "preposition",
+   "meaning": "between",
+   "forms": "usually repeated: bên X ûḇên Y",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עַז",
+   "translit": "ʿaz",
+   "pos": "adjective",
+   "meaning": "strong, mighty, fierce",
+   "forms": "ʿāz in pause",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָכָם",
+   "translit": "ḥāḵām",
+   "pos": "adjective",
+   "meaning": "wise; skilled",
+   "forms": "root ḥ-k-m, as in ḥoḵmâ",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חֶרֶב",
+   "translit": "ḥereḇ",
+   "pos": "noun",
+   "meaning": "sword",
+   "forms": "f.; stressed ḥéreḇ",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נַעַר",
+   "translit": "naʿar",
+   "pos": "noun",
+   "meaning": "boy, young man; servant, attendant",
+   "forms": "m.; stressed náʿar",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אִשָּׁה",
+   "translit": "ʾiššâ",
+   "pos": "noun",
+   "meaning": "woman; wife",
+   "forms": "f.",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲדָמָה",
+   "translit": "ʾăḏāmâ",
+   "pos": "noun",
+   "meaning": "ground, soil, land",
+   "forms": "f.; compare ʾāḏām",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֹהֶל",
+   "translit": "ʾōhel",
+   "pos": "noun",
+   "meaning": "tent",
+   "forms": "m.; stressed ʾṓhel",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "דֶּרֶךְ",
+   "translit": "dereḵ",
+   "pos": "noun",
+   "meaning": "way, road, journey; manner",
+   "forms": "m. and f.; stressed déreḵ",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָם",
+   "translit": "yām",
+   "pos": "noun",
+   "meaning": "sea",
+   "forms": "m.",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵיכָל",
+   "translit": "hêḵāl",
+   "pos": "noun",
+   "meaning": "palace; temple",
+   "forms": "m.",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פַּעַם",
+   "translit": "paʿam",
+   "pos": "noun",
+   "meaning": "time, occurrence; step",
+   "forms": "f.; stressed páʿam; happaʿam \"this time\"",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֵם",
+   "translit": "ʾēm",
+   "pos": "noun",
+   "meaning": "mother",
+   "forms": "f.",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חַג",
+   "translit": "ḥaḡ",
+   "pos": "noun",
+   "meaning": "festival, pilgrimage feast",
+   "forms": "m.; with the article heḥāḡ",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פַּר",
+   "translit": "par",
+   "pos": "noun",
+   "meaning": "young bull",
+   "forms": "m.; with the article happār",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מִזְבֵּחַ",
+   "translit": "mizbēaḥ",
+   "pos": "noun",
+   "meaning": "altar",
+   "forms": "m.; root z-b-ḥ \"slaughter\"",
+   "first_lesson": "hbo-02-02",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אוֹ",
+   "translit": "ʾô",
+   "pos": "conjunction",
+   "meaning": "or",
+   "forms": "",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עִם",
+   "translit": "ʿim",
+   "pos": "preposition",
+   "meaning": "with, together with",
+   "forms": "with suffix ʿimmô \"with him\"",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַבְרָם",
+   "translit": "ʾaḇrām",
+   "pos": "proper noun",
+   "meaning": "Abram",
+   "forms": "Abraham's earlier name",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַבְרָהָם",
+   "translit": "ʾaḇrāhām",
+   "pos": "proper noun",
+   "meaning": "Abraham",
+   "forms": "",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יְהוּדָה",
+   "translit": "yəhûḏâ",
+   "pos": "proper noun",
+   "meaning": "Judah",
+   "forms": "with \"and\": wîhûḏâ",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לֵוִי",
+   "translit": "lēwî",
+   "pos": "proper noun",
+   "meaning": "Levi; Levite",
+   "forms": "",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּבֵד",
+   "translit": "kāḇēḏ",
+   "pos": "adjective",
+   "meaning": "heavy; rich; weighty, honoured",
+   "forms": "root k-b-d",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מִקְנֶה",
+   "translit": "miqneh",
+   "pos": "noun",
+   "meaning": "livestock, cattle (as property)",
+   "forms": "m.",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צֹאן",
+   "translit": "ṣōʾn",
+   "pos": "noun",
+   "meaning": "flock, sheep and goats",
+   "forms": "a collective",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּקָר",
+   "translit": "bāqār",
+   "pos": "noun",
+   "meaning": "cattle, herd",
+   "forms": "a collective",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גָּמָל",
+   "translit": "gāmāl",
+   "pos": "noun",
+   "meaning": "camel",
+   "forms": "m.; plural gəmallîm",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שִׁפְחָה",
+   "translit": "šip̄ḥâ",
+   "pos": "noun",
+   "meaning": "maidservant, slave woman",
+   "forms": "f.",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "זֶרַע",
+   "translit": "zeraʿ",
+   "pos": "noun",
+   "meaning": "seed; sowing; offspring",
+   "forms": "m.; stressed zéraʿ",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָצִיר",
+   "translit": "qāṣîr",
+   "pos": "noun",
+   "meaning": "harvest",
+   "forms": "m.",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קַיִץ",
+   "translit": "qayiṣ",
+   "pos": "noun",
+   "meaning": "summer; summer fruit",
+   "forms": "m.; stressed qáyiṣ",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָפָר",
+   "translit": "ʿāp̄ār",
+   "pos": "noun",
+   "meaning": "dust, dry earth",
+   "forms": "m.",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֵפֶר",
+   "translit": "ʾēp̄er",
+   "pos": "noun",
+   "meaning": "ashes",
+   "forms": "m.; stressed ʾḗp̄er",
+   "first_lesson": "hbo-02-03",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲנִי",
+   "translit": "ʾănî",
+   "pos": "pronoun",
+   "meaning": "I",
+   "forms": "pausal ʾā́nî",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָנֹכִי",
+   "translit": "ʾānōḵî",
+   "pos": "pronoun",
+   "meaning": "I",
+   "forms": "less common than ʾănî",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַתָּה",
+   "translit": "ʾattâ",
+   "pos": "pronoun",
+   "meaning": "you (m. sg.)",
+   "forms": "pausal ʾā́ttâ",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַתְּ",
+   "translit": "ʾatt",
+   "pos": "pronoun",
+   "meaning": "you (f. sg.)",
+   "forms": "pausal ʾā́tt",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הוּא",
+   "translit": "hûʾ",
+   "pos": "pronoun",
+   "meaning": "he, it",
+   "forms": "",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִיא",
+   "translit": "hîʾ",
+   "pos": "pronoun",
+   "meaning": "she, it",
+   "forms": "in the Torah usually written הִוא",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲנַחְנוּ",
+   "translit": "ʾănaḥnû",
+   "pos": "pronoun",
+   "meaning": "we",
+   "forms": "pausal ʾănā́ḥnû",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַתֶּם",
+   "translit": "ʾattem",
+   "pos": "pronoun",
+   "meaning": "you (m. pl.)",
+   "forms": "",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַתֵּנָה",
+   "translit": "ʾattēnâ",
+   "pos": "pronoun",
+   "meaning": "you (f. pl.)",
+   "forms": "rare (Gesenius §32i)",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵם",
+   "translit": "hēm",
+   "pos": "pronoun",
+   "meaning": "they (m.)",
+   "forms": "",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵמָּה",
+   "translit": "hēmmâ",
+   "pos": "pronoun",
+   "meaning": "they (m.)",
+   "forms": "longer form of hēm",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵנָּה",
+   "translit": "hēnnâ",
+   "pos": "pronoun",
+   "meaning": "they (f.)",
+   "forms": "the same word is also an adverb \"here, hither\"",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עֵשָׂו",
+   "translit": "ʿēśāw",
+   "pos": "proper noun",
+   "meaning": "Esau",
+   "forms": "",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יוֹסֵף",
+   "translit": "yôsēp̄",
+   "pos": "proper noun",
+   "meaning": "Joseph",
+   "forms": "",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בְּכוֹר",
+   "translit": "bəḵôr",
+   "pos": "noun",
+   "meaning": "firstborn",
+   "forms": "m.; also spelled בְּכֹר",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָחוֹת",
+   "translit": "ʾāḥôṯ",
+   "pos": "noun",
+   "meaning": "sister",
+   "forms": "f.; with suffix ʾăḥōṯî \"my sister\"",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גִּבּוֹר",
+   "translit": "gibbôr",
+   "pos": "adjective",
+   "meaning": "mighty; as a noun, warrior, hero",
+   "forms": "root g-b-r",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כֵּן",
+   "translit": "kēn",
+   "pos": "adjective",
+   "meaning": "right, honest, true",
+   "forms": "not the adverb kēn \"so\"",
+   "first_lesson": "hbo-02-04",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בְּ",
+   "translit": "bə",
+   "pos": "preposition",
+   "meaning": "in, at, on; with, by means of",
+   "forms": "prefix",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לְ",
+   "translit": "lə",
+   "pos": "preposition",
+   "meaning": "to, for; belonging to",
+   "forms": "prefix",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כְּ",
+   "translit": "kə",
+   "pos": "preposition",
+   "meaning": "like, as; about, according to",
+   "forms": "prefix",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מִן",
+   "translit": "min",
+   "pos": "preposition",
+   "meaning": "from, out of; than; some of",
+   "forms": "mi- + doubling, mē- before gutturals",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֶל",
+   "translit": "ʾel",
+   "pos": "preposition",
+   "meaning": "to, towards",
+   "forms": "joined by maqqef: ʾel-",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תַּחַת",
+   "translit": "taḥaṯ",
+   "pos": "preposition",
+   "meaning": "under; instead of",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עַד",
+   "translit": "ʿaḏ",
+   "pos": "preposition",
+   "meaning": "as far as, until",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַחֲרֵי",
+   "translit": "ʾaḥărê",
+   "pos": "preposition",
+   "meaning": "after, behind",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בַּת",
+   "translit": "baṯ",
+   "pos": "noun",
+   "meaning": "daughter",
+   "forms": "f.; plural bānôṯ",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מוֹלֶדֶת",
+   "translit": "môleḏeṯ",
+   "pos": "noun",
+   "meaning": "kindred, family; birthplace",
+   "forms": "f.; root y-l-d",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָרָן",
+   "translit": "ḥārān",
+   "pos": "proper noun",
+   "meaning": "Haran (a city in upper Mesopotamia)",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לָבָן",
+   "translit": "lāḇān",
+   "pos": "proper noun",
+   "meaning": "Laban",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לֵאָה",
+   "translit": "lēʾâ",
+   "pos": "proper noun",
+   "meaning": "Leah",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָחֵל",
+   "translit": "rāḥēl",
+   "pos": "proper noun",
+   "meaning": "Rachel",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׂרָה",
+   "translit": "śārâ",
+   "pos": "proper noun",
+   "meaning": "Sarah",
+   "forms": "earlier śāray, Sarai",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מִצְרַיִם",
+   "translit": "miṣrayim",
+   "pos": "proper noun",
+   "meaning": "Egypt",
+   "forms": "",
+   "first_lesson": "hbo-02-05",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁמַר",
+   "translit": "šāmar",
+   "pos": "verb",
+   "meaning": "guard, keep, watch",
+   "forms": "root š-m-r",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁמַע",
+   "translit": "šāmaʿ",
+   "pos": "verb",
+   "meaning": "hear; listen, obey",
+   "forms": "root š-m-ʿ; with ʾel or bə \"listen to\"",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לָקַח",
+   "translit": "lāqaḥ",
+   "pos": "verb",
+   "meaning": "take; receive",
+   "forms": "root l-q-ḥ",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הָלַךְ",
+   "translit": "hālaḵ",
+   "pos": "verb",
+   "meaning": "go, walk",
+   "forms": "root h-l-k",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּתַב",
+   "translit": "kāṯaḇ",
+   "pos": "verb",
+   "meaning": "write",
+   "forms": "root k-t-b",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "זָכַר",
+   "translit": "zāḵar",
+   "pos": "verb",
+   "meaning": "remember",
+   "forms": "root z-k-r",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פָּקַד",
+   "translit": "pāqaḏ",
+   "pos": "verb",
+   "meaning": "attend to, visit; muster; appoint",
+   "forms": "root p-q-d",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָבַר",
+   "translit": "ʿāḇar",
+   "pos": "verb",
+   "meaning": "pass over, pass through, pass by",
+   "forms": "root ʿ-b-r",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָדַע",
+   "translit": "yāḏaʿ",
+   "pos": "verb",
+   "meaning": "know",
+   "forms": "root y-d-ʿ",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָשַׁב",
+   "translit": "yāšaḇ",
+   "pos": "verb",
+   "meaning": "sit; stay, dwell",
+   "forms": "root y-š-b",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גָּבַר",
+   "translit": "gāḇar",
+   "pos": "verb",
+   "meaning": "be strong, prevail",
+   "forms": "root g-b-r, as in gibbôr",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "זָקֵן",
+   "translit": "zāqēn",
+   "pos": "verb",
+   "meaning": "be old, grow old",
+   "forms": "root z-q-n; also an adjective \"old\"",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּא",
+   "translit": "bāʾ",
+   "pos": "verb",
+   "meaning": "come, go in",
+   "forms": "root b-w-ʾ; qatal 3PL bāʾû",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָשָׂה",
+   "translit": "ʿāśâ",
+   "pos": "verb",
+   "meaning": "do, make",
+   "forms": "root ʿ-ś-h; qatal 3SG.F ʿāśəṯâ, 3PL ʿāśû",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מֵת",
+   "translit": "mēṯ",
+   "pos": "verb",
+   "meaning": "die",
+   "forms": "root m-w-t",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כֹּה",
+   "translit": "kōh",
+   "pos": "adverb",
+   "meaning": "thus, so; here",
+   "forms": "",
+   "first_lesson": "hbo-02-06",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לֹא",
+   "translit": "lōʾ",
+   "pos": "particle",
+   "meaning": "not; no",
+   "forms": "also spelled לוֹא; joined by maqqef: lōʾ-",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַיִן",
+   "translit": "ʾayin",
+   "pos": "particle",
+   "meaning": "there is not; nothing; no",
+   "forms": "before a noun ʾên; with endings ʾênennû \"he is not\"",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יֵשׁ",
+   "translit": "yēš",
+   "pos": "particle",
+   "meaning": "there is, there are",
+   "forms": "before maqqef yeš-",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַל",
+   "translit": "ʾal",
+   "pos": "particle",
+   "meaning": "do not (with a wish or command)",
+   "forms": "taught in part 4",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָכֵן",
+   "translit": "ʾāḵēn",
+   "pos": "adverb",
+   "meaning": "surely, truly; but in fact",
+   "forms": "",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גַּם",
+   "translit": "gam",
+   "pos": "particle",
+   "meaning": "also, even; both ... and",
+   "forms": "",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רַק",
+   "translit": "raq",
+   "pos": "particle",
+   "meaning": "only; but, however",
+   "forms": "",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֶפֶס",
+   "translit": "ʾep̄es",
+   "pos": "noun",
+   "meaning": "end, nothing; as a particle, only, however",
+   "forms": "stressed ʾép̄es",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "טֶרֶם",
+   "translit": "ṭerem",
+   "pos": "adverb",
+   "meaning": "not yet; before",
+   "forms": "stressed ṭérem",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָלַד",
+   "translit": "yālaḏ",
+   "pos": "verb",
+   "meaning": "bear (a child), give birth; beget",
+   "forms": "root y-l-d",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יֶלֶד",
+   "translit": "yeleḏ",
+   "pos": "noun",
+   "meaning": "child, boy",
+   "forms": "m.; stressed yéleḏ; plural yəlāḏîm",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "וָלָד",
+   "translit": "wālāḏ",
+   "pos": "noun",
+   "meaning": "child",
+   "forms": "m.; rare (Genesis 11:30)",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בּוֹר",
+   "translit": "bôr",
+   "pos": "noun",
+   "meaning": "pit, cistern",
+   "forms": "m.",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׂרַי",
+   "translit": "śāray",
+   "pos": "proper noun",
+   "meaning": "Sarai",
+   "forms": "Sarah's earlier name",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חַנָּה",
+   "translit": "ḥannâ",
+   "pos": "proper noun",
+   "meaning": "Hannah",
+   "forms": "",
+   "first_lesson": "hbo-02-07",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֲ",
+   "translit": "hă",
+   "pos": "particle",
+   "meaning": "question marker (yes/no questions)",
+   "forms": "ha- before gutturals, he- before ā",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אִם",
+   "translit": "ʾim",
+   "pos": "conjunction",
+   "meaning": "if; in questions, or",
+   "forms": "ʾim-lōʾ \"or not\"",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֲלֹא",
+   "translit": "hălōʾ",
+   "pos": "particle",
+   "meaning": "is it not? surely",
+   "forms": "also spelled הֲלוֹא",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִנֵּה",
+   "translit": "hinnēh",
+   "pos": "particle",
+   "meaning": "look, here is; now",
+   "forms": "fuller form of hēn",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עַתָּה",
+   "translit": "ʿattâ",
+   "pos": "adverb",
+   "meaning": "now",
+   "forms": "often wəʿattâ \"and now, so now\"",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁאַל",
+   "translit": "šāʾal",
+   "pos": "verb",
+   "meaning": "ask; ask for",
+   "forms": "root š-ʾ-l",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָנָה",
+   "translit": "ʿānâ",
+   "pos": "verb",
+   "meaning": "answer, reply",
+   "forms": "root ʿ-n-h",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "דָּרַשׁ",
+   "translit": "dāraš",
+   "pos": "verb",
+   "meaning": "seek, inquire of",
+   "forms": "root d-r-š",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צָחַק",
+   "translit": "ṣāḥaq",
+   "pos": "verb",
+   "meaning": "laugh",
+   "forms": "root ṣ-ḥ-q, as in yiṣḥāq",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אוּלַי",
+   "translit": "ʾûlay",
+   "pos": "adverb",
+   "meaning": "perhaps",
+   "forms": "",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כְּתֹנֶת",
+   "translit": "kəṯōneṯ",
+   "pos": "noun",
+   "meaning": "tunic, robe",
+   "forms": "f.",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יִצְחָק",
+   "translit": "yiṣḥāq",
+   "pos": "proper noun",
+   "meaning": "Isaac",
+   "forms": "",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַהֲרֹן",
+   "translit": "ʾahărōn",
+   "pos": "proper noun",
+   "meaning": "Aaron",
+   "forms": "",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מֹשֶׁה",
+   "translit": "mōšeh",
+   "pos": "proper noun",
+   "meaning": "Moses",
+   "forms": "",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לִפְנֵי",
+   "translit": "lip̄nê",
+   "pos": "preposition",
+   "meaning": "before, in front of, in the presence of",
+   "forms": "literally \"to the face of\"; part 5",
+   "first_lesson": "hbo-02-08",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֵת",
+   "translit": "ʾēṯ",
+   "pos": "particle",
+   "meaning": "object marker before a definite object (not translated)",
+   "forms": "ʾeṯ- with maqqef; with endings ʾōṯ-, e.g. ʾōṯô",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֵת",
+   "translit": "ʾēṯ",
+   "pos": "preposition",
+   "meaning": "with, beside",
+   "forms": "with endings ʾitt-, e.g. ʾittô \"with him\"",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָאַס",
+   "translit": "māʾas",
+   "pos": "verb",
+   "meaning": "reject, refuse",
+   "forms": "root m-ʾ-s",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נָשָׂא",
+   "translit": "nāśāʾ",
+   "pos": "verb",
+   "meaning": "lift, carry; take",
+   "forms": "root n-ś-ʾ",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָצָא",
+   "translit": "māṣāʾ",
+   "pos": "verb",
+   "meaning": "find",
+   "forms": "root m-ṣ-ʾ",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁתָה",
+   "translit": "šāṯâ",
+   "pos": "verb",
+   "meaning": "drink",
+   "forms": "root š-t-h",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּנָה",
+   "translit": "bānâ",
+   "pos": "verb",
+   "meaning": "build",
+   "forms": "root b-n-h",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָאָה",
+   "translit": "rāʾâ",
+   "pos": "verb",
+   "meaning": "see",
+   "forms": "root r-ʾ-h; wayyiqtol wayyarʾ \"and he saw\"",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָהַב",
+   "translit": "ʾāhaḇ",
+   "pos": "verb",
+   "meaning": "love",
+   "forms": "root ʾ-h-b; BDB lists it as ʾāhēḇ",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָזַב",
+   "translit": "ʿāzaḇ",
+   "pos": "verb",
+   "meaning": "leave, abandon",
+   "forms": "root ʿ-z-b",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּרַת",
+   "translit": "kāraṯ",
+   "pos": "verb",
+   "meaning": "cut off, cut down; with bərîṯ, make a covenant",
+   "forms": "root k-r-t",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חַוָּה",
+   "translit": "ḥawwâ",
+   "pos": "proper noun",
+   "meaning": "Eve",
+   "forms": "",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קַיִן",
+   "translit": "qayin",
+   "pos": "proper noun",
+   "meaning": "Cain",
+   "forms": "",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֶבֶל",
+   "translit": "heḇel",
+   "pos": "proper noun",
+   "meaning": "Abel",
+   "forms": "as a common noun, \"breath, vapour\"",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חֲנוֹךְ",
+   "translit": "ḥănôḵ",
+   "pos": "proper noun",
+   "meaning": "Enoch",
+   "forms": "",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁאוּל",
+   "translit": "šāʾûl",
+   "pos": "proper noun",
+   "meaning": "Saul",
+   "forms": "",
+   "first_lesson": "hbo-02-09",
+   "confidence": "attested"
   }
  ]
 }

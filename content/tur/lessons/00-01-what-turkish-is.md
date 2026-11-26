@@ -35,7 +35,7 @@ Ottoman Turkish has its own guide in this app. It teaches the Arabic script and 
 
 The Ottoman Empire ended after the First World War, and the Republic of Turkey was founded in 1923. Its leader, Mustafa Kemal, later called Atatürk, made the language part of a programme of radical reform. Two changes followed.
 
-The first was the alphabet. In 1928 Turkish was given a specially adapted form of the Latin alphabet, and the Arabic script was banned from teaching and publishing in Turkish. The new alphabet fits the sounds of Turkish closely, one letter for one sound, and part 1 of this guide teaches it.
+The first was the alphabet. In 1928 Turkish was given a specially adapted form of the Latin alphabet, and the Arabic script was banned from teaching and publishing in Turkish. The new alphabet fits the sounds of Turkish closely, with very nearly one letter for each sound, and part 1 of this guide teaches it.
 
 The second was the vocabulary. From 1932 an official language society, today the Türk Dil Kurumu (Turkish Language Association), led a campaign to replace Arabic and Persian words with Turkish ones. Some replacements came from dialects, some from old texts, and many were new words built from Turkish roots and suffixes. The campaign largely achieved its aims. The vocabulary of Turkish today is very different from that of a century ago, so a text of the 1920s can be hard going for a modern reader even when it is printed in Latin letters. Borrowings from French and other European languages, such as *otobüs* "bus" and *tren* "train", were hardly opposed and are everywhere.
 

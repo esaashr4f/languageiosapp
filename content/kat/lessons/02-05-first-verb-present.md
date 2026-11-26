@@ -32,7 +32,7 @@ In the present, the subject of every verb is in the nominative, the same case yo
 
 ### Pieces inside the stem
 
-Some verbs have more inside them than a bare root. *Xaṭavs* "draws" is *xaṭ-av-s*: root *xaṭ-* "draw", then *-av-*, then *-s*. *Ašenebs* "builds" is *a-šen-eb-s*: a vowel *a-*, root *šen-*, then *-eb-*, then *-s*. The piece after the root (*-av-*, *-eb-*, *-ob-*, *-ulob-*) is the **thematic suffix**: it belongs to the present and future and drops away in other tenses. The vowel before the root is the **version vowel**. Both have their own lessons (4-2 and 4-21). Until then the glosses label them TS and NV, and you can treat everything between *v-* and the person suffix as the stem. The subject markers attach to it in exactly the same way.
+Some verbs have more inside them than a bare root. *Xaṭavs* "draws" is *xaṭ-av-s*: root *xaṭ-* "draw", then *-av-*, then *-s*. *Ašenebs* "builds" is *a-šen-eb-s*: a vowel *a-*, root *šen-*, then *-eb-*, then *-s*. The piece after the root (*-av-*, *-eb-*, *-ob-*, *-ulob-*) is the **thematic suffix**: it belongs to the present and future, and drops away in some other tenses, such as the simple past (*daxaṭa* "drew", *aašena* "built"). The vowel before the root is the **version vowel**. Both have their own lessons (4-2 and 4-21). Until then the glosses label them TS and NV, and you can treat everything between *v-* and the person suffix as the stem. The subject markers attach to it in exactly the same way.
 
 ## How it is built
 
@@ -182,7 +182,7 @@ preview: TS
 ## Where it applies
 
 - **Every person.** The six forms cover "I", "you", "he, she, it", "we", "you all" or polite "you", and "they".
-- **Every verb you meet in the present.** *C̣ers*, *xaṭavs*, *ašenebs*, *ḳitxulobs*, *xedavs*, *č̣ams*, *svams*, *mušaobs* and the rest all take *v-*, *-s*, *-t* and *-en* in the present. Some usually have an object (*write*, *build*, *see*); some usually do not (*work*, *play*). In the present they conjugate alike. Part 4 shows where they part ways.
+- **Every verb you meet in the present.** *C̣ers*, *xaṭavs*, *ašenebs*, *ḳitxulobs*, *xedavs*, *č̣ams*, *svams*, *mušaobs* and the rest all take *v-*, *-s*, *-t* and *-en* in the present. (A few verbs met later, such as those ending in *-is*, have *-an* for "they" instead of *-en*: Bolkvadze and Kiziria list *-en* and *-an* among the third person plural endings.) Some usually have an object (*write*, *build*, *see*); some usually do not (*work*, *play*). In the present they conjugate alike. Part 4 shows where they part ways.
 - **Right now.** With *axla* "now", or from the situation: *axla vč̣am*.
 - **Habits and repeated actions.** With *xširad* "often", *q̇oveltvis* "always", *zogǯer* "sometimes": *xširad vxaṭav*.
 - **General truths.** What someone or something does by nature: Bolkvadze and Kiziria's example is a fish swimming.
@@ -235,11 +235,11 @@ source: wiktionary (წერს, ხატავს, აშენებს); bo
 კითხულობს | ḳitxulobs | verb | reads | class 1; fut. წაიკითხავს; aor. წაიკითხა; pf. წაუკითხავს; masdar კითხვა
 ხედავს | xedavs | verb | sees | class 1; fut. დაინახავს; aor. დაინახა; pf. დაუნახავს; masdar ხედვა
 ჭამს | č̣ams | verb | eats | class 1; fut. შეჭამს; aor. შეჭამა; pf. შეუჭამია; masdar ჭამა
-სვამს | svams | verb | drinks | class 1; fut. შესვამს; aor. შესვა; pf. შეუსვამს (linguage); masdar სმა
+სვამს | svams | verb | drinks | class 1; outside the present group usually replaced by დალევა: fut. დალევს, aor. დალია, pf. დაულევია; the forms შესვამს, შესვა, შეუსვამს exist but sound formal or ceremonial (bolkvadze2023 §9.7.5; linguage); masdar სმა
 ლაპარაკობს | laṗaraḳobs | verb | speaks, talks | class 3; fut. ილაპარაკებს; aor. ილაპარაკა; pf. ულაპარაკია (linguage); masdar ლაპარაკი
 თამაშობს | tamašobs | verb | plays | class 3; fut. ითამაშებს; aor. ითამაშა; pf. უთამაშია; masdar თამაში
 მუშაობს | mušaobs | verb | works | class 3; fut. იმუშავებს; aor. იმუშავა; pf. უმუშავია (linguage); masdar მუშაობა
-სწავლობს | sc̣avlobs | verb | learns, studies | class 3 (Wiktionary: medioactive); fut. შეისწავლის; aor. შეისწავლა; pf. შეუსწავლია (linguage); masdar სწავლა
+სწავლობს | sc̣avlobs | verb | learns, studies | class 3 (Wiktionary: medioactive); fut. შეისწავლის; aor. შეისწავლა, also ისწავლა; pf. შეუსწავლია (linguage; bolkvadze2023 §9.2.1 and §9.5 use both aorists); masdar სწავლა
 ცხოვრობს | cxovrobs | verb | lives | class 3; fut. იცხოვრებს; aor. იცხოვრა; pf. უცხოვრია; masdar ცხოვრება
 ახლა | axla | adverb | now |
 დღეს | dɣes | adverb | today |

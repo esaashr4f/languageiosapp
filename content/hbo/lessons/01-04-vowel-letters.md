@@ -134,7 +134,7 @@ translit: dāwiḏ, dāwîḏ
 morphemes: dāwiḏ dāwîḏ
 gloss: David David
 translation: David
-note: Samuel and Kings mostly spell the name defectively; Chronicles, a late book, spells it full in about 260 of its 261 cases.
+note: Samuel and Kings mostly spell the name defectively; Chronicles, a late book, spells it full in all 261 of its cases (OSHB count).
 source: oshb (e.g. 1 Samuel 16:13; 1 Kings 3:14)
 confidence: verified
 :::

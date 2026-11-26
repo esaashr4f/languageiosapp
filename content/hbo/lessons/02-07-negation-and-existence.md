@@ -102,7 +102,7 @@ translit: wəhinnēh ʾên-yôsēp̄ babbôr
 morphemes: wə=hinnēh ʾên yôsēp̄ ba=bbôr
 gloss: and=look there.is.not Joseph in.DEF=pit
 literal: And-look, there-is-not Joseph in-the-pit.
-translation: And there was Joseph, not in the pit!
+translation: And look, Joseph was not in the pit!
 note: Reuben comes back. ʾên negates a whole verbless clause, "Joseph is in the pit" (Gesenius §152l).
 source: Genesis 37:29 (WLC)
 confidence: attested
@@ -127,7 +127,7 @@ morphemes: way-hî li=p̄ninnâ yəlāḏ-îm û=lə=ḥannâ ʾên yəlāḏ-î
 gloss: WAYY-be.3SG.M to=Peninnah child-PL and=to=Hannah there.is.not child-PL
 literal: And-there-were to-Peninnah children, and-to-Hannah there-were-not children.
 translation: Peninnah had children, but Hannah had none.
-note: The positive half uses a verb (preview); the negative half uses ʾên. li- before the shewa of pənninnâ (lesson 2.5).
+note: The positive half uses a verb (preview); the negative half uses ʾên. li- before the shewa of pəninnâ (lesson 2.5).
 source: 1 Samuel 1:2 (WLC)
 confidence: attested
 preview: WAYY

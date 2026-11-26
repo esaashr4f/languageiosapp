@@ -163,7 +163,7 @@ confidence: constructed
 - **Every verb belongs to one class,** and the class is part of what you learn with it. The vocabulary notes in this guide say "class 1", "class 3" and so on.
 - **Class 1** covers the verbs of parts 2 and 4 with objects: *c̣ers*, *xaṭavs*, *ašenebs*, *xsnis*, *q̇idis* and the rest.
 - **Class 2** covers "is being done" (passives), "becomes, gets" (*tbeba* "gets warm"), and many verbs of motion and change (*midis* "goes", lesson 4-11).
-- **Class 3** covers most activities without an object: *mušaobs*, *tamašobs*, *cxovrobs*, *ṭiris*, *icinis*, *mɣeris*, *ceḳvavs*, *curavs*, *prinavs*, *nadirobs*, *č̣karobs* "hurries". Some take an object in a looser sense: Bolkvadze and Kiziria give *man pexburti itamaša* "he played football" and *man simɣera imɣera* "he sang a song".
+- **Class 3** covers most activities without an object: *mušaobs*, *tamašobs*, *cxovrobs*, *ṭiris*, *icinis*, *mɣeris*, *ceḳvavs*, *curavs*, *prinavs*, *nadirobs*, *čkarobs* "hurries". Some take an object in a looser sense: Bolkvadze and Kiziria give *man pexburti itamaša* "he played football" and *man simɣera imɣera* "he sang a song".
 - **Class 4** covers feelings, wants, possession, and bodily states: *uq̇vars*, *mosc̣ons*, *unda*, *aḳvs*, *hq̇avs* (lessons 4-18 to 4-19).
 - **Series I hides the differences.** In the present, imperfect, future and conditional, classes 1 to 3 all have a nominative subject. Only in series II and III do they part company.
 
@@ -202,7 +202,7 @@ source: bolkvadze2023 §9.1.4, §9.3, §9.6; wiktionary (subject pronouns printe
 თბება | tbeba | verb | warms up, gets warm | class 2; aor. გათბა (bolkvadze2023 §9.1.4)
 აშრობს | ašrobs | verb | dries (something) | class 1; fut. გააშრობს; aor. გააშრო; pf. გაუშრია; masdar გაშრობა (lingua.ge)
 შრება | šreba | verb | dries, gets dry | class 2 (bolkvadze2023 §9.3.2.3)
-ჩქარობს | č̣karobs | verb | hurries | class 3; aor. იჩქარა; pf. უჩქარია; masdar აჩქარება
+ჩქარობს | čkarobs | verb | hurries | class 3; aor. იჩქარა; pf. უჩქარია; masdar აჩქარება
 ნადირობს | nadirobs | verb | hunts | class 3; fut. ინადირებს; aor. ინადირა; pf. უნადირია; masdar ნადირობა (lingua.ge)
 თევზაობს | tevzaobs | verb | fishes, goes fishing | class 3; fut. ითევზავებს; aor. ითევზავა; pf. უთევზავია; masdar თევზაობა (lingua.ge)
 მონადირე | monadire | noun | hunter |
@@ -211,6 +211,7 @@ source: bolkvadze2023 §9.1.4, §9.3, §9.6; wiktionary (subject pronouns printe
 სარეცხი | sarecxi | noun | laundry, washing |
 ჩაიდანი | čaidani | noun | kettle, teapot | gen. ჩაიდნის
 ქვაბი | kvabi | noun | cooking pot |
+ნაპირი | naṗiri | noun | shore, bank; edge |
 ზმნისწინი | zmnisc̣ini | noun | (grammar) preverb |
 :::
 

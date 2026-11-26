@@ -226,7 +226,7 @@ confidence: attested
 
 **Do not give *ʾāḇ* the ordinary suffixes.** By analogy with *qôlô* you might write *\*ʾāḇô* for "his father" or *\*ʾāḇəḵā* for "your father". The forms are *ʾāḇîw*, *ʾāḇîḵā*.
 
-**Do not make a plural from the singular of *ʾîš*, *ʾiššâ*, *yôm*.** *\*ʾîšîm*, *\*ʾiššôṯ*, *\*yômîm* are not the prose plurals. Use *ʾănāšîm*, *nāšîm*, *yāmîm*. (Gesenius notes *ʾîšîm* three times in poetry, §96.)
+**Do not make a plural from the singular of *ʾîš*, *ʾiššâ*, *yôm*.** *\*ʾîšîm*, *\*ʾiššôṯ*, *\*yômîm* are not the prose plurals. Use *ʾănāšîm*, *nāšîm*, *yāmîm*. (Gesenius notes *ʾîšîm* three times in poetry and *ʾiššōṯ* once, in Ezekiel 23:44, §96.)
 
 **Do not use *ʾiššâ* as the construct.** "Abram's wife" is *ʾēšeṯ ʾaḇrām*, not *\*ʾiššaṯ ʾaḇrām*.
 

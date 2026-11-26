@@ -168,7 +168,7 @@ confidence: attested
 - **Animals and things, in speech or poetry:** any noun can be addressed: *ʒaɣlo!* "dog!", *mtvarev!* "moon!".
 - **As an interjection:** *ḳaco* "man!, come on!", especially after *ḳi* and *ara*; colloquial.
 - **Prayers and set phrases:** *ɣmerto čemo* "my God". Bolkvadze and Kiziria note that *dedao* is used only for a nun or the Virgin Mary, and *mamao* only for a priest.
-- **Not with given names, place names in *-i*, *-o* or *-u*,** or your own *deda* and *mama*: these stay bare.
+- **Not with given names, vowel-stem place names in *-i*, *-o* or *-u*,** or your own *deda* and *mama*: these stay bare.
 
 ## Watch out
 

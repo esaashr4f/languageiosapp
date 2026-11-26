@@ -184,7 +184,7 @@ Allen and Greenough list the ways a participle can stand for an English clause (
 - **Concession**: *dōna ferentīs* "even though they bring gifts".
 - **Condition**: "if …". Allen and Greenough's example uses a perfect participle: *damnātum poenam sequī oportēbat* "if he was condemned, the punishment had to follow" (Caesar, Gallic War 1.4, quoted in ag1903 §496).
 - **Description or manner**: *puer legēns* "the boy, reading".
-- **Plain adjective**: *aqua currēns* "running water". Many participles have become adjectives: *sapiēns* "wise", *potēns* "powerful", *praesēns* "present", *absēns* "absent", *frequēns* "crowded, frequent", *recēns* "fresh" (ag1903 §494a). Such adjectives can be compared: *sapientior*, *sapientissimus*.
+- **Plain adjective**: *aqua currēns* "running water". Participles often become complete adjectives (ag1903 §494a): *sapiēns* "wise" (from *sapiō*), *potēns* "powerful" (from *possum*), *praesēns* "present" and *absēns* "absent" (from *praesum*, *absum*) (Wiktionary). Such adjectives can be compared: *sapientior*, *sapientissimus*. *Frequēns* "crowded" and *recēns* "fresh" look the same and decline the same way, but they are plain adjectives, not participles of any verb (Wiktionary).
 - **Noun**: *amantēs* "lovers", *cantantibus* "for singers", *moritūrī* "those about to die" (ag1903 §494a).
 - **An action begun in the past and still going on**: *quaerentī mihi iam diū* "to me, who had long been searching" (Cicero, quoted in ag1903 §490).
 - **An attempted action**: *agrum dīvidentī* "trying to divide the land" (ag1903 §490).
@@ -276,7 +276,7 @@ Wiktionary marks the *e* of *vexī* as long or short; this guide prints it short
 
 ## Connections
 
-Spanish and French kept the present participle mostly as adjectives and nouns: *presente*, *présent*; *estudiante*, *étudiant* "student" (one who is studying); *amante*, *amant* "lover" (Wiktionary). English took many of the same words: "present", "absent", "agent". The future participle survives in *futūrus*, the source of "future", *futur*, *futuro*.
+Spanish and French have many present participles turned into adjectives and nouns, some inherited and some borrowed back from Latin later: *presente*, *présent*; *estudiante*, *étudiant* "student" (one who is studying); *amante*, *amant* "lover" (Wiktionary marks French *présent* and *amant* as borrowings). English took many of the same words: "present", "absent", "agent". The future participle survives in *futūrus*, the source of "future", *futur*, *futuro*.
 
 ## Exercises
 

@@ -17,7 +17,7 @@ The imperfect (lesson 4 of this part) looks at a past action from inside, while 
 
 The perfect differs from every tense so far in two ways.
 
-First, it is not built on the present stem. It has its own stem, the **perfect stem**, which you find in the third principal part: *amāvī* gives *amāv-*, *rēxī* gives *rēx-*, *cēpī* gives *cēp-* (lesson 1 of this part). Lesson 1 showed why: the perfect stem is made in several different ways, because the Latin perfect continues two older categories of the parent language, a past tense (the aorist) and a perfect, which merged (Weiss; Sihler; ag1903 §177, footnote 2).
+First, it is not built on the present stem. It has its own stem, the **perfect stem**, which you find in the third principal part: *amāvī* gives *amāv-*, *rēxī* gives *rēx-*, *cēpī* gives *cēp-* (lesson 1 of this part). Lesson 1 showed why: the perfect stem is made in several different ways, because the Latin perfect continues two older categories of the parent language, a past tense (the aorist) and a perfect, which merged (Weiss; Sihler). Allen and Greenough trace the *s*-perfect to the aorist (ag1903 §177, footnote 2) and the *-ī* of "I" to a perfect tense sign (§163, footnote 3).
 
 Second, it has its own person endings. They are not *-ō, -s, -t* but *-ī, -istī, -it, -imus, -istis, -ērunt*. Allen and Greenough say these "special terminations" are partly of different origin from the others (ag1903 §163):
 

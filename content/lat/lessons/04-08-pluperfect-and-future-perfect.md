@@ -77,11 +77,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Ante noctem labōrem cōnfēcerimus.
-morphemes: ante noct-em labōr-em cōnfēc-eri-mus
-gloss: before night-ACC.SG work-ACC.SG finish.PRF-FUTP-1PL
-translation: We shall have finished the work before night.
-note: Complete by a future moment. cōnficiō "finish" is taught in lesson 16 of this part; it is glossed here.
+orig: Ante noctem epistulam scrīpserimus.
+morphemes: ante noct-em epistul-am scrīps-eri-mus
+gloss: before night-ACC.SG letter-ACC.SG write.PRF-FUTP-1PL
+translation: We shall have written the letter before night.
+note: Complete by a future moment. scrībō, scrīpsī: stem scrīps-.
 source: constructed
 confidence: constructed
 :::
@@ -151,7 +151,7 @@ preview: comparative clause
 
 **Future perfect** (ag1903 §478):
 
-- **An act complete by a future moment.** *Ante noctem labōrem cōnfēcerimus.*
+- **An act complete by a future moment.** *Ante noctem epistulam scrīpserimus.*
 - **The earlier of two future events.** *Cum vēnerit, canēmus*: Latin marks that the coming will be over before the singing. English says "when he comes" or "when he has come".
 - **In "if" clauses about the future** (part 6): *sī vēneris, gaudēbō*, "if you come, I shall be glad". English uses the present.
 - **Looking ahead to a final reckoning.** *Officium praestiterō*: "I shall turn out to have done my duty".

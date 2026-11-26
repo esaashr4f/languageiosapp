@@ -17,11 +17,11 @@ Every form so far has stated something: "he loves", "they will rule". A command 
 
 The basic imperative is the shortest form a Latin verb has. For "you" (one person) it is the bare present stem: *amā* "love!", *monē* "warn!", *audī* "listen!" (ag1903 §179e). Nothing is added. Even English and Spanish make their commonest command short: "come!", *¡ven!*. A command is addressed to someone present, so there is no need to name the person.
 
-For "you" (more than one), Latin adds *-te*: *amā-te*, *audī-te*. This *-te* is the same *t* as in *-tis*, the ordinary ending for "you (plural)" (ag1903 §163b).
+For "you" (more than one), Latin adds *-te*: *amā-te*, *audī-te*. This *-te* has the *t* of *-tis*, the ordinary ending for "you (plural)" (compare the two sets of endings, ag1903 §163, §163b).
 
 A command is always about the future: you ask for something not yet done. Latin also has a second imperative, the **future imperative**, in *-tō*, for commands meant for a later time or for all time, as in laws: "the safety of the people *shall be* the highest law" (ag1903 §449). It is rare in conversation but common in legal and formal language, and a few verbs use it as their ordinary imperative.
 
-To forbid, Latin does not put *nōn* in front of an imperative. It uses the imperative of *nōlō* "not want" with an infinitive: *nōlī timēre*, literally "be unwilling to fear", meaning "don't be afraid". Allen and Greenough call this the most courteous of the classical ways to forbid, and the commonest (ag1903 §450).
+To forbid, Latin does not put *nōn* in front of an imperative. It uses the imperative of *nōlō* "not want" with an infinitive: *nōlī timēre*, literally "be unwilling to fear", meaning "don't be afraid". Allen and Greenough call this the most ceremonious of the three classical ways to forbid, and the one found oftenest (ag1903 §450).
 
 ## How it is built
 
@@ -35,7 +35,7 @@ To forbid, Latin does not put *nōn* in front of an imperative. It uses the impe
 
 ***Sum*.** *Es* "be!", *este* "be! (plural)". The future imperative *estō* is commoner.
 
-**The future imperative.** Add *-tō* for "you" (one) and "he, she, it", *-tōte* for "you" (more than one), and *-ntō* for "they": *amātō, amātōte, amantō*; *regitō, regitōte, reguntō*; *audītō, audītōte, audiuntō*; *estō, estōte, suntō*. *Sciō* "know" regularly uses *scītō* "know!" for its singular imperative (ag1903 §§182a, 449a).
+**The future imperative.** Add *-tō* for "you" (one) and "he, she, it", *-tōte* for "you" (more than one), and *-ntō* for "they": *amātō, amātōte, amantō*; *regitō, regitōte, reguntō*; *audītō, audītōte, audiuntō*; *estō, estōte, suntō*. *Sciō* "know" regularly uses *scītō* "know!" for its singular imperative (ag1903 §§182a, 449a). For *nōlō*, Allen and Greenough print *nōlītō*, *nōlītōte*, *nōluntō* (ag1903 §199), with the long *ī* of *nōlī*; Wiktionary has *nōlitō*.
 
 **Forbidding.** Take *nōlī* (for one person) or *nōlīte* (for more), and add the infinitive of what is forbidden.
 
@@ -141,7 +141,7 @@ orig: Mihi parcere ac dē mē cōgitāre dēsinite.
 morphemes: mihi parc-ere ac dē mē cōgitā-re dēsin-ite
 gloss: 1SG.DAT spare-INF and about 1SG.ABL think-INF stop-IMP.2PL
 translation: Stop sparing me and thinking about me.
-note: The same speech, a few lines on. dēsinite "stop!" takes two infinitives (lesson 3 of this part).
+note: The same sentence, a little further on. dēsinite "stop!" takes two infinitives (lesson 3 of this part).
 source: Cicero, Against Catiline 4.3
 confidence: attested
 :::
@@ -194,7 +194,7 @@ preview: superlative
 :::table
 caption: The imperative of the model verbs, sum and nōlō
 confidence: verified
-source: ag1903 §§163, 179e, 182; wiktionary (amō, moneō, regō, capiō, audiō, sum, nōlō)
+source: ag1903 §§163, 179e, 182, 199; wiktionary (amō, moneō, regō, capiō, audiō, sum, nōlō)
 | Verb | Present, singular | Present, plural | Future, singular | Future, plural | Future, "they" |
 |---|---|---|---|---|---|
 | amō | amā | amāte | amātō | amātōte | amantō |
@@ -203,7 +203,7 @@ source: ag1903 §§163, 179e, 182; wiktionary (amō, moneō, regō, capiō, audi
 | capiō | cape | capite | capitō | capitōte | capiuntō |
 | audiō | audī | audīte | audītō | audītōte | audiuntō |
 | sum | es | este | estō | estōte | suntō |
-| nōlō | nōlī | nōlīte | nōlitō | nōlitōte | nōluntō |
+| nōlō | nōlī | nōlīte | nōlītō | nōlītōte | nōluntō |
 :::
 
 ## New words

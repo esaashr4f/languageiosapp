@@ -15,7 +15,7 @@ sources: [ag1903, wiktionary, thelatinlibrary, vulgate]
 
 The last lesson gave you "I", "you", "we" and the reflexive "self". It left a gap: Latin has no personal pronoun for "he", "she", "it" and "they" (ag1903 §295). It fills the gap with a pointing word, *is, ea, id*.
 
-A pointing word, or **demonstrative**, picks out a particular person or thing: "this", "that" (ag1903 §146). *Is* is the weakest of them. Allen and Greenough say it does not point at anything in view; it refers to someone just mentioned, or about to be explained (ag1903 §297). That is exactly the job of English "he" or "she" in a story: *Mārcum videō; eum vocō*, "I see Marcus; I call him". So *is* serves as the third-person pronoun.
+A pointing word, or **demonstrative**, picks out a particular person or thing: "this", "that" (ag1903 §146). *Is* is the weakest of them. Allen and Greenough say it singles out no particular object of its own; it refers to someone just mentioned, or about to be explained (ag1903 §297). That is exactly the job of English "he" or "she" in a story: *Mārcum videō; eum vocō*, "I see Marcus; I call him". So *is* serves as the third-person pronoun.
 
 It does a second job as an adjective, beside a noun: *ea fābula*, "that story", the one just mentioned. English uses "that" or "this" for it, or often just "the".
 
@@ -162,7 +162,7 @@ preview: third-conjugation present
 orig: et tenebrae eam nōn comprehendērunt
 morphemes: et tenebr-ae eam nōn comprehend-ērunt
 gloss: and darkness-NOM.PL 3SG.ACC.F not grasp-PRF.3PL
-translation: and the darkness has not overcome it.
+translation: and the darkness has not grasped it.
 note: The light shines in the darkness, "and the darkness has not grasped it". eam is feminine because lūx "light" is feminine. comprehendērunt is a perfect, previewed here (part 4).
 source: Vulgate, John 1:5
 confidence: attested

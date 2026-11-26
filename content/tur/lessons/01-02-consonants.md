@@ -15,7 +15,7 @@ sources: [goksel2005, wpphon, wiktionary, tdk]
 
 Most Turkish consonants sound as they do in English. A few letters have values you must learn, and three letters, *k*, *g* and *l*, each have two pronunciations that depend on the vowels around them.
 
-The alphabet was built on a simple principle: one letter, one sound. English needs two letters for the sounds of "ch", "sh" and the "j" of "jam". Turkish gives each its own letter, by adding a mark below or reusing a letter English spends on something else.
+The alphabet comes close to one letter for each sound. English needs two letters for the sounds of "ch", "sh" and the "j" of "jam". Turkish gives each its own letter, by adding a mark below or reusing a letter English spends on something else.
 
 - **c** is [dʒ], the "j" of "jam": *cam* "glass".
 - **ç** is [tʃ], the "ch" of "church": *çay* "tea".
@@ -23,7 +23,7 @@ The alphabet was built on a simple principle: one letter, one sound. English nee
 - **j** is [ʒ], the "s" of "measure". It occurs only in loanwords, mostly from French and Persian: *jilet* "razor blade".
 - **y** is [j], always a consonant, as in "yes".
 - **r** is a tap [ɾ]: the tongue tip touches the ridge behind the teeth once, as in Spanish *pero*. At the end of a word it loses its voice and can sound almost like a soft "sh".
-- **h** is always pronounced, even at the end of a word: *sabah* "morning".
+- **h** is pronounced at the end of a word too: *sabah* "morning".
 
 Each consonant also belongs to a pair. Put your fingers on your throat and say "zzz", then "sss". The first hums and the second does not. A consonant that hums is **voiced**, one that does not is **voiceless**. Seven pairs of letters differ only in this way, voiced first: *b/p*, *d/t*, *g/k*, *c/ç*, *v/f*, *z/s*, *j/ş*. The letter *h* is voiceless and has no partner; *m*, *n*, *l*, *r* and *y* are voiced. Keep this division in mind. Lesson 6 shows that suffixes switch between the members of a pair.
 
@@ -189,7 +189,7 @@ source: goksel2005 §1.1.1; wpphon
 | j | [ʒ] | "measure" | jilet |
 | y | [j] | "yes" | yol |
 | r | [ɾ] | Spanish *pero* | kar |
-| h | [h], [x] after back vowels | "hat", always pronounced | sabah |
+| h | [h], [x] after back vowels | "hat", pronounced at the end of a word too | sabah |
 | k | [c] with front vowels, [k] with back | "cute"; "cool" | kedi, kar |
 | g | [ɟ] with front vowels, [ɡ] with back | "argue"; "go" | gece |
 | l | [l] with front vowels, [ɫ] with back | "leaf"; "full" | göl, kol |

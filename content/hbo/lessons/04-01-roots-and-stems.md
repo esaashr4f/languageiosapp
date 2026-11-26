@@ -124,7 +124,7 @@ morphemes: ʾăšer puqqaḏ ʿal pî mōšeh
 gloss: REL count.PUAL.QTL.3SG.M on mouth.CSTR Moses
 literal: Which was-counted on the-mouth-of Moses.
 translation: ... which were counted at Moses' command.
-note: Pual: the doubled q of the piel, with u. The passive of the piel. ʿal-pî "at the command of" is "on the mouth of" (lesson 3.12). ʾăšer "which" is lesson 6.1. Preview of PUAL and REL.
+note: Pual: the doubled q of the piel, with u. The passive of the piel. ʿal-pî "at the command of" is "on the mouth of" (lesson 3.12). ʾăšer "which" is lesson 6.2. Preview of PUAL and REL.
 source: Exodus 38:21 (WLC)
 confidence: attested
 preview: PUAL, REL

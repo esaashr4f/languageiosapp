@@ -159,7 +159,7 @@ translit: hammeleḵ ʾăšer yimlōḵ ʿălêḵem
 morphemes: ha=mmeleḵ ʾăšer yimlōḵ ʿăl-êḵem
 gloss: DEF=king REL reign.YQTL.3SG.M over-2PL.M
 translation: ... the king who will reign over you.
-note: Samuel's warning. A plain future. ʾăšer "who" is lesson 6.1 (preview). ʿălêḵem is ʿal with the plural-type suffix (lesson 3.9).
+note: Samuel's warning. A plain future. ʾăšer "who" is lesson 6.2 (preview). ʿălêḵem is ʿal with the plural-type suffix (lesson 3.9).
 source: 1 Samuel 8:11 (WLC)
 confidence: attested
 preview: REL
@@ -172,7 +172,7 @@ morphemes: mî YHWH ʾăšer ʾešmaʿ bə=qōl-ô
 gloss: who Yhwh REL hear.YQTL.1SG in=voice-3SG.M
 literal: Who is the-LORD that I-should-hear in-his-voice?
 translation: Who is the LORD, that I should obey him?
-note: Pharaoh. The yiqtol expresses what is required or fitting: "that I should". šāmaʿ bə-qôl "obey". The final ʿ gives the stem a. mî "who?" is lesson 6.2.
+note: Pharaoh. The yiqtol expresses what is required or fitting: "that I should". šāmaʿ bə-qôl "obey". The final ʿ gives the stem a. mî "who?" is lesson 6.1.
 source: Exodus 5:2 (WLC)
 confidence: attested
 preview: REL
@@ -207,7 +207,7 @@ preview: REL, PIEL
 - **The future, from the speaker's now:** *hammeleḵ ʾăšer yimlōḵ ʿălêḵem*; *naʿăśeh wənišmāʿ* (Gesenius §107i).
 - **The future seen from a point in the past:** "the king who was to reign" (Gesenius §107k, citing 2 Kings 3:27 *ʾăšer-yimlōḵ*).
 - **Repeated or habitual action in the past:** "used to", "would". *ûḇəḥêqô ṯiškāḇ*; Moses "used to take" the tent, *yiqqaḥ* (Exodus 33:7; Gesenius §107e).
-- **Continuous action in the past, or after *ʾāz* "then" and *ṭerem* "before":** Gesenius cites Exodus 15:1 *ʾāz yāšîr-mōšeh* "then Moses sang" (§107c). Lesson 6.6 returns to these time words.
+- **Continuous action in the past, or after *ʾāz* "then" and *ṭerem* "before":** Gesenius cites Exodus 15:1 *ʾāz yāšîr-mōšeh* "then Moses sang" (§107c). Lesson 6.5 returns to these time words.
 - **The present, for what is going on or always true:** *mah-təḇaqqēš* "what are you looking for?" (Gesenius §107f–g).
 - **Prohibitions with *lōʾ*:** *lōʾ tiḡnōḇ*. This is the firm, lasting form; *ʾal* with the short form is the urgent "don't!" (lesson 4.8; Gesenius §107o).
 - **Obligation, permission, possibility:** "should", "may", "can". *ʾăšer ʾešmaʿ bəqōlô* "that I should obey him"; Genesis 2:16, *ʾāḵōl tōʾḵēl* "you may freely eat" (Gesenius §107s).

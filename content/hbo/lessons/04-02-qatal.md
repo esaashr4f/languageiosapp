@@ -202,8 +202,8 @@ confidence: attested
 - **States of mind and body, as a present:** *yāḏaʿtî* "I know", *zāḵarnû* "we remember", *zāqantî* "I am old", *qāṭōntî* "I am small" (Gesenius §106g). With a negative and a past context the same form is a past: *lōʾ yāḏaʿtî* can be "I did not know".
 - **Things done by saying them:** a deal, an oath, a ruling. *nāṯattî* "I give (hereby)" (Gesenius §106i, m).
 - **After *kî*, *yaʿan* "because", and in questions and negations:** *kî ʿāzaḇnû*, *yaʿan māʾastā ʾeṯ-dəḇar YHWH* "because you rejected the word of the LORD" (1 Samuel 15:23).
-- **In prophecy,** a future can be stated in the qatal as if already seen (Gesenius §106n). This is mainly poetic and prophetic; lesson 7.6 returns to it.
-- **Later:** after *wə-* the second- and first-person qatal often means "and you will do", the *weqatal* (lesson 4.5). In relative clauses the qatal gives "which I had done" (lesson 6.1).
+- **In prophecy,** a future can be stated in the qatal as if already seen (Gesenius §106n). This is mainly poetic and prophetic; lessons 7.5 and 7.6 return to it.
+- **Later:** after *wə-* the second- and first-person qatal often means "and you will do", the *weqatal* (lesson 4.5). In relative clauses the qatal gives "which I had done" (lesson 6.2).
 
 ## Watch out
 

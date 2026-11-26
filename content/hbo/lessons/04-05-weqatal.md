@@ -163,7 +163,7 @@ confidence: attested
 - **After a verbless statement or a reason:** *wəʾāhaḇtā* after the Shema (Gesenius §112x).
 - **Opening a future scene with *wəhāyâ* "and it will be":** *wəhāyâ kî-yirʾû* (Gesenius §112y). It mirrors *wayhî* in narrative (lesson 4.18).
 - **Habits, past or present:** after a yiqtol of habit, the weqatal continues the habit: *yiqqaḥ ... wənāṭâ* "he used to take ... and pitch"; *yaʿăzoḇ ... wəḏāḇaq* "leaves ... and clings" (Gesenius §112e, m).
-- **In conditions and laws:** after *kî* "if, when" or *ʾim* "if", the consequences are weqatals (Gesenius §112p, ff). Lesson 6.5.
+- **In conditions and laws:** after *kî* "if, when" or *ʾim* "if", the consequences are weqatals (Gesenius §112p, ff). Lesson 6.7.
 
 ## Watch out
 

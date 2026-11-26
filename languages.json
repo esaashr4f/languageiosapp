@@ -1,5 +1,5 @@
 {
- "count": 148,
+ "count": 149,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1319,6 +1319,16 @@
    "depth": "B",
    "notes": "Choose and name one variety in the dossier (e.g. Pulaar or Adamawa Fulfulde); consonant mutation and many noun classes",
    "iso_note": "Macrolanguage ful; the dossier fixes the variety and its individual code"
+  },
+  {
+   "number": 149,
+   "name": "Imperial and Biblical Aramaic",
+   "iso": "arc",
+   "group": "Dead and classical",
+   "script": "Hebrew square script + transliteration",
+   "depth": "B",
+   "notes": "Achaemenid documents (Elephantine papyri) and the Aramaic of Daniel and Ezra; the hub for Syriac, Jewish Babylonian Aramaic and Mandaic; cross-link Biblical Hebrew and Akkadian",
+   "iso_note": "ISO name: Official Aramaic (700–300 BCE); Biblical Aramaic included"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

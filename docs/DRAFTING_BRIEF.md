@@ -38,7 +38,7 @@ After each lesson: run `npm run -s lint:content -- content/<code>/lessons/<file>
 
 `git add content/<code>/lessons/<file> && git commit -m "<code>: lesson <id> drafted" -- content/<code>/lessons/<file>`
 
-Other agents may be committing in the same repository. Never use `git add -A` or `git commit -a`. If git reports a lock, wait a few seconds and retry. Do not push.
+Other agents may be committing in the same repository. Never use `git add -A`, `git commit -a` or `git commit --amend`. If git reports a lock, wait a few seconds and retry. Do not push.
 
 Do not edit `syllabus.json`, `STATUS.json`, `glossary.json`, `dossier.md`, `PROGRESS.md` or other agents' lessons. If you need a new gloss abbreviation, a syllabus change, or you find an error in the dossier or an earlier lesson, do not work round it silently: report it.
 

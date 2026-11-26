@@ -25,7 +25,7 @@ You are preparing a language for Polyglot Atlas before any lesson is written. Ac
 - If this is a depth B or C language and you cannot reach adequate sources, stop and say so; do not build the dossier from recall.
 - Honesty rules (BRIEF.md section 5) apply: name the variety, separate established from probable from unknown, respect community-sensitive material.
 - Run `npm run -s lint:content -- <code>` until it reports 0 errors (it checks the syllabus, glossary tags and meta keys).
-- Commit only your files: `git add content/<code> && git commit -m "<code>: dossier, sources, syllabus" -- content/<code>`. Never `git add -A`; other agents share the repository. Do not push.
+- Commit only your files: `git add content/<code> && git commit -m "<code>: dossier, sources, syllabus" -- content/<code>`. Never `git add -A` or `git commit --amend`; other agents share the repository. Do not push.
 - Do not edit files outside `content/<code>/`. Record judgement calls in your final report, not in `DECISIONS.md`.
 
 ## Final report (your reply)

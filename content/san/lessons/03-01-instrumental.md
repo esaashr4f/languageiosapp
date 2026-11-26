@@ -33,7 +33,7 @@ Neuters have the same instrumental as masculines: *phalena*, *phalaiḥ*. The du
 **The n-to-ṇ rule.** Whitney (§189) states it like this. A dental *n* becomes retroflex *ṇ* when three things are true:
 
 1. Earlier in the same word there is *ṛ*, *ṝ*, *r* or *ṣ*.
-2. Between that sound and the *n* there is no palatal consonant other than *y* (so no *c, ch, j, ś*), no retroflex consonant (*ṭ, ṭh, ḍ, ḍh*) and no dental (*t, th, d, dh, n, l, s*). Vowels, *y, v, h*, the velars and the labials may stand between.
+2. Between that sound and the *n* there is no palatal consonant other than *y* (so no *c, ch, j, ś*), no retroflex consonant (*ṭ, ṭh, ḍ, ḍh, ṇ*) and no dental (*t, th, d, dh, n, l, s*). Vowels, *y, v, h*, the velars and the labials may stand between.
 3. The *n* itself is followed by a vowel, or by *n, m, y, v*.
 
 The reason is in the tongue. *r*, *ṛ* and *ṣ* curl its tip back. Whitney's explanation (§189a) is that the tip "tends to hang there" and makes the next *n* in that curled position, unless something moves it: a retroflex stop, which uses up the curl, or a sound made with the front of the tongue at the teeth or palate, which pulls it forward. Velars and labials do not move the tip, so the curl survives them.

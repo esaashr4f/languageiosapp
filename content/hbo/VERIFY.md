@@ -7,3 +7,14 @@ Every quotation compared with OSHB/WLC; all files NFC; CGJ order correct in ever
 
 Corrections: composition dates of the oldest parts given as disputed; Leningrad Codex AD 1008 or 1009; "in narrative the verb usually comes first"; "almost every" manuscript in square script (some Dead Sea Scrolls in Palaeo-Hebrew); Chronicles spells David full in all 261 cases; *malaḵê as Gesenius gives it (§21f); gutturals and resh "do not" take dagesh forte, with resh exceptions (§22s); predicate types per §141b; ḥāreḇ in 1 Kgs 3:24 is pausal (atnaḥ); a built sentence used a pausal pronoun; min- before the article usual, mē- exceptional (§102b); Gen 37:29 translation; pəninnâ spelling.
 Still open: vowel signs shown on no letter in prose (hbo-01-05, 01-06) must be checked in the renderer.
+
+### Part 3 — verified 2026-11-26 by fresh subagent
+Lessons checked: hbo-03-01 to hbo-03-13
+Forms checked: 2295 (940 pointed forms in OSHB; 1355 transliterations)   corrected: 28   left unverified: 0
+Glosses checked: 559   corrected: 0
+Attested quotations checked: 135   corrected: 1
+Claims checked: 195 (145 Gesenius sections opened)   corrected or removed: 16
+Worked answers checked: 126   corrected: 2
+
+Corrections (summary): transliterations normalised to plene -ôṯ where WLC spells defectively (bəʾērōṯ, qōlōṯ, məʾōrōṯ, luḥōṯ, gəḏōlôṯ, dōrôṯ); ḥăṣērôṯ "courtyards" vs ḥăṣērîm "settlements"; lēḇāḇ (5×); taḥtāy; a verse reference (Gen 24:14); paradigm cells wrongly marked unattested now given with their WLC forms; claims brought into line with Gesenius (§§22c, 91n, 103o, 128a, 128p, 136b, 20d); the rābbâ cue is stress, not vowel; ʾiššōṯ attested once (Ezek 23:44); the 1 Sam 25 passage's omitted clauses stated; Italian and Spanish comparisons corrected.
+Still open: nāʾ, mah, mî and nāḇôn used before any vocab entry (glossed; left for their own lessons).

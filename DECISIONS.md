@@ -84,3 +84,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-26: hbo: spirantisation always marked in translit (meta sample corrected); shewa after a long vowel transliterated vocal (šāmərû) as the school convention, with Khan's silent-shewa finding stated in hbo-01-05. Khan 2020 open from the publisher and now read.
 - 2026-11-26: Table parser accepts escaped pipes (\|) inside cells, needed for the Sanskrit daṇḍa signs.
 - 2026-11-26: Repo note: a verifier's 'git commit --amend' reworded another agent's commit (hbo-02-03 content now under the message 'lat: part 4 verification corrections', e993f61). Content intact; left as is rather than rewriting pushed history. Agents are told never to amend.
+- 2026-11-26: hbo: ḥolem on consonantal vav written U+05BA as in WLC (עָוֺן); citation transliterations follow attested plene/defective spelling.

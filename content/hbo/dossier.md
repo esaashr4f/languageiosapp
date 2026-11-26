@@ -409,3 +409,12 @@ Say so in the lesson when one of these comes up.
 - Glossing: feminine -â and plural endings segmented (-PL; adjectives -PL.M, -PL.F, -F); construct .CSTR, .PL.CSTR, .DU.CSTR, dual absolute -DU; kol glossed `all` without CSTR; 3fs wayyiqtol wat-; ʾĕlōhîm "God" glossed God even with the article; suffixes after the base (ʾarṣ-əḵā, ʾāḇî-ḵā, bātt-ênû); mah-nnôrāʾ.
 - Forward pointers made: 4.2 (2nd-person qatal), 4.18 (hāyâ), 4.19 (object suffixes), 5.2, 5.3, 5.5 (comparison with min), 5.6 (kol), 5.8 (kî ʾim), 5.10, 6.1, 6.4 (pen), 7.3 (infinitive absolute).
 - In vocab already: zeh, zōʾṯ, ʾēlleh, pen, yaḥdāw, ʾēṣel, sāḇîḇ, neḡeḏ; numbers šeḇaʿ, ʿăśārâ, māʾṯayim, ʿeśrîm, ʾelep̄, šəlōšeṯ glossed but not listed.
+
+
+## Notes from verifying part 3 (2026-11-26)
+
+- Qameṣ ḥaṭuf exception, now part of the scheme: in an open syllable before ḥaṭef/shewa in words like קֳדָשִׁים, שֳׁרָשִׁים read short o (qoḏāšîm, šorāšîm; Gesenius §9v).
+- Transliterated citation forms follow the attested spelling, plene or defective (məʾōrōṯ, bəʾērōṯ, luḥōṯ, gəḏōlôṯ), not a normalised -ôṯ.
+- דְּבָרֵךְ is attested once (כִדְבָרֵךְ, 1 Kgs 17:13). WLC points the Genesis naʿărā forms directly (perpetual qere); Deuteronomy 22 has ketiv נער with a marginal qere.
+- Unicode: ḥolem on vav as a consonant (עָוֺן) is written with U+05BA (ḤOLAM ḤASER FOR VAV), as WLC does; ḥolem-waw vowel letters keep U+05B9.
+- nāʾ, mah, mî, nāḇôn: used glossed before their vocab lessons; introduce them in their own lessons (6.1 for question words).

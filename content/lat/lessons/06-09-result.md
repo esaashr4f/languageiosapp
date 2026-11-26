@@ -90,7 +90,7 @@ orig: Tanta vīs probitātis est ut eam … in hoste etiam dīligāmus.
 morphemes: tant-a vīs probitāt-is est ut eam in host-e etiam dīlig-ā-mus
 gloss: so.great-NOM.SG.F force.NOM.SG goodness-GEN.SG be.3SG that 3SG.ACC.F in enemy-ABL.SG even love-SBJV-1PL
 translation: So great is the power of goodness that we love it even in an enemy.
-note: tantus announces the result; primary sequence after est. Cicero's full sentence adds "in those we have never seen".
+note: tantus announces the result; primary sequence after est. In Cicero the sentence is the "if" half of a question, Quod sī tanta vīs … "but if the power of goodness is so great …, what wonder is it …?"; the gap adds "in those we have never seen". Allen and Greenough quote it as a statement (ag1903 §537).
 source: Cicero, On Friendship 29
 confidence: attested
 :::

@@ -177,7 +177,7 @@ confidence: constructed
 - **Possessives agreeing with the place**: *nyumbani kwangu* "at my home", *mfukoni mwangu* "in my pocket", *kitandani kwako* "on your bed". Polomé: *kwetu* alone means "our place, home", and *hana kwao* "he has no home".
 - **"Of" with a place**: *nyumbani kwa Juma* "at Juma's", *nyumbani mwa Juma* "in Juma's house", *mahali pa hatari* "a dangerous place" (Thompson and Schleicher's table).
 - **Demonstratives of place**: *hapa*, *huku*, *humu* "here"; *pale*, *kule*, *mle* "there"; *hapo*, *huko*, *humo* "there (mentioned)". Usually before the place noun: *huko mjini*, *humu chumbani*.
-- **Adjectives with *mahali***: *mahali pazuri*, *mahali kuzuri*, *mahali mzuri* (Almasi and colleagues' adjective table).
+- **Adjectives with *mahali***: *mahali pazuri*, *mahali kuzuri*, *mahali mzuri* (Almasi and colleagues' adjective table). Thompson and Schleicher write the class 18 prefix in full as *mu-*: *mahali murefu*.
 - **Words that are places already** take no *-ni*: town and country names (*Nairobi*, *Tanzania*), *nyumbani* itself, *pwani* "the coast" (Wiktionary: itself a locative), and the adverbs *ndani*, *nje*, *juu* "above", *chini* "below", *mbele* "in front", *nyuma* "behind", *karibu*, *mbali*.
 
 ## Watch out
@@ -210,7 +210,7 @@ source: almasi2014 table 10.1 (p. 95), table 12.2 (p. 112), table 13.2 (p. 127),
 | Subject prefix | pa- | ku- | m(u)- |
 | "There is", "there isn't" | pana, hapana | kuna, hakuna | mna, hamna |
 | Being somewhere | -po | -ko | -mo |
-| Adjective (with mahali) | pazuri | kuzuri | mzuri |
+| Adjective (with mahali) | pazuri | kuzuri | mzuri (Thompson and Schleicher: mu-, murefu) |
 | Possessive "my", "our" | pangu, petu | kwangu, kwetu | mwangu, mwetu |
 | "of" | pa | kwa | mwa |
 | This, that, that one | hapa, pale, hapo | huku, kule, huko | humu, mle, humo |

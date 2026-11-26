@@ -40,7 +40,7 @@ Say "their houses are big".
 
 **Kin terms and friends.** Lesson 3.9 said that people take class 1 and 2 agreement. The possessive is the exception. With *rafiki* and with kin terms in class 9/10, the possessive takes the class 9 and 10 prefixes, *y-* and *z-* (Almasi and colleagues; Thompson and Schleicher): *rafiki yangu* "my friend", *rafiki zangu* "my friends", *dada yangu* "my sister", *dada zangu* "my sisters". Everything else still treats them as people: *rafiki yangu anasoma*, *dada zangu wanaishi Mombasa*.
 
-For animals the sources do not agree. In the singular they all point to *w-*: Almasi and colleagues limit the exception to kin terms, and Polomé gives *ng'ombe wangu* "my cow". In the plural, Polomé gives class 10 *z-* (*ng'ombe zangu* "my cattle"), while Thompson and Schleicher's example is *mbwa wetu* "our dogs", with class 2 *w-* (although their rule says the noun's own class is used). Use *paka wangu* "my cat"; for several animals expect both *paka zangu* and *paka wangu*.
+For animals the sources do not agree. In the singular, Almasi and colleagues (who limit the exception to kin terms) and Polomé (*ng'ombe wangu* "my cow") point to *w-*, although Thompson and Schleicher's rule says the noun's own class is used. In the plural, Polomé gives class 10 *z-* (*ng'ombe zangu* "my cattle"), while Thompson and Schleicher's example is *mbwa wetu* "our dogs", with class 2 *w-* (against their own rule). Use *paka wangu* "my cat"; for several animals expect both *paka zangu* and *paka wangu*.
 
 **Contractions.** With some very common nouns the possessive fuses with the noun (Thompson and Schleicher; Wiktionary): *mwenzangu* "my companion, my colleague" (from *mwenzi wangu*), *mwanangu* "my child" (from *mwana wangu*), *mamangu* "my mother", *mumewe* "her husband" (from *mume wake*), *mkewe* "his wife". They mean the same as the full forms.
 
@@ -187,7 +187,7 @@ confidence: constructed
 
 **Do not overuse possessives.** English says "I saw my doctor", "our cleaner was ill". Thompson and Schleicher note that Swahili leaves the possessive out in such cases and uses it mainly for family and friends.
 
-**Do not use *-ao* for "their" with things.** For the roots of trees, the walls of houses, Wiktionary gives *-ake*: *miti na mizizi yake* "trees and their roots" (*mizizi* "roots"). *-ao* is for people.
+**Do not use *-ao* for "their" with things.** For the roots of trees, the walls of houses, Wiktionary gives *-ake* as the "their" of things: *miti na mizizi yake* "trees and their roots" (*mizizi* "roots"). *-ao* is for people.
 
 ## Reference table
 

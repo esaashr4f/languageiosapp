@@ -176,7 +176,7 @@ preview: PL
 
 ## Watch out
 
-**The last vowel, not the first.** *Elma* starts with a front vowel and *anne* with a back one, and a learner who looks at the start gets both wrong. Some native words, such as *elma*, *anne* and *kardeş* "brother, sister", and very many loanwords, mix front and back vowels inside the root. Harmony between root and suffix still works: the suffix copies the vowel next to it.
+**The last vowel, not the first.** *Elma* starts with a front vowel and *anne* with a back one, and a learner who looks at the start gets both wrong. Some native words, such as *elma*, *anne* and *kardeş* "brother, sister", and very many loanwords, mix front and back vowels inside the word. Harmony between root and suffix still works: the suffix copies the vowel next to it.
 
 **Rounding plays no part here.** *Gözler*, not \**gözlör*. A two-way suffix has only *e* or *a*. It never takes *o* or *ö*, which, as lesson 1 showed, no native suffix contains.
 

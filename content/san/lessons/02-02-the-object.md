@@ -17,9 +17,9 @@ Many actions have a doer and a second party: something eaten, someone seen, a bo
 
 Sanskrit marks the object with its own case, the **accusative**. For nouns like *deva*, the accusative singular ends in *-am*: *devam*. Now there are two endings to tell the roles apart. *-aḥ* says "the doer", *-am* says "the thing done to".
 
-Because the endings carry the roles, the order of the words does not. *mṛgaṃ paśyati sarpaḥ* and *sarpaḥ mṛgaṃ paśyati* both say "the snake sees the deer". Swap the endings and the meaning flips: *sarpaṃ paśyati mṛgaḥ* is "the deer sees the snake". Speijer (§15) puts this down to the rich inflection: like other languages with many endings, Sanskrit allows great freedom of order. It still has a usual order (Speijer §16): subject first, verb last, and the object immediately before the verb. English fixes its order because it has lost these endings; Sanskrit never needed to.
+Because the endings carry the roles, the order of the words does not. *mṛgaṃ paśyati sarpaḥ* and *sarpaḥ paśyati mṛgam* both say "the snake sees the deer". Swap the endings and the meaning flips: *sarpaṃ paśyati mṛgaḥ* is "the deer sees the snake". Speijer (§15) puts this down to the rich inflection: like other languages with many endings, Sanskrit allows great freedom of order. It still has a usual order (Speijer §16): subject first, verb last, and the object immediately before the verb. English fixes its order because it has lost these endings; Sanskrit never needed to.
 
-The accusative does a second, very common job: it names where you go to. *grāmaṃ gacchati* is "he goes to the village". There is no word for "to". Whitney (§274a) calls this the goal of motion and says that with verbs meaning "go" it is an extremely common construction. The logic is that the place gone to is the target of the going, just as the thing seen is the target of the seeing.
+The accusative does a second, very common job: it names where you go to. *grāmaṃ gacchati* is "he goes to the village". There is no word for "to". Whitney (§274a–b) calls this the goal of motion and says that with verbs meaning "go" it is an extremely common construction. The logic is that the place gone to is the target of the going, just as the thing seen is the target of the seeing.
 
 ## How it is built
 
@@ -217,7 +217,7 @@ source: wiktionary (देव); whitney1889 §§145, 213
 
 :::vocab
 ग्राम | grāma | noun | village | m., a-stem
-गृह | gṛha | noun | house, home | n. (Vedic also m.), a-stem
+गृह | gṛha | noun | house, home | n. in the singular, a-stem; the plural is often m. gṛhāḥ "house" (mw1899)
 मार्ग | mārga | noun | road, path, way | m., a-stem
 पुस्तक | pustaka | noun | book, manuscript | m. or n., a-stem
 क्षीर | kṣīra | noun | milk | n., a-stem
@@ -259,7 +259,7 @@ Japanese marks the object with *o* and the goal with *ni* or *e*; Korean with *-
 
 ## Worked answers
 
-1. √paś gives *paśyati*. The tiger sees: *vyāghraḥ*. The deer is seen: *mṛgam*. Usual order: *vyāghraḥ mṛgam paśyati*. But *vyāghraḥ* stands before *m*, where texts change *-aḥ* (san-02-06), so for now use *mṛgaṃ paśyati vyāghraḥ*, with *mṛgam* written *mṛgaṃ* before *p*. Same meaning.
+1. √paś gives *paśyati*. The tiger sees: *vyāghraḥ*. The deer is seen: *mṛgam*. Usual order: *vyāghraḥ mṛgaṃ paśyati*. But *vyāghraḥ* stands before *m*, where texts change *-aḥ* (san-02-06), so for now use *mṛgaṃ paśyati vyāghraḥ*, with *mṛgam* written *mṛgaṃ* before *p*. Same meaning.
 2. √hṛ gives *harati*; *pustaka* in the accusative is *pustakam*, before *h* written *pustakaṃ*; the thief is *coraḥ*, last: *pustakaṃ harati coraḥ*. *coraḥ pustakaṃ harati* (subject first, *-ḥ* before *p*) is also good.
 3. "The son leaves home." *putraḥ* has the nominative ending *-aḥ*; *gṛham* is the object. (*gṛha* is one of the nouns of san-02-05, but with *putraḥ* as subject it can only be the object.)
 4. "The boy drinks milk." *kṣīraṃ pibati kākaḥ* "the crow drinks milk".

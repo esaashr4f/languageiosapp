@@ -203,6 +203,7 @@ confidence: constructed
 - **Why**: *kwa nini*, *kwani*, *mbona*; *kwa sababu gani*.
 - **What for**: *-ni* on the verb, or *kwa ajili ya nini* (lesson 6.10 teaches *kwa ajili ya*).
 - **Several question words in one sentence**: each in its own place: *Nani alifika lini?* "who arrived when?".
+- **Asking for details**: *Unaishi mtaa gani?* "which street do you live in?"; *Anwani yako ni ipi?* "what is your address?" (*-pi*: one address among possible ones); *Una uhakika?* "are you sure?".
 - **Echo questions**: *Ulisema nini?* "you said what?" works exactly like English.
 - **Indirect questions** ("I asked him where he lives") are lesson 6.9.
 

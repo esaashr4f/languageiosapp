@@ -1,5 +1,5 @@
 {
- "count": 156,
+ "count": 157,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1395,6 +1395,15 @@
    "script": "Tibetan + Wylie",
    "depth": "B",
    "notes": "Imperial-era inscriptions and Dunhuang documents (Old Tibetan Annals); cross-link Classical Tibetan"
+  },
+  {
+   "number": 157,
+   "name": "Old Tamil",
+   "iso": "oty",
+   "group": "Dead and classical",
+   "script": "Tamil + transliteration (Tamil-Brahmi intro)",
+   "depth": "B",
+   "notes": "Sangam (Caṅkam) poetry and the Tolkāppiyam; cross-link Tamil, Malayalam, Telugu"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

@@ -172,7 +172,7 @@ morphemes: ali-us ex ali-ō caus-am tumult-ūs quaer-it
 gloss: other-NOM.SG.M from other-ABL.SG.M cause-ACC.SG uproar-GEN.SG ask-3SG
 translation: they ask one another the cause of the uproar
 literal: one asks from another the cause of the uproar
-note: A Roman camp is surprised by German cavalry. alius repeated in another case states two things in one (ag1903 §315c). tumultus "uproar" is a new word.
+note: A Roman camp is surprised by German cavalry. alius repeated in another case can express a reciprocal action, "one another"; Allen and Greenough quote this sentence (ag1903 §315a). tumultus "uproar" is a new word.
 source: Caesar, Gallic War 6.37.6
 confidence: attested
 :::
@@ -205,7 +205,7 @@ confidence: attested
 
 ## Watch out
 
-**Do not give the ūnus group the *bonus* genitive and dative.** *\*Tōtī urbis*, *\*ūnō puerō dedit* (as dative): *tōtīus urbis*, *ūnī puerō dedit*. The forms *ūnō*, *aliae*, *aliō* in the dative do occur but are rare (ag1903 §113 note).
+**Do not give the ūnus group the *bonus* genitive and dative.** *\*Tōtī urbis*, *\*ūnō puerō dedit* (as dative): *tōtīus urbis*, *ūnī puerō dedit*. The regular forms are sometimes found, such as *aliae* (genitive and dative feminine) and *aliō* (dative masculine) (ag1903 §113 note), but they are not the norm.
 
 **Do not make *aliud* masculine, or *alium* neuter.** *\*Aliud amīcum*, *\*alium cōnsilium*: *alium amīcum*, *aliud cōnsilium*.
 
@@ -273,7 +273,7 @@ tumultus | - | noun | uproar, commotion | tumultūs, m.
 
 ## Connections
 
-Spanish *nulo* and French *nul* continue *nūllus*, and French *nul* still means "no one" or "worthless". Spanish *otro* and French *autre* come from *alter*, not *alius* (Wiktionary): the word for "the other of two" took over the whole meaning.
+French *nul* continues *nūllus* (Spanish *nulo* was borrowed from the Latin later), and French *nul* still means "no one" or "worthless". Spanish *otro* and French *autre* come from *alter*, not *alius* (Wiktionary): the word for "the other of two" took over the whole meaning.
 
 ## Exercises
 

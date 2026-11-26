@@ -184,7 +184,7 @@ confidence: constructed
 - **From ... to**: *Ankara'dan İstanbul'a*, *evden okula*.
 - **Leaving and separating**: *Ali işten ayrılıyor* "Ali is leaving his job" (*ayrılmak*).
 - **The source of a thing or of information**: *Ali'den mektup almak*, *Ayşe'den duymak*, *öğretmenden öğrenmek* "learn from the teacher".
-- **The way through or over**, with *geçmek* and other verbs of motion: *köprüden geçmek*, *parktan geçmek*, *kapıdan girmek* "come in by the door", *pencereden bakmak* (goksel2005 §14.3.3.5).
+- **The way through or over**, with *geçmek* (goksel2005 §14.3.3.5) and other verbs of motion: *köprüden geçmek*, *parktan geçmek*, *kapıdan girmek* "come in by the door", *pencereden bakmak*.
 - **Cause**: *korkudan*, *sıcaktan* "because of the heat".
 - **Verbs of feeling, especially of dislike or fear**: *korkmak* "be afraid of", *hoşlanmak* "like, enjoy", *bıkmak* "get fed up with" (goksel2005 §14.3.3.5): *Ayşe kahveden hoşlanmıyor*, *Bu işten bıkıyorum*.
 - **Adjectives**: *memnun* "pleased with" (*işten memnun* "pleased with the work", goksel2005 §15.5) and *uzak* "far from" (*okuldan uzak*; tdk *işlerden uzak*).
@@ -213,7 +213,7 @@ confidence: constructed
 
 **Do not think "through" always needs the ablative.** *Geçmek* can also take a direct object: *köprüyü geçmek* "cross the bridge" is correct too (wiktionary). The ablative stresses the route, the accusative the thing crossed.
 
-**Do not mark the part in a partitive.** *\*Bu elmalardan iki elmayı* repeats the noun and marks it. The whole is ablative, the part stays bare: *bu elmalardan iki tane*.
+**Do not put the whole in the genitive.** English "two of these apples" invites *\*bu elmaların iki tane*, which is wrong: with a bare part such as *iki tane*, the whole is ablative: *bu elmalardan iki tane* (goksel2005 §14.5.1). (A genitive whole needs a possessive on the part, a pattern for later.)
 
 ## Reference table
 
@@ -261,7 +261,7 @@ Almanya | - | proper noun | Germany | Almanya'dan
 
 ## Connections
 
-Japanese から and Korean 에서/에게서 mark the starting point in the same way, and Japanese uses から also for cause and for material in some phrases (木から作る "make from wood"). Spanish and French *de* cover the source and the material (*una mesa de madera*, *une table en bois*) but not fear or comparison. Korean 보다 and Japanese より mark the standard of comparison with a separate particle; Turkish reuses its ablative, a pattern found in many languages.
+Japanese から and Korean 에서/에게서 mark the starting point in the same way, and Japanese uses から also for cause and for material in some phrases (木から作る "make from wood"). Spanish and French *de* cover the source and the material (*una mesa de madera*, *une table de bois*) but not fear or comparison. Korean 보다 and Japanese より mark the standard of comparison with a separate particle; Turkish reuses its ablative, a pattern found in many languages.
 
 ## Exercises
 

@@ -171,7 +171,7 @@ confidence: constructed
 
 - **Loanwords**, the biggest group: from Arabic (*kalamu*, *habari*, *barua*, *sahani* "plate", *bei* "price", *sukari*), from English (*picha*, *baiskeli* "bicycle", *wiki* "week"), from Persian through Omani Arabic (*rangi* "colour", *meza*, according to Wiktionary, which notes that *meza* is widely but wrongly claimed to be Portuguese).
 - **Native nouns with a nasal**: *nyumba*, *njia*, *nguo*, *ndizi* "banana", *mboga* "vegetable", *ndoo* "bucket", *nchi*.
-- **Native nouns that lost the nasal**: *siku* "day", *kazi*, *chupa* "bottle", *taa* "lamp".
+- **Native nouns that lost the nasal**: *siku* "day", *kazi*, *chupa* "bottle". (Not every bare noun is native: Wiktionary traces *taa* "lamp" to an earlier *tala* of unknown, possibly Indian, origin.)
 - **Countries and places by name**: *Tanzania*, *Kenya*, even those that start with *U-* like *Uingereza* "Britain" (Almasi and colleagues: *Urusi imeendelea* "Russia has progressed", with class 9 *i-*).
 - **Animals and kin terms**: *paka*, *mbuzi*, *rafiki*, *baba*. They are class 9/10 nouns but take the agreement of classes 1 and 2 (lesson 3.9).
 - **Plural of class 11** *u-* nouns: *ukuta* "wall" → *kuta* (class 10), lesson 3.7.

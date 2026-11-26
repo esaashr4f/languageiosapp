@@ -25,7 +25,7 @@ Work each exercise before you read its answer. Every answer names the lesson to 
 2. Otel çok eski ama temiz ve rahat.
 3. Odada bir yatak, bir masa ve iki sandalye var, ama televizyon yok.
 4. Akşam Mehmet bir lokantada yemek yiyor.
-5. Garson: "Türk müsünüz?" Mehmet: "Evet, Türküm, ama İstanbul'da yaşamıyorum. Ankara'da yaşıyorum."
+5. Garson: "Türk müsünüz?" Mehmet: "Evet, Türk'üm, ama İstanbul'da yaşamıyorum. Ankara'da yaşıyorum."
 6. Garson: "Et yiyor musunuz?" Mehmet: "Hayır, et yemiyorum. Balık var mı?"
 7. Garson: "Maalesef bugün balık yok. Peynir ve ekmek var." Mehmet: "Tamam. Kahve var mı?" Garson: "Var."
 
@@ -45,7 +45,7 @@ Work each exercise before you read its answer. Every answer names the lesson to 
 7. In sentence 1, where is the main stress of *Mehmet mühendis değil*, and why?
 8. In sentence 3, why is it *iki sandalye* and not *\*iki sandalyeler*? And why does *var* come last?
 9. In sentence 4, explain the order *Akşam Mehmet bir lokantada yemek yiyor*, and say which word is next to the verb and why.
-10. In sentence 5, take apart *müsünüz*, *Türküm* and *yaşamıyorum*, and say where the stress falls in *yaşamıyorum*.
+10. In sentence 5, take apart *müsünüz*, *Türk'üm* and *yaşamıyorum*, and say where the stress falls in *yaşamıyorum*.
 11. In sentence 6, compare *yiyor* and *yemiyorum*: why *yi-* in one and *ye-* in the other?
 12. In sentence 7, why is the waiter's answer simply *Var*?
 13. Say "We are not tired, but we are hungry."
@@ -71,7 +71,7 @@ Work each exercise before you read its answer. Every answer names the lesson to 
 7. On *değil*. In a negative "x is y" sentence the denial is the news and carries the main stress (goksel2005 §23.1; tur-02-04). In the positive *Mehmet öğretmen* it would fall on *öğretmen*.
 8. A number already says "more than one", so the noun stays bare (tur-02-03). *Var* is the predicate, and the predicate comes last; the things that exist stand just before it (tur-02-06, tur-02-07).
 9. Time word, subject, place, bare object, verb. A time word may go before or after the subject (tur-02-07). *Yemek* is a bare object, so it stands directly before *yiyor*; nothing may separate them except a particle.
-10. *mü-sünüz*: the question particle, harmonised with the *ü* of *Türk*, plus the polite "you" ending (tur-02-05). *Türk-üm*: "I am Turkish", *-(y)Im* with no buffer after a consonant, harmonised to *-üm* (tur-02-02). *Yaşa-mı-yor-um*: stem *yaşa-*, negative *-mA* with its vowel raised before *-yor*, progressive, "I" (tur-02-09). Stress: *yaşámıyorum*, before the unstressable *-mA*.
+10. *mü-sünüz*: the question particle, harmonised with the *ü* of *Türk*, plus the polite "you" ending (tur-02-05). *Türk'üm*: "I am Turkish", *-(y)Im* with no buffer after a consonant, harmonised to *-üm*, and written after an apostrophe because *Türk* is a proper noun (tur-02-02). *Yaşa-mı-yor-um*: stem *yaşa-*, negative *-mA* with its vowel raised before *-yor*, progressive, "I" (tur-02-09). Stress: *yaşámıyorum*, before the unstressable *-mA*.
 11. *ye-* becomes *yi-* only when *-(I)yor* touches it directly: *yiyor* (tur-02-08). In the negative, *-yor* touches *-mA*, so the stem stays *ye-*: *yemiyorum* (tur-02-09).
 12. The answer to *var mı?* repeats the predicate: *Var* "there is", or *Yok* "there isn't". Turkish answers by repeating the predicate word, here with *evet* left out (tur-02-06).
 13. *Yorgun değiliz ama açız.* The ending goes on *değil* in the first half and directly on *aç* in the second (tur-02-04, tur-02-02).

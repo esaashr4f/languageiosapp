@@ -215,7 +215,7 @@ preview: REL
 
 **Do not overuse it.** English needs "he" in every clause; Sanskrit does not. *\*sa nṛpaḥ sa gacchati sa paśyati* is heavy. Once the subject is clear, the verb alone carries it: *nṛpo gacchati paśyati ca*.
 
-**Do not join *saḥ* with a following vowel in prose.** In some verse, especially the Veda, *sa* fuses with the next vowel (Whitney §176b: *sa* + *eṣaḥ*); Classical prose keeps *sa iha*, *sa uvāca*.
+**Do not join *saḥ* with a following vowel in prose.** In some verse, especially the Veda, *sa* fuses with the next vowel (Whitney §176b: in the Ṛgveda *sa* + *oṣadhīḥ* is *sauṣadhīḥ*); Classical prose keeps *sa iha*, *sa uvāca*.
 
 ## Reference table
 

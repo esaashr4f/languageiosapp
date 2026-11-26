@@ -43,7 +43,7 @@ A worked chain: "We are waiting." The stem is *bekle-*. It ends in *e*, so *e* b
 
 **"They".** The rule of tur-02-02 holds: with no subject word and people meant, *-lAr* is needed: *Geliyorlar*. With a subject word it is optional: *Çocuklar geliyor(lar)*.
 
-**In speech** the *r* of *-yor* is often dropped before a consonant and at the end of a word: *geliyo*, *gidiyosun*. Göksel and Kerslake note that it is kept before a vowel, *seviyorum* (goksel2005 §8.2.3.3); Wiktionary also records spoken *içiyom* "I am drinking". Write *-yor* in full.
+**In speech** the *r* of *-yor* is often dropped before a consonant and at the end of a word: *geliyo*, *gidiyosun*. Göksel and Kerslake note that it is kept before a vowel, *seviyorum* [sevíjorum] (goksel2005 §8.2.3.3). Wiktionary does record *yapıyom* for *yapıyorum* "I am doing", with the r lost before a vowel as well, but marks it informal and dialectal (İzmir), and unsuitable for writing. Write *-yor* in full.
 
 **Questions and negatives** with *-(I)yor* come in the next lesson.
 
@@ -196,7 +196,7 @@ Göksel and Kerslake list the meanings of *-(I)yor* (goksel2005 §§21.2.2, 21.2
 
 **Do not use *-(I)yor* for "I am hungry".** That is an adjective sentence, *Açım* (tur-02-02). Göksel and Kerslake note that verbs of entering a state, such as *acık-* "get hungry" and *yorul-* "get tired", use the past for the present state (goksel2005 §21.3.3): you will meet *yoruldum* "I'm tired (I have got tired)" in part 4. For now, *yorgunum*.
 
-**Do not write the spoken forms.** *Geliyo* and *napıyosun* are what you hear; write *geliyor* and *ne yapıyorsun*.
+**Do not write the spoken forms.** *Geliyo* and *gidiyosun* are what you hear; write *geliyor* and *gidiyorsun*.
 
 ## Reference table
 

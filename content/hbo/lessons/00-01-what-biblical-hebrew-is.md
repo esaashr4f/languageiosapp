@@ -21,7 +21,7 @@ The earliest Hebrew writing yet found dates from about the tenth century BC. Heb
 
 ## One book, many centuries
 
-The Hebrew Bible was not written at one time. Its texts took shape over roughly eight or nine centuries, from about the tenth century BC to the second. Scholars group its Hebrew into three broad layers.
+The Hebrew Bible was not written at one time. Its texts took shape over roughly eight or nine centuries, from about the tenth century BC to the second. The dates of the oldest parts are disputed: some scholars put the oldest poems earlier than the tenth century, others later. Scholars group its Hebrew into three broad layers.
 
 **Archaic Hebrew** is the language of a few old poems, such as the Song of the Sea in Exodus 15 and the Song of Deborah in Judges 5.
 
@@ -57,7 +57,7 @@ Second, the pointing is the only full record of the vowels we have. Without it t
 
 Third, where the reading tradition has added something of its own, the guide labels it. You learn the hybrid and, at the same time, where its seams are.
 
-The text quoted is that of the Leningrad Codex, the oldest surviving manuscript that contains the whole Hebrew Bible, copied in about AD 1009 in the Tiberian tradition. The guide uses its digital transcription, the Westminster Leningrad Codex, and checks passages for reading against the maintained Unicode/XML edition.
+The text quoted is that of the Leningrad Codex, the oldest surviving manuscript that contains the whole Hebrew Bible, copied in AD 1008 or 1009 in the Tiberian tradition. The guide uses its digital transcription, the Westminster Leningrad Codex, and checks passages for reading against the maintained Unicode/XML edition.
 
 Poetry, Late Biblical Hebrew, the old inscriptions and Biblical Aramaic are not ignored. Part 7 gives each its own lesson, and any form from them that appears earlier is labelled.
 
@@ -67,7 +67,7 @@ Four facts shape everything that follows.
 
 Words are built from **roots**: sets of usually three consonants that carry a core meaning. Vowels and small additions poured around the root say what kind of word it is. The next lesson is about this, because it is the organising idea of the grammar.
 
-A story is told as a **chain of verbs**, each beginning with "and": "and he said... and it was... and he saw...". The verb usually comes first in its clause. The next lesson shows this too.
+A story is told as a **chain of verbs**, each beginning with "and": "and he said... and it was... and he saw...". In narrative the verb usually comes first in its clause. The next lesson shows this too.
 
 Nouns have no case endings. Who did what to whom is shown by word order, by small words and by prefixes.
 

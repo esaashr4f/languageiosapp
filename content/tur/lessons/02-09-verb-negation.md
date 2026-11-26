@@ -200,7 +200,7 @@ confidence: constructed
 
 **Do not make *kimse* plural on the verb.** *\*Kimse gelmiyorlar* is wrong; Göksel and Kerslake give the third person singular (goksel2005 §20.5.3): *Kimse gelmiyor*.
 
-**Do not double the negative to strengthen it.** Spanish *no viene nadie* and French *personne ne vient* have two negatives, and Turkish *Kimse gelmiyor* looks similar. But *-mA* is the only negative there; *kimse* adds "anyone". There is no Turkish word that is negative on its own the way *nadie* is.
+**Do not double the negative to strengthen it.** Spanish *no viene nadie* and French *personne ne vient* have two negatives, and Turkish *Kimse gelmiyor* looks similar. But *-mA* is the only negative there; *kimse* adds "anyone". In a sentence, Göksel and Kerslake note, *kimse* and *hiç* get their negative meaning only from *-mA*, *değil* or *yok* (goksel2005 §20.5), so you never add a second negative to strengthen the first.
 
 ## Reference table
 

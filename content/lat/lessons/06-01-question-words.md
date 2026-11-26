@@ -51,13 +51,13 @@ The line is not strict: *quis homō?* "what man?" is common, while *quī homō?*
 2. The unknown is the person you gave it to, so it is the dative: *cui*.
 3. Put the question word first: *Cui librum dedistī?*
 
-Say "which city are we living in?".
+Say "what city are we living in?".
 
 1. "In a city": *in urbe*, ablative.
 2. "Which" goes with *urbs*, so it is the adjective, feminine ablative singular: *quā*.
 3. A preposition stays in front of its question word: *In quā urbe vīvimus?*
 
-**Emphasis.** The enclitic *-nam* added to a question word gives "who on earth?": *quisnam*, *ubinam*. *Tandem* "pray, at last" does the same as a separate word: *quō ūsque tandem* "how long, pray?" (ag1903 §333a).
+**Emphasis.** The enclitic *-nam* gives "who on earth?": *quisnam*, *ubinam*; *tandem* "pray" does the same as a separate word (ag1903 §333a).
 
 **Alternative questions.** To ask "is it this or that?", put *utrum* or *-ne* in the first half and *an* "or" in the second (ag1903 §335). *Utrum* is the neuter of *uter* "which of two?" (lesson 2 of part 5). "Or not" is *annōn*, or *necne* (ag1903 §335 note). The first word may be left out: *Sunt haec tua verba necne?* "are these your words or not?" (Cicero, quoted in ag1903 §335a).
 
@@ -210,7 +210,7 @@ confidence: attested
 
 **Do not add *-ne* to a question that already has a question word.** *\*Quisne venit?* doubles the question; say *Quis venit?* (Horace's *quantane?* "how big?" is colloquial: ag1903 §332 note 2.)
 
-**Do not read every *quam* as "than".** *Quam* can be the feminine accusative of the adjective *quī* (*quam rem pūblicam?*), "how" before an adjective or adverb (*quam diū?*, *quam pulchra!*), or "than" after a comparative (part 5). Ask what it is attached to.
+**Do not read every *quam* as "than".** It can be the adjective *quī* (*quam rem pūblicam?*), "how" (*quam diū?*, *quam pulchra!*) or "than" after a comparative (part 5).
 
 **Do not use *quōmodo* for "how are you?".** The idiom is *quid agis?* (Wiktionary). *Quōmodo* asks for a method: *quōmodo possumus viam scīre?* "how can we know the way?" (Vulgate, John 14:5).
 

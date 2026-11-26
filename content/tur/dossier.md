@@ -295,3 +295,14 @@ Translations are always our own.
 - Part 3 must teach vowel loss (*oğul/oğlu*, *isim/ismi*) and doubling in Arabic loans (*hak/hakkı*) when the accusative arrives; tur-01-06 does not.
 - Part 2 must teach the stress behaviour of mI, -mA, -(I)yor and person endings after nouns (promised in tur-01-07), and introduce *bu*, *ne*, *değil*, *var*, *gel-*, *yap-* (shown but not yet in vocab).
 - Conventions: derivational suffixes glossed in lower case (salt-with, milk-seller); choose one gloss for -CI ("seller" vs "person.dealing.in") at first grammatical use and record it here. Proper names drop the apostrophe in morphemes (İstanbul-a). Acute stress marks only in tur-01-07 and vocab notes.
+
+
+## Notes from drafting part 2 (2026-11-26)
+
+- Correction: *meşgul* takes front-vowel endings (TDK "l ince okunur"; meşgulüm, meşgul mü); add it to the loan-harmony exceptions.
+- -(I)yor from Proto-Turkic *yorï- "walk": confirmed (Wiktionary -iyor; G&K §8.2.3.3 obsolete stem yor-); no longer unverified.
+- Colloquial 1SG: G&K §8.2.3.3 keep r before a vowel (seviyorum); Wiktionary records içiyom. Lessons give both.
+- Stress of *değil*: G&K deĞİL (second syllable); Wiktionary IPA first; lessons follow G&K and note the difference. Sentence stress per G&K §23.1.
+- Segmentation: negative before -(I)yor `gel-mi-yor`, `anla-mı-yor` (come-NEG-PROG); positive `anl-ıyor`. Pronoun + accusative `sen-i`, `ben-i` (2SG-ACC). *kimse* `anyone`, *hiç* `at.all`, *artık* `any.more` with a negative.
+- Rule relaxed: acute stress marks may appear in prose and notes from part 2 on (as tur-02-01 to 02-10 do), not only in tur-01-07 and vocab notes.
+- For part 3: *bakmak*, *inanmak* introduced as intransitive only (tur-03-02 adds the dative); *seni*, *beni*, *annem* previewed; only non-specific bare objects so far; *şehir* (acc. şehri) introduced with its vowel-loss note for tur-03-01; *yemek* is in vocab as noun (02-07) and verb (02-08).

@@ -207,6 +207,20 @@
   "assimilation": "A sound changing to match its neighbour, as d becoming t after a voiceless consonant (tur-01-06).",
   "buffer consonant": "A consonant (y, n, s) inserted between two vowels when a suffix joins a stem (tur-01-06).",
   "stress": "The extra prominence on one syllable of a word (tur-01-07).",
-  "pre-stressing suffix": "A suffix that cannot take stress and pushes it onto the syllable before it (tur-01-07)."
+  "pre-stressing suffix": "A suffix that cannot take stress and pushes it onto the syllable before it (tur-01-07).",
+  "negate": "Make a sentence say that something is not so (tur-02-04).",
+  "clitic": "A small word that leans on the word before it for stress, like mI (tur-02-05).",
+  "yes-no question": "A question answered yes or no (tur-02-05).",
+  "tag question": "A short question added to a statement, like 'isn't it?' (tur-02-05).",
+  "case": "The form of a noun that shows its job in the sentence (tur-02-06).",
+  "locative": "The case meaning 'in, at, on', -DA (tur-02-06).",
+  "existential sentence": "A sentence saying that something exists or is somewhere, with var or yok (tur-02-06).",
+  "verb": "A word for an action or state (tur-02-07).",
+  "object": "The thing or person acted on (tur-02-07).",
+  "unmarked order": "The neutral word order with no special emphasis (tur-02-07).",
+  "head-final": "Putting the main word of a phrase last, as Turkish does (tur-02-07).",
+  "focus": "The new or emphasised part of a sentence, placed just before the verb (tur-02-07).",
+  "infinitive": "The dictionary form of a verb, in -mAk (tur-02-08).",
+  "progressive": "The -(I)yor form for what is going on now (tur-02-08)."
  }
 }

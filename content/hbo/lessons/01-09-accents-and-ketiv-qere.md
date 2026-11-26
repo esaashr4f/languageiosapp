@@ -95,7 +95,7 @@ translit: yərûšālayim
 morphemes: yərûšālayim
 gloss: Jerusalem
 translation: Jerusalem
-note: Perpetual qere. The letters ירושלם spell an older reading without a yod; the Masoretes put both pataḥ and ḥireq under lamed, so that the qere is yərûšālayim.
+note: Perpetual qere. The letters ירושלם fit an older form, yərûšālēm (Gesenius); the Masoretes put both pataḥ and ḥireq under lamed, so that the qere is yərûšālayim.
 source: 1 Kings 3:1 (WLC); gkc1910 §17c
 confidence: attested
 :::
@@ -106,7 +106,7 @@ translit: hîʾ
 morphemes: hîʾ
 gloss: she
 translation: she
-note: Perpetual qere of the Torah: the letters are those of hûʾ "he", the vowel is ḥireq, and the word is read hîʾ "she". It occurs 128 times in WLC, almost all in the five books of Moses.
+note: Perpetual qere of the Torah: the letters are those of hûʾ "he", the vowel is ḥireq, and the word is read hîʾ "she". WLC has it nearly 200 times, counting forms with prefixes, all but one in the five books of Moses.
 source: Genesis 3:20 (WLC); gkc1910 §17c
 confidence: attested
 :::

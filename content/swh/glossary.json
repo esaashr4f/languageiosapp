@@ -290,6 +290,12 @@
   "coalescence": "Two vowels merging into one when a prefix meets a stem (swh-01-06).",
   "yes-no question": "A question answered yes or no (swh-02-04).",
   "place classes": "Classes 16, 17 and 18 (pa-, ku-, mu-): definite place, general place, inside (swh-02-05).",
-  "imperative": "The command form of the verb (swh-02-07)."
+  "imperative": "The command form of the verb (swh-02-07).",
+  "concord": "The agreement prefix a word takes to match a noun's class (swh-03-01).",
+  "animate agreement": "Animals and people taking class 1/2 agreement whatever their noun class (swh-03-09).",
+  "anaphoric": "Pointing back to something already mentioned, as the -o demonstratives do (swh-03-12).",
+  "o of reference": "The -o form (-yo, -cho, -vyo…) that refers back to a noun already mentioned (swh-03-14).",
+  "nominal agreement": "The agreement prefixes adjectives take, close to the noun prefixes (swh-03-15).",
+  "pronominal agreement": "The agreement prefixes possessives, demonstratives and verbs take (swh-03-15)."
  }
 }

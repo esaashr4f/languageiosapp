@@ -387,3 +387,15 @@ Translations are always our own.
 - *tembo* inland (Tanganyika, Congo) vs *ndovu* Mombasa (Polomé). *saa*, *paa*: Wiktionary one long syllable, Polomé §2.1.5.3 two syllables for most cultivated speakers; the guide follows Polomé.
 - The "how" clitic is written joined: *-je* (umelalaje).
 - Identification sentences: *ni* vs subject prefix, with the older written usage *ni mpishi* "I am a cook" (Polomé §2.5.6.3, §2.6.3.1, notes 113, 131).
+
+
+## Notes from drafting part 3 (2026-11-26)
+
+- Source disagreements stated in lessons: plural animal possessives (Polomé §2.6.1.1 class 10 ng'ombe zangu vs T&S example mbwa wetu); demonstrative before the noun (three accounts); class 18 "that" mle (Polomé, T&S, Wiktionary entry) vs mule (Wiktionary appendix); two- vs three-way demonstratives (WALS vs Wikipedia).
+- Corrections: *usiku* has a class 10 plural *siku* (T&S p. 32), against swh-02-08's "no plural"; *meza* is from Omani Arabic mēz < Persian per Wiktionary, the Portuguese origin being a common claim; class 18 adjectives take mu- (mahali murefu, T&S p. 116).
+- Wiktionary labels some animate nouns by agreement (kipofu, kifaru, daktari "class I/II"): not an error.
+- Glossing: place nouns segmented with prefix (ch-umba-ni C7-room-LOC); place possessives kw-angu C17-my, mw-angu C18-my; reference forms ni-na-yo 1SG.SM-with-C9; na-mi and-1SG; class 9/10 adjectives segmented when the nasal shows (n-defu), whole otherwise (kubwa big.C9); -ishi a loan with no FV.
+- Rule taught: after -ni, agreement switches to classes 16–18 and a -ni place takes no adjective (Polomé n. 119); only mahali does (mahali pazuri).
+- Promises for later parts: swh-05-01 vowel-stem adjectives (-pya, -eusi); swh-05-11 diminutives take class 7 agreement for people and animals; swh-05-08 katika, kwa "at someone's", juu ya, chini ya; swh-05-09 na joins nouns, not clauses; swh-04-08 object first with an object prefix.
+- Polomé sections useful for checking: §2.2.2.2 nasal rules; §2.4.3.1–2 pronouns and demonstratives; §2.5.2 uses of -a; §2.6.1.1 animate and possessive exceptions; §2.6.3.3 SVO. T&S PDF offset ≈ printed +7 near p. 33, +2 near p. 98, −1 near p. 118, −2 near pp. 140–150.
+- Vocab parts of speech used: possessive, demonstrative, particle (-a), determiner (kila).

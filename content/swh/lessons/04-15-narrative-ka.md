@@ -31,7 +31,7 @@ If you want to stress the order of events, you can add *halafu* or *kisha* "then
 
 ### A note on headlines
 
-Newspapers use *ka-* with no subject prefix in headlines about one person: Almasi and colleagues give a headline of the type "man steals the president's watch" with *kaiba* "stole". Wpgrammar reports a related colloquial *ka-* for *a-me-* (*kapotea* "he's got lost"). Neither is the narrative *-ka-*: lesson 7.11 returns to them.
+Newspapers use *ka-* with no subject prefix in headlines about one person: Almasi and colleagues give a headline of the type "man steals the president's watch" with *kaiba* "stole". Wpgrammar reports a related colloquial *ka-* for *a-me-* (*kapotea* "he's got lost"). Neither is the narrative *-ka-*: lesson 7.12 returns to them.
 
 ## How it is built
 

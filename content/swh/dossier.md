@@ -427,3 +427,12 @@ Translations are always our own.
 - Confirmed (no longer unverified): -ka- nikala (T&S p. 184), plural kuleni (Almasi ch. 30–31).
 - Avoid -nya in examples (Wiktionary: both "rain" and "defecate"); use -nyesha.
 - More T&S offsets (printed → PDF): 68 → 70; 183–188 → 178–183; 191–197 → 184–189; 244–247 → 232–235; 268–273 → 253–258; 283–300 → 268–285.
+
+
+## Notes from drafting part 5 (2026-11-26)
+
+- Page offsets: Almasi PDF page = printed + 6 for chapters 13–22, printed + 18 from chapter 33 on. Thompson & Schleicher: comparison printed pp. 377–380 = PDF 350–353; conjunctions printed pp. 319–324 = PDF 298–303. `tools/wikt.py` takes stems without the hyphen (ovu, not -ovu).
+- Source splits stated in the lessons: class 4 of -enye (Wiktionary wenye; Almasi yenye: followed Almasi); class 11 "one" (followed Wiktionary mmoja); animate nouns with numbers take class 2 agreement (Polomé); jitu agrees as class 5/6 (Almasi, Polomé; Wiktionary labels 1/2); kasorobo "less a quarter" (Almasi); na between clauses is a matter of register. -ovu with class 6 (maisha maovu, Polomé) is used without noting Wikipedia's claim that it has only class 1/2 forms: the verifier should check.
+- Glossing: vowel-stem adjectives `w-engi C2-many`, `ch-ema C7-good`; -o-ote forms whole (`chochote any.C7`); kwenye `kw-enye C17-having`; kutoka, kuhusu as infinitives; gani `what.kind`; -je `-how`, -ni `-what`; diminutive `ki-toto C7-child`; jitu `ji-tu C5-person`, jumba `mansion.C5`; ya in place compounds `C9-of`. kuliko glossed whole as "than" (explained as ku-li-ko); part 6 can take it apart as a relative.
+- Left for part 6 (do not re-list what part 5 taught): kwa kuwa, ingawa, ijapokuwa (06-14; kwa sababu and kwani are taught in 05-09); wala (06-15); kabla and baada ya before clauses, mpaka, hadi (06-11; before nouns taught in 05-08); kwa ajili ya (06-10). nani asks for names (Jina lako nani?).
+- Proverbs used so far: afya ni mali; penye nia pana njia; mwenye kisima hapangi foleni; haraka haraka haina baraka; umoja ni nguvu.

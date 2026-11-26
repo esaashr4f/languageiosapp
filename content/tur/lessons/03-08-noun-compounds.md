@@ -264,7 +264,7 @@ English and Japanese make compounds by putting two nouns side by side (bus ticke
 1. *Elma suyu*, *kahve fincanı*, *futbol takımı*, *Türkçe dersi*. The first noun stays bare; the second takes *-(s)I* (*su* has the irregular *suyu*).
 2. *Otobüs biletleri*, *çay bardakları*, *diş fırçaları*. The plural goes on the second noun, before the marker, which is then *-I* after the consonant of *-lAr* (goksel2005 §10.2).
 3. *Doğum günüm*, *yatak odan*, *futbol takımımız*. The possessive replaces the compound marker (goksel2005 §14.3.2.1).
-4. "Ayşe's sister works at Istanbul University." *Kız kardeşi*: a bare compound with the 3SG possessive for "her". *İstanbul Üniversitesinde*: a name compound with the locative after *n* (tur-03-06).
+4. "Ayşe's sister works at Istanbul University." *Kız kardeşi*: a bare compound with the 3SG possessive for "her". *İstanbul Üniversitesinde*: a name compound with the locative after *n* (tur-03-06). Names of institutions take no apostrophe before a case ending (tdk, spelling rules on the apostrophe), unlike personal and place names: *Ali'nin*, but *İstanbul Üniversitesinde*.
 5. *İngilizce öğretmeni* is a compound: a teacher of English, of any nationality. *İngiliz öğretmen* is a bare compound: a teacher who is English, of any subject (goksel2005 §10.1.1).
 6. *Diş fırçasını fincana koyuyorum.* A known toothbrush is a definite object: marker, *n*, accusative. *Koymak* takes the dative (tur-03-02).
 7. *Bir Türk kahvesi istiyorum*: a thing typical of a nation needs the marker. *Otobüs durağında bekliyoruz*: the compound needs its marker, then *n*, then the locative.

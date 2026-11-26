@@ -15,7 +15,7 @@ sources: [polome1967, almasi2014, thompson2001, wpgrammar, wiktionary]
 
 Part 4 has given you a dozen ways to fill the tense slot. This lesson teaches nothing new. It shows how to choose among them, because English tenses do not map one to one onto Swahili ones, and the choice is where most mistakes happen.
 
-Polomé sorts the Swahili markers along two lines, and they are the clearest way to think about the choice. Some markers place an action in **time** relative to now: *-li-* before, *-na-* at the moment, *-ta-* after. Others describe the **kind of action**, whatever its time: *-me-* complete with its result in force, *-ki-* in progress alongside something else, *-ka-* following on from the last event, *hu-* recurring as a rule. A single verb can carry only one of these (with the exception of *-sha-*, lesson 4.17). When you need both a time and a kind, you use two verbs, with *kuwa* (lesson 4.16).
+Polomé sorts the Swahili markers along two lines, and they are the clearest way to think about the choice. Some markers place an action in **time**: *-li-* before now, *-na-* at the moment, *-ta-* after; and *-ka-*, which Polomé also counts as a time marker, places it after the previous event rather than after now. Others describe the **kind of action**, whatever its time: *-me-* complete with its result in force, *-ki-* in progress alongside something else, *hu-* recurring as a rule. A single verb can carry only one of these (with the exception of *-sha-*, lesson 4.17). When you need both a time and a kind, you use two verbs, with *kuwa* (lesson 4.16).
 
 So ask the questions in this order.
 

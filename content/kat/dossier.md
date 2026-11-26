@@ -282,5 +282,13 @@ Translations are always our own.
 - Agreement: plural people take a plural verb; plural things a singular verb (B&K §17.2.1); a noun after a numeral or quantifier is singular with a singular verb (§6.1.1, §7.8); collectives such as ხალხი singular.
 - Objects stay third person in part 2; "sees me/you" appears only as a starred form pointing to kat-04-03.
 - Yes-no question stress: B&K §18.2 on the last syllable of the verb, alongside Aronson's final rise. How Georgian answers negative questions is not settled in the sources (kat-02-08 says so).
-- Source: lingua.ge (conjugator) is the checked source for სვამს, ლაპარაკობს, მუშაობს, სწავლობს (no Wiktionary tables); it pairs სვამს with future შესვამს / aorist შესვა: compare with დალევს / დალია when the aorist is taught.
+- Source: lingua.ge (conjugator) checked for ლაპარაკობს, მუშაობს, სწავლობს. სვამს outside the present subseries is normally დალევს / დალია / დაულევია; შესვამს / შესვა / შეუსვამს are formal or ceremonial (B&K §9.7.5). სწავლობს aorist: შეისწავლა or ისწავლა. Wiktionary now has series-I tables for სვამს and full tables for ლაპარაკობს.
 - Already introduced (do not re-list): ვინ, რა; ერთი, მეორე, ორი–ათი; მაგრამ, კი, თუ; თვითონ; არა, არ, ვერ, აღარ, ვეღარ, არც; ქართულად, ერთად, ცუდად, სწრაფად; დილას, საღამოს, დღეს; 23 verbs with class and forms (see vocab.json); წერილი, ესენი, გმადლობთ.
+
+
+## Notes from verifying parts 0–2 (2026-11-26)
+
+- Letter heights follow Wikipedia/Unicode: x-height ა თ ი ო; ascenders ბ ზ მ ნ პ რ ს შ ჩ ძ წ ხ ჰ; descenders გ დ ე ვ კ ლ ჟ ტ უ ფ ღ ყ ც; both ქ ჭ (and ჯ in handwriting). ტ is a descender per Unicode; the lessons call it both (DejaVu glyph): unresolved.
+- Letter names are cited in Wiktionary's short form (ტ ṭari, უ uni); full forms mostly end in -i (ani, eni, mani, nari; not rae, hae).
+- Yes-no question stress on the verb's last syllable, or on a final ხომ or განა (B&K §18.2).
+- Aronson's SEELRC PDF was unreachable on 2026-11-26 (connection refused); only its Introduction and Lesson 1 were checked, from an earlier copy.

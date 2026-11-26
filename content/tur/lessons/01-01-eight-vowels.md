@@ -13,7 +13,7 @@ sources: [goksel2005, wpphon, wiktionary]
 
 ## The idea
 
-Turkish spelling is close to a recording: one letter, one sound, nothing silent. This lesson covers the vowels. Until the next lesson, read the consonants roughly as in English.
+Turkish spelling is close to a recording: very nearly one letter for each sound. (The main exception, soft ğ, which is often silent, comes in lesson 3.) This lesson covers the vowels. Until the next lesson, read the consonants roughly as in English.
 
 There are eight vowel letters: *a e ı i o ö u ü*. Five of them, *a e i o u*, have the values of Spanish or Japanese. The other three are new to English speakers: dotless *ı*, and *ö* and *ü* with two dots.
 

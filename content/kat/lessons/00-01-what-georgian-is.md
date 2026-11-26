@@ -63,7 +63,7 @@ Historians of the language divide its written history into three periods.
 
 The sources disagree slightly about where to draw the lines. Hewitt ends Old Georgian in the eleventh century, and Bolkvadze and Kiziria in the twelfth. Hewitt also warns that the language changed gradually and that the periods are a convenience, not clean breaks.
 
-The modern standard was shaped in the second half of the nineteenth century. By then the church's written norm was far from how people spoke. Writers led by Ilia Chavchavadze (1837–1907) set out to write the language as it was spoken, as part of a national revival. The Georgian you will learn is the result.
+The modern standard was shaped in the second half of the nineteenth century, when writers led by Ilia Chavchavadze (1837–1907), as part of a national revival, replaced the church's old written norm with the language people actually spoke.
 
 ## Which Georgian this guide teaches
 
@@ -71,9 +71,7 @@ This guide teaches **modern standard Georgian**: the language of schools, newspa
 
 First, every grammar and dictionary describes it, so every form in this guide can be checked.
 
-Second, it is what you meet in Georgia, in print and on screen.
-
-Third, the older language and the dialects are easier to learn from it than the other way round.
+Second, it is what you meet in Georgia. Third, the older language and the dialects are easier to learn from it than the other way round.
 
 Everyday Tbilisi speech differs from the standard in small, regular ways. Where an example uses a spoken form, its note says "colloquial". Old and Middle Georgian appear only in part 7 and in the last readings of part 8, clearly labelled. Dialects are described once, in part 7.
 
@@ -91,10 +89,8 @@ Four facts shape what follows.
 
 ## What you already know
 
-You come with real advantages. Japanese and Korean have taught you to put the verb last, to attach small endings to nouns instead of using prepositions, and to leave out "I" and "you" when the verb makes them clear. Georgian does all three. Korean also has a three-way contrast in its stops, which is the nearest thing in your languages to Georgian's.
+Japanese and Korean have taught you to put the verb last, to attach small endings to nouns instead of using prepositions, and to leave out "I" and "you". Georgian does all three. Korean also has a three-way contrast in its stops, the nearest thing in your languages to Georgian's.
 
-Spanish gives you the idea of a person in the dative who "receives" a feeling: in *me gusta* the thing liked is the subject and the person liking is the indirect object. Georgian builds a whole class of verbs, and a whole tense series, on this pattern. French gives you *tu* and *vous*; Georgian has the same distinction.
+Spanish gives you the person in the dative who "receives" a feeling, as in *me gusta*. Georgian builds a whole class of verbs, and a whole tense series, on this pattern. French gives you *tu* and *vous*; Georgian has the same distinction.
 
 Arabic gives you less than you might expect. Georgian has words from Arabic and Persian, but its grammar is unrelated, and its throat consonants are not the emphatic consonants of Arabic.
-
-None of this is a shortcut past the verb. The verb has to be learnt on its own terms, and the next lesson shows why it deserves the effort.

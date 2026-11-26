@@ -1,5 +1,5 @@
 {
- "count": 157,
+ "count": 153,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -117,7 +117,15 @@
    "group": "Major living",
    "script": "Perso-Arabic",
    "depth": "A",
-   "iso_note": "Iranian Persian (individual code); macrolanguage is fas"
+   "iso_note": "Iranian Persian (individual code); macrolanguage is fas",
+   "companions": [
+    {
+     "name": "Dari",
+     "iso": "prs",
+     "part": 10,
+     "description": "Afghan Persian: what differs from Iranian Persian in sounds, vocabulary and grammar"
+    }
+   ]
   },
   {
    "number": 15,
@@ -165,7 +173,15 @@
    "iso": "ind",
    "group": "Major living",
    "script": "Latin",
-   "depth": "A"
+   "depth": "A",
+   "companions": [
+    {
+     "name": "Malay",
+     "iso": "zsm",
+     "part": 10,
+     "description": "Standard Malay (Malaysia): what differs from Indonesian in vocabulary, spelling, pronunciation and usage"
+    }
+   ]
   },
   {
    "number": 20,
@@ -913,20 +929,18 @@
    "group": "Dead and classical",
    "script": "Latin",
    "depth": "B",
-   "notes": "Cantar de mio Cid, Alfonso X"
+   "notes": "Cantar de mio Cid, Alfonso X",
+   "companions": [
+    {
+     "name": "Aljamiado",
+     "iso": "qal",
+     "part": 10,
+     "description": "Spanish of the Moriscos in Arabic script: the aljamiado spelling system and reading texts"
+    }
+   ]
   },
   {
    "number": 106,
-   "name": "Aljamiado",
-   "iso": "qal",
-   "group": "Dead and classical",
-   "script": "Arabic (aljamiado) + Latin",
-   "depth": "C",
-   "notes": "Spanish of the Moriscos written in Arabic script; taught as a script and reading guide on top of Old Spanish, so short",
-   "iso_note": "No ISO 639-3 code (it is Old/Middle Spanish in Arabic script); private-use qal. Related: osp"
-  },
-  {
-   "number": 107,
    "name": "Ugaritic",
    "iso": "uga",
    "group": "Dead and classical",
@@ -935,7 +949,7 @@
    "notes": "Baal cycle; cross-link Biblical Hebrew and Akkadian"
   },
   {
-   "number": 108,
+   "number": 107,
    "name": "Phoenician and Punic",
    "iso": "phn",
    "group": "Dead and classical",
@@ -945,7 +959,7 @@
    "iso_note": "Phoenician phn; Punic xpu"
   },
   {
-   "number": 109,
+   "number": 108,
    "name": "Old Persian",
    "iso": "peo",
    "group": "Dead and classical",
@@ -954,7 +968,7 @@
    "notes": "Achaemenid royal inscriptions (Behistun); cross-link Persian, Avestan, Sanskrit"
   },
   {
-   "number": 110,
+   "number": 109,
    "name": "Middle Persian",
    "iso": "pal",
    "group": "Dead and classical",
@@ -964,7 +978,7 @@
    "iso_note": "ISO name: Pahlavi"
   },
   {
-   "number": 111,
+   "number": 110,
    "name": "Avestan",
    "iso": "ave",
    "group": "Dead and classical",
@@ -973,7 +987,7 @@
    "notes": "Gāthās and Younger Avesta; cross-link Sanskrit and Old Persian"
   },
   {
-   "number": 112,
+   "number": 111,
    "name": "Mycenaean Greek",
    "iso": "gmy",
    "group": "Dead and classical",
@@ -982,7 +996,7 @@
    "notes": "How Linear B was deciphered; tablets from Pylos and Knossos; established vs probable stated; cross-link Ancient Greek"
   },
   {
-   "number": 113,
+   "number": 112,
    "name": "Old Turkic",
    "iso": "otk",
    "group": "Dead and classical",
@@ -992,7 +1006,7 @@
    "iso_note": "ISO name: Old Turkish"
   },
   {
-   "number": 114,
+   "number": 113,
    "name": "Demotic Egyptian",
    "iso": "qde",
    "group": "Dead and classical",
@@ -1002,7 +1016,7 @@
    "iso_note": "No separate ISO code (egy covers all stages of Egyptian); private-use qde. Related: egy, cop"
   },
   {
-   "number": 115,
+   "number": 114,
    "name": "Danish",
    "iso": "dan",
    "group": "Europe, less common",
@@ -1011,7 +1025,7 @@
    "notes": "Spoken Danish's reductions (stød, soft d) taught alongside the spelling; cross-link Norwegian, Swedish, Old Norse"
   },
   {
-   "number": 116,
+   "number": 115,
    "name": "Norwegian",
    "iso": "nob",
    "group": "Europe, less common",
@@ -1021,7 +1035,7 @@
    "iso_note": "Norwegian Bokmål nob (macrolanguage nor; Nynorsk nno described, not taught)"
   },
   {
-   "number": 117,
+   "number": 116,
    "name": "Swedish",
    "iso": "swe",
    "group": "Europe, less common",
@@ -1030,7 +1044,7 @@
    "notes": "Pitch accent; cross-link Danish, Norwegian, Old Norse"
   },
   {
-   "number": 118,
+   "number": 117,
    "name": "Nepali",
    "iso": "npi",
    "group": "Asia and Pacific",
@@ -1040,7 +1054,7 @@
    "iso_note": "Nepali individual language npi (macrolanguage nep)"
   },
   {
-   "number": 119,
+   "number": 118,
    "name": "Egyptian Arabic",
    "iso": "arz",
    "group": "Major living",
@@ -1049,7 +1063,7 @@
    "notes": "Cairene; cross-link MSA and Moroccan Darija; flag MSA forms"
   },
   {
-   "number": 120,
+   "number": 119,
    "name": "Levantine Arabic",
    "iso": "apc",
    "group": "Major living",
@@ -1059,7 +1073,7 @@
    "iso_note": "ISO 639-3 apc now covers North and South Levantine (ajp retired)"
   },
   {
-   "number": 121,
+   "number": 120,
    "name": "Yiddish",
    "iso": "ydd",
    "group": "Europe, less common",
@@ -1069,7 +1083,7 @@
    "iso_note": "Eastern Yiddish ydd (macrolanguage yid)"
   },
   {
-   "number": 122,
+   "number": 121,
    "name": "Catalan",
    "iso": "cat",
    "group": "Europe, less common",
@@ -1078,7 +1092,7 @@
    "notes": "Central (Barcelona) standard; cross-link Spanish, French, Occitan"
   },
   {
-   "number": 123,
+   "number": 122,
    "name": "Galician",
    "iso": "glg",
    "group": "Europe, less common",
@@ -1087,7 +1101,7 @@
    "notes": "Cross-link Spanish and Portuguese (Portuguese itself is excluded from the list)"
   },
   {
-   "number": 124,
+   "number": 123,
    "name": "Ukrainian",
    "iso": "ukr",
    "group": "Europe, less common",
@@ -1096,7 +1110,7 @@
    "notes": "Cross-link Russian and Polish"
   },
   {
-   "number": 125,
+   "number": 124,
    "name": "Czech",
    "iso": "ces",
    "group": "Europe, less common",
@@ -1105,7 +1119,7 @@
    "notes": "Standard written Czech with common spoken Czech labelled"
   },
   {
-   "number": 126,
+   "number": 125,
    "name": "Estonian",
    "iso": "ekk",
    "group": "Europe, less common",
@@ -1115,7 +1129,7 @@
    "iso_note": "Standard Estonian ekk (macrolanguage est)"
   },
   {
-   "number": 127,
+   "number": 126,
    "name": "Latvian",
    "iso": "lvs",
    "group": "Europe, less common",
@@ -1125,7 +1139,7 @@
    "iso_note": "Standard Latvian lvs (macrolanguage lav)"
   },
   {
-   "number": 128,
+   "number": 127,
    "name": "Uyghur",
    "iso": "uig",
    "group": "Caucasus and Central Asia",
@@ -1134,7 +1148,7 @@
    "notes": "Turkic in Arabic script; cross-link Turkish, Uzbek, Arabic script"
   },
   {
-   "number": 129,
+   "number": 128,
    "name": "Uzbek",
    "iso": "uzn",
    "group": "Caucasus and Central Asia",
@@ -1144,7 +1158,7 @@
    "iso_note": "Northern Uzbek uzn (macrolanguage uzb)"
   },
   {
-   "number": 130,
+   "number": 129,
    "name": "Kyrgyz",
    "iso": "kir",
    "group": "Caucasus and Central Asia",
@@ -1153,7 +1167,7 @@
    "notes": "Cross-link Kazakh"
   },
   {
-   "number": 131,
+   "number": 130,
    "name": "Turkmen",
    "iso": "tuk",
    "group": "Caucasus and Central Asia",
@@ -1162,7 +1176,7 @@
    "notes": "Cross-link Turkish, Azerbaijani"
   },
   {
-   "number": 132,
+   "number": 131,
    "name": "Azerbaijani",
    "iso": "azj",
    "group": "Caucasus and Central Asia",
@@ -1172,16 +1186,7 @@
    "iso_note": "North Azerbaijani azj (macrolanguage aze)"
   },
   {
-   "number": 133,
-   "name": "Dari",
-   "iso": "prs",
-   "group": "Caucasus and Central Asia",
-   "script": "Perso-Arabic",
-   "depth": "B",
-   "notes": "Afghan Persian; built as a companion to the Persian guide: what differs in sounds, words and grammar; cross-link Pashto"
-  },
-  {
-   "number": 134,
+   "number": 132,
    "name": "Yakut (Sakha)",
    "iso": "sah",
    "group": "Caucasus and Central Asia",
@@ -1190,25 +1195,24 @@
    "notes": "Siberian Turkic; cross-link Turkish"
   },
   {
-   "number": 135,
+   "number": 133,
    "name": "Tibetan",
    "iso": "bod",
    "group": "Asia and Pacific",
    "script": "Tibetan + Wylie",
    "depth": "A",
-   "notes": "Modern spoken Lhasa (Central) Tibetan; cross-link Classical Tibetan"
+   "notes": "Modern spoken Lhasa (Central) Tibetan; cross-link Classical Tibetan",
+   "companions": [
+    {
+     "name": "Dzongkha",
+     "iso": "dzo",
+     "part": 10,
+     "description": "Bhutan's national language: how it differs from Lhasa Tibetan, and reading it in Tibetan script"
+    }
+   ]
   },
   {
-   "number": 136,
-   "name": "Dzongkha",
-   "iso": "dzo",
-   "group": "Asia and Pacific",
-   "script": "Tibetan + romanisation",
-   "depth": "B",
-   "notes": "Cross-link Tibetan and Classical Tibetan"
-  },
-  {
-   "number": 137,
+   "number": 134,
    "name": "Dhivehi",
    "iso": "div",
    "group": "Asia and Pacific",
@@ -1217,7 +1221,7 @@
    "notes": "Thaana script (right to left); cross-link Sinhala-related Indo-Aryan and Arabic loans"
   },
   {
-   "number": 138,
+   "number": 135,
    "name": "Lao",
    "iso": "lao",
    "group": "Asia and Pacific",
@@ -1226,7 +1230,7 @@
    "notes": "Tones; cross-link Thai"
   },
   {
-   "number": 139,
+   "number": 136,
    "name": "Malayalam",
    "iso": "mal",
    "group": "Asia and Pacific",
@@ -1235,17 +1239,7 @@
    "notes": "Diglossia noted; cross-link Tamil, Telugu, Sanskrit"
   },
   {
-   "number": 140,
-   "name": "Malay",
-   "iso": "zsm",
-   "group": "Asia and Pacific",
-   "script": "Latin",
-   "depth": "A",
-   "notes": "Standard Malay (Malaysia); cross-link Indonesian",
-   "iso_note": "Standard Malay zsm (macrolanguage msa)"
-  },
-  {
-   "number": 141,
+   "number": 137,
    "name": "Javanese",
    "iso": "jav",
    "group": "Asia and Pacific",
@@ -1254,7 +1248,7 @@
    "notes": "Speech levels (ngoko, krama); cross-link Indonesian, Balinese"
   },
   {
-   "number": 142,
+   "number": 138,
    "name": "Tetun",
    "iso": "tdt",
    "group": "Asia and Pacific",
@@ -1264,7 +1258,7 @@
    "iso_note": "Tetun Dili tdt (tet is Tetun Terik)"
   },
   {
-   "number": 143,
+   "number": 139,
    "name": "Papiamentu",
    "iso": "pap",
    "group": "Americas",
@@ -1274,7 +1268,7 @@
    "iso_note": "ISO name: Papiamento"
   },
   {
-   "number": 144,
+   "number": 140,
    "name": "Afrikaans",
    "iso": "afr",
    "group": "Africa",
@@ -1283,7 +1277,7 @@
    "notes": "Cross-link Dutch"
   },
   {
-   "number": 145,
+   "number": 141,
    "name": "Xhosa",
    "iso": "xho",
    "group": "Africa",
@@ -1292,7 +1286,7 @@
    "notes": "Clicks and noun classes; cross-link Zulu, Swahili"
   },
   {
-   "number": 146,
+   "number": 142,
    "name": "Oromo",
    "iso": "gaz",
    "group": "Africa",
@@ -1302,7 +1296,7 @@
    "iso_note": "West Central Oromo gaz (macrolanguage orm)"
   },
   {
-   "number": 147,
+   "number": 143,
    "name": "Lingala",
    "iso": "lin",
    "group": "Africa",
@@ -1311,7 +1305,7 @@
    "notes": "Bantu lingua franca of the Congo; cross-link Swahili"
   },
   {
-   "number": 148,
+   "number": 144,
    "name": "Fula",
    "iso": "ful",
    "group": "Africa",
@@ -1321,7 +1315,7 @@
    "iso_note": "Macrolanguage ful; the dossier fixes the variety and its individual code"
   },
   {
-   "number": 149,
+   "number": 145,
    "name": "Imperial and Biblical Aramaic",
    "iso": "arc",
    "group": "Dead and classical",
@@ -1331,7 +1325,7 @@
    "iso_note": "ISO name: Official Aramaic (700–300 BCE); Biblical Aramaic included"
   },
   {
-   "number": 150,
+   "number": 146,
    "name": "Chagatai",
    "iso": "chg",
    "group": "Dead and classical",
@@ -1340,7 +1334,7 @@
    "notes": "Classical Central Asian Turkic: Navoi, Babur's Baburnama; cross-link Uzbek, Uyghur, Ottoman Turkish, Persian"
   },
   {
-   "number": 151,
+   "number": 147,
    "name": "Oscan",
    "iso": "osc",
    "group": "Dead and classical",
@@ -1349,7 +1343,7 @@
    "notes": "Inscriptions (Tabula Bantina, Cippus Abellanus); Sabellic sister of Latin; established vs probable stated; cross-link Latin and Umbrian"
   },
   {
-   "number": 152,
+   "number": 148,
    "name": "Umbrian",
    "iso": "xum",
    "group": "Dead and classical",
@@ -1358,7 +1352,7 @@
    "notes": "The Iguvine Tables; cross-link Latin and Oscan"
   },
   {
-   "number": 153,
+   "number": 149,
    "name": "Elamite",
    "iso": "elx",
    "group": "Dead and classical",
@@ -1368,7 +1362,7 @@
    "deferred": true
   },
   {
-   "number": 154,
+   "number": 150,
    "name": "Tangut",
    "iso": "txg",
    "group": "Dead and classical",
@@ -1378,7 +1372,7 @@
    "deferred": true
   },
   {
-   "number": 155,
+   "number": 151,
    "name": "Khotanese",
    "iso": "kho",
    "group": "Dead and classical",
@@ -1388,7 +1382,7 @@
    "deferred": true
   },
   {
-   "number": 156,
+   "number": 152,
    "name": "Old Tibetan",
    "iso": "otb",
    "group": "Dead and classical",
@@ -1397,7 +1391,7 @@
    "notes": "Imperial-era inscriptions and Dunhuang documents (Old Tibetan Annals); cross-link Classical Tibetan"
   },
   {
-   "number": 157,
+   "number": 153,
    "name": "Old Tamil",
    "iso": "oty",
    "group": "Dead and classical",

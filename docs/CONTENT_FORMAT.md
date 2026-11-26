@@ -109,3 +109,7 @@ Fields: headword | transliteration (or `-`) | part of speech | meaning | optiona
 ## Review lessons
 
 Syllabus entries with `"review": true` (slug `review` at the end of parts 2 to 7, `review-midway` in the middle of long parts) are progress checks. They introduce no grammar and no required vocabulary. Sections: `## Passage` (a connected text to translate, attested where one fits the level, otherwise constructed; given as `:::example` blocks line by line or as plain text with the analysis in the answers), optionally `## Before you start` (what the review covers, with lesson pointers), then `## Exercises` (8 to 25: translate the passage, build sentences, find and fix errors, explain a form) and `## Worked answers` (same number, each showing the reasoning and naming the lesson that teaches the point). Words not yet taught may appear only if glossed in place.
+
+## Companion parts
+
+A companion part (part 10) covers a closely related variety at the end of its host guide (see BRIEF.md Amendments). It follows the ordinary lesson template, may assume everything in the host guide, and teaches only differences. Its lessons use the host's ids (`ind-10-01` …), its own `:::vocab` blocks (only words that differ), and end with a review lesson. Gloss conventions are the host's.

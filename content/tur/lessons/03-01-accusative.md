@@ -19,7 +19,7 @@ When you mean a particular book, one you and the listener both have in mind, Tur
 
 **Why mark only some objects?** Turkish has no word for "the" (tur-02-01). For objects, the accusative does that job: it says "this noun is the object" and "you know which one". A bare object is welded to the verb as part of the activity, and its identity does not matter. *Kitap okuyorum* describes what you are doing (book-reading). *Kitabı okuyorum* is about a book.
 
-The subject never takes the accusative: a subject is always bare (goksel2005 §14.3.3.1).
+The subject never takes the accusative: the subject of a main clause is bare (goksel2005 §14.3.3.1).
 
 **Specific, not only definite.** An object can also be new to the listener while the speaker has a particular one in mind. *Bir öğrenci arıyorum* "I'm looking for a student" means any student will do. *Bir öğrenciyi arıyorum* means "I'm looking for a (particular) student", one the speaker could name (goksel2005 §22.2.1). **Specific** means the speaker has one particular thing in mind, whether or not the listener knows it. So *bir* "a" and the accusative can stand together; they answer different questions.
 
@@ -48,7 +48,7 @@ Neither change can be predicted from the bare form; the words are learnt one by 
 3. *Gömlek* ends in a consonant: no buffer. Last vowel *e*: *-i*. The *k* comes between vowels: *ğ*. *Gömleği.*
 4. Object before the verb: *Gömleği yıkıyorum.*
 
-**Word order.** A bare object must stand directly before the verb. An object placed further left takes the accusative even if it is not definite (goksel2005 §14.3.3.2): *Ali kitap okuyor*, but *Kitabı Ali okuyor* "It's Ali who's reading the book".
+**Word order.** A bare object must stand directly before the verb. An object placed further left normally takes the accusative even if it is not definite (goksel2005 §14.3.3.2: "usually necessary"): *Ali kitap okuyor*, but *Kitabı Ali okuyor* "It's Ali who's reading the book".
 
 **Stress.** *-(y)I* takes the stress like most suffixes: *kitabí*, *arabayí* (tur-01-07).
 
@@ -139,7 +139,7 @@ orig: Gazeteyi Mehmet okuyor.
 morphemes: gazete-yi Mehmet oku-yor
 gloss: newspaper-ACC Mehmet read-PROG
 translation: It's Mehmet who's reading the newspaper.
-note: The object is away from the verb, so it must be in the accusative; Mehmet, next to the verb, is the focus (tur-02-07).
+note: The object is away from the verb, so it takes the accusative; Mehmet, next to the verb, is the focus (tur-02-07).
 source: constructed
 confidence: constructed
 :::
@@ -184,7 +184,7 @@ confidence: constructed
 - ***Kimse*** "anyone, no one" with a negative, and the question word *kim* "who" (tur-03-12): these are not definite, but they always take it as objects (goksel2005 §22.1): *Kimseyi tanımıyorum* "I don't know anyone".
 - **A specific indefinite**, with *bir*: *Bir öğrenciyi arıyorum* (goksel2005 §22.2.1).
 - **One of a group already mentioned**: if you have been talking about some books, *iki kitabı* is "two of the books" (goksel2005 §14.3.3.2).
-- **Any object not right before the verb**, whatever its meaning: *Gazeteyi Mehmet okuyor* (goksel2005 §14.3.3.2).
+- **Any object not right before the verb**, whatever its meaning, as a rule: *Gazeteyi Mehmet okuyor* (goksel2005 §14.3.3.2).
 - **A plural object meaning a whole class**: *Kedileri sevmiyorum*, *Doktorları sevmiyor* (goksel2005 §22.4.3). A singular bare object can say the same: *Kedi sevmiyorum*.
 - **Something treated as an institution**: *Okulu sevmiyor* "he doesn't like school" (goksel2005 §22.4.3).
 - **An object with a possessive suffix**, always: *kitabımı* "my book" (tur-03-04).
@@ -289,4 +289,4 @@ Japanese を and Korean 을/를 mark nearly every object, known or not; Turkish 
 7. *Bu kazağı beğeniyorum.* *Bu* makes the object definite; *k* becomes *ğ* between vowels.
 8. *Oğl-u*: the stem *oğul* loses the *u* of its last syllable before a suffix vowel, and the *u* you see is the accusative's own vowel, chosen by four-way harmony from the *o* of *oğl-*. "The son" as object. (The same form will also mean "his son" in tur-03-04.)
 9. *Herkesi tanıyorum.* *Herkes* counts as definite and takes the accusative as an object. *Şehri görüyor musun?* *Şehir* loses its second *i* before a vowel.
-10. *Ayşe* is in the focus slot, so the object is not next to the verb, and an object away from the verb takes the accusative (goksel2005 §14.3.3.2).
+10. *Ayşe* is in the focus slot, so the object is not next to the verb, and an object away from the verb normally takes the accusative (goksel2005 §14.3.3.2).

@@ -112,7 +112,7 @@
   },
   "PST": {
    "name": "past",
-   "plain": "the augment a-, a prefix that puts a verb in past time; also marks past participles",
+   "plain": "the augment a-, a prefix that puts a verb in past time; also in PST.PTCP, the past participle",
    "tag": "augment"
   },
   "IMP": {
@@ -141,8 +141,8 @@
    "tag": "passive"
   },
   "CVB": {
-   "name": "converb (absolutive)",
-   "plain": "an unchanging verb form meaning 'having done', linking one action to the main verb; Indologists call it the absolutive or gerund",
+   "name": "absolutive (converb)",
+   "plain": "an unchanging verb form in -tvā or -ya meaning 'having done', linking one action to the main verb; Indologists call it the absolutive or gerund",
    "tag": "converb"
   },
   "INF": {

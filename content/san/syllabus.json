@@ -24,7 +24,7 @@
   {
    "part": 4,
    "title": "Verbs: the core system",
-   "summary": "Roots and present classes, the middle voice, the imperfect, prefixes, imperative and optative, consonant sandhi, the athematic classes, the past participle and passive, converb and infinitive, future, perfect, aorist and the present participles."
+   "summary": "Roots and present classes, the middle voice, the imperfect, prefixes, imperative and optative, consonant sandhi, the athematic classes, the past participle and passive, absolutive and infinitive, future, perfect, aorist and the present participles."
   },
   {
    "part": 5,
@@ -562,7 +562,7 @@
    "order": 16,
    "slug": "n-stems",
    "title": "Stems in -an and -man: three grades",
-   "point": "Decline rājan, ātman, nāman and karman with their strong, middle and weakest stems",
+   "point": "Decline rājan, ātman, nāman and karman with their strong, middle and weakest stems, and use ātman and svayam for 'oneself'",
    "requires": [
     "san-03-15",
     "san-03-14"
@@ -577,7 +577,7 @@
    "order": 17,
    "slug": "vat-mat-in-stems",
    "title": "Stems in -vat, -mat and -in",
-   "point": "Decline bhagavat and balin, and recognise 'having X' adjectives",
+   "point": "Decline bhagavat and balin, recognise 'having X' adjectives, and address someone politely with bhavān and a third-person verb",
    "requires": [
     "san-03-16"
    ],
@@ -831,8 +831,8 @@
    "part": 4,
    "order": 15,
    "slug": "converb",
-   "title": "One action, then another: the converb in -tvā and -ya",
-   "point": "Chain actions with the converb, the backbone of Sanskrit narrative",
+   "title": "One action, then another: the absolutive in -tvā and -ya",
+   "point": "Chain actions with the absolutive (a converb), the backbone of Sanskrit narrative",
    "requires": [
     "san-04-14",
     "san-04-04"
@@ -876,7 +876,7 @@
    "order": 18,
    "slug": "perfect",
    "title": "The perfect",
-   "point": "Form the reduplicated perfect, read it as the narrative past of the epics, and know uvāca, jagāma, babhūva, āha and veda",
+   "point": "Form the reduplicated perfect, read it as the narrative past of the epics, know uvāca, jagāma, babhūva, āha and veda, and recognise the perfect participle (vidvān)",
    "requires": [
     "san-04-17",
     "san-04-09",
@@ -952,7 +952,7 @@
    "order": 2,
    "slug": "pronominal-adjectives",
    "title": "All, other, one: the pronominal adjectives",
-   "point": "Decline sarva, anya, para, eka and their kind with pronominal endings",
+   "point": "Decline sarva, anya, para, eka, sva and their kind with pronominal endings",
    "requires": [
     "san-05-01",
     "san-03-09"
@@ -1305,7 +1305,7 @@
    "order": 5,
    "slug": "secondary-derivation",
    "title": "Building words from words: vṛddhi and secondary suffixes",
-   "point": "Recognise taddhita derivatives such as pāṇḍava, śaiva, -tva, -tā, -ka, -ya, -maya",
+   "point": "Recognise taddhita derivatives such as pāṇḍava, śaiva, -tva, -tā, -ka, -ya, -maya, and the possessives madīya, tvadīya, māmaka",
    "requires": [
     "san-07-04",
     "san-03-11",

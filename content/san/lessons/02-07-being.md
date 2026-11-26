@@ -17,7 +17,7 @@ sources: [whitney1889, speijer1886, mw1899, wiktionary, gretil]
 
 Speijer (§2) is blunt about it. The verb "be" is commonly not added to a noun predicate; logically it is of no use, and its compulsory use in modern Western languages "is rather to be called an abuse". A **predicate** is what the sentence says about its subject. Here it is a noun or an adjective, and it stands in the nominative, like the subject (Whitney §267). So a Sanskrit sentence can be two nominatives side by side.
 
-The verb "be" exists, of course. It is √as, with the forms *asmi* "I am", *asi* "you are", *asti* "he, she, it is", and so on. It is needed in three situations, which Speijer (§2) names: when "be" means "exist, be there"; when the tense or mood must be shown; and, by choice, for emphasis. Arabic and Russian work the same way: *al-maliku kabīrun* "the king (is) big" has no verb, but "the king was big" needs one.
+The verb "be" exists, of course. It is √as, with the forms *asmi* "I am", *asi* "you are", *asti* "he, she, it is", and so on. It is needed in two situations, which Speijer (§2) names: when "be" means "exist, be there", and when the tense or mood must be shown. It may also be added by choice, as in Speijer's example "I alone am guilty". Arabic and Russian work the same way: *al-maliku kabīrun* "the king (is) big" has no verb, but "the king was big" needs one.
 
 A second verb, √bhū, means "become" and also "be". Its present *bhavati* "becomes, comes to be, is" is a regular verb of the type you know (*bhava-ti*). Speijer (§3) says it is the right verb when the stress is on the subject's taking on a quality or state.
 

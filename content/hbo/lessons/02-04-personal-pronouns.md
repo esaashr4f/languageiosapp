@@ -271,7 +271,7 @@ Arabic pronouns are close cousins: *ʾanā*, *ʾanta*, *ʾanti*, *huwa*, *hiya*,
 3. *ʾiššâ ʾatt*. The person addressed is a woman, so second person singular feminine, *ʾatt*. The predicate is indefinite, "a woman".
 4. *hēmmâ*: `3PL.M` "they" (masculine). *hîʾ*: `3SG.F` "she, it".
 5. With a pronoun subject the new information usually comes first: the pronoun names someone already known, the predicate says something new (Gesenius §141l, n).
-6. *ʾănî kōhēn* (or *kōhēn ʾānî*). *Hûʾ* is third person and cannot link "I" to anything; a verbless clause needs no link.
+6. *ʾănî kōhēn* (or *kōhēn ʾănî*). *Hûʾ* is third person and cannot link "I" to anything; a verbless clause needs no link.
 7. In the Torah the consonantal text normally writes הוא for both genders. The Masoretes pointed it with ḥireq to show the reading *hîʾ* (a perpetual qere, lesson 1.9; Gesenius §32l).
 8. "The LORD is God" (or "the LORD, he is God"). *Hûʾ* repeats the subject and strengthens it; it agrees with *YHWH* as third person singular masculine (Gesenius §141h).
 9. *qāḏôš hûʾ*. Predicate adjective first, no article, then the pronoun.

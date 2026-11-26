@@ -83,7 +83,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 15. *Rōma multō maior est quam Carthāgō*, or *Rōma Carthāgine multō maior est*. *Multō*: degree of difference; *Carthāgine*: ablative of comparison (lessons 4 and 8).
 16. *Cum tribus mīlibus mīlitum et duābus legiōnibus.* *Mīlia* is a noun with the genitive; *duo* agrees with the feminine *legiōnibus* (lesson 5).
 17. *Cīvēs, hostēs timentēs, equitēs oppidō auxiliō mīsērunt.* *Timentēs*: present participle agreeing with *cīvēs* (lesson 7). *Oppidō auxiliō*: double dative (lesson 9).
-18. *Quendam in forō vīdī, sed cum nūllō locūtus sum*, or *… sed nēminī dīxī*. *Quendam*: a particular man (lesson 10). After a negative, "anyone" is *quisquam*, but Latin prefers the negative word: *cum nūllō* uses *nūllus* for the ablative of *nēmō* (lessons 2 and 10).
+18. *Quendam in forō vīdī, sed cum nūllō locūtus sum*, or *… sed nēminī dīxī*. *In forō*: *in* + ablative of *forum*, *-ī* n. "forum, public square" (glossed here; taught in part 6, lesson 2). *Quendam*: a particular man (lesson 10). After a negative, "anyone" is *quisquam*, but Latin prefers the negative word: *cum nūllō* uses *nūllus* for the ablative of *nēmō* (lessons 2 and 10).
 19. *Sua quisque laudat, et nēmō aliēnīs contentus est.* *Quisque* after the reflexive; *contentus* with the ablative; *aliēnus* "another's" in place of the genitive of *alius* (lessons 2, 8 and 10).
 20. *In urbe ingentī omnēs mīlitēs fortēs erant.* The adjective ablative is *-ī*; *fortis* must agree with *mīlitēs*, nominative plural (lesson 1).
 21. *Dux sapientior est quam frāter suus.* *Sapiēns* has its own comparative; after *quam* the second term is in the same case as the first, nominative (lesson 4).

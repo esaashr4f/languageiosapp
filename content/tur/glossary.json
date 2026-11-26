@@ -221,6 +221,21 @@
   "head-final": "Putting the main word of a phrase last, as Turkish does (tur-02-07).",
   "focus": "The new or emphasised part of a sentence, placed just before the verb (tur-02-07).",
   "infinitive": "The dictionary form of a verb, in -mAk (tur-02-08).",
-  "progressive": "The -(I)yor form for what is going on now (tur-02-08)."
+  "progressive": "The -(I)yor form for what is going on now (tur-02-08).",
+  "direct object": "The thing or person acted on (tur-03-01).",
+  "definite": "Referring to a particular, known thing (tur-03-01).",
+  "specific": "Referring to one particular thing the speaker has in mind; specific objects take the accusative (tur-03-01).",
+  "possessive suffix": "The ending that says whose something is: -(I)m 'my', -(I)n 'your' (tur-03-04).",
+  "possessor": "The one who owns or has (tur-03-05).",
+  "genitive-possessive construction": "Possessor in the genitive plus possessed noun with a possessive suffix: Ali'nin evi (tur-03-05).",
+  "pronominal n": "The n that appears between a third-person possessive and a case ending: evi-n-de (tur-03-06).",
+  "noun compound": "Two nouns joined, the second with -(s)I (or bare): kapı numarası (tur-03-08).",
+  "possessive existential sentence": "A 'have' sentence built with a possessive and var/yok (tur-03-09).",
+  "pronoun": "A word standing in for a noun (tur-03-10).",
+  "demonstrative": "A pointing word: bu, şu, o (tur-03-11).",
+  "determiner": "A word before a noun that fixes its reference, such as bu or her (tur-03-11).",
+  "question word": "A word asking for information: kim, ne, nerede (tur-03-12).",
+  "comitative-instrumental": "The -(y)lA ending meaning 'with' (company or tool) (tur-03-13).",
+  "postposition": "A word after a noun showing relation, like ile (tur-03-13)."
  }
 }

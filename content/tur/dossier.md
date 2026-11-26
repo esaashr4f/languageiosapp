@@ -318,6 +318,15 @@ Translations are always our own.
 
 ## Notes from verifying part 2 (2026-11-26)
 
-- Apostrophe rule: proper nouns, including nationality nouns, take an apostrophe before person and copular endings as well as case and possessive endings: Türk'üm, Japon'sunuz, Koreli'yim, Türk'ü, İngiliz'e (TDK kesme işareti rules). Wiktionary's predicate tables omit it: do not copy them.
+- Apostrophe rule: proper nouns, including nationality nouns, take an apostrophe before person and copular endings as well as case and possessive endings: Türk'üm, Japon'sunuz, Türk'ü, İngiliz'e; but no apostrophe after a derivational suffix such as -lI: Avrupalı, Hollandalıdan, Koreliyim (TDK) (TDK kesme işareti rules). Wiktionary's predicate tables omit it: do not copy them.
 - Sentence-stress capitals follow G&K: capitalise only the stressed syllable (kiTAP, maSA, iYİ, deĞİL). değil stress: G&K §19.1.1.2 ex. 13–14.
 - napıyosun remains unverified; do not use it.
+
+
+## Notes from drafting part 3 (2026-11-26)
+
+- No apostrophe on endings of institution names (İstanbul Üniversitesinde, TDK) or after derivational suffixes (Koreliyim).
+- Pronoun genitives: benim, bizim glossed fused 1SG.GEN / 1PL.GEN; others segmented (sen-in, on-un, siz-in, onlar-ın); with -(y)lA: benim-le, on-un-la, kim-in-le.
+- Compound marker glossed 3SG.POSS; pronominal n with the case (ev-i-nde, ev-de-ki-ni); -(y)lA after a possessive takes y (araba-sı-yla); nere-, bura-, ora- segmented as stem + case; bun-u, bun-lar.
+- Wiktionary errors: yatak odası accusative is yatak odasını (not -sıyı); grip accusative gribi (TDK) vs Wiktionary gripi. şehir dative şehre or şehire (G&K §2.3); lessons write şehre.
+- For part 4: ziyaret etmek, sabahları, çünkü, bazen, sözlük, daha glossed in place but not in vocab; etmek (ed- before a vowel), yardım/teşekkür/telefon etmek in vocab from tur-03-10. Promised: vardı tur-04-08; olmak, sahip olmak tur-04-16; teşekkür ederim tur-04-05; kaçta tur-05-04; postpositions tur-05-06; location nouns tur-05-07; conjunction ki tur-06-12.

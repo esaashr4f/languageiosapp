@@ -45,9 +45,9 @@ To build a neutral sentence, put the parts in this order:
 
 - **A bare object**, one with no case ending: *kitap okuyor*, *çay içiyor*, *mektup yazıyor*. Such an object is not a particular book or letter; it fuses with the verb into one idea, "book-reading", "letter-writing".
 - **The predicate noun or adjective** of a sentence with a verb of being, met in part 4.
-- **A new, indefinite subject**: *Bahçede bir kedi var*, where *bir kedi* is the new thing and sits before *var*.
+- **A new, indefinite subject**, which tends to stand there (goksel2005 §23.2.1); in an existential sentence the thing that exists takes this slot (goksel2005 §23.1.2.2): *Bahçede bir kedi var*, where *bir kedi* is the new thing and sits before *var*.
 
-**Where the stress goes.** In a neutral sentence with a verb, the main stress falls on the word just before the verb (goksel2005 §23.1): *Ayşe kütüphanede KİTAP okuyor*. In a positive existential it falls on the thing that exists, which is the same slot; in "x is y" sentences on the predicate; in negatives on *değil* or *yok* (tur-02-04, tur-02-06).
+**Where the stress goes.** In a neutral sentence with a verb, the main stress falls on the word just before the verb (goksel2005 §23.1): *Ayşe kütüphanede kiTAP okuyor*. In a positive existential it falls on the thing that exists, which is the same slot; in "x is y" sentences on the predicate; in negatives on *değil* or *yok* (tur-02-04, tur-02-06).
 
 **To give a word extra weight**, which Göksel and Kerslake call **focus**, move it into the slot just before the predicate and stress it, or stress it where it is (goksel2005 §23.3.1). A bare object never gives up that slot, so for now practise focus in sentences without one: *Bahçede ALİ var* "it is *Ali* who is in the garden".
 
@@ -180,7 +180,7 @@ confidence: constructed
 
 **Do not put the place last as in English.** "Ayşe is drinking tea in the kitchen" invites *\*Ayşe çay içiyor mutfakta* as a neutral sentence. The place comes before the object: *Ayşe mutfakta çay içiyor*.
 
-**Do not move a bare object to the front for emphasis.** *\*Kitap Ali okuyor* does not mean "Ali is reading a *book*". A bare object stays before the verb; to stress it, stress it there: *Ali KİTAP okuyor*.
+**Do not move a bare object to the front for emphasis.** *\*Kitap Ali okuyor* does not mean "Ali is reading a *book*". A bare object stays before the verb; to stress it, stress it there: *Ali kiTAP okuyor*.
 
 **Do not put *mI* or a question word after the predicate.** *\*Yazıyor Ayşe mektup mu?* is wrong. The questioned word stands before the predicate.
 
@@ -188,7 +188,7 @@ confidence: constructed
 
 **Do not read word order as grammar in the English way.** Swapping *Kedi bahçede* and *Bahçede kedi* does not swap subject and place: the locative ending shows which word is the place. What changes is what counts as known and what as new.
 
-**Do not confuse Turkish freedom with Japanese freedom.** Japanese also puts the verb last and moves the rest fairly freely, but it marks every role with a particle. Turkish leaves the subject and non-specific objects bare, so their position matters more: a bare object must stay next to the verb.
+**Do not confuse Turkish freedom with Japanese freedom.** Japanese also puts the verb last and moves the rest fairly freely, but it marks most roles with a particle. Turkish leaves the subject and non-specific objects bare, so their position matters more: a bare object must stay next to the verb.
 
 ## New words
 

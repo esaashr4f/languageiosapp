@@ -30,7 +30,7 @@ Allen and Greenough warn that "the concessive idea is rather vague and general, 
 
 For proviso, *dum*, *modo* and *dummodo* "provided that" take the subjunctive, negative *nē* (ag1903 §528). Allen and Greenough explain *modo* + subjunctive as a wish ("only let it be…") and *dum* + subjunctive as growing out of *dum* "until" (lesson 3): English "so long as my health is good, I don't care" shows the same step (§528 note).
 
-For comparison, *quasi*, *tamquam*, *velut sī*, *ac sī*, *ut sī* "as if" take the subjunctive. Allen and Greenough explain that these are really conditions with the main clause folded into the particle (ag1903 §524 note 1): *quasi* is *quam sī* "as (it would be) if".
+For comparison, *quasi*, *tamquam*, *velut sī*, *ac sī*, *ut sī* "as if" take the subjunctive. Allen and Greenough explain that these are really conditions with the main clause folded into the particle (ag1903 §524 note 1); *quasi* itself is *quam* + *sī*, "as (it would be) if" (Wiktionary).
 
 ## How it is built
 
@@ -133,7 +133,7 @@ orig: Magnō mē metū līberābis, dummodo inter mē atque tē mūrus intersit.
 morphemes: magn-ō mē met-ū līberā-bi-s dummodo inter mē atque tē mūr-us intersit
 gloss: great-ABL.SG.M 1SG.ACC fear-ABL.SG free-FUT-2SG provided.that between 1SG.ACC and 2SG.ACC wall-NOM.SG be.between.SBJV.3SG
 translation: You will free me from great fear, provided that there is a wall between you and me.
-note: Cicero urging Catiline to leave Rome. dummodo with the present subjunctive (ag1903 §528); intersum is sum with inter (part 4, lesson 16).
+note: Cicero urging Catiline to leave Rome. dummodo with the present subjunctive (ag1903 §528); The Latin Library prints it as two words, dum modo; intersum is sum with inter (part 4, lesson 16).
 source: Cicero, Against Catiline 1.10
 confidence: attested
 :::
@@ -154,7 +154,7 @@ morphemes: absent-is Ariovist-ī crūdēlitāt-em velut sī cōram adesset horr�
 gloss: absent-GEN.SG Ariovistus-GEN.SG cruelty-ACC.SG just.as if in.person be.present.IPFV.SBJV.3SG dread-IPFV.SBJV-3PL
 translation: They dreaded the cruelty of Ariovistus even in his absence, as if he were there in person.
 note: The Sequani, as reported by the Aeduan Diviciacus. velut sī with the imperfect by secondary sequence; horrērent is subjunctive because the whole is reported speech (lesson 6).
-source: Caesar, Gallic War 1.32.4
+source: Caesar, Gallic War 1.32.4-5
 confidence: attested
 :::
 
@@ -174,7 +174,7 @@ confidence: constructed
 
 - **A fact admitted**: *quamquam* + indicative. Also "and yet", opening a sentence (§527d note).
 - **A supposition granted, "however much"**: *quamvīs* + subjunctive; poets and later writers also use the indicative (§527e).
-- **"It is granted that"**: *licet* + present or perfect subjunctive: *licet omnēs terrōrēs impendeant* "though every terror should threaten" (Cicero, quoted in ag1903 §527b).
+- **"It is granted that"**: *licet* + present or perfect subjunctive: *licet omnēs mihi terrōrēs perīculaque impendeant* "though all terrors and dangers should threaten me" (Cicero, quoted in ag1903 §527b).
 - **"Granting that"**: *ut* (*ut nōn*) + subjunctive (§527a).
 - **"Even if"**: *etsī*, *etiam sī*, *tametsī*, with the moods of *sī* (§527c). *Tametsī* with the subjunctive is very rare (§527c note 1).
 - **A plain *sī* clause** can be concessive: *sī essent inimīcitiae, tamen …* "even if there were quarrels, still …" (§527c note 2).

@@ -41,7 +41,7 @@ Say "if you come tomorrow, you will see my brother".
 
 1. Future, and treated as real: future more vivid.
 2. The coming will be complete before the seeing: future perfect in the protasis, future in the apodosis (ag1903 §516c).
-3. *Sī crās vēneris, frātrem meum vidēbis.* English uses the present "come"; Latin is strict about the future (§516a note).
+3. *Sī crās vēneris, frātrem meum vidēbis.* English uses the present "come"; Latin usually marks the future, though a present indicative is also often found (§516a note).
 
 Say "if you had been here, my brother would not have died".
 
@@ -99,7 +99,7 @@ orig: Cēnābis bene, mī Fabulle, apud mē paucīs, sī tibi dī favent, diēbu
 morphemes: cēnā-bi-s bene mī Fabull-e apud mē pauc-īs sī tibi dī fave-nt di-ēbus sī tē=cum attul-eri-s bon-am atque magn-am cēn-am
 gloss: dine-FUT-2SG well my.VOC.SG.M Fabullus-VOC.SG at 1SG.ACC few-ABL.PL.M if 2SG.DAT god.NOM.PL favour-3PL day-ABL.PL if 2SG.ABL=with bring.PRF-FUTP-2SG good-ACC.SG.F and big-ACC.SG.F dinner-ACC.SG
 translation: You will dine well at my house, my Fabullus, in a few days, if the gods favour you, if you bring with you a good big dinner.
-note: Catullus' joke invitation. The future more vivid with a future perfect (attuleris), and a present indicative favent for a condition already in force (ag1903 §516a note). paucīs … diēbus is split by the first condition.
+note: Catullus' joke invitation. The future more vivid with a future perfect (attuleris), and a present indicative favent, which Latin often allows in the protasis of a future condition (ag1903 §516a note). paucīs … diēbus is split by the first condition.
 source: Catullus 13.1-4
 confidence: attested
 :::
@@ -191,7 +191,7 @@ confidence: constructed
 
 **Do not put *sī* with the subjunctive just because the idea feels uncertain.** "If he is at home (I don't know whether he is), go in": simple condition, indicative: *sī domī est, intrā*. The subjunctive is for the remote future and the unreal.
 
-**Do not write *\*sī aliquis*, *\*nisi nēmō*.** After *sī* and *nisi* "anyone" is *quis*: *sī quis*, *nisi quis* (part 5, lesson 10). *Nisi nēmō* is a double negative.
+**Do not write *\*nisi nēmō*, and do not reach for *aliquis* by English habit.** After *sī* and *nisi* "anyone" is normally *quis*: *sī quis*, *nisi quis*; *sī aliquis* is possible but emphatic, "if someone, anyone at all" (ag1903 §310b; part 5, lesson 10). *Nisi nēmō* is a double negative.
 
 **Do not use *nisi* where you need *sī nōn*.** *Nisi* means "except if" and negates the whole condition. When "not" belongs to one word, or contrasts with a positive condition, use *sī nōn*: *sī exerceās …, sī nōn exerceās …* (ag1903 §518a).
 
@@ -251,7 +251,7 @@ Spanish *si* and French *si* come from Latin *sī* (Wiktionary). Both languages 
 5. Say "unless the enemy come, we shall stay in the camp".
 6. Translate *Sī quid novī audieris, scrībe mihi.*
 7. Translate *Sī hoc fēcissēs, nunc laetus essēs* and name the type.
-8. Correct *\*Sī hīc erās, frāter nōn mortuus esset* (meant as unreal) and *\*Sī aliquis venit, vocā mē*.
+8. Correct *\*Sī hīc erās, frāter nōn mortuus esset* (meant as unreal), and give the usual form of *Sī aliquis venit, vocā mē* ("if anyone comes, call me").
 9. In Livy's *pōns iter paene hostibus dedit, nī ūnus vir fuisset*, what is unusual, and why?
 10. Name the type and translate: *Sī adsit, bene sit*; *Sī adesset, bene esset*; *Sī aderit, bene erit*.
 
@@ -264,6 +264,6 @@ Spanish *si* and French *si* come from Latin *sī* (Wiktionary). Both languages 
 5. *Nisi hostēs vēnerint, in castrīs manēbimus.* *Nisi* with the future perfect, future in the apodosis (ag1903 §516c).
 6. "If you hear any news, write to me." *Quid* "anything" after *sī*; *novī* partitive genitive (part 5, lesson 9); future perfect protasis with an imperative apodosis (ag1903 §516d).
 7. "If you had done this, you would be happy now." A mixed condition: past unreal protasis (pluperfect), present unreal apodosis (imperfect).
-8. *Sī hīc fuissēs, frāter nōn fuisset mortuus* (or *mortuus esset*): a past unreal condition takes the pluperfect subjunctive in both clauses (ag1903 §517). *Sī quis venit, vocā mē*: after *sī*, *quis* not *aliquis*.
+8. *Sī hīc fuissēs, frāter nōn fuisset mortuus* (or *mortuus esset*): a past unreal condition takes the pluperfect subjunctive in both clauses (ag1903 §517). *Sī quis venit, vocā mē*: after *sī* the plain *quis* is usual; *aliquis* is not wrong but adds emphasis, "anyone at all" (ag1903 §310b).
 9. The apodosis of a past unreal condition is in the perfect indicative, *dedit*. With *paene* "almost", Latin states what nearly happened as a fact (ag1903 §517b note 2). English: "would almost have given".
 10. Future less vivid: "if he were to be here, it would be well". Present contrary to fact: "if he were here (he is not), it would be well". Future more vivid: "if he is here, it will be well" (ag1903 §514).

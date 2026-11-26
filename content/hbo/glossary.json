@@ -156,5 +156,39 @@
    "tag": "infinitive-absolute"
   }
  },
- "terms": {}
+ "terms": {
+  "root": "The two or three consonants that carry a word's core meaning (hbo-00-02, hbo-01-01).",
+  "pattern": "The arrangement of vowels and extra letters around a root that makes a particular kind of word (hbo-00-02).",
+  "final form": "The shape five letters take at the end of a word (hbo-01-01).",
+  "Palaeo-Hebrew": "The older Hebrew alphabet used before the square script (hbo-01-01).",
+  "square script": "The Aramaic-derived letter forms in which the Bible has come down (hbo-01-01).",
+  "guttural": "One of the throat letters alef, he, ḥet, ʿayin, and often resh (hbo-01-02).",
+  "emphatic": "One of the consonants ṭet, ṣade, qof, probably pronounced with extra constriction (hbo-01-02).",
+  "vowel points": "The dots and dashes added to the consonants to show vowels (hbo-01-03).",
+  "vowel letter": "A consonant letter used to show a vowel (mater lectionis) (hbo-01-04).",
+  "full spelling": "Spelling with a vowel letter; defective spelling leaves it out (hbo-01-04).",
+  "shewa": "The two-dot mark under a letter: vocal (a short murmured vowel) or silent (no vowel) (hbo-01-05).",
+  "hatef vowel": "A shewa combined with a vowel sign, used under gutturals (hbo-01-05).",
+  "open syllable": "A syllable ending in a vowel (hbo-01-06).",
+  "closed syllable": "A syllable ending in a consonant (hbo-01-06).",
+  "qameṣ ḥaṭuf": "The qameṣ sign read as short o in a closed unstressed syllable (hbo-01-06).",
+  "furtive pataḥ": "A short a slipped in before a final guttural (hbo-01-06).",
+  "meteg": "A small vertical stroke marking secondary stress (hbo-01-06).",
+  "dagesh forte": "A dot doubling a consonant (hbo-01-07).",
+  "dagesh lene": "A dot showing a hard (stop) pronunciation of a begadkefat letter (hbo-01-07).",
+  "begadkefat": "The six letters b g d k p t, each with a hard and a soft pronunciation (hbo-01-07).",
+  "mappiq": "A dot in final he showing it is a real consonant (hbo-01-07).",
+  "milraʿ": "Stressed on the last syllable (hbo-01-08).",
+  "milʿêl": "Stressed on the second-from-last syllable (hbo-01-08).",
+  "segolate": "A noun of the meleḵ type, stressed on the first syllable with a helping vowel (hbo-01-08).",
+  "maqqef": "A hyphen joining words into one stress unit (hbo-01-08).",
+  "pause": "The form a word takes at a major break in the verse (hbo-01-08).",
+  "accents": "The cantillation marks, which also mark stress and punctuation (hbo-01-09).",
+  "disjunctive accent": "An accent that marks a break (hbo-01-09).",
+  "conjunctive accent": "An accent that joins a word to the next (hbo-01-09).",
+  "ketiv": "What is written in the consonantal text (hbo-01-09).",
+  "qere": "What is read aloud where it differs from the ketiv (hbo-01-09).",
+  "perpetual qere": "A word always read differently from its spelling, such as the divine name (hbo-01-09).",
+  "transliteration": "Writing Hebrew letter for letter in Latin letters (hbo-01-10)."
+ }
 }

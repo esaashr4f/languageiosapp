@@ -97,7 +97,7 @@ Points to teach:
 - Every syllable begins with one consonant. The exceptions are a word-initial conjunction û- and furtive pataḥ. A syllable is open (ends in a vowel) or closed (ends in a consonant).
 - **Stress:** most words are stressed on the last syllable (*milraʿ*). Segholates and some suffixed and verbal forms are stressed on the next-to-last (*milʿêl*): מֶלֶךְ mélek. Weqatal moves the stress from the next-to-last to the last syllable "in certain verbal forms" (gkc1910 §49h, opened: הָלַכְתִּי hāláktî "I went", consecutive וְהָלַכְתִּי wəhālaktî́ "and I will go"); the shift "is not consistently carried out", never in the 1st plural (§49k). The forms concerned are mainly 1SG and 2SG.M: וְשָׁמַרְתָּ wəšāmartā́ versus šāmártā. Wayyiqtol often pulls the stress back: יָקוּם yāqûm, וַיָּקָם wayyā́qom (gkc1910 §49d, opened). Stress also accounts for many vowel changes (gkc1910 §29).
 - **Do not mark stress in `orig`, `translit` or `morphemes`.** Mark it with an acute accent on the translit vowel only in part 1 lessons, in notes, and in vocab notes for words stressed on the next-to-last syllable (*mélek*). Say there that the acute is the guide's.
-- **Pause:** at a major division (atnaḥ, silluq), many words take a pausal form, usually with a lengthened or restored vowel: אָרֶץ ʾereṣ → אָרֶץ ʾāreṣ, מַיִם mayim → מָיִם māyim (gkc1910 §29i–v). Attested examples quoted at the end of a verse are often pausal. Gloss them like the normal form and say "pausal" in the note.
+- **Pause:** at a major division (atnaḥ, silluq), many words take a pausal form, usually with a lengthened or restored vowel: אֶרֶץ ʾereṣ → אָרֶץ ʾāreṣ, מַיִם mayim → מָיִם māyim (gkc1910 §29i–v). Attested examples quoted at the end of a verse are often pausal. Gloss them like the normal form and say "pausal" in the note.
 
 ## 3. Script and transliteration
 
@@ -225,11 +225,11 @@ gkc1910 §44 and §47 (opened, with model קָטַל; all forms below found in t
 | Person | qatal | yiqtol |
 |---|---|---|
 | 3SG.M | שָׁמַר šāmar (8×) | יִשְׁמֹר yišmōr (5×) |
-| 3SG.F | שָׁמְרָה šāmrâ (3× as 3fs) | תִּשְׁמֹר tišmōr (3× as 3fs) |
+| 3SG.F | שָׁמְרָה šāmərâ (3× as 3fs) | תִּשְׁמֹר tišmōr (3× as 3fs) |
 | 2SG.M | שָׁמַרְתָּ šāmartā (8×) | תִּשְׁמֹר tišmōr (9×) |
 | 2SG.F | שָׁמַרְתְּ šāmart (0×; gkc קָטַלְתְּ) | תִּשְׁמְרִי tišmərî (0×; gkc תִּקְטְלִי) |
 | 1SG | שָׁמַרְתִּי šāmartî (6×) | אֶשְׁמֹר ʾešmōr (4×) |
-| 3PL(.M) | שָׁמְרוּ šāmrû (10×) | יִשְׁמְרוּ yišmərû (12×) |
+| 3PL(.M) | שָׁמְרוּ šāmərû (10×) | יִשְׁמְרוּ yišmərû (12×) |
 | 3PL.F | (= 3PL) | תִּשְׁמֹרְנָה tišmōrnâ (0×; gkc תִּקְטֹלְנָה) |
 | 2PL.M | שְׁמַרְתֶּם šəmartem (4×) | תִּשְׁמְרוּ tišmərû (8×) |
 | 2PL.F | שְׁמַרְתֶּן šəmarten (gkc קְטַלְתֶּן) | תִּשְׁמֹרְנָה tišmōrnâ |
@@ -371,3 +371,13 @@ Say so in the lesson when one of these comes up.
   - **Japanese and Korean:** only typology. Korean hangul and Hebrew both write syllables built from consonant-plus-vowel marks; both scripts were reformed by scholars. Keep it short and accurate.
   - **Other guides:** Ge'ez, Classical Syriac and Akkadian for shared Semitic structure.
 - **Do not** present Christian or Jewish interpretive traditions as grammar. Where a famous translation reflects a grammatical choice (Genesis 1:1; Isaiah 7:14 ʿalmâ), state the grammar and the range of readings neutrally.
+
+
+## Notes from drafting parts 0 and 1 (2026-11-26)
+
+- Spirantisation is always marked, as the scheme says: bərēʾšîṯ, dāḇār, meleḵ, ʾēṯ (meta sample corrected). Examples elsewhere in this dossier that omit the marks are shorthand, not the scheme.
+- Shewa after a long vowel: the school rule (vocal) is the guide's transliteration convention, so šāmərû, šāmərâ (corrected in the paradigm above); hbo-01-05 tells the reader that Khan I.2.5.6 finds such a shewa normally silent in the Tiberian reading.
+- Khan 2020 is open and has been read (I.5 summary; its transcription of Gen 1:1–3): Tiberian vowel qualities, length and vocal shewa are confirmed and no longer unverified.
+- Jerusalem in WLC: lamed with pataḥ + ḥireq (qameṣ + ḥireq only in pause), written lamed, pataḥ, U+034F, ḥireq.
+- With the article the word for land is always hāʾāreṣ (934× in WLC); hbo-02-02 must explain why, with a source (probably Gesenius §35).
+- Conventions: letter names written plainly (alef, bet, … ṣade, qof, resh, sin/shin, taw); acute stress only in prose and notes; accents in `orig` only in hbo-01-09; wayyiqtol segmented way-yōʾmer, way-hî. Grammar words (lōʾ, ʿal, hîʾ) were left for their own lessons.

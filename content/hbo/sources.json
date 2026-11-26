@@ -31,9 +31,9 @@
   {
    "id": "khan2020",
    "citation": "Khan, G. (2020). The Tiberian Pronunciation Tradition of Biblical Hebrew. 2 vols. Cambridge: Open Book Publishers. https://doi.org/10.11647/OBP.0163 and OBP.0194.",
-   "url": "https://books.openedition.org/obp/16762",
+   "url": "https://books.openbookpublishers.com/10.11647/obp.0163.pdf",
    "used_for": "Authority for how the Tiberian Masoretes actually pronounced the pointed text (consonant and vowel values, vocal shewa, the gap between the pointing and the European school pronunciation).",
-   "access": "Open access (CC BY). Landing page and abstract opened 2026-11-12; the PDF download was refused (bot check), so phonetic values are taken via wp-romanization's Tiberian column and wp-bh, which cite Khan. Claims resting on Khan are marked as such in the dossier until a chapter is opened."
+   "access": "Open access (Open Book Publishers). Volume 1 PDF downloaded from the publisher's book server on 2026-11-26; OAPEN and OpenEdition copies sit behind bot checks."
   },
   {
    "id": "bdb",

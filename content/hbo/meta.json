@@ -34,12 +34,12 @@
  "difficulty": "For an English speaker the hard parts are the script (right to left, vowels as small marks), the root-and-pattern system, which makes words that share a root look unalike and words that share a pattern look alike, and the weak verbs whose root letters drop out. The grammar itself is lean: no cases, few endings, mostly simple clause structure. A reader with some Arabic already knows how roots, patterns, the construct state and verbless sentences work; Spanish and French help only with vocabulary that passed through biblical translation.",
  "sample": {
   "orig": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃",
-  "translit": "bərēʾšît bārāʾ ʾĕlōhîm ʾēt haššāmayim wəʾēt hāʾāreṣ",
-  "morphemes": "bə=rēʾšît bārāʾ ʾĕlōhîm ʾēt ha=ššāmayim wə=ʾēt hā=ʾāreṣ",
+  "translit": "bərēʾšîṯ bārāʾ ʾĕlōhîm ʾēṯ haššāmayim wəʾēṯ hāʾāreṣ",
+  "morphemes": "bə=rēʾšîṯ bārāʾ ʾĕlōhîm ʾēṯ ha=ššāmayim wə=ʾēṯ hā=ʾāreṣ",
   "gloss": "in=beginning create.QTL.3SG.M God OBJ DEF=heavens and=OBJ DEF=earth",
   "literal": "In beginning created God the heavens and the earth.",
   "translation": "In the beginning God created the heavens and the earth.",
-  "note": "Verb before subject; ʾēt marks a definite object; the article ha- doubles the next consonant. Whether bərēʾšît means 'in the beginning' or 'in the beginning of (when God began)' has been argued since the Middle Ages.",
+  "note": "Verb before subject; ʾēṯ marks a definite object; the article ha- doubles the next consonant. Whether bərēʾšîṯ means 'in the beginning' or 'in the beginning of (when God began)' has been argued since the Middle Ages.",
   "source": "Genesis 1:1 (Westminster Leningrad Codex via OSHB; accents omitted)",
   "confidence": "attested"
  }

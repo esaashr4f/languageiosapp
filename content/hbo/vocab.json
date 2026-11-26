@@ -1,0 +1,708 @@
+{
+ "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
+ "count": 78,
+ "words": [
+  {
+   "headword": "דָּבָר",
+   "translit": "dāḇār",
+   "pos": "noun",
+   "meaning": "word, thing, matter",
+   "forms": "m.; root d-b-r",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "מֶלֶךְ",
+   "translit": "meleḵ",
+   "pos": "noun",
+   "meaning": "king",
+   "forms": "m.; stressed méleḵ; root m-l-k",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "יוֹם",
+   "translit": "yôm",
+   "pos": "noun",
+   "meaning": "day",
+   "forms": "m.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בֵּן",
+   "translit": "bēn",
+   "pos": "noun",
+   "meaning": "son",
+   "forms": "m.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "כֵּן",
+   "translit": "kēn",
+   "pos": "adverb",
+   "meaning": "so, thus",
+   "forms": "",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "כֶּסֶף",
+   "translit": "kesep̄",
+   "pos": "noun",
+   "meaning": "silver, money",
+   "forms": "m.; stressed késep̄",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אֶרֶץ",
+   "translit": "ʾereṣ",
+   "pos": "noun",
+   "meaning": "earth, land",
+   "forms": "f.; stressed ʾéreṣ",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עִיר",
+   "translit": "ʿîr",
+   "pos": "noun",
+   "meaning": "city, town",
+   "forms": "f.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שֵׁם",
+   "translit": "šēm",
+   "pos": "noun",
+   "meaning": "name",
+   "forms": "m.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "יָד",
+   "translit": "yāḏ",
+   "pos": "noun",
+   "meaning": "hand",
+   "forms": "f.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עַיִן",
+   "translit": "ʿayin",
+   "pos": "noun",
+   "meaning": "eye; spring of water",
+   "forms": "f.; stressed ʿáyin",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "רֹאשׁ",
+   "translit": "rōʾš",
+   "pos": "noun",
+   "meaning": "head",
+   "forms": "m.",
+   "first_lesson": "hbo-01-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אִישׁ",
+   "translit": "ʾîš",
+   "pos": "noun",
+   "meaning": "man, husband; each one",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עַם",
+   "translit": "ʿam",
+   "pos": "noun",
+   "meaning": "people, nation",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "חֹשֶׁךְ",
+   "translit": "ḥōšeḵ",
+   "pos": "noun",
+   "meaning": "darkness",
+   "forms": "m.; stressed ḥṓšeḵ",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "הַר",
+   "translit": "har",
+   "pos": "noun",
+   "meaning": "mountain, hill country",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "טוֹב",
+   "translit": "ṭôḇ",
+   "pos": "adjective",
+   "meaning": "good, pleasant",
+   "forms": "",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "צָבָא",
+   "translit": "ṣāḇāʾ",
+   "pos": "noun",
+   "meaning": "army, host",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "קוֹל",
+   "translit": "qôl",
+   "pos": "noun",
+   "meaning": "voice, sound",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שָׂדֶה",
+   "translit": "śāḏeh",
+   "pos": "noun",
+   "meaning": "field, open country",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "סוּס",
+   "translit": "sûs",
+   "pos": "noun",
+   "meaning": "horse",
+   "forms": "m.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שָׁנָה",
+   "translit": "šānâ",
+   "pos": "noun",
+   "meaning": "year",
+   "forms": "f.",
+   "first_lesson": "hbo-01-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אָדָם",
+   "translit": "ʾāḏām",
+   "pos": "noun",
+   "meaning": "human being, mankind; Adam",
+   "forms": "m.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "זָהָב",
+   "translit": "zāhāḇ",
+   "pos": "noun",
+   "meaning": "gold",
+   "forms": "m.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "מַיִם",
+   "translit": "mayim",
+   "pos": "noun",
+   "meaning": "water",
+   "forms": "m. pl. in form; stressed máyim",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שֶׁמֶשׁ",
+   "translit": "šemeš",
+   "pos": "noun",
+   "meaning": "sun",
+   "forms": "f. or m.; stressed šémeš",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "לֶחֶם",
+   "translit": "leḥem",
+   "pos": "noun",
+   "meaning": "bread, food",
+   "forms": "m.; stressed léḥem",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "לֵב",
+   "translit": "lēḇ",
+   "pos": "noun",
+   "meaning": "heart, mind, will",
+   "forms": "m.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עֵץ",
+   "translit": "ʿēṣ",
+   "pos": "noun",
+   "meaning": "tree, wood",
+   "forms": "m.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אֵשׁ",
+   "translit": "ʾēš",
+   "pos": "noun",
+   "meaning": "fire",
+   "forms": "f.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "כֹּל",
+   "translit": "kōl",
+   "pos": "noun",
+   "meaning": "all, the whole, every",
+   "forms": "m.",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "קֹדֶשׁ",
+   "translit": "qōḏeš",
+   "pos": "noun",
+   "meaning": "holiness, sacredness; holy thing",
+   "forms": "m.; stressed qṓḏeš",
+   "first_lesson": "hbo-01-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אוֹר",
+   "translit": "ʾôr",
+   "pos": "noun",
+   "meaning": "light",
+   "forms": "",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "תּוֹרָה",
+   "translit": "tôrâ",
+   "pos": "noun",
+   "meaning": "instruction, teaching, law",
+   "forms": "f.",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בַּיִת",
+   "translit": "bayiṯ",
+   "pos": "noun",
+   "meaning": "house, household",
+   "forms": "m.; stressed báyiṯ; before another noun bêṯ",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "גּוֹי",
+   "translit": "gôy",
+   "pos": "noun",
+   "meaning": "nation, people",
+   "forms": "m.",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עוֹד",
+   "translit": "ʿôḏ",
+   "pos": "adverb",
+   "meaning": "still, yet, again, more",
+   "forms": "",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "נָבִיא",
+   "translit": "nāḇîʾ",
+   "pos": "noun",
+   "meaning": "prophet, spokesman",
+   "forms": "m.",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עוֹלָם",
+   "translit": "ʿôlām",
+   "pos": "noun",
+   "meaning": "long duration, antiquity, forever",
+   "forms": "m.; also spelled עֹלָם",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "פֹּה",
+   "translit": "pōh",
+   "pos": "adverb",
+   "meaning": "here, hither",
+   "forms": "",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "דָּוִד",
+   "translit": "dāwiḏ",
+   "pos": "proper noun",
+   "meaning": "David",
+   "forms": "also spelled דָּוִיד, mainly in Chronicles",
+   "first_lesson": "hbo-01-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בְּרִית",
+   "translit": "bərîṯ",
+   "pos": "noun",
+   "meaning": "covenant, treaty",
+   "forms": "f.",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שְׁמוּאֵל",
+   "translit": "šəmûʾēl",
+   "pos": "proper noun",
+   "meaning": "Samuel",
+   "forms": "",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "מִדְבָּר",
+   "translit": "miḏbār",
+   "pos": "noun",
+   "meaning": "wilderness, steppe",
+   "forms": "m.; root d-b-r",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "יִשְׂרָאֵל",
+   "translit": "yiśrāʾēl",
+   "pos": "proper noun",
+   "meaning": "Israel (the man Jacob; the people)",
+   "forms": "",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אֱלֹהִים",
+   "translit": "ʾĕlōhîm",
+   "pos": "noun",
+   "meaning": "God; gods",
+   "forms": "m. pl. in form",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אֱמֶת",
+   "translit": "ʾĕmeṯ",
+   "pos": "noun",
+   "meaning": "faithfulness, reliability, truth",
+   "forms": "f.",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "חֲמוֹר",
+   "translit": "ḥămôr",
+   "pos": "noun",
+   "meaning": "donkey, male ass",
+   "forms": "m.",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "חֹדֶשׁ",
+   "translit": "ḥōḏeš",
+   "pos": "noun",
+   "meaning": "new moon, month",
+   "forms": "m.; stressed ḥṓḏeš; plural ḥŏḏāšîm",
+   "first_lesson": "hbo-01-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שָׁלוֹם",
+   "translit": "šālôm",
+   "pos": "noun",
+   "meaning": "peace, welfare, completeness",
+   "forms": "m.",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "חָכְמָה",
+   "translit": "ḥoḵmâ",
+   "pos": "noun",
+   "meaning": "wisdom, skill",
+   "forms": "f.",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אָכְלָה",
+   "translit": "ʾoḵlâ",
+   "pos": "noun",
+   "meaning": "food",
+   "forms": "f.; usually in lə-ʾoḵlâ \"for food\"",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אָכַל",
+   "translit": "ʾāḵal",
+   "pos": "verb",
+   "meaning": "eat, consume",
+   "forms": "root ʾ-k-l; yiqtol yōʾḵal",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "רוּחַ",
+   "translit": "rûaḥ",
+   "pos": "noun",
+   "meaning": "wind, breath, spirit",
+   "forms": "f. (sometimes m.)",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "רָקִיעַ",
+   "translit": "rāqîaʿ",
+   "pos": "noun",
+   "meaning": "expanse, firmament",
+   "forms": "m.",
+   "first_lesson": "hbo-01-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "רַב",
+   "translit": "raḇ",
+   "pos": "adjective",
+   "meaning": "much, many, great",
+   "forms": "plural rabbîm",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "כִּסֵּא",
+   "translit": "kissēʾ",
+   "pos": "noun",
+   "meaning": "throne, seat of honour",
+   "forms": "m.",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "מִשְׁפָּט",
+   "translit": "mišpāṭ",
+   "pos": "noun",
+   "meaning": "judgement, justice, custom",
+   "forms": "m.",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "חֹק",
+   "translit": "ḥōq",
+   "pos": "noun",
+   "meaning": "statute, prescribed rule or due",
+   "forms": "m.; plural ḥuqqîm",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "נָתַן",
+   "translit": "nāṯan",
+   "pos": "verb",
+   "meaning": "give, put, set",
+   "forms": "root n-t-n; yiqtol yittēn",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "לָמַד",
+   "translit": "lāmaḏ",
+   "pos": "verb",
+   "meaning": "learn",
+   "forms": "root l-m-d; limmaḏ \"teach\"",
+   "first_lesson": "hbo-01-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "נַחַל",
+   "translit": "naḥal",
+   "pos": "noun",
+   "meaning": "wadi, torrent valley, stream",
+   "forms": "m.; stressed náḥal",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "לַיְלָה",
+   "translit": "laylâ",
+   "pos": "noun",
+   "meaning": "night",
+   "forms": "m.; stressed láylâ; pausal lāylâ",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "עֶרֶב",
+   "translit": "ʿereḇ",
+   "pos": "noun",
+   "meaning": "evening",
+   "forms": "m.; stressed ʿéreḇ",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בֹּקֶר",
+   "translit": "bōqer",
+   "pos": "noun",
+   "meaning": "morning",
+   "forms": "m.; stressed bṓqer",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "פָּנִים",
+   "translit": "pānîm",
+   "pos": "noun",
+   "meaning": "face, surface",
+   "forms": "plural in form; before another noun pənê",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אָמַר",
+   "translit": "ʾāmar",
+   "pos": "verb",
+   "meaning": "say",
+   "forms": "root ʾ-m-r; yiqtol yōʾmar; wayyiqtol wayyōʾmer \"and he said\"",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "קָרָא",
+   "translit": "qārāʾ",
+   "pos": "verb",
+   "meaning": "call, name, proclaim, read aloud",
+   "forms": "root q-r-ʾ; yiqtol yiqrāʾ",
+   "first_lesson": "hbo-01-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "יְהוָה",
+   "translit": "YHWH",
+   "pos": "proper noun",
+   "meaning": "the LORD (the name of the God of Israel)",
+   "forms": "read ʾăḏōnāy; after ʾăḏōnāy, written יֱהוִה and read ʾĕlōhîm",
+   "first_lesson": "hbo-01-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "אֲדֹנָי",
+   "translit": "ʾăḏōnāy",
+   "pos": "noun",
+   "meaning": "the Lord (title of God)",
+   "forms": "a form of ʾāḏôn \"lord\"",
+   "first_lesson": "hbo-01-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "יְרוּשָׁלַ͏ִם",
+   "translit": "yərûšālayim",
+   "pos": "proper noun",
+   "meaning": "Jerusalem",
+   "forms": "perpetual qere",
+   "first_lesson": "hbo-01-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "רֵאשִׁית",
+   "translit": "rēʾšîṯ",
+   "pos": "noun",
+   "meaning": "beginning, first, chief part",
+   "forms": "f.",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בָּרָא",
+   "translit": "bārāʾ",
+   "pos": "verb",
+   "meaning": "create, shape",
+   "forms": "root b-r-ʾ",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "שָׁמַיִם",
+   "translit": "šāmayim",
+   "pos": "noun",
+   "meaning": "heavens, sky",
+   "forms": "m. pl. in form; stressed šāmáyim",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "הָיָה",
+   "translit": "hāyâ",
+   "pos": "verb",
+   "meaning": "be, become, happen, come to pass",
+   "forms": "root h-y-h; yiqtol yihyeh",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "תְּהוֹם",
+   "translit": "təhôm",
+   "pos": "noun",
+   "meaning": "the deep, primeval ocean",
+   "forms": "f. (sometimes m.)",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "תֹּהוּ",
+   "translit": "tōhû",
+   "pos": "noun",
+   "meaning": "formlessness, emptiness, confusion",
+   "forms": "m.; stressed tṓhû",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "בֹּהוּ",
+   "translit": "bōhû",
+   "pos": "noun",
+   "meaning": "emptiness",
+   "forms": "m.; stressed bṓhû; almost only in tōhû wāḇōhû",
+   "first_lesson": "hbo-01-10",
+   "confidence": "verified"
+  }
+ ]
+}

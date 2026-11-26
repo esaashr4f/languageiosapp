@@ -157,8 +157,8 @@ confidence: constructed
 
 :::example
 orig: Chakula kitakwisha.
-morphemes: ch-akula ki-ta-kw-ish-a
-gloss: C7-food C7.SM-FUT-KU-finish-FV
+morphemes: chakula ki-ta-kw-ish-a
+gloss: food.C7 C7.SM-FUT-KU-finish-FV
 translation: The food will run out.
 note: -isha "finish, run out" takes kw- like -enda.
 source: constructed

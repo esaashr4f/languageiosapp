@@ -275,7 +275,7 @@ source: wiktionary त्वम्; whitney1889 §491
 
 ## Connections
 
-French and Spanish have the same split between stressed and unstressed pronouns: *moi* against *me*, *mí* against *me*. *Il me voit* uses the clitic, *c'est moi* the full form, just as Sanskrit uses *mā* after the first word and *mām* for emphasis. Latin *me*, *te* and Sanskrit *mā*, *tvā* go back to the same old forms (Spanish *me*, *te* continue the Latin).
+French and Spanish have the same split between stressed and unstressed pronouns: *moi* against *me*, *mí* against *me*. *Il me voit* uses the clitic, *c'est moi* the full form, as Sanskrit uses *mā* after the first word and *mām* for emphasis. Latin *me*, *te* and Sanskrit *mā*, *tvā* go back to the same old forms (Spanish *me*, *te* continue the Latin).
 
 ## Exercises
 

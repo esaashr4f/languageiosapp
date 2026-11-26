@@ -180,7 +180,7 @@ translit: yasya nāsty andha eva saḥ
 morphemes: yasya na as-ti andh-aḥ eva saḥ
 gloss: REL.GEN.SG.M not be-3SG blind-NOM.SG.M EMPH DEM.NOM.SG.M
 literal: Of whom (it) is not, blind indeed (is) he.
-translation: Whoever does not have it is simply blind.
+translation: Whoever lacks it is blind indeed.
 note: Preview: yasya "of whom" is the relative pronoun (san-06-02), which sa answers. "It" is śāstra, learning, called "everyone's eye" in the first half of the verse (san-03-04). saḥ at the end of the verse keeps its visarga. na + asti = nāsti (san-03-07), and its i becomes y before a.
 source: Hitopadeśa, introductory verse 10d (GRETIL e-text sa_nArAyaNa-hitopadeza)
 confidence: attested

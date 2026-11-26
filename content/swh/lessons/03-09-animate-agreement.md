@@ -19,7 +19,7 @@ So far the noun's class has decided everything. This lesson adds one rule that o
 
 The noun itself keeps its own shape and its own plural. *Kifaru* "rhinoceros" is class 7 in form, so the plural is *vifaru*, not *\*wafaru*. *Daktari* "doctor" is class 5 in form, so the plural is *madaktari*. Only what agrees with the noun switches to classes 1 and 2: *vifaru wanakimbia* "the rhinos are running", *madaktari wanafika* "the doctors are arriving".
 
-Why does meaning win over form here? The sources describe it as a rule of the modern language (Wikipedia's grammar article, following Mpiranya, calls it agreement by meaning) without tracing when it arose. But you can watch the pull of animacy in a single word. Wiktionary explains *mnyama* "animal" (class 1, plural *wanyama*) as a reassignment of *nyama* "meat" (class 9) to an animate class. The same stem names a thing in class 9 and a living creature in class 1.
+Why does meaning win over form here? The sources describe it as a rule of the modern language without tracing when it arose; Wikipedia's grammar article describes it as a split between the noun's own (morphological) class and the class it agrees in (its syntactic class). But you can watch the pull of animacy in a single word. Wiktionary explains *mnyama* "animal" (class 1, plural *wanyama*) as a reassignment of *nyama* "meat" (class 9) to an animate class. The same stem names a thing in class 9 and a living creature in class 1.
 
 Some nouns name both a creature and an object, and the agreement tells them apart. Wiktionary lists *kiboko* as "hippopotamus" and also "whip" (from hippo hide); *kipepeo* is "butterfly" and also "fan". As animals they take *a-*; as objects they take class 7 *ki-*. *Ndege* is the clearest case: as "bird" it takes class 1 and 2 agreement, as "aeroplane" class 9 and 10 (Wikipedia's grammar article): *ndege mkubwa* "a big bird", *ndege kubwa* "a big plane".
 
@@ -196,7 +196,7 @@ confidence: constructed
 :::table
 caption: Animate agreement: the noun keeps its class form; agreement is class 1 or 2
 confidence: verified
-source: thompson2001 pp. 33–39, 118; almasi2014 p. 97; wiktionary (nouns listed); wpgrammar ('Concord')
+source: thompson2001 pp. 33–39, 41–42, 118; almasi2014 p. 97; wiktionary (nouns listed); wpgrammar ('Concord')
 | Noun (form class) | Singular | Plural | Adjective | Subject prefix |
 |---|---|---|---|---|
 | mtoto (1/2) | mtoto | watoto | mdogo / wadogo | a- / wa- |

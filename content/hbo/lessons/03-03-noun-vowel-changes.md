@@ -48,7 +48,7 @@ Work through *zāqēn* + *-îm*:
 3. *zā-* is two places before it. Its qameṣ is changeable, so it becomes shewa: *zə-*.
 4. Result: *zəqēnîm*.
 
-Under a guttural the shewa takes the hatef form, because gutturals prefer a coloured vowel (lesson 1.5): *ḥāḵām* → *ḥăḵāmîm*, *ḥāṣēr* "courtyard" → *ḥăṣērîm*; with a suffix, *ʿānān* "cloud" → *ʿănānô* "his cloud".
+Under a guttural the shewa takes the hatef form, because gutturals prefer a coloured vowel (lesson 1.5): *ḥāḵām* → *ḥăḵāmîm*, *ḥāṣēr* "courtyard" → *ḥăṣērôṯ*; with a suffix, *ʿānān* "cloud" → *ʿănānô* "his cloud".
 
 ### The participle type is different
 
@@ -235,7 +235,7 @@ source: gkc1910 §§26–27, 92–95; oshb
 חֵץ | ḥēṣ | noun | arrow | m.; pl. ḥiṣṣîm
 שַׂר | śar | noun | official, commander, prince | m.; pl. śārîm
 עֹז | ʿōz | noun | strength, might | m.; with "my" ʿuzzî; compare ʿaz
-חָצֵר | ḥāṣēr | noun | courtyard; settlement | m. and f.; pl. ḥăṣērîm
+חָצֵר | ḥāṣēr | noun | courtyard; settlement | m. and f.; pl. ḥăṣērôṯ "courts", ḥăṣērîm "settlements" (BDB lists two words)
 בָּשָׂר | bāśār | noun | flesh, meat; body | m.; with "my" bəśārî
 דָּם | dām | noun | blood | m.; pl. dāmîm "bloodshed"
 חֻקָּה | ḥuqqâ | noun | statute, regulation | f.; the feminine counterpart of ḥōq

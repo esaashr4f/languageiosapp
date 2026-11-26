@@ -259,7 +259,7 @@ Leipzig rules (leipzig): `-` between morphemes, `.` for several meanings in one 
 
 **How to check a form.** (1) Wiktionary through `python3 tools/wikt.py <Devanagari> Sanskrit`: nouns by stem (`देव`, `राजन्`, `मनस्`), verbs by the 3SG present (`गच्छति`, `लभते`, `करोति`). Tables give present, imperfect, imperative, optative and participles, with Vedic accents and footnoted Vedic variants: strip the accents, ignore footnoted forms. The tool does **not** print perfect, aorist, future or non-finite forms for a root (querying `कृ`, `गम्` returned nothing usable in this session). (2) For those, mw1899 (Cologne, `getword.php?key=<SLP1>`; e.g. `kf`, `gam`, `BU`, `vac`) lists each root's attested forms with their texts: pf., aor., fut., inf., ind.p. (absolutive), Pass. This session checked from mw1899: *babhūva, abhūt, bhaviṣyati, bhavitā, bhūtvā* (bhū); *cakāra, cakre, akārṣīt, kariṣyati, kartā, kartum, kṛtvā* (kṛ); *jagāma, agamat, gamiṣyati, gantā, gantum, gatvā, gamyate, jigamiṣati* (gam); *uvāca, ūce, ucyate, vakṣyati, vaktā, vaktum, uktvā* (vac); *hanti, ghnanti, jaghāna, hantum, hatvā* (han); *veda, vetti, avedīt* (vid); *tyaktum, atyākṣīt* (tyaj); *śrotum* (śru); *labhate, lebhe, labdhum, labdhvā* (labh). (3) whitney1889 for the system and the rule; its Appendix gives a synopsis of the whole conjugation of bhū and kṛ. Read forms from the Wikisource page scan, not from the archive.org OCR (which garbles diacritics). (4) Heritage site (heritage) declension and conjugation engines as a mechanical second check when Wiktionary and MW disagree; not run in this session.
 
-**Where Wiktionary and the grammars differ** (seen this session): Wiktionary gives Vedic dual *-ā* beside *-au*, Vedic plural *-āsaḥ* and *-ebhiḥ*, *nadīḥ* nominative, *senā* instrumental: all footnoted, all Vedic. It gives *bhavathāt*-type 2SG imperatives (*bhavatāt*) unfootnoted: these are rare in Classical (whitney1889 §§570–571, unverified section number) and should not appear in tables.
+**Where Wiktionary and the grammars differ** (seen this session): Wiktionary gives Vedic dual *-ā* beside *-au*, Vedic plural *-āsaḥ* and *-ebhiḥ*, *nadīḥ* nominative, *senā* instrumental: all footnoted, all Vedic. It gives *bhavathāt*-type 2SG imperatives (*bhavatāt*) unfootnoted: this "imperative in -tāt" is rare in Classical (whitney1889 §570) and should not appear in tables.
 
 ### Model paradigm 1: a-stem masculine *deva* "god" (Wiktionary देव; whitney1889 §§326–334, example §330)
 
@@ -306,7 +306,7 @@ M: *saḥ, tam, tena, tasmai, tasmāt, tasya, tasmin*; DU *tau, tābhyām, tayo�
 
 ### All topics, with model words
 
-Section numbers for whitney1889 are those whose headings were found in this session (archive.org OCR of the 1896 issue; chapter ranges confirmed on the Wikisource contents page). "unverified" = a number from recall not yet seen.
+Section numbers for whitney1889 are those whose headings were found in this session (archive.org OCR of the 1896 issue, "copy A" text file; chapter ranges confirmed on the Wikisource contents page). The ranges for sandhi topics (§§125–138, 139–155, 164–178, 180–198, 202–213) were read from the first and last headings found and are approximate at their edges.
 
 | Topic | Model words | whitney1889 | Check with |
 |---|---|---|---|
@@ -317,19 +317,19 @@ Section numbers for whitney1889 are those whose headings were found in this sess
 | Final n, m | | §§202–213 | |
 | n → ṇ, s → ṣ (internal) | | §§180–198 | |
 | Guṇa and vṛddhi | | §§235–243 | |
-| Uses of the cases | | §§267–305 (unverified range inside §§261–320) | speijer1886 ch. III–VIII |
+| Uses of the cases | | §§266–305 | speijer1886 ch. III–VIII |
 | a-stems (m. n.), ā-stems (f.) | deva, phala, senā, kanyā | §§326–334, 364 | wikt देव, सेना |
 | i- and u-stems | agni, mati, guru, dhenu, vāri, madhu | §§335–346 (examples §339) | wikt अग्नि, मति, गुरु, धेनु |
 | ī- and ū-stems | nadī, devī, vadhū; strī, śrī, dhī | §§347–366 (examples §364) | wikt नदी, वधू, स्त्री |
 | ṛ-stems | pitṛ, mātṛ, dātṛ, svasṛ | §§369–376 (examples §373) | wikt पितृ, मातृ, दातृ |
-| diphthong stems | go, nau, rai | §§361 ff. (unverified) | wikt गो |
+| diphthong stems | go, nau, rai | §§360–363 (nau §361) | wikt गो |
 | consonant root-stems | vāc, marut, diś, vidyut | §§383–410 | wikt वाच्, मरुत् |
 | as-, is-, us-stems | manas, havis, cakṣus | §§411–416 (examples §414) | wikt मनस् |
 | an-stems | rājan, ātman, nāman, karman, ahan | §§420–437 (examples §424) | wikt राजन्, आत्मन्, नामन्, कर्मन् |
 | in-stems | balin, yogin | §§438–441 | wikt बलिन् |
 | ant-, vant-, mant-stems; present participles | bhagavat, bhavat, dhīmat, gacchat | §§446–457 | wikt भगवत् |
 | perfect participles in -vas | vidvas, tasthivas | §§458–462 | whitney1889 §458 table (seen) |
-| comparatives in -īyas | garīyas, śreyas | §§463–470 (unverified) | |
+| comparison: -īyas, -iṣṭha; -tara, -tama | garīyas, śreyas; priyatara | §§463–474 | |
 | irregular nouns | pums, strī, go, path, ahan, sakhi, pati, dyo, ap | scattered; see index | wikt पुंस्, स्त्री, गो, पथिन्, सखि, पति |
 | Numerals | eka, dvi, tri, catur, pañcan | §§475–489 (inflection §482) | |
 | Personal pronouns | aham, tvam | §491 | wikt अहम्, त्वम् |
@@ -338,10 +338,10 @@ Section numbers for whitney1889 are those whose headings were found in this sess
 | Pronominal adjectives | sarva, anya, para, eka | §§522–526 | |
 | Endings, modes, augment | | §§527–598 | |
 | Thematic classes 1, 4, 6, 10 | bhū, gam, naś, tud, viś, cur | §§734–779 (class 6 example §752, class 4 example §760) | wikt भवति, गच्छति, नश्यति, चोरयति |
-| Root class (2) | as, i, ad, han, brū, vid, duh | §§611–660 | wikt अस्ति, एति, ब्रवीति |
-| Reduplicating class (3) | dā, dhā, hu, bhī, bhṛ | §§642–673 (unverified range) | wikt ददाति |
-| Nasal class (7) | yuj, rudh, bhid | §§683–694 | wikt युनक्ति |
-| nu-, u-classes (5, 8) | śak, āp, su, tan, kṛ | §§697–716 (unverified range) | wikt करोति |
+| Root class (2) | as, i, ad, han, brū, vid, duh | §§611–641 | wikt अस्ति, एति, ब्रवीति |
+| Reduplicating class (3) | dā, dhā, hu, bhī, bhṛ | §§642–682 | wikt ददाति |
+| Nasal class (7) | yuj, rudh, bhid | §§683–696 | wikt युनक्ति |
+| nu-, u-classes (5, 8) | śak, āp, su, tan, kṛ (§714) | §§697–716 | wikt करोति |
 | nā-class (9) | krī, jñā, grah, aś | §§717–733 | wikt क्रीणाति |
 | Passive | kriyate, gamyate, ucyate, dīyate | §§768–774, 998 | wikt tables (passive column) |
 | Perfect | jagāma, uvāca, babhūva, cakāra, āha, veda | §§780–823 | mw1899 per root |

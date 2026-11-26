@@ -207,7 +207,6 @@ ikiwa | - | conjunction | if | -ki- form of kuwa, class 9: "if it is"
 -piga kelele | - | verb | shout, make a noise | kupiga kelele
 ajali | - | noun | accident | 9/10, pl. ajali
 dereva | - | noun | driver | 5/6, pl. madereva; agreement 1/2
-kelele | - | noun | noise, din | 5/6, pl. makelele
 ugonjwa | - | noun | illness, disease | 14, pl. magonjwa (6)
 hofu | - | noun | fear | 9/10, pl. hofu
 mlio | - | noun | sound, cry, ring | 3/4, pl. milio

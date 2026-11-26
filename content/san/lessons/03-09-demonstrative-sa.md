@@ -252,6 +252,7 @@ The table for *eṣa, eṣā, etad* is the same with *e-* in front of every *t-*
 शावक | śāvaka | noun | young (of an animal), chick | m., a-stem
 पक्ष | pakṣa | noun | wing; side, party | m., a-stem
 नख | nakha | noun | nail, claw | m. (also n.), a-stem
+भक्ष् | bhakṣ | verb | eat, devour | root, class 10, active; bhakṣayati
 स्वभाव | svabhāva | noun | nature, one's own character | m., a-stem
 :::
 

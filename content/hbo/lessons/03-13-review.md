@@ -19,7 +19,7 @@ Do each exercise before reading its answer. Each answer names the lesson to rere
 
 ## Passage
 
-The passage is attested: 1 Samuel 25:2–3, word for word from the Leningrad Codex, up to the last clause of verse 3. It introduces Nabal and his wife Abigail, whom David will meet. It is made almost entirely of verbless clauses, so nearly every word is a noun, an adjective or a suffix.
+The passage is attested: 1 Samuel 25:2–3, word for word from the Leningrad Codex, leaving out the last clause of each verse. It introduces Nabal and his wife Abigail, whom David will meet. It is made almost entirely of verbless clauses, so nearly every word is a noun, an adjective or a suffix.
 
 New words are glossed in the notes. The numbers are part 5.
 
@@ -40,7 +40,7 @@ translit: wəhāʾîš gāḏôl məʾōḏ wəlô ṣōʾn šəlōšeṯ-ʾăl�
 morphemes: wə=hā=ʾîš gāḏôl məʾōḏ wə=l-ô ṣōʾn šəlōšeṯ ʾălāp̄-îm wə=ʾelep̄ ʿizz-îm
 gloss: and=DEF=man great very and=to-3SG.M flock three.CSTR thousand-PL and=thousand she.goat-PL
 translation: (Exercise 2.)
-note: šəlōšeṯ ʾălāp̄îm "three thousand", ʾelep̄ "a thousand": numbers are part 5. ṣōʾn here means sheep, set against the goats.
+note: šəlōšeṯ ʾălāp̄îm "three thousand", ʾelep̄ "a thousand": numbers are part 5. ṣōʾn here means sheep, set against the goats. Verse 2 ends wayhî bigzōz ʾeṯ-ṣōʾnô bakkarmel "and he was shearing his sheep in Carmel", left out here (the infinitive is part 4).
 source: 1 Samuel 25:2 (WLC)
 confidence: attested
 :::
@@ -73,7 +73,7 @@ translit: wəhāʾîš qāšeh wəraʿ maʿălālîm
 morphemes: wə=hā=ʾîš qāšeh wə=raʿ maʿălāl-îm
 gloss: and=DEF=man hard and=bad.CSTR deed-PL
 translation: (Exercise 5.)
-note: qāšeh "hard, harsh"; maʿălālîm "deeds". The verse ends wəhûʾ kālibbî "and he was a Calebite", with a ketiv and qere (lesson 1.9), left out here.
+note: qāšeh "hard, harsh"; maʿălālîm "deeds". The verse ends wəhûʾ ḵālibbî "and he was a Calebite", with a ketiv and qere (lesson 1.9), left out here.
 source: 1 Samuel 25:3 (WLC)
 confidence: attested
 :::

@@ -50,7 +50,7 @@ Loanwords follow the rules of tur-01-08: harmony goes by the last vowel (*otobü
 - **After *bazı* "some, certain"**: this word needs the plural, *bazı insanlar* "some people" (goksel2005 §14.3.1.1).
 - **After *bütün* "all", when you mean "all the ..."**: *bütün sınıflar* "all the classes". With a bare noun *bütün* means "the whole": *bütün sınıf* "the whole class".
 
-**Counting with *tane*.** Between a number and a noun for a thing, Turkish often puts *tane*, a counting word like Japanese つ or Korean 개: *beş tane elma* "five apples". It is optional, and it is not used for people (goksel2005 §15.8). The noun stays bare after it.
+**Counting with *tane*.** Between a number and a noun for a thing, Turkish often puts *tane*, a counting word like Japanese つ or Korean 개: *beş tane elma* "five apples". It is optional, and it is used mainly with things, not people (goksel2005 §15.8). The noun stays bare after it.
 
 ## Examples
 

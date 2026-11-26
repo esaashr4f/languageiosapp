@@ -330,3 +330,11 @@ Translations are always our own.
 - Compound marker glossed 3SG.POSS; pronominal n with the case (ev-i-nde, ev-de-ki-ni); -(y)lA after a possessive takes y (araba-sı-yla); nere-, bura-, ora- segmented as stem + case; bun-u, bun-lar.
 - Wiktionary errors: yatak odası accusative is yatak odasını (not -sıyı); grip accusative gribi (TDK) vs Wiktionary gripi. şehir dative şehre or şehire (G&K §2.3); lessons write şehre.
 - For part 4: ziyaret etmek, sabahları, çünkü, bazen, sözlük, daha glossed in place but not in vocab; etmek (ed- before a vowel), yardım/teşekkür/telefon etmek in vocab from tur-03-10. Promised: vardı tur-04-08; olmak, sahip olmak tur-04-16; teşekkür ederim tur-04-05; kaçta tur-05-04; postpositions tur-05-06; location nouns tur-05-07; conjunction ki tur-06-12.
+
+
+## Notes from verifying part 3 (2026-11-26)
+
+- A non-preverbal indefinite object "usually" takes the accusative; not obligatory (G&K §14.3.3.2 (ii)). A possessed direct object takes the accusative even when indefinite (bir arkadaşımı); do not call possessed nouns definite (§14.3.3.2 (iii)(a)).
+- The pronominal n of o and the demonstratives appears before case suffixes, -lAr, -CA and -sIz, not before every suffix (§6.2).
+- TDK's telaffuz field marks stress with an apostrophe after the stressed vowel (numa'ra, ki'lo); vocab stress notes were checked against it.
+- Confirmed: gribi (TDK); şehre/şehire (G&K §2.3); şehir from Persian; ki "that" from Persian (no longer unverified).

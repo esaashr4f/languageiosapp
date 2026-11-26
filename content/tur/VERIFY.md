@@ -21,3 +21,14 @@ Corrections: nationality nouns take an apostrophe before person endings (Türk'�
 
 Settled: değil stressed on the second syllable (G&K §19.1.1.2 ex. 13–14); all previews flagged; every cited G&K section matches.
 Still open: napıyosun unverified (removed); one-word answer "Kimse." not covered by G&K.
+
+### Part 3 — verified 2026-11-26 by fresh subagent
+Lessons checked: tur-03-01 to tur-03-15 (both reviews); tur-02-04 apostrophe fix
+Forms checked: 1199   corrected: 2   left unverified: 0
+Glosses checked: 531   corrected: 3
+Attested quotations checked: 2   corrected: 0
+Claims checked: 195   corrected or removed: 14
+Worked answers checked: 176   corrected: 5
+
+Corrections (summary): Koreliyim without apostrophe (tur-02-04); main-clause subject bare (genitive subjects exist in nominalised clauses); left-placed objects "normally" accusative (G&K §14.3.3.2); possessed objects take the accusative even when indefinite (bir arkadaşımı); partitive with ablative vs genitive corrected; Evi görüyorum = "I see the house"; kitap-ları-nı 3PL.POSS; generic nationality-compound objects stay bare; sadece from Persian sade; o takes no case suffix or plural directly (copular oydu takes no n); wh-phrase order "wrong as a neutral question" (§19.2.2); citations corrected (§§6.2, 8.1.2, 19.2.1.5–6); two glosses/translations in 03-14.
+Still open: Japanese 木から作る comparison unchecked; "benim ev not in writing" slightly beyond G&K's "informal styles"; Connections notes not checked (not historical).

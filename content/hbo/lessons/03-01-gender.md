@@ -221,7 +221,7 @@ confidence: attested
 
 **Don't treat a mixed group as feminine.** "Male and female he created them" uses the masculine *ʾōṯām*, not *\*ʾōṯān*. The feminine plural is used only when every member is female.
 
-**In the Torah, "girl" is often spelled without its *h*.** The consonants נער are read *naʿărâ*: WLC prints הַנַּעֲרָ in Genesis 24:16 and elsewhere. BDB counts about twenty such places in Genesis and Deuteronomy. It is a perpetual qere like *hîʾ* (lesson 1.9), not a masculine noun.
+**In the Torah, "girl" is often spelled without its *h*.** The consonants נער are read *naʿărâ*: WLC prints הַנַּעֲרָ in Genesis 24:14 and elsewhere. BDB counts about twenty such places in Genesis and Deuteronomy. In Genesis WLC treats it as a perpetual qere, like *hîʾ* (lesson 1.9); in Deuteronomy 22 it prints the bare consonants with a marginal qere. Either way it is not a masculine noun.
 
 ## Reference table
 

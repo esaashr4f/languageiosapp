@@ -210,8 +210,8 @@ source: wiktionary (მეგობარი, ბატონი, დაიკ�
 ## New words
 
 :::vocab
-დავითი | daviti | noun | Davit (a man's name; David) | voc. დავით
-თამარი | tamari | noun | Tamar (a woman's name) | voc. თამარ
+დავითი | daviti | proper noun | Davit (a man's name; David) | voc. დავით
+თამარი | tamari | proper noun | Tamar (a woman's name) | voc. თამარ
 ძვირფასი | ʒvirpasi | adjective | dear; precious, expensive | voc. ძვირფასო
 საყვარელი | saq̇vareli | adjective | dear, beloved; favourite | voc. საყვარელო
 დაიკო | daiḳo | noun | little sister (affectionate) | voc. დაიკოვ

@@ -17,7 +17,7 @@ Lesson 2-5 gave you verbs with a subject only: "I write", "the children play". M
 
 In the present, the direct object is in the **dative**, a case whose ending is -ს *-s*: *ʒaɣli* "dog", *ʒaɣls* "dog" as an object. Bolkvadze and Kiziria list this among the dative's jobs: the direct object of a transitive verb in the present and future group of tenses. So *bavšvi ʒaɣls xedavs* is "the child sees the dog", and *ʒaɣli bavšvs xedavs* is "the dog sees the child". The endings say who does what.
 
-The dative is the second case of the seven. The English name comes from Latin, "the giving case", and the Georgian name მიცემითი *micemiti* means the same, because in many languages it marks the person something is given to. Georgian uses it for that too (lesson 4-20), and for more: the object in the present, the person who feels or has something (lesson 4-18), and the time when something happens. *Dɣes* "today", which you learnt as an adverb, is the dative of *dɣe* "day": "on the day".
+The dative is one of the seven cases. The English name comes from Latin, "the giving case", and the Georgian name მიცემითი *micemiti* means the same, because in many languages it marks the person something is given to. Georgian uses it for that too (lesson 4-20), and for more: the object in the present, the person who feels or has something (lesson 4-18), and the time when something happens. *Dɣes* "today", which you learnt as an adverb, is the dative of *dɣe* "day": "on the day".
 
 Why the dative, and not a special accusative as in Latin? The sources consulted do not give a historical reason, and this guide will not invent one. What they show is the system: the case of the object depends on the tense group. In the present group the object is dative; in the past (the aorist, lesson 4-12) the same object goes into the nominative and the subject changes instead. Bolkvadze and Kiziria's case list states both. So "dative" here is not "the object case"; it is the case the object takes in the present.
 
@@ -29,7 +29,7 @@ Why the dative, and not a special accusative as in Latin? The sources consulted 
 - vowel stems: *deda* → *deda-s*, *xe* → *xe-s*, *ezo* → *ezo-s*, *nino* → *nino-s*
 - plurals: *-eb-* then *-s*: *saxl-eb-s*, *ded-eb-s*
 
-Nouns that syncopate keep their full stem in the dative: *megobari* → *megobars* (Wiktionary). The shortening of lesson 2-4 happens in the plural, not here.
+Nouns that syncopate keep their full stem in the dative: *megobari* → *megobars* (Wiktionary). The shortening of lesson 2-4 happens in the plural (and in cases of part 3), not in the singular dative.
 
 **Pronouns.** *Is* "he, she, it, that" has the dative მას *mas*; *isini* "they" has მათ *mat*; *es* "this" has ამას *amas*; *eseni* "these" has ამათ *amat* (Wiktionary). *Me*, *šen*, *čven* and *tkven* keep the same form, but "sees me" and "sees you" also need a marker on the verb, taught in lesson 4-3. Until then, the objects in this guide are third person.
 

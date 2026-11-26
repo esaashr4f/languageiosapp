@@ -157,12 +157,12 @@ confidence: attested
 :::
 
 :::example
-orig: Maestīque, crēderēs victōs, signa referunt.
-morphemes: maest-ī=que crēd-erē-s vic-t-ōs sign-a refer-unt
-gloss: gloomy-NOM.PL.M=and believe-IPFV.SBJV-2SG conquer-PTCP-ACC.PL.M standard-ACC.PL bring.back-3PL
-translation: And gloomily (you would have thought them beaten) they carried the standards back.
-note: Roman soldiers sulking against their general after a victory. crēderēs is the potential of the past, "you would have thought". The word order is Livy's, slightly simplified.
-source: Livy 2.43.9 (adapted)
+orig: Iniussū signa referunt, maestīque, crēderēs victōs.
+morphemes: iniussū sign-a refer-unt maest-ī=que crēd-erē-s vic-t-ōs
+gloss: without.orders standard-ACC.PL bring.back-3PL gloomy-NOM.PL.M=and believe-IPFV.SBJV-2SG conquer-PTCP-ACC.PL.M
+translation: Without orders they carried the standards back, gloomy, as if (you would have thought) they had been beaten.
+note: Roman soldiers sulking against their general after a victory; the sentence goes on. crēderēs is the potential of the past, "you would have thought". iniussū "without orders" is glossed here.
+source: Livy 2.43.9
 confidence: attested
 :::
 
@@ -182,7 +182,7 @@ confidence: attested
 
 **Do not use *nōn* with a wish or a command.** *\*Nōn veniat* for "let him not come" and *\*utinam nōn* for "if only not" are not the regular forms; the negative is *nē*: *nē veniat*, *utinam nē* (ag1903 §§439, 441-442; *utinam nōn* occurs occasionally).
 
-**Do not use *nē* with a potential or a doubtful question.** *\*Nē crēdās* for "you would not believe" is a prohibition ("do not believe!"), not a possibility. The potential takes *nōn*.
+**Do not use *nē* with a potential or a doubtful question.** *\*Nē crēdās* for "you would not believe" reads as a command, "do not believe!", not as a possibility. The potential takes *nōn*.
 
 **Do not use the present for an impossible wish.** *\*Utinam adsīs* for "if only you were here (but you aren't)" turns it into a possible wish, "I hope you will be here". Impossible present wishes need the imperfect: *utinam adessēs*.
 
@@ -194,7 +194,7 @@ confidence: attested
 
 **Do not read every main-clause subjunctive as a wish.** *Quid faciam?* is a question about what to do; *dīxerim* is a modest assertion; *crēderēs* a possibility. The person, tense, negative and the presence of *utinam* or a question word tell you which.
 
-**Spanish *ojalá* is a good guide.** Spanish *¡ojalá vengas!* (possible) and *¡ojalá vinieras!* (impossible now) match Latin *utinam veniās* and *utinam venīrēs*. But Spanish uses its subjunctive for "let us" only in *vamos* and a few set forms; Latin uses it freely.
+**Spanish *ojalá* is a good guide.** Spanish *¡ojalá vengas!* (possible) and *¡ojalá vinieras!* (impossible now) match Latin *utinam veniās* and *utinam venīrēs*. Spanish *cantemos* "let's sing" also matches Latin *cantēmus*.
 
 ## New words
 
@@ -230,7 +230,7 @@ Spanish and French use their subjunctive in main clauses mostly after a particle
 5. Translate *Vidērēs urbem ārdentem* (*ārdentem* "burning" is a present participle, part 5).
 6. Correct *\*Nōn timeāmus* meant as "let's not be afraid".
 7. Correct *\*Utinam pater meus vīvit* meant as "if only my father were alive".
-8. Name the use in each: *Sīs fēlīx*; *Sit sānē dīves*; *Dīxerim*; *Nē sīs miser*.
+8. Name the use in each: *Sīs laetus*; *Sit sānē miser*; *Dīxerim*; *Nē veniat*.
 9. Why does the potential take *nōn* and the wish take *nē*? Say what Allen and Greenough say and what they leave open.
 
 ## Worked answers
@@ -242,5 +242,5 @@ Spanish and French use their subjunctive in main clauses mostly after a particle
 5. "You could have seen the city burning." Potential of the past: imperfect, second person singular, "you" in general (ag1903 §447).
 6. *Nē timeāmus.* A proposal takes *nē*, not *nōn* (ag1903 §439).
 7. *Utinam pater meus vīveret!* An impossible present wish needs the imperfect subjunctive, not the indicative.
-8. *Sīs fēlīx* "may you be happy": wish (optative). *Sit sānē dīves* "granted, let him be rich": concession (*sānē* "certainly, granted"). *Dīxerim* "I would say": potential, a modest assertion. *Nē sīs miser* "don't be wretched": a prohibition (ag1903 §450, cf. *nē sīs admīrātus*).
+8. *Sīs laetus* "may you be happy": wish (optative). *Sit sānē miser* "granted, let him be wretched": concession (*sānē* "certainly, granted"). *Dīxerim* "I would say": potential, a modest assertion. *Nē veniat* "let him not come": jussive, with *nē* (ag1903 §439).
 9. The wish and the command express will, whose negative is *nē*; the potential and the doubtful question present something as possible or in doubt, and take *nōn* (ag1903 §§439, 441, 444, 446). Allen and Greenough say that no satisfactory connection between the potential and the hortatory and optative uses has been traced (ag1903 §445); the history behind the two negatives is left open.

@@ -59,4 +59,4 @@ Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 
 |---|---|---|---|---|---|---|---|---|
 `;
 fs.writeFileSync("PROGRESS.md", head + rows.join("\n") + "\n");
-console.log(`PROGRESS.md: ${totalDone}/100 done, ${totalWords} words, ${totalUnverified} unverified`);
+console.log(`PROGRESS.md: ${totalDone}/${languages.length} done, ${totalWords} words, ${totalUnverified} unverified`);

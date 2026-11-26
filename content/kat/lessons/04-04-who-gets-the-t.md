@@ -129,11 +129,11 @@ confidence: constructed
 
 :::example
 orig: მასპინძლები ქორწილში გვპატიჟებენ.
-translit: maspinʒlebi korc̣ilši gvṗaṭižeben.
-morphemes: maspinʒl-eb-i korc̣il-ši gv-ṗaṭiž-eb-en
+translit: masṗinʒlebi korc̣ilši gvṗaṭižeben.
+morphemes: masṗinʒl-eb-i korc̣il-ši gv-ṗaṭiž-eb-en
 gloss: host-PL-NOM wedding-in 1PL.OBJ-invite-TS-3PL.SBJ
 translation: The hosts are inviting us to the wedding.
-note: "Us" needs no -t: gv- already says plural. maspinʒeli syncopates in the plural.
+note: "Us" needs no -t: gv- already says plural. masṗinʒeli syncopates in the plural.
 source: constructed
 confidence: constructed
 :::
@@ -209,7 +209,7 @@ source: bolkvadze2023 §9.1.2–9.1.3 (rules and the paradigms of ხატა�
 ტყუილი | ṭq̇uili | noun | lie (untruth) |
 ნაცნობი | nacnobi | noun | acquaintance; (adjective) familiar |
 უცნობი | ucnobi | noun | stranger; (adjective) unknown |
-მასპინძელი | maspinʒeli | noun | host | gen. მასპინძლის
+მასპინძელი | masṗinʒeli | noun | host | gen. მასპინძლის
 ჯარისკაცი | ǯarisḳaci | noun | soldier |
 ჟურნალისტი | žurnalisṭi | noun | journalist |
 ტურისტი | ṭurisṭi | noun | tourist |

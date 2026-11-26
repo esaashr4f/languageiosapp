@@ -24,7 +24,7 @@ Polomé's handbook says these sounds occur only in Arabic loanwords. They belong
 
 So these four digraphs differ in status from the rest of the alphabet. The standard writes them and careful speech uses them, but you will often hear the substitutes, and you will be understood if you use either.
 
-*Kh* is the weakest of the four. Polomé reports that [x] alternates freely with [h], except in a few words where [x] is usual, such as *sabalkheri* "good morning"; only those are spelt with *kh*. Most words with Arabic [x] are simply spelt with *h*: *habari* "news" comes from Arabic *khabar*.
+*Kh* is the weakest of the four. Polomé reports that [x] alternates freely with [h], except in a few words where [x] is usual, such as *sabalkheri* "good morning"; only those are spelt with *kh*. Most words with Arabic [x] are spelt with plain *h*: *habari* "news" comes from Arabic *khabar*.
 
 Other Arabic sounds were not kept at all in ordinary Swahili. The Arabic [q] became *k*: *kalamu* "pen" is *qalam*. The "emphatic" consonants became plain ones: *fedha* "silver" is *fiḍḍa*. The throat consonant *ʿayn* disappeared, often leaving two vowels side by side: *saa* "hour" is *sāʿa*, *maana* "meaning" is *maʿnā*. Polomé describes a formal, Arabised style of recitation and public speaking, especially in the mosque, in which some of these sounds return. It is a style, not the standard.
 

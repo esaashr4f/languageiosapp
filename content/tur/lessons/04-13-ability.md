@@ -23,9 +23,9 @@ sources: [goksel2005, wiktionary]
 
 Göksel and Kerslake call them the markers of possibility and impossibility (goksel2005 §21.4.2.1). Neither can stand on its own: a tense must follow in slot 5. *Gelebil-* is a new stem, "be able to come", which then takes *-ir*, *-di*, *-ecek*, *-iyor* like any stem: *gelebilir*, *gelebildi*, *gelebilecek*, *gelebiliyor*.
 
-**Why "know".** *-(y)Abil* contains the verb *bil-* "know". Göksel and Kerslake list it among a small set of suffixes made from verb roots (goksel2005 §8.2.3.2). "Know how to" became "can", as in Spanish *sé nadar* and French *je sais nager* "I can swim". Because *bil* is a root, its vowel never harmonises: *-abil*, *-ebil*, never \**-abıl*. Only the linking *A* harmonises.
+**Why "know".** *-(y)Abil* contains the verb *bil-* "know". Göksel and Kerslake list it among a small set of suffixes made from verb roots (goksel2005 §8.2.3.2). The sources used here do not trace the history, but the link is easy to remember: Spanish *sé nadar* and French *je sais nager* "I can swim" also use "know" for a skill. Because *bil* is a root, its vowel never harmonises: *-abil*, *-ebil*, never \**-abıl*. Only the linking *A* harmonises.
 
-**Why a different "cannot".** "Cannot" is not *-(y)Abil* plus the negative. It is an older possibility suffix *-(y)A* followed by the negative *-mA*: *gel-e-me-* "not be able to come". Göksel and Kerslake note that this *-(y)A* appears only in negative forms, and is the only tense-aspect-mood suffix that comes before *-mA* (goksel2005 §8.2.3.1). This guide writes *-(y)AmA* as one piece, IMPOT "impotential", since the two parts never separate.
+**Why a different "cannot".** "Cannot" is not *-(y)Abil* plus the negative. It is a separate possibility suffix *-(y)A* followed by the negative *-mA*: *gel-e-me-* "not be able to come". Göksel and Kerslake note that this *-(y)A* appears only in negative forms, and is the only tense-aspect-mood suffix that comes before *-mA* (goksel2005 §8.2.3.1). This guide writes *-(y)AmA* as one piece, IMPOT "impotential", since the two parts never separate.
 
 **What the tense adds.** Göksel and Kerslake make a point that English hides (goksel2005 §21.4.2.1). With the aorist, *-(y)Abilir* only says the possibility exists; whether it happens is left open: *Ali yüzebilir* "Ali can swim". With *-DI*, *-mIş* or *-(I)yor*, the possibility is taken as realised: *Biletleri bulabildik* "we managed to find the tickets" (and found them); *Uyuyamadım* "I couldn't sleep" (and didn't).
 
@@ -252,7 +252,7 @@ park etmek | - | verb | park | aor. park eder
 
 ## Connections
 
-Spanish *saber* and French *savoir* "know (how)" also mean "can" for skills, *sé nadar*, *je sais nager*, which is the same path that turned *bil-* "know" into *-(y)Abil*. Japanese and Korean, like Turkish, put "can" inside the verb: 泳げる (oyogeru) "can swim", 수영할 수 있다; Japanese even has a potential suffix, as Turkish does. Japanese 〜てもいいですか "may I?" and Korean -아도 돼요? correspond to *açabilir miyim?*.
+Spanish *saber* and French *savoir* "know (how)" also mean "can" for skills, *sé nadar*, *je sais nager*, a parallel to the *bil-* "know" inside *-(y)Abil*. Japanese and Korean, like Turkish, put "can" inside the verb: 泳げる (oyogeru) "can swim", 수영할 수 있다; Japanese even has a potential suffix, as Turkish does. Japanese 〜てもいいですか "may I?" and Korean -아도 돼요? correspond to *açabilir miyim?*.
 
 ## Exercises
 

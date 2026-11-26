@@ -455,3 +455,13 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Visarga before ś, ṣ, s is correct at every stage (Whitney §172). Before other voiced sounds and m, -aḥ changes (§175a): early prose and exercises must respect this too, not only examples.
 - Whitney section numbers in the archive.org OCR are often misread (§65 as 66, §67 as 87, §268 as 2368): check the paragraph text, not just the number.
 - GRETIL files used: corpustei/sa_manusmRti.xml (Manu 1.108, 8.15); corpustei/sa_taittirIyopaniSad-zaMkarabhASya.xml (TaittU 1.11.1).
+
+
+## Notes from drafting part 3 (2026-11-26)
+
+- Gloss English with underscores, not hyphens (well_being): hyphens break the linter's morpheme count.
+- dyo is entered as div (f., NOM dyauḥ), following Wiktionary's द्यु table. puṃs (not pums) per Monier-Williams and Wiktionary.
+- Introduced early with pointers to part 4 (do not re-list): dā (class 3), kṛt, sidh, tras, muc, spṛh, kup, druh, yāc, bhakṣ, sru, sṛ, dhṛ, pāl, puṣ, arh, taḍ, bhūṣ.
+- Final -t stands only before k, kh, p, ph, t, th, s or at the end; final -n after a long vowel mostly before vowels, k, p or at the end (a few answers before v, r, which Whitney §§202–208 allows). Vowel sandhi fully applied from san-03-07 on, including iti joins.
+- Consonant-stem nominatives without an ending glossed whole (rājā, manaḥ, bhagavān, pumān, gām). Hitopadeśa saṅgama kept as spelt; MBh saṃgama. √nam with the dative. Class-10 vowel grades given by example only (san-03-11).
+- Whitney section numbers were corrected from the OCR by sequence (e.g. §296, §375): spot-check against page scans.

@@ -298,6 +298,22 @@
   "question particle": "A particle that makes a question, such as api or kim (san-02-08).",
   "avyaya": "An indeclinable word, the traditional term for particles and adverbs (san-02-08).",
   "vocative": "The form used to address someone (san-02-09).",
-  "quotative": "The particle iti marking the end of quoted words (san-02-09)."
+  "quotative": "The particle iti marking the end of quoted words (san-02-09).",
+  "n-to-ṇ rule": "n becomes ṇ after r, ṛ, ṣ in the same word unless something intervenes (san-03-01).",
+  "indirect object": "The person to or for whom something is done, in the dative (san-03-02).",
+  "objective genitive": "A genitive standing for the object of an action noun (san-03-04).",
+  "s-to-ṣ rule": "s becomes ṣ after most vowels and k, r (san-03-05).",
+  "pregnant construction": "A case expressing motion and rest together (san-03-05).",
+  "normal endings": "The standard case endings that most stems take (san-03-06).",
+  "pragṛhya": "A final vowel that resists sandhi (san-03-07).",
+  "enclitic pronoun": "A short unstressed pronoun form (me, te, naḥ) (san-03-08).",
+  "demonstrative": "A pointing word: sa/tad, ayam, asau (san-03-09).",
+  "vowel grades": "The simple, guṇa and vṛddhi forms of a vowel (san-03-11).",
+  "strong and weak cases": "Cases built on the strong or the weak form of a changing stem (san-03-14).",
+  "agent noun": "A noun for the doer, in -tṛ (san-03-14).",
+  "root noun": "A noun that is a bare root (san-03-15).",
+  "middle and weakest stems": "The further stem forms of three-stem nouns (san-03-16).",
+  "reflexive pronoun": "A pronoun referring back to the subject: ātman, sva (san-03-16).",
+  "possessive adjective": "An adjective meaning 'having', in -vat, -mat, -in (san-03-17)."
  }
 }

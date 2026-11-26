@@ -3,7 +3,7 @@ id: san-03-19
 lang: san
 part: 3
 order: 19
-title: "The irregular nouns"
+title: The irregular nouns
 point: "Recognise the common irregular nouns: pums, strī, go, dyo, ap, path, ahan, sakhi, pati"
 requires: [san-03-18]
 introduces: []

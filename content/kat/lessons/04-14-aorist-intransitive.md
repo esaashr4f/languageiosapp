@@ -208,6 +208,8 @@ source: wiktionary (დაწერს intransitive); linguage (დაბრუ�
 წვება | c̣veba | verb | lies down, goes to bed | class 2; fut. დაწვება; aor. დაწვა (1SG დავწექი); pf. დაწოლილა; masdar დაწოლა (lingua.ge)
 ეცემა | ecema | verb | falls | class 2; fut. დაეცემა; aor. დაეცა (1SG დავეცი); pf. დაცემულა; masdar დაცემა (lingua.ge)
 დამთავრდება | damtavrdeba | verb | will end, finish | class 2, future; aor. დამთავრდა (Wiktionary)
+ხდება | xdeba | verb | becomes; happens | class 2; fut. გახდება "will become"; aor. გახდა (1SG გავხდი); pf. გამხდარა; masdar გახდომა (lingua.ge)
+კარგავს | ḳargavs | verb | loses | class 1; fut. დაკარგავს; aor. დაკარგა; pf. დაუკარგავს; masdar დაკარგვა (lingua.ge)
 მოულოდნელად | moulodnelad | adverb | suddenly, unexpectedly |
 გვიან | gvian | adverb | late |
 დილით | dilit | adverb | in the morning | instrumental of დილა

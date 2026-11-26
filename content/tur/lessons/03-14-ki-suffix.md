@@ -140,7 +140,7 @@ confidence: constructed
 orig: Dünkü film bugünkünden daha güzel.
 morphemes: dün-kü film bugün-kü-nden daha güzel
 gloss: yesterday-REL film today-REL-ABL more beautiful
-translation: Yesterday's film was better than today's.
+translation: Yesterday's film was nicer than today's.
 note: Preview of comparison: daha "more" with the ablative (tur-05-02). bugünkünden: -ki word, n, ablative.
 source: constructed
 confidence: constructed
@@ -159,7 +159,7 @@ confidence: constructed
 :::example
 orig: Komşumuzun bahçesindeki ağaçlar çok büyük.
 morphemes: komşu-muz-un bahçe-si-nde-ki ağaç-lar çok büyük
-gloss: neighbour-1PL.POSS-GEN garden-3SG.POSS-LOC-REL tree-PL very old
+gloss: neighbour-1PL.POSS-GEN garden-3SG.POSS-LOC-REL tree-PL very big
 translation: The trees in our neighbour's garden are very big.
 note: A whole genitive-possessive phrase in the locative, then -ki.
 source: constructed

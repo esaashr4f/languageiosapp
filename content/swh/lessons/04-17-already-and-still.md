@@ -31,9 +31,9 @@ The negative is the "not yet" of lesson 4.5: *Sijala* "I haven't eaten yet" (Alm
 
 ### Still: -ngali and bado
 
-"Still" with a noun, an adjective or a place ("I'm still a child", "it's still raw", "she's still here") uses a special form of "be": the subject prefix + *-ngali*. *Ningali mtoto* "I'm still a child", *angali mgonjwa* "she's still ill". Wpgrammar calls it the **continuative** and gives the full set: *ningali, ungali, angali, tungali, mngali, wangali*, and for classes *ungali, ingali, lingali, kingali, vingali, zingali*. It has no tense and no negative. Wiktionary records the proverb *Samaki mkunje angali mbichi* "bend the fish while it is still fresh": teach good habits while children are young. Wiktionary also lists the variant *yungali*, with the class 1 *yu-* of *yuko*.
+"Still" with a noun, an adjective or a place ("I'm still a child", "it's still raw", "she's still here") uses a special form of "be": the subject prefix + *-ngali*. *Ningali mtoto* "I'm still a child", *angali mgonjwa* "she's still ill". Wpgrammar calls it the **continuative** and gives the full set: *ningali, ungali, angali, tungali, mngali, wangali*, and for classes *ungali, ingali, lingali, kingali, vingali, zingali*. It has no tense and no negative. Wiktionary records the proverb *Samaki mkunje angali mbichi*, literally, it says, "tie up the fish while still fresh" (*-kunja* is "fold, bend"): teach good habits while children are young. Wiktionary also lists the variant *yungali*, with the class 1 *yu-* of *yuko*.
 
-"Still" with a verb is the adverb *bado* (lesson 2.4) with a positive verb: *Bado ninasoma* "I'm still studying". With *-ja-*, *bado* means "not yet" (lesson 4.5). And "not any more" is a negative verb with *tena* (lesson 2.3): *Sisomi tena* "I don't study any more".
+*-ngali* can also stand before a verb in *-ki-* or *-me-*: Polomé gives *tuliwaona watoto wale wangali wakicheza* "we saw those children still playing", and wpgrammar notes that the continuative is often used together with other verbs. But the everyday "still" with a verb is the adverb *bado* (lesson 2.4) with a positive verb: *Bado ninasoma* "I'm still studying". With *-ja-*, *bado* means "not yet" (lesson 4.5). And "not any more" is a negative verb with *tena* (lesson 2.3): *Sisomi tena* "I don't study any more".
 
 So the four corners are:
 
@@ -185,7 +185,7 @@ confidence: constructed
 - **"Had already", "will already have"** with *kuwa*: *walikuwa wameshafika*, *watakuwa wameshaondoka*; wpgrammar: *mtakuwa mmeshazaa watoto* "you will already have had children".
 - **The full form** *-mekwisha-* (Wiktionary) and the two-verb *amekwisha kwenda* (Polomé) in writing.
 - **"Still" with nouns, adjectives, places**: *ningali mwanafunzi*, *angali mgonjwa*, *mzee angali shambani*, and with classes: *kingali*, *zingali* (wpgrammar's table).
-- **"Still" with verbs**: *bado ninasoma*, *bado anafundisha* (lesson 2.4).
+- **"Still" with verbs**: *bado ninasoma*, *bado anafundisha* (lesson 2.4); or *-ngali* + a *-ki-* verb, *wangali wakicheza* (Polomé).
 - **"Not yet"**: *-ja-* (+ *bado*).
 - **"Not any more"**: negative + *tena*: *sisomi tena*, *hakuja tena* "he didn't come again".
 
@@ -197,7 +197,7 @@ confidence: constructed
 
 **Do not drop *-me-* in writing.** *Nishakula* is common speech; wpgrammar says it may not count as standard. Write *nimeshakula*.
 
-**Do not use *-ngali* with a verb.** *\*Ningali ninasoma* is not the standard way to say "I'm still studying". Use *bado*: *Bado ninasoma.* *-ngali* goes with nouns, adjectives and places.
+**With a verb, *-ngali* is followed by *-ki-* or *-me-*, not *-na-*.** Polomé lists only those two after *-ngali*: *wangali wakicheza* "they are still playing", not *\*wangali wanacheza*. For everyday "I'm still studying", use *bado*: *Bado ninasoma.*
 
 **Do not negate *-ngali*.** *\*Singali mtoto* is not "I'm no longer a child". Say *Mimi si mtoto tena.*
 
@@ -228,7 +228,7 @@ foleni | - | noun | queue; traffic jam | 9/10, pl. foleni
 
 ## Connections
 
-German *schon* and *noch*, French *déjà* and *encore*, Spanish *ya* and *todavía* are separate words; Swahili builds "already" into the verb. Japanese もう and まだ match *-sha-* and *bado* closely, including まだ + negative for "not yet" (*bado* + *-ja-*). The growth of a "finish" verb into an "already" marker is common: Wiktionary's history of *-me-* (lesson 4.5) shows Swahili doing it twice.
+German *schon* and *noch*, French *déjà* and *encore*, Spanish *ya* and *todavía* are separate words; Swahili builds "already" into the verb. Japanese もう and まだ match *-sha-* and *bado* closely, including まだ + negative for "not yet" (*bado* + *-ja-*). Wiktionary's etymologies show Swahili turning a "finish" verb into a marker twice: *-me-* (lesson 4.5) and *-mesha-*.
 
 ## Exercises
 

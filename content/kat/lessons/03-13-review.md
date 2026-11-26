@@ -76,7 +76,7 @@ New word, glossed here only: *mḳurnali* "healer", a consonant stem in the nomi
 
 ## Worked answers
 
-1. "My name is Giorgi. I live in Mtskheta, near Tbilisi." *Čemi* "my" before *saxeli* (lesson 3-8); *giorgia* is the name with the short copula. *Mcxetaši*: *mcxeta* + *-ši*, the *-a* kept before a dative postposition (lessons 3-2, 3-5). "Our house is old, but beautiful. In the yard there are tall trees." *Čveni* (lesson 3-8); one copula serves two predicates (lesson 2-1).
+1. "My name is Giorgi. I live in Mtskheta, near Tbilisi." *Čemi* "my" before *saxeli* (lesson 3-8); *giorgia* is the name with the short copula. *Mcxetaši*: *mcxeta* + *-ši*, the *-a* kept before a dative postposition (lessons 3-2, 3-5). "Our house is old, but beautiful. In the yard there are tall trees." *Čveni* (lesson 3-8); one copula serves two predicates, as in the part 2 review (lesson 2-10).
 2. "My father works as a doctor, and my mother is a teacher at the village school." *Mamačemi*, *dedačemi* are the fused possessive forms (lesson 3-8); *ḳi* "and, but" contrasts the two. "My brother studies at Tbilisi University and is in the library from morning till evening."
 3. "He lives there together with his (own) friend, in a small flat." "In the evening we talk on the phone about films and books." *Ṭeleponit* is the instrumental of means (lesson 3-4); *-ze* "about" (lesson 3-2).
 4. "'Giorgi, how are you?' 'Fine, thanks. And you?'" "In summer we are in the mountains, at Grandma and Grandpa's." "There nobody talks about football: everyone talks about the weather!"

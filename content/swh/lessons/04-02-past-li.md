@@ -21,7 +21,7 @@ The negative is where the past differs from the present. In the negative present
 
 So the past marks "not" once at the front, as every negative does, and once in the tense slot, with its own negative marker. Polomé lists *-ku-* among the markers found only in negative forms, and describes its meaning as stating that an action did not happen at the time in question. Thompson and Schleicher give the formula as negative prefix + subject prefix + *-ku-* + verb stem.
 
-Why *-li-* and *-ku-*? The sources used here describe the forms but do not explain their origin, and this guide will not guess. What matters for building is that *-ku-* now has a third job. You know *ku-* as the infinitive prefix; in slot 4, after a negative subject, it is the negative past. Position tells them apart.
+Where does *-li-* come from? Wiktionary's etymology traces it to an older past marker *-a-* followed by *-li* "be", a verb root that survives in modern Swahili only in a few forms of "be" (part 6 meets it in *aliye* "who is"). So the past was once, roughly, "was" + verb. For the negative *-ku-*, the sources used here give no origin, and this guide will not guess. What matters for building is that *-ku-* now has a third job. You know *ku-* as the infinitive prefix; in slot 4, after a negative subject, it is the negative past. Position tells them apart.
 
 ## How it is built
 

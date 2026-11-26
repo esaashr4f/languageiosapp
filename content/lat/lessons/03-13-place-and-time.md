@@ -207,7 +207,7 @@ confidence: attested
 
 **Do not use the accusative for a point of time.** *\*Prīmam lūcem ambulat* treats a moment as a stretch. A point is ablative: *prīmā lūce*.
 
-**Do not use the ablative for a stretch out of English habit.** "For many years" is *multōs annōs*, not *\*multīs annīs*, which would mean "within many years" (ag1903 §423).
+**Do not use the ablative for a stretch out of English habit.** "For many years" is *multōs annōs*, not *\*multīs annīs*, which normally means "within many years" (ag1903 §423; the ablative for duration is only occasional, §424).
 
 **Do not say *\*in hieme* for "in winter".** Time when takes no preposition: *hieme*.
 

@@ -181,7 +181,7 @@ morphemes: re barbar-a kim vada-si
 gloss: hey barbarian-VOC.SG what speak-2SG
 translation: You oaf, what are you saying?
 note: Preview: here kim is "what" (part 6), not the yes/no Q. re is the contemptuous call; barbara "barbarian, fool" is glossed in place. GRETIL punctuates with ! and ?, editorial marks not used in this guide.
-source: Hitopadeśa 3, story 5 (prose after verse 3.25; GRETIL e-text sa_nArAyaNa-hitopadeza)
+source: Hitopadeśa 3, story 6 (prose after verse 3.25; GRETIL e-text sa_nArAyaNa-hitopadeza)
 confidence: attested
 :::
 

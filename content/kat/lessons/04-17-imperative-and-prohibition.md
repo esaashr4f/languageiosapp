@@ -98,7 +98,7 @@ preview: NV
 orig: მოდი აქ!
 translit: modi ak!
 morphemes: modi ak
-gloss: come.IMP here
+gloss: come here
 translation: Come here!
 note: An irregular imperative (Wiktionary: მოდი, plural მოდით).
 source: constructed

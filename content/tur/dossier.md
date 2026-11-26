@@ -4,17 +4,17 @@ Built 2026-11-12. Source ids refer to `sources.json`. Everything a drafting or v
 
 ## 1. Variety taught
 
-- **Base:** modern standard Turkish (Türkiye Türkçesi) as written and as spoken by educated speakers in Istanbul. It is the variety described by goksel2025, lewis2000 and kornfilt1997, codified by tdk, and the one wpphon's phonetic sources (zimmerorgun1999) describe as "Istanbul Turkish".
+- **Base:** modern standard Turkish (Türkiye Türkçesi) as written and as spoken by educated speakers in Istanbul. It is the variety described by goksel2005, lewis2000 and kornfilt1997, codified by tdk, and the one wpphon's phonetic sources (zimmerorgun1999) describe as "Istanbul Turkish".
 - **Written versus spoken.** Teach the standard spelling, and give the natural spoken form in the note where it differs. Label spoken forms `colloquial` in the example note. The main ones (tur-07-09):
   - Future -(y)AcAK before a vowel-initial person ending loses its first vowel and the ğ: *yapacağım* is said *yapıcam*. Checked: wiktionary entry *yapıcam* "(informal) Spoken variant of yapacağım", with the note that it is "widespread in everyday informal speech" and "inappropriate in written forms". *gelicem* for *geleceğim* follows the same pattern **(unverified: no entry opened)**.
-  - -(I)yor loses its r in speech, and 1SG -(I)yorum is often said -(I)yom: *geliyo*, *geliyom*, *napıyosun* for *ne yapıyorsun* **(unverified: no source opened; check goksel2025 ch. 2 or ketrez2012 before stating it as fact; until then present it as "you will hear")**.
+  - -(I)yor loses its r in speech, and 1SG -(I)yorum is often said -(I)yom: *geliyo*, *geliyom*, *napıyosun* for *ne yapıyorsun* **(unverified: no source opened; check goksel2005 ch. 2 or ketrez2012 before stating it as fact; until then present it as "you will hear")**.
   - Formal written forms to label `formal`: -mAktA (*gelmektedir*), -DIr on every statement, the 3PL -lAr on verbs with a plural subject (*doğarlar*), -(y)ArAk and -mAksIzIn chains (tur-07-08).
 - **Older and other varieties:** Old Anatolian Turkish appears only in the capstone reading (Yunus Emre, tur-08-08) and Ottoman-era formal vocabulary only in tur-07-11 and the readings tur-08-04 and tur-08-07. Ottoman Turkish (`ota`) has its own guide: cross-link to it, do not teach the Arabic script here. Regional dialects (e.g. the uvular [q] for k before back vowels in the east and southeast, wpphon) and Cypriot and Balkan Turkish are named in tur-07-12 only.
 - **Why this variety:** it is the language of Turkish schools, media and almost all writing; every grammar and dictionary listed describes it; it is what a learner hears in Turkey.
 
 ## 2. Phoneme inventory
 
-Sources: wpphon (pointer to zimmerorgun1999 and goksel2025, opened); wals 1A–19A (opened: consonant inventory "average", vowels "large (7–14)", "front rounded vowels: high and mid", no tones, no uvulars, no glottalised consonants); tdk for individual long vowels and palatal consonants. zimmerorgun1999 and goksel2025 themselves were not opened.
+Sources: wpphon (pointer to zimmerorgun1999 and goksel2005, opened); wals 1A–19A (opened: consonant inventory "average", vowels "large (7–14)", "front rounded vowels: high and mid", no tones, no uvulars, no glottalised consonants); tdk for individual long vowels and palatal consonants. zimmerorgun1999 and goksel2005 themselves were not opened.
 
 ### Vowels
 
@@ -136,7 +136,7 @@ The example words not marked otherwise come from wpphon's tables or were checked
 
 ### How suffixes are cited: archiphonemes
 
-In **prose, tables and the dossier**, a suffix is cited in the archiphoneme notation of goksel2025 (the notation is widely used in Turkish linguistics; goksel2025 was not opened, so check its exact conventions before citing it as the source):
+In **prose, tables and the dossier**, a suffix is cited in the archiphoneme notation of goksel2005 (the notation is widely used in Turkish linguistics; goksel2005 was not opened, so check its exact conventions before citing it as the source):
 
 | Symbol | Stands for | Example |
 |---|---|---|
@@ -194,10 +194,10 @@ Check every form with `python3 tools/wikt.py <word> Turkish` (prints full declen
 
 | Topic | Model words | Checked in this session | Where else to check |
 |---|---|---|---|
-| Front-vowel noun | ev (evi, eve, evde, evden, evin; possessives evim ... evleri; evimde, evinde) | wikt table | goksel2025 ch. 8 |
+| Front-vowel noun | ev (evi, eve, evde, evden, evin; possessives evim ... evleri; evimde, evinde) | wikt table | goksel2005 ch. 8 |
 | Back rounded / front rounded | gün (günü, güne, günde, günden, günün) | wikt table | |
 | Vowel-final noun (buffer y, n, s) | araba (arabayı, arabaya, arabanın, arabam, arabası); su (suyu, suya, suyun: irregular y) | wikt tables | |
-| Final stop alternation | kitap/kitabı, ağaç/ağacı, köpek/köpeği, renk/rengi (nk → ng), kalp/kalbi; but saat/saati, kâğıt/kâğıdı (tdk taki "dı") | wikt tables; tdk | goksel2025 ch. 2 |
+| Final stop alternation | kitap/kitabı, ağaç/ağacı, köpek/köpeği, renk/rengi (nk → ng), kalp/kalbi; but saat/saati, kâğıt/kâğıdı (tdk taki "dı") | wikt tables; tdk | goksel2005 ch. 2 |
 | Vowel loss | oğul/oğlu, ağız/ağzı, burun/burnu, isim/ismi | wikt tables | |
 | Loanword harmony | saat/saate/saatler; rol/rolü; hâl/hâle | wikt (saat); tdk (rol, hâl) | wpphon "Consonantal effects" |
 | Personal pronouns | ben (beni, bana, bende, benden, benim), sen (seni, sana...), o (onu, ona, onda, ondan, onun), biz, siz, onlar | wikt tables | |
@@ -207,7 +207,7 @@ Check every form with `python3 tools/wikt.py <word> Turkish` (prints full declen
 | Existential | yok: yokum, yoksun, yok(tur); past yoktum, yoktu; evid. yokmuşum | wikt table | |
 | Question particle | mi: miyim, misin, mi, miyiz, misiniz, mi; miydim, miymiş, miyse | wikt table | |
 | -(I)yor | geliyorum ... geliyorlar; neg. gelmiyorum; past geliyordum; evid. geliyormuşum | wikt (gelmek) | |
-| Aorist, -Ar stems | yapar, bakar, çıkar, yazar, satar, sever, ister, içer, gider, eder; vowel stems okur, anlar, bekler, söyler; der, yer | wikt tables | goksel2025 ch. 8 |
+| Aorist, -Ar stems | yapar, bakar, çıkar, yazar, satar, sever, ister, içer, gider, eder; vowel stems okur, anlar, bekler, söyler; der, yer | wikt tables | goksel2005 ch. 8 |
 | Aorist, -Ir monosyllables (13) | alır, bilir, bulur, durur, gelir, görür, kalır, olur, ölür, sanır, varır, verir, vurur | all 13 checked in wikt tables | lewis2000 (unverified section) |
 | Aorist, polysyllables | anlatır, çalışır, götürür, konuşur; passives yapılır, sevilir | wikt tables | |
 | Negative aorist | gelmem, gelmezsin, gelmez, gelmeyiz, gelmezsiniz, gelmezler | wikt table | |
@@ -224,7 +224,7 @@ Check every form with `python3 tools/wikt.py <word> Turkish` (prints full declen
 | Voice | yaptırmak (yaptırır), öldürmek, okutmak; yapılmak, okunmak, sevilmek, gösterilmek, denmek; yıkanmak; görüşmek | wikt entries with tables | kornfilt1997 (wals 111A cites pp. 331–335) |
 | Suffix allomorphs | -ler/-lar; -dir (8 forms); -di, -dik (8 forms); -ecek; -miş; -meli; -en; -mek; -ip; -erek; -ince; -se; -le/-yle; -den/-ten; -i; -in/-nin; -im/-m; -sız; -lı; -ce/-ça; -ken; -mez | wikt suffix entries with allomorph tables | |
 
-**Syllabus checked against:** the chapter-level table of contents of goksel2025 (2nd ed., opened at the publisher's site). Every chapter maps to lessons: 1–5 phonology → part 1; 6 suffixation → tur-00-02, tur-04-01, tur-09-01; 7 derivation → tur-05-09, tur-05-10; 8 inflection → parts 3 and 4; 9 reduplication → tur-05-11; 10 noun compounds → tur-03-07; 11 clitics → tur-02-05, tur-04-08, tur-05-08; 12 simple and complex sentences → tur-02-01, tur-06-14; 13 verb phrase (voice, auxiliaries) → tur-07-01 to tur-07-06; 14 noun phrase → part 3; 15 adjectives, determiners, numerals → tur-05-01 to tur-05-03; 16 adverbials → tur-05-01, tur-05-04; 17 postpositions → tur-05-05 to tur-05-07; 18 pronouns → tur-03-09, tur-03-10, tur-07-04; 19 questions → tur-02-05, tur-03-11, tur-04-14; 20 negation → tur-02-04, tur-02-09, tur-06-12; 21 tense, aspect and modality → part 4, tur-07-05; 22 definiteness and specificity → tur-02-01, tur-03-01; 23 word order → tur-02-07, tur-07-10; 24 noun clauses → tur-06-01 to tur-06-03; 25 relative clauses → tur-06-04, tur-06-05; 26 adverbial clauses → tur-06-06 to tur-06-08, tur-06-13; 27 conditionals → tur-06-09, tur-06-10; 28 conjunctions and discourse connection → tur-05-08, tur-06-11. Appendix 2 (tense, aspect and modality markers) → tur-09-01, tur-09-03. Nothing at chapter level is missing. The chapters' internal sections were not seen.
+**Syllabus checked against:** the chapter-level table of contents of goksel2005 (2nd ed., opened at the publisher's site). Every chapter maps to lessons: 1–5 phonology → part 1; 6 suffixation → tur-00-02, tur-04-01, tur-09-01; 7 derivation → tur-05-09, tur-05-10; 8 inflection → parts 3 and 4; 9 reduplication → tur-05-11; 10 noun compounds → tur-03-07; 11 clitics → tur-02-05, tur-04-08, tur-05-08; 12 simple and complex sentences → tur-02-01, tur-06-14; 13 verb phrase (voice, auxiliaries) → tur-07-01 to tur-07-06; 14 noun phrase → part 3; 15 adjectives, determiners, numerals → tur-05-01 to tur-05-03; 16 adverbials → tur-05-01, tur-05-04; 17 postpositions → tur-05-05 to tur-05-07; 18 pronouns → tur-03-09, tur-03-10, tur-07-04; 19 questions → tur-02-05, tur-03-11, tur-04-14; 20 negation → tur-02-04, tur-02-09, tur-06-12; 21 tense, aspect and modality → part 4, tur-07-05; 22 definiteness and specificity → tur-02-01, tur-03-01; 23 word order → tur-02-07, tur-07-10; 24 noun clauses → tur-06-01 to tur-06-03; 25 relative clauses → tur-06-04, tur-06-05; 26 adverbial clauses → tur-06-06 to tur-06-08, tur-06-13; 27 conditionals → tur-06-09, tur-06-10; 28 conjunctions and discourse connection → tur-05-08, tur-06-11. Appendix 2 (tense, aspect and modality markers) → tur-09-01, tur-09-03. Nothing at chapter level is missing. The chapters' internal sections were not seen.
 
 ## 6. Points of scholarly disagreement or uncertainty
 
@@ -235,9 +235,9 @@ Say so in the lesson when one of these comes up.
 3. **Zero copula.** In speech the 3SG present of 'be' has no marker (*Ali öğretmen* 'Ali is a teacher'); wals 120A nevertheless codes Turkish as "zero copula impossible" (after the 1967 edition of lewis2000), presumably counting the person endings and -DIr. Teach the facts; mention the classification only if useful.
 4. **-mIş: evidential, perfect, or both?** wals 77A–78A (after aksukoc1986) treat -mIş as an indirect evidential in the tense system; wals 68A says Turkish has "no perfect"; yet -mIş is clearly resultative in participles and compound tenses (*gelmişti*, *kurumuş*), which is why this guide glosses it by function (section 4). Mirative use (surprise at something one sees: *Ne güzelmiş!* 'how pretty it is!') is described in the literature **(unverified: no source opened gives the example)**.
 5. **The aorist's meaning** (habit, general truth, willingness, prediction, polite requests) is not a tense in the European sense, and the name is a misnomer from Greek grammar. Grammars differ in how they label it (wiktionary "aorist", also "simple present" in its headword lines).
-6. **-(I)yor: progressive or imperfective?** It covers ongoing and, increasingly, habitual meaning; goksel2025 describes it as imperfective **(unverified)**. This guide glosses it PROG and explains the wider use in tur-04-16.
+6. **-(I)yor: progressive or imperfective?** It covers ongoing and, increasingly, habitual meaning; goksel2005 describes it as imperfective **(unverified)**. This guide glosses it PROG and explains the wider use in tur-04-16.
 7. **Optative.** wals 73A says there is no inflectional optative (after the 1967 edition of lewis2000 and Kononov); wiktionary's tables have an "optative" row (geleyim, gele...). The forms are not in dispute; the label is. Use "optative" and say that its 3rd-person forms are now rare and formal **(rarity unverified)**.
-8. **Clitic or suffix?** The question particle mI, the copular markers -(y)DI, -(y)mIş, -(y)sA, the person endings after them, and -DIr are pre-accenting and attach to whole phrases (*güzel ve akıllı-dır*); goksel2025 ch. 11 treats some as clitics. This guide writes them with hyphens like suffixes (following spelling), except mI and de, which are spelt apart.
+8. **Clitic or suffix?** The question particle mI, the copular markers -(y)DI, -(y)mIş, -(y)sA, the person endings after them, and -DIr are pre-accenting and attach to whole phrases (*güzel ve akıllı-dır*); goksel2005 ch. 11 treats some as clitics. This guide writes them with hyphens like suffixes (following spelling), except mI and de, which are spelt apart.
 9. **-DIK: participle or nominaliser?** The same suffix forms "fact" clauses (*geldiğini biliyorum*) and object relative clauses (*geldiğim yer*). Some descriptions call it a participle in both, others a nominaliser **(unverified who says which)**. One gloss, NMLZ, in both uses.
 10. **Number of cases**: six or seven, depending on whether -(y)lA counts (wals 49A "6–7").
 11. **Origins.** Do not give etymologies of suffixes unless a source opened in the session states them. The origin of -(I)yor in a compound with an old verb *yorı-* 'walk' is stated in wpphon (note 3) and is the standard view **(check wiktionary's etymology of -iyor before stating it)**. The copular markers come from an old verb *i-* 'be', still visible in *idi*, *imiş*, *ise* (spelling evidence, safe to state). Etymologies of loanwords: cite tdk's *lisan* field (e.g. kitap < Arabic kitāb; kâğıt < Persian; rol < French rôle, all checked).
@@ -306,3 +306,11 @@ Translations are always our own.
 - Segmentation: negative before -(I)yor `gel-mi-yor`, `anla-mı-yor` (come-NEG-PROG); positive `anl-ıyor`. Pronoun + accusative `sen-i`, `ben-i` (2SG-ACC). *kimse* `anyone`, *hiç* `at.all`, *artık* `any.more` with a negative.
 - Rule relaxed: acute stress marks may appear in prose and notes from part 2 on (as tur-02-01 to 02-10 do), not only in tur-01-07 and vocab notes.
 - For part 3: *bakmak*, *inanmak* introduced as intransitive only (tur-03-02 adds the dative); *seni*, *beni*, *annem* previewed; only non-specific bare objects so far; *şehir* (acc. şehri) introduced with its vowel-loss note for tur-03-01; *yemek* is in vocab as noun (02-07) and verb (02-08).
+
+
+## Notes from verifying parts 0–1 (2026-11-26)
+
+- Stress: Ánkara (G&K §4.1.2, Wiktionary), not Ankára. *kâr* bare form short [caɾ]; TDK's length is on the accusative kâ:rı.
+- No longer unverified: cam, çay, şey, jilet (Wiktionary); -(I)yor < Proto-Turkic *yorı- (Wiktionary); Altaic rejected (Glottolog: Turkic is a top-level family); 1928/1932 dates (G&K Introduction); G&K's "imperfective" for -(I)yor (§8.2.3.3).
+- Arabic tāʼ marbūṭa loans: front harmony usual but not universal (rahat, sanat back; Lewis 2001 via Wikipedia).
+- The dossier's G&K is the owner's 2005 edition (goksel2005) wherever forms were checked.

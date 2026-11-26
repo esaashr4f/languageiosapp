@@ -102,14 +102,13 @@ confidence: constructed
 :::
 
 :::example
-orig: Mama hayupo.
-morphemes: mama ha-yu-po
-gloss: mother.C9 NEG-C1.SM-C16
-translation: Mother isn't here.
-note: Negative: ha- in front of yu-. Mama is a class 9 noun that takes class 1 agreement because it names a person (lesson 3.9). Preview: C9.
+orig: Mzee hayupo.
+morphemes: m-zee ha-yu-po
+gloss: C1-elder NEG-C1.SM-C16
+translation: The old man isn't here.
+note: Negative: ha- goes in front of yu-, which stays.
 source: constructed
 confidence: constructed
-preview: C9
 :::
 
 :::example

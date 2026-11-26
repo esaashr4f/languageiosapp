@@ -8,7 +8,7 @@ point: Read a verb's dictionary entry and know which stem builds which forms
 requires: [lat-03-13]
 introduces: [conjugation, principal-parts]
 confidence: verified
-sources: [ag1903, wiktionary, thelatinlibrary]
+sources: [ag1903, wiktionary, thelatinlibrary, weiss2020, sihler1995]
 ---
 
 ## The idea

@@ -180,7 +180,7 @@ preview: PL
 
 **Rounding plays no part here.** *Gözler*, not \**gözlör*. A two-way suffix has only *e* or *a*. It never takes *o* or *ö*, which, as lesson 1 showed, no native suffix contains.
 
-**A word with one vowel is easy; a long word is no harder.** However many suffixes you add, each new one looks at the vowel immediately before it. Since each suffix already agrees with the one before, the whole chain stays on one side.
+**A word with one vowel is easy; a long word is no harder.** However many suffixes you add, each new one looks at the vowel immediately before it. Since each suffix already agrees with the one before, the whole chain stays on one side. (A few suffixes have a vowel that never changes; each is pointed out when it is taught.)
 
 **A handful of loanwords break the rule.** *Saat* "hour" ends in a back vowel but takes front suffixes: *saatler*. Lesson 8 explains why. For native words and most loans, the rule here holds without exception.
 

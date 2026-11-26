@@ -156,7 +156,7 @@ confidence: verified
 
 **h is voiced.** It is not the voiceless English *h* of *hat*, and it is not the visarga *ḥ*. Sanskrit *h* begins syllables and is voiced; visarga ends syllables and is voiceless.
 
-**Anusvāra is not always [m].** Readers often say every *ṃ* as [m]. Before *k* it is [ŋ], before *t* [n̪], and before *s* or *h* it nasalises the vowel. Only before *p*, *b* and *m*, and at a pause, is it [m].
+**Anusvāra is not always [m].** Readers often say every *ṃ* as [m]. Before *k* it is [ŋ], before *t* [n̪], and before *s* or *h* it nasalises the vowel. Only before the labials *p ph b bh m* is it [m]; at a pause the guide writes *m* itself, not *ṃ*.
 
 **Visarga is a sound, not a silent mark.** Say a short breath after the vowel: *punaḥ* is not *puna*. It also makes the syllable heavy (san-01-02).
 

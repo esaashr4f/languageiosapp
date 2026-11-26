@@ -28,11 +28,11 @@ When you meet an ablative, ask these questions in order. Stop at the first that 
 1. **Is there a preposition?** Then the preposition decides: *ē silvā* "out of the forest", *dē mūrō* "down from the wall", *sine metū* "without fear". With *cum*, a person means company (*cum amīcīs*), an abstract noun means manner (*cum cūrā*).
 2. **Is there a comparative nearby?** An ablative of a person or thing is "than": *Mārcus Quīntō altior* (ablative of comparison, ag1903 §406). An ablative of amount is "by how much": *multō altior* "much taller", *paulō post* "a little later", *tribus annīs ante* "three years before" (ablative of degree of difference, ag1903 §414).
 3. **Is the verb or adjective one of the fixed groups?** Several take the ablative where English has a direct object or "of":
-   - *ūtor* "use", *fruor* "enjoy", *fungor* "perform", *potior* "take possession of", *vēscor* "feed on" (ag1903 §410). Allen and Greenough explain this as an old ablative of means with verbs that were really middle: *ūtor gladiō* was "I serve myself by means of a sword" (ag1903 §410 note).
+   - *ūtor* "use", *fruor* "enjoy", *fungor* "perform", *potior* "take possession of", *vēscor* "feed on" (ag1903 §410). Allen and Greenough explain this as an old ablative of means with verbs that were really middle: *ūtor gladiō* was "I employ myself by means of a sword" (ag1903 §410 note).
    - verbs of lacking and freeing: *careō*, *egeō* "need, lack", *līberō*, *prīvō* "deprive" (ag1903 §401);
    - *dignus* "worthy of", *indignus* "unworthy of" (ag1903 §418b); *frētus* "relying on", *contentus* "content with" (ag1903 §431a);
    - *opus est* "there is need of": *Pecūniā opus est* "money is needed" (ag1903 §411);
-   - verbs of filling, and *plēnus* "full of" (ag1903 §409a).
+   - verbs of filling, such as *compleō* "fill" (ag1903 §409a). The adjective *plēnus* "full of" regularly takes the genitive in prose instead (ag1903 §409a note; lesson 9).
 4. **Does it say what something costs?** *Magnō emit* "he bought it at a high price"; *vīgintī dēnāriīs* "for twenty denarii" (*dēnārius* is a silver coin) (ablative of price, ag1903 §416).
 5. **Is it a noun with an adjective, describing a person or thing?** Then it is the ablative of description, also called quality: *vir magnā virtūte* "a man of great courage" (ag1903 §415). It works like an adjective: it attaches to a noun, not to the verb.
 6. **Does it say in what respect something is true?** Typically with adjectives or verbs of excelling and differing: *virtūte praecēdunt* "they excel in courage"; *nōn rē sed nōmine* "not in fact but in name" (ablative of respect, or specification, ag1903 §418).
@@ -168,7 +168,7 @@ confidence: attested
 
 **The "with" ablative**
 
-- **Means**: *gladiō*, *vī*; with *ūtor*, *fruor*, *fungor*, *potior*, *vēscor* (ag1903 §§409-410); with *compleō*, *plēnus* (ag1903 §409a).
+- **Means**: *gladiō*, *vī*; with *ūtor*, *fruor*, *fungor*, *potior*, *vēscor* (ag1903 §§409-410); with verbs of filling such as *compleō* (ag1903 §409a; *plēnus* prefers the genitive, lesson 9).
 - **Accompaniment**, with *cum* for people: *cum amīcīs*. In military phrases *cum* may be left out: *omnibus cōpiīs* "with all his forces" (ag1903 §413a).
 - **Manner**: *cum cūrā*, *magnā cūrā*; *iūre*, *silentiō*, *mōre* (ag1903 §412b).
 - **Description**: *vir summō ingeniō*; physical features especially: *capillō prōmissō* "with long hair" (Caesar, Gallic War 5.14, quoted in ag1903 §415a). The genitive can also describe (lesson 9).
@@ -265,7 +265,7 @@ Arabic marks the state in which someone acts with an accusative, the *ḥāl*, a
 1. Name the use of each ablative: *metū fūgērunt*; *ā patre laudātus est*; *nāve vectus est*; *cum frātre vēnit*; *pede claudus* (*claudus* "lame").
 2. Say "the city was taken by Caesar with great speed".
 3. Say "he was a man of great authority but unworthy of honour".
-4. Translate *Gallī capillō longō erant* and name the use.
+4. Translate *Gallī capillō longō erant* (*Gallī* "the Gauls") and name the use.
 5. Correct *\*Cum gladiō et ab saxīs pugnāvērunt*.
 6. Say "we need money" with *opus est* and with *egeō*.
 7. Translate *Multō plūrēs mīlitēs paucīs post diēbus vēnērunt* and explain both ablatives.

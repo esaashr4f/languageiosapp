@@ -44,7 +44,7 @@ The six forms after *hasta* are *hasta mıyım*, *hasta mısın*, *hasta mı*, *
 
 **Negative questions.** Put *mI* after *değil*, and the ending after *mI*: *Hasta değil misin?* "Aren't you ill?" *Değil* ends in *i*, so the forms are *değil miyim*, *değil misin*, *değil mi*, *değil miyiz*, *değil misiniz*, *değil(ler) mi* (wiktionary, *değil*).
 
-**Questioning one word.** Put *mI* straight after that word, and keep the predicate last: *Ali mi hasta?* The stress falls on the word before *mI*: *ALİ mi hasta?* Göksel and Kerslake note that such a word normally stands just before the predicate, and never after it (goksel2005 §19.1.1.1).
+**Questioning one word.** Put *mI* straight after that word, and keep the predicate last: *Ali mi hasta?* The stress falls on the word before *mI*, on its last syllable: *Alí mi hasta?* Göksel and Kerslake note that such a word normally stands just before the predicate, and never after it (goksel2005 §19.1.1.1).
 
 **Stress inside the word.** Because *mI* refuses stress, the syllable before it takes it: *hastá mı*, *yorgún mu*. Endings after *mI* do not change this: *hastá mısınız*. A word with fixed stress may keep it or let it move to the syllable before *mI*: Göksel and Kerslake give both *İstánbul mu?* and *İstanbúl mu?* (goksel2005 §4.3.2.1).
 
@@ -246,7 +246,7 @@ Amerikalı | - | proper noun | American person | Amerika + -lI
 
 ## Connections
 
-Japanese か and Korean -까 also leave the statement intact and add one piece. The difference is placement: they close the whole sentence, while Turkish *mI* attaches to the questioned word and only lands at the end when that word is the predicate. Japanese marks a questioned part with a cleft (アリなの?) rather than by moving か; Turkish moves the particle. The resemblance is typological, not a sign of shared ancestry.
+Japanese か and Korean -까 also leave the statement intact and add one piece. The difference is placement: they close the whole sentence, while Turkish *mI* attaches to the questioned word and only lands at the end when that word is the predicate. To question one part, Turkish moves the particle. The resemblance is typological, not a sign of shared ancestry.
 
 ## Exercises
 

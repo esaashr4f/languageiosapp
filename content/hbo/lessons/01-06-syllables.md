@@ -143,9 +143,9 @@ confidence: verified
 
 **Same letters, same points, different words.** *Ləʾoḵlâ* "for food" and *ʾāḵəlâ* "it consumed" are pointed alike in this guide's Hebrew. In WLC the verb has a meteg and the noun does not. When you meet such a pair in a printed Bible, look for the meteg. Where the guide's text has stripped it, trust the transliteration.
 
-**Not every qameṣ before a shewa is o.** *Šāmərû*-type forms, where the qameṣ is open and the shewa vocal, keep ā. The test is whether the syllable is closed, not whether a shewa follows.
+**Not every qameṣ before a shewa is o.** Where the syllable is open and the shewa vocal, as in *ʾāḵəlâ*, the qameṣ is ā. The test is whether the syllable is closed, not whether a shewa follows.
 
-**Kol and kōl are one word.** כֹּל *kōl* "all" is spelled with ḥolem when it stands alone. Before maqqef it is written with qameṣ, כָּל־, and read *kol*. The vowel letter does not change, and the meaning does not either. The quality is the same [ɔ]-like vowel; only the length and the sign differ.
+**Kol and kōl are one word.** כֹּל *kōl* "all" is spelled with ḥolem when it stands alone. Before maqqef it is written with qameṣ, כָּל־, and read *kol*. The consonants and the meaning stay the same; only the stress, and with it the vowel, changes.
 
 **Furtive pataḥ is not a second syllable.** Do not read *rûaḥ* as *rû-ḥa* or as *ru-a-ḥa*. The pataḥ is a glide into the guttural.
 
@@ -158,7 +158,7 @@ source: gkc1910 §9u; khan2020 §I.5.2
 | Where it stands | Read | Example |
 |---|---|---|
 | open syllable | ā | šā-lôm, dā-ḇār |
-| stressed syllable | ā | mid-bā́r |
+| stressed syllable | ā | miḏ-bā́r |
 | closed syllable without the stress | o (qameṣ ḥaṭuf) | ḥoḵ-mâ, kol-, way-yā́-qom |
 | before ḥaṭef qameṣ | o | (lesson 5: the o belongs to the word) |
 | with meteg before a shewa (in printed Bibles) | ā | ʾā-ḵə-lâ |
@@ -177,7 +177,7 @@ source: gkc1910 §9u; khan2020 §I.5.2
 
 ## Connections
 
-Arabic has the same rule that a syllable starts with exactly one consonant, and fills a word-initial cluster with a helping vowel, as in *ibn* "son". Hebrew *šālôm* and Arabic *salām* are the same word, and the different first consonants (š and s) are the regular correspondence between the two languages.
+Arabic has the same rule that a syllable starts with exactly one consonant, and fills a word-initial cluster with a helping vowel, as in *ibn* "son". Hebrew *šālôm* and Arabic *salām* are cognates, and Hebrew š often answers to Arabic s in this way.
 
 ## Exercises
 

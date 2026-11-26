@@ -207,7 +207,7 @@ confidence: attested
 
 **So the article can be hidden.** *Bəʾereṣ* is "in a land"; *bāʾāreṣ* is "in the land". The vowel of the prefix is the only sign of the article. Read it carefully.
 
-**Do not prefix *min* before the article.** *\*mēhāʾăḏāmâ* is not the classical form. Before the article write *min-hāʾăḏāmâ* (§102b). A few late books do otherwise.
+**Do not prefix *min* before the article.** Before the article the usual form is the separate *min-hāʾăḏāmâ* (§102b), not *\*mēhāʾăḏāmâ*. Gesenius notes a few exceptions, so the rule is not absolute, but follow it when you build.
 
 **Not *\*mibḥārān*.** Gutturals cannot double, so *mi-* + ḥ gives *mē-*: *mēḥārān*.
 

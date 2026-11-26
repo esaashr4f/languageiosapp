@@ -13,7 +13,7 @@ sources: [hewitt1995, aronson1990, bolkvadze2023, wiktionary, wikipedia]
 
 ## The idea
 
-Mkhedruli is the third Georgian script, not the first. Georgian has been written in three, one after the other. Bolkvadze and Kiziria describe them as stages of one development: the same letters, in the same order, with the same names, changing shape over time.
+Mkhedruli is the third Georgian script, not the first. Georgian has been written in three, one after the other. Bolkvadze and Kiziria describe them as stages of one development, with gradual transitions from one to the next; Wikipedia adds that the three share the same letter names and the same order, and differ in shape.
 
 1. **Asomtavruli**, also called **Mrgvlovani** "rounded": the oldest script, of round, equal-height letters. Hewitt dates its use from the fifth to the ninth century. The two oldest dated Georgian inscriptions, of about 430 in the Holy Land and of 494 at Bolnisi, are in this script.
 2. **Nuskhuri**, also called **Kutkhovani** "angular": a smaller, angular book hand that developed from Asomtavruli. Hewitt gives its first appearance as a manuscript of 864 and says it was used for most manuscripts of the tenth and eleventh centuries, with Asomtavruli letters as capitals. The church kept this pair, called **Khutsuri** "ecclesiastical", for sacred texts.

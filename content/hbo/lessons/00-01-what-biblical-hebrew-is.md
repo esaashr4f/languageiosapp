@@ -44,8 +44,8 @@ The dots and dashes are called the **pointing** (in Hebrew *niqqud*). They were 
 So the pointing does not record how Isaiah or the scribes of Kings spoke. It records a **reading tradition**: how the text was recited aloud in the synagogue at Tiberias. That tradition was careful and old, and in most things it can be trusted. But it also contains features that arose after the biblical period, and this guide says so when they come up. Three examples you will meet in part 1:
 
 - Six letters have two pronunciations, a hard one and a soft one (b and v, k and the *ch* of "Bach"). The soft forms probably arose under Aramaic influence, late in the biblical period or after it.
-- Two letters, ḥêṯ and ʿayin, each once stood for two different sounds. The pairs had merged by about 200 BC.
-- One letter with a dot, śîn, was read as plain s by the Masoretes. Earlier it was probably a different sound.
+- Two letters, ḥet and ʿayin, each once stood for two different sounds. The pairs had merged by about 200 BC.
+- One letter with a dot, sin, was read as plain s by the Masoretes. Earlier it was probably a different sound.
 
 ## Which Hebrew this guide teaches
 

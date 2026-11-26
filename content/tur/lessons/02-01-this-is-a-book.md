@@ -39,11 +39,11 @@ To build a nominal sentence, take four steps.
 4. **Decide whether the predicate noun needs *bir*.**
    - When you say what job, nationality or kind of person someone is, leave *bir* out: *Ali öğretmen*, "Ali is a teacher". Göksel and Kerslake note that this bare form is the regular choice for occupation, nationality and social status (goksel2005 §22.3).
    - When you identify a thing, use *bir*: *Bu bir kitap*, "this is a book".
-   - When an adjective describes the predicate noun, put *bir* after the adjective and before the noun: *Ayşe iyi bir doktor*, "Ayşe is a good doctor". Göksel and Kerslake give this order as much the more common one (goksel2005 §15.9.2).
+   - When an adjective describes the predicate noun, put *bir* after the adjective and before the noun: *Ayşe iyi bir doktor*, "Ayşe is a good doctor". Göksel and Kerslake say *bir* usually follows the adjective (goksel2005 §15.9.2).
 
 **Order decides between a phrase and a sentence.** An adjective in front of a noun describes it, and the two together make a **phrase**, a group of words that is not yet a sentence: *eski ev* "the old house". An adjective after the noun is a predicate, and the two together make a sentence: *Ev eski* "the house is old". The words are the same. Only their order differs.
 
-**Where the stress goes.** In a nominal sentence the strongest stress of the sentence falls on the predicate (goksel2005 §23.1.2.1): *Ali öğretMEN*. If an adjective describes the predicate noun, the stress falls on the adjective: *Ayşe İYİ bir doktor*. Capitals here, as in Göksel and Kerslake, show sentence stress; they are not Turkish spelling. Inside each word the stress follows the rules of tur-01-07. The voice falls at the end, as in any statement.
+**Where the stress goes.** In a nominal sentence the strongest stress of the sentence falls on the predicate (goksel2005 §23.1.2.1): *Ali öğretMEN*. If an adjective describes the predicate noun, the stress falls on the adjective: *Ayşe iYİ bir doktor*. Capitals here, as in Göksel and Kerslake, show sentence stress; they are not Turkish spelling. Inside each word the stress follows the rules of tur-01-07. The voice falls at the end, as in any statement.
 
 ## Examples
 

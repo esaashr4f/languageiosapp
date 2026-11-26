@@ -64,7 +64,7 @@ preview: 1, SG, POSS
 :::example
 orig: kızım
 morphemes: kız-ım
-gloss: girl-1SG.POSS
+gloss: daughter-1SG.POSS
 translation: my daughter
 note: Preview. After ı (back, unrounded): -ım.
 source: wiktionary

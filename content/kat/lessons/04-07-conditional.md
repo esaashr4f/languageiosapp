@@ -209,7 +209,7 @@ source: bolkvadze2023 §9.6.1.2; wiktionary (წერს, ხატავს)
 შუქი | šuki | noun | light; electricity |
 სანთელი | santeli | noun | candle | gen. სანთლის
 ცეცხლი | cecxli | noun | fire |
-ტელევიზორი | ṭeleviziori | noun | television |
+ტელევიზორი | ṭelevizori | noun | television |
 ანთებს | antebs | verb | lights, sets alight | class 1; fut. აანთებს; aor. აანთო; pf. აუნთია; masdar ანთება (lingua.ge)
 აქრობს | akrobs | verb | puts out, turns off (a light, fire) | class 1; fut. ჩააქრობს; aor. ჩააქრო; pf. ჩაუქრია; masdar ჩაქრობა (lingua.ge)
 რთავს | rtavs | verb | switches on (with ჩა-) | class 1; fut. ჩართავს; aor. ჩართო; pf. ჩაურთავს; masdar ჩართვა (lingua.ge)
@@ -229,7 +229,7 @@ Spanish and French build their conditional from the future stem with the imperfe
 5. What is the difference between *vxaṭavdi*, *davxaṭav* and *davxaṭavdi*?
 6. Correct *\*Bavšvebma ṭorṭi šeč̣amdnen* and *\*Gavaḳeteb, magram dro ar aris* (meaning "I would do it").
 7. Correct *\*Zapxulši gavcuravdit xolme* (meaning "in summer we would swim, as a habit").
-8. Translate *Ṭeleviziors čavrtavdi, magram šuki ar aris; santels avantebdi, magram santeli ar aris.*
+8. Translate *Ṭelevizors čavrtavdi, magram šuki ar aris; santels avantebdi, magram santeli ar aris.*
 
 ## Worked answers
 

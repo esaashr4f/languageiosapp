@@ -237,7 +237,7 @@ ruhusa | - | noun | permission | 9, no plural
 -onya | - | verb | warn | kuonya
 -tumaini | - | verb | hope | kutumaini; loan from Arabic
 -tamani | - | verb | wish for, long for | kutamani; loan from Arabic
--kusudi | - | verb | intend | kukusudi; loan from Arabic
+-kusudi | - | verb | intend | kukusudi
 -toa | - | verb | give out; produce; take out | kutoa
 :::
 

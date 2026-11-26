@@ -103,3 +103,6 @@ Paused at the owner's request. All agents stopped. State on pause:
 - san: parts 0–2 verified, part 3 drafted. Part 3 verification reached 03-14 (corrections committed through 03-14-r-stems); continue from 03-15. Part 4 drafting: 04-01 done, 04-02 was being written when stopped (committed as work in progress; check or rewrite it).
 
 To resume: start one drafter and one verifier per language from the points above, with the same briefs (docs/DRAFTING_BRIEF.md, docs/VERIFY_BRIEF.md), telling each where to continue.
+
+Added after the pause: the owner asked for (1) a linguistics guide (languages.json 154, qli, first after the pilot gate) and (2) living-language parts 11–13 (vocabulary core, spoken language, graded reader; BRIEF.md Amendments), to be tried on tur, swh and kat at the pilot gate. The pilot-gate step therefore becomes: cold-read and random-form checks, template revision, then design and draft parts 11–13 for tur, swh, kat, then the app.
+

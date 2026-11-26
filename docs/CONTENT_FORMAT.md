@@ -113,3 +113,8 @@ Syllabus entries with `"review": true` (slug `review` at the end of parts 2 to 7
 ## Companion parts
 
 A companion part (part 10) covers a closely related variety at the end of its host guide (see BRIEF.md Amendments). It follows the ordinary lesson template, may assume everything in the host guide, and teaches only differences. Its lessons use the host's ids (`ind-10-01` …), its own `:::vocab` blocks (only words that differ), and end with a review lesson. Gloss conventions are the host's.
+
+## Living-language parts (provisional; settled at the pilot gate)
+
+Guides to languages with living speakers add part 11 (Vocabulary core), part 12 (Spoken language) and part 13 (Graded reader) after parts 0 to 9 and any companion part 10 (see BRIEF.md Amendments). Ids follow the host (`tur-11-01` …). The exact lesson template for each part is drafted on Turkish, Swahili and Georgian at the pilot gate and written here before any other guide uses it.
+

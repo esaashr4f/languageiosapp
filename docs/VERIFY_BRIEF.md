@@ -25,7 +25,7 @@ Fix errors directly in the lesson files (keep the author's wording where it is r
 
 `git commit -m "<code>: part <N> verification corrections" -- <files>`
 
-Never `git add -A` or `git commit -a`; other agents share the repository. Do not push.
+Never `git add -A`, `git commit -a` or `git commit --amend`; other agents share the repository. Do not push.
 
 ## Final report (your reply)
 

@@ -98,3 +98,26 @@ Still open:
 - lat-03-10 *tētē* (ag1903 §143 e) vs Wiktionary *tēte*; lat-03-09 *fideī* (ag1903 §96) vs Wiktionary *fidē̆ī*: kept with Allen and Greenough, which the lessons cite.
 - lat-03-09: *vultū* printed where The Latin Library has *voltu*.
 - Comparative remarks on Korean and Japanese (03-07, 03-10, 03-11) not checked against a source; they are not historical claims.
+
+### Part 4 (and lat-02-09) — verified 2026-11-26 by fresh subagent
+Lessons checked: lat-04-01 to lat-04-20 (including reviews 04-10 and 04-20); lat-02-09 separately
+Forms checked: 2867   corrected: 2   left unverified: 0
+Glosses checked: 188   corrected: 0 (3 rewritten with replaced examples)
+Attested quotations checked: 59   corrected: 0
+Claims checked: 142 (about 115 ag1903 sections opened)   corrected or removed: 16
+Worked answers checked: 236   corrected: 5
+
+Corrections (summary):
+- Citations tightened (§168 fn. 1, §188 fn. 1, §209a note, §168e-f with fn. 4, §169d note); aorist/perfect merger now cited for what A&G support (§177 fn. 2, §163 fn. 3).
+- Dependency fixes: constructed examples using cōnficiō before lat-04-16 replaced (04-08, 04-12); sānē glossed in 04-19 exercise 8.
+- nōlī + infinitive "most ceremonious ... found oftenest" (§450); nōlītō, nōlītōte per A&G §199 with Wiktionary's nōlitō noted.
+- lat-04-16: dēleō removed as a dē- example (doubtful etymology); fīō used by faciō and compounds keeping a (§204b-c); vowel weakening limited to what A&G state; answer 8 occidit present or perfect.
+- lat-04-18: -erīs/-erimus/-eritis vowel length restated per §169d note; potential perfect subjunctive refers to present or immediate future (§446), example replaced (Hoc nōn crēdiderim); a real form (amāssem) wrongly starred, star removed.
+- lat-04-20: answers 15 (nēve) and 25 corrected. lat-02-09: no corrections.
+
+Settled: Dardanius without macrons (Dardanus; Aen. 4.658 metre); Īlium with long Ī (Aen. 2.325 metre; Īliacus); Romance future from infinitive + habeō confirmed (Wiktionary).
+
+Still open:
+- Section numbers within Cicero Fam. 7.18.3 and 7.25.2, Livy 21.10.10 and 2.43.9, Suetonius Iul. 37.2 and 32 rest on A&G or standard numbering (wording confirmed on The Latin Library).
+- Mil. 93 quoted as A&G quote it, without the intervening inquit.
+- Weiss, Sihler, Pinkster not opened (copyright); perfect-as-aspect claims agree with dossier §6.4.

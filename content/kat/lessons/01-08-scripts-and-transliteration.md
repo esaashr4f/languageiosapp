@@ -39,7 +39,7 @@ Most scholars, Hewitt writes, place the creation in the fourth century, after Ch
 The **transliteration** of this guide is the scheme Wiktionary uses, the standard one among Caucasus specialists. It follows three principles.
 
 1. One Georgian letter, one Latin letter. There are no pairs like "sh" or "ts". So the Georgian can always be rebuilt from the transliteration, letter by letter.
-2. Ejectives carry a dot: *ḳ ṗ ṭ c̣ č̣* below, *ṗ q̇* above. Aspirates are plain: *k p t c č*.
+2. Ejectives carry a dot: *ḳ ṭ c̣ č̣* below, *ṗ q̇* above. Aspirates are plain: *k p t c č*.
 3. Everything is lower case, because Georgian has no capitals.
 
 To convert either way, go letter by letter with the table at the end of this lesson. Mind the marks: *c*, *č*, *c̣* and *č̣* are four different letters.

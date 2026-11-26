@@ -23,7 +23,7 @@ You can see the relative stem inside many of them.
 - *Quod* "because" is the neuter relative used as an adverb, a colourless "that" which took on the sense "because" early (ag1903 §539).
 - *Quia* "because" is perhaps an old neuter plural of the same stem (ag1903 §539).
 - *Quoniam* "since" is *quom iam* "when now", *quom* being the old spelling of *cum* "when"; the causal sense grew out of the time sense (ag1903 §539).
-- *Ubi* "where" also means "when", as English "where" once could.
+- *Ubi* "where" also means "when".
 
 *Dum* is different: it was an adverb meaning "for a while", which survives in *nōndum* "not yet" (ag1903 §552). The origin of *dōnec* "until" is unknown (ag1903 §552).
 
@@ -39,7 +39,7 @@ Say "when Caesar had seen this, he sent the cavalry".
 2. "When he had seen": English uses the pluperfect, but Latin views the single completed event and uses the perfect: *ubi* (or *postquam*) *hoc vīdit* (ag1903 §543).
 3. Put the clause first, as Latin usually does with background: *Caesar, ubi hoc vīdit, equitēs mīsit.*
 
-The pluperfect appears with these words only for a state already reached, and the imperfect for a situation that lasted (ag1903 §543a).
+Less often these words take the imperfect, for a past state of things, or the pluperfect, for an action already completed in the past (ag1903 §543a).
 
 **"While": *dum* with the present.** In a past story *dum* "while" regularly takes the present indicative, even though English uses the past: *dum haec geruntur* "while this was going on" (ag1903 §556). Allen and Greenough call this a special use of the historic present.
 
@@ -112,12 +112,12 @@ confidence: attested
 :::
 
 :::example
-orig: Nec prius fugere dēstitērunt quam ad flūmen Rhēnum pervēnērunt.
+orig: Nec prius fugere dēstitērunt quam ad flūmen Rhēnum … pervēnērunt.
 morphemes: nec prius fug-ere dēstit-ērunt quam ad flūmen Rhēn-um pervēn-ērunt
 gloss: and.not earlier flee-INF stop.PRF-3PL than to river.ACC.SG Rhine-ACC.SG arrive.PRF-3PL
 translation: And they did not stop running until they reached the river Rhine.
 literal: And they did not stop fleeing earlier than they reached…
-note: prius … quam split round the main verb, with the perfect indicative for a fact after a negative (ag1903 §551a). Caesar adds that the river was about fifty miles away.
+note: prius … quam split round the main verb, with the perfect indicative for a fact after a negative (ag1903 §551a). In the gap Caesar adds that the river was about fifty miles away (milia passuum ex eō locō circiter L).
 source: Caesar, Gallic War 1.53.1
 confidence: attested
 :::
@@ -177,7 +177,7 @@ orig: Priusquam dē cēterīs rēbus respondeō, dē amīcitiā … pauca dīcam
 morphemes: priusquam dē cēter-īs r-ēbus responde-ō dē amīciti-ā pauc-a dīc-a-m
 gloss: before about other-ABL.PL.F thing-ABL.PL answer-1SG about friendship-ABL.SG few-ACC.PL.N say-FUT-1SG
 translation: Before I answer the other charges, I shall say a few words about friendship.
-note: Cicero to Antony. priusquam with the present indicative for a future event (ag1903 §551c).
+note: Cicero to Antony; the sentence opens with Cui "to him", left out here. priusquam with the present indicative for a future event (ag1903 §551c).
 source: Cicero, Philippics 2.3
 confidence: attested
 :::
@@ -199,9 +199,9 @@ confidence: attested
 
 ## Watch out
 
-**Do not use the pluperfect after *postquam* by English habit.** "After he had seen this" tempts *\*postquam hoc vīderat*. For a single event Latin uses the perfect: *postquam hoc vīdit* (ag1903 §543). The pluperfect is for a state reached, and in the *post … quam* form with an interval.
+**Do not use the pluperfect after *postquam* by English habit.** "After he had seen this" tempts *\*postquam hoc vīderat*. For a single event Latin uses the perfect: *postquam hoc vīdit* (ag1903 §543). The pluperfect is less common, for an action already completed at a past time, and in the *post … quam* form with an interval (ag1903 §543a).
 
-**Do not put *dum* "while" in the imperfect.** *\*Dum haec gerēbantur, nūntiātum est* is not the classical pattern. Use the present: *dum haec geruntur* (ag1903 §556). Read *dum* + present in a story as English "while … was".
+**Do not put *dum* "while" in the imperfect.** *\*Dum haec gerēbantur, nūntiātum est* is not the regular classical pattern (past tenses with *dum* "while" are rare: ag1903 §556a). Use the present: *dum haec geruntur* (ag1903 §556). Read *dum* + present in a story as English "while … was".
 
 **Do not use the subjunctive by analogy with Spanish *antes de que* or French *avant que*.** Both languages always use the subjunctive after "before". Latin uses the indicative for a fact: *priusquam respondeō* "before I reply"; *nec prius dēstitērunt quam pervēnērunt*. The subjunctive is for what was prevented or expected (ag1903 §551b).
 

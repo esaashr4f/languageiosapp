@@ -21,7 +21,7 @@ Whitney (§285) defines the dative as the case of the indirect object: that "tow
 - **The person a feeling is aimed at**: be angry at, long for, wish harm to.
 - **The purpose or result**: go for water, fight for the sake of something, lead to ruin. Whitney (§287) calls this dative of end or purpose "extremely common".
 
-The dative is the one case that never goes with a preposition (Whitney §288). It does all its work by itself.
+The dative is not used with prepositions (Whitney §288). It does all its work by itself.
 
 ## How it is built
 
@@ -180,7 +180,7 @@ gloss: advice-NOM.SG for fool-GEN.PL provocation-DAT.SG not calm-DAT.SG
 literal: For advice of fools (is) for anger, not for calming.
 translation: Advice only enrages fools; it does not calm them.
 note: Preview: the genitive plural mūrkhāṇām "of fools" (san-03-04), with the n-to-ṇ rule. Two datives of result with no verb (Whitney §287a quotes this line). śāntaye is the dative of the i-stem śānti (san-03-12). prakopa "provocation" is glossed in place.
-source: Hitopadeśa 3.4b (GRETIL e-text sa_nArAyaNa-hitopadeza)
+source: Hitopadeśa 3.4c–d (GRETIL e-text sa_nArAyaNa-hitopadeza)
 confidence: attested
 preview: GEN
 :::

@@ -230,7 +230,7 @@ Spanish and French use their subjunctive in main clauses mostly after a particle
 5. Translate *Vidērēs urbem ārdentem* (*ārdentem* "burning" is a present participle, part 5).
 6. Correct *\*Nōn timeāmus* meant as "let's not be afraid".
 7. Correct *\*Utinam pater meus vīvit* meant as "if only my father were alive".
-8. Name the use in each: *Sīs laetus*; *Sit sānē miser*; *Dīxerim*; *Nē veniat*.
+8. Name the use in each: *Sīs laetus*; *Sit sānē miser* (*sānē* "certainly, granted"); *Dīxerim*; *Nē veniat*.
 9. Why does the potential take *nōn* and the wish take *nē*? Say what Allen and Greenough say and what they leave open.
 
 ## Worked answers

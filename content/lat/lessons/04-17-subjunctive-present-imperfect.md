@@ -29,7 +29,7 @@ The subjunctive has two great territories (ag1903 §438).
 
 This lesson and the next build the forms. The subjunctive has four tenses: present, imperfect, perfect and pluperfect. There is no future subjunctive. This lesson gives the two built on the present stem; lesson 18 gives the two built on the perfect stem.
 
-Where do the forms come from? Allen and Greenough explain (ag1903 §168e and notes):
+Where do the forms come from? Allen and Greenough explain (ag1903 §168e-f, with notes 1-2 and footnote 4):
 
 - the *ē* of the first conjugation (*am-ē-s*) is an inherited subjunctive sign, "the thematic vowel *e* lengthened";
 - the *ā* of the other conjugations (*mone-ā-s*, *reg-ā-s*, *audi-ā-s*) "is of uncertain origin";

@@ -17,10 +17,10 @@ The present and imperfect subjunctive (lesson 17) are built on the present stem 
 
 - present: *amet* "let him love, he may love";
 - imperfect: *amāret* "he would love, he might love";
-- perfect: *amāverit* "he may have loved";
+- perfect: *amāverit*, in a subordinate clause "(that) he loved, has loved";
 - pluperfect: *amāvisset* "he would have loved, he might have loved".
 
-The English renderings are only rough. The meaning depends on the construction, and most perfect and pluperfect subjunctives you meet will be in subordinate clauses (part 6). In main clauses they have a few precise uses, which this lesson and the next show: forbidding (*nē fēceris* "don't do it"), past wishes (*utinam vēnisset* "if only he had come"), and possibilities about the past.
+The English renderings are only rough. The meaning depends on the construction, and most perfect and pluperfect subjunctives you meet will be in subordinate clauses (part 6). In main clauses they have a few precise uses, which this lesson and the next show: forbidding (*nē fēceris* "don't do it"), past wishes (*utinam vēnisset* "if only he had come"), and cautious statements (*dīxerim* "I would say").
 
 The forms are easy, because they are built from pieces you know. Allen and Greenough explain their history (ag1903 §169d-e):
 
@@ -33,7 +33,7 @@ The forms are easy, because they are built from pieces you know. Allen and Green
 
 - *amāverim*, *monuerim*, *rēxerim*, *cēperim*, *audīverim*; *fuerim*.
 
-Wiktionary marks the *i* of *-erīs, -erīmus, -erītis* long. Allen and Greenough note that short forms also occur, through confusion with the future perfect (ag1903 §169d, note). Except for the first person singular (*-erim* against *-erō*), the perfect subjunctive and the future perfect are written alike without macrons.
+Wiktionary marks the *i* of *-erīs, -erīmus, -erītis* long. Allen and Greenough print it short: the optative *ī* was shortened through confusion with the future perfect, and long forms are "sometimes found" (ag1903 §169d, note). Except for the first person singular (*-erim* against *-erō*), the perfect subjunctive and the future perfect are written alike without macrons.
 
 **Pluperfect subjunctive, active.** Perfect stem + *-issem, -issēs, -isset, -issēmus, -issētis, -issent*. An easy way to build it: take the perfect active infinitive (*amāvisse* "to have loved", met fully in part 6) and add the person endings, as you added them to *amāre* for the imperfect subjunctive.
 
@@ -97,11 +97,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Hostēs urbem cēperint.
-morphemes: host-ēs urb-em cēp-eri-nt
-gloss: enemy-NOM.PL city-ACC.SG take.PRF-SBJV-3PL
-translation: The enemy may have taken the city.
-note: Perfect subjunctive. Without context the same letters could be the future perfect "will have taken" (lesson 8).
+orig: Hoc nōn crēdiderim.
+morphemes: hoc nōn crēdid-eri-m
+gloss: this.ACC.SG.N not believe.PRF-SBJV-1SG
+translation: I would not believe this.
+note: A potential perfect subjunctive, a cautious statement about now, not about the past (ag1903 §§446-447; lesson 19). The -erim of the first person cannot be future perfect (-erō).
 source: constructed
 confidence: constructed
 :::
@@ -154,7 +154,7 @@ preview: third-declension adjective, conditional
 
 **Do not confuse the perfect subjunctive with the future perfect.** *Amāverit*, *amāverimus*, *amāverint* are written alike in both. The first person singular differs (*amāverim* subjunctive, *amāverō* future perfect), and Wiktionary marks a long *ī* in the subjunctive's *-erīs*, *-erīmus*, *-erītis*. Otherwise the construction decides: *nē* or a subordinating word points to the subjunctive.
 
-**Do not build the pluperfect subjunctive on the present stem.** *\*Amāssem* is a real contracted form of *amāvissem*, but *\*regissem* or *\*capissem* are wrong: the perfect stems are *rēx-* and *cēp-*: *rēxissem*, *cēpissem*.
+**Do not build the pluperfect subjunctive on the present stem.** *Amāssem* is a real contracted form of *amāvissem*, but *\*regissem* or *\*capissem* are wrong: the perfect stems are *rēx-* and *cēp-*: *rēxissem*, *cēpissem*.
 
 **Do not confuse *fuissem* and *essem*.** *Essem* is the imperfect subjunctive, "I would be"; *fuissem* is the pluperfect, "I would have been".
 
@@ -235,8 +235,8 @@ Spanish and French build their perfect and pluperfect subjunctives with a helpin
 2. *Capta sit* (perfect) and *capta esset* (pluperfect): the participle *capta*, feminine, with the present or imperfect subjunctive of *sum*.
 3. *Nē timueritis, puerī.* *Timeō, timuī*: perfect stem *timu-*, perfect subjunctive second person plural *-eritis*; *nē* forbids (ag1903 §450).
 4. *Utinam urbem vīdisset!* *Videō, vīdī*: pluperfect subjunctive *vīdisset*, for a past wish that was not fulfilled.
-5. "Don't do this." The other ways: *Nōlī hoc facere* (the most courteous) and *Cavē hoc faciās* (ag1903 §450).
-6. "He may have taken" (perfect subjunctive) or "he will have taken" (future perfect). The construction decides: with *nē*, *utinam* or a subordinating word expecting the subjunctive, it is subjunctive; in a plain statement about the future, it is future perfect.
+5. "Don't do this." The other ways: *Nōlī hoc facere* (the most ceremonious) and *Cavē hoc faciās* (ag1903 §450).
+6. A perfect subjunctive (in a subordinate clause, for example "(that) he took, has taken"; part 6) or the future perfect "he will have taken" (lesson 8). The construction decides: after a subordinating word expecting the subjunctive, it is subjunctive; in a plain statement about the future, it is future perfect.
 7. *Utinam vēnisset!* A wish about the past needs the pluperfect subjunctive. *Utinam venīret* is "if only he were coming", a wish about the present (lesson 19).
 8. Allen and Greenough suggest it was formed on the analogy of the pluperfect indicative and "influenced by *essem*", as *eram* is to *essem* (ag1903 §169e, note).
 9. "If only he had never been born!" *Nātus esset* is the pluperfect subjunctive of the deponent *nāscor*: participle + *esset*, with an active meaning, "had been born" in English idiom.

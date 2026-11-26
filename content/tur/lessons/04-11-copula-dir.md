@@ -24,7 +24,7 @@ The ending ***-DIr*** is the last slot of the template, slot 8, after the person
 
 What joins them is generalisation. Göksel and Kerslake call *-DIr* the "generalizing modality marker": it presents a statement not as something just observed, but as true on general grounds, whether those grounds are authority (the encyclopedia) or reasoning (Ali is always home at this hour). A third, small job follows from this: with a length of time, *üç yıldır* means "for three years (and still)" (goksel2005 §16.4.1.2).
 
-**Where it comes from.** Wiktionary traces *-DIr* to the Proto-Turkic verb \*tur- "stand", the same root as *durmak* "stand, stop, stay" (tur-04-02). "Ali stands at home" became "Ali is at home"; the old verb survives only as an ending.
+**Where it comes from.** Wiktionary traces *-DIr* to the Proto-Turkic verb \*tur- "stand", the same root as *durmak* "stand, stop, stay" (tur-04-02). In modern Turkish it is only an ending.
 
 **Where it goes.** *-DIr* attaches to:
 
@@ -129,7 +129,7 @@ orig: Herhalde yorgunsunuzdur.
 morphemes: herhalde yorgun-sunuz-dur
 gloss: probably tired-2PL-COP
 translation: You must be tired.
-note: -DIr after the person ending. With 1st and 2nd persons, -DIr always means an assumption (goksel2005 §21.4.1.4).
+note: -DIr after the person ending. With 1st and 2nd persons, -DIr normally expresses an assumption (goksel2005 §§8.3.3, 21.4.1.4).
 source: constructed
 confidence: constructed
 :::

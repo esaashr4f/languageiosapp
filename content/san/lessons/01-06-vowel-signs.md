@@ -216,7 +216,7 @@ Hindi uses the same letters and signs. Korean hangul also builds a syllable bloc
 
 1. Transliterate: कवि, मूल, कृपा, मौन.
 2. Write in Devanagari: *iti*, *guru*, *veda*, *odana*.
-3. Why is the *i* of *nīti* written after न, and the *i* of *kavi* before व?
+3. Why is the *ī* of *nīti* written after न, and the *i* of *kavi* before व?
 4. In which word of this lesson is a vowel letter used after a consonant? Explain your answer.
 5. Write *ru*, *rū* and *hṛ* in Devanagari.
 6. Give the order in which you type the characters of कि, and what you see on the screen.

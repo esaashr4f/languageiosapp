@@ -13,7 +13,7 @@ sources: [polome1967, almasi2014, thompson2001, wiktionary]
 
 ## The idea
 
-Part 0 showed that Swahili builds words by putting a class prefix in front of a stem: *m-tu* "person", *wa-tu* "people". The prefixes end in a vowel (*mi-*, *ki-*, *wa-*, *ma-*) or are a bare consonant (*m-*). Many stems begin with a vowel. So the language constantly has to decide what happens when a prefix meets a vowel.
+Swahili builds words by putting a class prefix in front of a stem: *m-tu* "person", *wa-tu* "people". Many stems begin with a vowel, so the language constantly has to decide what happens when a prefix meets one.
 
 It has two regular answers.
 
@@ -21,11 +21,11 @@ It has two regular answers.
 
 **A prefix ending in *a* merges with the stem vowel.** *A* + *a* gives *a*. *A* + *e* gives *e*. *A* + *i* gives *e*: the two vowels meet halfway. So the plural of *mwana* "child" is *wana*, not *waana*, and the plural of *mwizi* "thief" is *wezi*. The technical term for vowels fusing like this is **coalescence**.
 
-Why should you care in a sounds lesson? Because the agreement prefixes of part 3 go through exactly the same changes. The word for "many", stem *-ingi*, is *wengi* with people and *mengi* with class 6 nouns: *wa-* + *i* and *ma-* + *i*, both merged to *e*. If you know this lesson, you will recognise a prefix even when it has changed shape.
+This matters beyond nouns: the agreement prefixes of part 3 go through the same changes. The word for "many", stem *-ingi*, is *wengi* with people and *mengi* with class 6 nouns: *wa-* + *i* and *ma-* + *i*, both merged to *e*. If you know this lesson, you will recognise a prefix even when it has changed shape.
 
 Where do the changes come from? The prefixes are older than their present spelling. The class 1 and 3 prefix *m-* goes back to a Bantu *\*mʊ̀-*, with a vowel; Wiktionary reconstructs *mwana* as *\*mʊ̀jánà*. Before a vowel that old *u* survives as the *w* of *mw-*. Before a consonant it was lost, which is why *mtu* has a syllabic *m*. The *ch* of class 7 is the same story: Polomé explains it as the old *ki-* before a vowel, where the *i* became a glide and the *k* and the glide fused into [tʃ].
 
-These changes are regular at the join between a prefix and a stem. They are not a ban on vowels meeting: *njia*, *kiatu* and *sauti* keep theirs.
+These changes happen at the join between a prefix and a stem; elsewhere vowels meet freely: *njia*, *sauti*.
 
 ## How it is built
 
@@ -166,15 +166,13 @@ confidence: verified
 
 ## Watch out
 
-**Mw- is not a syllable.** *Mwaka* is *MWA-ka*, two syllables, with the stress on the first. Compare *mtu*, where *m* is before a consonant and is a syllable: *M-tu*. Getting this right matters for the stress rule.
+**Mw- is not a syllable.** *Mwaka* is *MWA-ka*, two syllables. Compare *mtu*, where *m* is before a consonant and is a syllable: *M-tu*.
 
 **Mi- never merges in nouns.** *Miaka* is *mi-A-ka*, three syllables, stressed on the *a*. Do not reduce it to "myaka".
 
 **Not every vowel meeting merges.** Many loans keep both vowels: *maembe*, *maisha* "life". So do the names of peoples: Almasi and colleagues give *Mwarabu*, plural *Waarabu* "Arabs", and *Mwafrika*, plural *Waafrika* "Africans". Even *mwalimu* "teacher" has two plurals in Wiktionary, *walimu* and *waalimu*. A few native nouns also keep *ki-* before *a*: *kiatu* "shoe", plural *viatu*. The sources used here do not explain why. Learn the plural with the noun.
 
 **Ch- and vy- are clues, not proof.** *Chumba*, plural *vyumba*, is a *ki-* noun in disguise. But *chai* "tea" is not: it belongs to class 9, with no prefix at all. The plural is the test.
-
-**The rules work in reverse too.** When you meet a form like *wenzi* or *meno*, undo the merger to find the stem: *we-* may be *wa-* + *e* or *wa-* + *i*, and the singular tells you which.
 
 **Two more mergers come later.** Polomé describes *a* + *o* giving *o* in a few pronoun forms, and *ni-* + *a-* giving *na-* in one verb tense. They are taught where they occur.
 
@@ -228,8 +226,7 @@ French does something similar at word joins: *le* + *ami* is *l'ami*, and *de* +
 5. *Meno* is the plural of *jino*. Take *meno* apart: what was the prefix, what was the stem, and what happened?
 6. *Wimbo* has the class 11 prefix. What was the prefix before the change, and what is its plural?
 7. The plural of *embe* is *maembe*, not *membe*. Why does it break the merger rule?
-8. A learner says *miaka* as "myaka", in two syllables. What is wrong?
-9. The stem *-ingi* "many" takes class prefixes in part 3. Predict its form with *wa-* and with *ma-*, using this lesson's rules.
+8. The stem *-ingi* "many" takes class prefixes in part 3. Predict its form with *wa-* and with *ma-*, using this lesson's rules.
 
 ## Worked answers
 
@@ -240,5 +237,4 @@ French does something similar at word joins: *le* + *ami* is *l'ami*, and *de* +
 5. Prefix *ma-*, stem *-ino*. The *a* of the prefix and the *i* of the stem merged into *e*: *ma-* + *ino* gives *meno*.
 6. *U-*. Before the vowel of the stem *-imbo* it became *w-*. The plural is *nyimbo*: the nasal prefix of class 10 becomes *ny-* before a vowel.
 7. *Embe* is a loan, and many loans keep both vowels after *ma-* or *wa-*. Polomé lists *maembe* as one of these exceptions.
-8. *Mi-* does not turn into a glide before a vowel in nouns. *Miaka* has three syllables, *mi-a-ka*, with the stress on the *a*.
-9. *Wa-* + *-ingi*: *a* + *i* merges to *e*, giving *wengi*. *Ma-* + *-ingi* likewise gives *mengi*. Wiktionary confirms both.
+8. *Wa-* + *-ingi*: *a* + *i* merges to *e*, giving *wengi*. *Ma-* + *-ingi* likewise gives *mengi*. Wiktionary confirms both.

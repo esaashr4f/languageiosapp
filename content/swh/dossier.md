@@ -369,3 +369,13 @@ Translations are always our own.
 - Settled conventions: single-word examples in part 1 glossed by meaning only, IPA in notes, class prefixes flagged as previews; pairs shown as one example; stress in capitals only in swh-01-05, acute only on exceptions (núsura, lázima, barábara).
 - Promised to the reader for later: ni- + a- → na-; a + o → o; copula *ni* is unstressed and leans on the next word.
 - Previews in part 0 use -kubwa, -anguka, -soma, -pika before any vocab block; they still need introducing.
+
+
+## Notes from drafting part 2 (2026-11-26)
+
+- Place suffixes glossed plain C16/C17/C18 (ni-po 1SG.SM-C16). Class 1 negative of place verbs keeps yu-: hayuko, hayupo, hayumo (never *hako).
+- *jambo* glossed matter.C5 (C5 preview); *hujambo* = hu-jambo NEG.2SG.SM-matter.C5 (Wiktionary: from huna jambo). *nzuri* introduced as an interjection; *-zuri* as adjective still free for swh-03-03; *-kubwa* still to introduce there.
+- Merged-prefix nouns (wenyeji, walimu) glossed whole (host.C2).
+- Promises to keep: swh-03-12 huko "there" vs huko "you are not there"; swh-03-14 short answers with reference forms (ninayo); swh-04-09/10 requests and negative commands (usisome); swh-04-04 the ku- of kula!; swh-04-12 habitual hu- vs the hu- of hujambo.
+- Thompson & Schleicher: cite printed page numbers; the scan's PDF page is roughly printed − 10 near p. 220, − 15 near p. 265, − 25 near p. 360.
+- Unresolved in sources: how ndiyo answers a negative question; question intonation (three descriptions given).

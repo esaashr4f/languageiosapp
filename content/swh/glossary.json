@@ -72,17 +72,17 @@
   },
   "C16": {
    "name": "class 16",
-   "plain": "the pa- place class: a definite spot, 'at, on' (hapa 'here', mahali 'place')",
+   "plain": "the pa- place class: a definite spot, 'at, on' (hapa 'here', mahali 'place') Also used alone for the place suffixes -po, -ko, -mo (nipo 'I am here').",
    "tag": "locative-be"
   },
   "C17": {
    "name": "class 17",
-   "plain": "the ku- place class: a general area or a direction, 'around, to, from' (huku, kule)",
+   "plain": "the ku- place class: a general area or a direction, 'around, to, from' (huku, kule) Also used alone for the place suffixes -po, -ko, -mo (nipo 'I am here').",
    "tag": "locative-be"
   },
   "C18": {
    "name": "class 18",
-   "plain": "the mu- place class: inside, 'in, within' (humu, mle)",
+   "plain": "the mu- place class: inside, 'in, within' (humu, mle) Also used alone for the place suffixes -po, -ko, -mo (nipo 'I am here').",
    "tag": "locative-be"
   },
   "IMP": {
@@ -287,6 +287,9 @@
   "stress": "The extra force that makes one syllable stand out (swh-01-05).",
   "penult": "The second-from-last syllable of a word (swh-01-05).",
   "glide": "A w or y sound formed when a vowel runs into another vowel (swh-01-06).",
-  "coalescence": "Two vowels merging into one when a prefix meets a stem (swh-01-06)."
+  "coalescence": "Two vowels merging into one when a prefix meets a stem (swh-01-06).",
+  "yes-no question": "A question answered yes or no (swh-02-04).",
+  "place classes": "Classes 16, 17 and 18 (pa-, ku-, mu-): definite place, general place, inside (swh-02-05).",
+  "imperative": "The command form of the verb (swh-02-07)."
  }
 }

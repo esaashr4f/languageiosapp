@@ -51,3 +51,25 @@ State at the pause:
 
 **Resume recipe:** read CLAUDE.md, then this entry. Run at most three agents at once with docs/DRAFTING_BRIEF.md, docs/VERIFY_BRIEF.md and docs/DOSSIER_BRIEF.md. After each part: update STATUS.json, add the drafter's glossary terms, `npm run build:reference -- lat`, `npm run stats`, append the verifier's report to VERIFY.md, commit, push.
 
+## Session 2 — 2026-11-26 (paused by the owner)
+
+**Done**
+- lat: part 3 verified; part 4 (lat-04-01 to 04-20) and lat-02-09 drafted. Latin is 51/105 lessons written, 30 verified.
+- Pilot lessons started, one agent per language: kat, tur, swh, hbo parts 0–1 drafted (STATUS "drafted"); san dossier finished, san parts 0–1 mostly drafted.
+- Owner added many languages: list is now 153 guides plus 4 companion parts (Malay, Dari, Dzongkha, Aljamiado as part 10 of Indonesian, Persian, Tibetan, Old Spanish). See BRIEF.md Amendments and languages.json.
+- Rules added: seam pass after any parallel drafting; one agent per language; nothing outside the pilot until the pilot gate.
+- Owner-supplied books in esaashr4f/polyglotsources: Thompson & Schleicher, Almasi (swh); Bolkvadze & Kiziria (kat); Göksel & Kerslake (tur). Do not use the Mohammed file (unauthorised copy).
+
+**In flight at the pause (all agents stopped; partial lessons committed as checkpoints)**
+- lat: verification of part 4 + lat-02-09 had just started (nothing changed). Part 5 drafting had just started (nothing written).
+- kat part 2: first lessons on disk (up to "I am, you are"); check, lint, continue.
+- tur part 2: tur-02-01 to 02-03 on disk; continue from 02-04.
+- swh part 2: up to swh-02-03 on disk; continue.
+- hbo part 2: just started, nothing written.
+- san parts 0–1: up to san-01-08 on disk; **san-01-08 has two lint errors (table rows with too many cells at line 121)**: fix first, then finish part 1.
+
+**Next**
+1. Fix san-01-08; finish san part 1. Set STATUS for whatever landed.
+2. Resume: verify lat part 4 + 02-09; draft lat part 5; continue part 2 for kat, tur, swh, hbo.
+3. Verify parts 0–1 of kat, tur, swh, hbo, san (none verified yet).
+

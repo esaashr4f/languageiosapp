@@ -214,7 +214,7 @@ source: bolkvadze2023 §9.6.1.2.2; wiktionary (წერს, ხატავს,
 :::vocab
 იცინის | icinis | verb | laughs | class 3; 3PL იცინიან; imperf. იცინოდა; fut. იცინებს; aor. იცინა; pf. უცინია; masdar სიცილი
 ყვირის | q̇viris | verb | shouts, screams | class 3; 3PL ყვირიან; imperf. ყვიროდა; fut. იყვირებს; aor. იყვირა; pf. უყვირია; masdar ყვირილი (lingua.ge)
-ცურავს | curavs | verb | swims | class 3; imperf. ცურავდა; fut. იცურავებს; aor. იცურავა; masdar ცურვა (lingua.ge)
+ცურავს | curavs | verb | swims | class 3; imperf. ცურავდა; fut. იცურავებს (lingua.ge); aor. იცურა (bolkvadze2023 §9.3.3.1) or იცურავა (lingua.ge); masdar ცურვა
 ფრინავს | prinavs | verb | flies | class 3; imperf. ფრინავდა; fut. იფრენს; aor. იფრინა; pf. უფრენია; masdar ფრენა (lingua.ge)
 გუშინ | gušin | adverb | yesterday |
 შარშან | šaršan | adverb | last year |

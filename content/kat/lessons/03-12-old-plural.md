@@ -89,7 +89,7 @@ morphemes: maɣal-n-i mta-n-i
 gloss: high-PL-NOM mountain-PL-NOM
 translation: high mountains
 note: Full agreement: the adjective takes the old plural too. mta keeps its -a.
-source: bolkvadze2023 ch. 15 (attributive adjectives)
+source: bolkvadze2023 §15.3.1
 confidence: attested
 :::
 
@@ -142,7 +142,7 @@ confidence: constructed
 - **Titles and official names:** the UDHR's *adamianta uplebebis ... deḳlaracia*; names of organisations, laws and books often use *-ta*.
 - **Legal and formal prose:** the UDHR uses *uplebata* "of rights" and *tavisuplebata* "of freedoms" again and again, alongside *uplebebis*.
 - **Speeches and letters:** the vocative *-no*: *megobarno*, *kartvelno* "Georgians!".
-- **Poetry and older literature:** the readings of lessons 8-4 to 8-7 use the old plural freely, with full agreement.
+- **Poetry and older literature:** Hewitt notes that the old plural was quite common in literature until well into the 20th century, so the older readings of part 8 will show it.
 - **Set expressions:** phrases fixed in the old form (Hewitt's "set expressions").
 - **Pronouns, always:** *isini*, *eseni*, *egeni* (*-n-*) and *mat*, *amat*, *magat* (*-t*) are the old plural in everyday use.
 - **Not in the instrumental or adverbial:** there are no such forms; use *-eb-it*, *-eb-ad*.

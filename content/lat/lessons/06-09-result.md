@@ -159,7 +159,7 @@ confidence: attested
 
 ## Where it applies
 
-- **After words of degree and manner**: *tam*, *ita*, *sīc*, *adeō*, *ūsque eō*, *tantus*, *tālis*, *tot* (ag1903 §537 note 2).
+- **After words of degree and manner**: *tam*, *ita*, *sīc*, *adeō*, *usque eō*, *tantus*, *tālis*, *tot* (ag1903 §537 note 2).
 - **Without a signpost**, when the sense is clear: *multa rūmor adfingēbat, ut paene bellum cōnfectum vidērētur* "rumour added many details, so that the war seemed almost over" (Caesar, quoted in ag1903 §537).
 - **Negative results**: *ut nōn*, *ut nēmō*, *ut nihil*, *ut nūllus*, *ut numquam* (ag1903 §§537a, 538).
 - **"Too … to"** in English: *tam longē aberam ut nōn vidērem* "I was too far away to see" (ag1903 §537c).

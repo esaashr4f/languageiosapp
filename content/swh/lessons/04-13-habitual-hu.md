@@ -15,11 +15,11 @@ sources: [polome1967, almasi2014, wpgrammar, wiktionary, proverbs]
 
 Swahili has a verb form just for what happens as a rule: *Ng'ombe hula majani* "cattle eat grass", *Jogoo huwika asubuhi* "the cock crows in the morning". This is the **habitual**: a form for actions that happen regularly, or that hold as general truths, without reference to any particular occasion. Polomé describes it as presenting the action "as habitual or recurrent"; Almasi and colleagues translate it with "usually", "generally" or "always".
 
-The form is unusual in one respect. It has **no subject prefix**. The verb is *hu-* + stem, and that is all: *husoma* "(someone) usually reads". Polomé lists the habitual with the command and the infinitive as the only forms without a subject prefix. Wiktionary's verb appendix adds that the only other piece allowed is an object prefix: *hukisoma* "usually reads it". Polomé gives *vidonda hivi hujipolea* "such sores heal by themselves", with reflexive *-ji-*.
+The form is unusual in one respect. It has **no subject prefix**. The verb is *hu-* + stem, and that is all: *husoma* "(someone) usually reads". Polomé lists the habitual with the command and the object-prefix command of lesson 4.10 (his "adhortative") as the forms with no subject prefix; the infinitive has the class 15 *ku-* in that place instead. Wiktionary's verb appendix adds that the only other piece allowed is an object prefix: *hukisoma* "usually reads it". Polomé gives *vidonda hivi hujipolea* "such sores heal by themselves", with reflexive *-ji-*.
 
 With no subject prefix, *husoma* can be "I usually read", "they usually read", "it usually reads". Almasi and colleagues list all six persons for one form. The subject comes from a noun or a pronoun in front, or from context: *Mimi hupika* "I usually cook", *Watoto hucheza nje* "children play outside". Wpgrammar notes that pronouns are therefore very often used with it.
 
-Where does *hu-* come from? Wiktionary's etymology calls it a worn-down, fused form of *ni ku-* "is ...ing", the copula plus the infinitive prefix. That would explain why it takes no subject prefix: it was once "(it) is reading".
+Where does *hu-* come from? Wiktionary's etymology calls it a worn-down, fused form of *ni ku-* "is ...ing", the copula plus the infinitive prefix.
 
 Short verbs take no *ku-*: *hula*, *hunywa* (Almasi and colleagues; wpgrammar). *Hu-* can carry the stress (Wiktionary's list in lesson 4.4).
 

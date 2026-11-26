@@ -171,7 +171,7 @@ confidence: attested
 
 - **After verbs of asking**: *rogō*, *interrogō*, *quaerō* (*ex* or *ā* + ablative of the person), *percontor* "inquire".
 - **After verbs of knowing and not knowing**: *sciō*, *nesciō*, *ignōrō*, *intellegō*, *cognōscō*, *meminī*; *nōvī* "I know".
-- **After verbs of telling and showing**: *dīcō*, *doceō*, *ostendō*, *nārrō*, *expōnō* "explain": *quid ipse sentiam expōnam* "I will explain what I think myself" (Cicero, quoted in ag1903 §574).
+- **After verbs of telling and showing**: *dīcō*, *doceō*, *ostendō*, *narrō*, *expōnō* "explain": *quid ipse sentiam expōnam* "I will explain what I think myself" (Cicero, quoted in ag1903 §574).
 - **After verbs of seeing and considering**: *videō*, *cōgitō*, *dēlīberō*, *cōnsulō*, *prōspiciō*: *prōspiciō quī concursūs futūrī sint* "I foresee what crowds there will be" (Cicero, quoted in ag1903 §575a).
 - **After words of doubt and uncertainty**: *dubitō*, *dubium est*, *incertus*: *incertī quātenus …* "uncertain how far…" (Livy, quoted in ag1903 §574).
 - **As subject**: *cōnstat*, *appāret*, *nihil interest* "it makes no difference": *doleam necne doleam nihil interest* (Cicero, quoted in ag1903 §574).

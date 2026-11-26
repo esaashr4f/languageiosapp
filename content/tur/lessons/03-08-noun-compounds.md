@@ -100,7 +100,6 @@ translation: Where's my toothbrush?
 note: Preview: nerede "where" (tur-03-12). "My" replaces the compound marker.
 source: constructed
 confidence: constructed
-preview: question-words
 :::
 
 :::example
@@ -195,7 +194,7 @@ confidence: constructed
 
 **Do not put the plural on the first noun.** *\*Otobüsler bileti* for "bus tickets" is wrong: *otobüs biletleri*. Even "children's books" is *çocuk kitapları*, with the first noun bare.
 
-**Do not stack two possessives.** *\*Yatak odasım* and *\*doğum günüm* with the marker kept are wrong. "My" replaces it: *yatak odam*, *doğum günüm* (from *gün* + *-üm*, not *günü* + *-m*).
+**Do not stack two possessives.** *\*Yatak odasım* and *\*diş fırçasım* keep the marker and add "my". "My" replaces it: *yatak odam*, *diş fırçam*.
 
 **Do not confuse *Türkçe öğretmeni* and *Türk öğretmen*.** The first is "a teacher of Turkish" (any nationality); the second is "a teacher who is a Turk" (any subject). Spanish *profesor de turco* and *profesor turco* make the same split.
 
@@ -245,7 +244,7 @@ Van | - | proper noun | Van, a city and lake in eastern Turkey | Van Gölü "Lak
 
 ## Connections
 
-English and Japanese make compounds by putting two nouns side by side (bus ticket, バス停 *basutei* "bus stop"); Korean does the same (버스 정류장). Turkish adds a marker on the second noun. Persian and Arabic do the reverse, with the head first: Arabic *bayt al-ʿAlī* pattern for owners, and *kurat al-qadam* "football" ("ball of the foot") for compounds. *Portakal* comes from the name of Portugal (tdk), as do words for "orange" in Greek and Arabic dialects.
+English and Japanese make compounds by putting two nouns side by side (bus ticket, バス停 *basutei* "bus stop"); Korean does the same (버스 정류장). Turkish adds a marker on the second noun. Arabic and Persian put the head first instead: Arabic *kurat al-qadam* "football", literally "ball of the foot". *Portakal* comes from the name of Portugal (tdk).
 
 ## Exercises
 
@@ -253,11 +252,11 @@ English and Japanese make compounds by putting two nouns side by side (bus ticke
 2. Make plural: *otobüs bileti*, *çay bardağı*, *diş fırçası*.
 3. Say "my birthday", "your (one friend) bedroom" and "our football team".
 4. Translate *Ayşe'nin kız kardeşi İstanbul Üniversitesinde çalışıyor.*
-5. What is the difference between *Türk doktor* and *Türk doktorları* (G&K's distinction for people), and between *İngilizce öğretmeni* and *İngiliz öğretmen*?
-6. Say "I'm putting the soap next to" is beyond your words; say "I'm putting the toothbrush in the cup".
+5. What is the difference between *İngilizce öğretmeni* and *İngiliz öğretmen*?
+6. Say "I'm putting the toothbrush in the cup".
 7. Correct *\*Bir Türk kahve istiyorum* and *\*Otobüs durakta bekliyoruz*.
 8. Explain why *Türk kahvesini seviyorum* has the accusative though no particular cup is meant.
-9. Say "a new football ball" is not needed; say "a big stone wall".
+9. Say "a big stone wall".
 10. Why is it *ayakkabılar* but *buzdolapları*?
 
 ## Worked answers
@@ -265,8 +264,8 @@ English and Japanese make compounds by putting two nouns side by side (bus ticke
 1. *Elma suyu*, *kahve fincanı*, *futbol takımı*, *Türkçe dersi*. The first noun stays bare; the second takes *-(s)I* (*su* has the irregular *suyu*).
 2. *Otobüs biletleri*, *çay bardakları*, *diş fırçaları*. The plural goes on the second noun, before the marker, which is then *-I* after the consonant of *-lAr* (goksel2005 §10.2).
 3. *Doğum günüm*, *yatak odan*, *futbol takımımız*. The possessive replaces the compound marker (goksel2005 §14.3.2.1).
-4. "Ayşe's sister works at Istanbul University." *Kız kardeşi*: a bare compound with the 3SG possessive for "her". *İstanbul Üniversitesinde*: a name compound with the locative after *n* (tur-03-06). Names of institutions are written with capitals; no apostrophe is used before the suffix of a compound name ending in *-sI*.
-5. *Türk doktor* is a doctor who happens to be Turkish; *Türk doktorları* presents Turkish doctors as a group or class (goksel2005 §10.2). *İngilizce öğretmeni* teaches English; *İngiliz öğretmen* is English by nationality.
+4. "Ayşe's sister works at Istanbul University." *Kız kardeşi*: a bare compound with the 3SG possessive for "her". *İstanbul Üniversitesinde*: a name compound with the locative after *n* (tur-03-06).
+5. *İngilizce öğretmeni* is a compound: a teacher of English, of any nationality. *İngiliz öğretmen* is a bare compound: a teacher who is English, of any subject (goksel2005 §10.1.1).
 6. *Diş fırçasını fincana koyuyorum.* A known toothbrush is a definite object: marker, *n*, accusative. *Koymak* takes the dative (tur-03-02).
 7. *Bir Türk kahvesi istiyorum*: a thing typical of a nation needs the marker. *Otobüs durağında bekliyoruz*: the compound needs its marker, then *n*, then the locative.
 8. Compounds whose first part is a nationality must take the accusative as objects, even when the meaning is general (goksel2005 §22.4.3).

@@ -24,7 +24,7 @@ It can do two jobs, and the article tells you which.
 
 Gesenius gives the rule for describing in one sentence: the adjective "stands after the substantive, and agrees with it in gender and number" (§132a), and when the noun is definite "the attribute ... necessarily takes the article" (§126u). The definiteness agreement is the feature that English and Spanish lack. It is the key to telling a phrase from a sentence.
 
-Hebrew has relatively few adjectives. Where English uses one, Hebrew often uses a construct chain: *ʾîš milḥāmâ* "a warrior", *har qoḏšî* "my holy mountain", literally "the mountain of my holiness" (lesson 3.5).
+Where English uses an adjective, Hebrew often uses a construct chain (Gesenius §128p): *ʾîš milḥāmâ* "a warrior", *har qoḏšî* "my holy mountain", literally "the mountain of my holiness" (lesson 3.5).
 
 ## How it is built
 
@@ -33,12 +33,12 @@ Hebrew has relatively few adjectives. Where English uses one, Hebrew often uses 
 An adjective has four forms: masculine and feminine, singular and plural. There is no dual.
 
 - *ṭôḇ*, *ṭôḇâ*, *ṭôḇîm*, *ṭôḇôṯ* "good": unchangeable *ô*.
-- *gāḏôl*, *gəḏôlâ*, *gəḏôlîm*, *gəḏôlôṯ* "great": the first vowel reduces (lesson 3.3).
+- *gāḏôl*, *gəḏôlâ*, *gəḏôlîm*, *gəḏōlôṯ* "great": the first vowel reduces (lesson 3.3).
 - *ḥāḵām*, *ḥăḵāmâ*, *ḥăḵāmîm* "wise": hatef under the guttural.
 - *qāṭōn*, *qəṭannâ*, *qəṭannîm* "small": the *n* doubles before an ending.
 - *raḇ*, *rabbâ*, *rabbîm*, *rabbôṯ* "much, many"; *ḥay*, *ḥayyâ*, *ḥayyîm* "alive": doubling returns (lesson 3.3).
 - *raʿ*, *rāʿâ*, *rāʿîm*, *rāʿôṯ* "bad": the guttural cannot double, so the vowel lengthens instead.
-- *yāp̄eh*, *yāp̄â*, *yāp̄îm*, *yāp̄ôṯ* "beautiful": the *-eh* drops.
+- *yāp̄eh*, *yāp̄â*, *yāp̄ôṯ* "beautiful": the *-eh* drops. (The masculine plural, *yāp̄îm* by pattern, is not attested.)
 - *ʿiḇrî*, *ʿiḇriyyâ*; *miṣrî*, *miṣrîṯ*: gentilic adjectives (lesson 3.1).
 
 Adjectives also have construct forms, used when the adjective is bound to a noun that limits it: *yāp̄eh* → *yəp̄ēh*, *yāp̄â* → *yəp̄aṯ*: *yəp̄aṯ-tōʾar* "beautiful of form" (Genesis 29:17).
@@ -47,7 +47,7 @@ Adjectives also have construct forms, used when the adjective is bound to a noun
 
 To say "the great lights":
 
-1. The noun: *məʾōrôṯ*, masculine plural, with the article: *hamməʾōrōṯ*.
+1. The noun: *məʾōrōṯ*, masculine plural, with the article: *hamməʾōrōṯ*.
 2. The adjective agrees: masculine plural, *gəḏōlîm* (not *-ôṯ*: lesson 3.2).
 3. The noun is definite, so the adjective takes the article: *haggəḏōlîm*.
 4. It follows the noun: *hamməʾōrōṯ haggəḏōlîm*.
@@ -225,7 +225,7 @@ confidence: attested
 
 **Do not split a chain with an adjective.** *\*maʿăśēh haggāḏōl YHWH* is impossible. Put it at the end (lesson 3.6).
 
-**Do not read every *-â* form as an adjective.** In *zaʿăqaṯ səḏōm ... kî-rābbâ* "the outcry of Sodom ... how great it is" (Genesis 18:20), *rābbâ* is a stative qatal verb, "it has become great", not the adjective *rabbâ* (lesson 2.6). The vowel shows it: qameṣ in the verb *rābbâ*, pataḥ in the adjective *rabbâ*. In meaning the two are close.
+**Do not read every *-â* form as an adjective.** In *zaʿăqaṯ səḏōm ... kî-rābbâ* "the outcry of Sodom ... how great it is" (Genesis 18:20), *rābbâ* is a stative qatal verb, "it has become great", not the adjective *rabbâ* (lesson 2.6). The stress shows it: the accent falls on the first syllable, as in a qatal form, and the qameṣ is the lengthening of pause (lesson 1.8); the adjective *rabbâ* is stressed on its ending. In meaning the two are close.
 
 **English comparatives have no Hebrew ending.** There is no *\*gəḏōlēr*. "The greater light" is *hammāʾôr haggāḏōl* (example 2); "greater than" uses *min* (lesson 5.5).
 
@@ -238,7 +238,7 @@ source: gkc1910 §§87, 93, 132; oshb
 | Type | m. sg. | f. sg. | m. pl. | f. pl. |
 |---|---|---|---|---|
 | unchangeable | טוֹב ṭôḇ | טוֹבָה ṭôḇâ | טוֹבִים ṭôḇîm | טוֹבוֹת ṭôḇôṯ |
-| two changeable | גָּדוֹל gāḏôl | גְּדוֹלָה gəḏôlâ | גְּדוֹלִים gəḏôlîm | גְּדוֹלוֹת gəḏôlôṯ |
+| two changeable | גָּדוֹל gāḏôl | גְּדוֹלָה gəḏôlâ | גְּדוֹלִים gəḏôlîm | גְּדֹלוֹת gəḏōlôṯ |
 | doubling | קָטֹן qāṭōn | קְטַנָּה qəṭannâ | קְטַנִּים qəṭannîm | |
 | doubling | רַב raḇ | רַבָּה rabbâ | רַבִּים rabbîm | רַבּוֹת rabbôṯ |
 | guttural | רַע raʿ | רָעָה rāʿâ | רָעִים rāʿîm | רָעוֹת rāʿôṯ |
@@ -249,7 +249,7 @@ source: gkc1910 §§87, 93, 132; oshb
 
 :::vocab
 חָזָק | ḥāzāq | adjective | strong, firm, hard | f. ḥăzāqâ
-בָּרִיא | bārîʾ | adjective | fat, well-fed | pl. bərîʾîm
+בָּרִיא | bārîʾ | adjective | fat, well-fed | f. pl. bərîʾōṯ
 אַדְמוֹנִי | ʾaḏmônî | adjective | red, ruddy | of Esau and of David
 כָּבֵד | kāḇēḏ | verb | be heavy; be honoured | stative qal; compare the adjective kāḇēḏ
 רָבַב | rāḇaḇ | verb | be or become many, great | stative qal; root r-b-b, as in raḇ
@@ -284,7 +284,7 @@ Arabic has the same rule of definiteness agreement: *al-bayt al-kabīr* "the big
 
 ## Worked answers
 
-1. *gāḏôl*, *gəḏôlâ*, *gəḏôlîm*, *gəḏôlôṯ*; *qāṭōn*, *qəṭannâ*, *qəṭannîm*, (*qəṭannôṯ*). The first vowel reduces before the endings; in *qāṭōn* the *n* doubles (lesson 3.3).
+1. *gāḏôl*, *gəḏôlâ*, *gəḏôlîm*, *gəḏōlôṯ*; *qāṭōn*, *qəṭannâ*, *qəṭannîm*, (*qəṭannôṯ*). The first vowel reduces before the endings; in *qāṭōn* the *n* doubles (lesson 3.3).
 2. *hāʾîš haṭṭôḇ* "the good man": both definite, so a phrase. *ṭôḇ hāʾîš* "the man is good": the adjective has no article, so it is the predicate (Gesenius §126u; lesson 2.1).
 3. *ʾiššâ ḥăḵāmâ*, *hāʾiššâ haḥăḵāmâ*.
 4. *šimḵā haggāḏôl*. The suffix makes the noun definite, so the adjective takes the article (§126u).

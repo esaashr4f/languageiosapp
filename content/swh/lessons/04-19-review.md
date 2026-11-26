@@ -169,8 +169,8 @@ confidence: attested
 9. *Fisi ataingia shambani, atakula ndizi, na mkulima atamkamata.* *-ka-* is for past stories; a future sequence uses *-ta-* (with *ku-* on the short verb). Lessons 4.3, 4.4, 4.15.
 10. *Mkulima akikuona, atakukamata.* Lessons 4.7, 4.14.
 11. *Ninataka uje nami, lakini sitaki fisi aje.* Different subjects: subjunctive. Lessons 4.11, 3.14.
-12. *Usiibe! Afadhali kufanya kazi* (or *ufanye kazi*). Lesson 4.11.
-13. *Sungura bado amejificha; hajatoka bado.* "Still" with a verb is *bado*; *-ngali* goes with nouns, adjectives and places. Lessons 4.5, 4.6, 4.17.
+12. *Usiibe! Afadhali ufanye kazi.* *Afadhali* "it's better" + subjunctive (Thompson and Schleicher). Lesson 4.11.
+13. *Sungura bado amejificha; hajatoka bado.* "Still" with a verb is usually *bado*; *-ngali* before a *-me-* verb, *angali amejificha*, is the other way (Polomé). Lessons 4.5, 4.6, 4.17.
 14. *Fisi alikuwa akila kwa mkulima kila siku.* *Kuwa* + *-ki-* for a past habit (*kwa* "at someone's" is lesson 5.8). Lesson 4.16.
 15. *Tumekuwa tukikutafuta!* Perfect of *kuwa* + *-ki-*. Lesson 4.16.
 16. *Ukishakula, twende.* *-ki-sha-* "once", then a proposal. Lessons 4.10, 4.17.

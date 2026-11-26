@@ -89,13 +89,13 @@ confidence: constructed
 :::
 
 :::example
-orig: eski bir ev
-morphemes: eski bir ev
-gloss: old a house
-translation: an old house
+orig: yeni bir kitap
+morphemes: yeni bir kitap
+gloss: new a book
+translation: a new book
 note: Not a sentence: the adjective stands before the noun, so it describes it.
-source: goksel2005 §14.6
-confidence: verified
+source: constructed
+confidence: constructed
 :::
 
 :::example

@@ -209,7 +209,7 @@ source: whitney1889 §§11–15; macdonell1927 §§11–12; meanings mw1899
 
 1. Transliterate: धर्म, पुत्र, ज्ञान, आत्मन्.
 2. Write in Devanagari: *artha*, *satya*, *mantra*, *kṣetra*.
-3. Why does कर्मन् have a virāma, but कर्म inside a longer word may not?
+3. Why does कर्मन् end with a virāma, when the same consonant in कर्मणि *karmaṇi* (san-00-02) has none?
 4. In अर्थ, on which letter does the repha sit, and in what order do you say the sounds?
 5. Which two conjuncts give no visual clue to their parts?
 6. Is the first syllable of *śabda* heavy or light? Explain from the script.
@@ -219,7 +219,7 @@ source: whitney1889 §§11–15; macdonell1927 §§11–12; meanings mw1899
 
 1. *dharma*, *putra*, *jñāna*, *ātman*.
 2. अर्थ, सत्य, मन्त्र, क्षेत्र.
-3. In कर्मन् the *n* ends the word, so it needs virāma to remove its *a*. Inside a longer word or compound, a consonant followed by another consonant is written as part of a conjunct instead, and a consonant followed by a vowel takes that vowel's sign.
+3. In कर्मन् the *n* ends the word, so it needs virāma to remove its *a*. In कर्मणि the nasal (here *ṇ*) is followed by the vowel *i* and takes that vowel's sign: णि. A consonant followed by another consonant is written as part of a conjunct instead.
 4. On थ. You say *a*, then *r*, then *th*: *artha*. The repha is written on the letter that follows the *r* in speech.
 5. क्ष *kṣa* and ज्ञ *jña* (Whitney §13g).
 6. Heavy. The conjunct ब्द shows two consonants, *b* and *d*, after the short *a*; two consonants make the syllable heavy.

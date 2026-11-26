@@ -81,7 +81,7 @@ Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 
 | 69 | Burushaski | `bsk` | B | not started | 0/0 | 0 | 0 |  |
 | 70 | Dyirbal | `dbl` | B | not started | 0/0 | 0 | 0 |  |
 | 71 | Warlpiri | `wbp` | B | not started | 0/0 | 0 | 0 |  |
-| 72 | Latin (pilot) | `lat` | A | draft | 62v+2d/105 | 112,954 | 0 | 2026-11-26 |
+| 72 | Latin (pilot) | `lat` | A | draft | 62v+16d/105 | 112,954 | 0 | 2026-11-26 |
 | 73 | Ancient Greek (Attic) | `grc` | A | not started | 0/0 | 0 | 0 |  |
 | 74 | Sanskrit (pilot) | `san` | A | draft | 0v+22d/108 | 44,597 | 0 | 2026-11-26 |
 | 75 | Pali | `pli` | A | not started | 0/0 | 0 | 0 |  |

@@ -127,6 +127,16 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - Indefinite quis is entered as "indefinite pronoun", so interrogative quis can be entered as "pronoun" in part 6; uter, ter, adeō (verb), quārē already introduced; sī and nisi not yet. quī/quae/quod appear only in quotations, glossed lexically, until lat-06-02.
 - Gallic War 1.2 is cited without a subsection where The Latin Library's numbering differs.
 
+### Gloss conventions settled while drafting (part 6)
+
+- Relative pronoun glossed whole REL.ACC.SG.M; question words lexically (who.NOM.SG, what.ACC.SG.N).
+- Conjunctions lexical: ut `so.that`/`that`; nē `so.that.not`/`that.not`; after fearing nē `lest`, ut `that.not`; quīn `that.not`/`but.that`/`that`; quōminus `from`; cum `when`/`since`/`although` by sense.
+- Infinitives: perfect active fūg-isse flee.PRF-INF; perfect passive and future active participle + es-se be-INF; future passive absolūt-um ī-rī acquit-SUP go-INF.PASS (preview SUP until part 7).
+- Subjunctives of sum and compounds glossed whole (sint be.SBJV.3PL, intersit be.between.SBJV.3SG). Spellings per Wiktionary: Iēsūs, Genava, Pōlliō, stēlla. ubi, quasi with short final i (A&G §604).
+- Vulgate examples are used deliberately as late-Latin exceptions (quia for acc. + inf., ut nōn for purpose, indicative in indirect questions, primary sequence after a perfect).
+- Civil War 1.66: The Latin Library prints Sasa, A&G Saxa; the edition is followed and noted. Several Caesar, Sallust and Livy passages cited without section numbers where the edition has none.
+- Part 7 inherits: GERV and SUP previewed only; licet, oportet, necesse est, fore ut, gerund/gerundive of purpose pointed forward; sī, nisi, sīn, quīn, quōminus, forum introduced.
+
 ## 5. Major paradigms and where to check them
 
 Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, entered without macrons) and, for the paradigm as a system, bennett1918 (plain text: Project Gutenberg 15665) or ag1903 (section numbers below; `ag-index.tsv` lists the page for each topic).

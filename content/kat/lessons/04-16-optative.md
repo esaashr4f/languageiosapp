@@ -212,6 +212,12 @@ source: wiktionary (წერს, ჭრის, მიდის)
 გაუმარჯოს | gaumarǯos | interjection | cheers!; long live ...!; (informal) hello | an optative; the person or thing toasted in the dative
 გამარჯობა | gamarǯoba | interjection | hello |
 ჯანმრთელობა | ǯanmrteloba | noun | health |
+ასრულებს | asrulebs | verb | finishes (with და-); carries out, performs (with შე-) | class 1; fut. დაასრულებს, შეასრულებს; aor. დაასრულა, შეასრულა; pf. დაუსრულებია; masdar დასრულება, შესრულება
+იმედი | imedi | noun | hope |
+წარმატება | c̣armaṭeba | noun | success |
+ბედი | bedi | noun | fate, luck |
+ჩქარა | čkara | adverb | quickly, fast |
+მშვიდობით | mšvidobit | interjection | goodbye | instrumental of მშვიდობა "peace"
 ბედნიერება | bedniereba | noun | happiness |
 :::
 

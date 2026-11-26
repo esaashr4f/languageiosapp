@@ -8,7 +8,7 @@ point: "Add the endings that say who is something: -(y)Im, -sIn, -(y)Iz, -sInIz,
 requires: [tur-02-01]
 introduces: [person]
 confidence: verified
-sources: [goksel2005, wiktionary]
+sources: [goksel2005, wiktionary, tdk]
 ---
 
 ## The idea
@@ -104,11 +104,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Siz Japonsunuz.
+orig: Siz Japon'sunuz.
 morphemes: siz Japon-sunuz
 gloss: 2PL Japanese-2PL
 translation: You are Japanese.
-note: Several people, or one person addressed politely. Both vowels of -sInIz harmonise with o.
+note: Several people, or one person addressed politely. Both vowels of -sInIz harmonise with o. Japon is a proper noun, so the ending is written after an apostrophe (TDK: Alman'sınız).
 source: constructed
 confidence: constructed
 :::
@@ -154,11 +154,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Türküm.
+orig: Türk'üm.
 morphemes: Türk-üm
 gloss: Turk-1SG
 translation: I am Turkish.
-note: Harmony after ü: -üm.
+note: Harmony after ü: -üm. Written with an apostrophe, as after any proper name (tur-01-08).
 source: constructed
 confidence: constructed
 :::
@@ -170,7 +170,7 @@ The personal endings of this lesson mark the subject of every predicate except a
 - **After a noun**: *öğretmenim*, *öğrenciyiz*, *komşuyuz*.
 - **After an adjective**: *yorgunum*, *hastayım*, *mutlusun* "you are happy".
 - **After a noun with its adjective**: the ending goes on the last word, *iyi bir arkadaşsın*.
-- **After a nationality**: *Türküm*, *Japonsunuz*, *İngilizim*.
+- **After a nationality**: *Türk'üm*, *Japon'sunuz*, *İngiliz'im*. Nationality words are proper nouns, so the ending is written after an apostrophe; TDK's spelling rules give *Alman'sınız* "you are German" and *Kırgız'ım* "I am Kyrgyz".
 - **With or without the pronoun**: *Öğretmenim* and *Ben öğretmenim* are both correct. Use the pronoun to contrast or to stress the person (goksel2005 §18.1.5.1): *Ali yorgun, ben hazırım* "Ali is tired, (but) I am ready".
 - **With a joint subject**: "Ali and I" takes the "we" ending; "you and Ali" takes the "you" plural ending (goksel2005 §12.2.2.4).
 - **Polite "you" to one person**: *Siz yorgunsunuz* can be said to one older person.
@@ -205,14 +205,14 @@ The personal endings of this lesson mark the subject of every predicate except a
 :::table
 caption: The personal endings (z-set) on a predicate
 confidence: verified
-source: goksel2005 §8.4; wiktionary (-im, -sin, -siniz)
+source: goksel2005 §8.4; wiktionary (-im, -sin, -siniz); tdk spelling rules (apostrophe)
 | Person | Ending | yorgun "tired" | öğretmen "teacher" | Türk "Turk" | hasta "ill" |
 |---|---|---|---|---|---|
-| 1st singular | -(y)Im | yorgunum | öğretmenim | Türküm | hastayım |
-| 2nd singular | -sIn | yorgunsun | öğretmensin | Türksün | hastasın |
+| 1st singular | -(y)Im | yorgunum | öğretmenim | Türk'üm | hastayım |
+| 2nd singular | -sIn | yorgunsun | öğretmensin | Türk'sün | hastasın |
 | 3rd singular | (none) | yorgun | öğretmen | Türk | hasta |
-| 1st plural | -(y)Iz | yorgunuz | öğretmeniz | Türküz | hastayız |
-| 2nd plural | -sInIz | yorgunsunuz | öğretmensiniz | Türksünüz | hastasınız |
+| 1st plural | -(y)Iz | yorgunuz | öğretmeniz | Türk'üz | hastayız |
+| 2nd plural | -sInIz | yorgunsunuz | öğretmensiniz | Türk'sünüz | hastasınız |
 | 3rd plural | (-lAr) | yorgun(lar) | öğretmen(ler) | Türk(ler) | hasta(lar) |
 :::
 

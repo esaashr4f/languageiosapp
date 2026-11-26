@@ -183,7 +183,7 @@ preview: substantive adjective
 
 **Do not translate English "to" with a preposition.** *\*Ad cantāre* for "to sing" is impossible: *ad* takes a noun in the accusative (part 3, lesson 5), and the infinitive already means "to sing". Nor does Spanish *para* or French *pour* have a place here: "I want to sing" is *cantāre volō*.
 
-**Do not use *habeō* for "have to".** English "I have to work" and Spanish *tengo que trabajar* suggest *\*habeō labōrāre*. In classical Latin, obligation is *dēbeō*: *labōrāre dēbeō*. (The Romance futures, French *je chanterai*, come from a later "*cantāre habeō*", but that is not classical usage.)
+**Do not use *habeō* for "have to".** English "I have to work" and Spanish *tengo que trabajar* suggest *\*habeō labōrāre*. In classical Latin, obligation is *dēbeō*: *labōrāre dēbeō*. (The Romance futures, French *je chanterai*, come from a later "*cantāre habeō*", but that is not classical usage: Wiktionary, *habeō*, usage notes, and Spanish *-aré*, French *-erai*.)
 
 **Do not put the predicate after *esse* in the accusative.** *\*Vir bonum esse vult* is wrong: the man is the subject of both verbs, so the adjective is nominative, *bonus* (ag1903 §458). The accusative appears only when the sentence names a separate subject for the infinitive (part 6).
 

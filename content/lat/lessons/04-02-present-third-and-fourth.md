@@ -21,7 +21,7 @@ Latin kept many of these verbs, and they are its third conjugation. In Latin the
 
 The first, second and fourth conjugations come from verbs of a different build. A suffix *-ye-* or *-yo-* was added to a stem ending in a vowel, and the vowels contracted into the long *ā*, *ē* and *ī* you see in *amāre*, *vidēre*, *audīre* (ag1903 §174). That contraction is why those three conjugations have a long stem vowel and the third does not.
 
-One group sits between the two. Where the *-yo-* suffix met a root ending in a consonant, the result is verbs like *capiō* "take" and *veniō* "come". Some went into the third conjugation, some into the fourth, and some have forms of both (ag1903 §174). Allen and Greenough call their rule for these verbs a working rule only: "the actual explanation of the forms of such verbs is not fully understood" (ag1903 §188, note). This guide calls them **-iō verbs**.
+One group sits between the two. Where the *-yo-* suffix met a root ending in a consonant, the result is verbs like *capiō* "take" and *veniō* "come". Some went into the third conjugation, some into the fourth, and some have forms of both (ag1903 §174). Allen and Greenough call their rule for these verbs a working rule only: "the actual explanation of the forms of such verbs is not fully understood" (ag1903 §188, footnote 1). This guide calls them **-iō verbs**.
 
 ## How it is built
 
@@ -179,7 +179,7 @@ preview: third-declension adjective
 
 ## Where it applies
 
-- **The largest class of basic verbs.** Many of the commonest verbs are third conjugation: *agō*, *dīcō*, *dūcō*, *petō*, *pōnō*, *regō*, *scrībō*, *vincō*. They are old verbs, inherited from the parent language. New Latin verbs were made in the first and fourth conjugations, from nouns and adjectives (ag1903 §174), so the third is small in number but large in use.
+- **The largest class of basic verbs.** Many of the commonest verbs are third conjugation: *agō*, *dīcō*, *dūcō*, *petō*, *pōnō*, *regō*, *scrībō*, *vincō*. They are old verbs, inherited from the parent language. New Latin verbs were made in the long-vowel conjugations, from nouns and adjectives (ag1903 §174), so the third is small in number but large in use.
 - **All the uses of the present.** Everything lesson 1 of part 2 said about the present holds here: an act going on now (*Rēx populum regit*), a general truth (*Omnia vincit Amor*, *Hominēs dum docent discunt*), a vivid narrative present, and an attempt (*fugit* can be "tries to run away" in a story).
 - **The -iō verbs.** A fixed list. The commonest in this lesson are *capiō*, *faciō*, *fugiō* and *rapiō*, and their compounds (lesson 16 of this part). Learn them as a group: the first principal part ends in *-iō* and the infinitive in short *-ere*.
 - **The fourth conjugation.** *Audiō*, *sciō*, *sentiō*, *dormiō*, *veniō* and *inveniō*. Some are built on nouns: Allen and Greenough derive *fīnīre* "to limit" from the stem of *fīnis* "end" (ag1903 §176, footnote).
@@ -267,7 +267,7 @@ Greek preserves the linking vowel that Latin turned into *i* and *u*: *λέγ-ο
 6. Why does *legunt* have a *u*, when *legit* has an *i*? Use the history.
 7. Correct *\*Hostēs fugint* ("the enemy are running away") and *\*Puerī capīunt* ("the boys are taking").
 8. Say "I trust the consul" with *crēdō*.
-9. Without macrons, *dicitis* and *audītis* look alike in their endings. What decides how each is pronounced and stressed?
+9. Without macrons, *dicitis* and *auditis* look alike in their endings. What decides how each is pronounced and stressed?
 
 ## Worked answers
 

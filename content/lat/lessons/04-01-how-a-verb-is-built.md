@@ -17,7 +17,7 @@ So far you have used one tense, the present, and built it from one stem. A Latin
 
 *Amō, amāre, amāvī, amātum* is a full entry for "love". It reads: "I love", "to love", "I loved" (or "I have loved"), and a rare verbal noun called the supine, *amātum*.
 
-Why four, when English makes do with "love, loved"? Because the three stems cannot be predicted from one another. Allen and Greenough explain that a Latin verb is not one system worked out from a single root. It is a set of separate formations, some inherited and some new, that were grouped together over time (ag1903 §168, note 1).
+Why four, when English makes do with "love, loved"? Because the three stems cannot be predicted from one another. Allen and Greenough explain that a Latin verb is not one system worked out from a single root. It is a set of separate formations, some inherited and some new, that were grouped together over time (ag1903 §168, footnote 1).
 
 The clearest case is the perfect. Its stem is built in at least five different ways. One kind adds *-v-* or *-u-* (*amā-v-ī*, *mon-u-ī*): Allen and Greenough call this a Latin creation of uncertain origin (ag1903 §177). Another adds *-s-* (*mān-s-ī* "I stayed", *rī-s-ī* "I laughed"): this is an old aorist, the past tense of the parent language, and *dīxī* "I said" has the same build as Greek *ἔδειξα* "I showed" (ag1903 §177). A third repeats the first consonant (*ste-t-ī* from *stō*). A fourth lengthens the root vowel (*vīd-ī* from *videō*). The perfect has so many shapes because it continues two older verb categories, the aorist and the perfect, which merged into one Latin tense (Weiss, *Outline*; Sihler, *New Comparative Grammar*). Each verb kept whichever formation it happened to inherit, so you have to learn it.
 

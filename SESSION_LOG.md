@@ -73,3 +73,20 @@ State at the pause:
 2. Resume: verify lat part 4 + 02-09; draft lat part 5; continue part 2 for kat, tur, swh, hbo.
 3. Verify parts 0–1 of kat, tur, swh, hbo, san (none verified yet).
 
+## Session 3 — 2026-11-26, overnight run ended at 11:35 GMT (owner's instruction)
+
+All agents were stopped by the 5-hour usage limit at about 07:20 UTC and did not resume (the limit reset at 11:30, the end of the run). Partial lessons were committed as checkpoints and marked "drafted".
+
+**Where each language stands**
+- **lat:** parts 0–4 verified (51 lessons). Part 5 (lat-05-01 to 05-11) drafted; its verification was stopped early (fix lat-03-08's dīvīsa gloss as part of it). Part 6: lat-06-01 and 06-02 on disk; continue from 06-03.
+- **kat:** parts 0–2 verified. Part 3: up to kat-03-11 on disk; finish part 3 (check 03-11 is complete).
+- **tur:** parts 0–2 verified. Part 3: up to tur-03-14 on disk; finish part 3. The apostrophe rule for proper nouns (dossier, "Notes from verifying part 2") must be applied to all part 3 lessons.
+- **swh:** parts 0–2 verified; part 3 (16 lessons) drafted; its verification was stopped partway (uncommitted edits to 03-01, 03-02, 03-03, 03-05 were checkpointed: re-run the verification over all of part 3, and fix swh-02-08 usiku's plural). Part 4 not started.
+- **hbo:** parts 0–2 drafted; verification of parts 0–2 stopped early (restart). Part 3: up to hbo-03-05 on disk; continue.
+- **san:** parts 0–2 drafted (none verified). Part 3 drafting had just started (nothing written).
+
+**Next, in this order**
+1. Lint first (last check: 0 errors).
+2. Resume or restart: lat part 5 verification + lat part 6 drafting; kat, tur, hbo, san part 3 drafting; swh part 3 verification + part 4 drafting; hbo parts 0–2 verification; san parts 0–2 verification.
+3. Record each report as before (STATUS, glossary terms, dossier notes, `npm run build:reference -- <code>`, VERIFY.md, `npm run stats`), commit, push.
+

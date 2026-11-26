@@ -222,7 +222,7 @@ source: wiktionary (değil); goksel2005 §§8.4, 20.2.1
 :::vocab
 değil | - | particle | not (negates a nominal predicate) | takes the personal endings: değilim, değilsin, değil, değiliz, değilsiniz, değil(ler); said [dejil] or [diːl]
 evet | - | interjection | yes |
-hayır | - | interjection | no | from Persian; as a noun "good, charity", acc. hayrı
+hayır | - | interjection | no | from Arabic ḫayr "good" (TDK; Wiktionary traces the "no" sense through Persian naxayr); as a noun "good, charity", acc. hayrı
 ama | - | conjunction | but | from Arabic
 zengin | - | adjective | rich | from Persian
 fakir | - | adjective | poor | from Arabic; also a noun "poor person", acc. fakiri

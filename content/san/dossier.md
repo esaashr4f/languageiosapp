@@ -254,3 +254,109 @@ Leipzig rules (leipzig): `-` between morphemes, `.` for several meanings in one 
 - **Verbs** by root, written with √ in prose (√gam), with class, voice and the 3SG present, as mw1899 lists them: `गम् | gam | verb | go | root, class 1, active; gacchati; PST.PTCP gata; CVB gatvā`. The present stem is not a headword. Roots are cited in the form mw1899 gives (*kṛ*, *bhū*, *dṛś*, *sthā*), not the Pāṇinian *dhātupāṭha* forms with markers (*ḍukṛñ*); san-07-11 explains the markers.
 - **Adjectives** by masculine stem with feminine: `प्रिय | priya | adjective | dear | priya, f. priyā`.
 - **Terms used in prose**, each defined at first use: root (*dhātu*), stem, ending, present class (numbers 1–10, with the Indian names *bhvādi* etc. given once in san-04-01), active and middle (*parasmaipada*, *ātmanepada* given once), guṇa, vṛddhi, sandhi, pausa, visarga, anusvāra, virāma, avagraha, augment, reduplication, absolutive, past participle, gerundive, preverb, and the compound names *tatpuruṣa*, *karmadhāraya*, *dvigu*, *dvandva*, *bahuvrīhi*, *avyayībhāva* (with English names: dependent, descriptive, numeral, copulative, possessive, adverbial). "Retroflex", not "cerebral" or "lingual" (those are named once as older terms).
+
+## 5. Major paradigms and where to check them
+
+**How to check a form.** (1) Wiktionary through `python3 tools/wikt.py <Devanagari> Sanskrit`: nouns by stem (`देव`, `राजन्`, `मनस्`), verbs by the 3SG present (`गच्छति`, `लभते`, `करोति`). Tables give present, imperfect, imperative, optative and participles, with Vedic accents and footnoted Vedic variants: strip the accents, ignore footnoted forms. The tool does **not** print perfect, aorist, future or non-finite forms for a root (querying `कृ`, `गम्` returned nothing usable in this session). (2) For those, mw1899 (Cologne, `getword.php?key=<SLP1>`; e.g. `kf`, `gam`, `BU`, `vac`) lists each root's attested forms with their texts: pf., aor., fut., inf., ind.p. (absolutive), Pass. This session checked from mw1899: *babhūva, abhūt, bhaviṣyati, bhavitā, bhūtvā* (bhū); *cakāra, cakre, akārṣīt, kariṣyati, kartā, kartum, kṛtvā* (kṛ); *jagāma, agamat, gamiṣyati, gantā, gantum, gatvā, gamyate, jigamiṣati* (gam); *uvāca, ūce, ucyate, vakṣyati, vaktā, vaktum, uktvā* (vac); *hanti, ghnanti, jaghāna, hantum, hatvā* (han); *veda, vetti, avedīt* (vid); *tyaktum, atyākṣīt* (tyaj); *śrotum* (śru); *labhate, lebhe, labdhum, labdhvā* (labh). (3) whitney1889 for the system and the rule; its Appendix gives a synopsis of the whole conjugation of bhū and kṛ. Read forms from the Wikisource page scan, not from the archive.org OCR (which garbles diacritics). (4) Heritage site (heritage) declension and conjugation engines as a mechanical second check when Wiktionary and MW disagree; not run in this session.
+
+**Where Wiktionary and the grammars differ** (seen this session): Wiktionary gives Vedic dual *-ā* beside *-au*, Vedic plural *-āsaḥ* and *-ebhiḥ*, *nadīḥ* nominative, *senā* instrumental: all footnoted, all Vedic. It gives *bhavathāt*-type 2SG imperatives (*bhavatāt*) unfootnoted: these are rare in Classical (whitney1889 §§570–571, unverified section number) and should not appear in tables.
+
+### Model paradigm 1: a-stem masculine *deva* "god" (Wiktionary देव; whitney1889 §§326–334, example §330)
+
+| Case | Singular | Dual | Plural |
+|---|---|---|---|
+| NOM | devaḥ | devau | devāḥ |
+| ACC | devam | devau | devān |
+| INS | devena | devābhyām | devaiḥ |
+| DAT | devāya | devābhyām | devebhyaḥ |
+| ABL | devāt | devābhyām | devebhyaḥ |
+| GEN | devasya | devayoḥ | devānām |
+| LOC | deve | devayoḥ | deveṣu |
+| VOC | deva | devau | devāḥ |
+
+Neuter *phala* differs only in NOM/ACC/VOC: *phalam*, *phale*, *phalāni* (Wiktionary table for the neuter of देव checked: *devam, deve, devāni*). Feminine *senā* (Wiktionary सेना): *senā, senām, senayā, senāyai, senāyāḥ, senāyāḥ, senāyām, sene*; DU *sene, sene, senābhyām, senayoḥ*; PL *senāḥ, senāḥ, senābhiḥ, senābhyaḥ, senānām, senāsu*.
+
+### Model paradigm 2: present active of class 1 *gam* "go" and middle of *labh* "get" (Wiktionary गच्छति, लभते)
+
+| | active SG | DU | PL | middle SG | DU | PL |
+|---|---|---|---|---|---|---|
+| 3 | gacchati | gacchataḥ | gacchanti | labhate | labhete | labhante |
+| 2 | gacchasi | gacchathaḥ | gacchatha | labhase | labhethe | labhadhve |
+| 1 | gacchāmi | gacchāvaḥ | gacchāmaḥ | labhe | labhāvahe | labhāmahe |
+
+Imperfect *agacchat, agacchatām, agacchan; agacchaḥ, agacchatam, agacchata; agaccham, agacchāva, agacchāma*; middle *alabhata ... alabhe*. Optative *gacchet ... gaccheyuḥ*; *labheta ... labheran*. Imperative *gacchatu, gacchantu, gaccha, gacchata, gacchāni*; *labhatām, labhasva*. Participles *gacchat*, *labhamāna*. Passive *gamyate*. All from the Wiktionary tables.
+
+### Model paradigm 3: the personal pronouns (Wiktionary अहम्, त्वम्; whitney1889 §491)
+
+| | 1SG | 1DU | 1PL | 2SG | 2DU | 2PL |
+|---|---|---|---|---|---|---|
+| NOM | aham | āvām | vayam | tvam | yuvām | yūyam |
+| ACC | mām, mā | āvām, nau | asmān, naḥ | tvām, tvā | yuvām, vām | yuṣmān, vaḥ |
+| INS | mayā | āvābhyām | asmābhiḥ | tvayā | yuvābhyām | yuṣmābhiḥ |
+| DAT | mahyam, me | āvābhyām, nau | asmabhyam, naḥ | tubhyam, te | yuvābhyām, vām | yuṣmabhyam, vaḥ |
+| ABL | mat, mattaḥ | āvābhyām | asmat, asmattaḥ | tvat, tvattaḥ | yuvābhyām | yuṣmat, yuṣmattaḥ |
+| GEN | mama, me | āvayoḥ, nau | asmākam, naḥ | tava, te | yuvayoḥ, vām | yuṣmākam, vaḥ |
+| LOC | mayi | āvayoḥ | asmāsu | tvayi | yuvayoḥ | yuṣmāsu |
+
+The second form in a cell is the enclitic, which never stands first in its sentence or verse quarter.
+
+### Model paradigm 4: the demonstrative *sa, sā, tad* (Wiktionary तद्; whitney1889 §495)
+
+M: *saḥ, tam, tena, tasmai, tasmāt, tasya, tasmin*; DU *tau, tābhyām, tayoḥ*; PL *te, tān, taiḥ, tebhyaḥ, teṣām, teṣu*. F: *sā, tām, tayā, tasyai, tasyāḥ, tasyāḥ, tasyām*; DU *te, tābhyām, tayoḥ*; PL *tāḥ, tābhiḥ, tābhyaḥ, tāsām, tāsu*. N: *tat* (pausa; *tad* is the stem and the dictionary form), DU *te*, PL *tāni*, otherwise as M. *saḥ* drops its -ḥ before any consonant (*sa gacchati*), and before vowels behaves as -aḥ (*sa uvāca*; whitney1889 §176a). *eṣa/etad* inflects the same way on *eta-*.
+
+### All topics, with model words
+
+Section numbers for whitney1889 are those whose headings were found in this session (archive.org OCR of the 1896 issue; chapter ranges confirmed on the Wikisource contents page). "unverified" = a number from recall not yet seen.
+
+| Topic | Model words | whitney1889 | Check with |
+|---|---|---|---|
+| Alphabet, sounds | | §§1–18, 19–75 | |
+| Vowel sandhi | | §§125–138 | heritage sandhi engine |
+| Permitted finals, pausa | | §§139–155 (§122 heading "Permitted Finals") | |
+| Final s and r (visarga) | | §§164–178 | |
+| Final n, m | | §§202–213 | |
+| n → ṇ, s → ṣ (internal) | | §§180–198 | |
+| Guṇa and vṛddhi | | §§235–243 | |
+| Uses of the cases | | §§267–305 (unverified range inside §§261–320) | speijer1886 ch. III–VIII |
+| a-stems (m. n.), ā-stems (f.) | deva, phala, senā, kanyā | §§326–334, 364 | wikt देव, सेना |
+| i- and u-stems | agni, mati, guru, dhenu, vāri, madhu | §§335–346 (examples §339) | wikt अग्नि, मति, गुरु, धेनु |
+| ī- and ū-stems | nadī, devī, vadhū; strī, śrī, dhī | §§347–366 (examples §364) | wikt नदी, वधू, स्त्री |
+| ṛ-stems | pitṛ, mātṛ, dātṛ, svasṛ | §§369–376 (examples §373) | wikt पितृ, मातृ, दातृ |
+| diphthong stems | go, nau, rai | §§361 ff. (unverified) | wikt गो |
+| consonant root-stems | vāc, marut, diś, vidyut | §§383–410 | wikt वाच्, मरुत् |
+| as-, is-, us-stems | manas, havis, cakṣus | §§411–416 (examples §414) | wikt मनस् |
+| an-stems | rājan, ātman, nāman, karman, ahan | §§420–437 (examples §424) | wikt राजन्, आत्मन्, नामन्, कर्मन् |
+| in-stems | balin, yogin | §§438–441 | wikt बलिन् |
+| ant-, vant-, mant-stems; present participles | bhagavat, bhavat, dhīmat, gacchat | §§446–457 | wikt भगवत् |
+| perfect participles in -vas | vidvas, tasthivas | §§458–462 | whitney1889 §458 table (seen) |
+| comparatives in -īyas | garīyas, śreyas | §§463–470 (unverified) | |
+| irregular nouns | pums, strī, go, path, ahan, sakhi, pati, dyo, ap | scattered; see index | wikt पुंस्, स्त्री, गो, पथिन्, सखि, पति |
+| Numerals | eka, dvi, tri, catur, pañcan | §§475–489 (inflection §482) | |
+| Personal pronouns | aham, tvam | §491 | wikt अहम्, त्वम् |
+| Demonstratives | sa, eṣa, ayam, asau | §§495–503 | wikt तद्, इदम्, अदस् |
+| Interrogative, relative, indefinite | ka, kim, ya, kaś cit | §§504–513 | |
+| Pronominal adjectives | sarva, anya, para, eka | §§522–526 | |
+| Endings, modes, augment | | §§527–598 | |
+| Thematic classes 1, 4, 6, 10 | bhū, gam, naś, tud, viś, cur | §§734–779 (class 6 example §752, class 4 example §760) | wikt भवति, गच्छति, नश्यति, चोरयति |
+| Root class (2) | as, i, ad, han, brū, vid, duh | §§611–660 | wikt अस्ति, एति, ब्रवीति |
+| Reduplicating class (3) | dā, dhā, hu, bhī, bhṛ | §§642–673 (unverified range) | wikt ददाति |
+| Nasal class (7) | yuj, rudh, bhid | §§683–694 | wikt युनक्ति |
+| nu-, u-classes (5, 8) | śak, āp, su, tan, kṛ | §§697–716 (unverified range) | wikt करोति |
+| nā-class (9) | krī, jñā, grah, aś | §§717–733 | wikt क्रीणाति |
+| Passive | kriyate, gamyate, ucyate, dīyate | §§768–774, 998 | wikt tables (passive column) |
+| Perfect | jagāma, uvāca, babhūva, cakāra, āha, veda | §§780–823 | mw1899 per root |
+| Aorist (7 types) and precative | abhūt, agamat, akārṣīt, avadhīt; bhūyāt | §§824–930 | mw1899 per root |
+| Futures and conditional | bhaviṣyati, kartā; akariṣyat | §§931–950 | mw1899; whitney1889 Appendix |
+| Past participle -ta/-na; -tavat | gata, kṛta, bhinna; kṛtavat | §§952–960 | mw1899 |
+| Gerundives | kartavya, kārya, karaṇīya | §§961–967 | mw1899 |
+| Infinitive | gantum, kartum | §§968–988 | mw1899 |
+| Absolutive (gerund) | gatvā, kṛtvā; āgamya, vihāya | §§989–995 | mw1899 |
+| Intensive, desiderative, causative, denominative | jaṅgamyate; jigamiṣati; kārayati; | §§1000–1068 (§1000, §1026, §1041, §1053) | wikt कारयति; mw1899 |
+| Periphrastic perfect; preverbs | kārayām āsa; prefix list | §§1070–1095 (§1077, §1081) | |
+| Indeclinables | | §§1096–1135 | |
+| Primary and secondary derivation | -ana, -ti, -tṛ; -ya, -tva, -tā, vṛddhi derivatives | §§1136–1245 | |
+| Compounds | dvandva §1252; tatpuruṣa §1264; karmadhāraya §1279; bahuvrīhi §1293; avyayībhāva §§1311–1313 | §§1246–1316 | |
+
+Syntax: speijer1886 is the main source (cases ch. III–VIII; absolute locative and genitive §§365–370, as already noted in sources.json); macdonell1927 ch. VII (Syntax) is the short check. Metre: macdonell1927 Appendix II.
+
+**Syllabus checked against:** the table of contents of whitney1889 (Wikisource, opened) and the chapter list of macdonell1927 (archive.org OCR, opened). Every chapter of Whitney maps to lessons: Alphabet and Sounds → part 1; Euphonic Combination → san-02-06, san-03-07, san-04-07, san-05-07 and san-03-11 (guṇa, vṛddhi); Declension and Nouns → part 3 and san-05-01; Numerals → san-05-05; Pronouns → san-03-08, san-03-09, san-03-18, san-05-02, san-06-01, san-06-02; Conjugation and the Present System → san-04-01 to san-04-12; Perfect → san-04-18; Aorist and precative → san-04-19, san-07-06; Futures and conditional → san-04-17, san-06-06; Verbal adjectives and nouns → san-04-13, san-04-15, san-04-16, san-04-20, san-06-07; Secondary conjugation → san-04-14, san-07-01 to san-07-03; Periphrastic and compound conjugation → san-04-04, san-07-01; Indeclinables → san-05-03, san-05-04; Derivation → san-07-04, san-07-05; Compounds → san-05-08 to san-05-12; Appendix (accent) → san-07-10. Macdonell's extra chapter, Syntax, is spread over parts 3 to 6 as each construction is taught, and his appendices on metre and Vedic are san-07-07 and san-07-10. Three gaps found and fixed in syllabus.json in this session: the perfect participle (*vidvān*, needed for the Hitopadeśa reading) added to san-04-18; the polite *bhavān* added to san-03-17; the reflexive *ātman*, *svayam* and *sva* added to san-03-16 and san-05-02; the possessive adjectives *madīya*, *māmaka* (needed for Bhg 1.1) added to san-07-05. The guide covers less than Whitney on: Vedic forms (one lesson), accent (only in san-07-10), the rarer aorist types and the intensive (recognition only), and the adverbial gerund in *-am* (mentioned in san-07-06).

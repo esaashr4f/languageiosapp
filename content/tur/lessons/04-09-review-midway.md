@@ -21,7 +21,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 
 ## Passage
 
-**A. A message from İzmir.** A constructed passage, using only grammar taught so far. Ayşe writes to her brother Mehmet. One word is glossed in place: *sürekli* "all the time".
+**A. A message from İzmir.** A constructed passage, using only grammar taught so far. Ayşe writes to her brother Mehmet. Two words are glossed in place: *sürekli* "all the time" and *yolculuk* "journey" (from *yolcu* "traveller", tur-04-08).
 
 1. Merhaba Mehmet! Dün akşam İzmir'e vardık.
 2. Yolculuk çok uzundu ama eğlenceliydi. Otobüste herkes uyudu, ben uyumadım.

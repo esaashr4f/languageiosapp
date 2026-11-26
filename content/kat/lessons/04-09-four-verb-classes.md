@@ -211,12 +211,12 @@ source: bolkvadze2023 §9.1.4, §9.3, §9.6; wiktionary (subject pronouns printe
 სარეცხი | sarecxi | noun | laundry, washing |
 ჩაიდანი | čaidani | noun | kettle, teapot | gen. ჩაიდნის
 ქვაბი | kvabi | noun | cooking pot |
-ზმნისწინი | zmnisc̣ini | noun | preverb | unverified: grammar term from recall
+ზმნისწინი | zmnisc̣ini | noun | (grammar) preverb |
 :::
 
 ## Connections
 
-Spanish draws a similar line inside its intransitive verbs, though only in a few places: in *ha llegado* "has arrived" against *ha trabajado* the auxiliary is the same, but Italian and French split them (*è arrivato* / *ha lavorato*, *il est arrivé* / *il a travaillé*), with "be" for undergoers and "have" for doers. That French *être* / *avoir* split is a fair model for the Georgian class 2 / class 3 split: arriving, being born and dying are "happening" verbs in both languages.
+French draws a similar line inside its intransitive verbs: *il est arrivé* "he has arrived" takes *être*, but *il a travaillé* "he has worked" takes *avoir*. Undergoers get "be", doers get "have". That split is a fair model for the Georgian class 2 / class 3 split: arriving, being born and dying are "happening" verbs in both languages. Spanish, with *ha* in both, has lost the distinction.
 
 ## Exercises
 

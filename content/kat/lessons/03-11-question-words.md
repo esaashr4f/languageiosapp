@@ -8,7 +8,7 @@ point: Ask with ვინ, რა, სად, როდის, რატომ, 
 requires: [kat-03-10]
 introduces: [question-words, indefinites]
 confidence: verified
-sources: [bolkvadze2023, wiktionary]
+sources: [bolkvadze2023, wiktionary, hewitt1995]
 ---
 
 ## The idea

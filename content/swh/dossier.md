@@ -408,3 +408,14 @@ Translations are always our own.
 - pahali is pa- + the older mahali (Wiktionary), not merely a Mombasa variant. taa is not native; mpira wa miguu has no plural.
 - T&S page offset: printed = PDF −1 at pp. 114–119; printed = PDF +2 from p. 122 to p. 157 (p. 120 missing from the scan).
 - Glossary "pronominal agreement" refined: possessives, demonstratives, -a, reference forms; Polomé keeps the verb's prefixes as a separate verbal concord.
+
+
+## Notes from drafting part 4 (2026-11-26)
+
+- Verb-table rows for past, future, perfect, -ki-, -ka- and infinitive are confirmed in T&S and Almasi (no longer unverified). Almasi gives plural short-verb commands kuleni, kunyweni; ku- stays after -mesha- (limeshakuchwa); -ka- takes no ku- (akala).
+- Promise numbering follows the syllabus: requests swh-04-10, negative commands swh-04-11, habitual swh-04-13, the -a- tense swh-07-12.
+- Source disagreements stated in lessons: -ja- as negative perfect or "not yet"; sijala beside sijakula; kwenda/kuenda; 2PL subjunctive mwende (Wiktionary) vs mende (Almasi); kutofanya/kutokufanya; object prefix with people "must" (T&S) vs "usual" (Wikipedia); -sipo-; -sha- without -me-.
+- Glossing: ni-me-sha-ku-l-a 1SG.SM-PRF-ANT-KU-eat-FV; ni-ngali 1SG.SM-still; colloquial -to- FUT; -sipo- NEG-C16.REL (preview); ka-mw-it-e CONS-C1.OM-call-SBJV; loan verbs in -i/-u glossed whole without FV.
+- Origins only from Wiktionary etymologies (-li-, -me-, -ta-, -ja-, hu- < ni ku-, kuto- < kutoa, -mesha-).
+- T&S PDF = printed −5 at pp. 180–187, −7 at 192, −9 at 204, −12 at 243–258, −15 at 267–273, −16 at 289–300; printed +7 at pp. 45–60.
+- Taken for later parts (do not re-list): tangu, -wahi, kamwe, ili, kama, ikiwa, halafu, kisha, -bichi, vigumu, rahisi, muhimu; derived verbs introduced whole (-funza, -onyesha, -chemsha, -rudisha, -safisha, -endesha, -poteza, -umiza, -tumia, -karibisha, -kutana, -badilika, -zaliwa, -olewa): part 7 explains, does not re-list. mpaka, hadi left for swh-06-11.

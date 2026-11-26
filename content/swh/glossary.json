@@ -277,7 +277,7 @@
   "gloss": "The line under an example that labels each piece of each word (swh-00-02).",
   "agglutinative": "Built by stringing pieces together, each with one meaning (swh-00-02).",
   "subject prefix": "The piece at the front of a verb that shows the subject's person or class (SM) (swh-00-03).",
-  "object prefix": "The piece just before the verb root that shows the object (OM) (swh-00-03).",
+  "object prefix": "The OM slot before the root (swh-04-07).",
   "syllable": "A beat of a word, built round one vowel (swh-01-01).",
   "open syllable": "A syllable that ends in a vowel, the normal Swahili shape (swh-01-01).",
   "syllabic nasal": "An m or n that forms a syllable on its own, as in mtu (swh-01-01).",
@@ -296,6 +296,20 @@
   "anaphoric": "Pointing back to something already mentioned, as the -o demonstratives do (swh-03-12).",
   "o of reference": "The -o form (-yo, -cho, -vyo…) that refers back to a noun already mentioned (swh-03-14).",
   "nominal agreement": "The agreement prefixes adjectives take, close to the noun prefixes (swh-03-15).",
-  "pronominal agreement": "The agreement prefixes of possessives, demonstratives, the -a of 'of' and reference forms, close to the verb's subject prefixes (swh-03-15)."
+  "pronominal agreement": "The agreement prefixes of possessives, demonstratives, the -a of 'of' and reference forms, close to the verb's subject prefixes (swh-03-15).",
+  "marker": "A piece in one slot of the verb template (preferred here to 'infix') (swh-04-01).",
+  "simple past": "The -li- tense (swh-04-02).",
+  "perfect": "The -me- tense for a completed action with present relevance (swh-04-05).",
+  "inchoative": "A verb meaning 'become' whose perfect describes a state (swh-04-06).",
+  "reflexive": "The -ji- object prefix 'oneself' (swh-04-08).",
+  "subjunctive": "The -e form for wishes, requests and purposes (swh-04-10).",
+  "infinitive": "The ku- form, also a verbal noun (swh-04-12).",
+  "habitual": "The hu- form for what usually happens (swh-04-13).",
+  "situational": "The -ki- form 'if, when, while' (swh-04-14).",
+  "consecutive": "The -ka- form for the next step in a sequence (swh-04-15).",
+  "compound tense": "A tense built with an auxiliary verb such as -wa (swh-04-16).",
+  "auxiliary": "A helping verb (swh-04-16).",
+  "anterior": "The -sha- marker 'already' (swh-04-17).",
+  "continuative": "Forms meaning 'still' (swh-04-17)."
  }
 }

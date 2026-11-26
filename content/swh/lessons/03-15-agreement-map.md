@@ -17,7 +17,7 @@ Part 3 has given you, class by class, seven kinds of agreeing word: the adjectiv
 
 **Fact 1: the noun prefix.** Adjectives copy it (Thompson and Schleicher's rule of thumb from lesson 3.3). Polomé calls this the **nominal** agreement: the prefixes that look like the noun's own.
 
-**Fact 2: the subject prefix.** Everything else is built on it: possessives, the *-a* of association, demonstratives, the reference forms. Polomé calls this the **pronominal** agreement. The East African school names of lesson 3.1 (KI-VI, LI-YA, U-I, I-ZI) are lists of exactly these prefixes, which is why schools name the classes by them: they predict the most forms.
+**Fact 2: the subject prefix.** Everything else is built on it: possessives, the *-a* of association, demonstratives, the reference forms. Polomé calls the agreement of these words **pronominal**, and lists the verb's own prefixes as a third, **verbal** set, nearly the same in shape. The East African school names of lesson 3.1 (KI-VI, LI-YA, U-I, I-ZI) are lists of exactly these prefixes, which is why schools name the classes by them: they predict the most forms.
 
 So for any class you need two prefixes, and the rules of lesson 1.6 do the rest. *Kitabu*: noun prefix *ki-*, subject prefix *ki-*. Then the adjective is *kikubwa*; "my" is *ch-* + *-angu*; "of" is *ch-* + *-a*; "this" is *h-i-ki*; "that" is *ki-le*; "that one" is *hi-cho*; "with it" is *na-cho*.
 

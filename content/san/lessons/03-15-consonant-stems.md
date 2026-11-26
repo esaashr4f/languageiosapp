@@ -13,7 +13,7 @@ sources: [whitney1889, mw1899, wiktionary, gretil]
 
 ## The idea
 
-So far every stem ended in a vowel, and the endings fused with it. Now the stem ends in a consonant: *vāc* "speech" (f.), *marut* "wind" (m.), *āpad* "misfortune" (f.), *manas* "mind" (n.), *tapas* "heat, austerity" (n.). Here you can at last see the **normal endings** of san-03-06 almost unchanged: *vāc-am*, *vāc-ā*, *vāc-e*, *vāc-aḥ*, *vāc-i*; *vāg-bhiḥ*, *vāk-ṣu*. Whitney (§310) took these as the base set for all declension, and with consonant stems they are simply added.
+So far every stem ended in a vowel, and the endings fused with it. Now the stem ends in a consonant: *vāc* "speech" (f.), *marut* "wind" (m.), *āpad* "misfortune" (f.), *manas* "mind" (n.), *tapas* "heat, austerity" (n.). Here you can at last see the **normal endings** of san-03-06 almost unchanged: *vāc-am*, *vāc-ā*, *vāc-e*, *vāc-aḥ*, *vāc-i*; *vāg-bhiḥ*, *vāk-ṣu*. Whitney (§310) took these as the base set for all declension, and with consonant stems they are added as they stand.
 
 The nouns of this lesson have **one stem** throughout: no strong or weak forms, unlike *pitṛ*. (The next two lessons bring consonant stems that do alternate.) What changes is only the last consonant, and only in three places: at the end of the word, before *-bh-* (*-bhyām*, *-bhiḥ*, *-bhyaḥ*), and before *-su*.
 

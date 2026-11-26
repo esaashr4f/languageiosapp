@@ -123,10 +123,10 @@ confidence: constructed
 
 :::example
 orig: Kitaplarını rafa koyuyorlar.
-morphemes: kitap-lar-ı-nı raf-a koy-uyor-lar
-gloss: book-PL-3SG.POSS-ACC shelf-DAT put-PROG-3PL
+morphemes: kitap-ları-nı raf-a koy-uyor-lar
+gloss: book-3PL.POSS-ACC shelf-DAT put-PROG-3PL
 translation: They're putting their books on the shelf.
-note: With a plural subject, kitaplarını is read as "their books"; out of context it could be "his books". Either way the n comes before the case.
+note: With a plural subject, kitaplarını is read as "their books", kitap-ları-nı; out of context it could be "his books", kitap-lar-ı-nı (goksel2005 §14.3.2). Either way the n comes before the case.
 source: constructed
 confidence: constructed
 :::

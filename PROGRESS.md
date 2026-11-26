@@ -24,14 +24,14 @@ Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 
 | 12 | Moroccan Darija | `ary` | A | not started | 0/0 | 0 | 0 |  |
 | 13 | Modern Hebrew | `heb` | A | not started | 0/0 | 0 | 0 |  |
 | 14 | Persian | `pes` | A | not started | 0/0 | 0 | 0 |  |
-| 15 | Turkish (pilot) | `tur` | A | draft | 0v+11d/109 | 15,226 | 0 | 2026-11-26 |
+| 15 | Turkish (pilot) | `tur` | A | draft | 0v+14d/109 | 15,226 | 0 | 2026-11-26 |
 | 16 | Hindi-Urdu | `hin` | A | not started | 0/0 | 0 | 0 |  |
 | 17 | Bengali | `ben` | A | not started | 0/0 | 0 | 0 |  |
 | 18 | Tamil | `tam` | A | not started | 0/0 | 0 | 0 |  |
 | 19 | Indonesian | `ind` | A | not started | 0/0 | 0 | 0 |  |
 | 20 | Vietnamese | `vie` | A | not started | 0/0 | 0 | 0 |  |
 | 21 | Thai | `tha` | A | not started | 0/0 | 0 | 0 |  |
-| 22 | Swahili (pilot) | `swh` | A | draft | 0v+9d/108 | 13,381 | 0 | 2026-11-26 |
+| 22 | Swahili (pilot) | `swh` | A | draft | 0v+12d/108 | 13,381 | 0 | 2026-11-26 |
 | 23 | Basque | `eus` | A | not started | 0/0 | 0 | 0 |  |
 | 24 | Welsh | `cym` | A | not started | 0/0 | 0 | 0 |  |
 | 25 | Irish | `gle` | A | not started | 0/0 | 0 | 0 |  |
@@ -43,7 +43,7 @@ Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 
 | 31 | Romanian | `ron` | A | not started | 0/0 | 0 | 0 |  |
 | 32 | Serbo-Croatian | `hbs` | A | not started | 0/0 | 0 | 0 |  |
 | 33 | Maltese | `mlt` | A | not started | 0/0 | 0 | 0 |  |
-| 34 | Georgian (pilot) | `kat` | A | draft | 0v+11d/107 | 14,241 | 0 | 2026-11-26 |
+| 34 | Georgian (pilot) | `kat` | A | draft | 0v+13d/107 | 14,241 | 0 | 2026-11-26 |
 | 35 | Armenian (Eastern) | `hye` | A | not started | 0/0 | 0 | 0 |  |
 | 36 | Chechen | `che` | B | not started | 0/0 | 0 | 0 |  |
 | 37 | Kazakh | `kaz` | A | not started | 0/0 | 0 | 0 |  |
@@ -83,7 +83,7 @@ Writing order: pilot (lat, kat, tur, hbo, swh, san), then 72 to 100, then 59 to 
 | 71 | Warlpiri | `wbp` | B | not started | 0/0 | 0 | 0 |  |
 | 72 | Latin (pilot) | `lat` | A | draft | 30v+21d/105 | 68,555 | 0 | 2026-11-26 |
 | 73 | Ancient Greek (Attic) | `grc` | A | not started | 0/0 | 0 | 0 |  |
-| 74 | Sanskrit (pilot) | `san` | A | syllabus | 0v+0d/108 | 11,662 | 0 | 2026-11-26 |
+| 74 | Sanskrit (pilot) | `san` | A | draft | 0v+11d/108 | 11,662 | 0 | 2026-11-26 |
 | 75 | Pali | `pli` | A | not started | 0/0 | 0 | 0 |  |
 | 76 | Classical Chinese | `lzh` | A | not started | 0/0 | 0 | 0 |  |
 | 77 | Old English | `ang` | A | not started | 0/0 | 0 | 0 |  |

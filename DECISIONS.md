@@ -82,3 +82,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-26: Owner asked to add Old Tamil: added as 157 (oty), depth B.
 - 2026-11-26: Owner asked to merge Malay, Dari, Dzongkha and Aljamiado into their nearest guides as distinct companion parts (part 10) read after the host guide: Indonesian, Persian, Tibetan, Old Spanish. Removed as separate entries; languages renumbered contiguously (153). Earlier BRIEF Amendments keep their original numbers as history; languages.json is authoritative.
 - 2026-11-26: hbo: spirantisation always marked in translit (meta sample corrected); shewa after a long vowel transliterated vocal (šāmərû) as the school convention, with Khan's silent-shewa finding stated in hbo-01-05. Khan 2020 open from the publisher and now read.
+- 2026-11-26: Table parser accepts escaped pipes (\|) inside cells, needed for the Sanskrit daṇḍa signs.

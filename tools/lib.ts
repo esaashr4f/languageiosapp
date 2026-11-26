@@ -24,7 +24,8 @@ export interface Front {
 
 export interface Lesson { file: string; front: Partial<Front>; frontError?: string; blocks: Block[]; body: string }
 
-const splitRow = (l: string) => l.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+// Split a Markdown table row on unescaped pipes; "\|" stands for a literal pipe inside a cell.
+const splitRow = (l: string) => l.trim().replace(/^\|/, "").replace(/(?<!\\)\|$/, "").split(/(?<!\\)\|/).map((c) => c.trim().replace(/\\\|/g, "|"));
 const kv = (l: string): [string, string] | null => {
   const m = /^([a-z_]+):\s*(.*)$/.exec(l.trim());
   return m ? [m[1], m[2].trim()] : null;

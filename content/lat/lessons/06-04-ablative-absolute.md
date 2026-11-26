@@ -102,7 +102,7 @@ morphemes: nōndum hiem-e cōnfec-t-ā proxim-īs quattuor coāc-t-īs legiōn-i
 gloss: not.yet winter-ABL.SG finish-PTCP-ABL.SG.F nearest-ABL.PL.F four collect-PTCP-ABL.PL.F legion-ABL.PL from unforeseen-ABL.SG.N into territory-ACC.PL Nervian-GEN.PL hurry-3SG
 translation: Before winter was over, he gathered the four nearest legions and marched unexpectedly into the territory of the Nervii.
 literal: The winter not yet having been finished, the four nearest legions having been collected, he hurries unexpectedly into…
-note: Two ablative absolutes in a row. The first is best "before" or "although"; the second becomes an English main verb. dē imprōvīsō "unexpectedly" is a fixed phrase. coāctus is the participle of cōgō.
+note: Two ablative absolutes in a row. The first is best "before" or "although"; the second becomes an English main verb. dē imprōvīsō "unexpectedly" is a fixed phrase. coāctus is the participle of cōgō. Caesar's sentence opens with Itaque "and so", left out here.
 source: Caesar, Gallic War 6.3.1
 confidence: attested
 :::
@@ -237,7 +237,7 @@ explōrātor | - | noun | scout, spy | explōrātōris, m.
 
 ## Connections
 
-Spanish and French have a close cousin: the absolute participle, *terminada la guerra* "the war (being) over", *la guerre finie*, and the gerund *siendo cónsul Cicerón*. They descend from this Latin habit, though Latin can drop the "being" that Spanish *siendo* must spell out. Japanese has no absolute phrase; it uses a clause with *-te* or *-ta ato* "after", which is how you will usually translate an ablative absolute into English as well.
+Spanish and French have a close cousin: the absolute participle, *terminada la guerra* "the war (being) over", *la guerre finie*, and the gerund *siendo cónsul Cicerón*. Latin can drop the "being" that Spanish *siendo* must spell out. Japanese has no absolute phrase; it uses a clause with *-te* or *-ta ato* "after", which is how you will usually translate an ablative absolute into English as well.
 
 ## Exercises
 
@@ -245,7 +245,7 @@ Spanish and French have a close cousin: the absolute participle, *terminada la g
 2. Say "when the bridge had been broken down, the Helvetii could not cross" (*trānseō*).
 3. Say "after hearing these things, the consul left the city" with an ablative absolute.
 4. Translate *Signō datō, mīlitēs impetum fēcērunt* (*signum* "signal").
-5. Translate *Mē invītō nihil fiet* and explain *mē invītō*.
+5. Translate *Mē invītō nihil fīet* and explain *mē invītō*.
 6. Translate *Omnibus rēbus parātīs, tamen nōn profectus est* and name the link.
 7. Correct *\*Caesare urbem capiente, Caesar discessit* meant as "having taken the city, Caesar left".
 8. Correct *\*Cicerōne ente cōnsule* and *\*Urbe captō*.
@@ -257,7 +257,7 @@ Spanish and French have a close cousin: the absolute participle, *terminada la g
 2. *Ponte rescissō, Helvētiī trānsīre nōn poterant.* *Pōns* is masculine, so *rescissō* (participle of *rescindō*, lesson 2). The link here is "because" or "since".
 3. *Hīs rēbus audītīs, cōnsul urbem relīquit.* The ablative absolute stands first as background; "after hearing" becomes "these things having been heard" (ag1903 §420 note).
 4. "When the signal had been given, the soldiers attacked." *Datō* is the perfect participle of *dō*, neuter to agree with *signō*.
-5. "Nothing will be done against my will." *Mē invītō*: a pronoun and an adjective, no participle, "I being unwilling" (ag1903 §419a). *Fiet*: future of *fīō* (part 4, lesson 15).
+5. "Nothing will be done against my will." *Mē invītō*: a pronoun and an adjective, no participle, "I being unwilling" (ag1903 §419a). *Fīet*: future of *fīō* (part 4, lesson 15).
 6. "Although everything was ready, he still did not set out." *Tamen* in the main clause shows the link is "although" (ag1903 §420).
 7. *Urbe captā, Caesar discessit.* The ablative absolute must not refer to the main subject, and the present participle would mean "while taking". Latin has no perfect active participle, so the city becomes the subject of the phrase (ag1903 §419 note).
 8. *Cicerōne cōnsule*: *sum* has no present participle (ag1903 §170b). *Urbe captā*: the participle agrees with the feminine *urbe*.

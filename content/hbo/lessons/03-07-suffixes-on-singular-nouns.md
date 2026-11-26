@@ -52,7 +52,7 @@ The suffix pulls the stress forward, so lesson 3.3 applies. Gesenius divides the
 - *šēm* "name" → *šəmô*, *šəmāh*, *šəmām*;
 - *zāqēn* → *zəqēnî* (§93, paradigm II).
 
-**Heavy suffixes:** *-ḵem* and *-ḵen*. They carry their own stress, so the noun has its construct shape: *ləḇāḇ* "heart" → *ləḇaḇḵem* "your heart" (Deuteronomy 11:16), as *dāḇār* → *dəḇar*.
+**Heavy suffixes:** *-ḵem* and *-ḵen*. They carry their own stress, so the noun has its construct shape: *lēḇāḇ* "heart" → *ləḇaḇḵem* "your heart" (Deuteronomy 11:16), as *dāḇār* → *dəḇar*.
 
 **Segholates** take every suffix on their base (lesson 3.4): *ʾereṣ* → *ʾarṣəḵā*, *ṣelem* "image" → *ṣalmēnû*.
 
@@ -174,7 +174,7 @@ translit: pen yip̄teh ləḇaḇḵem
 morphemes: pen yip̄teh ləḇaḇ-ḵem
 gloss: lest be.deceived.YQTL.3SG.M heart-2PL.M
 translation: lest your heart be led astray
-note: A heavy suffix: -ḵem carries its own stress, so the noun has its construct shape, ləḇāḇ → ləḇaḇ-. One heart for many people: Hebrew often uses the singular for a body part each person has one of.
+note: A heavy suffix: -ḵem carries its own stress, so the noun has its construct shape, lēḇāḇ → ləḇaḇ-. One heart for many people: Hebrew often uses the singular for a body part each person has one of.
 source: Deuteronomy 11:16 (WLC)
 confidence: attested
 preview: YQTL
@@ -226,7 +226,7 @@ preview: WAYY, HIPH
 
 **Do not forget the old *t* of feminine nouns.** *\*šip̄ḥâāh* or *\*tôrâî* cannot exist; the suffix goes on *-āṯ-*: *šip̄ḥāṯāh*, *tôrāṯî*.
 
-**Heavy suffixes take the construct shape.** *\*ləḇāḇḵem* keeps a vowel that must shorten: *ləḇaḇḵem*. With *dāḇār* the expected form is *dəḇarḵem*.
+**Heavy suffixes take the construct shape.** *\*lēḇāḇḵem* keeps a vowel that must shorten: *ləḇaḇḵem*. With *dāḇār* the expected form is *dəḇarḵem*.
 
 **"Your" depends on who is spoken to, not on what is owned.** *-əḵā* to a man, *-ēḵ* to a woman, *-əḵem* to a group. The gender of the noun does not matter, unlike French *son*/*sa*, which agree with the thing owned.
 
@@ -257,7 +257,7 @@ source: gkc1910 §§91, 93, 95; oshb (forms of qôl and dāḇār attested; qôl
 ## New words
 
 :::vocab
-לֵבָב | ləḇāḇ | noun | heart, mind, will | m.; a fuller form of lēḇ; with "your (pl.)" ləḇaḇḵem
+לֵבָב | lēḇāḇ | noun | heart, mind, will | m.; a fuller form of lēḇ; with "your (pl.)" ləḇaḇḵem
 חֵלֶק | ḥēleq | noun | portion, share; plot of land | m.; stressed ḥḗleq
 רֵעַ | rēaʿ | noun | friend, companion; neighbour, fellow | m.; ʾîš ... rēʿēhû "each ... his fellow"
 צֶלֶם | ṣelem | noun | image, likeness; idol | m.; with "our" ṣalmēnû
@@ -285,7 +285,7 @@ Arabic attaches the same set of suffixes to nouns: *kitābī* "my book", *kitāb
 3. Build "her land" from *ʾereṣ*, and explain the vowels.
 4. Build "his maidservant" from *šip̄ḥâ*.
 5. Translate *ûšəmô ʾelqānâ*, and say why there is no verb.
-6. Why is "your heart" (to a group) *ləḇaḇḵem* and not *ləḇāḇḵem*?
+6. Why is "your heart" (to a group) *ləḇaḇḵem* and not *lēḇāḇḵem*?
 7. Find and fix the error: *\*habbənî haqqāṭān* "my younger son".
 8. Translate *haʿôḏ lānû ḥēleq wənaḥălâ bəḇêṯ ʾāḇînû*, and identify both suffixes.
 9. Translate *sûsâ* and *sûsāh*, and say how the script tells them apart.

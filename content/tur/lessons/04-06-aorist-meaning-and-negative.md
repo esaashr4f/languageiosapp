@@ -19,7 +19,7 @@ Compare two sentences that both translate as "Ayşe doesn't eat meat":
 
 The first, with *-(I)yor*, reports what you have observed: these days, as far as you can see, she isn't eating meat. The second, with the aorist, states a rule about Ayşe: she is someone who does not eat meat. Göksel and Kerslake draw exactly this line (goksel2005 §21.4.1.1). *-(I)yor* describes a state of affairs the speaker has seen or experienced; the aorist makes a statement of a more general, theoretical kind, a rule or a principle. You could add *bu hafta* "this week" to the first sentence, but not to the second: a rule has no time limit.
 
-That is the core of the aorist. It is not really about time. It presents a situation as **not a directly known fact**, but as something general, assumed, offered or promised. Göksel and Kerslake list four kinds of use (goksel2005 §§21.4.1, 21.4.4):
+That is the core of the aorist. It is not really about time. It presents a situation as **not a directly known fact**, but as something general, assumed, offered or promised. Göksel and Kerslake describe its uses under generalisations, assumptions and volitional utterances (goksel2005 §§21.4.1, 21.4.4). Four kinds stand out:
 
 1. **Generalisations**: general truths, rules, and the typical behaviour of a class or a person: *Güneş doğudan doğar* "the sun rises in the east".
 2. **Assumptions about the future**: what you expect will happen, without a plan: *Ali yarın gelmez* "Ali won't come tomorrow, I expect". Without an adverb, such a statement is about as confident as English "probably" (goksel2005 §21.4.1.4).
@@ -164,11 +164,11 @@ confidence: constructed
 
 :::example
 orig: It ürür, kervan yürür.
-morphemes: it ür-ür kervan yürü-r
+morphemes: it ürü-r kervan yürü-r
 gloss: dog bark-AOR caravan walk-AOR
 literal: The dog barks, the caravan walks on.
 translation: The dogs bark, but the caravan goes on.
-note: A proverb: a timeless truth, so the aorist. it is an old, now derogatory word for "dog", and kervan "caravan"; both are glossed here only. Wiktionary, entry it ürür, kervan yürür.
+note: A proverb: a timeless truth, so the aorist. it is a word for "dog", now chiefly derogatory; kervan is "caravan"; both are glossed here only. The verb is ürümek "bark", a vowel stem ürü-, so plain -r, like yürü-r. Wiktionary, entry it ürür, kervan yürür.
 source: wiktionary, entry it ürür, kervan yürür
 confidence: attested
 :::
@@ -176,7 +176,7 @@ confidence: attested
 ## Where it applies
 
 - **General truths and laws of nature**: *Güneş doğudan doğar.*
-- **Proverbs and sayings**: *It ürür, kervan yürür.* Most Turkish proverbs are in the aorist.
+- **Proverbs and sayings**: *It ürür, kervan yürür.* A proverb states a timeless truth, so the aorist is its natural form.
 - **Typical behaviour of a class**, with a bare or plural subject: *Türkler çok çay içer*, *Kediler balık sever.* With a bare subject the aorist makes it generic: *Kedi balık sever* "cats like fish", while *Kedi balık yiyor* is "the cat is eating fish" (goksel2005 §21.4.1.1).
 - **Character and lasting habits of a person**: *Ayşe et yemez*, *Mehmet çok konuşur*, *Babam her sabah gazete okur.* Frequency words: *her zaman*, *sık sık*, *bazen*, *genellikle*; with the negative, *hiç* or *hiçbir zaman* "never" (goksel2005 §16.4.1.3): *Hiçbir zaman geç kalmaz* "He's never late."
 - **Regular arrangements**: *Cumartesi çalışmayız.*

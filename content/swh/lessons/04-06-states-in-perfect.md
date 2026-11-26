@@ -92,7 +92,7 @@ orig: Tumeshiba, asante.
 morphemes: tu-me-shib-a asante
 gloss: 1PL.SM-PRF-get.full-FV thank.you
 translation: We're full, thank you.
-note: The polite way to refuse more food.
+note: A polite way to refuse more food.
 source: constructed
 confidence: constructed
 :::
@@ -122,7 +122,7 @@ orig: Mzee ameketi, lakini sisi tumesimama.
 morphemes: m-zee a-me-keti lakini sisi tu-me-simam-a
 gloss: C1-elder C1.SM-PRF-sit.down but 1PL 1PL.SM-PRF-stand-FV
 translation: The old man is sitting down, but we are standing.
-note: Postures are states reached by a movement. -keti is a loan verb, glossed whole.
+note: Postures are states reached by a movement. -keti is a native verb (Wiktionary) that ends in i, so like a loan verb it has no final vowel to segment and is glossed whole (lesson 2.7).
 source: constructed
 confidence: constructed
 :::

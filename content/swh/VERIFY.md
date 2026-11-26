@@ -11,3 +11,13 @@ Corrections:
 - swh-02-01: ni without a subject illustrated from Polomé (ni mlima, ni wapagazi); older written usage with subject prefix (ni mpishi "I am a cook", u nani?) acknowledged. swh-02-02: colloquial nasoma no longer starred. swh-02-04: -je written joined to the verb (umelalaje; Almasi aliandikaje).
 
 Still open: Glottolog wording not re-checked; Arabic-script letter claim unsourced; Almasi's 50 million figure ambiguous in scope; how ndiyo answers a negative question; Almasi's intonation source not opened; two Wikipedia-only claims (heavy -ko use; Kenyan kuja!, enda!).
+
+### Part 3 — verified 2026-11-26 by fresh subagent
+Lessons checked: swh-03-01 to swh-03-16 (both reviews); plus swh-02-08 usiku
+Forms checked: about 1,150   corrected: 1   left unverified: 0
+Glosses checked: 741   corrected: 0
+Claims checked: about 130   corrected or removed: 21
+Worked answers checked: 175   corrected: 0
+
+Corrections (summary): usiku plural siku (T&S p. 32); source attributions corrected (Almasi on meaning-based classes and ki/vi; ni dropped in speech credited to Wikipedia; animate agreement not from Mpiranya); unsourced explanations removed (lone vowel prefix loss); taa not native; class 12 in rare traces; possessives with animals reported per source (Almasi and Polomé w-; T&S rule vs their own example); mpira wa miguu has no plural; Almasi's four-way demonstrative scheme and word-order view added; mahali the older form, pahali = pa- + mahali; class 18 adjectives mu- (mahali murefu); Polomé's pronominal vs verbal concords distinguished.
+Still open: kucourse school names and WALS codings not re-opened; hapo "then" unsourced; class 15 negative subject haku- derived by rule; paka's lost nasal (part 1) not re-checked.

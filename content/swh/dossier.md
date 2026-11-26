@@ -399,3 +399,12 @@ Translations are always our own.
 - Promises for later parts: swh-05-01 vowel-stem adjectives (-pya, -eusi); swh-05-11 diminutives take class 7 agreement for people and animals; swh-05-08 katika, kwa "at someone's", juu ya, chini ya; swh-05-09 na joins nouns, not clauses; swh-04-08 object first with an object prefix.
 - Polomé sections useful for checking: §2.2.2.2 nasal rules; §2.4.3.1–2 pronouns and demonstratives; §2.5.2 uses of -a; §2.6.1.1 animate and possessive exceptions; §2.6.3.3 SVO. T&S PDF offset ≈ printed +7 near p. 33, +2 near p. 98, −1 near p. 118, −2 near pp. 140–150.
 - Vocab parts of speech used: possessive, demonstrative, particle (-a), determiner (kila).
+
+
+## Notes from verifying part 3 (2026-11-26)
+
+- Animate agreement: cite Polomé §2.6.1.1 and Almasi p. 115 (Wikipedia's Concord section does not cite Mpiranya).
+- Demonstratives: Almasi's four-way scheme (proximity, distance, reference-for-proximity -o, reference-for-distance -le before the noun). Order: Almasi noun–possessive–adjective–quantity–demonstrative; Polomé puts the demonstrative before the adjective unless the adjective is closer to the noun.
+- pahali is pa- + the older mahali (Wiktionary), not merely a Mombasa variant. taa is not native; mpira wa miguu has no plural.
+- T&S page offset: printed = PDF −1 at pp. 114–119; printed = PDF +2 from p. 122 to p. 157 (p. 120 missing from the scan).
+- Glossary "pronominal agreement" refined: possessives, demonstratives, -a, reference forms; Polomé keeps the verb's prefixes as a separate verbal concord.

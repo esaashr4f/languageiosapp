@@ -390,3 +390,11 @@ Say so in the lesson when one of these comes up.
 - Pausal pronouns ʾā́nî, ʾā́ttâ, ʾănā́ḥnû, ʾā́tt; 2fs ʾatt.
 - Previews only so far: possessive suffixes, plurals, construct forms, hāhēm/hazzeh, participles.
 - Expected differences from the check script: YHWH lines, ketiv הִוא, qameṣ ḥaṭuf in kol-, silent shewa after a stressed long vowel in pausal forms, CGJ in bîrûšālayim.
+
+
+## Notes from verifying parts 0–2 (2026-11-26)
+
+- Leningrad Codex dated AD 1008 or 1009 (Khan 2020 Introduction; Wikipedia). Γάζα/ʿazzâ confirmed (Gesenius §6).
+- הִוא as "she": 193 with prefixes (192 tagged 3fs, all in the Torah; 1 in Isaiah 3ms); Gesenius §32l: all but eleven places in the Torah, rejecting the archaism explanation.
+- OSHB counts confirmed: hāʾāreṣ 934 (never segol), hammeleḵ 1,043, ʾănî 587 + 106 pausal, ʾānōḵî 293, hēnnâ 70 (44 adverb, 26 pronoun).
+- Renderer check needed: vowel signs shown on no letter in prose (hbo-01-05, 01-06).

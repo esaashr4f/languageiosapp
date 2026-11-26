@@ -25,7 +25,7 @@ Because there is no verb, there is no tense. The clause does not say whether the
 
 ## How it is built
 
-The predicate can be one of four things (Gesenius §141b):
+The predicate can be any of these (Gesenius §141b, who also lists pronouns, lesson 2.4):
 
 - a noun: *šəmûʾēl nāḇîʾ* "Samuel is a prophet";
 - an adjective, a word that describes, such as *ṭôḇ* "good" or *gāḏôl* "big";

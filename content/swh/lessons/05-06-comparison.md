@@ -53,7 +53,7 @@ Compare with "all" or "any" (lesson 5.5). Say "Amina is the cleverest student".
 
 ### zaidi and zaidi ya
 
-*Zaidi* alone is "more" when there is no second term: *Nina vitabu vingi zaidi* "I have more books" (Thompson and Schleicher). *Zaidi ya* + noun is "more than": *mpana zaidi ya mfuko wake* "wider than his bag" (Almasi and colleagues). With numbers it is the only choice: *zaidi ya watu mia* "more than a hundred people".
+*Zaidi* alone is "more" when there is no second term: *vingi zaidi* "more (of them)" (Thompson and Schleicher). *Zaidi ya* + noun is "more than": *mpana zaidi ya mfuko wake* "wider than his bag" (Almasi and colleagues). With numbers it is the only choice: *zaidi ya watu mia* "more than a hundred people".
 
 ### kushinda, kupita, -zidi
 
@@ -118,11 +118,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Nina vitabu vingi zaidi.
-morphemes: ni-na vi-tabu v-ingi zaidi
-gloss: 1SG.SM-with C8-book C8-many more
-translation: I have more books.
-note: Zaidi alone when nothing follows. Thompson and Schleicher (p. 378) give this sentence, printed with vyingi.
+orig: Tunahitaji vikombe vingi zaidi.
+morphemes: tu-na-hitaji vi-kombe v-ingi zaidi
+gloss: 1PL.SM-PRS-need C8-cup C8-many more
+translation: We need more cups.
+note: Zaidi alone when nothing follows, the pattern Thompson and Schleicher give (p. 378). -hitaji is a loan verb.
 source: constructed
 confidence: constructed
 :::

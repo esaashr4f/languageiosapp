@@ -15,7 +15,7 @@ sources: [whitney1889, macdonell1927, glottolog, mw1899, wiktionary]
 
 The word Sanskrit is the Sanskrit adjective *saṃskṛta*. Monier-Williams's dictionary gives its meanings as "put together", "well or completely formed", "perfected", and, of speech, "refined" or "highly elaborated", as opposed to the everyday languages. The name already tells you the language's history. It is the speech that was worked over, fixed by rule and kept that way.
 
-Sanskrit is an Indo-European language. Glottolog places it in the Indo-European family, inside the Indo-Iranian branch and its Indo-Aryan sub-branch. The Indo-Iranian branch holds the old languages of Iran (Avestan, Old Persian) and of northern India. Indo-Aryan is the Indian half. So Sanskrit is a distant relative of Latin, Greek, the Germanic languages and the Slavonic languages, and a much closer one of Persian.
+Sanskrit is an Indo-European language. Glottolog places it in Indo-European, within Indo-Iranian and its Indo-Aryan branch. The Indo-Iranian branch holds the old languages of Iran (Avestan, Old Persian) and of northern India. So Sanskrit is a distant relative of Latin, Greek, the Germanic languages and the Slavonic languages, and a much closer one of Persian.
 
 ## Three thousand years, in three layers
 
@@ -33,7 +33,7 @@ The third layer is **Classical Sanskrit**: everything written to Pāṇini's rul
 
 While the grammar held Sanskrit still, the spoken languages moved on. Macdonell traces the popular dialects called **Prākrits** ("derived", "vulgar") back to the Vedic language. The oldest that survive are in the rock inscriptions of the emperor Aśoka, in the third century BC. One of them, **Pāli**, became the sacred language of southern Buddhism. From the Prākrits come most of the languages of northern India today: Hindi and Urdu, Bengali, Marathi, Gujarati, Punjabi, Sindhi.
 
-Sanskrit stayed above them as the language of religion, scholarship and the court. The plays show the arrangement. In the Sanskrit drama, Whitney notes, the higher and educated characters speak Sanskrit and the lower and uneducated ones speak Prākrit. Whitney compares Sanskrit's long "artificial life" to that of Latin in Europe: written, and spoken among the learned, for two thousand years. Whether Classical Sanskrit was ever anyone's first language is a separate question, and it has no settled answer. Whitney's own view was that the classical literature is written in a sound form that "never can have been a truly vernacular and living one". That is one scholar's judgement from 1889, not a finding, and this guide leaves the question open.
+Sanskrit stayed above them as the language of religion, scholarship and the court. The plays show the arrangement. In the Sanskrit drama, Whitney notes, the higher and educated characters speak Sanskrit and the lower and uneducated ones speak Prākrit. Whitney compares Sanskrit's long "artificial life" to that of Latin in Europe: written, and spoken among the learned, for two thousand years. Whether Classical Sanskrit was ever anyone's first language has no settled answer; Whitney judged that its sound form "never can have been a truly vernacular" one.
 
 Its reach went far beyond the Indo-Aryan north. Macdonell points out that the Dravidian languages of the south, Tamil, Telugu, Kannada and Malayalam, are unrelated to Sanskrit but full of Sanskrit words. Whitney adds that the Indian alphabets travelled with Indian religion and culture to Tibet and to South-East Asia.
 

@@ -49,7 +49,7 @@ No one has proved that Kartvelian is related to any other family. The Caucasus i
 
 ## Fifteen centuries of writing
 
-Georgian has been written since the fifth century AD. No other native language of the Caucasus has a literary tradition of anything like that length.
+Georgian has been written since the fifth century AD. Hewitt notes that none of the other indigenous languages of the Caucasus has an unbroken literary tradition of anything like that length. (Armenian, whose alphabet he dates to about 400, is Indo-European and is not counted among them.)
 
 The kingdom of Kartli adopted Christianity in the fourth century, in the 330s. The alphabet was most probably created soon after, to write the Bible and the liturgy. The oldest surviving inscriptions date from about 430, at a Georgian monastery in the Holy Land, and from 494, at the Sioni church of Bolnisi, south of Tbilisi. Who made the alphabet, and on what model, is debated: lesson 1-8 sets out the evidence.
 

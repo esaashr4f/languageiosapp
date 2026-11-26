@@ -31,13 +31,13 @@ Sounds are written here in the International Phonetic Alphabet (IPA), in square 
 
 **Stress** is the extra force a language puts on one syllable of a word, like the first syllable of English "mother". In Georgian it is very weak. Aronson says it is so weak that linguists "have not been able to agree on exactly where it falls". The descriptions he and Hewitt report say this:
 
-- In words of two or three syllables, the first syllable is usually stressed: *déda*, *mégobari* "friend".
-- In longer words, the third syllable from the end often carries a stress too, so a long word can have two.
+- In words of two or three syllables, the first syllable is usually stressed: *déda*.
+- In longer words, the third syllable from the end usually carries the stress, and Aronson says a long word can have two, on the first syllable and on the third from the end. Some longer words prefer the first syllable: Hewitt gives *mégobari* "friend".
 - Surnames in *-ʒe* stress the syllable before it: Hewitt gives *ševardnáʒe*.
 
 Because stress is weak, it never changes a vowel. This guide does not mark it.
 
-What is strong is **intonation**, the rise and fall of the voice across a sentence. A yes-or-no question has a rise and fall on the last syllable, and that vowel is often lengthened. Hewitt and Aronson both describe this. Lesson 2-8 uses it.
+What is strong is **intonation**, the rise and fall of the voice across a sentence. A yes-or-no question changes pitch on its last syllable, and that vowel is often lengthened. Hewitt describes a rise-fall on the last syllable of the verb; Aronson describes a sharp rise at the end of the sentence. Lesson 2-8 uses it.
 
 ## Examples
 
@@ -226,4 +226,4 @@ Spanish and Japanese give you the five vowels almost ready-made; only Georgian *
 4. He has stressed the wrong syllable (the first is usual in a two-syllable word), and he has weakened an unstressed vowel. The second matters more: stress is weak and disputed, but a murmured vowel changes the word.
 5. "Sister" (a noun, plural *debi*) and "and" (a conjunction). Context tells them apart, as it does for English "can". As a conjunction, *da* stands between the things it joins.
 6. Hewitt counts every vowel as a syllable, so he would say both e's (me-e-kvse); Bolkvadze and Kiziria say the two merge into one long e. Both agree that Georgian has no long vowels as a separate kind of sound.
-7. Intonation: a rise and fall on the last syllable, often with that vowel lengthened.
+7. Intonation: a change of pitch on the last syllable (a rise-fall for Hewitt, a sharp rise for Aronson), often with that vowel lengthened.

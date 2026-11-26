@@ -255,7 +255,7 @@ Korean and Japanese have the same design: a special negative "be" that replaces 
 2. Say "the restaurant is not open" using *lokanta*, and "the rooms are not full" using *oda*.
 3. Take apart *İngiliz değilsiniz*: which word carries the ending, which person and number is it, and why are both its vowels *i*?
 4. Translate *Kelime yanlış değil, doğru.*
-5. A learner writes *\*Ben değil Koreliyim* for "I am not Korean". Correct it and give two reasons.
+5. A learner writes *\*Ben değil Koreli'yim* for "I am not Korean". Correct it and give two reasons.
 6. Say "Mehmet is not a good driver" and explain where *bir* and *değil* go.
 7. Answer the question "Are you tired?" (asked of you) in Turkish with "No, I'm not tired, I'm hungry."
 8. In *Ayşe zengin değil*, which word carries the main sentence stress? Compare *Ayşe zengin*.

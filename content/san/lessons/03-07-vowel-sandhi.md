@@ -277,7 +277,7 @@ source: whitney1889 §§126–135, 138
 
 ## Connections
 
-French elides vowels too (*le ami* → *l'ami*), and Spanish runs vowels together in speech (*la amiga* sounds like *lamiga*), but neither writes the fusion as Sanskrit does. Japanese and Korean avoid vowel clashes inside words in their own ways; Korean *a* + *i* in verb endings (*ga-* + *-a* → *ga*) is a living fusion of the same kind.
+French elides vowels too (*le ami* → *l'ami*), and Spanish runs vowels together in speech (*la amiga* sounds like *lamiga*), but neither writes the fusion as Sanskrit does. Japanese and Korean avoid vowel clashes inside words in their own ways; Korean *a* + *a* in verb endings (*ga-* + *-a* → *ga*) is a living fusion of the same kind.
 
 ## Exercises
 

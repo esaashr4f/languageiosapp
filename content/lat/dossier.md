@@ -105,6 +105,16 @@ Syllables and stress (ag1903 §§7, 12; allen1978 ch. 5 accent, ch. 6 quantity):
 - Quoted text may modernise *vo-* to *vu-* (*voltu* -> *vultū*) along with u/v, i and macrons; say so in the note when it matters.
 - Where sources disagree on a form (*sēdēs* gen. pl., ag1903 §78 -um vs Wiktionary *sēdium*; *prīnceps* vowel length), avoid the word in examples or present it as an exception.
 
+### Gloss conventions settled while drafting (part 4)
+
+- Third conjugation cut after the stem consonant, linking vowel with the ending: `reg-ō reg-it reg-unt capi-unt audi-unt`.
+- Imperfect `regē-ba-t`; futures `amā-bi-t`, `amā-b-ō`, `amā-bu-nt`, `reg-e-t`, `reg-a-m`; perfect `rēx-it` rule.PRF-3SG; pluperfect `amāv-era-t`; future perfect `amāv-eri-nt`.
+- Perfect participle `cap-t-us` take-PTCP-NOM.SG.M, fused where no t shows (`vīs-us`, `mortu-us`).
+- Subjunctives: present `am-ē-mus`, imperfect `amā-re-t`, perfect `amāv-eri-t`, pluperfect `amāv-isse-t`. Singular imperative fused: `audī` hear.IMP.2SG.
+- *sum*, *possum*, *volō* glossed whole (`be.SBJV.3SG`, `be.able.IPFV.3PL`, `want.SBJV.1SG`). Label combinations in use: IMP.2SG, IMP.FUT.3SG, INF.PASS, IPFV.SBJV, PLUP.SBJV, 3SG.DEP, PRS.PTCP.
+- Wiktionary preferred over the core list for: coniūnx, gignō, magnitūdō, fortāsse, usque, tellūs, flūxī, tractum, aspexī. *moritur* avoided (i-length uncertain).
+- Part 5 inherits: third-declension adjectives, present participles, numerals, quīdam and nūllus were only preview-flagged in part 4; pointers to part 5 for fortiter, quam after comparatives, adjectives as nouns, adeō, lātus "wide". quīdam, aliquis, omnis, nūllus not yet introduced.
+
 ## 5. Major paradigms and where to check them
 
 Check every form against wiktionary (`python3 tools/wikt.py <word> Latin`, entered without macrons) and, for the paradigm as a system, bennett1918 (plain text: Project Gutenberg 15665) or ag1903 (section numbers below; `ag-index.tsv` lists the page for each topic).

@@ -165,7 +165,7 @@ preview: NV
 ## Where it applies
 
 - **Every verb that marks two persons.** The same rules hold for every transitive verb in every tense of part 4, and for the indirect objects of lesson 4-20.
-- **Verbs of feeling and the perfect.** In *miq̇vars* "I love" and in the perfect, the person who loves or did the action is shown with *m-*, *g-*, *gv-* (lessons 4-18, 4-22). The same hierarchy decides the *-t* there: *giq̇varst* "you all love" is the plural of *giq̇vars*.
+- **Verbs of feeling and the perfect.** In *miq̇vars* "I love" and in the perfect, the person who loves or did the action is shown with *m-*, *g-*, *gv-* (lessons 4-18, 4-22). The same hierarchy decides the *-t* there (lesson 4-18).
 - **Politeness.** Every *-t* form doubles as the polite singular.
 - **Pronouns as tie-breakers.** Whenever *-t* is ambiguous, keep the pronouns: *čven*, *tkven*, *me*.
 - **Third-person objects.** They never compete: they have no marker. *Vxedavt* "we see him" is unambiguous.

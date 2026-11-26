@@ -21,7 +21,7 @@ Where does *-ta-* come from? Wiktionary derives it from the verb *-taka* "want".
 
 The future in Swahili, as in English, covers more than prediction. Polomé describes *-ta-* as placing an action after the time of reference, with nothing added. In practice that covers plans (*nitasafiri kesho*), promises (*nitarudi*), predictions (*mvua itanyesha*) and announcements.
 
-In speech you will hear a second negative future: *-to-* in place of *-ta-*. *Hatokuja* "he won't come" stands beside the standard *hatakuja*. Wpgrammar reports that "a number of speakers" use it, suggests that it was copied from the *-to-* of the negative infinitive (lesson 4.12), and points to its usefulness: many speakers drop or weaken *h*, and then *hatakuja* "he won't come" sounds like *atakuja* "he will come". The *o* keeps the negative audible. This guide writes *-ta-*, the standard form, and labels *-to-* as colloquial.
+In speech you will hear a second negative future: *-to-* in place of *-ta-*. *Hatokuja* "he won't come" stands beside the standard *hatakuja*. Wpgrammar reports that "a number of speakers" use it, suggests that it was copied from the *-to-* of the negative infinitive (lesson 4.12), and points to its usefulness: *hatakuja* "he won't come" differs from *atakuja* "he will come" only by its *h*, and second-language speakers in many areas, it notes, have trouble saying and hearing *h*. The *o* keeps the negative audible. This guide writes *-ta-*, the standard form, and labels *-to-* as colloquial.
 
 ## How it is built
 
@@ -131,7 +131,7 @@ morphemes: mvua i-na-tak-a ku-nyesh-a
 gloss: rain.C9 C9.SM-PRS-want-FV INF-rain-FV
 translation: It's about to rain.
 literal: The rain wants to rain.
-note: -taka + infinitive with a non-human subject means "be about to" (Wiktionary, Appendix:Swahili verbs).
+note: -taka + infinitive can mean "be about to" (Wiktionary, Appendix:Swahili verbs). With rain as the subject, "want" makes no sense, so "about to" is the reading.
 source: constructed
 confidence: constructed
 :::
@@ -155,7 +155,7 @@ preview: KU
 - **Questions about the future**: *Utarudi kesho?* "Will you come back tomorrow?"
 - **Every class**: *Gari litapita hapa* "the car will come by here"; *Kiti kitaanguka* "the chair will fall".
 - **The main clause of an "if" sentence**: "if it rains, we won't go". The "if" half has its own form (lesson 4.14); the result half is an ordinary future.
-- **"About to"**: *-taka* + infinitive, as in example 9. With a person as subject it usually still means "want": *Anataka kuondoka* "she wants to leave".
+- **"About to"**: *-taka* + infinitive, as in example 9. With a person as subject the same words can mean "want": *Anataka kuondoka* "she wants to leave". Context decides.
 - **Inside relative verbs** the future marker has a longer shape, *-taka-* (part 6): *atakayekuja* "who will come". Do not use that shape outside relatives.
 
 ## Watch out
@@ -234,5 +234,5 @@ The path from "want" to "will" is common: English *will* first meant "want", and
 4. *Mtafaulu mtihani.* *Hamtafaulu mtihani.* The 2PL negative prefix is *ham-*.
 5. "Didn't" is the negative past with *-ku-*: *Hatukusafiri.* *Hatutasafiri* means "we won't travel".
 6. The negative future keeps the final *-a*; *-i* belongs only to the negative present. *Sitasoma kesho* "I won't read tomorrow".
-7. "It's about to rain." With a subject that cannot want anything, *-taka* + infinitive means "be about to" (Wiktionary's verb appendix lists this use).
+7. "It's about to rain." *-taka* + infinitive can mean "be about to" (Wiktionary's verb appendix lists this use), and with a subject that cannot want anything that is the only sensible reading.
 8. *Hatakuja*, "he (or she) won't come". The *-to-* is a spoken variant of the negative future *-ta-*.

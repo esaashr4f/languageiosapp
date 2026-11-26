@@ -159,14 +159,14 @@ preview: C9
 - **Saying who or what someone is.** Name, job, nationality, role: *Mimi ni mwalimu*, *Ninyi ni Watanzania*, *Amina si mpishi*.
 - **Any person, any number.** The same *ni* and *si* serve all six pronouns and any noun subject. Thompson and Schleicher list *ni* with every pronoun and *si* likewise.
 - **A state expressed as a kind of person.** *Mgonjwa* is "sick person", so *Mzee ni mgonjwa* is how you say someone is ill. Almasi and colleagues give a sentence of this kind with *ni mgonjwa*.
-- **Without a subject: "it is".** *Ni kweli* "it's true". Thompson and Schleicher's reading passage ends with *ni* and a noun and no subject, meaning "it is (a very good school)". Polomé gives *ni* with no subject for "they are" too, when the context says who. This is the pointing use from which the copula grew.
+- **Without a subject: "it is".** *Ni kweli* "it's true". Polomé gives *ni mlima* "it is a mountain", and *ni* with no subject for "they are" too (*ni wapagazi* "they are porters"), when the context says who. This is the pointing use from which the copula grew.
 - **Two subjects joined by *na*.** *Mimi na wewe ni wanafunzi*. The noun after *ni* is plural.
 - **Things as well as people.** *Ni* links any noun to what it is, as the class 9 example shows. Part 3 adds nouns of the other classes, and lesson 3.3 adds adjectives after *ni* ("the house is big").
 - **Proverbs and headlines.** Many proverbs are built on *ni*: *Mtu ni watu*. Polomé notes that in speech *ni* is often left out altogether, especially after a pronoun. Use it; recognise the bare form when you hear it.
 
 ## Watch out
 
-**Do not drop the pronoun as in Spanish.** *Soy maestro* needs no "yo", because *soy* is first person. *Ni* carries no person, so *\*Ni mwalimu* does not mean "I am a teacher". It means "he or she is a teacher" or "it's a teacher", with the subject taken from context. Say *Mimi ni mwalimu*.
+**Do not drop the pronoun as in Spanish.** *Soy maestro* needs no "yo", because *soy* is first person. *Ni* carries no person, so *\*Ni mwalimu* does not mean "I am a teacher". In today's usage it means "he or she is a teacher" or "it's a teacher", with the subject taken from context. (Polomé records an older written usage in which the "I" prefix of lesson 2.2 did this job, *ni mpishi* "I am a cook"; Thompson and Schleicher teach only the pronoun with *ni*.) Say *Mimi ni mwalimu*.
 
 **Do not put *si* next to *ni*.** *\*Mimi si ni mwalimu* and *\*Mimi ni si mwalimu* both double the copula. *Si* is the whole negative copula: *Mimi si mwalimu*.
 
@@ -182,7 +182,7 @@ preview: C9
 
 **Do not use *ni* to say where someone is.** "She is at home" is not a matter of identity. Swahili uses a different construction for place, taught in lesson 2.5, much as Spanish uses *estar* and not *ser*.
 
-**Older texts sometimes use a prefix instead of *ni*.** Polomé records forms like *yu mpishi* "he is a cook" in older and some spoken Swahili. You will meet them in the readings of part 8. Do not imitate them.
+**Older texts sometimes use a prefix instead of *ni*.** Polomé reports that the written standard of his day used the subject prefix for "I" and "you" in such sentences (*u nani?* "who are you?"), and records *yu mpishi* "he is a cook" in some spoken Swahili. You will meet them in the readings of part 8. Do not imitate them.
 
 ## Reference table
 

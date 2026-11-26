@@ -8,3 +8,4 @@ dist/
 private-sources/
 __pycache__/
 /lemforms.json
+/preview-*.html

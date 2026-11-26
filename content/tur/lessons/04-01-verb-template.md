@@ -15,7 +15,7 @@ sources: [goksel2005, wiktionary]
 
 You already know one verb form well: *gel-mi-yor-um* "I am not coming". Stem, negative, *-(I)yor*, person. Part 4 adds a dozen more suffixes. They do not go anywhere you like. Every Turkish verb that ends a sentence is built on one fixed frame, a row of **slots**, and each new suffix belongs in exactly one of them. This lesson shows the whole frame first, so that every later lesson only fills in one slot.
 
-Göksel and Kerslake give the order of the suffixes in a full verb as (goksel2005 §8.2):
+Göksel and Kerslake give the order of the suffixes in a finite verb as root, voice, negation, tense/aspect/modality, copular marker, person, *-DIr* (goksel2005 §8.2). This guide splits their tense/aspect/modality group in two, because "can" and "cannot" stand before the tense suffix (goksel2005 §8.2.3):
 
 1. **stem**: *gel-*, *yap-*, *oku-*;
 2. **voice**: suffixes that change who does what to whom, such as "be done" or "make someone do" (part 7);
@@ -180,7 +180,7 @@ preview: CAUS, IMPOT, FUT, PST
 
 **Do not put the person ending before the tense.** *\*Gelimiyor* or *\*gelum-iyor* model Turkish on languages where person comes early. Person is slot 7, after tense: *geliyorum*.
 
-**Do not harmonise with the stem.** *\*Geliyordi*, *\*geliyorduk* with a front vowel, or *\*gelmiyordük* look back to *gel-*. The copula follows the *o* of *-yor*: *geliyordu*, *geliyorduk*.
+**Do not harmonise with the stem.** *\*Geliyordi*, *\*geliyordük* or *\*gelmiyordük* look back to *gel-*. The copula follows the *o* of *-yor*: *geliyordu*, *geliyorduk*.
 
 **Do not use the noun copula as if it were a tense suffix.** *-(y)DI* after a noun means "was" (*evdeydim* "I was at home"); *-DI* on a stem means "happened" (*geldim* "I came"). They share a gloss, PST, and a sound, but they sit in different slots (tur-04-03, tur-04-08).
 

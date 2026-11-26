@@ -8,7 +8,7 @@ point: Predict when a noun like მეგობარი loses a vowel (მე�
 requires: [kat-03-05]
 introduces: [syncope]
 confidence: uncertain
-sources: [bolkvadze2023, wiktionary]
+sources: [bolkvadze2023, wiktionary, hewitt1995]
 ---
 
 ## The idea

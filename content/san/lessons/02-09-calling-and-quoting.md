@@ -17,7 +17,7 @@ Two things happen in almost every Sanskrit story: people speak to each other, an
 
 **Calling.** The form of a noun used to call or address someone is the **vocative** (gloss VOC). "Child, you run fast": "child" is not the subject of the sentence, it is the person spoken to. Sanskrit gives it its own form. For *deva* it is the bare stem: *deva* "O god!", or, to a king, "Your Majesty!" (Monier-Williams notes this use of the vocative as a title). For *kanyā* it is *kanye* "girl!".
 
-Whitney (§266a) points out that the Indian grammarians do not count the vocative as a case like the others. They treat it as a use of the nominative, and in fact it differs from the nominative only in the singular. This guide lists it as an eighth row in tables, as Whitney does, for convenience.
+Whitney (§266a) points out that the Indian grammarians do not count the vocative as a case like the others, and that it differs from the nominative only in the singular. This guide lists it as an eighth row in tables, as Whitney does, for convenience.
 
 **Quoting.** Sanskrit reports speech and thought word for word, and marks the end of the quotation with *iti* "thus" (gloss QUOT, for **quotative**). Speijer (§491) is clear that the indirect form of English ("he said that he would come") is not idiomatic Sanskrit. A Sanskrit speaker says: "'I will come', thus he said." Speijer (§492) adds that *iti* is in origin a pointing adverb, "thus, so", the same word as Latin *ita*.
 
@@ -201,7 +201,7 @@ confidence: attested
 - **Thoughts, knowledge, belief, doubt, fear**: *atra vyāghra iti cintayati* (Speijer §493). English uses "that" or nothing.
 - **Questions reported**: the question is quoted as asked: *api grāmaṃ gacchatha iti pṛcchati*.
 - **Reasons and purposes**: Speijer (§493) lists the cause or motive of an action and the object of a wish as further uses ("he does it, thinking 'X'"). You will meet them in the readings.
-- **Names and descriptions**: a single nominative with *iti*: *śaśāṅka iti prasiddhiḥ*. Whitney (§267b) notes that such a word stays nominative even when, in English, it describes an object: "what they call 'heaven'".
+- **Names and descriptions**: a single nominative with *iti*: *śaśāṅka iti prasiddhiḥ*. Whitney (§268b) notes that such a word stays nominative even when, in English, it describes an object: "what they call 'heaven'".
 - **The end of a text or chapter**: *iti* closes whole works: "thus (ends) the first act" (Speijer §492, note).
 - ***iti* can be absent.** Speijer (§496) says quoting without it, or with another word such as *evam* "thus", is allowed. Expect it, but do not depend on it.
 

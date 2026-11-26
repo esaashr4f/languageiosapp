@@ -240,7 +240,7 @@ nātū | - | noun | by birth (maior nātū "older") | ablative only
 
 ## Connections
 
-Spanish and French dropped the supine, and use *a* or *pour* + infinitive (*vinieron a ver*, *ils sont venus voir*). Its stem survives everywhere in English: *visit* comes, through French, from *vīsitāre*, a verb built on the stem of *vīsum*, and *monster* is *mōnstrum*. Japanese has a close parallel to the *-um* supine: in *mi ni iku* "go to see", the verb's stem form works as a noun and takes *ni*, the particle of direction, as *spectātum īre* puts a verbal noun in the accusative of direction.
+Spanish and French dropped the supine, and use *a* or *pour* + infinitive (*vinieron a ver*, *ils sont venus voir*). Its stem survives everywhere in English: *visit* comes, through French, from *vīsitāre*, a frequentative of *vīsō* (Wiktionary), and *monster* is *mōnstrum*. Japanese has a close parallel to the *-um* supine: in *mi ni iku* "go to see", the verb's stem form works as a noun and takes *ni*, the particle of direction, as *spectātum īre* puts a verbal noun in the accusative of direction.
 
 ## Exercises
 

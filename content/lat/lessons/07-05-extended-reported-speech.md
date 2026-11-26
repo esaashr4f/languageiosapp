@@ -65,11 +65,11 @@ confidence: attested
 :::
 
 :::example
-orig: Quod imprōvīsō ūnum pāgum adortus esset, nē ob eam rem aut suae magnopere virtūtī tribueret aut ipsōs dēspiceret.
+orig: Quod imprōvīsō ūnum pāgum adortus esset, … nē ob eam rem aut suae magnopere virtūtī tribueret aut ipsōs dēspiceret.
 morphemes: quod imprōvīsō ūn-um pāg-um adort-us esset nē ob eam r-em aut su-ae magnopere virtūt-ī tribu-ere-t aut ips-ōs dēspic-ere-t
 gloss: as.to.the.fact.that unexpectedly one-ACC.SG.M canton-ACC.SG attack.PTCP-NOM.SG.M be.IPFV.SBJV.3SG that.not because.of that.ACC.SG.F thing-ACC.SG either REFL.own-DAT.SG.F greatly courage-DAT.SG attribute-IPFV.SBJV-3SG or self-ACC.PL.M despise-IPFV.SBJV-3SG
 translation: As for his having attacked one canton by surprise, he should not on that account either credit it greatly to his own courage or despise them.
-note: A negative command with nē. suae refers to Caesar, the subject of tribueret; ipsōs "themselves" means the Helvetii, the speakers. Caesar's text adds a cum clause, left out here.
+note: A negative command with nē. suae refers to Caesar, the subject of tribueret; ipsōs "themselves" means the Helvetii, the speakers. A cum clause is left out at the ellipsis.
 source: Caesar, Gallic War 1.13.4
 confidence: attested
 :::
@@ -85,11 +85,11 @@ confidence: attested
 :::
 
 :::example
-orig: Quārē nē committeret ut is locus ubi cōnstitissent ex calamitāte populī Rōmānī nōmen caperet.
+orig: Quārē nē committeret ut is locus ubi cōnstitissent ex calamitāte populī Rōmānī … nōmen caperet …
 morphemes: quārē nē committ-ere-t ut is loc-us ubi cōnstit-isse-nt ex calamitāt-e popul-ī Rōmān-ī nōmen cape-re-t
 gloss: therefore that.not allow-IPFV.SBJV-3SG that that.NOM.SG.M place-NOM.SG where halt.PRF-PLUP.SBJV-3PL from disaster-ABL.SG people-GEN.SG Roman-GEN.SG.M name.ACC.SG take-IPFV.SBJV-3SG
 translation: So he should not let the place where they had taken their stand get its name from a disaster of the Roman people.
-note: The threat that ends the speech. committere ut "let it come about that". Caesar adds "and from the destruction of an army", "or hand on the memory".
+note: The threat that ends the speech. committere ut "let it come about that". At the ellipses Caesar adds "and from the destruction of an army" and "or hand on the memory of it".
 source: Caesar, Gallic War 1.13.5
 confidence: attested
 :::
@@ -107,11 +107,11 @@ confidence: attested
 :::
 
 :::example
-orig: Num etiam recentium iniūriārum memoriam dēpōnere posse?
+orig: Num etiam recentium iniūriārum … memoriam dēpōnere posse?
 morphemes: num etiam recent-ium iniūri-ārum memori-am dēpōn-ere posse
 gloss: Q also recent-GEN.PL wrong-GEN.PL memory-ACC.SG lay.aside-INF be.able.INF
 translation: Could he also lay aside the memory of recent wrongs?
-note: A rhetorical question, expecting "no": accusative and infinitive (sē understood), not subjunctive (ag1903 §586).
+note: A rhetorical question, expecting "no": accusative and infinitive (sē understood), not subjunctive (ag1903 §586). The ellipsis replaces a list of the wrongs. The edition's sentence opens with a sī clause, left out.
 source: Caesar, Gallic War 1.14.3
 confidence: attested
 :::

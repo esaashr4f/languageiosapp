@@ -183,7 +183,7 @@ preview: COND
 - **Past states, on any predicate**: adjectives (*hastaydım*, *yorgundum*, *açtım* "I was hungry"), nouns (*öğretmendi*, *öğrenciydiler*), places (*evdeydik*, *İstanbul'daydık*), possessives (*Bu ev babamındı* "this house was my father's").
 - **Past existence and "had"**: *vardı*, *yoktu*: *Evde kimse yoktu*, *Bir köpeğimiz vardı.* Göksel and Kerslake use *vardı* and *yoktu* as the past of the existential sentence (goksel2005 §21.2.1).
 - **Negative past**: *değildi*, *değildik*; *yoktu*.
-- **Hearsay about a present or past state**: *Ali hastaymış*, *Annesi evdeymiş*, *Çok zenginlermiş* "they're very rich, they say".
+- **Hearsay about a present or past state**: *Ali hastaymış*, *Annesi evdeymiş*, *Çok zenginmişler* "they're very rich, they say" ("they" after the marker, the normal order on a noun or adjective; goksel2005 §8.4).
 - **Discovery and surprise**: *Ne güzelmiş!* "How lovely!", *Bu yemek çok lezzetliymiş!*, *Hiç para yokmuş* "there's no money at all (I find)".
 - **Fairy tales and anecdotes**: *Bir varmış, bir yokmuş*; *Bir zamanlar bir kral varmış* "once there was a king".
 - **Conditions**: *-(y)sA* for "if (it) is": *Hastaysan*, *Zamanın varsa*, *Evdeyse* "if he's at home" (tur-06-10 for the full system).

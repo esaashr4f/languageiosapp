@@ -46,7 +46,7 @@ Most Bantu languages use **tone**: the pitch of a syllable can change the meanin
 
 Nobody knows when Swahili began. A Greek sailors' guide of the first century AD describes trade between Arabia and this coast, and says the Arab captains spoke the local language, but quotes none of it. An Arab geographer of the tenth century gives a royal title that may be the Swahili *mfalme* "king", but the reading is uncertain.
 
-What is clear is the result. The coastal towns (Kilwa, Mombasa, Malindi, Lamu, Pate) grew rich on Indian Ocean trade and became Muslim. Their language kept a Bantu grammar and took in a large Arabic vocabulary. Older accounts, such as Polomé's handbook of 1967, describe an Arab-African mixture. More recent work, summarised by Wikipedia, stresses that the grammar, the sounds and most everyday words are inherited from Sabaki. One count of basic vocabulary found 72 to 91 per cent inherited, and only 2 to 8 per cent from outside Africa. Counts over the whole dictionary give much higher shares of loans, from about 16 to 40 per cent. The figures depend on what is counted, so this guide gives none as fact.
+What is clear is the result. The coastal towns (Kilwa, Mombasa, Malindi, Lamu, Pate) grew rich on Indian Ocean trade and became Muslim. Their language kept a Bantu grammar and took in a large Arabic vocabulary. Older accounts, such as Polomé's handbook of 1967, tell the story mainly through Arab settlement and intermarriage, though Polomé too calls the language "strictly Bantu" in its structure. More recent work, summarised by Wikipedia, stresses that the grammar, the sounds and most everyday words are inherited from Sabaki. One count of basic vocabulary found 72 to 91 per cent inherited, and only 2 to 8 per cent from outside Africa. Counts over the whole dictionary give much higher shares of loans, from about 16 to 40 per cent. The figures depend on what is counted, so this guide gives none as fact.
 
 Most loans are Arabic; others came from Persian, Hindi, Portuguese, English and German. Two centuries of Portuguese rule on the coast, from about 1500, left only words.
 
@@ -56,7 +56,7 @@ Swahili was written long before Europeans arrived, in Arabic script. The oldest 
 
 In the nineteenth century Zanzibar became the commercial capital of East Africa under its Omani sultans. Caravans left the mainland opposite for the great lakes and the Congo, and trading towns such as Tabora and Ujiji grew up along the routes. Swahili travelled with the caravans. The German and British colonial governments then used it to run their territories.
 
-Christian missionaries wrote the language in the Latin alphabet. Johann Ludwig Krapf began around the middle of the century, and Bishop Edward Steere's handbook of 1865 fixed many of the spellings still used, including *ng'*. The Arabic script was never well suited to Swahili: it has no letters for *e*, *o*, *p* or *ch*. The Latin spelling replaced it in schools and print.
+Christian missionaries wrote the language in the Latin alphabet. Johann Ludwig Krapf began around the middle of the century, and Bishop Edward Steere's handbook, begun in print in 1865 and published in 1870, became the model for later spelling; it introduced *ng'*. The Arabic script was never well suited to Swahili: it has no letters for *e*, *o*, *p* or *ch*. The Latin spelling replaced it in schools and print.
 
 ## Which Swahili this guide teaches
 

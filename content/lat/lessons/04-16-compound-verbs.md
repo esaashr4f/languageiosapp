@@ -21,7 +21,7 @@ Two things change when a prefix is added, and both have reasons.
 
 **The prefix adapts to the next sound.** A consonant at the end of the prefix often takes on the sound that follows it: *ad* + *ferō* becomes *afferō*, *in* + *mittō* becomes *immittō*, *ob* + *ferō* becomes *offerō*, *con-* + *legō* becomes *colligō*. This is **assimilation**: one sound becoming like its neighbour, to make the word easier to say. Allen and Greenough warn that "usage varied considerably" and that editions spell some compounds both ways, *adferō* and *afferō* (ag1903 §16).
 
-**The vowel of the simple verb weakens.** *Faciō* becomes *cōnficiō*; *capiō* becomes *accipiō*; *teneō* becomes *retineō*; *caedō* becomes *occīdō*. The rule is regular (ag1903 §267a, note 2; §15):
+**The vowel of the simple verb weakens.** *Faciō* becomes *cōnficiō*; *capiō* becomes *accipiō*; *teneō* becomes *retineō*; *caedō* becomes *occīdō*. The pattern is regular (ag1903 §267a, note 2, and §15 state the *a* and *ae* cases):
 
 - short *a* in the root becomes *i* before one consonant (*fac-* → *-fic-*, *cap-* → *-cip-*) and *e* before two (*factum* → *cōnfectum*, *captum* → *acceptum*);
 - short *e* becomes *i* before one consonant (*teneō* → *retineō*, *legō* → *colligō*);
@@ -158,7 +158,7 @@ preview: third-declension adjective
 
 - **Building vocabulary.** Most Latin verbs beyond the commonest few hundred are compounds. Each simple verb you know opens a family: *mittō* (*āmittō*, *committō*, *dīmittō*, *permittō*, *prōmittō*), *capiō* (*accipiō*, *recipiō*, *suscipiō*, *ēripiō* from *rapiō*), *faciō* (*cōnficiō*, *efficiō*, *interficiō*, *dēficiō*), *cēdō* (*accēdō*, *discēdō*, *concēdō*, *prōcēdō*), *dūcō* (*addūcō*, *dēdūcō*).
 - **Direction.** Many prefixes keep their spatial sense: *ex-* out, *ab-* away, *ad-* to, *re-* back: *ēripiō* "snatch out", *discēdō* "go apart, depart".
-- **Completion.** *Con-*, *per-*, *ex-* and *dē-* often add the idea of doing the action fully: *faciō* "do", *cōnficiō* "finish", *efficiō* "bring about"; *dēleō* is "wipe out" (ag1903 §267a: *com-* "forcibly", *dē* "utterly").
+- **Completion.** *Con-*, *per-*, *ex-* and *dē-* often add the idea of doing the action fully: *faciō* "do", *cōnficiō* "finish", *efficiō* "bring about" (ag1903 §267a: *com-* "forcibly", *dē* "utterly").
 - **New meanings.** Some compounds have moved far from their parts: *intellegō* "understand", *dīligō* "love, esteem" (from *dis-* + *legō*), *interficiō* "kill". Learn these as words.
 - **New constructions.** Dative with compounds of *ad*, *con*, *in*, *ob*, *prae*, *sub* (ag1903 §370): *occurrō hostibus*, *praesum exercituī* "I command the army". But if the compound's meaning does not suit an indirect object, the simple verb's construction remains (ag1903 §370a): *hominem interficit*.
 - **Compounds of irregular verbs.** They keep the irregularity: *abeō*, *redeō* like *eō*; *afferō*, *referō* like *ferō*; *adsum*, *absum*, *possum* like *sum* (lessons 3 and 14).
@@ -174,7 +174,7 @@ preview: third-declension adjective
 
 **Do not confuse *occidō* and *occīdō*.** *Occidō* (short *i*, from *cadō*) is "fall, die, set (of the sun)"; *occīdō* (long *ī*, from *caedō*) is "kill". The same length difference as *cecidī* and *cecīdī* (lesson 6).
 
-**Do not give *cōnficiō* the passive *fīō*.** *\*Cōnfit* for "it is finished" is wrong in classical prose; the passive is *cōnficitur* (ag1903 §204a). Only *faciō* itself uses *fīō*.
+**Do not give *cōnficiō* the passive *fīō*.** *\*Cōnfit* for "it is finished" is wrong in classical prose; the passive is *cōnficitur* (ag1903 §204a). Only *faciō* itself and the compounds that keep *a*, like *satisfaciō*, use *fīō*; the rare *cōnfit* that does occur means "it happens" (ag1903 §204b-c).
 
 **Do not trust the parts too far.** *Intellegō* is not "read between"; *dīligō* is not "choose apart" in use. The parts explain the meaning's origin, not its present sense.
 
@@ -263,5 +263,5 @@ English is full of Latin compounds, often borrowed through French, and you can r
 5. *Verba tua intellegō.* Third conjugation, like *legō*.
 6. *Mīlitēs opus cōnficere nōn possunt*: the compound weakens *a* to *i* (ag1903 §267a, note 2). *Hostēs ducem interfēcērunt*: the perfect keeps the long *ē* of *fēcī*.
 7. Short vowels weaken in the unstressed syllable of a compound; long vowels do not (ag1903 §267a, note 2). *Fac-* has a short *a*; *fēc-* a long *ē*.
-8. *Occidit* (short *i*): "he falls, he dies" (present, from *cadō*). *Occīdit* (long *ī*): "he kills" or "he killed" (from *caedō*).
+8. *Occidit* (short *i*): "he falls, he dies" (present) or "he fell, he died" (perfect, *occidī*), from *cadō*. *Occīdit* (long *ī*): "he kills" or "he killed" (from *caedō*).
 9. "Don't lose hope." *Āmittō* is *ab* + *mittō*, "let go away", hence "lose". *Nōlī* + infinitive forbids (lesson 9).

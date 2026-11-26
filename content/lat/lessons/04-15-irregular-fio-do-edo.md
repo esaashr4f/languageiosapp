@@ -44,7 +44,7 @@ To say "is made" or "happens", use *fit*. To say "was made" or "happened" as an 
 
 **Dō, dare, dedī, datum.** Conjugate like *amō* with short *a*: *dō, dās, dat, damus, datis, dant*; *dabam*; *dabō*; *dedī*; passive *datur*, *datus est*.
 
-**Compounds of dō.** A few are first conjugation like *dō*. Most are third conjugation, with the vowel weakened: *reddō, reddere, reddidī, redditum* "give back"; *trādō* "hand over"; *addō* "add"; *condō* "found, store, hide"; *prōdō* "betray, hand down"; *perdō* "destroy, lose"; and *crēdō*, which you know. Allen and Greenough assign these third-conjugation compounds to a different root, meaning "put" (ag1903 §209, note). *Perdō* has no classical passive (Wiktionary); *pereō* "perish" (lesson 14) covers the meaning.
+**Compounds of dō.** A few are first conjugation like *dō*. Most are third conjugation, with the vowel weakened: *reddō, reddere, reddidī, redditum* "give back"; *trādō* "hand over"; *addō* "add"; *condō* "found, store, hide"; *prōdō* "betray, hand down"; *perdō* "destroy, lose"; and *crēdō*, which you know. Allen and Greenough assign these third-conjugation compounds to a different root, meaning "put" (ag1903 §209a, note). *Perdō* has no classical passive (Wiktionary); *pereō* "perish" (lesson 14) covers the meaning.
 
 **Edō, edere (ēsse), ēdī, ēsum.** Use the regular forms, and recognise the short ones: *ēst* "he eats" has a long *ē*, *est* "he is" a short one.
 
@@ -267,7 +267,7 @@ Spanish *dar* and French *donner* both mean "give", but only *dar* continues *da
 1. Present *fīō, fīs, fit, fīmus, fītis, fīunt*; future *fīam, fīēs, fīet, fīēmus, fīētis, fīent*. The *ī* is short in *fit*, before final *-t*.
 2. "This often happens." *Fit*: third person singular of *fīō*, "it happens" (ag1903 §204).
 3. *Porta ā servīs facta est*: perfect passive of *faciō*, *facta* agreeing with *porta*. *Porta ā servīs fit*: *fīō* supplies the present passive.
-4. *Trādō, trādis, trādit, trādimus, trāditis, trādunt*: third conjugation (ag1903 §209, note).
+4. *Trādō, trādis, trādit, trādimus, trāditis, trādunt*: third conjugation (ag1903 §209a, note).
 5. "Romulus founded Rome and became king." *Condidit*: perfect of *condō*, with reduplication. *Factus est*: perfect of *fīō*, "became"; *rēx* is a predicate noun in the nominative.
 6. *Domus ā servīs fit*: *faciō* has no present passive; *fīō* takes its place. *Damus tibi dōnum*: *dō* has short *a* except in *dās* and *dā*.
 7. "I used to hate him; now I love him." *Ōderam* is the pluperfect form of *ōdī*, used with the meaning of an imperfect (ag1903 §205b).

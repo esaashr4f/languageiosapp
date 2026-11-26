@@ -109,11 +109,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Crās opus cōnfectum erit.
-morphemes: crās op-us cōnfec-t-um erit
-gloss: tomorrow work-NOM.SG finish-PTCP-NOM.SG.N be.FUT.3SG
-translation: Tomorrow the work will have been finished.
-note: Future perfect passive. opus is neuter, so cōnfectum. cōnficiō is taught in lesson 16 of this part.
+orig: Crās opus factum erit.
+morphemes: crās op-us fac-t-um erit
+gloss: tomorrow work-NOM.SG do-PTCP-NOM.SG.N be.FUT.3SG
+translation: Tomorrow the work will have been done.
+note: Future perfect passive. opus is neuter, so factum.
 source: constructed
 confidence: constructed
 :::
@@ -163,7 +163,7 @@ preview: substantive adjective
 ## Where it applies
 
 - **The perfect passive, in both senses of the perfect.** *Urbs capta est*: "the city was taken" (event) or "has been taken" (result), as in the active (lesson 7).
-- **The pluperfect and future perfect passive.** *Scrīptae erant*; *cōnfectum erit*. All the uses of lesson 8 apply.
+- **The pluperfect and future perfect passive.** *Scrīptae erant*; *factum erit*. All the uses of lesson 8 apply.
 - **A state described by the participle.** *Gallia est dīvīsa*: "Gaul is divided". Here the participle is a predicate adjective, and *est* has its plain meaning. Context tells you whether *dīvīsa est* is an event ("was divided") or a state ("is divided").
 - **As an adjective.** *Urbs capta*, *epistula scrīpta*. It can stand before or after its noun (part 2, lesson 8).
 - **As a noun.** *Captī* "the captured, the prisoners"; *factum* "a thing done, a deed" (lesson 5 of this part). Part 5 treats adjectives as nouns.

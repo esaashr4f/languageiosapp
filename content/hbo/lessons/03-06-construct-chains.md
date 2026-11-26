@@ -91,7 +91,7 @@ confidence: attested
 orig: וַיִּרְאוּ בְנֵי־הָאֱלֹהִים אֶת־בְּנוֹת הָאָדָם כִּי טֹבֹת הֵנָּה
 translit: wayyirʾû ḇənê-hāʾĕlōhîm ʾeṯ-bənôṯ hāʾāḏām kî ṭōḇōṯ hēnnâ
 morphemes: way-yirʾû ḇənê hā=ʾĕlōhîm ʾeṯ bənôṯ hā=ʾāḏām kî ṭōḇ-ōṯ hēnnâ
-gloss: WAYY-see.3PL.M son.PL.CSTR DEF=god.PL OBJ daughter.PL.CSTR DEF=human that good-PL.F 3PL.F
+gloss: WAYY-see.3PL.M son.PL.CSTR DEF=God OBJ daughter.PL.CSTR DEF=human that good-PL.F 3PL.F
 translation: The sons of God saw that the daughters of humankind were beautiful.
 note: bənê (masculine plural construct) beside bənôṯ (feminine plural construct, -ôṯ unchanged). Both chains are definite through the article on the last noun. Whether bənê hāʾĕlōhîm means "sons of God" or "divine beings" is a matter of interpretation; the grammar allows both.
 source: Genesis 6:2 (WLC)
@@ -140,7 +140,7 @@ translit: bəyôm milḥemeṯ
 morphemes: bə=yôm milḥemeṯ
 gloss: in=day.CSTR war.CSTR
 translation: on the day of battle
-note: milḥāmâ has the construct milḥemeṯ. Here it stands at the end of the verse's first phrase with nothing after it; the text is probably short a word ("the battle of Michmash", the Septuagint reads). Gesenius discusses such cases (§130).
+note: milḥāmâ has the construct milḥemeṯ. Here it stands at the end of the verse's first phrase with nothing after it; BDB notes that the Septuagint reads "the battle of Michmash", so a word may have dropped out of the Hebrew.
 source: 1 Samuel 13:22 (WLC)
 confidence: attested
 :::
@@ -184,7 +184,7 @@ translit: wəʿênê lēʾâ rakkôṯ
 morphemes: wə=ʿênê lēʾâ rakk-ôṯ
 gloss: and=eye.DU.CSTR Leah soft-PL.F
 translation: Leah's eyes were weak.
-note: ʿênayim → ʿênê. There is no dual adjective; ʿayin is feminine, so the predicate is feminine plural. rak "soft, tender" doubles its k (lesson 3.3). What "soft eyes" meant is not certain.
+note: ʿênayim → ʿênê. There is no dual adjective; ʿayin is feminine, so the predicate is feminine plural. raḵ "soft, tender" doubles its k before an ending (lesson 3.3). What "soft eyes" meant is not certain.
 source: Genesis 29:17 (WLC)
 confidence: attested
 :::
@@ -207,7 +207,7 @@ confidence: attested
 - **The object of a feeling or act:** *yirʾaṯ YHWH* "the fear of the LORD", *tôraṯ YHWH* "the instruction of the LORD".
 - **Time:** *bəyôm milḥemeṯ*, *šənaṯ* + a number, *yəmê* + a name: *bîmê ʾaḇrāhām* "in the days of Abraham" (Genesis 26:18).
 - **Body parts:** *yəḏê ʿēśāw*, *ʿênê lēʾâ*, *raḡlê* + owner.
-- **Measures and contents:** *ʿăḏaṯ yiśrāʾēl* "the congregation of Israel", *məleʾḵeṯ hammišḵān* "the work of the tabernacle".
+- **Groups:** *ʿăḏaṯ yiśrāʾēl* "the congregation of Israel", *mišpəḥōṯ hāʾăḏāmâ*.
 - **Every place a two-noun chain applies** (lesson 3.5), now with longer chains.
 - **With adjectives:** the adjective goes last and agrees with its own noun; if the chain is definite, the adjective takes the article.
 - **Later in the guide:** the plural construct *-ê* reappears before the plural possessive suffixes (lesson 3.8), and the construct before a whole clause (part 6).

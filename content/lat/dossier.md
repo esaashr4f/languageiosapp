@@ -215,3 +215,12 @@ Cite attested sentences as author, work, book.chapter(.section) or poem.line, e.
 - Spellings: Troia (Wiktionary; the Aeneid edition prints Trōiae), vēxillum, cognōmen (A&G cōgnōmen), Tyrius, iūxtā. Kalendae, Nōnae, Īdūs capitalised from 07-11 (part 1 has lower-case kalendae).
 - Inscription texts: EDCS unreachable through the proxy; texts from Latin Wikipedia (Scipionum elogia, CIL VI 1285, 1287), German Wikipedia (Caeliusstein, CIL XIII 8648) and The Latin Library epitaphs (CLE numbers). Expansions of V. A., F. C., V. S. L. M., S. T. T. L. come from a course page found by search: verifier to confirm. Bennett 1918 §§361–373 and A&G §§611–616 (versification, archive.org OCR) cited.
 - For part 8: 07-08 already scans Aeneid 1.1, 1.2, 1.3, 1.7 and 1.11 (07-06 glosses 1.4), so the capstone can point back. 07-09 uses Ovid Amores 1.1.1–4 and Catullus 101.1–2; 07-15 uses Catullus 101.9–10 and Gallic War 1.7.3–5. Magna Carta and Genesis 1 kept for part 8.
+
+
+## Notes from drafting parts 8 and 9 (2026-11-27)
+
+- Readings quote The Latin Library with every omission marked. Pompeii graffiti are cited by The Latin Library's Inscriptiones parietariae numbers; the CIL number for no. 594 is unsettled (IV 1173 vs IV 4091).
+- Magna Carta 39: imprisonare, disseisire, utlagare have no Latin Wiktionary entries; meanings are inferred from their English continuations, and the lesson says so.
+- Aeneid: the edition prints Trōiae, īnsīgnem; the guide uses Wiktionary's Troia, īnsignis, and gives inferretque as īnferretque. fēcerīmus (Catullus 5.10) has a long ī for the metre; the lesson does not explain why.
+- Part 9: 09-01 and 09-02 are generated from lesson tables by scratchpad p7/tables.py (spec1.json, spec2.json): rerun it whenever a lesson table changes. 09-03 from glossary.json; 09-04 from sources.json.
+- 07-04 (1,812) and 07-08 (1,809) are slightly over 1,800 prose words after edits: trim.

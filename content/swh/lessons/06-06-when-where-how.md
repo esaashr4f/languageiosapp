@@ -60,7 +60,7 @@ Say "do as I said".
 
 ### The negative
 
-For a negative "when" or "where" in the present, use *-si-* + the marker, as in lesson 6.4: *usipocheka* "when you don't laugh". For the past and future, and for *-me-*, Almasi and colleagues use *amba-* after a noun: *wakati ambapo hakulalamika* "at the time when he didn't complain", *mahali ambako hakwenda* "the place where he didn't go".
+For a negative "when" in the present, use *-si-* + the marker, as in lesson 6.4: *usipocheka* "when you don't laugh". For a negative "when" in the past and future, and for *-me-*, Almasi and colleagues use *amba-* after *wakati*: *wakati ambapo hakulalamika* "at the time when he didn't complain". For a negative "where" they use *mahali* + *amba-* in every tense, the present included: *mahali ambapo hainyeshi mvua* "where it does not rain", *mahali ambako hakwenda* "the place where he didn't go" (pp. 309–311).
 
 ## Examples
 

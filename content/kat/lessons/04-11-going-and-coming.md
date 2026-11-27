@@ -39,7 +39,7 @@ Notice that "I" has *v-* twice in effect: once as the subject prefix, once in *-
 - *mi-val* "I will go", *mi-xval* "you will go", *mi-va* "he will go"
 - *mi-valt*, *mi-xvalt*, *mi-vlen*
 
-The *x-* of *mixval* is the old second-person subject marker that Bolkvadze and Kiziria say survives only in "be" (*xar*) and in these forms of "come" and "go". This guide does not cut the future forms further; it glosses *mi-va* as `PV-go.3SG`.
+The *x-* of *mixval* is the old second-person subject marker. Bolkvadze and Kiziria name "be" (*xar*) and "come" (*moxval*, *moxvedi*) as the verbs that keep it; Wiktionary's tables show it in every form of this verb, *mixval* and *c̣axval* included. This guide does not cut the future forms further; it glosses *mi-va* as `PV-go.3SG`.
 
 **Two futures for "go".** Wiktionary gives *midis* two futures: *miva* "will go (to a place), will get there", and *c̣ava* "will go off, will leave". *C̣a-* means "away, off" (lesson 4-6). In practice, "I'll go to Tbilisi tomorrow" is usually *xval tbilisši c̣aval*: you set off. *Mival* stresses reaching the destination. For "come" the matching pair is *mova* "will come" and *c̣amova* "will come along, will come away (with me)".
 

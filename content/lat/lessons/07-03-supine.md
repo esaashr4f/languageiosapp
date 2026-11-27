@@ -15,7 +15,7 @@ sources: [ag1903, wiktionary, thelatinlibrary]
 
 Since part 4 you have learned every verb with a fourth principal part: *amātum*, *captum*, *vīsum*. It was called the supine, and it has worked only as a stem, for the perfect participle and the future participle. In part 6 it appeared once as a form in its own right, in the future passive infinitive *captum īrī*. This lesson explains what it is.
 
-The **supine** is a verbal noun of the fourth declension, the declension of *cursus* and *exitus* (part 3), that survives in only two cases (ag1903 §508):
+The **supine** is a verbal noun of the fourth declension, the declension of *cursus* and *exercitus* (part 3), that survives in only two cases (ag1903 §508):
 
 - an accusative in *-um*: *spectātum*, *rogātum*, *dictum*;
 - a dative or ablative in *-ū*: *dictū*, *vīsū*, *factū*.

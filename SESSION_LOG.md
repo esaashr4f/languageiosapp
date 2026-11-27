@@ -106,3 +106,14 @@ To resume: start one drafter and one verifier per language from the points above
 
 Added after the pause: the owner asked for (1) a linguistics guide (languages.json 154, qli, first after the pilot gate) and (2) living-language parts 11–13 (vocabulary core, spoken language, graded reader; BRIEF.md Amendments), to be tried on tur, swh and kat at the pilot gate. The pilot-gate step therefore becomes: cold-read and random-form checks, template revision, then design and draft parts 11–13 for tur, swh, kat, then the app.
 
+
+## Session 3, second pause (2026-11-27 02:31 GMT)
+
+Paused at the owner's request (owner's usage window resets at 02:30; do not run past an agreed stop time). State:
+
+- lat: part 7 drafted to 07-15 (the last lesson; no final report from the drafter, so check 07-13 to 07-15 are complete and mark part 7 drafted). Part 7 verification had just started (reached 07-03, nothing committed): restart it.
+- kat: part 4 drafted (27). Part 4 verification under way: corrections committed for the early lessons (it was editing 04-04); continue from 04-04.
+- tur: parts 0–4 verified, part 5 drafted (12). Part 5 verification committed through 05-03; continue from 05-04.
+- swh: parts 0–5 verified except swh-05-04 glosses. Part 6 drafted to 06-15 (06-15 was uncommitted at the stop, committed as work in progress: check it); 06-16 (review) still to write.
+- hbo: part 4 drafted to 04-19; continue from 04-20 to 04-25. Verification of 04-01 to 04-13 had started (one correction committed; an edit to 04-03 was uncommitted at the stop, committed as work in progress: recheck it).
+- san: part 3 verified. Part 4 drafted to 04-12; continue from 04-13.

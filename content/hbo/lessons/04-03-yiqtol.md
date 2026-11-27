@@ -60,7 +60,7 @@ So learn each verb's yiqtol vowel with the verb, as you learn the gender of a Fr
 
 ### The longer plural *-ûn*
 
-Instead of *-û*, the plural sometimes ends in *-ûn*, always stressed, "especially in the older books" and mostly before a pause (Gesenius §47m). The vowel before it is then often kept: *yišʾālûn* "they will ask", where the plain ending would give *yišʾălû* by pattern. Gesenius notes that *-ûn* is the regular ending in Aramaic and Arabic. In Hebrew it is an older, fuller variant with the same meaning.
+Instead of *-û*, the plural sometimes ends in *-ûn*, always stressed, "especially in the older books" and most often at a main pause, where the vowel before it is usually kept (Gesenius §47m). It also occurs out of pause: *yišʾālûn* "they will ask" (Joshua 4:6, one of Gesenius's examples), where the plain ending would give *yišʾălû* by pattern. Gesenius notes that *-ûn* is the regular ending in Aramaic and Arabic. In Hebrew it is an older, fuller variant with the same meaning.
 
 ### Building a sentence
 

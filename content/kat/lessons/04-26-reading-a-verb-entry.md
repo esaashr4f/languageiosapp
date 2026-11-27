@@ -15,7 +15,7 @@ sources: [bolkvadze2023, wiktionary, linguage]
 
 Spanish dictionaries list *escribir*, French ones *écrire*: the infinitive. Georgian has no infinitive, so dictionaries have to choose another form to list a verb under, and they do not all choose the same. The form a dictionary lists a word under is its **citation form**.
 
-This guide has followed Wiktionary: a verb is cited by its **third person singular present**, *c̣ers* "writes", and, when a verb has no present, by its third person singular future, *dalevs* "will drink" (lesson 4-25). Wiktionary also gives the **masdar**, the verbal noun (*c̣era* "writing"), which Georgian grammars call საწყისი *sac̣q̇isi*. Lingua.ge lists verbs under their masdar with a preverb, *daxaṭva* for "draw". Traditional Georgian dictionaries often arrange verbs by root or by masdar (sources.json notes this for the large Georgian-English dictionary). So to find a verb you may need to start from any of three forms.
+This guide has followed Wiktionary: a verb is cited by its **third person singular present**, *c̣ers* "writes", and, when a verb has no present, by its third person singular future, *dalevs* "will drink" (lesson 4-25). Wiktionary also gives the **masdar**, the verbal noun (*c̣era* "writing"), which Georgian grammars call საწყისი *sac̣q̇isi*. Lingua.ge lists verbs under their masdar, sometimes with a preverb (*dabruneba* "return") and sometimes without (*xaṭva* "draw"). Some printed dictionaries arrange verbs by root: Tschenkéli's Georgian-German dictionary is the best-known example. So to find a verb you may need to start from any of three forms.
 
 None of these forms tells you everything. Lesson 4-1 called the verb a row of slots; a citation form fills some of them and leaves others empty. The present has no preverb; the future has no imperfect *-d-*; the masdar has no person. That is why this guide's vocabulary notes give a small set of **principal parts**, like a Latin dictionary: present, future (which shows the preverb), aorist (which shows weak or strong, and any root change), perfect, and masdar. From those five forms, everything in part 4 lets you build all eleven screeves.
 
@@ -125,7 +125,7 @@ confidence: constructed
 ## Where it applies
 
 - **Using Wiktionary.** Look up the 3SG present (or future); the conjugation table gives every screeve, with the subject pronouns showing the series (lesson 4-8).
-- **Using lingua.ge.** Look up the masdar, often with its preverb: *daxaṭva*, *dabruneba*; the page gives all screeves and the imperative.
+- **Using lingua.ge.** Look up the masdar, with or without its preverb as the site lists it: *xaṭva*, *dabruneba*; the page gives all screeves and the imperative.
 - **Using printed dictionaries** arranged by root or masdar: strip the preverb, the version vowel and the thematic suffix to find the root (lesson 4-1).
 - **Learning new verbs:** note the five principal parts, as this guide's vocabulary does.
 - **Suppletive verbs** need all their stems (lesson 4-25).

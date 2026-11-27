@@ -331,3 +331,13 @@ Translations are always our own.
 - Wiktionary's declension table for კვალი is broken; use the headword plural კვლები.
 - Open convention: the stem extension -v- in forms like i-muša-v-a is glossed as a bare lower-case v. Decide at the pilot gate (candidates: fold into the stem, or a TS-like label).
 - Eleven part 4 teaching lessons still list fewer than 15 new words; top up at the pilot gate.
+
+
+## Notes from drafting part 5 (2026-11-27)
+
+- Glossing: separate-word postpositions as their own lower-case word (saxl-is uḳan house-GEN behind); -ze "than" glossed than (q̇vela-ze all-than); comparatives, superlatives (udides-i, uḳetes-i) and ordinals (mesame) unsegmented, no ORD/CMPR/SUPL abbreviations; -c clitic me=c 1SG=also; sami-ve three-all, xuti-ode five-about; active participles PTCP-…-PTCP (m-ḳitxv-el-i); future participles FUT.PTCP on both parts (ga-sa-ḳet-eb-el-i); privatives PRIV on both parts; masdar ending MSD; derived words glossed whole.
+- Clock minutes (სამის ოცდახუთი წუთია; აკლია) come only from course websites: labelled unverified (05-05). Verifier to look for a grammar source.
+- იცის takes an ergative subject even in the present (B&K: ყველამ იცის, მათ იციან); 04-25 and its vocab entry do not say so: fix at verification. იცნობს "knows (a person)" vs lingua.ge's ვიცნობ as the future of ცნობს: check.
+- "counts": თვლის (lingua.ge) vs Wiktionary's ითვლის; both given.
+- Hyphenated compounds (ნელ-ნელა, წერა-კითხვა) fail the scratchpad tr.py round trip (it strips hyphens); the linter accepts them.
+- Part 6 pointers: imiṭom "because" 6-10, tu "if" 6-8, subjunctive 6-7.

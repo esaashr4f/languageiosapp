@@ -165,6 +165,20 @@
    "citation": "Bolkvadze, T. and Kiziria, D. (2023). Georgian: A Comprehensive Grammar. New York: Routledge.",
    "used_for": "Reference grammar for verifying verb forms (series, screeves, inversion verbs, irregulars), case use and syntax.",
    "access": "Owner's own copy (547 pp., text PDF) in the private repo esaashr4f/polyglotsources. Check forms against it; do not copy text or examples. The owner's copy is the PDF \"Georgian, a comprehensive grammar.pdf\" in the private repository polyglotsources (local clone /home/user/polyglotsources/); checking facts only."
+  },
+  {
+   "id": "makharoblidze2012",
+   "citation": "Makharoblidze, T. (2012). ვერსიის კატეგორიის შესახებ ქართულში [On the category of version in Georgian]. Ilia State University.",
+   "url": "https://eprints.iliauni.edu.ge/3045/",
+   "used_for": "The verb treating ჩემი თავი as third person (kat-05-09).",
+   "access": "Open (Ilia State University eprints); opened 2026-11-27 by the part 5 drafter."
+  },
+  {
+   "id": "polyglotclub-time",
+   "citation": "Polyglot Club wiki, Georgian: telling the time.",
+   "url": "https://polyglotclub.com/wiki/Language/Georgian",
+   "used_for": "Clock minutes (kat-05-05); a course website, not a grammar: forms from it are labelled unverified.",
+   "access": "Open; opened 2026-11-27."
   }
  ]
 }

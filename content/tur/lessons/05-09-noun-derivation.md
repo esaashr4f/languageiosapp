@@ -121,7 +121,7 @@ confidence: constructed
 
 :::example
 orig: İki kişilik bir oda istiyoruz.
-morphemes: iki kişi-lik bir oda iste-yor-uz
+morphemes: iki kişi-lik bir oda ist-iyor-uz
 gloss: two person-for a room want-PROG-1PL
 translation: We'd like a double room.
 note: -lIK on a number and noun: "suitable for two people" (goksel2005 §15.3.5).

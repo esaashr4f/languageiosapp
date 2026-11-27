@@ -13,14 +13,14 @@ sources: [gkc1910, oshb, bdb]
 
 ## The idea
 
-Since lesson 4.4 you have used *wayyōʾmer* "and he said" and *wayyittēn* "and he gave" as words. Now you can take them apart. Both come from roots whose first letter is weak: *ʾ-m-r* and *n-t-n*. A **weak verb** is one in which a root letter assimilates, falls silent or drops out in some forms. Gesenius notes that the weakness of these two classes shows mainly in the forms with a prefix (§66a, §68a), that is, the yiqtol, wayyiqtol, jussive and cohortative, and for *n* also the imperative and infinitive. The qatal and the participle are regular: *ʾāmar*, *ʾōmēr*, *nāp̄al*, *nōp̄ēl*.
+Since lesson 4.4 you have used *wayyōʾmer* "and he said" and *wayyittēn* "and he gave" as words. Now you can take them apart. Both come from roots whose first letter is weak: *ʾ-m-r* and *n-t-n*. A **weak verb** is one in which a root letter assimilates, falls silent or drops out in some forms. In both classes the changes come in the forms with a prefix, that is, the yiqtol, wayyiqtol, jussive and cohortative, and for *n* also in the imperative and infinitive (Gesenius §66a–d, §68a–b). The qatal and the participle are regular: *ʾāmar*, *ʾōmēr*, *nāp̄al*, *nōp̄ēl*.
 
 The causes are sound changes, not new rules:
 
 - **First *n* assimilates.** When *n* closes a syllable before another consonant, it is absorbed into that consonant, which is then doubled: *yinpōl* → *yippōl* "he will fall" (Gesenius §66d). The dagesh in the second root letter is the trace of the lost *n*.
 - **First *ʾ* goes silent in five verbs.** In *ʾāmar*, *ʾāḵal*, *ʾāḇaḏ*, *ʾāḇâ* and *ʾāp̄â* the ʾ after the prefix lost its consonant value and merged with the prefix vowel: *ya-ʾ* → *yâ* → *yō* (Gesenius §68b). So *yōʾmar* "he will say", *yōʾḵal* "he will eat". The ʾ is still written, but not pronounced.
 
-All other verbs beginning with ʾ (*ʾāsap̄*, *ʾāhaḇ*, *ʾāsar*, *ʾāḥaz* mostly) behave as first-guttural verbs (lesson 4.11): *yeʾĕsōp̄*.
+Other verbs beginning with ʾ (*ʾāsap̄*, *ʾāhaḇ*, *ʾāsar*) mostly behave as first-guttural verbs (lesson 4.11): *yeʾĕsōp̄*. *ʾĀḥaz* goes both ways but mostly has *ō*: *yōʾḥēz* 18 times, *yeʾĕḥōz* 3 times (Gesenius §68b).
 
 ## How it is built
 
@@ -174,7 +174,7 @@ translit: lāṯeṯ ləḵā ʾeṯ-hāʾāreṣ hazzōʾṯ
 morphemes: lā=ṯeṯ lə-ḵā ʾeṯ hā=ʾāreṣ ha=zzōʾṯ
 gloss: to=give.INF to-2SG.M OBJ DEF=land DEF=this.F
 translation: ... to give you this land.
-note: The infinitive tēṯ, here tēṯ with segol because closely joined to the next word (Gesenius §66i cites this verse). Both n of n-t-n have gone.
+note: The infinitive tēṯ, here teṯ with segol because closely joined to the next word (Gesenius §66i cites this verse). Both n of n-t-n have gone.
 source: Genesis 15:7 (WLC)
 confidence: attested
 :::
@@ -242,7 +242,7 @@ source: gkc1910 §66, §68; oshb (yippōl 22×, yiggaš 5×, yittēn 105×, yō�
 
 ## Connections
 
-Arabic keeps the *n* of such roots: *yanzilu* "he descends", *yanṣuru* "he helps". Hebrew assimilates it, as Aramaic often does. The silent ʾ of *yōʾmar* has an Arabic parallel in spoken forms such as Moroccan *yaklu*, *yākul* "he eats" for Classical *yaʾkulu*: the glottal stop of *ʾ-k-l* weakens after the prefix in both languages.
+Arabic keeps the *n* of such roots: *yanzilu* "he descends", *yanṣuru* "he helps". Hebrew assimilates it, as Aramaic often does. Classical Arabic keeps the glottal stop after the prefix, *yaʾkulu* "he eats", where Hebrew has the silent ʾ of *yōʾḵal*.
 
 ## Exercises
 

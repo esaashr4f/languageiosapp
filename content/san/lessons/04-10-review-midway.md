@@ -168,7 +168,7 @@ confidence: attested
 
 ## Worked answers
 
-1. "Once there was a great tree in a forest." *vṛkṣaḥ* before a vowel loses its *-ḥ* and leaves a gap (san-02-06, san-03-07). *mahān*: final *-n* changes only before *c, t, j, ś, l* and vowels after a short vowel; before *v* it stands (san-04-07). *āsīt* is the imperfect of √as (san-04-03).
+1. "Once there was a great tree in a forest." *vṛkṣaḥ* before a vowel loses its *-ḥ* and leaves a gap (san-02-06, san-03-07). *mahān*: final *-n* changes only before *c, ch, ṭ, ṭh, t, th, j, ś, l* and, after a short vowel, before vowels; before *v* it stands (san-04-07). *āsīt* is the imperfect of √as (san-04-03).
 2. "The pigeons lived there happily." *ni-a-vasa-n*: prefix *ni*, augment, stem *vasa-* (class 1), 3PL *-n*. *ni* before the augment's *a* becomes *ny* (san-04-04, san-03-07).
 3. "One day a hunter came to the forest and laid a net on the ground." *āgacchaj jālaṃ* is *āgacchat jālam*: *-t* before *j* becomes *-j* (san-04-07). *ni-a-dadhā-t*: √dhā is class 3, reduplicated with the unaspirated *d* (san-04-09); the augment sits after the prefix (san-04-04).
 4. "The pigeons saw the grains of rice and, out of greed, came down to the ground." Final *-n* does not change before *bh* or after a long vowel before a vowel (*taṇḍulān apaśyan*) (san-04-07). *lobhād* is *lobhāt* before a vowel. *avātaran* = *ava-a-tara-n*, imperfect of *ava-tṝ*, the augment merging with the *a* of *ava* (san-04-04).

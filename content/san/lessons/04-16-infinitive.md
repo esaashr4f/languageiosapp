@@ -27,7 +27,7 @@ Like the absolutive, the infinitive does not change for person or number: *gantu
 
 **Step 2: *-tum* or *-itum*.** Most roots add *-tum* directly; those that take *-ita* in the participle usually take *-itum* (Whitney §968a): *patita* → *patitum*, *khādita* → *khāditum*. √bhū takes *bhavitum*. Class 10 and *-aya-* verbs keep *-aya-* and add *-itum*: *kathayitum*, *cintayitum*.
 
-**Step 3: the joins.** The root's last consonant meets *t* as in the participle (san-04-13): √dṛś → *draṣṭum* (guṇa *dar-*, written *dra-* before *ṣṭ*: a root with *ṛ* before a consonant often has *ra*), √yudh → *yoddhum*, √labh → *labdhum*, √tyaj → *tyaktum*, √vac → *vaktum*, √viś → *veṣṭum* (*praveṣṭum* "to enter"), √vas → *vastum*.
+**Step 3: the joins.** The root's last consonant meets *t* as in the participle (san-04-13): √dṛś → *draṣṭum* (guṇa with *ra* for *ar*, an irregularity of √dṛś), √yudh → *yoddhum*, √labh → *labdhum*, √tyaj → *tyaktum*, √vac → *vaktum*, √viś → *veṣṭum* (*praveṣṭum* "to enter"), √vas → *vastum*.
 
 **Common infinitives** (forms checked in Monier-Williams, Wiktionary or the GRETIL texts): *gantum*, *āgantum*, *kartum*, *draṣṭum*, *vaktum*, *śrotum*, *dātum*, *sthātum*, *bhavitum*, *labdhum*, *jetum*, *netum*, *pātum*, *hantum*, *tyaktum*, *jñātum*, *grahītum*, *yoddhum*, *prāptum*, *praveṣṭum*, *jīvitum*, *rakṣitum*, *khāditum*.
 
@@ -102,12 +102,12 @@ confidence: constructed
 :::
 
 :::example
-orig: कन्या पुष्पाणि चेतुं वनं गता
-translit: kanyā puṣpāṇi cetuṃ vanaṃ gatā
-morphemes: kany-ā puṣp-āṇi ce-tum van-am ga-tā
-gloss: girl-NOM.SG flower-ACC.PL gather-INF forest-ACC.SG go-PST.PTCP.NOM.SG.F
+orig: कन्या पुष्पाणि ग्रहीतुं वनं गता
+translit: kanyā puṣpāṇi grahītuṃ vanaṃ gatā
+morphemes: kany-ā puṣp-āṇi grahī-tum van-am ga-tā
+gloss: girl-NOM.SG flower-ACC.PL take-INF forest-ACC.SG go-PST.PTCP.NOM.SG.F
 translation: The girl has gone into the forest to pick flowers.
-note: √ci with guṇa: ce-tum.
+note: √grah has the irregular infinitive grahītum, with a long ī (Wiktionary ग्रहीतुम्).
 source: constructed
 confidence: constructed
 :::
@@ -163,7 +163,7 @@ translit: na tu māṃ śakyase draṣṭum
 morphemes: na tu mām śak-ya-se draṣ-ṭum
 gloss: not but 1SG.ACC be.able-PASS-2SG see-INF
 translation: But you cannot see me (with these eyes).
-note: Kṛṣṇa's reply. śakyase, the passive form of √śak, here used with an active sense "you are able", a usage of epic verse; the Classical prose norm is śaknoṣi.
+note: Kṛṣṇa's reply. śakyase is a passive form of √śak used here in the sense "you are able"; prose would say na śaknoṣi.
 source: Bhagavad Gītā 11.8a (GRETIL e-text bhgce)
 confidence: attested
 :::
@@ -176,7 +176,7 @@ confidence: attested
 - **Purpose with verbs of motion**: *yoddhum āgacchan*, *pātum agacchat*, *cetuṃ vanaṃ gatā* (Whitney §987).
 - **After verbs of beginning and daring**: *kartum ārabhate* "he begins to do", *ārabdhaḥ kartum* (Whitney §988).
 - **With nouns and adjectives of time, ability, fitness**: *gantuṃ kālaḥ*, *dātuṃ samarthaḥ*, *vaktum ucitam* "it is fitting to say", *śakya* "possible": *na sā śakyā netum* "she cannot be led" (Monier-Williams).
-- **In compounds with *kāma* "desire" and *manas* "mind"**: the infinitive loses its *-m*: *gantukāma* "wishing to go", *draṣṭumanas* "minded to see". These are compounds (san-05-11).
+- **In compounds with *kāma* "desire"**: the infinitive loses its *-m*: *gantukāma* "wishing to go" (san-05-11).
 
 ## Watch out
 
@@ -258,4 +258,4 @@ Latin had a supine in *-tum* from the same kind of verbal noun, used after verbs
 5. *bhavāṃs taṃ kṣantum arhati*. Polite *bhavān* takes the 3SG; *-n* before *t* → *-ṃs* (san-04-07). The infinitive of √kṣam is *kṣantum* (*m* → *n* before *t*, Monier-Williams).
 6. *idaṃ śrotuṃ na śakyate*. Passive of √śak, 3SG; *idam* is the subject (Whitney §988).
 7. Guṇa is needed: *bālaḥ śrotum icchati*.
-8. The verb must agree with *te*, the infinitive does not change: *te gantum icchanti*.
+8. The verb must agree with *te*; the infinitive does not change, and keeps *m* before a vowel: *te gantum icchanti*.

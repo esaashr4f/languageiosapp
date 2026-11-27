@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 626,
+ "count": 792,
  "words": [
   {
    "headword": "דָּבָר",
@@ -4026,11 +4026,11 @@
    "confidence": "attested"
   },
   {
-   "headword": "דִּבֶּר",
+   "headword": "דִּבֵּר",
    "translit": "dibbēr",
    "pos": "verb",
    "meaning": "speak",
-   "forms": "piel; root d-b-r; qal only as participle dōḇēr",
+   "forms": "piel; root d-b-r; qal only as participle dōḇēr; the qatal 3SG.M is usually דִּבֶּר dibber, דִּבֵּר dibbēr mainly in pause",
    "first_lesson": "hbo-04-01",
    "confidence": "attested"
   },
@@ -4405,7 +4405,7 @@
   },
   {
    "headword": "וַיְדַבֵּר",
-   "translit": "waydabbēr",
+   "translit": "wayḏabbēr",
    "pos": "verb form",
    "meaning": "and he spoke",
    "forms": "wayyiqtol of dibbēr (piel); lesson 4.21",
@@ -4981,7 +4981,7 @@
   },
   {
    "headword": "סְנֶה",
-   "translit": "sənēh",
+   "translit": "səneh",
    "pos": "noun",
    "meaning": "bush, thorn bush",
    "forms": "the burning bush",
@@ -5634,6 +5634,1500 @@
    "meaning": "here I am",
    "forms": "hinnēh + \"me\"; lesson 5.10",
    "first_lesson": "hbo-04-13",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָצָא",
+   "translit": "yāṣāʾ",
+   "pos": "verb",
+   "meaning": "go out, come out",
+   "forms": "root y-ṣ-ʾ (originally w-ṣ-ʾ); yiqtol yēṣēʾ; imperative ṣēʾ; infinitive ṣēʾṯ",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָרַד",
+   "translit": "yāraḏ",
+   "pos": "verb",
+   "meaning": "go down, come down",
+   "forms": "root y-r-d; yiqtol yērēḏ; imperative rēḏ; infinitive reḏeṯ",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָרַשׁ",
+   "translit": "yāraš",
+   "pos": "verb",
+   "meaning": "take possession of, inherit; dispossess",
+   "forms": "root y-r-š; yiqtol yîraš",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָצַק",
+   "translit": "yāṣaq",
+   "pos": "verb",
+   "meaning": "pour, cast (metal)",
+   "forms": "root y-ṣ-q",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָעַץ",
+   "translit": "yāʿaṣ",
+   "pos": "verb",
+   "meaning": "advise, counsel",
+   "forms": "root y-ʿ-ṣ; participle yôʿēṣ \"counsellor\"",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָסַף",
+   "translit": "yāsap̄",
+   "pos": "verb",
+   "meaning": "add; do again",
+   "forms": "root y-s-p; mostly in the hiphil hôsîp̄",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָטַב",
+   "translit": "yāṭaḇ",
+   "pos": "verb",
+   "meaning": "be good, go well",
+   "forms": "root y-ṭ-b; yiqtol yîṭaḇ",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָקַץ",
+   "translit": "yāqaṣ",
+   "pos": "verb",
+   "meaning": "wake up",
+   "forms": "root y-q-ṣ; wayyiqtol wayyîqaṣ",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָצַר",
+   "translit": "yāṣar",
+   "pos": "verb",
+   "meaning": "form, shape (as a potter)",
+   "forms": "root y-ṣ-r; participle yôṣēr \"potter\"",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָנַק",
+   "translit": "yānaq",
+   "pos": "verb",
+   "meaning": "suck, nurse",
+   "forms": "root y-n-q",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שֵׁנָה",
+   "translit": "šēnâ",
+   "pos": "noun",
+   "meaning": "sleep",
+   "forms": "root y-š-n",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּמָר",
+   "translit": "tāmār",
+   "pos": "proper noun",
+   "meaning": "Tamar",
+   "forms": "also a noun, \"date palm\"",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוֹד",
+   "translit": "nôḏ",
+   "pos": "proper noun",
+   "meaning": "Nod",
+   "forms": "\"wandering\"",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מוֹשָׁב",
+   "translit": "môšāḇ",
+   "pos": "noun",
+   "meaning": "seat; dwelling place",
+   "forms": "root y-š-b",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עֲבוּר",
+   "translit": "ʿăḇûr",
+   "pos": "noun",
+   "meaning": "sake, account",
+   "forms": "only in baʿăḇûr \"for the sake of, because of\"",
+   "first_lesson": "hbo-04-14",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קוּם",
+   "translit": "qûm",
+   "pos": "verb",
+   "meaning": "rise, get up, stand up",
+   "forms": "hollow; qatal qām; yiqtol yāqûm; wayyiqtol wayyāqom",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שִׂים",
+   "translit": "śîm",
+   "pos": "verb",
+   "meaning": "put, set, place",
+   "forms": "hollow; infinitive also śûm; qatal śām; yiqtol yāśîm",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שׁוּב",
+   "translit": "šûḇ",
+   "pos": "verb",
+   "meaning": "return, turn back; do again",
+   "forms": "hollow; qatal šāḇ; yiqtol yāšûḇ",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "סוּר",
+   "translit": "sûr",
+   "pos": "verb",
+   "meaning": "turn aside, leave",
+   "forms": "hollow; qatal sār",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רוּץ",
+   "translit": "rûṣ",
+   "pos": "verb",
+   "meaning": "run",
+   "forms": "hollow; qatal rāṣ",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוּס",
+   "translit": "nûs",
+   "pos": "verb",
+   "meaning": "flee",
+   "forms": "hollow; qatal nās; wayyiqtol wayyānos",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לוּן",
+   "translit": "lûn",
+   "pos": "verb",
+   "meaning": "spend the night, lodge",
+   "forms": "hollow; also lîn",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גּוּר",
+   "translit": "gûr",
+   "pos": "verb",
+   "meaning": "live as a foreigner, sojourn",
+   "forms": "hollow; noun gēr",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בּוֹשׁ",
+   "translit": "bôš",
+   "pos": "verb",
+   "meaning": "be ashamed",
+   "forms": "hollow, ô type",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שִׁית",
+   "translit": "šîṯ",
+   "pos": "verb",
+   "meaning": "put, set",
+   "forms": "hollow, î type",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רִיב",
+   "translit": "rîḇ",
+   "pos": "verb",
+   "meaning": "quarrel, contend, plead a case",
+   "forms": "hollow, î type",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "דִּין",
+   "translit": "dîn",
+   "pos": "verb",
+   "meaning": "judge, give justice",
+   "forms": "hollow, î type",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוּחַ",
+   "translit": "nûaḥ",
+   "pos": "verb",
+   "meaning": "rest, settle",
+   "forms": "hollow",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קֵץ",
+   "translit": "qēṣ",
+   "pos": "noun",
+   "meaning": "end",
+   "forms": "",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲלֻמָּה",
+   "translit": "ʾălummâ",
+   "pos": "noun",
+   "meaning": "sheaf",
+   "forms": "",
+   "first_lesson": "hbo-04-15",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּלָה",
+   "translit": "kālâ",
+   "pos": "verb",
+   "meaning": "be finished, come to an end; piel \"finish\"",
+   "forms": "root k-l-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גָּלָה",
+   "translit": "gālâ",
+   "pos": "verb",
+   "meaning": "uncover, reveal; go into exile",
+   "forms": "root g-l-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּכָה",
+   "translit": "bāḵâ",
+   "pos": "verb",
+   "meaning": "weep",
+   "forms": "root b-k-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פָּנָה",
+   "translit": "pānâ",
+   "pos": "verb",
+   "meaning": "turn",
+   "forms": "root p-n-h, as in pānîm",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָנָה",
+   "translit": "ḥānâ",
+   "pos": "verb",
+   "meaning": "camp, encamp",
+   "forms": "root ḥ-n-h; noun maḥăneh",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָחָה",
+   "translit": "māḥâ",
+   "pos": "verb",
+   "meaning": "wipe out, blot out",
+   "forms": "root m-ḥ-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָבָה",
+   "translit": "rāḇâ",
+   "pos": "verb",
+   "meaning": "be or become many, increase",
+   "forms": "root r-b-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צִוָּה",
+   "translit": "ṣiwwâ",
+   "pos": "verb",
+   "meaning": "command",
+   "forms": "piel; root ṣ-w-h; wayyiqtol wayṣaw",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עֹלָה",
+   "translit": "ʿōlâ",
+   "pos": "noun",
+   "meaning": "burnt offering",
+   "forms": "root ʿ-l-h, \"what goes up\"",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מַסֵּכָה",
+   "translit": "massēḵâ",
+   "pos": "noun",
+   "meaning": "cast image; something cast in metal",
+   "forms": "",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כִּסָּה",
+   "translit": "kissâ",
+   "pos": "verb",
+   "meaning": "cover",
+   "forms": "piel; root k-s-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָשָׁה",
+   "translit": "qāšâ",
+   "pos": "verb",
+   "meaning": "be hard, be difficult",
+   "forms": "root q-š-h; adjective qāšeh",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "זָנָה",
+   "translit": "zānâ",
+   "pos": "verb",
+   "meaning": "be unfaithful; act as a prostitute",
+   "forms": "root z-n-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גֹּפֶר",
+   "translit": "gōp̄er",
+   "pos": "noun",
+   "meaning": "gopher (an unidentified wood)",
+   "forms": "only Genesis 6:14",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הָרָה",
+   "translit": "hārâ",
+   "pos": "verb",
+   "meaning": "conceive, become pregnant",
+   "forms": "root h-r-h; wayyiqtol wattahar",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּעָה",
+   "translit": "tāʿâ",
+   "pos": "verb",
+   "meaning": "wander, go astray",
+   "forms": "root t-ʿ-h",
+   "first_lesson": "hbo-04-16",
+   "confidence": "attested"
+  },
+  {
+   "headword": "סָבַב",
+   "translit": "sāḇaḇ",
+   "pos": "verb",
+   "meaning": "go round, surround; turn",
+   "forms": "doubled root s-b-b; yiqtol yāsōḇ; adverb sāḇîḇ",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּמַם",
+   "translit": "tāmam",
+   "pos": "verb",
+   "meaning": "be complete, be finished",
+   "forms": "doubled root t-m-m; qatal tam",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָנַן",
+   "translit": "ḥānan",
+   "pos": "verb",
+   "meaning": "be gracious to, show favour",
+   "forms": "doubled root ḥ-n-n",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁמֵם",
+   "translit": "šāmēm",
+   "pos": "verb",
+   "meaning": "be desolate, be appalled",
+   "forms": "doubled root š-m-m",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָעַע",
+   "translit": "rāʿaʿ",
+   "pos": "verb",
+   "meaning": "be bad, be displeasing",
+   "forms": "doubled root r-ʿ-ʿ; wayyēraʿ bəʿênê \"it displeased\"",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָדַד",
+   "translit": "māḏaḏ",
+   "pos": "verb",
+   "meaning": "measure",
+   "forms": "doubled root m-d-d",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צֵלָע",
+   "translit": "ṣēlāʿ",
+   "pos": "noun",
+   "meaning": "rib, side",
+   "forms": "",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יוֹנָה",
+   "translit": "yônâ",
+   "pos": "noun",
+   "meaning": "dove",
+   "forms": "",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָלֶה",
+   "translit": "ʿāleh",
+   "pos": "noun",
+   "meaning": "leaf",
+   "forms": "construct ʿălēh",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "טָרָף",
+   "translit": "ṭārāp̄",
+   "pos": "adjective",
+   "meaning": "freshly plucked",
+   "forms": "",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פָּצָה",
+   "translit": "pāṣâ",
+   "pos": "verb",
+   "meaning": "open (the mouth)",
+   "forms": "root p-ṣ-h",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שַׁחַר",
+   "translit": "šaḥar",
+   "pos": "noun",
+   "meaning": "dawn",
+   "forms": "",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גְּוִיָּה",
+   "translit": "gəwiyyâ",
+   "pos": "noun",
+   "meaning": "body; corpse",
+   "forms": "",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּחַד",
+   "translit": "kāḥaḏ",
+   "pos": "verb",
+   "meaning": "hide; piel \"conceal\"",
+   "forms": "root k-ḥ-d",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָלַל",
+   "translit": "ḥālal",
+   "pos": "verb",
+   "meaning": "piel: profane, defile",
+   "forms": "doubled root ḥ-l-l; piel ḥillēl",
+   "first_lesson": "hbo-04-17",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בְּרָכָה",
+   "translit": "bərāḵâ",
+   "pos": "noun",
+   "meaning": "blessing",
+   "forms": "root b-r-k",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָרוֹם",
+   "translit": "ʿārôm",
+   "pos": "adjective",
+   "meaning": "naked",
+   "forms": "also ʿêrōm",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פְּנִנָּה",
+   "translit": "pəninnâ",
+   "pos": "proper noun",
+   "meaning": "Peninnah",
+   "forms": "",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צָלַח",
+   "translit": "ṣālaḥ",
+   "pos": "verb",
+   "meaning": "succeed, prosper; rush (of the spirit)",
+   "forms": "root ṣ-l-ḥ; cited by the root, qal qatal 3SG.M not attested; hiphil hiṣlîaḥ \"prosper\"",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רִאשׁוֹן",
+   "translit": "riʾšôn",
+   "pos": "adjective",
+   "meaning": "first, former",
+   "forms": "root r-ʾ-š, as in rōʾš",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גְּרָר",
+   "translit": "gərār",
+   "pos": "proper noun",
+   "meaning": "Gerar",
+   "forms": "",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲבִימֶלֶךְ",
+   "translit": "ʾăḇîmeleḵ",
+   "pos": "proper noun",
+   "meaning": "Abimelech",
+   "forms": "",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁאַר",
+   "translit": "šāʾar",
+   "pos": "verb",
+   "meaning": "remain, be left (niphal)",
+   "forms": "root š-ʾ-r; niphal nišʾar",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָחַל",
+   "translit": "yāḥal",
+   "pos": "verb",
+   "meaning": "wait, hope (piel, hiphil)",
+   "forms": "root y-ḥ-l",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָוָה",
+   "translit": "qāwâ",
+   "pos": "verb",
+   "meaning": "wait for, hope for (piel)",
+   "forms": "root q-w-h",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָפָא",
+   "translit": "rāp̄āʾ",
+   "pos": "verb",
+   "meaning": "heal",
+   "forms": "root r-p-ʾ",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָפַר",
+   "translit": "ḥāp̄ar",
+   "pos": "verb",
+   "meaning": "dig",
+   "forms": "root ḥ-p-r",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עָצַר",
+   "translit": "ʿāṣar",
+   "pos": "verb",
+   "meaning": "hold back, restrain, shut up",
+   "forms": "root ʿ-ṣ-r",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָבַשׁ",
+   "translit": "ḥāḇaš",
+   "pos": "verb",
+   "meaning": "bind; saddle",
+   "forms": "root ḥ-b-š",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָחַץ",
+   "translit": "māḥaṣ",
+   "pos": "verb",
+   "meaning": "strike, smash",
+   "forms": "root m-ḥ-ṣ",
+   "first_lesson": "hbo-04-18",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גֵּרֵשׁ",
+   "translit": "gērēš",
+   "pos": "verb",
+   "meaning": "drive out, banish",
+   "forms": "piel; root g-r-š",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוּעַ",
+   "translit": "nûaʿ",
+   "pos": "verb",
+   "meaning": "wander, totter, shake",
+   "forms": "hollow; participle nāʿ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוּד",
+   "translit": "nûḏ",
+   "pos": "verb",
+   "meaning": "wander, be a fugitive; nod in sympathy",
+   "forms": "hollow; participle nāḏ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "סָתַר",
+   "translit": "sāṯar",
+   "pos": "verb",
+   "meaning": "hide (niphal \"be hidden, hide oneself\")",
+   "forms": "root s-t-r",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מָלַט",
+   "translit": "mālaṭ",
+   "pos": "verb",
+   "meaning": "escape (niphal); save, let escape (piel)",
+   "forms": "root m-l-ṭ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָכַשׁ",
+   "translit": "rāḵaš",
+   "pos": "verb",
+   "meaning": "acquire (property)",
+   "forms": "root r-k-š, as in rəḵûš",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָרַב",
+   "translit": "ʾāraḇ",
+   "pos": "verb",
+   "meaning": "lie in wait, ambush",
+   "forms": "root ʾ-r-b",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "דָּרַךְ",
+   "translit": "dāraḵ",
+   "pos": "verb",
+   "meaning": "tread, march",
+   "forms": "root d-r-k, as in dereḵ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָרַב",
+   "translit": "ḥāraḇ",
+   "pos": "verb",
+   "meaning": "be dry; be laid waste",
+   "forms": "root ḥ-r-b",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יָגַע",
+   "translit": "yāḡaʿ",
+   "pos": "verb",
+   "meaning": "toil, grow weary",
+   "forms": "root y-g-ʿ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שָׁקַט",
+   "translit": "šāqaṭ",
+   "pos": "verb",
+   "meaning": "be quiet, be at peace",
+   "forms": "root š-q-ṭ",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָמֵץ",
+   "translit": "ʾāmēṣ",
+   "pos": "verb",
+   "meaning": "be strong, be bold",
+   "forms": "root ʾ-m-ṣ; ḥăzaq weʾĕmāṣ \"be strong and bold\"",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חָתַת",
+   "translit": "ḥāṯaṯ",
+   "pos": "verb",
+   "meaning": "be shattered; be dismayed",
+   "forms": "doubled root ḥ-t-t",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִשְׁכִּים",
+   "translit": "hiškîm",
+   "pos": "verb",
+   "meaning": "rise early",
+   "forms": "hiphil; root š-k-m; wayyiqtol wayyaškēm",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "טָרַף",
+   "translit": "ṭārap̄",
+   "pos": "verb",
+   "meaning": "tear (as prey)",
+   "forms": "root ṭ-r-p; Genesis 37:33 ṭārōp̄ ṭōrap̄ \"he has surely been torn\"",
+   "first_lesson": "hbo-04-19",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִלְחַם",
+   "translit": "nilḥam",
+   "pos": "verb",
+   "meaning": "fight, wage war",
+   "forms": "niphal; root l-ḥ-m, as in milḥāmâ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִשְׁבַּע",
+   "translit": "nišbaʿ",
+   "pos": "verb",
+   "meaning": "swear (an oath)",
+   "forms": "niphal; root š-b-ʿ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִחַם",
+   "translit": "niḥam",
+   "pos": "verb",
+   "meaning": "regret, be sorry; be comforted",
+   "forms": "niphal; root n-ḥ-m; piel niḥam \"comfort\"",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נֶחְבָּא",
+   "translit": "neḥbāʾ",
+   "pos": "verb",
+   "meaning": "hide oneself",
+   "forms": "niphal; root ḥ-b-ʾ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִשְׁאַר",
+   "translit": "nišʾar",
+   "pos": "verb",
+   "meaning": "remain, be left",
+   "forms": "niphal; root š-ʾ-r",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּקַע",
+   "translit": "bāqaʿ",
+   "pos": "verb",
+   "meaning": "split (qal); burst open (niphal)",
+   "forms": "root b-q-ʿ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מַעְיָן",
+   "translit": "maʿyān",
+   "pos": "noun",
+   "meaning": "spring (of water)",
+   "forms": "construct plural maʿyənōṯ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֲרֻבָּה",
+   "translit": "ʾărubbâ",
+   "pos": "noun",
+   "meaning": "window, sluice",
+   "forms": "",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מַאֲכָל",
+   "translit": "maʾăḵāl",
+   "pos": "noun",
+   "meaning": "food",
+   "forms": "root ʾ-k-l",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עֵירֹם",
+   "translit": "ʿêrōm",
+   "pos": "adjective",
+   "meaning": "naked",
+   "forms": "variant of ʿārôm",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נוֹעַץ",
+   "translit": "nôʿaṣ",
+   "pos": "verb",
+   "meaning": "consult, take counsel together",
+   "forms": "niphal of yāʿaṣ; qatal 3PL nôʿăṣû",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִצָּב",
+   "translit": "niṣṣāḇ",
+   "pos": "verb",
+   "meaning": "stand, be stationed",
+   "forms": "niphal participle and qatal; root n-ṣ-b",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִכְרַת",
+   "translit": "niḵraṯ",
+   "pos": "verb",
+   "meaning": "be cut off",
+   "forms": "niphal of kāraṯ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִגְלָה",
+   "translit": "niḡlâ",
+   "pos": "verb",
+   "meaning": "reveal oneself, appear",
+   "forms": "niphal of gālâ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִמְלַט",
+   "translit": "nimlaṭ",
+   "pos": "verb",
+   "meaning": "escape",
+   "forms": "niphal of mālaṭ",
+   "first_lesson": "hbo-04-20",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לִמַּד",
+   "translit": "limmaḏ",
+   "pos": "verb",
+   "meaning": "teach",
+   "forms": "piel of lāmaḏ",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צִדֵּק",
+   "translit": "ṣiddēq",
+   "pos": "verb",
+   "meaning": "declare righteous; justify",
+   "forms": "piel; root ṣ-d-q; citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שֵׁרֵת",
+   "translit": "šērēṯ",
+   "pos": "verb",
+   "meaning": "serve, minister",
+   "forms": "piel; root š-r-t; participle məšārēṯ \"servant\"; citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מִהַר",
+   "translit": "mihar",
+   "pos": "verb",
+   "meaning": "hurry",
+   "forms": "piel; root m-h-r; infinitive used as adverb mahēr \"quickly\"",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כִּפֶּר",
+   "translit": "kipper",
+   "pos": "verb",
+   "meaning": "make atonement",
+   "forms": "piel of k-p-r (lesson 4.5); citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "סִפֵּר",
+   "translit": "sippēr",
+   "pos": "verb",
+   "meaning": "tell, recount",
+   "forms": "piel of sāp̄ar; citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קִבֵּר",
+   "translit": "qibbēr",
+   "pos": "verb",
+   "meaning": "bury (many)",
+   "forms": "piel of qāḇar; citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "טִמֵּא",
+   "translit": "ṭimmēʾ",
+   "pos": "verb",
+   "meaning": "make unclean; declare unclean",
+   "forms": "piel of ṭāmēʾ",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "טִהַר",
+   "translit": "ṭihar",
+   "pos": "verb",
+   "meaning": "cleanse; declare clean",
+   "forms": "piel of ṭāhēr; citation form by pattern",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "בָּמָה",
+   "translit": "bāmâ",
+   "pos": "noun",
+   "meaning": "high place, shrine",
+   "forms": "plural bāmôṯ",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "מַצֵּבָה",
+   "translit": "maṣṣēḇâ",
+   "pos": "noun",
+   "meaning": "standing stone, sacred pillar",
+   "forms": "root n-ṣ-b",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שֵׁת",
+   "translit": "šēṯ",
+   "pos": "proper noun",
+   "meaning": "Seth",
+   "forms": "",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שְׁבִיעִי",
+   "translit": "šəḇîʿî",
+   "pos": "adjective",
+   "meaning": "seventh",
+   "forms": "lesson 5.4",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כִּהֵן",
+   "translit": "kihēn",
+   "pos": "verb",
+   "meaning": "act as priest",
+   "forms": "piel; denominative from kōhēn",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קִנֵּא",
+   "translit": "qinnēʾ",
+   "pos": "verb",
+   "meaning": "be jealous, be zealous",
+   "forms": "piel; root q-n-ʾ, as in qannôʾ",
+   "first_lesson": "hbo-04-21",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִמְטִיר",
+   "translit": "himṭîr",
+   "pos": "verb",
+   "meaning": "send rain, rain",
+   "forms": "hiphil; denominative from māṭār",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִבְדִּיל",
+   "translit": "hiḇdîl",
+   "pos": "verb",
+   "meaning": "separate, divide",
+   "forms": "hiphil; root b-d-l",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִשְׁחִית",
+   "translit": "hišḥîṯ",
+   "pos": "verb",
+   "meaning": "destroy, ruin",
+   "forms": "hiphil; root š-ḥ-t; piel šiḥēṯ in the same sense",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִשְׁמִיד",
+   "translit": "hišmîḏ",
+   "pos": "verb",
+   "meaning": "destroy, exterminate",
+   "forms": "hiphil; root š-m-d",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִמְלִיךְ",
+   "translit": "himlîḵ",
+   "pos": "verb",
+   "meaning": "make king",
+   "forms": "hiphil of mālaḵ",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִגְדִּיל",
+   "translit": "hiḡdîl",
+   "pos": "verb",
+   "meaning": "make great, magnify",
+   "forms": "hiphil of gāḏal",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִגִּיד",
+   "translit": "higgîḏ",
+   "pos": "verb",
+   "meaning": "tell, report",
+   "forms": "hiphil; root n-g-d; hophal huggaḏ",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֶאֱזִין",
+   "translit": "heʾĕzîn",
+   "pos": "verb",
+   "meaning": "listen, give ear",
+   "forms": "hiphil; from ʾōzen \"ear\"",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּמִים",
+   "translit": "tāmîm",
+   "pos": "adjective",
+   "meaning": "complete, whole; without blemish",
+   "forms": "root t-m-m",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חוֹמָה",
+   "translit": "ḥômâ",
+   "pos": "noun",
+   "meaning": "wall (of a city)",
+   "forms": "",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שִׂיחַ",
+   "translit": "śîaḥ",
+   "pos": "noun",
+   "meaning": "shrub, bush",
+   "forms": "",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "צָמַח",
+   "translit": "ṣāmaḥ",
+   "pos": "verb",
+   "meaning": "sprout, grow",
+   "forms": "root ṣ-m-ḥ; hiphil \"make grow\"",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "קָרְבָּן",
+   "translit": "qorbān",
+   "pos": "noun",
+   "meaning": "offering",
+   "forms": "root q-r-b",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רָצוֹן",
+   "translit": "rāṣôn",
+   "pos": "noun",
+   "meaning": "favour, acceptance; will",
+   "forms": "",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִשְׁמִיעַ",
+   "translit": "hišmîaʿ",
+   "pos": "verb",
+   "meaning": "proclaim, make heard",
+   "forms": "hiphil of šāmaʿ",
+   "first_lesson": "hbo-04-22",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְהַלֵּךְ",
+   "translit": "hiṯhallēḵ",
+   "pos": "verb",
+   "meaning": "walk about, go about; live (in a certain way)",
+   "forms": "hithpael of hālaḵ",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְפַּלֵּל",
+   "translit": "hiṯpallēl",
+   "pos": "verb",
+   "meaning": "pray, intercede",
+   "forms": "hithpael; root p-l-l",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְנַבֵּא",
+   "translit": "hiṯnabbēʾ",
+   "pos": "verb",
+   "meaning": "prophesy, act as a prophet",
+   "forms": "hithpael; root n-b-ʾ, as in nāḇîʾ",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְיַצֵּב",
+   "translit": "hiṯyaṣṣēḇ",
+   "pos": "verb",
+   "meaning": "take one's stand, stand firm",
+   "forms": "hithpael; root y-ṣ-b",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְאַבֵּל",
+   "translit": "hiṯʾabbēl",
+   "pos": "verb",
+   "meaning": "mourn",
+   "forms": "hithpael; root ʾ-b-l",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִשְׁתַּחֲוָה",
+   "translit": "hištaḥăwâ",
+   "pos": "verb",
+   "meaning": "bow down, worship",
+   "forms": "wayyiqtol wayyištaḥû; analysis debated",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְעַצֵּב",
+   "translit": "hiṯʿaṣṣēḇ",
+   "pos": "verb",
+   "meaning": "be grieved",
+   "forms": "hithpael; root ʿ-ṣ-b",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֶחֱלִיף",
+   "translit": "heḥĕlîp̄",
+   "pos": "verb",
+   "meaning": "change, exchange",
+   "forms": "hiphil; root ḥ-l-p",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שִׂמְלָה",
+   "translit": "śimlâ",
+   "pos": "noun",
+   "meaning": "garment, cloak",
+   "forms": "plural śəmālôṯ, construct śimlōṯ",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יְשׁוּעָה",
+   "translit": "yəšûʿâ",
+   "pos": "noun",
+   "meaning": "deliverance, salvation",
+   "forms": "root y-š-ʿ",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "נִפְלָאוֹת",
+   "translit": "nip̄lāʾôṯ",
+   "pos": "noun",
+   "meaning": "wonders, wonderful deeds",
+   "forms": "niphal participle of p-l-ʾ",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שֶׁבֶר",
+   "translit": "šeḇer",
+   "pos": "noun",
+   "meaning": "grain (for sale)",
+   "forms": "Genesis 42:1",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִתְחַזֵּק",
+   "translit": "hiṯḥazzēq",
+   "pos": "verb",
+   "meaning": "take courage, strengthen oneself",
+   "forms": "hithpael of ḥāzaq; wayyiṯḥazzēq",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "גְּבִיעַ",
+   "translit": "gāḇîaʿ",
+   "pos": "noun",
+   "meaning": "cup, goblet",
+   "forms": "",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חֶבֶל",
+   "translit": "ḥeḇel",
+   "pos": "noun",
+   "meaning": "band, company; cord",
+   "forms": "",
+   "first_lesson": "hbo-04-23",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִכָּה",
+   "translit": "hikkâ",
+   "pos": "verb",
+   "meaning": "strike, smite, kill",
+   "forms": "hiphil; root n-k-h; wayyiqtol wayyaḵ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הוֹצִיא",
+   "translit": "hôṣîʾ",
+   "pos": "verb",
+   "meaning": "bring out, lead out",
+   "forms": "hiphil of yāṣāʾ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵבִיא",
+   "translit": "hēḇîʾ",
+   "pos": "verb",
+   "meaning": "bring, bring in",
+   "forms": "hiphil of bôʾ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵשִׁיב",
+   "translit": "hēšîḇ",
+   "pos": "verb",
+   "meaning": "bring back, return; answer",
+   "forms": "hiphil of šûḇ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵקִים",
+   "translit": "hēqîm",
+   "pos": "verb",
+   "meaning": "set up, raise; establish",
+   "forms": "hiphil of qûm",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵמִית",
+   "translit": "hēmîṯ",
+   "pos": "verb",
+   "meaning": "kill, put to death",
+   "forms": "hiphil of mûṯ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵסִיר",
+   "translit": "hēsîr",
+   "pos": "verb",
+   "meaning": "remove, take away",
+   "forms": "hiphil of sûr",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הוֹשִׁיעַ",
+   "translit": "hôšîaʿ",
+   "pos": "verb",
+   "meaning": "save, deliver",
+   "forms": "hiphil; root y-š-ʿ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הוֹלִיד",
+   "translit": "hôlîḏ",
+   "pos": "verb",
+   "meaning": "father, beget",
+   "forms": "hiphil of yālaḏ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִבִּיט",
+   "translit": "hibbîṭ",
+   "pos": "verb",
+   "meaning": "look, gaze",
+   "forms": "hiphil; root n-b-ṭ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִצִּיל",
+   "translit": "hiṣṣîl",
+   "pos": "verb",
+   "meaning": "rescue, deliver",
+   "forms": "hiphil; root n-ṣ-l",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֶעֱלָה",
+   "translit": "heʿĕlâ",
+   "pos": "verb",
+   "meaning": "bring up; offer (a sacrifice)",
+   "forms": "hiphil of ʿālâ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֵכִין",
+   "translit": "hēḵîn",
+   "pos": "verb",
+   "meaning": "prepare, establish",
+   "forms": "hiphil; root k-w-n; niphal nāḵôn",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הִרְבָּה",
+   "translit": "hirbâ",
+   "pos": "verb",
+   "meaning": "multiply, make many",
+   "forms": "hiphil of rāḇâ",
+   "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חוֹל",
+   "translit": "ḥôl",
+   "pos": "noun",
+   "meaning": "sand",
+   "forms": "",
+   "first_lesson": "hbo-04-24",
    "confidence": "attested"
   }
  ]

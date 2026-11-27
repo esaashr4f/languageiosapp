@@ -429,3 +429,13 @@ Say so in the lesson when one of these comes up.
 - Scholars behind the discourse view of the verb and the debate over stem meanings are not named (names unverified in this dossier). ʾēḏ (Gen 2:6) left open; "mist" given as the traditional rendering.
 - WLC extraordinary dots (Gen 16:5, 37:12) dropped from orig and noted. Gen 22:12 has מְאוּמָּה with dagesh (elsewhere מְאוּמָה).
 - Gesenius sections are cached in the scratchpad (p4hbo/g/); §54, §56, §59, §62, §70, §73 failed (Wikisource HTTP 429) and are needed for 04-14 and 04-15.
+
+
+## Notes from drafting part 4, lessons 04-14 to 04-25 (2026-11-27)
+
+- Derived stems glossed meaning.STEM.CONJUGATION.PERSON (bury.NIPH.3SG.M; make.holy.HITP.IMP.2PL.M; throw.HOPH.PTCP.SG.M). Object suffix on weqatal WQTL-guard.1SG-2SG.M; suffixed 3SG.F qatal eat.QTL.3SG.F-3SG.M.
+- Transliteration: article + yə- shewa treated as vocal (hayəlāḏîm) — new, verifier to confirm. Spirants follow WLC pointing even after shewa (yaharḡēnî, hiṯyaṣḇû, šiḵḇî). Doubling after maqqef written double (-nnāʾ, -zzōʾṯ, -llô).
+- Stated as disputed: hištaḥăwâ (HITP-type of š-ḥ-h vs a stem of ḥ-w-h, OSHB); Gen 12:3 wəniḇrəḵû passive or reflexive; Exod 3:14 left open; yullaḏ, luqqaḥ glossed PUAL (OSHB) though Gesenius §52e calls them old qal passives; Gen 22:13 ʾaḥar vs ʾeḥāḏ (witnesses not checked). Piel citation forms without attested 3SG.M qatal marked "citation form by pattern".
+- mûṯ is still listed under the qatal mēṯ (lesson 2.6); no separate headword.
+- Forward pointers made: 5.2, 5.4, 5.8, 5.10, 6.1, 6.2, 6.4, 6.5, 6.7, 7.1, 7.2 (polel, qal passive), 7.4 (puncta extraordinaria), 7.5–7.7, 8.4 (Gen 22:1–8 beside the review passage 22:9–13).
+- 04-01 (1,810) and 04-06 (1,878) are over the 1,800 prose-word limit after verification edits: trim at the pilot gate.

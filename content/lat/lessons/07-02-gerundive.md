@@ -96,7 +96,7 @@ morphemes: nōbīs e-und-um est
 gloss: 1PL.DAT go-GERV-NOM.SG.N be.3SG
 literal: To us there is to be going.
 translation: We must go.
-note: An intransitive verb: impersonal neuter, no subject. Older -und- appears in eundum (Wiktionary).
+note: An intransitive verb: impersonal neuter, no subject. eō has -und- here: eundum, as in its gerund eundī (Wiktionary).
 source: constructed
 confidence: constructed
 :::
@@ -210,7 +210,7 @@ confidence: constructed
 
 **Do not give the deponent gerundive an active meaning.** *Hortandus* is "to be urged", not "urging". "Urging" is *hortāns*, and "of urging" is the gerund *hortandī*.
 
-**Do not try to use *habeō* + infinitive for "I have to".** *\*Habeō epistulam scrībere* imitates Spanish *tengo que escribir* or English "I have to write". Classical Latin says *mihi epistula scrībenda est*. *Habeō* with a gerundive does exist, but means "have something to do": *aedem habuit tuendam*.
+**Do not try to use *habeō* + infinitive for "I have to".** *\*Habeō epistulam scrībere* imitates Spanish *tengo que escribir* or English "I have to write". Classical Latin says *mihi epistula scrībenda est*. *Habeō* with a gerundive does exist, but means "have something to do": *aedem habuit tuendam*. *Habeō* + infinitive is found a few times in Cicero, but in the sense "have something to say", not of obligation: *tantum habeō pollicērī* "so much I have to promise" (ag1903 §460a).
 
 ## Reference table
 

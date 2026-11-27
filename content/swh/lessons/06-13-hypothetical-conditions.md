@@ -114,7 +114,7 @@ confidence: constructed
 :::example
 orig: Ningekuwa daktari, ningalikutibu.
 morphemes: ni-nge-ku-w-a daktari ni-ngali-ku-tibu
-gloss: 1SG.SM-COND-KU-be-FV doctor.C9 1SG.SM-CTRF-2SG.OM-treat
+gloss: 1SG.SM-COND-KU-be-FV doctor.C5 1SG.SM-CTRF-2SG.OM-treat
 translation: If I were a doctor, I would have treated you.
 note: Mixed the other way. Here -ku- is the object prefix "you", not the ku of short verbs.
 source: constructed

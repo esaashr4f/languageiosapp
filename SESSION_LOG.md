@@ -117,3 +117,14 @@ Paused at the owner's request (owner's usage window resets at 02:30; do not run 
 - swh: parts 0–5 verified except swh-05-04 glosses. Part 6 drafted to 06-15 (06-15 was uncommitted at the stop, committed as work in progress: check it); 06-16 (review) still to write.
 - hbo: part 4 drafted to 04-19; continue from 04-20 to 04-25. Verification of 04-01 to 04-13 had started (one correction committed; an edit to 04-03 was uncommitted at the stop, committed as work in progress: recheck it).
 - san: part 3 verified. Part 4 drafted to 04-12; continue from 04-13.
+
+## Session 3, run to 07:30 GMT (2026-11-27) — state at 06:20, in case usage runs out
+
+Running when written (each commits per lesson; resume from the last committed file):
+- lat: all 105 lessons written. Verifying part 7 (one agent) and parts 8–9 (another). When both report, lat is fully verified (parts 0–6 already are).
+- tur: parts 0–5 verified. Drafting part 6.
+- swh: parts 0–6 verified. Drafting part 7.
+- kat: parts 0–4 verified. Drafting part 5.
+- hbo: parts 0–4 verified. Drafting part 5.
+- san: parts 0–3 and 04-01 to 04-16 verified. Drafting part 4 (to about 04-19); its verifier follows behind.
+If agents stopped without reporting: check git log per language for the last lesson committed, commit any partial file as work in progress, and restart that step from the next lesson.

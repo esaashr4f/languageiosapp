@@ -175,7 +175,7 @@ confidence: attested
 - **Reciprocal:** *tiṯrāʾû* (§54f).
 - **For oneself:** *hiṯhallēḵ*, *hiṯpallēl*, *hiṯyaṣṣēḇ* "station oneself".
 - **Mourning and feelings:** *hiṯʾabbēl* "mourn" (1 Samuel 15:35), *wayyiṯʿaṣṣēḇ* "he was grieved" (Genesis 6:6).
-- **Late and rare passives:** the hothpaal *hoṯpāqəḏû* "they were mustered" (lesson 4.1).
+- **Late and rare passives:** the hothpaal *hoṯpāqəḏû* "they were mustered" (Gesenius §54l; compare lesson 4.1).
 
 ## Watch out
 
@@ -194,10 +194,10 @@ confidence: attested
 :::table
 caption: The hithpael (hiṯhallēḵ, hiṯqaddēš)
 confidence: verified
-source: gkc1910 §54; oshb (hiṯhallēḵ 2×, wayyiṯhallēḵ 5×, yiṯhallēḵ 1×, miṯhallēḵ 8× per dossier; hiṯqaddəšû 5×, wayyiṯqaddəšû 4×, ləhiṯqaddēš 1×; others in the examples)
+source: gkc1910 §54; oshb (hiṯhallēḵ 2×, both imperatives; qatal 3SG.M only as hiṯhalleḵ- before maqqef, 2×; wayyiṯhallēḵ 5×, yiṯhallēḵ 1×, miṯhallēḵ 8× per dossier; hiṯqaddəšû 5× as imperative, 1× as qatal, wayyiṯqaddəšû 4×, ləhiṯqaddēš 1×; others in the examples)
 | Form | Hebrew | Translit |
 |---|---|---|
-| qatal 3SG.M | הִתְהַלֵּךְ | hiṯhallēḵ |
+| qatal 3SG.M | הִתְהַלֵּךְ | hiṯhallēḵ (by pattern; attested הִתְהַלֶּךְ־ hiṯhalleḵ-, Genesis 6:9) |
 | qatal 3PL | הִתְקַדְּשׁוּ | hiṯqaddəšû |
 | yiqtol 3SG.M | יִתְהַלֵּךְ | yiṯhallēḵ |
 | wayyiqtol 3SG.M | וַיִּתְהַלֵּךְ | wayyiṯhallēḵ |

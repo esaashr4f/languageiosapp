@@ -70,7 +70,7 @@ morphemes: is di-ēs erat ante di-em quīnt-um Kalend-ās Aprīl-ēs Lūci-ō P�
 gloss: that.NOM.SG.M day-NOM.SG be.IPFV.3SG before day-ACC.SG fifth-ACC.SG.M Kalends-ACC.PL April-ACC.PL.F Lucius-ABL.SG Piso-ABL.SG Aulus-ABL.SG Gabinius-ABL.SG consul-ABL.PL
 translation: That day was 28 March, in the consulship of Lucius Piso and Aulus Gabinius.
 note: The day the Helvetii set for their march. Date and year in Roman form; the morphemes give the expansion (ag1903 §424g).
-source: Caesar, Gallic War 1.6.4
+source: Caesar, Gallic War 1.6
 confidence: attested
 :::
 
@@ -95,7 +95,7 @@ confidence: attested
 :::
 
 :::example
-orig: Summa erat capitum Helvētiōrum mīlium CCLXIII, Tulingōrum mīlium XXXVI, Latobrigōrum XIIII.
+orig: Summa erat capitum Helvētiōrum mīlium CCLXIII, Tulingōrum mīlium XXXVI, Latobrigōrum XIIII …
 morphemes: summ-a erat capit-um Helvēti-ōrum mīl-ium CCLXIII Tuling-ōrum mīl-ium XXXVI Latobrig-ōrum XIIII
 gloss: total-NOM.SG be.IPFV.3SG head-GEN.PL Helvetian-GEN.PL thousand-GEN.PL 263 Tulingian-GEN.PL thousand-GEN.PL 36 Latobrigian-GEN.PL 14
 translation: The total was 263,000 heads of Helvetii, 36,000 of Tulingi, 14,000 of Latobrigi.
@@ -158,10 +158,10 @@ confidence: constructed
 
 - **The fixed days** in the ablative: *Kalendīs*, *Nōnīs*, *Īdibus*, with the month adjective agreeing.
 - **The day before** with *prīdiē* + accusative; the day after with *postrīdiē* + accusative.
-- **Other days**: *ante diem* + ordinal + accusative, abbreviated *a. d.*; or the ordinal alone: *XV Kal. Sextīlis* (ag1903 §424g).
+- **Other days**: *ante diem* + ordinal + accusative, abbreviated *a. d.*; or the ordinal alone: *XV Kal. Sextīlīs* (ag1903 §424g).
 - **After a preposition**: *in ante diem V Kalendās Novembrīs* "to 28 October" (Cicero, quoted in ag1903 §424g): the whole phrase behaves like a noun.
 - **Month names** are adjectives: *Iānuārius*, *Februārius*, *Mārtius*, *Aprīlis*, *Maius*, *Iūnius*, *Iūlius* (*Quīntīlis* before 46 BC), *Augustus* (*Sextīlis* before Augustus), *September*, *Octōber*, *November*, *December* (bennett1918 §371.1; ag1903 §630).
-- **Years**: consuls in the ablative absolute; *a.u.c.* in later writers and editors' notes; in leap years 24 February was counted twice, hence *bissextilis* (ag1903 §630).
+- **Years**: consuls in the ablative absolute; *a.u.c.* in later writers and editors' notes; in leap years 24 February was counted twice, hence *bissextīlis* (ag1903 §630).
 - **Editors' date lines**: modern editions head letters with *Scr. … a. d. VI Kal. Dec. a.u.c. 696*, "written … on 26 November 58 BC". *Scr.* is *scrīpta* "written".
 
 **Numerals**
@@ -274,4 +274,4 @@ The month names have close parallels in Spanish, French and English. *September*
 7. 1999: *MCMXCIX* (or *MDCCCCLXXXXVIIII*). 44: *XLIV* (or *XXXXIIII*).
 8. 754 − 709 = 45 BC (ag1903 §630).
 9. Counting includes both ends: the day before the Ides counts as the second day before, which has its own name *prīdiē*; the day before that is the third (bennett1918 §371.4).
-10. "In the consulship of Lucius Piso and Aulus Gabinius": an ablative absolute of nouns without a participle (part 6, lesson 4; ag1903 §424g).
+10. "In the consulship of Lucius Piso and Aulus Gabinius": an ablative absolute of nouns without a participle (part 6, lesson 4; ag1903 §419a).

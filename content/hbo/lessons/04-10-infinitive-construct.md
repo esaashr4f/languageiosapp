@@ -15,7 +15,7 @@ sources: [gkc1910, oshb, bdb]
 
 English uses "to guard" after verbs and for purpose: "he went to guard". Hebrew has a form that does this, the **infinitive construct**: *šəmōr*, usually with a preposition in front: *lišmōr* "to guard".
 
-The name tells you how it behaves. It is an infinitive, a noun naming the action. And it is *construct*: like a noun in the construct state, it can be bound to what follows it, either the doer or the thing done, and it can take a suffix. *Šomrô* is "his guarding". Gesenius calls it a verbal noun "of a much more flexible character" than the other infinitive (§114a). Its suffixes are normally those of nouns, which can name either the doer or the thing done (§61a), the infinitive absolute, which lesson 7.3 teaches.
+The name tells you how it behaves. It is an infinitive, a noun naming the action. And it is *construct*: like a noun in the construct state, it can be bound to what follows it, either the doer or the thing done, and it can take a suffix. *Šomrô* is "his guarding". Gesenius calls it a verbal noun "of a much more flexible character" than the other infinitive, the infinitive absolute, which lesson 7.3 teaches (§114a). Its suffixes are normally those of nouns, and can name either the doer or the thing done (§61a).
 
 Because it is a noun, it goes where nouns go: after prepositions. That gives Hebrew a compact way to say things English says with whole clauses:
 
@@ -57,7 +57,7 @@ Before *-ḵā* and *-ḵem* a guttural gives *ă*: *bəḇorḥăḵā*.
 
 ### Weak verbs
 
-Many common verbs have infinitives that look quite different: *lirʾōṯ* "to see" (*r-ʾ-h*), *laʿăśôṯ* "to do" (*ʿ-ś-h*), *lāḇôʾ* "to come" (*b-w-ʾ*), *lāṯeṯ* "to give" (*n-t-n*), *lāleḵeṯ* "to go" (*h-l-k*), *lāšeḇeṯ* "to sit" (*y-š-b*), *hĕyôṯ* "being" (*h-y-h*). Learn them now; lessons 4.13 to 4.18 explain them.
+Many common verbs have infinitives that look quite different: *lirʾōṯ* "to see" (*r-ʾ-h*), *laʿăśôṯ* "to do" (*ʿ-ś-h*), *lāḇôʾ* "to come" (*b-w-ʾ*), *lāṯēṯ* "to give" (*n-t-n*), *lāleḵeṯ* "to go" (*h-l-k*), *lāšeḇeṯ* "to sit" (*y-š-b*), *hĕyôṯ* "being" (*h-y-h*). Learn them now; lessons 4.13 to 4.18 explain them.
 
 The commonest of all is ***lēʾmōr***, *lə-* + *ʾĕmōr* "to say", with the ʾ silent. It introduces direct speech and means "saying", or acts as a colon: *wayḇāreḵ ʾōṯām ʾĕlōhîm lēʾmōr* "God blessed them, saying ...".
 
@@ -105,7 +105,7 @@ morphemes: way-yanniḥē-hû ḇə=ḡan ʿēḏen lə=ʿoḇd-āh û=lə=šomr
 gloss: WAYY-put.HIPH.3SG.M-3SG.M in=garden.CSTR Eden to=work.INF-3SG.F and=to=guard.INF-3SG.F
 literal: And-he-put-him in-the-garden-of Eden to-work-it and-to-keep-it.
 translation: He put him in the garden of Eden to work it and look after it.
-note: Two infinitives with an object suffix, "it", referring to the garden (gan is feminine here). Before a suffix the infinitive has the shape qoṭl-: šomr-, ʿoḇd-. The first verb is a hiphil with an object suffix (lessons 4.19, 4.24). Preview of HIPH.
+note: Two infinitives with an object suffix, "it", referring to the garden (gan is masculine elsewhere but feminine here, BDB). Before a suffix the infinitive has the shape qoṭl-: šomr-, ʿoḇd-. The first verb is a hiphil with an object suffix (lessons 4.19, 4.24). Preview of HIPH.
 source: Genesis 2:15 (WLC)
 confidence: attested
 preview: HIPH

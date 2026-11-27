@@ -252,7 +252,6 @@ tuzo | - | noun | prize, award | 9/10, pl. tuzo
 mashindano | - | noun | competition, contest | 6, plural only; from -shindana
 hotuba | - | noun | speech, address | 9/10, pl. hotuba; loan from Arabic
 kozi | - | noun | course (of study) | 9/10, pl. kozi; loan from English
-filamu | - | noun | film | 9/10, pl. filamu
 -hama | - | verb | move away, move house | kuhama
 -pendekeza | - | verb | propose, recommend | kupendekeza
 -tangaza | - | verb | announce; advertise | kutangaza

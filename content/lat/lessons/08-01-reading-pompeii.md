@@ -38,12 +38,12 @@ confidence: attested
 :::
 
 :::example
-orig: Quisquis ama valia, peria qui nosci amare; bis tanti peria, quisquis amare vota.
+orig: Quisquis ama valia, peria qui nosci amare, bis tanti peria, quisquis amare vota.
 morphemes: quisquis ama valia peria qui nosci amare bis tanti peria quisquis amare vota
 gloss: whoever.NOM.SG love.3SG fare.well.SBJV.3SG perish.SBJV.3SG REL.NOM.SG.M not.know.3SG love.INF twice so.much.GEN perish.SBJV.3SG whoever.NOM.SG love.INF forbid.3SG
 translation: Good luck to anyone who loves; death to anyone who doesn't know how; and twice over death to anyone who forbids love.
 note: An elegiac couplet in street spelling. Classical: quisquis amat valeat, pereat quī nescit amāre; bis tantī pereat quisquis amāre vetat. Final -t has gone (ama, valia, peria, nosci, vota), and e before a vowel is written i (valia for valeat). bis tantī is a genitive of value, "at twice the price". The wall goes on with more lines, not given here.
-source: The Latin Library, Inscriptiones parietariae, Pompeii no. 594 (CIL IV 1173 in two secondary sources)
+source: The Latin Library, Inscriptiones parietariae, Pompeii no. 594; CIL IV 1173
 confidence: attested
 :::
 
@@ -99,11 +99,11 @@ confidence: attested
 
 ## Reading notes
 
-**The election poster** shows how much a Roman reader filled in. Seven of its words are abbreviations, and every voter could expand *O V F* at a glance. Read the expanded version first, then the abbreviated one, until the letters alone carry the words.
+**The election poster** shows how much a Roman reader filled in. Nine of its words are abbreviations, and every voter could expand *O V F* at a glance. Read the expanded version first, then the abbreviated one, until the letters alone carry the words.
 
 **The love couplet** is a hexameter and a pentameter, though the spelling hides it: restore the classical forms before you try to scan. The writers knew the shape of elegy (part 7, lesson 9) even if they spelled by ear. The dropped *-t* has a parallel in Spanish and Italian *ama* "he loves".
 
-**The innkeeper couplet** is regular once *medacia* is read as *mendācia* and *copo* as *caupō*.
+**The innkeeper couplet** has a regular hexameter once *medacia* is read as *mendācia* and *copo* as *caupō*. Its pentameter does not scan even in classical spelling: the second half must open with a long syllable, and *bibis* opens with two short ones. Verse on walls is often rough.
 
 **The date note** mixes the Roman calendar with a named day of the week. Wiktionary derives French *jeudi* from *Iovis diēs*. How the seven-day week came into Roman use is not explained here.
 

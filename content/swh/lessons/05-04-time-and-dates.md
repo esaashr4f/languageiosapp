@@ -19,7 +19,7 @@ Three things in this lesson look odd from outside and are completely regular fro
 
 **The clock starts at dawn.** Almasi and colleagues explain it by geography. Near the equator the sun rises at about six and sets at about six all year. So the day's first hour ends at seven in the morning, and seven o'clock is *saa moja* "hour one". Counting goes on to *saa kumi na mbili* "hour twelve" at six in the evening; then the night's hours start again at *saa moja*. Swahili time is English time minus six: *saa mbili* is eight o'clock, *saa sita* is noon or midnight.
 
-**The week starts on Saturday.** *Jumamosi* "Saturday" is *juma* "week" + *mosi*, an old form of "one" (Wiktionary). Sunday is "week two", *Jumapili*, Monday "week three", *Jumatatu*, and so on to Wednesday, *Jumatano*. Thursday and Friday keep their Arabic names, *Alhamisi* (*al-ḵamīs* "the fifth") and *Ijumaa* (*al-jumʕa*, the day of congregation). *Juma* itself is from Arabic *jumʕa* (Wiktionary), the same word as *Ijumaa*.
+**The week starts on Saturday.** *Jumamosi* "Saturday" is *juma* "week" + *mosi*, an inherited Bantu word for "one" that survives beside *-moja* (Wiktionary). Sunday is "week two", *Jumapili*, Monday "week three", *Jumatatu*, and so on to Wednesday, *Jumatano*. Thursday and Friday keep their Arabic names, *Alhamisi* (*al-ḵamīs* "the fifth") and *Ijumaa* (*al-jumʕa*, the day of congregation). *Juma* itself is from Arabic *jumʕa* (Wiktionary), the same word as *Ijumaa*.
 
 ## How it is built
 
@@ -48,7 +48,7 @@ Say "it is 8.30 in the morning".
 3. Which part of the day: *asubuhi*.
 4. "It is": *ni*. *Ni saa mbili na nusu asubuhi.*
 
-Minutes and quarters are added with *na* or taken off the next hour with *kasoro* "less" (Almasi and colleagues): *saa tatu na robo* 9.15, *saa nne kasoro robo* 9.45, *saa nne kasoro dakika tano* 9.55. *Kamili* "complete" (lesson 5.1) gives "exactly": *saa tano kamili* 11 o'clock sharp.
+Minutes and quarters are added with *na* or taken off the next hour with *kasoro* "less" (Almasi and colleagues): *saa tatu na robo* 9.15, *saa nne kasoro robo* 9.45, *saa nne kasoro dakika tano* 9.55. Almasi and colleagues add that *kasoro robo* is often contracted to one word, *kasorobo*: *saa sita kasorobo usiku* 11.45 p.m. *Kamili* "complete" (lesson 5.1) gives "exactly": *saa tano kamili* 11 o'clock sharp.
 
 The part of the day replaces a.m. and p.m. Almasi and colleagues give: *asubuhi* from 6 to noon, *mchana* from noon to 5, *jioni* from 5 to 7, *usiku* from 7 at night to 6 in the morning.
 
@@ -175,7 +175,7 @@ confidence: constructed
 - **Days of the week**, alone or with demonstratives: *Jumatatu*, *Jumatatu hii*, *Jumatatu ijayo* "next Monday" (like *wiki ijayo*, lesson 4.3), *siku ya Jumatatu*.
 - **Relative days** with no preposition: *leo*, *jana*, *juzi*, *kesho*, *kesho kutwa* (known); Almasi and colleagues add *mtondo* "in three days".
 - **Months**: *Aprili*, *mwezi wa Aprili*, *mwezi wa nne*. With *mwezi* in front, agreement goes with *mwezi*, class 3 (Almasi and colleagues).
-- **Dates**: *tarehe mbili* or *tarehe ya pili* "the second"; for the first, *tarehe mosi* is also heard (Almasi and colleagues). Order: day, month, year.
+- **Dates**: *tarehe mbili* or *tarehe ya pili* "the second"; for the first, *tarehe moja* or *tarehe ya kwanza* (Almasi and colleagues). Wiktionary also lists *mosi* as an invariable adjective "first", which you may meet in dates. Order: day, month, year.
 - **Fractions**: *nusu*, *theluthi* "a third", *robo*: *robo tatu* "three quarters" (Almasi and colleagues).
 
 ## Watch out
@@ -254,7 +254,7 @@ laki | - | number | a hundred thousand | from Hindi lākh via Arabic
 milioni | - | number | million | from English
 nusu | - | noun | half | 9/10; na nusu "and a half", nusu saa "half an hour"
 robo | - | noun | quarter | 9/10; from Arabic
-kasoro | - | adverb | less, minus; (noun) defect | saa tatu kasoro robo "a quarter to nine"
+kasoro | - | adverb | less, minus; (noun) defect | saa tatu kasoro robo (or kasorobo) "a quarter to nine"
 muda | - | noun | period, stretch of time | 3/4; kwa muda wa "for (a time)"
 sekunde | - | noun | second (of time) | 9/10; from English
 shilingi | - | noun | shilling | 9/10

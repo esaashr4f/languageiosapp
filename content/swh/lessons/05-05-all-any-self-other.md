@@ -281,4 +281,4 @@ Spanish *todo* also shifts meaning with number: *todos los libros* "all the book
 7. *-ote* takes the pronominal prefix: *Viti vyote viko nje.*
 8. *-ingine* is an adjective; class 6 *ma-* + *i* gives *me-*: *Ninataka machungwa mengine.*
 9. Class 7: *kiti kipi?*; class 8: *viti vipi?*. (Context shows that *vipi* is "which" here, not "how".)
-10. *-ote* takes the pronominal prefixes (*miti yangu*, *miti yote*) because it is built on the pronominal *-o*; *-ingi* is an adjective and takes the nominal *mi-* (*miti mingi*). Lessons 3.15, 5.1, 5.5.
+10. *-ote* takes the pronominal prefixes (*miti yangu*, *miti yote*) because it is a pronominal stem (Polomé §2.4.3.5 calls it the "indefinite pronominal stem"); *-ingi* is an adjective and takes the nominal *mi-* (*miti mingi*). Lessons 3.15, 5.1, 5.5.

@@ -210,7 +210,7 @@ preview: NIPH
 :::table
 caption: First-y verbs in the qal, where they differ from šāmar
 confidence: verified
-source: gkc1910 §69; oshb (yēṣēʾ 61×, yērēḏ 15×, šēḇ 7×, ṣēʾ 15×, rēḏ 12×, daʿ 7×, lāreḏeṯ 10×, lāṣēʾṯ 9×, yîraš 2×, yîrāʾ 4×, yərāʾ 4×; others in the examples)
+source: gkc1910 §69; oshb (yēṣēʾ 61×, yērēḏ 15×, šēḇ 7×, ṣēʾ 15×, rēḏ 12×, daʿ 6×, lāreḏeṯ 10×, lāṣēʾṯ 9×, yîraš 2×, yîrāʾ 4×, yərāʾ 4×; others in the examples)
 | Form | yāšaḇ (group 1) | yāṣāʾ (group 1) | yāḏaʿ (group 1) | yārēʾ (group 2) |
 |---|---|---|---|---|
 | qatal 3SG.M | יָשַׁב yāšaḇ | יָצָא yāṣāʾ | יָדַע yāḏaʿ | יָרֵא yārēʾ |

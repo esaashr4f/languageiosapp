@@ -170,7 +170,7 @@ morphemes: āsīt rājā nal-aḥ nāma vīrasena-sut-aḥ balī
 gloss: be.PST.3SG king.NOM.SG Nala-NOM.SG by.name Vīrasena-son-NOM.SG strong.NOM.SG.M
 translation: There was a king called Nala, the son of Vīrasena, a strong man.
 note: The opening of the Nala story. āsīd is āsīt before r (preview of san-04-07). vīrasenasuta "son of Vīrasena" is a compound (san-05-08); suta is "son".
-source: Mahābhārata 3.50.1a (BORI critical edition, GRETIL e-text mbh_03_u.htm)
+source: Mahābhārata 3.50.1a–b (BORI critical edition, GRETIL e-text mbh_03_u.htm)
 confidence: attested
 :::
 

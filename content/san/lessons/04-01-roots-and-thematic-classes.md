@@ -171,7 +171,7 @@ confidence: attested
 - **Class 1 with an irregular stem**, to be learned one by one: *gacchati* (√gam) and *yacchati* (√yam "hold, offer") with *-ccha-* (Whitney §747), *tiṣṭhati* (√sthā), *pibati* (√pā), *jighrati* (√ghrā), *sīdati* (√sad), *krāmati* (√kram).
 - **Class 6** with a simple root: *tudati*, *viśati*, *spṛśati*, *likhati*, *kṣipati*, *diśati*, *sṛjati*; with a nasal: *muñcati*, *siñcati*, *kṛntati*; with irregular stems: *icchati* (√iṣ), *pṛcchati* (√prach).
 - **Class 4**, mostly states: *naśyati*, *muhyati*, *tṛpyati*, *hṛṣyati*, *śuṣyati*, *lubhyati*, and *śāmyati* with a long vowel. Also *paśyati*, which is the present of "see" (san-02-01).
-- **Class 10** with guṇa (*corayati*, *pūjayati*), vṛddhi (*tāḍayati*, *kṣālayati*, *dhārayati*) or no change (*gaṇayati*, *racayati*, *kathayati*); and verbs made from nouns (*varṇayati* from *varṇa*). Some causatives look identical (san-07-01).
+- **Class 10** with guṇa (*corayati*, *pūjayati*), vṛddhi (*tāḍayati*, *kṣālayati*) or no change (*gaṇayati*, *racayati*, *kathayati*); and verbs made from nouns (*varṇayati* from *varṇa*). Some causatives look identical (san-07-01).
 - **A root in two classes**: √bhram *bhramati* and *bhrāmyati*; √bhūṣ class 10 "adorn" and class 1 "strive".
 
 ## Watch out

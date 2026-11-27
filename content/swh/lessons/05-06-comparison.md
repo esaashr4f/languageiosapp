@@ -45,7 +45,7 @@ Compare with "all" or "any" (lesson 5.5). Say "Amina is the cleverest student".
 1. *Amina ni mwanafunzi hodari* "Amina is a capable student" (lesson 5.1).
 2. Add *kuliko wote* "than all (of them)": *Amina ni mwanafunzi hodari kuliko wote.*
 
-*Kuliko wote* and *kuliko yeyote* "than anyone" both work (Almasi and colleagues). Thompson and Schleicher's pattern for "the shortest teacher" is the same: noun + adjective + *kuliko wote*.
+*Kuliko wote* works (Almasi and colleagues: *bora kuliko baba wote* "the best of all dads"), and so does "than any" with *-o-ote*: they print *zaidi ya mfuko wo wote* "wider than any bag", so *kuliko yeyote* "than anyone". Thompson and Schleicher's pattern for "the shortest teacher" is the same: noun + adjective + *kuliko wote*.
 
 ### With verbs
 

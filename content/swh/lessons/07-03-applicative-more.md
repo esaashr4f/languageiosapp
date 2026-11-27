@@ -242,7 +242,7 @@ French has the same wish to move "with what" and "for whom" into one word, in pr
 2. *Shon-* has o, so *-e-*: *-shonea*. *Sindano ya kushonea* "a needle for sewing". *Sindano* is class 9, so *ya*. The form *-shonea* follows the rule but is not listed in Wiktionary; *sindano ya kufumia* "a needle for knitting" is attested in Almasi and colleagues. Lessons 7.1, 7.3.
 3. *Mkulima alitufyekea nyasi.* *Fyek-* has e, so *-e-*; *-tu-* is the beneficiary; *nyasi*, the original object, comes second. The form *-fyekea* is built by rule (not checked in a dictionary). Lessons 7.2, 7.3.
 4. One marker of "with" is enough: *Alikulia uma* or *Alikula kwa uma.* Lessons 5.8, 7.3.
-5. "We will discuss that case tomorrow." *-zungumzia* "discuss", with *kesi* as the object; *hiyo* "that one mentioned". Lessons 3.11, 7.3.
+5. "We will discuss that case tomorrow." *-zungumzia* "discuss", with *kesi* as the object; *hiyo* "that one mentioned". Lessons 3.12, 7.3.
 6. *-amkia* "greet" is lexicalised: its meaning is not "wake up for". *-pikia* and *-nunulia* are ordinary "cook for", "buy for". Lesson 7.3.
 7. "He held on tight to the rope." Wiktionary analyses *-ilia* in *-shikilia* as a doubled applicative that strengthens the meaning rather than adding a person. Lesson 7.3.
 8. *Alituamkia.* *a-* "she", *-li-* past, *-tu-* "us", *amk-i-a*. Lesson 7.3.

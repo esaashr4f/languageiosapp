@@ -33,7 +33,7 @@ Because "each other" needs at least two people, the reciprocal changes how the s
 
 **Both in the subject** (the usual way): *Juma na Asha wanapendana* "Juma and Asha love each other". The subject prefix is plural, *wa-*.
 
-**One in the subject, one after na**: *Juma anapendana na Asha*, literally "Juma loves-each-other with Asha". Almasi and colleagues: "When a singular Subject Prefix is used it is implied that the object of the sentence is also reciprocating the action." Wpgrammar: a singular subject is possible, "often followed by na and an additional referent". This is where *na* "with" of lesson 3.9 comes back: *nilikutana na rafiki yangu* "I met my friend" is exactly this pattern.
+**One in the subject, one after na**: *Juma anapendana na Asha*, literally "Juma loves-each-other with Asha". Almasi and colleagues: "When a singular Subject Prefix is used it is implied that the object of the sentence is also reciprocating the action." Wpgrammar: a singular subject is possible, "often followed by na and an additional referent". This is where *na* "with" of lesson 3.14 comes back: *nilikutana na rafiki yangu* "I met my friend" is exactly this pattern.
 
 ### Chain of thought
 
@@ -46,7 +46,7 @@ Say "the two brothers fought".
 
 Say "I fought with him" (one person in the subject):
 
-1. Singular subject *ni-*; the other party after *na*: *naye* "with him" (lesson 3.9).
+1. Singular subject *ni-*; the other party after *na*: *naye* "with him" (lesson 3.14).
 2. *Nilipigana naye.*
 
 ### Reciprocal on top of an applicative

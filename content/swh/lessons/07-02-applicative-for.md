@@ -260,7 +260,7 @@ Korean and Japanese have a "do for" construction too, but as a separate helper v
 
 1. *Pelek-* has the vowel e, so *-e-*: *-pelekea* (listed in Wiktionary). "I will send you a letter." *-ku-* is "you", the recipient. Lessons 7.1, 7.2.
 2. *Utaniandikia?* *u-* "you", *-ta-* future, *-ni-* "me" (the addressee), *andik-i-a*. Lesson 7.2.
-3. *Karani alituuzia stempu.* *-uza* has root *uz-* with u, so *-i-*: *-uzia*. *Karani* takes class 1 agreement (*a-*), *-tu-* is "us". Lessons 3.5, 7.2.
+3. *Karani alituuzia stempu.* *-uza* has root *uz-* with u, so *-i-*: *-uzia*. *Karani* takes class 1 agreement (*a-*), *-tu-* is "us". Lessons 3.9, 7.2.
 4. The object prefix must point to the person: *Alimletea mzee kikombe.* Lesson 7.2, Watch out.
 5. "The soldier is guarding the grave." The grave is the plain object of *-linda*; nobody benefits and nothing is moved anywhere, so the plain verb is enough. Lesson 7.2.
 6. *Amekalia mwavuli wangu.* *-kaa* is vowel-final: *-kalia* "sit on", with the place as the object and no *-ni*. Lessons 4.5, 7.2.

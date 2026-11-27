@@ -34,7 +34,7 @@ What reduplication meant in the parent language is not certain; the guide does n
 
 **Step 3: the endings.** As in the root class, with one feature special to class 3: **the 3PL has no *n*** (Whitney §646). Active *-ati*, middle *-ate*: *dadati* "they give", *juhvati* "they offer", *bibhyati* "they fear", *dadate* "they give" (middle). The imperfect 3PL is *-uḥ*, with guṇa of a final vowel before it: *adaduḥ*, *ajuhavuḥ*, *abibharuḥ*.
 
-**Joins inside the word.** Weak *dad-* + *-ti* → *datti*? No: the weak forms before *t* are *dattaḥ*, *datte* (*d* + *t* → *tt*). √dhā is odd: weak *dadh-* + *-taḥ* gives *dhattaḥ*, with the aspiration moved to the front (Whitney §160c). Weak √bhī before a vowel is *bibhy-*, √hu *juhv-*.
+**Joins inside the word.** Weak *dad-* before *t* gives *tt*: *dattaḥ*, *datte*. √dhā is odd: weak *dadh-* + *-taḥ* gives *dhattaḥ*, with the aspiration moved to the front (Whitney §160c). Weak √bhī before a vowel is *bibhy-*, √hu *juhv-*.
 
 **The imperative.** 2SG: √hu *juhudhi* (*-dhi* after *u*, an old exception), √bhī *bibhīhi*, √bhṛ *bibhṛhi*, √hā *jahihi*. √dā and √dhā have the short irregular forms ***dehi*** "give!" and ***dhehi*** "put!". The 3SG is strong (*dadātu*, *juhotu*), the 3PL *-atu* without *n* (*dadatu*).
 
@@ -79,9 +79,9 @@ confidence: constructed
 orig: ऋत्विग् अग्नौ हविर् जुहोति
 translit: ṛtvig agnau havir juhoti
 morphemes: ṛtvik agn-au haviḥ juho-ti
-gloss: priest.NOM.SG fire-LOC.SG oblation.NOM.SG offer-3SG
+gloss: priest.NOM.SG fire-LOC.SG oblation.ACC.SG offer-3SG
 translation: The priest offers the oblation into the fire.
-note: √hu: h is reduplicated as j. The chain of thought above. haviḥ here is accusative in function; neuter NOM and ACC are one form.
+note: √hu: h is reduplicated as j. The chain of thought above. haviḥ is the neuter accusative, the same form as the nominative.
 source: constructed
 confidence: constructed
 :::
@@ -164,12 +164,12 @@ confidence: attested
 :::
 
 :::example
-orig: श्रद्धावाँल् लभते ज्ञानम्
-translit: śraddhāvām̐l labhate jñānam
+orig: श्रद्धावांल् लभते ज्ञानम्
+translit: śraddhāvāṃl labhate jñānam
 morphemes: śraddhā-vān labha-te jñān-am
 gloss: faith-having.NOM.SG.M get-3SG.MID knowledge-ACC.SG
 translation: The man who has faith gains knowledge.
-note: śraddhā "faith" is the noun of śrad-dhā "believe". -vān before l is the nasalised l, written m̐l (san-04-07; GRETIL has it here). The verse ends jñānaṃ before the next word; here it closes the quotation.
+note: śraddhā "faith" is the noun of śrad-dhā "believe". -vān before l is the nasalised l of san-04-07, which GRETIL writes ṃl. The verse continues after jñānam.
 source: Bhagavad Gītā 4.39a (GRETIL e-text bhgce)
 confidence: attested
 :::

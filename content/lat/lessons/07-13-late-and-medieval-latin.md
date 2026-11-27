@@ -87,11 +87,11 @@ confidence: attested
 :::
 
 :::example
-orig: Sanctissimo Patri in Christo ac Domino, domino Johanni, divina providencia Sacrosancte Romane et Universalis Ecclesie Summo Pontifici.
-morphemes: sanct-issimo Patr-i in Christ-o ac Domin-o domin-o Johann-i divin-a providenci-a Sacrosanct-e Roman-e et Universal-is Ecclesi-e Summ-o Pontific-i
+orig: Sanctissimo Patri in Christo ac Domino, domino Johanni, divina providiencia Sacrosancte Romane et Universalis Ecclesie Summo Pontifici …
+morphemes: sanct-issimo Patr-i in Christ-o ac Domin-o domin-o Johann-i divin-a providienci-a Sacrosanct-e Roman-e et Universal-is Ecclesi-e Summ-o Pontific-i
 gloss: holy-SUPL.DAT.SG.M father-DAT.SG in Christ-ABL.SG and lord-DAT.SG lord-DAT.SG John-DAT.SG divine-ABL.SG.F providence-ABL.SG most.holy-GEN.SG.F Roman-GEN.SG.F and universal-GEN.SG church-GEN.SG highest-DAT.SG.M pontiff-DAT.SG
 translation: To the most holy Father in Christ and lord, the lord John, by divine providence supreme pontiff of the holy Roman and universal Church.
-note: The opening of the Declaration of Arbroath, the Scottish nobles' letter to Pope John. Addressee in the dative. Medieval spelling: -e for -ae (Sacrosancte, Romane, Ecclesie), ci for ti (providencia), J for consonantal i. Printed without macrons.
+note: The opening of the Declaration of Arbroath, the Scottish nobles' letter to Pope John. Addressee in the dative. Medieval spelling: -e for -ae (Sacrosancte, Romane, Ecclesie), ci for ti (providiencia, which also adds an i), J for consonantal i. Printed without macrons. The sentence goes on to name the senders, the earls and barons of Scotland.
 source: Declaration of Arbroath, opening (The Latin Library)
 confidence: attested
 :::
@@ -117,11 +117,11 @@ confidence: attested
 :::
 
 :::example
-orig: Datum apud Monasterium de Abirbrothoc in Scocis sexto die mensis Aprilis anno gracie millesimo trescentesimo vicesimo.
+orig: Datum apud Monasterium de Abirbrothoc in Scocis sexto die mensis Aprilis anno gracie millesimo trescentesimo vicesimo …
 morphemes: dat-um apud monasteri-um de Abirbrothoc in Scoc-is sext-o di-e mens-is Aprilis ann-o graci-e millesim-o trescentesim-o vicesim-o
 gloss: give.PTCP-NOM.SG.N at monastery-ACC.SG of Arbroath among Scot-ABL.PL sixth-ABL.SG.M day-ABL.SG month-GEN.SG April.GEN.SG year-ABL.SG grace-GEN.SG thousandth-ABL.SG.M three.hundredth-ABL.SG.M twentieth-ABL.SG.M
 translation: Given at the monastery of Arbroath among the Scots on the sixth day of the month of April, in the year of grace 1320.
-note: The dating clause. Days counted forwards; the year as an ordinal; de + ablative for "of" a place; gracie = grātiae; Scocis = Scotis.
+note: The dating clause. Days counted forwards; the year as an ordinal; de + ablative for "of" a place; gracie = grātiae; Scocis = Scotis. The clause goes on with the year of the reign of "our king named above" (Anno vero Regni Regis nostri supradicti …).
 source: Declaration of Arbroath, dating clause (The Latin Library)
 confidence: attested
 :::
@@ -163,7 +163,7 @@ source: Declaration of Arbroath (The Latin Library); wiktionary (michi)
 | Medieval | Classical | Change |
 |---|---|---|
 | Ecclesie, Romane | ecclēsiae, Rōmānae | ae written e |
-| gracia, providencia, divicias | grātia, prōvidentia, dīvitiās | ti written ci |
+| gracia, providiencia, divicias | grātia, prōvidentia, dīvitiās | ti written ci |
 | michi, nichil | mihi, nihil | h written ch |
 | set | sed | final d written t |
 | nuncquam | numquam | spelling |

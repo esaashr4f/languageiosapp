@@ -180,7 +180,7 @@ confidence: attested
 - **The whole class:** *bānâ*, *ʿāśâ*, *rāʾâ*, *hāyâ*, *ʿālâ*, *ʿānâ*, *šāṯâ*, *kālâ* "finish", *gālâ* "uncover, go into exile", *bāḵâ* "weep", *pānâ* "turn", *ḥānâ* "camp", *rāḇâ* "be many", *qānâ*, *rāʿâ*, *nāṭâ*, *ḥārâ*.
 - **The derived stems:** the same endings in every stem: piel *ṣiwwâ* "he commanded", *yəṣawweh*, wayyiqtol *wayṣaw*; hiphil *heʿĕlâ* "he brought up", wayyiqtol *wayyaʿal* (Genesis 8:20 has this hiphil *wayyaʿal ʿōlōṯ* "he offered burnt offerings"). Lessons 4.21, 4.22, 4.24.
 - **Nouns** in *-eh* from these roots: *maʿăśeh* "deed", *marʾeh* "sight", *miqneh* "livestock", *śāḏeh* "field" (lesson 3.1).
-- **Passive participle** brings back the old *y*: *bānûy* "built" (Gesenius §75c).
+- **Passive participle** brings back the old *y*: *bānûy* "built" (Gesenius §75a).
 
 ## Watch out
 
@@ -203,7 +203,7 @@ confidence: attested
 :::table
 caption: Qal of bānâ "build", with the short forms of other verbs
 confidence: verified
-source: gkc1910 §75; oshb (bānâ 39×, bānəṯâ 2×, bānîṯî 11×, bānû 32×, yiḇneh 15×, yiḇnû 2×, bənēh 3×, liḇnôṯ 47×, bōneh 5×, bānûy 1×, wayyiḇnû 15×; bānîṯā by pattern)
+source: gkc1910 §75; oshb (bānâ 39×, bānəṯâ 2×, bānîṯî 11×, bānû 9× as qatal 3PL (the same spelling is also bānû "in us", 22×), yiḇneh 15×, yiḇnû 2×, bənēh 3×, liḇnôṯ 47×, bōneh 5×, bānûy 1×, wayyiḇnû 15×; bānîṯā by pattern)
 | Form | bānâ | Short forms |
 |---|---|---|
 | qatal 3SG.M | בָּנָה bānâ | |

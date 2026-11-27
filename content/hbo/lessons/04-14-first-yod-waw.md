@@ -215,7 +215,7 @@ source: gkc1910 §69; oshb (yēṣēʾ 61×, yērēḏ 15×, šēḇ 7×, ṣē�
 |---|---|---|---|---|
 | qatal 3SG.M | יָשַׁב yāšaḇ | יָצָא yāṣāʾ | יָדַע yāḏaʿ | יָרֵא yārēʾ |
 | yiqtol 3SG.M | יֵשֵׁב yēšēḇ | יֵצֵא yēṣēʾ | יֵדַע yēḏaʿ | יִירָא yîrāʾ |
-| wayyiqtol 3SG.M | וַיֵּשֶׁב wayyēšeḇ | וַיֵּצֵא wayyēṣēʾ | וַיֵּדַע wayyēḏaʿ | וַיִּירָא wayyîrāʾ (by pattern) |
+| wayyiqtol 3SG.M | וַיֵּשֶׁב wayyēšeḇ | וַיֵּצֵא wayyēṣēʾ | וַיֵּדַע wayyēḏaʿ | וַיִּירָא wayyîrāʾ (Genesis 28:17) |
 | imperative | שֵׁב šēḇ | צֵא ṣēʾ | דַּע daʿ | יְרָא yərāʾ |
 | infinitive with lə- | לָשֶׁבֶת lāšeḇeṯ | לָצֵאת lāṣēʾṯ | לָדַעַת lāḏaʿaṯ | |
 | participle | יֹשֵׁב yōšēḇ | יֹצֵא yōṣēʾ | יֹדֵעַ yōḏēaʿ | יָרֵא yārēʾ (adjective) |

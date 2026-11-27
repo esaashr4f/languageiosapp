@@ -1,5 +1,5 @@
 {
- "count": 217,
+ "count": 218,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -2036,6 +2036,15 @@
    "depth": "C",
    "deferred": true,
    "notes": "Northwest Caucasian, extinct since the death of its last fluent speaker, Tevfik Esenç, in 1992; about 80 consonants and two or three vowels; known from recordings and fieldwork (Dumézil, Vogt, Hewitt, Colarusso). Sources in copyright and thin: deferred. Respect it as a community's lost language; cross-link Adyghe, Kabardian"
+  },
+  {
+   "number": 218,
+   "name": "Hakka",
+   "iso": "hak",
+   "group": "Asia and Pacific",
+   "script": "Latin (Taiwan Hakka romanisation) + characters",
+   "depth": "B",
+   "notes": "Sinitic; Sixian Hakka of Taiwan taught (open Taiwan Ministry of Education Hakka dictionary), with Meixian, the mainland reference dialect, noted; cross-link Mandarin, Cantonese, Hokkien"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 154 (the linguistics guide), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

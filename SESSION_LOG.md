@@ -128,3 +128,13 @@ Running when written (each commits per lesson; resume from the last committed fi
 - hbo: parts 0–4 verified. Drafting part 5.
 - san: parts 0–3 and 04-01 to 04-16 verified. Drafting part 4 (to about 04-19); its verifier follows behind.
 If agents stopped without reporting: check git log per language for the last lesson committed, commit any partial file as work in progress, and restart that step from the next lesson.
+
+## Session 3, stop at 06:37 GMT (2026-11-27), owner's request
+
+All agents stopped. State:
+- lat: complete — 105/105 lessons drafted and verified. Waits for the pilot gate.
+- tur: parts 0–5 verified. Part 6 drafted to 06-11 (check the last file is complete); continue from 06-12.
+- swh: parts 0–6 verified. Part 7 drafted to 07-14 (check 07-14 is complete); 07-15, 07-16 left. The duplicate "mjomba" in 07-04 may still need removing (lint).
+- kat: parts 0–4 verified, part 5 drafted (11). Part 5 verification had just started (nothing committed): restart it, including the იცის ergative fix in 04-25. Part 6 drafting had just started (nothing committed): restart it.
+- hbo: parts 0–4 verified. Part 5 drafted to 05-06 (check it is complete); continue from 05-07.
+- san: parts 0–4 verified. Part 5 drafted to 05-02 (check it is complete); continue from 05-03.

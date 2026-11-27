@@ -17,7 +17,7 @@ Caesar wrote the *Commentāriī dē Bellō Gallicō*, his own account of his cam
 
 The wording is from The Latin Library, in this guide's spelling, with macrons. Section numbers follow The Latin Library. This reading covers sections 1 to 4; sections 5 to 7 give the boundaries of each region and are left for you to read on your own.
 
-Allen and Greenough use this chapter to show Latin word order: the important word first, the verb last, and a chiasmus near the end (ag1903 §597a; part 7, lesson 6).
+Allen and Greenough use this chapter to show Latin word order: the most prominent word comes first, and section 3 has a chiasmus (ag1903 §597a; part 7, lesson 6).
 
 ## The text
 
@@ -107,7 +107,7 @@ confidence: attested
 
 **One long sentence.** Sections 3 and 4 are a single sentence in The Latin Library's punctuation, held together by *-que* and relatives: the Belgians are bravest *because* they are far from civilisation, *and* traders seldom come, *and* they are next to the Germans, *with whom* they fight. Read it in the four pieces above, then all at once.
 
-**Chiasmus.** In section 3, *longissimē absunt … minimē … commeant* puts the superlative adverbs at the edges; Allen and Greenough point out the crossed order of *minimē* and the following clause (ag1903 §597a, notes 16–17).
+**Chiasmus.** In section 3, *ā cultū atque hūmānitāte … longissimē* is answered by *minimē … mercātōrēs*: the two superlative adverbs stand together in the middle, and the nouns they are opposed through stand at the edges. Allen and Greenough point out this crossed order (ag1903 §597a, notes 16–17).
 
 **Caesar's plainness.** There is not one rare word in the passage except the names. The difficulty is all in the structure, and the structure is the grammar of parts 3 to 6. If any sentence stopped you, go back to the lesson its note names.
 

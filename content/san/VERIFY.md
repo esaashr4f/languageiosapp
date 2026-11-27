@@ -33,3 +33,16 @@ Worked answers checked: 110   corrected: 2
 Corrections (summary): accent claims restated as Vedic accent (Whitney §§734, 238, 751, 604) instead of "the parent language"; misquoted §600 removed; caura accepted as = cora (MW); gígnomai "from the same root as jāyate"; Latin deponents and German separable verbs comparisons restated without unsourced history; Spanish sea is from sedeat, so the sea/soit claim was removed; Italian raddoppiamento comparison removed; śerate is §629; Latin est/sunt alternation restated; final -n sandhi answer completed (§§202–210).
 
 Still open: Greek -oi-/-iē- optative cognates not sourced this session; √bhūṣ and varjayati class labels not re-checked; several prefixed and simple verb forms absent from Wiktionary tables were checked in MW or re-derived.
+
+
+### Part 4, lessons 13–16 — verified 2026-11-27 by the same verifier
+Lessons checked: san-04-13 to san-04-16
+Forms checked: 214   corrected: 0   left unverified: 0
+Glosses checked: 45   corrected: 0
+Attested quotations checked: 11   corrected: 0
+Claims checked: 48   corrected or removed: 8
+Worked answers checked: 32   corrected: 0
+
+Corrections (summary): -tavat quotations cited to §960; epic active endings on passives cited to Whitney §774; unsourced Korean/Japanese comparison removed; "backbone of narrative" quotation removed; -tvā on prefixed roots "rarely" (§990a), not "never"; a correct sentence wrongly starred in 04-16 un-starred and its anusvāra fixed (gantum icchanti).
+
+Still open: khāditum and cintayitum re-derived by §968a (no MW entry); the 04-14 table caption cites Wiktionary passive columns that mostly printed nothing (forms confirmed in MW): change the source to mw1899 at the next edit.

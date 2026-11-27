@@ -159,10 +159,10 @@ confidence: constructed
 :::
 
 :::example
-orig: Güzel mi güzel bir kız.
-morphemes: güzel mi güzel bir kız
-gloss: beautiful Q beautiful a girl
-translation: A really beautiful girl.
+orig: Akıllı mı akıllı bir çocuk.
+morphemes: akıllı mı akıllı bir çocuk
+gloss: clever Q clever a child
+translation: A really clever child.
 note: mI between two copies of an adjective intensifies it. Colloquial (goksel2005 §9.3 (iv)).
 source: constructed
 confidence: constructed
@@ -191,7 +191,7 @@ confidence: constructed
 
 - any noun or phrase, in speech, for "and so on", often a little dismissive: *kitap mitap*, *çay may*, *kapı mapı* (goksel2005 §9.2).
 
-**mI between copies**: *güzel mi güzel*, *akıllı mı akıllı*.
+**mI between copies**: *akıllı mı akıllı*; occasionally as an adverb, *yavaş mı yavaş* (goksel2005 §9.3 (iv)).
 
 ## Watch out
 
@@ -205,7 +205,7 @@ confidence: constructed
 
 **Do not use m-reduplication in writing or formal speech.** *Kitap mitap* is colloquial (goksel2005 §9.2). In careful style, name the things: *kitaplar ve defterler*.
 
-**Do not double a noun and add a plural when it describes another noun.** *\*Çeşit çeşit yemekler* is possible, but Göksel and Kerslake note the modified noun is usually left without the plural: *çeşit çeşit yemek* (goksel2005 §9.3 (iii)).
+**Prefer the singular after a doubled noun.** *Çeşit çeşit yemekler* is possible, but Göksel and Kerslake note the modified noun is usually left without the plural: *çeşit çeşit yemek* (goksel2005 §9.3 (iii)).
 
 **Do not use kolay kolay in a positive sentence.** *\*Kolay kolay buldum* is wrong for "I found it easily". Positive: *kolayca buldum* (tur-05-01). *Kolay kolay* needs a negative: *kolay kolay bulamazsın* "you won't find it easily".
 
@@ -258,7 +258,7 @@ bambaşka | - | adjective | completely different | başka
 yavaş yavaş | - | adverb | slowly; little by little, gradually | 
 çabuk çabuk | - | adverb | quickly | 
 kolay kolay | - | adverb | easily (with a negative only) | 
-çeşit | - | noun | kind, sort, variety | çeşit çeşit "all kinds of"
+çeşit | - | noun | kind, sort, variety | acc. çeşidi; çeşit çeşit "all kinds of"
 damla | - | noun | drop | damla damla "drop by drop"
 koca | - | adjective | huge | also the noun "husband" (tur-03-04)
 ısınmak | - | verb | get warm, warm up | aor. ısınır

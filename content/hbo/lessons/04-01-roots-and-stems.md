@@ -17,9 +17,9 @@ Part 3 showed how nouns are built: a root and a pattern of vowels, prefixes and 
 
 A Hebrew verb root does not have one set of forms. It can be poured into up to seven **stems**. A stem is a fixed pattern for the whole verb, with its own vowels, sometimes a prefix, sometimes a doubled letter, that changes what the root means in a regular way. The root *k-b-d* means "heavy". In the plain stem it means "be heavy". With the middle letter doubled it means "make weighty, honour". With a prefix *h-* it means "make heavy". The root stays; the stem says how the idea is applied.
 
-The Jewish grammarians called the stems *binyanim*, "buildings" (Gesenius §39c). English grammars also say "conjugations", which is confusing, because a conjugation in Latin or Spanish is a class of verbs. In Hebrew one verb can appear in several stems. This guide says "stem" and uses the Hebrew names.
+The Jewish grammarians called the stems *binyanim*, from *b-n-h* "build"; Gesenius renders the word "formations" (§39c). English grammars also say "conjugations", which is confusing, because a conjugation in Latin or Spanish is a class of verbs. In Hebrew one verb can appear in several stems. This guide says "stem" and uses the Hebrew names.
 
-Why does Hebrew work like this? Because a root is not a word but a set of consonants carrying an idea, made into words by patterns (lesson 0.2), as with *meleḵ* "king", *malkâ* "queen", *malḵûṯ* "kingship". Verbs do it more regularly. Gesenius notes that other languages have traces of the same thing, as in English *fall* and *fell*, *lie* and *lay*, but that in Hebrew the derived forms are "incomparably more regular and systematic" (§39c).
+Why does Hebrew work like this? Because a root is not a word but a set of consonants carrying an idea, made into words by patterns (lesson 0.2), as with *meleḵ* "king", *malkâ* "queen", *malḵûṯ* "kingship". Verbs do it more regularly. Gesenius notes that other languages have traces of the same thing, as in English *fall* and *fell*, *lie* and *lay*, but that in Hebrew the derived forms are "incomparably more regular and systematic" (§39c–d).
 
 ## How it is built
 
@@ -173,10 +173,10 @@ preview: WAYY, HITP
 orig: וְחַטָּאתָם כִּי כָבְדָה מְאֹד
 translit: wəḥaṭṭāʾṯām kî ḵāḇəḏâ məʾōḏ
 morphemes: wə=ḥaṭṭāʾṯ-ām kî ḵāḇəḏ-â məʾōḏ
-gloss: and=sin-3PL.M indeed be.heavy.QTL-3SG.F very
-literal: And-their-sin indeed is-heavy very.
-translation: ... and their sin is very grave.
-note: The root k-b-d in the qal: a state, "be heavy". ḥaṭṭāʾṯ is feminine, so the verb is too. kî here strengthens the statement, "indeed" (BDB).
+gloss: and=sin-3PL.M because be.heavy.QTL-3SG.F very
+literal: And-their-sin because is-heavy very.
+translation: ... and because their sin is very grave.
+note: The root k-b-d in the qal: a state, "be heavy". ḥaṭṭāʾṯ is feminine, so the verb is too. kî is "because", with the subject put before it for emphasis: "as for their sin, because it is very heavy" (BDB). Some translators read kî here as "indeed".
 source: Genesis 18:20 (WLC)
 confidence: attested
 :::
@@ -247,7 +247,7 @@ source: gkc1910 §39f; oshb (forms of p-q-d attested as noted)
 חָזַק | ḥāzaq | verb | be strong, be firm | root ḥ-z-q; piel "strengthen"; hiphil heḥĕzîq "seize, hold"
 שָׁבַר | šāḇar | verb | break | root š-b-r; piel šibbar "smash"
 קָרַב | qāraḇ | verb | come near, approach | root q-r-b; hiphil hiqrîḇ "bring near, offer"
-דִּבֶּר | dibbēr | verb | speak | piel; root d-b-r; qal only as participle dōḇēr
+דִּבֵּר | dibbēr | verb | speak | piel; root d-b-r; qal only as participle dōḇēr; the qatal 3SG.M is usually דִּבֶּר dibber, דִּבֵּר dibbēr mainly in pause
 הִשְׁלִיךְ | hišlîḵ | verb | throw, cast | hiphil; root š-l-k
 בִּנְיָמִן | binyāmin | proper noun | Benjamin | 
 צְבָאוֹת | ṣəḇāʾôṯ | noun | hosts, armies | plural of ṣāḇāʾ; YHWH ṣəḇāʾôṯ "the LORD of hosts"

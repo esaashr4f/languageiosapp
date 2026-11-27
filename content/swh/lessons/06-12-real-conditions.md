@@ -165,9 +165,9 @@ orig: Usipofuata sheria, utaadhibiwa.
 morphemes: u-si-po-fuat-a sheria u-ta-adhib-iw-a
 gloss: 2SG.SM-NEG-C16.REL-follow-FV law.C9 2SG.SM-FUT-punish-PASS-FV
 translation: If you don't follow the law, you'll be punished.
-note: Preview: -iw- is the passive of part 7. -adhibu is a loan; its passive is adhibiwa.
+note: Preview: -iw- is the passive of part 7. Wiktionary lists the passive -adhibiwa.
 source: constructed
-confidence: unverified
+confidence: constructed
 preview: PASS
 :::
 
@@ -215,6 +215,7 @@ sheria | - | noun | law | 9/10, pl. sheria; loan from Arabic
 onyo | - | noun | warning | 5/6, pl. maonyo; from -onya
 bima | - | noun | insurance | 9/10, pl. bima
 mgomo | - | noun | strike (from work) | 3/4, pl. migomo
+tahadhari | - | noun | caution, precaution | 9/10, pl. tahadhari; loan from Arabic
 :::
 
 ## Exercises

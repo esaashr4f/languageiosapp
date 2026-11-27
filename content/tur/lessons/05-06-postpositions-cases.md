@@ -72,10 +72,10 @@ confidence: constructed
 :::
 
 :::example
-orig: Çocuklar denize doğru koşuyor.
-morphemes: çocuk-lar deniz-e doğru koş-uyor
-gloss: child-PL sea-DAT towards run-PROG
-translation: The children are running towards the sea.
+orig: Köpek denize doğru koşuyor.
+morphemes: köpek deniz-e doğru koş-uyor
+gloss: dog sea-DAT towards run-PROG
+translation: The dog is running towards the sea.
 note: doğru "towards": direction, not arrival. *Denize koşuyor* would be "running to the sea".
 source: constructed
 confidence: constructed
@@ -133,10 +133,10 @@ confidence: constructed
 :::
 
 :::example
-orig: Pazartesiden beri hastayım.
-morphemes: pazartesi-den beri hasta-yım
-gloss: Monday-ABL since ill-1SG
-translation: I've been ill since Monday.
+orig: Salıdan beri hastayım.
+morphemes: salı-dan beri hasta-yım
+gloss: Tuesday-ABL since ill-1SG
+translation: I've been ill since Tuesday.
 note: The state still holds, so the predicate is in the present.
 source: constructed
 confidence: constructed
@@ -174,9 +174,9 @@ confidence: constructed
 
 ## Where it applies
 
-- **Göre**: according to a source (*hava durumuna göre*); someone's opinion (*bana göre*, close to *bence*, tur-04-12); comparison (*ötekine göre*); suitability (*Bu oda sana göre* "This room is just right for you") (goksel2005 §17.2.2 (ii)).
+- **Göre**: according to a source (*hava durumuna göre*); someone's opinion (*bana göre*, close to *bence*, tur-04-12); comparison (*ötekine göre*); suitability (*Bu iş sana göre* "This job is right for you") (goksel2005 §17.2.2 (ii)).
 - **Doğru**: direction in space (*denize doğru*) or approach in time (*akşama doğru*).
-- **Kadar with the dative**: until a time (*beşe kadar*), by a deadline (*cumaya kadar biter* "it will be finished by Friday"), within (*beş dakikaya kadar*), as far as a place (*Van'a kadar*) (goksel2005 §17.2.2 (iii)).
+- **Kadar with the dative**: until a time (*beşe kadar*), by a deadline (*Bu iş cumaya kadar biter* "This work will be done by Friday"), within (*beş dakikaya kadar*), as far as a place (*Van'a kadar*) (goksel2005 §17.2.2 (iii)).
 - **Karşı**: opposition (*bana karşı*), an attitude to someone (*babama karşı saygım var*), towards a time (*sabaha karşı*). As a noun, *karşı* is "the opposite side": *karşıya geçmek* "cross to the other side" (wiktionary).
 - **Rağmen**: in spite of a noun (*yağmura rağmen*); in spite of a clause, *-mAsInA rağmen* (tur-06-14).
 - **Önce, sonra with the ablative**: before or after an event, a time or a person: *yemekten sonra*, *saat beşten önce*, *benden önce*; with an amount: *bir saat sonra*. Without the ablative they are adverbs: *iki gün önce* "two days ago" (tur-04-03). Before and after clauses: *-mAdAn önce*, *-DIktAn sonra* (tur-06-07).
@@ -196,7 +196,7 @@ confidence: constructed
 
 **Do not confuse the two kadar's.** *Ali kadar* (bare) is "as much as Ali"; *Ali'ye kadar* (dative) is "up to Ali". *\*Beş kadar bekledim* means "I waited about five" (tur-05-05). "I waited until five" is *Beşe kadar bekledim*.
 
-**Do not use the past with beri for a state that still holds.** English "I have been ill since Monday" tempts *\*Pazartesiden beri hasta oldum*. The state continues: *Pazartesiden beri hastayım* (goksel2005 §17.2.3 (ii)).
+**Do not use the past with beri for a state that still holds.** English "I have been ill since Tuesday" tempts *\*Salıdan beri hasta oldum*. The state continues: *Salıdan beri hastayım* (goksel2005 §17.2.3 (ii)).
 
 **Do not use beri for a future start.** *\*Pazartesiden beri başlıyorum* is wrong for "starting from Monday": *beri* looks back from now. A planned start is *itibaren*: *Pazartesiden itibaren*.
 

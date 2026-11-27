@@ -20,7 +20,7 @@ Swahili builds it with the same pieces as lesson 6.2. The only change is that th
 - the **subject prefix** agrees with whoever does the action in the relative clause ("I", "we", "the teacher");
 - the **relative marker** agrees with the noun described (the book, the man).
 
-So in *kitabu nilichosoma* "the book which I read", *ni-* is "I" and *-cho-* is class 7, pointing back to *kitabu*. Wikipedia's grammar article puts it simply: the relative marker "is the same expressing the subject (who) or the object (that, which)". What changes is the subject prefix.
+So in *kitabu nilichosoma* "the book which I read", *ni-* is "I" and *-cho-* is class 7, pointing back to *kitabu*. Wikipedia's grammar article puts it plainly: the relative marker "is the same expressing the subject (who) or the object (that, which)". What changes is the subject prefix.
 
 The verb template has one more slot to fill: the object prefix of lesson 4.7. Since the noun described is the object, the verb can also carry an object prefix that points to it: *kitabu nilicho**ki**soma*. The marker *-cho-* and the object prefix *-ki-* then both refer to the same book. Wikipedia's grammar gives the pair *kitu kilichonipendeza* "the thing which pleased me" (subject relative) and *kitu nilichokipenda* "the thing I liked" (object relative, with the object prefix *-ki-*).
 

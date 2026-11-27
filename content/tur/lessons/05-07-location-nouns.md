@@ -36,7 +36,7 @@ The case on the location noun changes with the meaning; that is the point of bui
 3. **The case, chosen by the meaning**: the cat is there, so the locative. After the third-person possessive, the case takes *n* (tur-03-06): *alt-ı-nda*.
 4. **The sentence**: *Kedi yatağın altında.*
 
-**With a pronoun**, the possessive changes person, and the pronoun itself is usually left out, since the possessive says who (goksel2005 §17.3): *(benim) yanımda* "beside me, with me", *(senin) önünde* "in front of you", *(bizim) arkamızda* "behind us".
+**With a pronoun**, the possessive changes person, and the pronoun itself is often left out, since the possessive says who (goksel2005 §17.3): *(benim) yanımda* "beside me, with me", *(senin) önünde* "in front of you", *(bizim) arkamızda* "behind us".
 
 **When the genitive is left out.** The reference noun stays bare, and the location noun keeps the third-person singular possessive, when the reference is not a specific thing (goksel2005 §17.3.1.2):
 
@@ -76,20 +76,20 @@ confidence: constructed
 :::
 
 :::example
-orig: Bu tabloyu kanepenin üstüne asalım.
-morphemes: bu tablo-yu kanepe-nin üst-ü-ne as-alım
-gloss: this picture-ACC sofa-GEN top-3SG.POSS-DAT hang-OPT.1PL
-translation: Let's hang this picture above the sofa.
+orig: Bu tabloyu kapının üstüne asalım.
+morphemes: bu tablo-yu kapı-nın üst-ü-ne as-alım
+gloss: this picture-ACC door-GEN top-3SG.POSS-DAT hang-OPT.1PL
+translation: Let's hang this picture above the door.
 note: Motion to a place: the dative (goksel2005 §17.3.1.1 (i)).
 source: constructed
 confidence: constructed
 :::
 
 :::example
-orig: Kanepenin altından bir fare çıktı.
-morphemes: kanepe-nin alt-ı-ndan bir fare çık-tı
-gloss: sofa-GEN bottom-3SG.POSS-ABL a mouse come.out-PST
-translation: A mouse came out from under the sofa.
+orig: Dolabın altından küçük bir fare çıktı.
+morphemes: dolab-ın alt-ı-ndan küçük bir fare çık-tı
+gloss: cupboard-GEN bottom-3SG.POSS-ABL small a mouse come.out-PST
+translation: A little mouse came out from under the cupboard.
 note: Motion from a place: the ablative.
 source: constructed
 confidence: constructed
@@ -179,9 +179,9 @@ confidence: constructed
 
 - **Where something is**: locative: *masanın üstünde*, *yatağın altında*, *evin önünde*, *okulun arkasında*, *çantanın içinde*, *evin dışında* "outside the house", *bankanın karşısında*, *evin etrafında* "around the house", *şehrin ortasında* "in the middle of the city".
 - **Where something goes**: dative: *masanın üstüne koy*, *yanıma otur*, *evin önüne park et*.
-- **Where it comes from, or the way through**: ablative: *kanepenin altından*, *parkın içinden geçtik*, *köprünün altından* "under the bridge (passing)".
+- **Where it comes from, or the way through**: ablative: *dolabın altından*, *parkın içinden geçtik*, *köprünün altından* "under the bridge (passing)".
 - **With pronouns**: *yanımda*, *önünde*, *arkamızda*, *aranızda* "among you, between you"; the genitive pronoun may be added for emphasis.
-- **Yan with people**: "at someone's place" (*annesinin yanında*), "in someone's presence" (*babasının yanında sigara içmez* "he does not smoke in front of his father"), "working for": *Yanımda beş kişi çalışıyor* "Five people work for me" (goksel2005 §17.3.1.3 (iv)).
+- **Yan with people**: "at someone's place" (*annesinin yanında*), "in someone's presence" (*babasının yanında hiç konuşmaz* "he never speaks in front of his father"), "working for": *Yanında on kişi çalışıyor* "Ten people work for her" (goksel2005 §17.3.1.3 (iv)).
 - **İç and ara for "among"**: *öğrenciler arasında* "among the students" (goksel2005 §17.3.1.3 (i)).
 - **Non-specific or metaphorical references, without the genitive**: *bir kâğıt üstünde*, *iki saat içinde*, *korku içinde*, *kardeşler arasında* "between siblings (in general)" (goksel2005 §17.3.1.2).
 - **As ordinary nouns**: *Evin içi çok güzel* "The inside of the house is very nice"; *arabanın önü* "the front of the car".
@@ -242,7 +242,7 @@ etraf | - | noun | surroundings; (with possessive and case) around | from Arabic
 orta | - | noun | middle; (as adjective) central | ortasında "in the middle of"
 hakkında | - | postposition | about, concerning | hak + possessive + locative
 yerine | - | postposition | instead of | yer + possessive + dative
-yüzünden | - | postposition | because of | yüz + possessive + ablative
+yüzünden | - | postposition | because of | yüz + possessive + ablative; only for causes with bad results (goksel2005 §17.3.2.1 (viii))
 sayesinde | - | postposition | thanks to | senin sayende "thanks to you"
 kanepe | - | noun | sofa | 
 fare | - | noun | mouse | 

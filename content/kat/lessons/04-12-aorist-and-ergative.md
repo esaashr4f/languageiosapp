@@ -7,7 +7,7 @@ title: "What happened: the aorist and the ergative"
 point: Form the aorist of transitive verbs and put their subject in the ergative and their object in the nominative
 requires: [kat-04-11]
 introduces: [aorist, ergative]
-confidence: verified
+confidence: uncertain
 sources: [bolkvadze2023, wiktionary, linguage]
 ---
 
@@ -215,14 +215,14 @@ confidence: constructed
 
 **Use the preverb for a finished act.** *\*Gušin c̣erili vc̣ere* is "I spent time writing a letter yesterday", not "I wrote the letter". For the finished act: *davc̣ere*.
 
-**Sources sometimes disagree on -a and -o.** For *agebs* "builds", Bolkvadze and Kiziria give the aorist *aago*, Wiktionary *aaga*. Where this guide's notes give two forms, both are in use.
+**Sources sometimes disagree on -a and -o.** For *agebs* "builds", Bolkvadze and Kiziria give the aorist *aago*, Wiktionary *aaga*. Where this guide's notes give two forms, both are in use. The same goes for "they baked": lingua.ge gives *gamoacxves*, Wiktionary *gamoacxes*; the table shows both.
 
 ## Reference table
 
 :::table
 caption: Aorist of class 1 verbs, with the subject case
-confidence: verified
-source: wiktionary (წერს, ხატავს, აშენებს, ჭრის, აცხობს); bolkvadze2023 §9.6.2.1
+confidence: uncertain
+source: wiktionary (წერს, ხატავს, აშენებს, ჭრის, აცხობს); linguage (ცხობა); bolkvadze2023 §9.6.2.1
 | Person | Subject | wrote | drew | built | cut | baked |
 |---|---|---|---|---|---|---|
 | 1SG | მე me | დავწერე davc̣ere | დავხატე davxaṭe | ავაშენე avašene | გავჭერი gavč̣eri | გამოვაცხვე gamovacxve |
@@ -230,7 +230,7 @@ source: wiktionary (წერს, ხატავს, აშენებს, ჭ
 | 3SG | მან man | დაწერა dac̣era | დახატა daxaṭa | ააშენა aašena | გაჭრა gač̣ra | გამოაცხო gamoacxo |
 | 1PL | ჩვენ čven | დავწერეთ davc̣eret | დავხატეთ davxaṭet | ავაშენეთ avašenet | გავჭერით gavč̣erit | გამოვაცხვეთ gamovacxvet |
 | 2PL | თქვენ tkven | დაწერეთ dac̣eret | დახატეთ daxaṭet | ააშენეთ aašenet | გაჭერით gač̣erit | გამოაცხვეთ gamoacxvet |
-| 3PL | მათ mat | დაწერეს dac̣eres | დახატეს daxaṭes | ააშენეს aašenes | გაჭრეს gač̣res | გამოაცხვეს gamoacxves |
+| 3PL | მათ mat | დაწერეს dac̣eres | დახატეს daxaṭes | ააშენეს aašenes | გაჭრეს gač̣res | გამოაცხვეს gamoacxves or გამოაცხეს gamoacxes |
 :::
 
 ## New words

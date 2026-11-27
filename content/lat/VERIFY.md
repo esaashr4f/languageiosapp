@@ -146,3 +146,16 @@ Worked answers checked: 185   corrected: 5 (and 3 exercise prompts)
 Corrections (summary): Nero 49.1 not "last words"; fīet; §579 verb list and §577 wording quoted as A&G give them; unmarked omissions in Gallic War 1.53.1, 1.7.3, 3.14.3, Cat. 1.10 given ellipses; Romance "descends from" claims softened to parallels (French ne < nōn); Chrīstus, Iēsūm; usque, narrō without macrons; familiae is the ordinary genitive (old genitive familiās, §43b); "whenever" takes present or perfect for present time (§548); sī aliquis un-starred (possible but emphatic, §310b); quasi = quam + sī cited to Wiktionary; Tusc. 1.18 enim restored; review exercise 15 count fixed.
 
 Still open: Pinkster 2015 not opened (sequence "schoolbook regularisation" point rests on the dossier); several Civil War, Sallust Jug. 85 and Livy 2.1 passages cited by chapter only (no section numbers in The Latin Library); some leading connectives dropped without comment (as A&G quote them); Decidius vs A&G's Dēcidius unresolved.
+
+
+### Part 7 — verified 2026-11-27 by fresh subagent
+Lessons checked: lat-07-01 to lat-07-15 (reviews 07-07, 07-15)
+Forms checked: 3317   corrected: 7   left unverified: 0
+Glosses checked: 1017   corrected: 4
+Attested quotations checked: 114   corrected: 15
+Claims checked: 225   corrected or removed: 18
+Worked answers checked: 169   corrected: 4
+
+Corrections (summary): licet takes the dative or the accusative (§455 note), so *Mē licet manēre un-starred and the contrast moved to oportet; contrary-to-fact apodosis in reported speech is nōn fuisse difficile (§589b); quotations restored to The Latin Library text (Sallust Cat. 36.4, Cicero Laws 2.13, Tusc. 4.55, Quintilian 12.1.1, Arbroath providiencia) with ellipses; spellings vēndere, scēptra, Sextīlīs, bissextīlis, duodēvīcēsimae, nuptum; -ēre "alternative", not "older"; final-syllable quantity rules restated (§604); Catullus 101.1 has three spondees; igitur "usually second"; inscription abbreviations confirmed against Wikipedia's list, H.S.E. both readings.
+
+Still open: Caelius stone and Scipio epitaphs checked only against Wikipedia, CLE poems only against The Latin Library (EDCS, CIL, Bücheler unreachable); A&G derivation sections §§245–259 not opened one by one (poor OCR); "Livy ab Rōmā" unsourced; Tītyre long ī unchecked.

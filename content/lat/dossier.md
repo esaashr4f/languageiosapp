@@ -224,3 +224,12 @@ Cite attested sentences as author, work, book.chapter(.section) or poem.line, e.
 - Aeneid: the edition prints Trōiae, īnsīgnem; the guide uses Wiktionary's Troia, īnsignis, and gives inferretque as īnferretque. fēcerīmus (Catullus 5.10) has a long ī for the metre; the lesson does not explain why.
 - Part 9: 09-01 and 09-02 are generated from lesson tables by scratchpad p7/tables.py (spec1.json, spec2.json): rerun it whenever a lesson table changes. 09-03 from glossary.json; 09-04 from sources.json.
 - 07-04 (1,812) and 07-08 (1,809) are slightly over 1,800 prose words after edits: trim.
+
+
+## Notes from verifying part 7 (2026-11-27)
+
+- licet takes the dative or the accusative (A&G §455 note); oportet takes the accusative only.
+- Spellings: duodēvīcēsimus (not -ēnsimus), vēndere, scēptrum, bissextīlis (A&G); nuptum short; the Arbroath edition prints prouidiencia (printed providiencia with u/v normalised).
+- Do not call the -ēre perfect ending "older" (A&G §163 footnote: origin doubtful).
+- Bennett 1918 §§361–373 confirmed (Gutenberg text saved in scratchpad p7/src/bennett.txt).
+- Inscription texts rest on Wikipedia and The Latin Library (EDCS, CIL, Bücheler unreachable): confirm against CIL when reachable.

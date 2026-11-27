@@ -157,6 +157,27 @@
    "url": "https://en.wikipedia.org/wiki/Leiden_Conventions",
    "used_for": "Editorial sigla in inscription texts (lat-07-14).",
    "access": "Open; opened 2026-11-27."
+  },
+  {
+   "id": "wp-latabbr",
+   "citation": "Wikipedia, \"List of classical Latin abbreviations\".",
+   "url": "https://en.wikipedia.org/wiki/List_of_classical_abbreviations",
+   "used_for": "Expansions of inscription abbreviations (V. A., F. C., V. S. L. M., S. T. T. L., H. S. E.) in lat-07-14.",
+   "access": "Open; opened 2026-11-27."
+  },
+  {
+   "id": "dewp-caelius",
+   "citation": "German Wikipedia, \"Caeliusstein\" (CIL XIII 8648).",
+   "url": "https://de.wikipedia.org/wiki/Caeliusstein",
+   "used_for": "Text of the Caelius stone in Leiden form (lat-07-14).",
+   "access": "Open; opened 2026-11-27. EDCS and CIL not reachable."
+  },
+  {
+   "id": "lawp-scipio",
+   "citation": "Latin Wikipedia, \"Scipionum elogia\" (CIL VI 1285, 1287).",
+   "url": "https://la.wikipedia.org/wiki/Scipionum_elogia",
+   "used_for": "Texts of the Scipio epitaphs (lat-07-12).",
+   "access": "Open; opened 2026-11-27. EDCS and CIL not reachable."
   }
  ]
 }

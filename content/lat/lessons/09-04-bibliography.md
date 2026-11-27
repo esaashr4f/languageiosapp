@@ -56,11 +56,14 @@ Attested sentences were quoted from these editions and are cited by work and pas
 - **Biblia Sacra iuxta Vulgatam versionem (Stuttgart Vulgate, ed. R. Weber and R. Gryson) and the Clementine Vulgate (1592).** Used for: Late Latin reading passage. Access: Text open online (e.g. The Latin Library).
 - **Corpus Inscriptionum Latinarum (1863– ). Berlin. Texts via the Epigraphik-Datenbank Clauss-Slaby.** https://db.edcs.eu/ Used for: Inscriptions and graffiti, cited by volume and number. Access: Database open online.
 - **Bücheler, F. (ed.) (1895–1897). Carmina Latina Epigraphica. Leipzig: Teubner (Anthologia Latina II).** https://www.thelatinlibrary.com/epitaphs.html Used for: Verse epitaphs in lat-07-14, cited by CLE number (52, 204, 439, 799) as The Latin Library's epitaphs page gives them. Access: Public domain; texts read on The Latin Library's epitaphs page 2026-11-27. The edition itself not opened.
+- **Latin Wikipedia, "Scipionum elogia" (CIL VI 1285, 1287).** https://la.wikipedia.org/wiki/Scipionum_elogia Used for: Texts of the Scipio epitaphs (lat-07-12). Access: Open; opened 2026-11-27. EDCS and CIL not reachable.
+- **German Wikipedia, "Caeliusstein" (CIL XIII 8648).** https://de.wikipedia.org/wiki/Caeliusstein Used for: Text of the Caelius stone in Leiden form (lat-07-14). Access: Open; opened 2026-11-27. EDCS and CIL not reachable.
 
 ## Glossing and editorial conventions
 
 - **Comrie, B., Haspelmath, M. and Bickel, B. (2015). The Leipzig Glossing Rules.** https://www.eva.mpg.de/lingua/resources/glossing-rules.php Used for: Glossing conventions and abbreviations. Access: Open.
 - **Leiden Conventions for editing inscriptions and papyri (1931), as summarised in Wikipedia, "Leiden Conventions".** https://en.wikipedia.org/wiki/Leiden_Conventions Used for: Editorial sigla in inscription texts (lat-07-14). Access: Open; opened 2026-11-27.
+- **Wikipedia, "List of classical Latin abbreviations".** https://en.wikipedia.org/wiki/List_of_classical_abbreviations Used for: Expansions of inscription abbreviations (V. A., F. C., V. S. L. M., S. T. T. L., H. S. E.) in lat-07-14. Access: Open; opened 2026-11-27.
 
 ## Classification and typology
 

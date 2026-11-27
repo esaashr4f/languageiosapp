@@ -34,8 +34,8 @@ The sources do not say where the thematic suffixes came from, and this guide doe
 - **-av**: *xaṭ-av-s* "draws", *ḳer-av-s* "sews", *ḳl-av-s* "kills".
 - **-am**: *sv-am-s* "drinks".
 - **-i**: *xsn-i-s* "opens", *zrd-i-s* "raises", *č̣r-i-s* "cuts", *gzavn-i-s* "sends", *q̇id-i-s* "sells".
-- **-em** and **-op**: one verb each, *c-em-s* "beats, publishes" and *q̇-op-s* "divides".
-- **none**: *c̣er-s* "writes", *tx-ov-s* "asks for" (here *-ov* is part of the root, and it stays in the past: *motxova*), *ḳrep-s* "picks", *c̣ams* "eats".
+- **-em** and **-op**: one verb each, *c-em-s* "publishes" and *q̇-op-s* "divides". (The same *cems* in the sense "beats" is treated by Bolkvadze and Kiziria as a one-stem verb.)
+- **none**: *c̣er-s* "writes", *tx-ov-s* "asks for" (here *-ov* is part of the root, and it stays in the past: *motxova*), *ḳrep-s* "picks", *č̣ams* "eats".
 
 **Finding the stem.** Every verb in this guide is listed under its "he, she" form. Remove the person suffix *-s* and you have the present stem: *gzavni-s* → *gzavni-*; *ṭovebs* → *ṭoveb-*. Then look at its end. If it is one of the suffixes above, that is (very probably) the thematic suffix, and the root is what is left before it. If you are unsure whether the end belongs to the root, the past form in the vocabulary notes settles it: what disappears in the past was the thematic suffix. *Xaṭavs* has the past *daxaṭa*: *-av* goes, so it was a thematic suffix. *Txovs* has the past *motxova*: *-ov* stays, so it belongs to the root.
 
@@ -117,7 +117,7 @@ translit: bavšvebi q̇vavilebs ḳrepen.
 morphemes: bavšv-eb-i q̇vavil-eb-s ḳrep-en
 gloss: child-PL-NOM flower-PL-DAT pick-3PL.SBJ
 translation: The children are picking flowers.
-note: No thematic suffix: a one-stem verb, so -en goes straight on the root.
+note: No thematic suffix, so -en goes straight on the root. Bolkvadze and Kiziria still count ḳreps with the two-stem verbs, because its root vowel changes in the past (daḳripa).
 source: constructed
 confidence: constructed
 :::

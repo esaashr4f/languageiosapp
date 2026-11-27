@@ -263,7 +263,7 @@ French *où* means both "where" and "when" (*le jour où il est arrivé*), the s
 4. Say "do as the teacher says".
 5. Translate *Mbu walikuwa wengi mahali alipolala.*
 6. Translate *Gari lilipowasha taa, tuliona njia.*
-7. Correct *\*Sijui wapi umeweka tochi.*
+7. Rephrase with a relative: *Sijui wapi umeweka tochi.*
 8. Correct *\*Utakapofika, ninakupigia simu* (meaning "when you arrive, I'll call you").
 9. Correct *\*Alieleza vipi alipika.*
 10. Say "the place where we didn't sleep" with *amba-*.

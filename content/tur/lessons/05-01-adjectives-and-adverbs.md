@@ -32,7 +32,7 @@ So one word can describe a noun, stand for one, or describe an action, depending
 1. **Choose the adjective**: *yüksek* "high, tall".
 2. **Add a degree word, if you want one, in front of it**: *çok yüksek* "very high", *oldukça yüksek* "quite high", *biraz yüksek* "a bit high" (goksel2005 §15.4.1.1).
 3. **If the noun is indefinite, put *bir* after the adjective**: *yüksek bir dağ* "a high mountain" (tur-02-01). A modified adjective must stand before *bir*: *çok yüksek bir dağ* (goksel2005 §15.9.2).
-4. **Put demonstratives and numbers first**: *bu iki yüksek dağ* "these two high mountains". Göksel and Kerslake give the order: determiner, number, adjective, noun (goksel2005 §15.9.2).
+4. **Put demonstratives and numbers first**: *bu iki yüksek dağ* "these two high mountains". Göksel and Kerslake give the order: determiner, number, adjective, noun (goksel2005 §§15.9.1–15.9.2).
 5. **Put the suffixes on the noun**: *bu iki yüksek dağda* "on these two high mountains".
 
 **To use an adjective as a noun**, treat it as a noun.
@@ -166,7 +166,7 @@ confidence: constructed
 
 - **Before a noun, describing it**: *beyaz ev*, *yüksek bir dağ*, *bu iki küçük oda*.
 - **After the subject, as the predicate**: *Araba hızlı*; with person endings, *Hastayım* (tur-02-02); with copular markers, *Hızlıydı* (tur-04-08).
-- **After a degree word**: *çok*, *biraz*, *oldukça*, *pek* (with a negative, tur-02-09), *fazla* "too": *fazla pahalı* "too expensive" (goksel2005 §15.6.1). Comparison with *daha* and *en* is tur-05-02.
+- **After a degree word**: *çok*, *biraz*, *oldukça*, *pek* (with a negative, tur-02-09), *fazla* "too": *fazla pahalı* "too expensive" (goksel2005 §16.5). Comparison with *daha* and *en* is tur-05-02.
 - **As a noun for a kind**: *zenginler*, *gençler*, *yaşlılar* "old people", *hastalar* "patients, sick people".
 - **As a noun for "the ... one"**: *büyüğü*, *yenisi*, *eskisi*, *kırmızısı* "the red one". The noun is understood from the context.
 - **As the name of a colour or quality**: *Beyazı severim* "I like (the colour) white", with the accusative of a specific object.

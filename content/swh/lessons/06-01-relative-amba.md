@@ -64,7 +64,7 @@ Now "the tree which fell was tall".
 
 The verb after *amba-* is a full verb with its own tense. So *amba-* works with every tense you know: *-na-*, *-li-*, *-ta-*, *-me-*, the negatives, *-ki-* forms with *kuwa*. Almasi and colleagues stress this: "The amba- Relative can be used with any verb and with any tense." The relative inside the verb (lesson 6.2) cannot do this.
 
-To make the relative clause negative, make its verb negative in the usual way. *Ambaye* itself does not change: *mtu ambaye hasomi* "a person who doesn't read", *watu ambao hawakuja* "people who didn't come" (Almasi and colleagues, p. 296).
+To make the relative clause negative, make its verb negative in the usual way. *Ambaye* itself does not change: *mtu ambaye hasomi* "a person who doesn't read", *watu ambao hawakuja* "people who didn't come" (the rule is Almasi and colleagues', pp. 296–297).
 
 ## Examples
 
@@ -188,7 +188,7 @@ confidence: constructed
 - **The relative clause on a subject or an object of the main verb**: *Wanafunzi ambao walifaulu watapata zawadi* (subject); *Ninamjua mwalimu ambaye anafundisha Kiswahili* "I know the teacher who teaches Swahili" (object of the main verb).
 - **When the noun is the object inside the relative clause** ("the book which I read"), *amba-* is used too, with an object prefix on the verb: Almasi and colleagues' *mnyama ambaye tumemwona* "an animal which we have seen". Lesson 6.3 teaches this.
 - **Place, time and manner nouns**: *ambapo*, *ambako*, *ambamo* exist for the place classes (Wiktionary table). Lesson 6.6 covers "where" and "when".
-- **Register.** Both ways of making relatives are standard. Sources disagree on which is more usual in speech (Wiktionary calls the *amba-* form the colloquial norm; Wikipedia's grammar article calls it a newer, urban and media usage). They agree on one practical fact: with *-me-*, the negatives and the compound tenses, *amba-* is the only option.
+- **Register.** Both ways of making relatives are standard. Sources disagree on which is more usual in speech (Wiktionary calls the *amba-* form the colloquial norm; Wikipedia's grammar article calls it a newer, urban and media usage). They agree on one practical fact: with *-me-*, the negative past and future and the other tenses outside *-na-*, *-li-*, *-ta-*, *amba-* is the only option (the present negative also has a *-si-* form, lesson 6.4).
 
 ## Watch out
 
@@ -262,7 +262,7 @@ sinema | - | noun | cinema; film | 9/10, pl. sinema
 
 ## Connections
 
-Spanish and French *que* is one invariable word; Swahili's *amba-* is closer to Spanish *el cual, la cual, los cuales*, which agree with the noun they point back to. Arabic *alladhī, allatī, alladhīna* also agree, in gender and number, and Arabic too keeps a pronoun inside the clause that refers back to the noun, as Swahili keeps the subject prefix. Japanese and Korean put the describing clause before the noun with no relative word at all; Swahili, like English, puts it after.
+Spanish and French *que* is one invariable word; Swahili's *amba-* is closer to Spanish *el cual, la cual, los cuales*, which agree with the noun they point back to. Arabic *alladhī, allatī, alladhīna* also agree, in gender and number. Japanese and Korean put the describing clause before the noun with no relative word at all; Swahili, like English, puts it after.
 
 ## Exercises
 
@@ -273,7 +273,7 @@ Spanish and French *que* is one invariable word; Swahili's *amba-* is closer to 
 5. Translate *Mikate ambayo haikuokwa vizuri iko wapi?* (*-okwa* is the passive "be baked", part 7.)
 6. Correct *\*Mfanyabiashara ambacho anauza viatu.*
 7. Correct *\*Wachezaji ambao wasiokuja.*
-8. Say "the doctor who treated me has gone" (*daktari*, class 9 in form).
+8. Say "the doctor who treated me has gone" (*daktari*, class 5 in form, plural *madaktari*).
 9. Explain why *ambaye* has -ye but *ambao* has -o.
 
 ## Worked answers

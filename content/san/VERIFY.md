@@ -57,3 +57,7 @@ Claims checked: 44   corrected or removed: 5
 Worked answers checked: 32   corrected: 0
 
 Corrections (summary): periphrastic future paradigm cited to Whitney §944 (not §942); a correct kariṣyati wrongly starred, un-starred; unsourced Japanese/Korean future claim removed; uvāca count in MBh 3 corrected to over 1,300 (1,386 tokens); sa putrebhyo dhanaṃ dadau (dative receiver) replaces the accusative; klaiby-am segmented; kurvañ chiṣyo (ś → ch after ñ, §203); Greek -ómenos "corresponds to" -māna.
+
+
+### Part 4, lesson 21 (review) — verified 2026-11-27 by the same verifier
+Lessons checked: san-04-21. Forms 62, glosses 10, attested lines 6 (Hitopadeśa 1, prose after 1.157, and 1.157c–d), worked answers 22: no corrections. Part 4 (san-04-01 to 04-21) is now fully verified.

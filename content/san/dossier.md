@@ -480,3 +480,15 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Accent: say "in Vedic, which marks the accent", not "in the parent language".
 - archive.org OCR misnumbers present-system paragraphs: real §751 printed 761; §753 printed 763 (twice); §762 printed 7623; §775 printed 776 (first of two); §203 printed 208 (first of two); §528 printed 628; §636 printed 686. Match paragraphs by text.
 - Romance comparisons: Spanish sea < Latin sedeat; do not claim descent from forms of esse.
+
+
+## Notes from drafting part 4 (2026-11-27)
+
+- Prefixes: Whitney §1077 lists 19 (with antar); the tradition counts twenty (Pāṇini's list with su and dus, without antar: unchecked against the Aṣṭādhyāyī). 04-04 teaches the 19 and explains the count; su, dus would be glossed well, ill.
+- Compound verbs have their own vocab headwords (āgam, upaviś, prāp, ādā, vidhā, śraddhā …); the 18 preverbs are entered as "preverb"; api not re-listed. vid "find" (vindati) has no headword (clash with vid "know"); glossed in place.
+- Cuts: kamp-ete; gacchā-ni / gacchā-ma; bhav-e-t, bhav-e-yuḥ, pālay-e-t, s-yā-t; yunak-ti, ruṇad-dhi; śe-rate. Glosses: aiccha-t PST.want-3SG; ā-ga-tā hither-go-PST.PTCP.NOM.SG.F; kartā-smi do.FUT-1SG; mā bhai-ṣ-īḥ PROH fear-AOR-2SG; a-vāc-i PST-say-AOR.3SG.
+- From 04-07 on, constructed examples apply all sandhi; nasalised l before l avoided in constructed examples (Bhg 4.39a keeps GRETIL's ṃl).
+- Built by rule, not found as single forms (verifier to check): passives nīyate, pūjyate, cintyate, stūyate, tīryate, bhriyate, smaryate, dhīyate, pṛcchyate; absolutives vijitya, upakṛtya, kathayitvā, khāditvā; infinitives patitum, cintayitum; hasantī, aśāna; periphrastic future 2DU/2PL; lapsyadhve, lapsyāmahe.
+- Entered as full vocab in part 4 (do not re-list): yathā, mā, sma, sat, asat, vidvas, samyak and other consonant-final adverbs, deha, dehin, svadharma, saṅga, pātratā, pātratva. eka is still free.
+- Attested lines used in part 4: Bhg 2.47c, 2.47d, 2.48a–b, 2.48d, 1.1c–d (capstone verses, already seen), and 2.3, 2.11, 2.13, 2.16, 2.19, 2.20, 2.22, 2.37, 2.62, 4.39, 8.27, 11.3, 11.8, 13.28, 18.66; MBh 3.50.1, 3.50.18c–d, 3.50.30c–d, 3.71.2; Rām 1.2.14a–b; Hit 0.6, 1.15, 1.20, 1.157 and prose after 1.157, 1.160, 1.184, 2.19, 2.89, 3.39; Manu 2.110, 4.137–139.
+- Plain-text GRETIL copies of the Gītā, MBh book 3, Hitopadeśa and Manu are in the scratchpad (san4/).

@@ -187,6 +187,13 @@
    "citation": "Mayrhofer, M. (1986–2001). Etymologisches Wörterbuch des Altindoarischen. Heidelberg: Winter.",
    "used_for": "Etymologies, for Connections notes.",
    "access": "In copyright; not consulted. Etymologies are taken from wiktionary only where it cites a source, otherwise omitted."
+  },
+  {
+   "id": "whitney1885",
+   "citation": "Whitney, W. D. (1885). The Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language. Leipzig: Breitkopf & Härtel.",
+   "url": "https://archive.org/details/rootsverbformspr00whituoft",
+   "used_for": "Checking tense stems and verb forms outside the present system (perfect, aorist, future, passive, absolutive, infinitive).",
+   "access": "Public domain; archive.org scan with OCR (use OCR for section text only, never forms)."
   }
  ]
 }

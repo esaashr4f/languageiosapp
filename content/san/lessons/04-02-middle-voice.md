@@ -259,7 +259,7 @@ source: wiktionary (लभते); whitney1889 §735
 
 ## Connections
 
-Greek has the same two voices with the same kind of split: *lúō* "I loose", *lúomai* "I loose for myself, ransom", and many middle-only verbs such as *boúlomai* "I want" and *gígnomai* "I become, am born", the cognate of *jāyate*. Spanish and French express the same idea with a reflexive pronoun: *se alegra*, *il se réjouit* "rejoices" correspond in sense to *modate*, and Latin "deponent" verbs (*nascitur* "is born", *loquitur* "speaks") are the remains of an older middle.
+Greek has the same two voices with the same kind of split: *lúō* "I loose", *lúomai* "I loose for myself, ransom", and many middle-only verbs such as *boúlomai* "I want" and *gígnomai* "I become, am born", from the same root as *jāyate* (Wiktionary, γίγνομαι). Spanish and French express the same idea with a reflexive pronoun: *se alegra*, *il se réjouit* "rejoices" correspond in sense to *modate*, and Latin "deponent" verbs (*nascitur* "is born", *loquitur* "speaks") have passive-looking endings with active meaning, much as a middle-only verb does.
 
 ## Exercises
 

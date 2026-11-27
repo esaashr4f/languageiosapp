@@ -15,7 +15,7 @@ sources: [whitney1889, speijer1886, mw1899, wiktionary, gretil]
 
 San-03-09 gave you two pointing words, *sa* "that, he" and *eṣa* "this". Classical Sanskrit has two more: ***ayam*** (m.), ***iyam*** (f.), ***idam*** (n.) "this", and ***asau*** (m., f.), ***adaḥ*** (n.) "that, yonder". The dossier glosses them `this` and `yonder` (lower case, as lexical words).
 
-Speijer (§271) sorts the four by distance. *ayam* and *eṣa* point "at something near to the speaker or his time"; *sa* and *asau* point at "something remote either by space or by time". He compares *ayam* and *eṣa* to Latin *hic*, *sa* and *asau* to Latin *ille*. Between the near pair the difference is slight: Speijer (§272) calls *eṣa* "the emphatic *ayam*", and adds that the two "are sometimes used almost promiscuously". Between the far pair, *asau* is the one that points into the distance, "yon, yonder" (Whitney §501).
+Speijer (§271) sorts the four by distance. *ayam* and *eṣa* point "at something near to the speaker or his time"; *sa* and *asau* point at "something remote either by space or by time". He compares *ayam* and *eṣa* to Latin *hic*, *sa* and *asau* to Latin *ille* and *iste*. Between the near pair the difference is slight: Speijer (§272) calls *eṣa* "the emphatic *ayam*", and adds that the two "are sometimes used almost promiscuously". Between the far pair, *asau* is the one that points into the distance, "yon, yonder" (Whitney §501).
 
 So:
 
@@ -189,7 +189,7 @@ gloss: jewel-INS.SG adorn-PST.PTCP-NOM.SG.M snake-NOM.SG Q yonder.NOM.SG.M not f
 literal: A snake adorned with a jewel: is that one not fear-making?
 translation: A snake may wear a jewel; is it any less dangerous?
 note: Preview: bhūṣita "adorned" is a past participle of √bhūṣ (san-04-13). asau refers to the snake, held at a distance. bhayaṅkara "frightening" is a compound whose first member keeps its accusative ending (bhayam-, part 5); the m becomes ṅ before k inside the word.
-source: Hitopadeśa 1.90b (GRETIL e-text sa_nArAyaNa-hitopadeza)
+source: Hitopadeśa 1.90c–d (GRETIL e-text sa_nArAyaNa-hitopadeza)
 confidence: attested
 preview: PST, PTCP
 :::
@@ -278,7 +278,7 @@ source: wiktionary अदस्; whitney1889 §§501, 503
 
 ## Connections
 
-Latin has the same three-way system that Speijer compares (*hic* "this, near me", *iste* "that, near you", *ille* "that, yonder"), and Spanish keeps it (*este*, *ese*, *aquel*). Japanese and Korean have a clear three-way set (*kore, sore, are*; *i, geu, jeo*), with *are* and *jeo* close to Sanskrit *asau*: "that one over there".
+Latin, which Speijer uses for comparison, has a three-way system of its own (*hic* "this, near me", *iste* "that, near you", *ille* "that, yonder"), and Spanish keeps it (*este*, *ese*, *aquel*). Japanese and Korean have a clear three-way set (*kore, sore, are*; *i, geu, jeo*), with *are* and *jeo* close to Sanskrit *asau*: "that one over there".
 
 ## Exercises
 

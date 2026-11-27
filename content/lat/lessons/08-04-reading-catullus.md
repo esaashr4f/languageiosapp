@@ -79,7 +79,7 @@ confidence: attested
 
 :::example
 orig: Dein, cum mīlia multa fēcerīmus, conturbābimus illa, nē sciāmus, aut nē quis malus invidēre possit, cum tantum sciat esse bāsiōrum.
-morphemes: dein cum mīl-ia mult-a fēc-eri-mus conturbā-bi-mus ill-a nē sci-ā-mus aut nē quis mal-us invidē-re possit cum tantum sci-a-t es-se bāsi-ōrum
+morphemes: dein cum mīl-ia mult-a fēc-erī-mus conturbā-bi-mus ill-a nē sci-ā-mus aut nē quis mal-us invidē-re possit cum tantum sci-a-t es-se bāsi-ōrum
 gloss: then when thousand-ACC.PL many-ACC.PL.N do.PRF-FUTP-1PL confuse-FUT-1PL that-ACC.PL.N so.that.not know-SBJV-1PL or so.that.not anyone.NOM.SG.M wicked-NOM.SG.M envy-INF be.able.SBJV.3SG when so.much.ACC.SG.N know-SBJV-3SG be-INF kiss-GEN.PL
 translation: Then, when we have made many thousands, we shall muddle the count, so that we do not know it, and so that no evil person can begrudge us, when he knows there are so many kisses.
 note: Future perfect, then future (part 4, lesson 8). Two purpose clauses with nē (part 6, lesson 7); quis after nē is "anyone". cum … sciat: a cum clause inside a purpose clause, so subjunctive (part 7, lesson 5). tantum bāsiōrum: partitive genitive. The metre needs a long ī in fēcerīmus: dein cum mī li a mul ta fē ce rī mus. Why this ending can be long is not explained here.
@@ -95,7 +95,7 @@ confidence: attested
 
 **Why muddle the count?** The last lines connect knowing the number with the power of an envious person; the poem does not say more, and this guide does not explain the belief behind it.
 
-**Scanning poem 5 for yourself.** Lines 2 and 4 to 6 follow the same pattern. Mark long vowels, apply position, make the elisions (*occidere et*, *mīlle altera*, *deinde usque*), and check against — — — ∪ ∪ — ∪ — ∪ — —.
+**Scanning poem 5 for yourself.** Lines 2, 4 to 6, 8 and 9, and 11 to 13 follow the same pattern. Mark long vowels, apply position, make the elisions (*occidere et*, *perpetua ūna*, *mīlle altera*, *deinde usque altera*), and check against — — — ∪ ∪ — ∪ — ∪ — —.
 
 **Line 5 scanned.** *Nōbīs cum semel occidit brevis lūx* divides as *nō·bīs·cum·se·me·loc·ci·dit·bre·vis·lūx*. *Nō*, *bīs* have long vowels; *cum* is closed by *m* + *s*; *se* and *me* are open with short vowels, since the *l* of *semel* moves on to *occidit*; *loc* is closed; *ci* is light; *dit* is closed by *t* + *b*; *bre* is light, because *b* + *r* can both start the next syllable; *vis* is closed by *s* + *l*. The result is the same eleven-syllable shape as line 1.
 

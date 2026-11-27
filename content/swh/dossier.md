@@ -445,3 +445,13 @@ Translations are always our own.
 - Thompson & Schleicher: printed p. 320 = PDF p. 299 (conjunctions); printed pp. 378–380 = PDF 351–353 (comparison). Cite printed pages.
 - au … au is not in Polomé or Almasi; only ama … ama is.
 - swh-05-04's example glosses still need a check (left at drafted).
+
+
+## Notes from drafting part 6 (2026-11-27)
+
+- Glossing: copula relative a-li-ye `C1.SM-be-C1.REL` (ki-li-cho, kuliko `C17.SM-be-C17.REL`, waliomo `C2.SM-be-C2.REL-C18`); general relative a-som-a-ye `C1.SM-read-FV-C1.REL`; future relative -taka- glossed FUT as one piece; ingawa, ijapokuwa, kwamba, iwapo, endapo glossed whole; ndi-ye `FOC-C1`, si-ye `FOC.NEG-C1`; -po-/-ko-/-mo- as C16.REL/C17.REL/C18.REL, -vyo- C8.REL.
+- Source splits stated: amba- relatives colloquial (Wiktionary) vs newer urban usage (Wikipedia); southern hatungekuja vs standard -singe-; -nge- for past meaning; ambaye ni + noun flagged; reported questions keep the question word in Almasi (p. 403) but the guide prefers the relative.
+- Labelled unverified: Aliwahi kuishi Mombasa (-wahi "once", 06-15); kabla + -ja- (06-11, recognition only).
+- Proverbs used in part 6 (add to the list): Mbwa abwekae haumi; Usipoziba ufa utajenga ukuta; Aliye kando haangukiwi na mti. Unused: mtaka cha mvunguni sharti ainame; mchumia juani hulia kivulini; mwosha huoshwa.
+- Previews used for part 7: PASS (kimefungwa, isiyofungwa, haangukiwi, utaadhibiwa), APPL (haangukiwi, -hamia, -andikia, -pigia). Introduced whole, do not re-list: -pendeza, -elekeza, -washa, -kimbilia, -jificha, -fahamisha, -hakikisha, -kumbusha, -burudisha, -lisha, -kopesha, -lainisha, -kamilisha, -thibitisha, -kosea, -bahatika, -taabika.
+- Thompson & Schleicher PDF has no text layer for this drafter's tools (earlier drafters read it): use page images or Almasi if text extraction fails.

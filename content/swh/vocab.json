@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 985,
+ "count": 1207,
  "words": [
   {
    "headword": "mama",
@@ -7063,7 +7063,7 @@
    "translit": "",
    "pos": "adjective",
    "meaning": "evil, wicked",
-   "forms": "waovu, maovu (a + o does not merge)",
+   "forms": "mwovu, waovu (a + o does not merge); other classes disputed",
    "first_lesson": "swh-05-01",
    "confidence": "verified"
   },
@@ -7476,8 +7476,8 @@
    "headword": "pili",
    "translit": "",
    "pos": "number",
-   "meaning": "second (only in -a pili)",
-   "forms": "old form of \"two\"",
+   "meaning": "two (abstract); second (in -a pili)",
+   "forms": "never agrees; counting a noun uses -wili",
    "first_lesson": "swh-05-03",
    "confidence": "verified"
   },
@@ -7657,7 +7657,7 @@
    "translit": "",
    "pos": "adverb",
    "meaning": "less, minus; (noun) defect",
-   "forms": "saa tatu kasoro robo \"a quarter to nine\"",
+   "forms": "saa tatu kasoro robo (or kasorobo) \"a quarter to nine\"",
    "first_lesson": "swh-05-04",
    "confidence": "verified"
   },
@@ -8865,6 +8865,2004 @@
    "meaning": "serpent, huge snake",
    "forms": "5/6, pl. majoka",
    "first_lesson": "swh-05-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "amba-",
+   "translit": "",
+   "pos": "relative",
+   "meaning": "who, which, that (with the o of reference)",
+   "forms": "ambaye, ambao, ambacho, ambalo, ambayo, ambazo...",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mtalii",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tourist",
+   "forms": "1/2, pl. watalii",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "fundi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "craftsman, skilled worker; mechanic",
+   "forms": "5/6, pl. mafundi; agreement 1/2",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kiwanda",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "factory",
+   "forms": "7/8, pl. viwanda",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "biashara",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "business, trade",
+   "forms": "9/10, pl. biashara; loan from Arabic",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mfanyabiashara",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "trader, businessperson",
+   "forms": "1/2, pl. wafanyabiashara; \"doer of business\"",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mchezaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "player",
+   "forms": "1/2, pl. wachezaji; from -cheza",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwanamuziki",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "musician",
+   "forms": "1/2, pl. wanamuziki",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ndoto",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dream",
+   "forms": "9/10, pl. ndoto",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mkoba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "handbag, bag",
+   "forms": "3/4, pl. mikoba",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "dawati",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "desk",
+   "forms": "5/6, pl. madawati",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "meli",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "ship",
+   "forms": "9/10, pl. meli",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bandari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "port, harbour",
+   "forms": "9/10, pl. bandari",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sinema",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "cinema; film",
+   "forms": "9/10, pl. sinema",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-tibu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "treat (medically), cure",
+   "forms": "kutibu; loan from Arabic, no final -a",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-sifu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "praise",
+   "forms": "kusifu; loan from Arabic, no final -a",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-tunga",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "compose, put together (a song, a story)",
+   "forms": "kutunga",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-oka",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "bake",
+   "forms": "kuoka",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kosa",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "miss, lack; make a mistake",
+   "forms": "kukosa; kosa (5/6) \"mistake\"",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-zama",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "sink; dive",
+   "forms": "kuzama",
+   "first_lesson": "swh-06-01",
+   "confidence": "verified"
+  },
+  {
+   "headword": "somo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lesson; subject (of study)",
+   "forms": "5/6, pl. masomo",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mhudumu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "attendant, waiter, server",
+   "forms": "1/2, pl. wahudumu",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mpangaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tenant",
+   "forms": "1/2, pl. wapangaji; from -panga \"rent\"",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwenyekiti",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "chairperson",
+   "forms": "1/2, pl. wenyekiti; \"owner of the chair\"",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "muuguzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "nurse",
+   "forms": "1/2, pl. wauguzi; also mwuguzi",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwigizaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "actor",
+   "forms": "1/2, pl. waigizaji",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mtazamaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "viewer, spectator",
+   "forms": "1/2, pl. watazamaji; from -tazama",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ada",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fee",
+   "forms": "9/10, pl. ada; loan from Arabic",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tuzo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "prize, award",
+   "forms": "9/10, pl. tuzo",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mashindano",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "competition, contest",
+   "forms": "6, plural only; from -shindana",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hotuba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "speech, address",
+   "forms": "9/10, pl. hotuba; loan from Arabic",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kozi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "course (of study)",
+   "forms": "9/10, pl. kozi; loan from English",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-hama",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "move away, move house",
+   "forms": "kuhama",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-pendekeza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "propose, recommend",
+   "forms": "kupendekeza",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-tangaza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "announce; advertise",
+   "forms": "kutangaza",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-gundua",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "discover, find out",
+   "forms": "kugundua",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-pakua",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "unload; serve out (food); download",
+   "forms": "kupakua",
+   "first_lesson": "swh-06-02",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ramani",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "map",
+   "forms": "9/10, pl. ramani; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kamusi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "dictionary",
+   "forms": "9/10, pl. kamusi; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "riwaya",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "novel",
+   "forms": "9/10, pl. riwaya; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "shairi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "poem",
+   "forms": "5/6, pl. mashairi; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ukurasa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "page",
+   "forms": "11/10, pl. kurasa",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sura",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "chapter; face, appearance",
+   "forms": "9/10, pl. sura; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maktaba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "library",
+   "forms": "9/10, pl. maktaba; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kitambulisho",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "identity card",
+   "forms": "7/8, pl. vitambulisho",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "miwani",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "glasses, spectacles",
+   "forms": "9/10, pl. miwani",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pochi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "purse, wallet",
+   "forms": "9/10, pl. pochi",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kariri",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "recite; learn by heart",
+   "forms": "kukariri; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-nakili",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "copy",
+   "forms": "kunakili; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-chapisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "print, publish",
+   "forms": "kuchapisha",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-futa",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wipe; erase, delete",
+   "forms": "kufuta",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-hifadhi",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "keep, preserve, save",
+   "forms": "kuhifadhi; loan from Arabic",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-pamba",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "decorate",
+   "forms": "kupamba",
+   "first_lesson": "swh-06-03",
+   "confidence": "verified"
+  },
+  {
+   "headword": "pori",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "the wild, bush, wilderness",
+   "forms": "5/6, pl. mapori; porini \"in the wild\"",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kiziwi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "deaf person",
+   "forms": "7/8, pl. viziwi; agreement 1/2",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bubu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mute person",
+   "forms": "5/6, pl. mabubu; agreement 1/2",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "yatima",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "orphan",
+   "forms": "1/2, pl. mayatima; loan from Arabic",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mjinga",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fool, ignorant person",
+   "forms": "1/2, pl. wajinga",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwongo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "liar",
+   "forms": "1/2, pl. waongo",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uongo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lie, falsehood",
+   "forms": "11, no plural",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwindaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "hunter",
+   "forms": "1/2, pl. wawindaji",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mlevi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "drunkard",
+   "forms": "1/2, pl. walevi; from -lewa",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mtoro",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "runaway, truant",
+   "forms": "1/2, pl. watoro",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tamaa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "desire, greed",
+   "forms": "9/10, pl. tamaa; loan from Arabic",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-winda",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hunt",
+   "forms": "kuwinda",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-dumu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "last, endure",
+   "forms": "kudumu; loan from Arabic",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-tii",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "obey",
+   "forms": "kutii; loan from Arabic",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-vumilia",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "endure, put up with",
+   "forms": "kuvumilia",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-dai",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "claim, demand",
+   "forms": "kudai; loan from Arabic",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-sitawi",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "flourish, thrive",
+   "forms": "kusitawi",
+   "first_lesson": "swh-06-04",
+   "confidence": "verified"
+  },
+  {
+   "headword": "gereza",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "prison",
+   "forms": "5/6, pl. magereza",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mfungwa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "prisoner",
+   "forms": "1/2, pl. wafungwa; \"one who is shut in\", from -funga",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hakimu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "magistrate, judge",
+   "forms": "5/6, pl. mahakimu; agreement 1/2; loan from Arabic",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwanasheria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "lawyer",
+   "forms": "1/2, pl. wanasheria",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mkurugenzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "director",
+   "forms": "1/2, pl. wakurugenzi",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mmiliki",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "owner, proprietor",
+   "forms": "1/2, pl. wamiliki; from -miliki",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mkazi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "resident, inhabitant",
+   "forms": "1/2, pl. wakazi",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwananchi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "citizen, ordinary person",
+   "forms": "1/2, pl. wananchi; \"child of the country\"",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwanachama",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "member",
+   "forms": "1/2, pl. wanachama",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kibali",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "permit",
+   "forms": "7/8, pl. vibali; loan from Arabic",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "leseni",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "licence",
+   "forms": "9/10, pl. leseni; loan from English",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kadi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "card",
+   "forms": "9/10, pl. kadi; loan from English",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "cheti",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "certificate",
+   "forms": "7/8, pl. vyeti",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ujuzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "knowledge, skill, know-how",
+   "forms": "14, no plural; from -jua",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uzoefu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "experience",
+   "forms": "14, no plural; from -zoea",
+   "first_lesson": "swh-06-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jinsi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "manner, way; how",
+   "forms": "9/10; jinsi + -vyo- \"how\"; loan from Arabic",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kadiri",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "measure, extent; as much as",
+   "forms": "9; kadiri + -vyo- \"as far as\"; loan from Arabic",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-pendeza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "please; be pleasing, look nice",
+   "forms": "kupendeza; from -penda",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-elekeza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "direct, point out; show the way",
+   "forms": "kuelekeza; from -elekea",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-lalamika",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "complain",
+   "forms": "kulalamika",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hazina",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "treasure; treasury",
+   "forms": "9/10, pl. hazina; loan from Arabic",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tochi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "torch",
+   "forms": "9/10, pl. tochi; loan from English",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "giza",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "darkness",
+   "forms": "5, no plural",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mbu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mosquito",
+   "forms": "9/10, pl. mbu; agreement 1/2",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-zurura",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "wander about, loiter",
+   "forms": "kuzurura",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-washa",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "light, switch on",
+   "forms": "kuwasha; from -waka",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-tua",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "land; put down (a load)",
+   "forms": "kutua",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-lowa",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "get wet",
+   "forms": "kulowa",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kimbilia",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "run to, run for (refuge)",
+   "forms": "kukimbilia; from -kimbia",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-jificha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hide (oneself)",
+   "forms": "kujificha; -ficha with the reflexive -ji-",
+   "first_lesson": "swh-06-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mhusika",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "person concerned, person responsible; character (in a story)",
+   "forms": "1/2, pl. wahusika",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mshukiwa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "suspect",
+   "forms": "1/2, pl. washukiwa; from -shuku",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "shahidi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "witness",
+   "forms": "5/6, pl. mashahidi; agreement 1/2; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ushahidi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "evidence, testimony",
+   "forms": "14; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kosa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "mistake, fault; offence",
+   "forms": "5/6, pl. makosa; from -kosa",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "chanzo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "source, origin, cause",
+   "forms": "7/8, pl. vyanzo",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "msingi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "foundation, basis",
+   "forms": "3/4, pl. misingi; -a msingi \"basic\"",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "lengo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "aim, goal, target",
+   "forms": "5/6, pl. malengo",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "suluhisho",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "solution",
+   "forms": "5/6, pl. masuluhisho",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jukumu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "responsibility, duty",
+   "forms": "5/6, pl. majukumu",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-laumu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "blame",
+   "forms": "kulaumu; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kiri",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "admit, confess",
+   "forms": "kukiri; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-shuku",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "suspect",
+   "forms": "kushuku; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-thibitisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "confirm, prove",
+   "forms": "kuthibitisha; loan from Arabic",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kana",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "deny",
+   "forms": "kukana",
+   "first_lesson": "swh-06-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kwamba",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "that (after say, know, think)",
+   "forms": "infinitive of -amba \"say\" (Wiktionary); also ya kwamba",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "eti",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "supposedly, they say; (in surprise) can it be that",
+   "forms": "marks doubt about reported words",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-dhani",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "think, suppose",
+   "forms": "kudhani; loan from Arabic",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-fahamisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "inform, make understand",
+   "forms": "kufahamisha; from -fahamu",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-hakikisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "make sure, ensure",
+   "forms": "kuhakikisha; from hakika",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-sisitiza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "insist, emphasise",
+   "forms": "kusisitiza",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-hisi",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "feel, sense",
+   "forms": "kuhisi; loan from Arabic",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-nong'ona",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "whisper",
+   "forms": "kunong'ona",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-pinga",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "oppose, object to",
+   "forms": "kupinga",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kanusha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "deny (a claim), refute",
+   "forms": "kukanusha",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "taarifa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "report, notice, information",
+   "forms": "9/10, pl. taarifa; loan from Arabic",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uvumi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rumour",
+   "forms": "11, no plural",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "usemi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "speech, utterance; saying",
+   "forms": "11/10, pl. semi; usemi halisi \"direct speech\"",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-arifu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "inform, notify",
+   "forms": "kuarifu; loan from Arabic",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kumbusha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "remind",
+   "forms": "kukumbusha; from -kumbuka",
+   "first_lesson": "swh-06-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ajili",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sake",
+   "forms": "9; kwa ajili ya \"for the sake of; because of\"",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mapumziko",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "rest, break; holiday",
+   "forms": "6, plural only; from -pumzika",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uchumi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "economy",
+   "forms": "14, no plural",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mazoezi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "exercise, practice, training",
+   "forms": "6, plural only; -fanya mazoezi \"exercise\"; from -zoea",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mavuno",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "harvest",
+   "forms": "6, plural only; from -vuna",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mahindi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "maize",
+   "forms": "6, plural only",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ukame",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "drought",
+   "forms": "14, no plural",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "chanjo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "vaccination, vaccine",
+   "forms": "9/10, pl. chanjo",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ugunduzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "discovery",
+   "forms": "14, no plural; from -gundua",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-burudisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "refresh; entertain",
+   "forms": "kuburudisha",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-saga",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "grind",
+   "forms": "kusaga",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-lisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "feed",
+   "forms": "kulisha; from -la",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kwepa",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "dodge, avoid",
+   "forms": "kukwepa",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-taabika",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "suffer, be in difficulty",
+   "forms": "kutaabika; loan from Arabic",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-fanya haraka",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "hurry",
+   "forms": "kufanya haraka",
+   "first_lesson": "swh-06-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mpaka",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "until; as far as",
+   "forms": "+ subjunctive for \"until (he comes)\"; as noun, 3/4 \"border\"",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hadi",
+   "translit": "",
+   "pos": "preposition",
+   "meaning": "until; as far as",
+   "forms": "+ subjunctive, like mpaka; loan from Arabic",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mbegu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "seed",
+   "forms": "9/10, pl. mbegu",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "damu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "blood",
+   "forms": "9, no plural in use",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kengele",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "bell",
+   "forms": "9/10, pl. kengele",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adhuhuri",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "midday (prayer time)",
+   "forms": "9; loan from Arabic",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "alasiri",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "afternoon",
+   "forms": "9; loan from Arabic",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "magharibi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sunset; west",
+   "forms": "9; loan from Arabic",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "usingizi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "sleep",
+   "forms": "14, no plural",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-chimba",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "dig",
+   "forms": "kuchimba",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-anika",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "spread out to dry",
+   "forms": "kuanika",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kamilisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "complete",
+   "forms": "kukamilisha; from kamili",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "uamuzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "decision",
+   "forms": "14; from -amua",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-lainisha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "soften, make smooth",
+   "forms": "kulainisha",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "majira",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "time, period, season",
+   "forms": "6, plural form; majira ya baridi \"the cold season\"",
+   "first_lesson": "swh-06-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "iwapo",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "if, supposing that",
+   "forms": "",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "endapo",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "if it should happen, in the event that",
+   "forms": "from -enda + -po (Wiktionary)",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-ziba",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "fill (a hole), block up",
+   "forms": "kuziba",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ufa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "crack",
+   "forms": "11/10, pl. nyufa",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-vuja",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "leak",
+   "forms": "kuvuja",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-dhuru",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "harm",
+   "forms": "kudhuru; loan from Arabic",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-adhibu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "punish",
+   "forms": "kuadhibu; loan from Arabic",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "adhabu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "punishment",
+   "forms": "9/10, pl. adhabu; loan from Arabic",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "faini",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "fine (penalty)",
+   "forms": "9/10, pl. faini; loan from English",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "sheria",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "law",
+   "forms": "9/10, pl. sheria; loan from Arabic",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kosea",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "make a mistake, get wrong",
+   "forms": "kukosea; from -kosa",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "onyo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "warning",
+   "forms": "5/6, pl. maonyo; from -onya",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bima",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "insurance",
+   "forms": "9/10, pl. bima",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mgomo",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "strike (from work)",
+   "forms": "3/4, pl. migomo",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tahadhari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "caution, precaution",
+   "forms": "9/10, pl. tahadhari; loan from Arabic",
+   "first_lesson": "swh-06-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "laiti",
+   "translit": "",
+   "pos": "particle",
+   "meaning": "if only",
+   "forms": "+ -ngali- or -nge-; loan from Arabic layta (Wiktionary)",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-aminifu",
+   "translit": "",
+   "pos": "adjective",
+   "meaning": "honest, trustworthy",
+   "forms": "mwaminifu, waaminifu; from -amini",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kopesha",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "lend (money)",
+   "forms": "kukopesha; from -kopa",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "bidii",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "effort, diligence",
+   "forms": "9/10; kwa bidii \"hard, diligently\"; loan from Arabic",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tiba",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "treatment, cure",
+   "forms": "9/10, pl. tiba; loan from Arabic",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "jeshi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "army",
+   "forms": "5/6, pl. majeshi",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "rubani",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "pilot",
+   "forms": "5/6, pl. marubani; agreement 1/2",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mwanasayansi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "scientist",
+   "forms": "1/2, pl. wanasayansi",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mfinyanzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "potter",
+   "forms": "1/2, pl. wafinyanzi",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hiari",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "free choice, will",
+   "forms": "9; kwa hiari \"voluntarily\"; loan from Arabic",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "majuto",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "regret",
+   "forms": "6 (plural of juto)",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mvumbuzi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "inventor, discoverer",
+   "forms": "1/2, pl. wavumbuzi; from -vumbua",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-vumbua",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "invent, discover",
+   "forms": "kuvumbua",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kipaji",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "talent, gift",
+   "forms": "7/8, pl. vipaji",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ndoa",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "marriage",
+   "forms": "9/10, pl. ndoa",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "juhudi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "effort, endeavour",
+   "forms": "9/10, pl. juhudi; loan from Arabic",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "nafuu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "relief; improvement (in health)",
+   "forms": "9; -pata nafuu \"get better\"; loan from Arabic",
+   "first_lesson": "swh-06-13",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kwa kuwa",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "because, since",
+   "forms": "\"by being\" (Wiktionary: because)",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kwa vile",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "because, since",
+   "forms": "",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "maadamu",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "since, given that; as long as",
+   "forms": "also maadam; from Arabic mā dāma",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ingawa",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "although, even though; even if",
+   "forms": "fossil of i- + -nga- + -wa \"though it be\" (Wiktionary)",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ijapokuwa",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "although, even though, even if",
+   "forms": "fossil -japo- tense (Almasi and colleagues); also ijapo, japo",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hata kama",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "even if",
+   "forms": "hata \"even\" + kama \"if\"",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ndiyo maana",
+   "translit": "",
+   "pos": "phrase",
+   "meaning": "that's why",
+   "forms": "\"it is the reason\"",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mteja",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "customer, client",
+   "forms": "1/2, pl. wateja",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hali",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "condition, state, situation",
+   "forms": "9/10, pl. hali; loan from Arabic",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ardhi",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "land, ground, earth",
+   "forms": "9/10, pl. ardhi; loan from Arabic",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "tetemeko",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "tremor; tetemeko la ardhi \"earthquake\"",
+   "forms": "5/6, pl. matetemeko",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "waya",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "wire, cable",
+   "forms": "9/10, pl. nyaya",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "kampuni",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "company, firm",
+   "forms": "9/10, pl. kampuni; loan from English",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-legea",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "become loose, slacken",
+   "forms": "kulegea",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mvumilivu",
+   "translit": "",
+   "pos": "noun",
+   "meaning": "patient person",
+   "forms": "1/2, pl. wavumilivu; from -vumilia",
+   "first_lesson": "swh-06-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "wala",
+   "translit": "",
+   "pos": "conjunction",
+   "meaning": "nor, and not; (after a negative) or",
+   "forms": "wala ... wala \"neither ... nor\"; from Arabic wa-lā (Wiktionary)",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "hata kidogo",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "(with a negative) at all",
+   "forms": "\"not even a little\"",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "katu",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "never, not at all!",
+   "forms": "",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ng'o",
+   "translit": "",
+   "pos": "interjection",
+   "meaning": "(emphasising a negative) not a thing!",
+   "forms": "colloquial",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "daima",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "always, for ever",
+   "forms": "from Arabic dāʔiman",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "milele",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "for ever, eternally",
+   "forms": "",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-thubutu",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "dare",
+   "forms": "kuthubutu; loan from Arabic",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-jali",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "care, mind, pay attention",
+   "forms": "kujali; loan from Arabic",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-puuza",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "ignore, disregard",
+   "forms": "kupuuza",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-bahatika",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "be lucky",
+   "forms": "kubahatika; from bahati",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-ghairi",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "change one's mind, cancel",
+   "forms": "kughairi; loan from Arabic",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-shawishi",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "persuade, tempt",
+   "forms": "kushawishi; loan from Arabic",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "-kawia",
+   "translit": "",
+   "pos": "verb",
+   "meaning": "delay, linger",
+   "forms": "kukawia",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "siku zote",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "always",
+   "forms": "\"all days\"",
+   "first_lesson": "swh-06-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "mara moja",
+   "translit": "",
+   "pos": "adverb",
+   "meaning": "once; at once",
+   "forms": "\"one time\"",
+   "first_lesson": "swh-06-15",
    "confidence": "verified"
   }
  ]

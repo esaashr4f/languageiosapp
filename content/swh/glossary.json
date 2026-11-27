@@ -316,6 +316,21 @@
   "reduplication": "Saying a word twice to change its force, such as polepole (swh-05-07).",
   "derivation": "Making a new word from an existing root with a prefix or suffix (swh-05-11).",
   "diminutive": "A noun moved into class 7/8 to mean a small one (swh-05-11).",
-  "augmentative": "A noun moved into class 5/6 to mean a big one (swh-05-11)."
+  "augmentative": "A noun moved into class 5/6 to mean a big one (swh-05-11).",
+  "relative clause": "Defined in swh-06-01.",
+  "relative marker": "Defined in swh-06-02.",
+  "object relative": "Defined in swh-06-03.",
+  "general relative": "Defined in swh-06-04.",
+  "negative relative": "Defined in swh-06-04.",
+  "focus": "Defined in swh-06-07.",
+  "complement clause": "Defined in swh-06-09.",
+  "reported speech": "Defined in swh-06-09.",
+  "purpose clause": "Defined in swh-06-10.",
+  "time clause": "Defined in swh-06-11.",
+  "real condition": "Defined in swh-06-12.",
+  "hypothetical condition": "Defined in swh-06-13.",
+  "reason clause": "Defined in swh-06-14.",
+  "concession": "Defined in swh-06-14.",
+  "negative polarity": "Defined in swh-06-15."
  }
 }

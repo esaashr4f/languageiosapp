@@ -36,7 +36,7 @@ With a negative verb, "too" becomes "either": *Ben de gelmiyorum* "I'm not comin
 1. **Decide the relation**: and, but, or, both, neither, either.
 2. **Pick the word**:
    - and: *ve* (any items), *-(y)lA* (nouns only, tur-03-13);
-   - but: *ama*, *fakat*, *ancak*, *yalnız*: *ama* and *fakat* are interchangeable; *ancak* and *yalnız* mainly introduce a drawback or limitation (goksel2005 §28.3.4.1);
+   - but: *ama*, *fakat*, *ancak*, *yalnız*: *ama* and *fakat* are interchangeable in meaning (goksel2005 §28.3.4.1), though in everyday speech *ama* is far more common and *fakat* is often felt to be a little more formal or serious (a usage impression, not stated in the grammars used here); *ancak* and *yalnız* mainly introduce a drawback or limitation (goksel2005 §28.3.4.1);
    - or: *ya da*, *veya*; in questions, *yoksa* (tur-02-05; goksel2005 §28.3.3.1);
    - because: *çünkü*, at the start or at the end of the second sentence (goksel2005 §28.3.6).
 3. **Put it between the two items**: *çay ve kahve*, *Pahalı ama güzel*.
@@ -182,7 +182,7 @@ confidence: constructed
 
 - ***Ve***: nouns (*çay ve kahve*), adjectives (*genç ve güzel*), verbs and whole sentences. Between clauses, Turkish often prefers *-(y)Ip* (tur-06-06; goksel2005 §28.3.1.1 (i)).
 - ***-(y)lA / ile*** as "and": only between bare nouns: *Ali'yle Ayşe*, *evle okul arasında* (tur-05-07). Never between verbs or adjectives.
-- ***Ama, fakat, ancak, yalnız*** "but": *ama* and *fakat* interchangeably; *ancak* mainly before a drawback (goksel2005 §28.3.4.1). *Yalnız* "only" (tur-02-05) also means "but, however" at the start of a clause.
+- ***Ama, fakat, ancak, yalnız*** "but": *ama* and *fakat* interchangeably (*fakat* often felt slightly more formal or serious; *ama* is the everyday word); *ancak* mainly before a drawback (goksel2005 §28.3.4.1). *Yalnız* "only" (tur-02-05) also means "but, however" at the start of a clause.
 - ***Ya da, veya*** "or" in statements and in questions that ask "any of these?" (*Çay ya da kahve var mı?*); ***yoksa*** in questions that ask "which one?" (*Çay mı içersin, yoksa kahve mi?*, tur-02-05).
 - ***Ya ... ya da*** "either ... or": *Ya Ali'yle ya da Ayşe'yle konuş* "Speak either to Ali or to Ayşe" (goksel2005 §28.3.3.1).
 - ***Hem ... hem (de)*** "both ... and", for any items; also with clauses: *Hem ucuz hem de güzel* "both cheap and nice".

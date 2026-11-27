@@ -374,4 +374,4 @@ Translations are always our own.
 - Copying: the part 5 verifier found and replaced about 14 example sentences copied word for word or nearly from Göksel & Kerslake. Drafters must build their own sentences; earlier parts get a check for this at the pilot gate.
 - Telling the time (Saat ikiyi beş geçiyor, dörde yirmi var) is confirmed by TDK dictionary examples (geçmek, çeyrek, yarım). TDK's dictionary lookup worked on 2026-11-27 around 06:00 GMT.
 - Time adverbs in -lArI (sabahları, akşamları) are glossed PL-in, not PL-3SG.POSS (G&K §7.2.2.2).
-- kolaylanmak exists (TDK, "be nearing completion"): do not star it. ama and fakat are interchangeable (G&K §28.3.4.1): do not call fakat formal.
+- kolaylanmak exists (TDK, "be nearing completion"): do not star it. ama and fakat are interchangeable in meaning (G&K §28.3.4.1); ama is the everyday word and fakat is often felt slightly more formal or serious (usage impression, owner's note; no grammar used here states it): present it as such, not as a rule.

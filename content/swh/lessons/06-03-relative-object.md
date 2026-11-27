@@ -88,7 +88,7 @@ confidence: constructed
 :::example
 orig: Mtu tuliyemwona jana ni daktari.
 morphemes: m-tu tu-li-ye-mw-on-a jana ni daktari
-gloss: C1-person 1PL.SM-PST-C1.REL-C1.OM-see-FV yesterday COP doctor.C9
+gloss: C1-person 1PL.SM-PST-C1.REL-C1.OM-see-FV yesterday COP doctor.C5
 translation: The man we saw yesterday is a doctor.
 note: A person as object: the object prefix -mw- is used.
 source: constructed

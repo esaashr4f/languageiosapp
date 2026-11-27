@@ -51,7 +51,7 @@ Now "seven goats": *saba* is invariable. *Mkulima ana mbuzi saba.* Nothing else 
 
 ### First, second, third
 
-Swahili has no separate ordinal words. It uses the *-a* of lesson 3.11 with a number: *mtoto wa tano* "the fifth child", *kitabu cha tatu* "the third book" (Polomé §2.5.2.1). Two of them are special: "first" is *-a kwanza*, with *kwanza* "first, to begin" (lesson 4.18), not *moja*; "second" is *-a pili*, with an old form of "two" (Polomé; Wiktionary *pili*). From "third" on, the counting form follows *-a*: *-a tatu*, *-a nne*, *-a sita*.
+Swahili has no separate ordinal words. It uses the *-a* of lesson 3.11 with a number: *mtoto wa tano* "the fifth child", *kitabu cha tatu* "the third book" (Polomé §2.5.2.1). Two of them are special: "first" is *-a kwanza*, with *kwanza* "first, to begin" (lesson 4.18), not *moja*; "second" is *-a pili*, with *pili*, a second word for "two" that Wiktionary describes as inherited and used only as an abstract value, never as an agreeing adjective. From "third" on, the counting form follows *-a*: *-a tatu*, *-a nne*, *-a sita*.
 
 ### Order in the noun phrase
 
@@ -172,7 +172,7 @@ confidence: constructed
 ## Where it applies
 
 - **Counting objects in every class**, with the adjective prefixes of lesson 3.15: *mtu mmoja*, *watu watatu*, *mti mmoja*, *miti mitano*, *jicho moja*, *macho mawili*, *kiti kimoja*, *viti vinane*, *nyumba moja*, *nyumba nne* (Almasi and colleagues, table 18.1).
-- **People and animals in any class** take class 1/2 forms: *mbuzi watatu*, *rafiki wawili*. (Almasi and colleagues print *rafiki thelathini na nne* with bare *nne*, which is ambiguous: *nne* is also the class 10 form. Polomé's rule gives class 2.)
+- **People and animals in any class** take class 1/2 forms: *mbuzi watatu*, *rafiki wawili*. (The sources disagree here. Almasi and colleagues print *rafiki thelathini na nne* "thirty-four friends" and say *nne* has no prefix because *rafiki* is a class 9/10 noun. Polomé's rule, with *mitume wawili*, gives class 2: *rafiki wanne*. This guide follows Polomé; expect both in texts.)
 - **Class 11 singulars**: Wiktionary gives *mmoja* (*ukuta mmoja*), as for adjectives; Almasi and colleagues print *unywele moja*. Use *mmoja*; their plurals are class 10, *kuta mbili*.
 - **Places**: *mahali pamoja* "one place". *Pamoja* "together" (lesson 3.14) is this class 16 form, "in one place". Almasi and colleagues also give *mahali pawili*, *kuwili*, *mwili* for two places.
 - **Infinitives as nouns**: *kusoma kumoja* "one reading" (Almasi and colleagues).
@@ -197,7 +197,7 @@ confidence: constructed
 
 **Do not use *moja* or *mbili* for "first" and "second".** *\*Siku ya moja* and *\*mwezi wa mbili* are wrong. *Siku ya kwanza*, *mwezi wa pili*.
 
-**Do not use *pili* to count.** *\*Mara pili* for "twice" is wrong; *pili* is only the "second" of ordinals. *Mara mbili* "twice", *mara ya pili* "the second time".
+**Do not use *pili* to count.** *\*Mara pili* for "twice" is wrong; *pili* never counts a noun (Wiktionary: use *-wili* for that); you will meet it in *-a pili*. *Mara mbili* "twice", *mara ya pili* "the second time".
 
 **Do not agree the ordinal with the number.** *\*Kitabu cha vitatu* puts a class 8 prefix on the number. After *-a* the number is in its bare form: *kitabu cha tatu*.
 
@@ -236,7 +236,7 @@ saba | - | number | seven | invariable; from Arabic
 tisa | - | number | nine | invariable; from Arabic
 kumi | - | number | ten | invariable; also noun 5/6 "a ten"
 sifuri | - | number | zero | from Arabic
-pili | - | number | second (only in -a pili) | old form of "two"
+pili | - | number | two (abstract); second (in -a pili) | never agrees; counting a noun uses -wili
 hesabu | - | noun | sums, arithmetic; number, account | 9/10; from Arabic
 -hesabu | - | verb | count; calculate | kuhesabu; loan, no final -a
 namba | - | noun | number (figure, phone number) | 9/10; also nambari

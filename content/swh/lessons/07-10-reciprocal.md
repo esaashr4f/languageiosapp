@@ -76,8 +76,8 @@ confidence: attested
 
 :::example
 orig: Wanaume walipigana mitaani.
-morphemes: wa-naume wa-li-pig-an-a mi-taa-ni
-gloss: C2-man C2.SM-PST-hit-RECP-FV C4-street-LOC
+morphemes: wanaume wa-li-pig-an-a mi-taa-ni
+gloss: man.C2 C2.SM-PST-hit-RECP-FV C4-street-LOC
 translation: The men fought in the streets.
 note: wpgrammar's example. -pigana "fight" is "hit each other".
 source: wpgrammar "Reciprocal"
@@ -136,8 +136,8 @@ confidence: constructed
 
 :::example
 orig: Hawataonana mwezi ujao.
-morphemes: ha-wa-ta-on-an-a m-wezi u-j-a-o
-gloss: NEG-C2.SM-FUT-see-RECP-FV C3-month C3.SM-come-FV-C3.REL
+morphemes: ha-wa-ta-on-an-a m-wezi ujao
+gloss: NEG-C2.SM-FUT-see-RECP-FV C3-month coming.C3
 translation: They won't see each other next month.
 note: -onana "meet, see each other". Close to Almasi and colleagues' example (p. 290).
 source: constructed

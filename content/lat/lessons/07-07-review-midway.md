@@ -19,12 +19,12 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 
 ## Passage
 
-**A. Caesar surprised by the Nervii (Caesar, Gallic War 2.20.1, 2.21.1).** Attested; wording from The Latin Library, in this guide's spelling. New words, glossed here: *paulō longius* "a little too far"; *brevitās* "shortness"; *incursus* "onset, attack"; *necessārius* "necessary"; *fors* "chance"; *dēcucurrit* "ran down", perfect of *dēcurrō* (Caesar's text has the reduplicated form).
+**A. Caesar surprised by the Nervii (Caesar, Gallic War 2.20.1, 2.21.1).** Attested; wording from The Latin Library, in this guide's spelling. New words, glossed here: *paulō longius* "a little too far"; *brevitās* "shortness"; *incursus* "onset, attack"; *necessārius* "necessary"; *fors* "chance"; *dēcucurrit* "ran down", perfect of *dēcurrō* (Caesar's text has the reduplicated form). In A4 The Latin Library prints *quam [in] partem*, marking *in* as doubtful, and the sentence goes on *et ad legiōnem decimam dēvēnit* "and reached the tenth legion".
 
 1. *Caesarī omnia ūnō tempore erant agenda: vēxillum prōpōnendum, quod erat īnsigne, cum ad arma concurrī oportēret; signum tubā dandum; ab opere revocandī mīlitēs;*
 2. *quī paulō longius aggeris petendī causā prōcesserant arcessendī; aciēs īnstruenda; mīlitēs cohortandī; signum dandum.*
 3. *Quārum rērum magnam partem temporis brevitās et incursus hostium impediēbat.*
-4. *Caesar, necessāriīs rēbus imperātīs, ad cohortandōs mīlitēs, quam in partem fors obtulit, dēcucurrit.*
+4. *Caesar, necessāriīs rēbus imperātīs, ad cohortandōs mīlitēs, quam in partem fors obtulit, dēcucurrit …*
 
 **B. Envoys to Caesar.** Constructed, using only words and grammar taught so far.
 
@@ -56,7 +56,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 17. Say "I am ashamed of my words".
 18. Say "the general said that the soldiers must not be afraid; the enemy were few".
 19. Correct *\*Ad capiendum urbem vēnērunt* and *\*Mihi epistulam scrībendam est*.
-20. Correct *\*Ego oportet hoc facere* and *\*Mē licet abīre*.
+20. Correct *\*Ego oportet hoc facere* and *\*Mē pudet hanc rem* (meant as "I am ashamed of this thing").
 21. Correct *\*Spērat urbem captam īrī* and *\*Vēnērunt ad spectātum*.
 22. Correct *\*Lēgēs pārendae sunt* and *\*Ācriter pugnātī sunt* (meant as "there was fierce fighting").
 23. Explain the order of *Magnō cum metū hostēs fūgērunt* and of *Quōs āmīsimus cīvīs, eōs Mārtis vīs perculit*.
@@ -83,7 +83,7 @@ Work each exercise before reading its answer. Every answer names the lesson to r
 17. *Mē verbōrum meōrum pudet.* Accusative of the person, genitive of the cause (lesson 4).
 18. *Dux dīxit nē mīlitēs timērent; hostēs paucōs esse.* A prohibition in reported speech with *nē* + subjunctive, then a statement as accusative and infinitive (lesson 5).
 19. *Ad urbem capiendam vēnērunt*: the gerundive agrees with the object (lesson 2). *Mihi epistula scrībenda est*: the letter is the subject (lesson 2).
-20. *Mē oportet hoc facere* (or *hoc faciam oportet*): *oportet* takes the accusative (lesson 4). *Mihi licet abīre*: *licet* takes the dative (lesson 4; ag1903 §455 note).
+20. *Mē oportet hoc facere* (or *hoc faciam oportet*): *oportet* takes the accusative (lesson 4). *Mē huius reī pudet*: the cause of the feeling is genitive, not accusative (lesson 4; ag1903 §354b).
 21. *Spērat urbem captum īrī*: the supine never agrees (lesson 3). *Vēnērunt spectātum*, or *vēnērunt ad spectandum*: the supine takes no preposition; *ad* takes the gerund (lesson 3).
 22. *Lēgibus pārendum est*: *pāreō* takes the dative, so the gerundive is impersonal (lesson 2). *Ācriter pugnātum est*: the impersonal passive is neuter singular (lesson 4).
 23. *Magnō cum metū*: a one-syllable preposition between an emphatic adjective and its noun (lesson 6; ag1903 §599d). *Quōs āmīsimus cīvīs, eōs …*: the relative clause comes first and contains its antecedent, picked up by *eōs* (lesson 6; §599e).

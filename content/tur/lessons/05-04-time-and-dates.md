@@ -8,7 +8,7 @@ point: Tell the time, give dates and say how long ago and how long for
 requires: [tur-05-03]
 introduces: [time-expressions]
 confidence: verified
-sources: [goksel2005, wiktionary]
+sources: [goksel2005, tdk, wiktionary]
 ---
 
 ## The idea
@@ -17,13 +17,13 @@ Turkish places events in time with the same tools it uses for places. You alread
 
 - **The locative -DA "at, in"** marks a point in time, as it marks a point in space: *saat üçte* "at three o'clock", *haziranda* "in June", *1995'te* "in 1995" (goksel2005 §16.4.1.1).
 - **The dative -(y)A "to"** and the **accusative -(y)I** appear in clock times before and after the hour, with two frozen verb forms: *geçe* "passing", from *geçmek* "pass", and *kala* "remaining", from *kalmak* "remain" (goksel2005 §16.4.1.1). *Dörde yirmi kala* "at twenty to four" is literally "to four, twenty remaining". *İkiyi beş geçe* "at five past two" is literally "passing two by five". The hour you pass is the object of passing, so it takes the accusative; the hour you are heading for is a goal, so it takes the dative.
-- **No case at all** for many "when" words: *bu sabah* "this morning", *geçen hafta* "last week", *pazartesi* "on Monday". Göksel and Kerslake list the words that stay bare (goksel2005 §16.4.1.1): the parts of the day and the time units *gün*, *hafta*, *ay*, *yıl* after *bu*, *o*, *geçen*, *gelecek*, *ilk*, *son* and ordinals. Days of the week never take the locative.
+- **No case at all** for many "when" words: *bu sabah* "this morning", *geçen hafta* "last week", *pazartesi* "on Monday". The words that stay bare (goksel2005 §16.4.1.1): the parts of the day and the time units *gün*, *hafta*, *ay*, *yıl* after *bu*, *o*, *geçen*, *gelecek*, *ilk*, *son* and ordinals. Days of the week never take the locative.
 - **No case either for how long**: *iki saat bekledik* "we waited two hours" (goksel2005 §16.4.1.2).
 
 Two patterns are new:
 
 - **Repeated times** take *-lArI*: *akşamları* "in the evenings", *pazartesileri* "on Mondays" (goksel2005 §16.4.1.1).
-- **"For" a period that is still going on** takes *-DIr*, the same suffix as tur-04-11, on the length of time: *üç yıldır* "for three years (and still)" (goksel2005 §16.4.1.2 (iii)). The verb is then in the present: *Üç yıldır burada çalışıyorum* "I have been working here for three years".
+- **"For" a period that is still going on** takes *-DIr*, the same suffix as tur-04-11, on the length of time: *üç yıldır* "for three years (and still)" (goksel2005 §16.4.1.2 (iii)). The verb is then in the present: *Üç yıldır bu şirkette çalışıyorum* "I have been working at this company for three years".
 
 ## How it is built
 
@@ -35,7 +35,7 @@ Two patterns are new:
 4. **Minutes to**: the hour in the dative, the minutes, *var* "there are": *Saat dörde yirmi var* "It's twenty to four", "to four there are twenty".
 5. **Quarters**: *çeyrek* in place of the minutes: *Saat yediyi çeyrek geçiyor*, *Saat on ikiye çeyrek var*.
 
-Steps 3 to 5 are the pattern of teaching courses; Göksel and Kerslake give only the "at" forms below.
+Göksel and Kerslake give only the "at" forms; TDK's examples confirm these: *saat onu geçiyordu*, *dokuza çeyrek vardı* (entries *geçmek*, *çeyrek*).
 
 **At a time.** *Kaçta?* "At what time?" is *kaç* with the locative.
 
@@ -51,7 +51,7 @@ Steps 3 to 5 are the pattern of teaching courses; Göksel and Kerslake give only
 1. **A month**: the locative: *şubatta* "in February", or *şubat ayında* with *ay* "month" as a compound (tur-03-08).
 2. **A day of the month**: the number, then the month, with the locative on the month: *on yedi haziranda* "on 17 June". Written *17 Haziran'da*: with an exact date the month has a capital, and so takes the apostrophe (goksel2005 §16.4.1.1).
 3. **A year**: said as an ordinary number, with the locative: *bin dokuz yüz doksan beşte*, written *1995'te*. The suffix harmonises with the spoken last word, *beş*.
-4. **All three**: the locative only on the last: *8 Kasım 1984'te*.
+4. **All three**: the locative only on the last: *8 Kasım 1990'da*.
 
 **Days of the week.** No locative: *Salı geliyorum* "I'm coming on Tuesday". Colloquially the dative is added for the future: *salıya* (goksel2005 §16.4.1.1). Every Tuesday: *salıları*.
 
@@ -140,9 +140,9 @@ confidence: constructed
 :::example
 orig: Akşamları televizyon izlerim.
 morphemes: akşam-lar-ı televizyon izle-r-im
-gloss: evening-PL-3SG.POSS television watch-AOR-1SG
+gloss: evening-PL-in television watch-AOR-1SG
 translation: In the evenings I watch television.
-note: -lArI on a time word says it is regular; the aorist says it is a habit.
+note: -lArI on a time word says it is regular; the aorist says it is a habit. The -I here is a derivational suffix for time adverbs, not the possessive (goksel2005 §7.2.2.2), so it is glossed in lower case.
 source: constructed
 confidence: constructed
 :::
@@ -215,7 +215,7 @@ confidence: constructed
 
 **Do not swap accusative and dative.** *\*Dördü yirmi kala* and *\*ikiye beş geçe* reverse the logic: you pass the hour already reached (accusative) and are short of the hour ahead (dative).
 
-**Do not translate "for three years" with için.** *\*Üç yıl için burada çalışıyorum* sounds like a planned stay. For a period still going on, use *-DIr*: *Üç yıldır burada çalışıyorum*. *İçin* with a period is for an intended stay: *birkaç gün için Fransa'ya gidiyorum* "I'm going to France for a few days" (goksel2005 §16.4.1.2 (iv)).
+**Do not translate "for three years" with için.** *\*Üç yıl için bu şirkette çalışıyorum* sounds like a planned stay. For a period still going on: *Üç yıldır bu şirkette çalışıyorum*. *İçin* with a period is for an intended stay: *iki hafta için İzmir'e gidiyoruz* "we're going to İzmir for two weeks" (goksel2005 §16.4.1.2 (iv)).
 
 **Do not use the past with -DIr when the state continues.** English "I have been living" tempts *\*Üç yıldır İstanbul'da oturdum*. Turkish uses the present: *oturuyoruz*.
 
@@ -232,7 +232,7 @@ confidence: constructed
 :::table
 caption: Clock time: stating and "at"
 confidence: verified
-source: goksel2005 §16.4.1.1 (at-forms); the stating forms with geçiyor/var are the pattern of teaching courses, built from verified forms of geçmek and var
+source: goksel2005 §16.4.1.1 (at-forms); tdk, entries geçmek (saat onu geçiyordu), çeyrek (dokuza çeyrek vardı) and yarım (12.30), for the stating forms
 | Time | It is ... | At ... |
 |---|---|---|
 | 3:00 | Saat üç. | saat üçte |

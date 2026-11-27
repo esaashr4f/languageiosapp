@@ -17,7 +17,7 @@ Two kinds of clause are left. A **reason clause** says why: "**because** it rain
 
 Lesson 5.9 taught *kwa sababu* "because" and *kwani* "for". This lesson adds the rest of the reason words and the concession words.
 
-**Reason.** *Kwa kuwa* "because, since" is *kwa* "by, with" + *kuwa* "being": "by (its) being (so)". Wiktionary lists it as a conjunction "because"; Almasi and colleagues gloss it "for, because, the reason being". *Kwa vile* is also used: their example *Waya wa kompyuta umelegea, kwa vile kompyuta haichaji* "the computer cable has come loose, because the computer is not charging". *Maadamu* "since, given that" is a loan from Arabic *mā dāma* "as long as" (Wiktionary).
+**Reason.** *Kwa kuwa* "because, since" is *kwa* "by, with" + *kuwa* "being": "by (its) being (so)". Wiktionary lists it as a conjunction "because"; Almasi and colleagues gloss it "for, because, the reason being". *Kwa vile* is also used; Almasi and colleagues gloss it "because of this", and their example is *Waya wa kompyuta umelegea, kwa vile kompyuta haichaji* "the computer cable has come loose; because of this the computer is not charging". *Maadamu* "since, given that" is a loan from Arabic *mā dāma* "as long as" (Wiktionary).
 
 **Concession.** The two main words, *ingawa* and *ijapokuwa*, are fossils of verb forms. Almasi and colleagues (p. 349) explain that older Swahili had tense markers *-nga-* and *-japo-* meaning "though, even if", which "are not used as regular tense markers in today's Swahili, except for the specific construction of *ingawa* and *ijapokuwa*". Wiktionary analyses *ingawa* as *i-* (class 9 subject) + *-nga-* "even if, though" + *-wa* "be": literally "though it be". *Ijapokuwa* is *i-* + *-japo-* + *kuwa*, the same idea. Both are now invariable words: you learn them whole.
 
@@ -167,7 +167,7 @@ confidence: constructed
 
 - *kwa sababu* + clause, *kwa sababu ya* + noun (lesson 5.9).
 - *kwa kuwa* + clause, before or after the main clause.
-- *kwa vile* + clause (Almasi and colleagues).
+- *kwa vile* + clause, "because of this" (Almasi and colleagues' gloss).
 - *kwani* "for" after a statement (lesson 5.9).
 - *maadamu* "since, given that".
 - *kwa ajili ya* + noun "because of" (lesson 6.10).
@@ -201,7 +201,7 @@ confidence: constructed
 
 :::vocab
 kwa kuwa | - | conjunction | because, since | "by being" (Wiktionary: because)
-kwa vile | - | conjunction | because, since | 
+kwa vile | - | conjunction | because of this | Almasi and colleagues' gloss
 maadamu | - | conjunction | since, given that; as long as | also maadam; from Arabic mā dāma
 ingawa | - | conjunction | although, even though; even if | fossil of i- + -nga- + -wa "though it be" (Wiktionary)
 ijapokuwa | - | conjunction | although, even though, even if | fossil -japo- tense (Almasi and colleagues); also ijapo, japo
@@ -227,7 +227,7 @@ Spanish *aunque* and French *bien que* differ in a way Swahili does not mirror: 
 2. Say "although she is rich, she lives in a small house".
 3. Say "even if you don't help me, I'll finish".
 4. Translate *Ijapokuwa kulikuwa na tetemeko la ardhi, watu hawakufa.*
-5. Translate *Kampuni ilifungwa kwa vile haikuwa na wateja.*
+5. Translate *Kampuni ilifungwa kwa kuwa haikuwa na wateja.*
 6. Correct *\*Ingawa alikuwa mgonjwa, lakini alikwenda kazini.*
 7. Correct *\*Hatangawa mgonjwa...* (meaning "although he isn't ill").
 8. Join with *ndiyo maana*: "The wire was loose. The computer didn't charge."
@@ -237,8 +237,8 @@ Spanish *aunque* and French *bien que* differ in a way Swahili does not mirror: 
 1. *Kwa kuwa nimechoka, nitalala mapema.* *Nimechoka* "I am tired" (lesson 4.6). Lesson 6.14.
 2. *Ingawa ni tajiri, anaishi katika nyumba ndogo.*
 3. *Hata kama hutanisaidia, nitamaliza.* *Hata kama* + the negative future (*hu-* is the 2SG negative prefix).
-4. "Although there was an earthquake, people did not die." (Almasi and colleagues' exercise, without *wengi*.)
-5. "The company was closed because it had no customers." *Kwa vile* + clause.
+4. "Although there was an earthquake, people did not die." (Almasi and colleagues' exercise has *ingawa* and *watu wengi hawakufa*.)
+5. "The company was closed because it had no customers." *Kwa kuwa* + clause.
 6. Drop *lakini*: *Ingawa alikuwa mgonjwa, alikwenda kazini.*
 7. *Ingawa* never changes; negate the clause: *Ingawa si mgonjwa...*
 8. *Waya ulikuwa umelegea; ndiyo maana kompyuta haikuchaji.* *-chaji* "charge" is a loan (Almasi and colleagues' *haichaji*). Lessons 6.7, 6.14.

@@ -201,13 +201,13 @@ confidence: attested
 :::table
 caption: Piel and pual of the strong verb (dibbēr "speak"; pual of p-q-d, b-r-k)
 confidence: verified
-source: gkc1910 §52; oshb (dibber 200× (dibbēr 26×, mostly in pause), yəḏabbēr 35×, waydabbēr 192× per dossier; dabbēr, ləḏabbēr, məḏabbēr, puqqaḏ, məḇōrāḵ attested; other persons by pattern)
+source: gkc1910 §52; oshb (dibber 200× (dibbēr 26×, mostly in pause), yəḏabbēr 35×, wayḏabbēr 192× per dossier; dabbēr, ləḏabbēr, məḏabbēr, puqqaḏ, məḇōrāḵ attested; other persons by pattern)
 | Form | Piel | Translit | Pual | Translit |
 |---|---|---|---|---|
 | qatal 3SG.M | דִּבֶּר | dibber | פֻּקַּד | puqqaḏ |
 | qatal 1SG | דִּבַּרְתִּי | dibbartî | | |
 | yiqtol 3SG.M | יְדַבֵּר | yəḏabbēr | יְקֻטַּל | yəquṭṭal (pattern) |
-| wayyiqtol 3SG.M | וַיְדַבֵּר | waydabbēr | | |
+| wayyiqtol 3SG.M | וַיְדַבֵּר | wayḏabbēr | | |
 | imperative | דַּבֵּר | dabbēr | (none) | |
 | infinitive | לְדַבֵּר | ləḏabbēr | | |
 | participle | מְדַבֵּר | məḏabbēr | מְבֹרָךְ | məḇōrāḵ |

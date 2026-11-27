@@ -233,7 +233,7 @@ These wayyiqtols are the commonest verb forms in Hebrew narrative. Each is liste
 וַיַּעַשׂ | wayyaʿaś | verb form | and he did, and he made | wayyiqtol of ʿāśâ; lesson 4.16
 וַיֵּלֶךְ | wayyēleḵ | verb form | and he went | wayyiqtol of hālaḵ; lesson 4.17
 וַיִּקַּח | wayyiqqaḥ | verb form | and he took | wayyiqtol of lāqaḥ; lesson 4.17
-וַיְדַבֵּר | waydabbēr | verb form | and he spoke | wayyiqtol of dibbēr (piel); lesson 4.21
+וַיְדַבֵּר | wayḏabbēr | verb form | and he spoke | wayyiqtol of dibbēr (piel); lesson 4.21
 וַיִּתֵּן | wayyittēn | verb form | and he gave, and he put | wayyiqtol of nāṯan; lesson 4.13
 וַיֵּצֵא | wayyēṣēʾ | verb form | and he went out | wayyiqtol of yāṣāʾ; lesson 4.14
 וַיַּרְא | wayyarʾ | verb form | and he saw | wayyiqtol of rāʾâ; lesson 4.16

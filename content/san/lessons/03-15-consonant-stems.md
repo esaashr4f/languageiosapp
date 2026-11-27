@@ -17,7 +17,7 @@ So far every stem ended in a vowel, and the endings fused with it. Now the stem 
 
 The nouns of this lesson have **one stem** throughout: no strong or weak forms, unlike *pitṛ*. (The next two lessons bring consonant stems that do alternate.) What changes is only the last consonant, and only in three places: at the end of the word, before *-bh-* (*-bhyām*, *-bhiḥ*, *-bhyaḥ*), and before *-su*.
 
-The reason is a rule you already know from between words. A word can end in only one consonant, and only in certain consonants (the pausa forms of san-02-01). And a consonant takes on the voicing of the sound next to it. Sanskrit grammarians treat *-bh-* and *-su* endings as if they began a new word, so the stem's last consonant behaves as it would at the end of a word before *b* or *s* (consonant sandhi in full comes in san-04-07). So *vāc* + *bhiḥ* has *g*, voiced like *bh*; *vāc* + *su* has *k*, voiceless like *s*; *vāc* alone has *k*.
+The reason is a rule you already know from between words. A word can end in only one consonant, and only in certain consonants (the pausa forms of san-02-01). And a consonant takes on the voicing of the sound next to it. Before the endings in *-bh-* and *-su* a stem is treated "in general the same as in the combinations of words" (Whitney §111a, who notes they are called "pada-endings"), so the stem's last consonant behaves as it would at the end of a word before *b* or *s* (consonant sandhi in full comes in san-04-07). So *vāc* + *bhiḥ* has *g*, voiced like *bh*; *vāc* + *su* has *k*, voiceless like *s*; *vāc* alone has *k*.
 
 ## How it is built
 

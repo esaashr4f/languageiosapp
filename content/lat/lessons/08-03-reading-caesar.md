@@ -75,7 +75,7 @@ confidence: attested
 orig: proximīque sunt Germānīs, quī trāns Rhēnum incolunt, quibuscum continenter bellum gerunt.
 morphemes: proxim-ī=que sunt Germān-īs quī trāns Rhēn-um incol-unt quibus=cum continenter bell-um ger-unt
 gloss: nearest-NOM.PL.M=and be.3PL German-DAT.PL REL.NOM.PL.M across Rhine-ACC.SG live-3PL REL.ABL.PL=with continuously war-ACC.SG wage-3PL
-translation: and they are nearest to the Germans, who live across the Rhine, with whom they are continually at war.
+translation: and because they are nearest to the Germans, who live across the Rhine, with whom they are continually at war.
 note: proximus takes the dative (part 3). quibuscum: cum attached after the relative, as in mēcum, tēcum (part 3).
 source: Caesar, Gallic War 1.1.4
 confidence: attested
@@ -111,7 +111,7 @@ confidence: attested
 
 **Caesar's plainness.** There is not one rare word in the passage except the names. The difficulty is all in the structure, and the structure is the grammar of parts 3 to 6. If any sentence stopped you, go back to the lesson its note names.
 
-**How to tackle the long sentence.** Find the main clause first: *fortissimī sunt Belgae*. Then ask what each following piece hangs on. *Proptereā quod* opens a reason, and its verb is *absunt*. The next *-que* adds a second verb to the same reason clause (*commeant*), with its own subject *mercātōrēs*; *atque* then adds a third (*important*). The last *-que*, on *proximī*, goes back to the main clause: "and they are nearest". The relative *quī* and then *quibuscum* attach to *Germānīs*. Mark each verb and its subject, and the sentence falls into place.
+**How to tackle the long sentence.** Find the main clause first: *fortissimī sunt Belgae*. Then ask what each following piece hangs on. *Proptereā quod* opens a reason, and its verb is *absunt*. The next *-que* adds a second verb to the same reason clause (*commeant*), with its own subject *mercātōrēs*; *atque* then adds a third (*important*). The last *-que*, on *proximī*, adds a further reason with the indicative *sunt*: "and (because) they are nearest". The relative *quī* and then *quibuscum* attach to *Germānīs*. Mark each verb and its subject, and the sentence falls into place.
 
 ## Questions
 

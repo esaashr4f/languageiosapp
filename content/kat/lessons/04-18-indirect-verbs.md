@@ -34,7 +34,7 @@ In class 4 the pattern holds in every series: the experiencer is always dative. 
 
 Read across: *m-* "me", *g-* "you", *gv-* "us", and for "him, her, them" a vowel *u-* (*uq̇vars*, *unda*), nothing (*akvs*), or *s-* (*mosc̣ons*). The vowel before the root is a version vowel (lesson 4-21): *i-* with "me, you, us", *u-* with "him, her". *Mosc̣ons* keeps the preverb *mo-* even in the present, one of the few verbs Bolkvadze and Kiziria list as doing so.
 
-**The ending.** The suffix agrees with the thing: *-s* (*miq̇vars*), or *-a* in *minda*. When the experiencer is plural "you" or "they", the suffix is replaced by *-t*: *giq̇vart* "you all love", *uq̇vart* "they love". Bolkvadze and Kiziria's paradigm of *gonia* "it seems to someone" shows the same: *hgonia* "it seems to him", *hgoniat* "it seems to them". This is the one place where *-t* marks a third-person plural: here it pluralises the dative experiencer, the person who feels.
+**The ending.** The suffix agrees with the thing: *-s* (*miq̇vars*), or *-a* in *minda*. When the experiencer is plural "you" or "they", the verb takes *-t*. After *-s* the *-s* gives way to it: *giq̇vart* "you all love", *uq̇vart* "they love". After a vowel ending it is simply added: *gindat*, *undat*, and in Bolkvadze and Kiziria's paradigm of *gonia* "it seems to someone", *hgonia* "it seems to him", *hgoniat* "it seems to them". This is the one place where *-t* marks a third-person plural: here it pluralises the dative experiencer, the person who feels.
 
 **When the thing loved is "me" or "you".** The stimulus is then first or second person, and the verb uses the endings of "be": Wiktionary gives *miq̇varxar* "I love you" and *momc̣onxar* "I like you". Read them as "you are dear to me", "you please me".
 
@@ -245,7 +245,7 @@ source: linguage (სიყვარული, ქონა, ნდომა, �
 სძულს | sʒuls | verb | hates | class 4; 1SG მძულს; imperf. სძულდა; fut. ეძულება; masdar სიძულვილი (lingua.ge)
 შია | šia | verb | is hungry | class 4; 1SG მშია (bolkvadze2023 §9.1.6)
 სწყურია | sc̣q̇uria | verb | is thirsty | class 4; 1SG მწყურია; imperf. სწყუროდა (lingua.ge)
-ჰგონია | hgonia | verb | thinks, believes; it seems to him | class 4; 1SG მგონია; fut. ეგონება (bolkvadze2023 §9.6.1.2.1); masdar გონება
+ჰგონია | hgonia | verb | thinks, believes; it seems to him | class 4; 1SG მგონია; 3PL ჰგონიათ; fut. ეგონება (bolkvadze2023 §9.6.1.2.1)
 სიყვარული | siq̇varuli | noun | love |
 იდეა | idea | noun | idea |
 შოკოლადი | šoḳoladi | noun | chocolate |

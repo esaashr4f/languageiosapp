@@ -190,11 +190,11 @@ confidence: attested
 
 **Do not use active endings on a middle-only verb.** *\*lapsyati* for "will get" is wrong: *lapsyate*. (The epics sometimes mix: san-07-08.)
 
-**Do not forget the s-to-ṣ rule.** *\*kariṣyati* has *ṣ* after *i*; *\*karisyati* is wrong. After *k*: *vakṣyati*, *drakṣyati*. After *a*, *ā*: *dāsyati*, *yāsyati*, with *s*.
+**Do not forget the s-to-ṣ rule.** *kariṣyati* has *ṣ* after *i*; *\*karisyati* is wrong. After *k*: *vakṣyati*, *drakṣyati*. After *a*, *ā*: *dāsyati*, *yāsyati*, with *s*.
 
-**Do not decline the periphrastic future for gender.** *\*sā kartrī* for "she will do" is wrong: the norm is the masculine form, *sā kartā*. Whitney (§942b) notes rare feminine forms in the epics and later; do not imitate them.
+**Do not decline the periphrastic future for gender.** *\*sā kartrī* for "she will do" is wrong: the norm is the masculine form, *sā kartā*. Whitney (§944b) notes rare feminine forms in the epics and later; do not imitate them.
 
-**Do not add *asti* in the 3rd person.** *\*kartāsti* breaks the norm: 3rd persons have no copula, *kartā*, *kartāraḥ*. Only 1st and 2nd persons add it: *kartāsmi*, *kartāsi* (Whitney §942; the epics stray, §942b).
+**Do not add *asti* in the 3rd person.** *\*kartāsti* breaks the norm: 3rd persons have no copula, *kartā*, *kartāraḥ*. Only 1st and 2nd persons add it: *kartāsmi*, *kartāsi* (Whitney §944; the epics stray, §944b).
 
 **Do not confuse *-iṣya-* with the infinitive's *i*.** The two usually agree, but not always: √kṛ has *kartum* but *kariṣyati*; √gam *gantum* but *gamiṣyati* (Whitney §943a notes the roots in *ṛ*, √han and √gam).
 
@@ -203,7 +203,7 @@ confidence: attested
 :::table
 caption: The s-future of bhū (active) and labh (middle); the periphrastic future of kṛ
 confidence: verified
-source: wiktionary (भविष्यति); whitney1889 §§931–949 (§942 for the periphrastic paradigm); gretil (lapsyate, kartāsmi)
+source: wiktionary (भविष्यति); whitney1889 §§931–949 (§944 for the periphrastic paradigm); gretil (lapsyate, kartāsmi)
 | Person | bhū SG | PL | labh SG | PL | kṛ periphrastic SG | PL |
 |---|---|---|---|---|---|---|
 | 3 | bhaviṣyati | bhaviṣyanti | lapsyate | lapsyante | kartā | kartāraḥ |
@@ -233,7 +233,7 @@ source: wiktionary (भविष्यति); whitney1889 §§931–949 (§942 
 
 ## Connections
 
-Greek and Lithuanian have the same *-s-* future (Greek *dṓsō* "I shall give", Lithuanian *dúosiu*); Latin lost it and built new futures, and Spanish and French did so again from "infinitive + have" (*daré*, *je donnerai*), a periphrasis like Sanskrit's agent-noun future. Japanese and Korean have no grammatical future of this kind; they use the plain form with time words, as Sanskrit can use the present.
+Greek and Lithuanian have the same *-s-* future (Greek *dṓsō* "I shall give", Lithuanian *dúosiu*); Latin lost it and built new futures, and Spanish and French did so again from "infinitive + have" (*daré*, *je donnerai*), a periphrasis like Sanskrit's agent-noun future.
 
 ## Exercises
 
@@ -255,4 +255,4 @@ Greek and Lithuanian have the same *-s-* future (Greek *dṓsō* "I shall give",
 5. *nṛpo dhanaṃ dāsyati*; *nṛpo dhanaṃ dātā* (this lesson).
 6. *ahaṃ sāyaṃ gṛhaṃ gantāsmi*. Agent noun *gantṛ*, NOM *gantā*, + *asmi*; *sāyam* before *g* → *sāyaṃ*.
 7. √śru takes guṇa: *śiṣyāḥ kathāṃ śroṣyanti*.
-8. The norm is the masculine form whatever the subject: *sā kartā* (Whitney §942).
+8. The norm is the masculine form whatever the subject: *sā kartā* (Whitney §944).

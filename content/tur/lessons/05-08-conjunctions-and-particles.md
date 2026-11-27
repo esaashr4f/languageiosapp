@@ -253,7 +253,7 @@ bir de | - | adverb | and also, and another thing | often an afterthought
 ister ... ister | - | conjunction | whether ... or | with imperatives: ister çay iç ister kahve
 müşteri | - | noun | customer | 
 kavga etmek | - | verb | fight, quarrel | aor. kavga eder; -(y)lA kavga etmek "fight with"
-armut | - | noun | pear | 
+armut | - | noun | pear | acc. armudu
 :::
 
 ## Connections

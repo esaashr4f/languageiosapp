@@ -51,7 +51,7 @@ Some words never elide: *dō*, *dem*, *spē*, *spem*, *sim*, *stō*, *stem*, plu
 5. **Work from the start**: *ar·ma·vi* (— ∪ ∪) dactyl; *rum·que·ca* (— ∪ ∪) dactyl; *nō·Troi* (— —) spondee; *iae·quī* (— —) spondee.
 6. **Result**: — ∪ ∪ | — ∪ ∪ | — — | — — | — ∪ ∪ | — —, dactyl, dactyl, spondee, spondee, dactyl, spondee. Caesura after *canō*.
 
-**Where vowel lengths come from.** This guide prints macrons. Most editions of poetry do not, so you need three sources: the dictionary for stem vowels (*fātum*, *prīmus*); the endings you know (ablative *-ā*, genitive plural *-ōrum*, *-īs* in the dative and ablative plural); and the rules for final syllables, which Allen and Greenough list (ag1903 §604): final *-a* is short in words with case endings except the first-declension ablative, and long elsewhere (imperatives, adverbs); final *-ī* and *-u* usually long; final *-ō* long in datives and ablatives and of either length in many other words; final *-is* and *-us* usually short, except in plurals and the fourth declension. Position then does the rest.
+**Where vowel lengths come from.** This guide prints macrons. Most editions of poetry do not, so you need three sources: the dictionary for stem vowels (*fātum*, *prīmus*); the endings you know (ablative *-ā*, genitive plural *-ōrum*, *-īs* in the dative and ablative plural); and the rules for final syllables, which Allen and Greenough list (ag1903 §604): final *-a* is short in declined words except the first-declension ablative, long elsewhere; final *-ī*, *-u* usually long; final *-ō* long in datives and ablatives, elsewhere either; final *-is* and *-us* usually short, except in plurals and the fourth declension. Position then does the rest.
 
 ## Examples
 

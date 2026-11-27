@@ -224,7 +224,7 @@ source: gkc1910 §54; oshb (hiṯhallēḵ 2×, wayyiṯhallēḵ 5×, yiṯhall
 נִפְלָאוֹת | nip̄lāʾôṯ | noun | wonders, wonderful deeds | niphal participle of p-l-ʾ
 שֶׁבֶר | šeḇer | noun | grain (for sale) | Genesis 42:1
 הִתְחַזֵּק | hiṯḥazzēq | verb | take courage, strengthen oneself | hithpael of ḥāzaq; wayyiṯḥazzēq
-גְּבִיעַ | gāḇîaʿ | noun | cup, goblet | 
+גְּבִיעַ | gəḇîaʿ | noun | cup, goblet | 
 חֶבֶל | ḥeḇel | noun | band, company; cord | 
 :::
 
@@ -242,7 +242,7 @@ Arabic Form V, *tafaʿʿala*, is the same shape: a *t-* prefix on the doubled st
 6. How do you tell *hiṯhallēḵ* from a hiphil?
 7. Translate *wattiṯpallēl ʿal-YHWH*.
 8. Build "make yourselves holy!" (plural).
-9. Why is *gāḇîaʿ* written with a furtive pataḥ?
+9. Why is *gəḇîaʿ* written with a furtive pataḥ?
 
 ## Worked answers
 

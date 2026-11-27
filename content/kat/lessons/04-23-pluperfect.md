@@ -175,7 +175,7 @@ confidence: constructed
 
 **English "had done" is usually the aorist.** In a story told as witnessed, "she had left before I came" is normally the aorist in Georgian; the pluperfect brings in "apparently". Do not translate every "had" with it.
 
-**Do not overuse the perfect subjunctive.** Bolkvadze and Kiziria warn that outside wishes and blessings it "sounds too affected". For "may he come", use the optative: *movides*.
+**Do not overuse the perfect subjunctive.** Bolkvadze and Kiziria say it has largely fallen out of use, surviving mostly in curses, oaths and toasts. For "may he come", use the optative: *movides*.
 
 **-eb verbs need -ina.** *\*Unda daelaga* drops a piece. Wiktionary: *daelagebina*.
 
@@ -199,7 +199,7 @@ source: wiktionary (დაწერს); bolkvadze2023 §9.6.3
 
 :::vocab
 თითქოს | titkos | conjunction | as if |
-სჯობს | sǯobs | verb | it is better | stative; also "surpasses" (bolkvadze2023 §9.6.1.2.1: მჯობნის)
+სჯობს | sǯobs | verb | it is better | stative (Wiktionary); not to be confused with the medial სჯობნის "excels, surpasses", 1SG object მჯობნის "surpasses me" (bolkvadze2023 §9.6.1.2.1)
 უსურვებს | usurvebs | verb | wishes (someone something) | class 1, present and future; გისურვებთ "I wish you" (Wiktionary)
 დროზე | droze | adverb | on time |
 ბრალი | brali | noun | fault, blame |

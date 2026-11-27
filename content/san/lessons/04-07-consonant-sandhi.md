@@ -257,7 +257,7 @@ source: whitney1889 §§159–163, 202–210
 
 ## Connections
 
-French liaison is a small cousin of these rules: *les amis* [lez‿ami] brings back a final consonant before a vowel, as Sanskrit brings back the *s* of *-ns* before *c* and *t*. Italian *raddoppiamento* and Korean consonant assimilation (*국물* gungmul "broth", spelt *guk* + *mul*: a stop becomes a nasal before a nasal) work like rule 2 exactly. Korean writes the unchanged form; Sanskrit writes what is said.
+French liaison is a small cousin of these rules: *les amis* [lez‿ami] brings back a final consonant before a vowel, as Sanskrit brings back the *s* of *-ns* before *c* and *t*. Korean consonant assimilation (*국물* gungmul "broth", spelt *guk* + *mul*: a stop becomes a nasal before a nasal) works like rule 2. Korean writes the unchanged form; Sanskrit writes what is said.
 
 ## Exercises
 

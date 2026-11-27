@@ -119,6 +119,10 @@ confidence: attested
 
 **Sounds of the senarius.** Even without scanning, read the lines aloud and listen for the rising pattern, light then heavy, that the iambic line is built on (bennett1918 §370).
 
+**Building line 8 from meaning to form.** The lamb wants to say "the water runs down from you to where I drink". The verb is *dēcurrō* "run down", a compound of *currō* with *dē-* "down from" (part 4, lesson 16); present, third person singular, *dēcurrit*. The subject, "the water", is *liquor*, a poetic word for any liquid; it stands last for emphasis. "From you": *ā tē*. "To my drinkings": *ad meōs haustūs*, a fourth-declension noun from *hauriō* "draw (water)", in the accusative plural after *ad*. The plural is poetic (part 7, lesson 9): it means the place where he drinks.
+
+**Verb tenses as storytelling.** The narrative runs in perfects (*intulit*, *respondit*) and one vivid present at the climax (*lacerat*). The characters' speeches use the perfect for what happened (*fēcistī*, *dīxistī*) and the imperfect *eram* for a state in the past. Each tense does exactly what parts 4 and 6 taught.
+
 ## Questions
 
 1. Why is *vēnerant* pluperfect?

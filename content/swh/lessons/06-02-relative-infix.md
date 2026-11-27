@@ -40,7 +40,7 @@ Say "the person who came yesterday is my friend".
 1. The noun: *mtu*, class 1.
 2. The relative clause: "he came yesterday". Subject prefix *a-*; past *-li-*.
 3. Relative marker for class 1: *-ye-*. So far *a-li-ye-*.
-4. *-ja* "come" is a short verb. The relative marker cannot carry stress (the dossier's list of stressable markers, from Wiktionary's verb appendix, does not include it), so *ku-* stays: *a-li-ye-ku-ja*.
+4. *-ja* "come" is a short verb. The relative marker cannot carry stress (Wiktionary's verb appendix lists the markers that can take stress, and the relative marker is not among them), so *ku-* stays: *a-li-ye-ku-ja*.
 5. *Mtu aliyekuja jana ni rafiki yangu.*
 
 Say "the next lesson is hard", that is, "the lesson which follows".

@@ -29,7 +29,7 @@ Polomé also explains *-aji*: it is the agent *-i* added to an old suffix *-ag-*
 
 **Class shift** keeps the stem and swaps the prefix:
 
-- **ki-/vi-** makes a thing **small**: *mtoto* → *kitoto* "little child, baby" (Wiktionary), *ndege* → *kidege* "little bird", *nyumba* → *kijumba* "cottage".
+- **ki-/vi-** makes a thing **small**: *mtoto* → *kitoto* "little child, baby" (Wiktionary), *ndege* → *kidege* "little bird", *nyumba* → *kijumba* "cottage" (Wiktionary derives it from *jumba*, the augmentative, with *ki-*).
 - **ji-/ma-** makes it **big**: *mtu* → *jitu* "giant", *nyumba* → *jumba* "mansion", *nyoka* → *joka* "serpent" (Wiktionary; Almasi and colleagues).
 - **u-** makes it **abstract**: *mtoto* → *utoto* "childhood" (lesson 3.7).
 - **ki-** makes a **language or manner**, **u-** a **country**, **m-/wa-** its **people**: *Kiingereza*, *Uingereza*, *Mwingereza* (lessons 3.2, 3.7).

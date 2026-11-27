@@ -1,5 +1,5 @@
 {
- "count": 164,
+ "count": 215,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -356,7 +356,15 @@
    "iso": "kmr",
    "group": "Caucasus and Central Asia",
    "script": "Latin (Hawar)",
-   "depth": "A"
+   "depth": "A",
+   "companions": [
+    {
+     "name": "Sorani Kurdish",
+     "iso": "ckb",
+     "part": 10,
+     "description": "Central Kurdish of Iraq and Iran in Arabic script: what differs from Kurmanji (no case, definite suffix, pronoun clitics, script)"
+    }
+   ]
   },
   {
    "number": 41,
@@ -648,7 +656,15 @@
    "script": "Devanagari + IAST",
    "depth": "A",
    "iso_note": "ISO lists san as a macrolanguage (cls Classical, vsn Vedic); guide teaches Classical",
-   "pilot": 6
+   "pilot": 6,
+   "companions": [
+    {
+     "name": "Vedic Sanskrit",
+     "iso": "vsn",
+     "part": 10,
+     "description": "The language of the Ṛgveda: accent, subjunctive, older forms and reading Vedic hymns"
+    }
+   ]
   },
   {
    "number": 75,
@@ -1500,6 +1516,477 @@
    "depth": "B",
    "notes": "Language of the court chronicles and hikayat (Sejarah Melayu, Hikayat Hang Tuah) in Jawi script; cross-link Indonesian and its Malay companion part, Arabic, Persian",
    "iso_note": "No ISO 639-3 code of its own; private-use qcm (ISO reserves qaa–qtz for local use). Related: zsm, msa"
+  },
+  {
+   "number": 165,
+   "name": "Bulgarian",
+   "iso": "bul",
+   "group": "Europe, less common",
+   "script": "Cyrillic",
+   "depth": "A",
+   "notes": "Balkan language area: lost noun cases, gained a definite article suffix, renarrative (evidential) verb forms; cross-link Macedonian, Old Church Slavonic"
+  },
+  {
+   "number": 166,
+   "name": "Macedonian",
+   "iso": "mkd",
+   "group": "Europe, less common",
+   "script": "Cyrillic",
+   "depth": "A",
+   "notes": "Balkan Slavic with a three-way definite article (-ot, -ov, -on); cross-link Bulgarian, Albanian, Modern Greek"
+  },
+  {
+   "number": 167,
+   "name": "Slovenian",
+   "iso": "slv",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Keeps a full dual in nouns, pronouns and verbs; cross-link Serbo-Croatian, Old Church Slavonic"
+  },
+  {
+   "number": 168,
+   "name": "Scottish Gaelic",
+   "iso": "gla",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Goidelic Celtic, close to Irish; initial mutations, verb-first order; cross-link Irish, Old Irish"
+  },
+  {
+   "number": 169,
+   "name": "Breton",
+   "iso": "bre",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Brythonic Celtic of Brittany; mutations, verb-second; cross-link Welsh, Middle Welsh"
+  },
+  {
+   "number": 170,
+   "name": "Northern Sámi",
+   "iso": "sme",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Uralic of northern Norway, Sweden and Finland; consonant gradation, dual; cross-link Finnish, Estonian"
+  },
+  {
+   "number": 171,
+   "name": "Romani (Vlax)",
+   "iso": "rmy",
+   "group": "Europe, less common",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Indo-Aryan language of Europe; name the dialect taught (Kalderash or Lovari); cross-link Hindi-Urdu, Punjabi, Romanian"
+  },
+  {
+   "number": 172,
+   "name": "Ladino (Judeo-Spanish)",
+   "iso": "lad",
+   "group": "Europe, less common",
+   "script": "Latin (Hebrew Rashi script intro)",
+   "depth": "B",
+   "notes": "Language of the Sephardic Jews after 1492; cross-link Old Spanish, Modern Hebrew, Turkish"
+  },
+  {
+   "number": 173,
+   "name": "Adyghe",
+   "iso": "ady",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Northwest Caucasian; very large consonant inventory with two or three vowels; polysynthetic verbs, ergative; cross-link Kabardian, Georgian"
+  },
+  {
+   "number": 174,
+   "name": "Kabardian",
+   "iso": "kbd",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "East Circassian, close to Adyghe; cross-link Adyghe"
+  },
+  {
+   "number": 175,
+   "name": "Avar",
+   "iso": "ava",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Northeast Caucasian of Dagestan; ergative, many local cases, noun classes; cross-link Lezgian, Chechen"
+  },
+  {
+   "number": 176,
+   "name": "Lezgian",
+   "iso": "lez",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Northeast Caucasian; about 18 cases, no person agreement on verbs; cross-link Avar, Chechen"
+  },
+  {
+   "number": 177,
+   "name": "Ossetian (Iron)",
+   "iso": "oss",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Iranian language of the Caucasus, descended from Scytho-Alanic; cross-link Persian, Avestan, Georgian"
+  },
+  {
+   "number": 178,
+   "name": "Tatar",
+   "iso": "tat",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "A",
+   "notes": "Kipchak Turkic of the Volga; cross-link Turkish, Kazakh, Chuvash"
+  },
+  {
+   "number": 179,
+   "name": "Chuvash",
+   "iso": "chv",
+   "group": "Caucasus and Central Asia",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Only living Oghur Turkic language, the odd one out of the family; cross-link Turkish, Tatar, Old Turkic"
+  },
+  {
+   "number": 180,
+   "name": "Punjabi",
+   "iso": "pan",
+   "group": "Asia and Pacific",
+   "script": "Gurmukhi + transliteration (Shahmukhi intro)",
+   "depth": "A",
+   "notes": "Tonal Indo-Aryan language; Eastern Punjabi in Gurmukhi taught, Shahmukhi (Pakistan) covered; cross-link Hindi-Urdu"
+  },
+  {
+   "number": 181,
+   "name": "Marathi",
+   "iso": "mar",
+   "group": "Asia and Pacific",
+   "script": "Devanagari + transliteration",
+   "depth": "A",
+   "notes": "Indo-Aryan of Maharashtra; ergative split, three genders; cross-link Hindi-Urdu, Sanskrit"
+  },
+  {
+   "number": 182,
+   "name": "Gujarati",
+   "iso": "guj",
+   "group": "Asia and Pacific",
+   "script": "Gujarati + transliteration",
+   "depth": "A",
+   "notes": "Indo-Aryan of Gujarat; cross-link Hindi-Urdu, Sanskrit"
+  },
+  {
+   "number": 183,
+   "name": "Kannada",
+   "iso": "kan",
+   "group": "Asia and Pacific",
+   "script": "Kannada + transliteration",
+   "depth": "A",
+   "notes": "Dravidian of Karnataka with a long literary history; cross-link Tamil, Telugu, Malayalam"
+  },
+  {
+   "number": 184,
+   "name": "Sinhala",
+   "iso": "sin",
+   "group": "Asia and Pacific",
+   "script": "Sinhala + transliteration",
+   "depth": "A",
+   "notes": "Indo-Aryan of Sri Lanka; strong diglossia between written and spoken; cross-link Pali, Dhivehi, Tamil"
+  },
+  {
+   "number": 185,
+   "name": "Santali",
+   "iso": "sat",
+   "group": "Asia and Pacific",
+   "script": "Ol Chiki + transliteration (Latin and Devanagari spellings noted)",
+   "depth": "B",
+   "notes": "Munda (Austroasiatic) of India; cross-link Khmer, Mon"
+  },
+  {
+   "number": 186,
+   "name": "Hokkien (Taiwanese)",
+   "iso": "nan",
+   "group": "Asia and Pacific",
+   "script": "Latin (Pe̍h-ōe-jī / Tâi-lô) + characters",
+   "depth": "B",
+   "notes": "Southern Min of Taiwan and Fujian; extensive tone sandhi; literary vs colloquial readings; cross-link Mandarin, Cantonese, Classical Chinese"
+  },
+  {
+   "number": 187,
+   "name": "Okinawan",
+   "iso": "ryu",
+   "group": "Asia and Pacific",
+   "script": "Kana + transliteration",
+   "depth": "B",
+   "notes": "Central Okinawan, Ryukyuan: Japanese's only sister family; endangered; cross-link Japanese, Classical Japanese"
+  },
+  {
+   "number": 188,
+   "name": "Samoan",
+   "iso": "smo",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Polynesian; ergative, respect vocabulary; cross-link Maori, Hawaiian, Tongan"
+  },
+  {
+   "number": 189,
+   "name": "Tongan",
+   "iso": "ton",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Polynesian with royal and honorific registers; cross-link Samoan, Maori"
+  },
+  {
+   "number": 190,
+   "name": "Fijian",
+   "iso": "fij",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Standard (Bauan) Fijian, Oceanic; cross-link Samoan, Tongan"
+  },
+  {
+   "number": 191,
+   "name": "Assyrian Neo-Aramaic",
+   "iso": "aii",
+   "group": "Asia and Pacific",
+   "script": "Syriac (East Syriac, madnḥāyā) + transliteration",
+   "depth": "B",
+   "notes": "Living Aramaic of Iraq, Iran, Syria and the diaspora; cross-link Imperial and Biblical Aramaic, Classical Syriac, Arabic",
+   "companions": [
+    {
+     "name": "Turoyo",
+     "iso": "tru",
+     "part": 10,
+     "description": "Western Neo-Aramaic of Tur Abdin and the diaspora: what differs from Assyrian Neo-Aramaic"
+    }
+   ]
+  },
+  {
+   "number": 192,
+   "name": "Tigrinya",
+   "iso": "tir",
+   "group": "Africa",
+   "script": "Ge'ez (Ethiopic) + transliteration",
+   "depth": "A",
+   "notes": "Ethio-Semitic of Eritrea and Tigray; cross-link Ge'ez, Amharic, Arabic"
+  },
+  {
+   "number": 193,
+   "name": "Akan (Asante Twi)",
+   "iso": "twi",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Kwa tone language of Ghana; serial verbs; cross-link Ewe, Yoruba"
+  },
+  {
+   "number": 194,
+   "name": "Ewe",
+   "iso": "ewe",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Gbe language of Ghana and Togo; tone, serial verbs, logophoric pronouns; cross-link Akan, Yoruba"
+  },
+  {
+   "number": 195,
+   "name": "Shona",
+   "iso": "sna",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Bantu of Zimbabwe; tone, noun classes; cross-link Swahili, Zulu"
+  },
+  {
+   "number": 196,
+   "name": "Kinyarwanda",
+   "iso": "kin",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Bantu of Rwanda (mutually intelligible with Kirundi); complex tone and verb morphology; cross-link Swahili, Shona"
+  },
+  {
+   "number": 197,
+   "name": "Bambara",
+   "iso": "bam",
+   "group": "Africa",
+   "script": "Latin + N'Ko",
+   "depth": "B",
+   "notes": "Mande of Mali; N'Ko script introduced; cross-link Fula, Wolof"
+  },
+  {
+   "number": 198,
+   "name": "Dinka",
+   "iso": "din",
+   "group": "Africa",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Nilotic of South Sudan; three vowel lengths, breathy vs creaky voice, tone; name the variety taught"
+  },
+  {
+   "number": 199,
+   "name": "Haitian Creole",
+   "iso": "hat",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Largest creole in the world; French-lexified, West African structures; cross-link Papiamentu"
+  },
+  {
+   "number": 200,
+   "name": "Aymara (Central)",
+   "iso": "ayr",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Andean, Quechua's neighbour; agglutinative, evidentials, the future 'behind' metaphor; cross-link Quechua"
+  },
+  {
+   "number": 201,
+   "name": "Inuktitut (Eastern Canadian)",
+   "iso": "ike",
+   "group": "Americas",
+   "script": "Inuktitut syllabics + Latin",
+   "depth": "B",
+   "notes": "Inuit language of Nunavut; polysynthetic, ergative; cross-link Greenlandic"
+  },
+  {
+   "number": 202,
+   "name": "Cree (Plains)",
+   "iso": "crk",
+   "group": "Americas",
+   "script": "Cree syllabics + Latin (SRO)",
+   "depth": "B",
+   "notes": "Algonquian; obviation, animate/inanimate gender, direct/inverse verbs; cross-link Ojibwe"
+  },
+  {
+   "number": 203,
+   "name": "Ojibwe",
+   "iso": "ciw",
+   "group": "Americas",
+   "script": "Latin (double-vowel system)",
+   "depth": "B",
+   "notes": "Algonquian of the Great Lakes; name the variety taught (Southwestern/Chippewa); cross-link Cree, Lakota"
+  },
+  {
+   "number": 204,
+   "name": "Mohawk",
+   "iso": "moh",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Iroquoian; polysynthetic, whole sentences in one word; respect community guidance; cross-link Cherokee"
+  },
+  {
+   "number": 205,
+   "name": "Zapotec (Isthmus)",
+   "iso": "zai",
+   "group": "Americas",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Oto-Manguean of Oaxaca; tone and phonation; cross-link Classical Nahuatl, Yucatec Maya"
+  },
+  {
+   "number": 206,
+   "name": "Old Georgian",
+   "iso": "oge",
+   "group": "Dead and classical",
+   "script": "Asomtavruli and Nuskhuri + Mkhedruli and transliteration",
+   "depth": "B",
+   "notes": "Georgian of the 5th–11th c.: Gospels, saints' lives, The Martyrdom of Shushanik; cross-link Georgian, Classical Armenian"
+  },
+  {
+   "number": 207,
+   "name": "Mishnaic Hebrew",
+   "iso": "qmh",
+   "group": "Dead and classical",
+   "script": "Hebrew + transliteration",
+   "depth": "B",
+   "notes": "Rabbinic Hebrew of the Mishnah and Tosefta, between Biblical and Modern Hebrew; cross-link Biblical Hebrew, Modern Hebrew, Aramaic",
+   "iso_note": "No ISO 639-3 code of its own (hbo covers Ancient Hebrew); private-use qmh (ISO reserves qaa–qtz for local use). Related: hbo, heb"
+  },
+  {
+   "number": 208,
+   "name": "Middle English",
+   "iso": "enm",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Late 14th-century London English (Chaucer); cross-link Old English, Old French"
+  },
+  {
+   "number": 209,
+   "name": "Middle High German",
+   "iso": "gmh",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "A",
+   "notes": "Classical MHG c. 1170–1250: Nibelungenlied, Walther von der Vogelweide; cross-link German, Old English, Old Norse"
+  },
+  {
+   "number": 210,
+   "name": "Old Occitan",
+   "iso": "pro",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Language of the troubadours (12th–13th c.); cross-link Old French, Old Spanish, Catalan, Latin"
+  },
+  {
+   "number": 211,
+   "name": "Middle Welsh",
+   "iso": "wlm",
+   "group": "Dead and classical",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "The Mabinogion and the Laws; cross-link Welsh, Breton, Old Irish"
+  },
+  {
+   "number": 212,
+   "name": "Old East Slavic",
+   "iso": "orv",
+   "group": "Dead and classical",
+   "script": "Cyrillic + transliteration",
+   "depth": "B",
+   "notes": "Kievan Rus' texts and the Novgorod birch-bark letters; cross-link Russian, Ukrainian, Old Church Slavonic"
+  },
+  {
+   "number": 213,
+   "name": "Sogdian",
+   "iso": "sog",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (Sogdian script intro)",
+   "depth": "B",
+   "notes": "Middle Iranian lingua franca of the Silk Road; cross-link Middle Persian, Khotanese, Old Turkic; deferred: standard sources in copyright, thin open material",
+   "deferred": true
+  },
+  {
+   "number": 214,
+   "name": "Bactrian",
+   "iso": "xbc",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (Greek-based script intro)",
+   "depth": "C",
+   "notes": "Middle Iranian written in Greek letters (Kushan inscriptions, Rabatak); cross-link Ancient Greek, Middle Persian; deferred: standard sources in copyright, thin open material",
+   "deferred": true
+  },
+  {
+   "number": 215,
+   "name": "Luwian",
+   "iso": "xlu",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (cuneiform and hieroglyphic intro)",
+   "depth": "C",
+   "notes": "Anatolian, Hittite's neighbour, in cuneiform and Anatolian hieroglyphs; cross-link Hittite; deferred: standard sources in copyright, thin open material",
+   "deferred": true
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 154 (the linguistics guide), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

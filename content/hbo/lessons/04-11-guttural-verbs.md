@@ -45,7 +45,7 @@ The prefix vowel also changes. Before a guttural, *i* becomes *a* (*yaʿămōḏ
 
 **The imperative and the infinitive.** Before *-î* and *-û* the imperative has *a* + hatef: *zaʿăqû* "cry out!", *šaḥăṭû* "slaughter!" (Gesenius §64a), not *\*ziʿqû*.
 
-**The stem vowel.** The yiqtol and imperative mostly take *a*: *yišḥaṭ*, *šəḥaṭ*; *yizʿaq*; *yiḇḥar* (Gesenius §64b). The infinitive keeps *ō*: *šəḥōṭ*.
+**The stem vowel.** The yiqtol and imperative mostly take *a*: *yišḥaṭ*, *šəḥaṭ*; *yizʿaq*; *yiḇḥar*; forms with *ō* are rare (Gesenius §64c). The infinitive keeps *ō*: *šəḥōṭ*.
 
 **Doubling.** In the piel, where the middle letter should double, a guttural cannot. Before *ʾ* and *r* the preceding vowel lengthens: *bērēḵ* "he blessed", not *\*birrēḵ* (lesson 4.21). Before *h*, *ḥ*, *ʿ* the vowel usually stays short and the guttural is "virtually" doubled (Gesenius §64d).
 
@@ -183,7 +183,7 @@ confidence: attested
 - **Every stem and every form.** The two rules work in the qal, and also in the niphal, piel, hiphil and the rest: niphal *neʿĕzaḇ* (with *e*), piel *bērēḵ* (no doubling), hiphil *heʿĕmîḏ* "he set up" (Gesenius §63e). Lessons 4.20 to 4.24.
 - **Nouns too:** *naʿar* "boy" (not *\*neʿer*), *ḥereḇ*, *ʾōhel*, *zeraʿ* show the same preference for *a* and the helping vowel (lesson 3.4).
 - **Prefixes and the article:** the article *hā-* before *ʾ* and *r* and *ha-* before *ḥ* (lesson 2.2) is the same refusal to double.
-- **r**: only the no-doubling rule applies; for vowels r behaves as an ordinary letter (Gesenius §22b).
+- **r**: it refuses doubling, and "to a certain extent" it also prefers *a* before it, as in *wayyarʾ* (Gesenius §22q–r); it does not take a hatef in place of shewa.
 - **Combined with other weaknesses:** *ʾāmar* and *ʾāḵal* are first-guttural verbs with a special yiqtol (*yōʾmar*, lesson 4.13); *ʿāśâ*, *ʿālâ*, *rāʾâ* are guttural verbs that also end in *-â* (lesson 4.16). Apply the guttural rules first, then the weak-letter rules.
 
 ## Watch out

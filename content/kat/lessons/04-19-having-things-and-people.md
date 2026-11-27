@@ -51,7 +51,7 @@ So "I'm bringing a book" is *c̣igni momakvs*, with *m-* for "I" and the book in
 
 1. Friends are people: *hq̇avs*.
 2. Class 4: "you" is the owner, *g-*; the people owned are nominative, *megobrebi*.
-3. The verb stays singular: Bolkvadze and Kiziria write *megobrebi mq̇avs* "I have friends", with a plural noun and *mq̇avs*.
+3. The verb stays singular. In these verbs the plural *-t* belongs to the owner (lesson 4-18), so a plural noun owned still takes *-s*: *megobrebi mq̇avs* "I have friends" (Bolkvadze and Kiziria's own example is the singular *me mq̇avs megobari* "I have a friend").
 4. *Ak megobrebi gq̇avs?*
 
 ## Examples

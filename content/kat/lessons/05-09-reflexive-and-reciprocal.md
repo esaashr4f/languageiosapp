@@ -222,7 +222,7 @@ confidence: constructed
 
 ## Connections
 
-Using "head" for "self" is widespread: Basque *bere burua* "his own head" is exactly Georgian *tavisi tavi*, and Makharoblidze's paper compares the two directly. Arabic uses *nafs* "soul" (*nafsahu* "himself") the same way, and Arabic *baʿḍuhum baʿḍan* "some of them some" is built like *ertmaneti*, "one ... one". Spanish *se* and French *se* cover both meanings with one word; Georgian never does.
+Using "head" for "self" is widespread: Basque *bere burua* "his own head" is exactly Georgian *tavisi tavi* (a Georgian study of Basque and Kartvelian version systems, in the National Parliamentary Library's collection, compares the two). Arabic uses *nafs* "soul" (*nafsahu* "himself") the same way, and Arabic *baʿḍuhum baʿḍan* "some of them some" is built like *ertmaneti*, "one ... one". Spanish *se* and French *se* cover both meanings with one word; Georgian never does.
 
 ## Exercises
 

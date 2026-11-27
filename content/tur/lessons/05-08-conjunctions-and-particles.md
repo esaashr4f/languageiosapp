@@ -36,7 +36,7 @@ With a negative verb, "too" becomes "either": *Ben de gelmiyorum* "I'm not comin
 1. **Decide the relation**: and, but, or, both, neither, either.
 2. **Pick the word**:
    - and: *ve* (any items), *-(y)lA* (nouns only, tur-03-13);
-   - but: *ama*, *fakat*, *ancak*, *yalnız*: *ama* is the everyday one; *fakat* and *ancak* are more formal (goksel2005 §28.3.4.1);
+   - but: *ama*, *fakat*, *ancak*, *yalnız*: *ama* and *fakat* are interchangeable; *ancak* and *yalnız* mainly introduce a drawback or limitation (goksel2005 §28.3.4.1);
    - or: *ya da*, *veya*; in questions, *yoksa* (tur-02-05; goksel2005 §28.3.3.1);
    - because: *çünkü*, at the start or at the end of the second sentence (goksel2005 §28.3.6).
 3. **Put it between the two items**: *çay ve kahve*, *Pahalı ama güzel*.
@@ -169,10 +169,10 @@ confidence: constructed
 :::
 
 :::example
-orig: O filmi gördüm bile.
-morphemes: o film-i gör-dü-m bile
-gloss: that film-ACC see-PST-1SG even
-translation: I've already seen that film.
+orig: O kitabı okudum bile.
+morphemes: o kitab-ı oku-du-m bile
+gloss: that book-ACC read-PST-1SG even
+translation: I've already read that book.
 note: bile after a verb often means "already" (goksel2005 §28.3.1.1 (iv)).
 source: constructed
 confidence: constructed
@@ -182,19 +182,19 @@ confidence: constructed
 
 - ***Ve***: nouns (*çay ve kahve*), adjectives (*genç ve güzel*), verbs and whole sentences. Between clauses, Turkish often prefers *-(y)Ip* (tur-06-06; goksel2005 §28.3.1.1 (i)).
 - ***-(y)lA / ile*** as "and": only between bare nouns: *Ali'yle Ayşe*, *evle okul arasında* (tur-05-07). Never between verbs or adjectives.
-- ***Ama, fakat, ancak, yalnız*** "but": *ama* in speech; *fakat*, *ancak* in careful style. *Yalnız* "only" (tur-02-05) also means "but, however" at the start of a clause.
+- ***Ama, fakat, ancak, yalnız*** "but": *ama* and *fakat* interchangeably; *ancak* mainly before a drawback (goksel2005 §28.3.4.1). *Yalnız* "only" (tur-02-05) also means "but, however" at the start of a clause.
 - ***Ya da, veya*** "or" in statements and in questions that ask "any of these?" (*Çay ya da kahve var mı?*); ***yoksa*** in questions that ask "which one?" (*Çay mı içersin, yoksa kahve mi?*, tur-02-05).
 - ***Ya ... ya da*** "either ... or": *Ya Ali'yle ya da Ayşe'yle konuş* "Speak either to Ali or to Ayşe" (goksel2005 §28.3.3.1).
 - ***Hem ... hem (de)*** "both ... and", for any items; also with clauses: *Hem ucuz hem de güzel* "both cheap and nice".
 - ***De ... de*** "both ... and", after nouns: *Ali de Mehmet de*.
 - ***Ne ... ne (de)*** "neither ... nor": *ne çay ne kahve*. With a list of more than two, each item takes *ne*.
-- ***De*** "too": after any stressed word, including the verb: *gördüm de*; with a negative, "either".
+- ***De*** "too": after any stressed word, including the verb: *okudum da*; with a negative, "either".
 - ***De*** "and", linking a new sentence or topic: *Sonra da ...*; *Ayşe'ye de bir mektup geldi* "And a letter came for Ayşe" (goksel2005 §28.3.1.1 (iiia)).
-- ***Bile*** "even": *selam bile*; after a verb, "already": *gördüm bile*.
+- ***Bile*** "even": *selam bile*; after a verb, "already": *okudum bile*.
 - ***Çünkü*** "because", for a reason added after the result, mostly in speech; the reason can also come first with *-DIğI için* (tur-06-09; goksel2005 §28.3.6).
 - ***Onun için, bunun için*** "so, that is why" (tur-05-05).
 - **Additions**: *üstelik* "what's more", *ayrıca* "also, in addition", *hatta* "indeed, even", *bir de* "and also (an afterthought)": *Ekmek al, bir de süt* "Buy bread, and milk too" (goksel2005 §§28.3.1.1–28.3.1.3).
-- ***İster ... ister*** "whether ... or" with imperatives: *İster kal, ister git* "Stay or go, as you like" (goksel2005 §28.3.3.2).
+- ***İster ... ister*** "whether ... or" with imperatives: *İster çay iç, ister kahve* "Have tea or coffee, as you like" (goksel2005 §28.3.3.2).
 
 ## Watch out
 
@@ -244,13 +244,13 @@ hem ... hem | - | conjunction | both ... and | hem A hem de B
 ne ... ne | - | conjunction | neither ... nor | ne A ne de B
 çünkü | - | conjunction | because | starts the second clause, or ends it
 bile | - | particle | even; (after a verb) already | follows the stressed word
-ancak | - | conjunction | but, however; only | more formal than ama
+ancak | - | conjunction | but, however; only | mainly before a drawback (goksel2005 §28.3.4.1)
 yalnız | - | conjunction | but, however | at the start of a clause
 üstelik | - | adverb | what's more, besides | 
 ayrıca | - | adverb | also, in addition | 
 hatta | - | adverb | indeed, even | 
 bir de | - | adverb | and also, and another thing | often an afterthought
-ister ... ister | - | conjunction | whether ... or | with imperatives: ister kal ister git
+ister ... ister | - | conjunction | whether ... or | with imperatives: ister çay iç ister kahve
 müşteri | - | noun | customer | 
 kavga etmek | - | verb | fight, quarrel | aor. kavga eder; -(y)lA kavga etmek "fight with"
 armut | - | noun | pear | 

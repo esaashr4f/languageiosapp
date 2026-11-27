@@ -179,7 +179,7 @@ confidence: constructed
 
 **Is the noun the subject? Decide first.** *\*Okuyan kitap* for "the book I read" fails because *-(y)An* makes the book the reader. The opposite error, *\*Kitap okuduğu çocuk* for "the child who reads books", fails because *-DIK* says someone else is the subject, and the possessive then has no one to refer to. Say *kitap okuyan çocuk*.
 
-**Drop the case of the head noun inside the clause.** By analogy with "the dog I'm afraid *of*", learners keep the case: *\*Köpekten korktuğum*, or put it on the head: *\*korktuğum köpekten* (when the main sentence does not need it). The relative clause simply ends in *-DIK* + possessive: *korktuğum köpek*. The head takes only the case of the main sentence.
+**Drop the case of the head noun inside the clause.** By analogy with "the dog I'm afraid *of*", learners keep the case: *\*Köpekten korktuğum*, or put it on the head: *\*korktuğum köpekten* (when the main sentence does not need it). The relative clause ends in *-DIK* + possessive: *korktuğum köpek*. The head takes only the case of the main sentence.
 
 **No pronoun for the head inside the clause.** By analogy with "the book I read *it*", which no one says in English either, learners sometimes add *onu*: *\*Onu okuduğum kitap*. Leave the head's slot empty: *okuduğum kitap*.
 

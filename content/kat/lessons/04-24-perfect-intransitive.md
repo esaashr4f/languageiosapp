@@ -42,7 +42,7 @@ As Bolkvadze and Kiziria note, the first person has *v-* twice: once after the p
 
 **The perfect subjunctive**: the participle + *iq̇o*, *iq̇os*, *iq̇ot*, *iq̇on*: *misuliq̇os* (Wiktionary).
 
-**Glossing.** *da-c̣er-il-a* `PV-write-PTCP-be.3SG`; *mo-v-sul-var* `PV-1SBJ-go-PTCP-be.1SG`... with the motion root: `PV-1SBJ-come.PTCP-be.1SG`. The pluperfect *mi-sul-iq̇o* `PV-go.PTCP-be.AOR.3SG`.
+**Glossing.** *da-c̣er-il-a* `PV-write-PTCP-be.3SG`. The motion participle *-sul-* is not cut further: *mo-v-sul-var* `PV-1SBJ-come.PTCP-be.1SG`. The pluperfect *mi-sul-iq̇o* `PV-go.PTCP-be.AOR.3SG`.
 
 **A chain of thought** for "the guests seem to have left already":
 
@@ -232,7 +232,7 @@ French *il est parti*, *elle est née*, *ils sont arrivés* are the exact model:
 5. Say "When Nino arrived, the train had already left" (*maṭarebeli*; *c̣asula*-type forms).
 6. Correct *\*Ninos dabadebula* and *\*Sṭumrebma c̣asulan*.
 7. Correct *\*Giorgi ǯer ar daubrunebia*.
-8. Translate *Am kalakši aravin q̇opila* is ambiguous out of context; translate *Am kalakši ǯer ar vq̇opilvar, magram čemi ʒma ak bevrǯer mosula.* (*bevrǯer* "many times", glossed here only)
+8. Translate *Am kalakši ǯer ar vq̇opilvar, magram čemi ʒma ak xširad mosula.*
 
 ## Worked answers
 
@@ -243,4 +243,4 @@ French *il est parti*, *elle est née*, *ils sont arrivés* are the exact model:
 5. *Roca nino mivida, maṭarebeli uḳve c̣asuliq̇o.* Aorist for the arrival; pluperfect *c̣asuliq̇o* for the earlier departure.
 6. Class 2 has a nominative subject in every series: *nino dabadebula*, *sṭumrebi c̣asulan*.
 7. "Return" is class 2: *giorgi ǯer ar dabrunebula*.
-8. "I haven't been to this city yet, but my brother has come here many times." *Vq̇opilvar* (perfect of "be", first person, double *v-*); *mosula* (perfect of "come"). Both plain statements of experience.
+8. "I haven't been to this city yet, but my brother has often come here." *Vq̇opilvar* (perfect of "be", first person, double *v-*); *mosula* (perfect of "come"). Both plain statements of experience.

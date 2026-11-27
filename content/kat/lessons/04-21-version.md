@@ -48,7 +48,7 @@ Version also has a second, more mechanical side. Many verbs have a version vowel
 3. First or second person: *m-i-*, *g-i-*, *gv-i-*: *deda m-i-ḳer-av-s* "Mother sews it for me".
 4. In series I the direct object is dative; in series II nominative: *dedam ḳaba šemiḳera* "Mother sewed a dress for me" (future *šeḳeravs*).
 
-**Possession.** Bolkvadze and Kiziria stress that the objective version can mean "belongs to": *deda kališvils ḳabas uḳeravs* is "Mother sews the daughter's dress / sews a dress for the daughter". With intransitive verbs this is the only reading: *ḳacs cxeni mouḳvda* "the man's horse died" (lit. "the horse died on the man").
+**Possession.** Bolkvadze and Kiziria stress that the objective version can mean "belongs to": *deda kališvils ḳabas uḳeravs* is "Mother sews the daughter's dress / sews a dress for the daughter". With intransitive verbs this is the only reading: Bolkvadze and Kiziria's *mas cxeni uḳvdeba* "his horse is dying" (lit. "the horse is dying on him").
 
 **Verbs with a recipient.** Many verbs of "to" use *u-* / *i-* as their normal way of marking the recipient: *u-reḳ-av-s* "rings him" (Bolkvadze and Kiziria's *vureḳav* "I call him"), *mi-gzavn-i-s* "sends to me" (Bolkvadze and Kiziria). With these, *u-* replaces the *s-*/*h-* of lesson 4-20.
 
@@ -178,7 +178,7 @@ morphemes: megobar-s ʒaɣl-i mo-u-ḳvd-a
 gloss: friend-DAT dog-NOM PV-OV-die-AOR.3SG
 literal: The dog died on the friend.
 translation: My friend's dog died.
-note: An intransitive verb with objective version: the dog "belonged to" the friend (Bolkvadze and Kiziria's ცხენი მოუკვდა კაცს).
+note: An intransitive verb with objective version: the dog "belonged to" the friend (compare Bolkvadze and Kiziria's მას ცხენი უკვდება "his horse is dying").
 source: constructed
 confidence: constructed
 :::

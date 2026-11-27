@@ -97,11 +97,11 @@ confidence: attested
 :::
 
 :::example
-orig: Lēgēs suppliciō improbōs afficiunt, dēfendunt ac tuentur bonōs.
-morphemes: lēg-ēs supplici-ō improb-ōs affici-unt dēfend-unt ac tue-ntur bon-ōs
-gloss: law-NOM.PL punishment-ABL.SG wicked-ACC.PL.M affect-3PL defend-3PL and protect-3PL.DEP good-ACC.PL.M
-translation: The laws punish the wicked, and defend and protect the good.
-note: Chiasmus: object-verb, then verb-object, so that improbōs and bonōs stand at the two ends. afficere suppliciō "visit with punishment".
+orig: Quae suppliciō improbōs afficiunt, dēfendunt ac tuentur bonōs.
+morphemes: quae supplici-ō improb-ōs affici-unt dēfend-unt ac tue-ntur bon-ōs
+gloss: REL.NOM.PL.F punishment-ABL.SG wicked-ACC.PL.M affect-3PL defend-3PL and protect-3PL.DEP good-ACC.PL.M
+translation: Which punish the wicked, and defend and protect the good.
+note: Cicero on human laws (lēgēs hominum, earlier in the sentence); Allen and Greenough quote the clause as lēgēs suppliciō improbōs afficiunt …, replacing the relative with its antecedent. Chiasmus: object-verb, then verb-object, so that improbōs and bonōs stand at the two ends. afficere suppliciō "visit with punishment".
 source: Cicero, On the Laws 2.13, quoted in ag1903 §598f
 confidence: attested
 :::
@@ -179,7 +179,7 @@ confidence: constructed
 - **Relative clause first**, containing its antecedent: *quōs āmīsimus cīvīs, eōs …* (§599e).
 - **Fixed phrases** whose order no longer signals emphasis: *rēs pūblica*, *populus Rōmānus*, *senātus populusque Rōmānus* (§598k).
 - **The period**: Livy, Cicero's speeches and Caesar's narrative; also the end of a period chosen for its rhythm of long and short syllables (§601f; lesson 8 introduces the long and short pattern).
-- **Second-place words**: *enim*, *autem*, *vērō*, *quidem*, *igitur* never stand first (§599b), so they mark the emphatic word just before them: *Cȳrus quidem*.
+- **Second-place words**: *enim*, *autem*, *vērō*, *quidem* never stand first, and *igitur* usually stands second (§599b), so they mark the emphatic word just before them: *Cȳrus quidem*.
 
 ## Watch out
 
@@ -231,7 +231,7 @@ Spanish and French keep some Latin freedom for emphasis (Spanish *eso no lo sé*
 1. Rewrite *Mīlitēs urbem cēpērunt* to stress "took", and again to stress "the city".
 2. Rejoin the phrases of *saevae memorem Iūnōnis ob īram* into prose order and translate.
 3. In *Et superiectō pavidae natārunt aequore dammae*, which adjective goes with which noun, and how can you tell?
-4. Mark the chiasmus in *Lēgēs suppliciō improbōs afficiunt, dēfendunt ac tuentur bonōs.*
+4. Mark the chiasmus in *(lēgēs) quae suppliciō improbōs afficiunt, dēfendunt ac tuentur bonōs.*
 5. Translate *Magnā cum cūrā epistulam scrīpsit*, and say why *cum* stands where it does.
 6. In the Horace example, list every split phrase.
 7. Translate *Hostēs, quōs Caesar vīcerat, cum lēgātōs mīsissent, pācem petīvērunt*, and find the frame of the period.

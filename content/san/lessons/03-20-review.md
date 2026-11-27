@@ -146,7 +146,7 @@ confidence: constructed
 21. Find and fix the error: *\*ayaṃ kanyā mama sakhī*.
 22. Find and fix the error: *\*manasbhiḥ cintayanti*.
 23. Find and fix the error: *\*gauḥ kṣetreṣu caranti* for "the cows graze in the fields".
-24. Explain the grade of the vowel in *vaidarbha* "of Vidarbha" (the word the epic uses for Damayantī), and in *rūpeṇa*'s retroflex *ṇ*.
+24. Explain the grade of the vowel in *vaidarbhī* "the Vidarbha princess" (the word the epic uses for Damayantī), and in *rūpeṇa*'s retroflex *ṇ*.
 
 ## Worked answers
 
@@ -173,4 +173,4 @@ confidence: constructed
 21. *kanyā* is feminine: *iyaṃ kanyā mama sakhī* (san-03-18).
 22. *manas* before *-bh-* is *mano-*: *manobhiś cintayanti*, with *-bhiḥ* before *c* as *-bhiś* (san-03-15, san-02-06).
 23. The plural verb needs a plural subject: *gāvaḥ kṣetreṣu caranti* (san-03-19).
-24. *vaidarbha* "belonging to Vidarbha, the Vidarbha princess" has vṛddhi of the first syllable, *i* → *ai* (san-03-11). In *rūpeṇa*, the *r* turns the *n* of *-ena* into *ṇ*, since only a vowel and the labial *p* stand between (san-03-01).
+24. *vaidarbhī*, the feminine of *vaidarbha* "belonging to Vidarbha", has vṛddhi of the first syllable, *i* → *ai* (san-03-11), and the feminine *-ī* (san-03-13). In *rūpeṇa*, the *r* turns the *n* of *-ena* into *ṇ*, since only a vowel and the labial *p* stand between (san-03-01).

@@ -25,7 +25,7 @@ Both ways are normal prose. The suffix on the verb is more common; *ʾēṯ* + s
 
 A suffix joins the verb in one of three ways (Gesenius §58a, e–f):
 
-- **after a vowel**, directly: *-nî*, *-ḵā*, *-hû*, *-hā*, *-nû*, *-ḵem*, *-m*. So *šəmartî* + *-ḵā* → *šəmartîḵā* "I (will) guard you"; *yaʿăzəḇû* + *-nî* → *yaʿazḇûnî*.
+- **after a vowel**, directly: *-nî*, *-ḵā*, *-hû*, *-hā*, *-nû*, *-ḵem*, *-m*. So *šāmartî* + *-ḵā* → *šəmartîḵā* "I guarded you" (by pattern; compare *ûšəmartîḵā* below); *yaʿazḇû* "they will leave" + *-nî* → *yaʿazḇûnî* (by pattern).
 - **after a qatal ending in a consonant**, with *a*: *-anî*, *-āhû* (usually contracted to *-ô*), *-āh*, *-ānû*, *-ām*. So *šālaḥ* + *-nî* → *šəlāḥanî* "he sent me"; *bārāʾ* + *-ām* → *bərāʾām* "he created them".
 - **after a yiqtol, imperative, or infinitive ending in a consonant**, with *ē*: *-ēnî*, *-ēhû*, *-ehā*, *-ēnû*, *-ēm*. So *yahărōḡ* + *-nî* → *yaharḡēnî* "he will kill me"; *šəmaʿ* + *-nî* → *šəmāʿēnî* "hear me!".
 
@@ -36,7 +36,7 @@ With *-ḵā* and *-ḵem* the joining vowel is only a shewa: *ʾeʿĕḇāḏə
 The suffix moves the stress towards the end of the word, and the vowels before it reduce or lengthen as in nouns (Gesenius §59c):
 
 - the first *ā* of the qatal, now two places from the stress, reduces: *šālaḥ* → *šəlāḥ-*;
-- the second vowel, which had reduced in *šāmərû*, reappears, lengthened in the open syllable: *šāmərû* → *šəmārûhû*;
+- the second vowel, which had reduced in *šāmərû*, reappears, lengthened in the open syllable: *šāmərû* → *šəmārûhû* (by pattern);
 - in the yiqtol the stem vowel reduces before the joining vowel: *yahărōḡ* → *yaharḡēnî*; before *-ḵā* it stays as *ā*: *ʾeʿĕḇōḏ* → *ʾeʿĕḇāḏəḵā*.
 
 ### Special forms
@@ -235,7 +235,7 @@ source: gkc1910 §58a, e–f, §59; forms in the examples attested
 
 ## Connections
 
-Arabic attaches the same suffixes to verbs: *ḍarabanī* "he struck me", *yaḍribuhu* "he strikes him", *ḍarabahā* "he struck her", *ḍarabtuka* "I struck you". The Hebrew joining vowels *a* (after qatal) and *ē* (after yiqtol) correspond to the final vowels that the Arabic verb still has, *-a* and *-u*. The energic *-nn-* of *yittənennû* matches the Arabic energetic *yaktubanna* (Gesenius §48b).
+Arabic attaches the same suffixes to verbs: *ḍarabanī* "he struck me", *yaḍribuhu* "he strikes him", *ḍarabahā* "he struck her", *ḍarabtuka* "I struck you". Gesenius takes the joining *a* after the qatal to be the remains of the old final vowel that the Arabic verb still has, Hebrew *qəṭālanî* beside Arabic *qatalanī*; he says the joining vowels are "of various origin", and gives no such match for the *ē* after the yiqtol (§58f, note). The energic *-nn-* of *yittənennû* matches the Arabic energetic *yaktubanna* (Gesenius §48b).
 
 ## Exercises
 

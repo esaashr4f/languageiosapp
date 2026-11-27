@@ -320,3 +320,14 @@ Translations are always our own.
 - Taught in part 4 (do not re-teach): s-/h- dropped after v- (4-20); recipient marked with mo- for me/you (მომწერა, მომცემს); plural experiencer -t (უყვართ, 4-18); "love", "have", "want", "know" have no aorist. Left for later: three-participant perfects (7-04), class 2 with indirect object (ეხმარება, 7-03), number-changing verbs (7-07), რომ and როცა clauses.
 - Possible duplicate headwords for later drafters: უნდა (particle 4-16, verb 4-18) vs 6-05; თურმე (4-22) vs 7-08; ეუბნება (4-25) vs 7-03; ფეხით, დილით; past participles as adjectives (4-24) vs 5-07. Check vocab.json.
 - Part 4 vocabulary is thin (15 teaching lessons under 15 new words): top up during verification or the pilot gate.
+
+
+## Notes from verifying part 4 (2026-11-27)
+
+- The owner's PDF "Georgian, a comprehensive grammar" is Bolkvadze and Kiziria 2023 (bolkvadze2023), not Hewitt. Hewitt 1995 is reachable only as the publisher's preview (to about §3.1); its §2.5 notes define weak (-e) and strong (-i) aorists: cite that, not search snippets or Wikibooks.
+- Strong class 2 aorists form the optative in -e (გავთბი → გავთბე; დავრჩი → დავრჩე); class 1 strong in -a.
+- Wiktionary and lingua.ge disagree on "they baked" (გამოაცხეს / გამოაცხვეს): give both, labelled uncertain.
+- lingua.ge gives მოსთხოვა as the plain aorist of "ask for"; B&K translate the mo- form "demanded". lingua.ge files თოვს and other weather verbs as პირნაკლი (personless), and names pages by the masdar, sometimes without preverb (ხატვა).
+- Wiktionary's declension table for კვალი is broken; use the headword plural კვლები.
+- Open convention: the stem extension -v- in forms like i-muša-v-a is glossed as a bare lower-case v. Decide at the pilot gate (candidates: fold into the stem, or a TS-like label).
+- Eleven part 4 teaching lessons still list fewer than 15 new words; top up at the pilot gate.

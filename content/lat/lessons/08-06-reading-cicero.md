@@ -73,7 +73,7 @@ confidence: attested
 
 :::example
 orig: Nōs autem fortēs virī satis facere reī pūblicae vidēmur, sī istīus furōrem ac tēla vītēmus.
-morphemes: nōs autem fort-ēs vir-ī satis face-re re-ī pūblic-ae vidē-mur sī ist-īus furōr-em ac tēl-a vītē-mus
+morphemes: nōs autem fort-ēs vir-ī satis face-re re-ī pūblic-ae vidē-mur sī ist-īus furōr-em ac tēl-a vīt-ē-mus
 gloss: 1PL.NOM however brave-NOM.PL man-NOM.PL enough do-INF thing-DAT.SG public-DAT.SG.F seem-1PL if that-GEN.SG madness-ACC.SG and weapon-ACC.PL avoid-SBJV-1PL
 translation: And we, brave men that we are, think we are doing enough for the state if we dodge that man's madness and weapons.
 note: Irony: fortēs virī is meant bitterly. videor + nominative and infinitive, "we seem" (part 7, lesson 4). satis facere + dative "satisfy". vītēmus: a subjunctive in a sī clause that depends on an infinitive, a less vivid condition.
@@ -98,6 +98,10 @@ confidence: attested
 **Lists with one verb.** The sentence with six *nihil*s holds back its verb, *mōvērunt*, until every subject has been named, a period in the sense of part 7, lesson 6. The sentence of indirect questions does the same with *ignōrāre*.
 
 **Pronouns as weapons.** *Iste*, *istīus* for Catiline, *hic* for the senators present: Cicero points with his pronouns. *Hic tamen vīvit* uses *hic* of Catiline only to make the contrast with the consul's knowledge.
+
+**Working through the indirect questions.** Start at the end: *quem nostrum ignōrāre arbitrāris?* "which of us do you think is unaware?" Then everything before it is what we are supposedly unaware of. *Quid … ēgeris*: "what you did"; the two ablatives *proximā* and *superiōre nocte* both go with *nocte*, said once. *Ubi fueris*: "where you were". *Quōs convocāveris*: "whom you summoned". *Quid cōnsiliī cēperis*: "what (of) plan you formed". Each is a perfect subjunctive because the main verb, *arbitrāris*, is present and the actions are past (part 6, lesson 6).
+
+**The tone of *hic*.** In section 2, *hic* first means "this man here", Catiline, standing in the room; Cicero can point at him. Allen and Greenough note that pronouns and names often take emphatic places in Latin (ag1903 §598l).
 
 ## Questions
 

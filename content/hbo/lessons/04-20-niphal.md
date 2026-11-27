@@ -30,7 +30,7 @@ In the gloss the stem is NIPH: `fight.NIPH.YQTL.3SG.M`.
 
 The *n* appears in two ways (Gesenius §51a–b):
 
-- **Qatal and participle: prefix *ni-*.** *nišmar* "he took care", *nišməʾû*; participle *nišmār*, with *ā*. The qatal takes the ordinary qatal endings: *nišmartā*, *nišmartî*.
+- **Qatal and participle: prefix *ni-*.** *nišmar* "he took care", *nišmərû*; participle *nišmār*, with *ā*. The qatal takes the ordinary qatal endings: *nišmartā*, *nišmartî*.
 - **Yiqtol, imperative, infinitive: the *n* is assimilated**, leaving a dagesh in the first root letter, and the stem has *ā* and *ē*: *yiššāmēr* (from *yinšāmēr*) "he will take care"; imperative and infinitive *hiššāmēr*, with an added *hi-*. The wayyiqtol shortens *ē* to *e* in the last syllable when the stress moves back: *wayyinnāḥem* "and he regretted".
 
 So: *n* + root = qatal/participle; prefix + doubled first letter + *ā* ... *ē* = yiqtol. Lesson 4.3 warned that *nišmōr* "we will guard" and *nišmar* "he took care" look alike; the stem vowels separate them.
@@ -189,7 +189,7 @@ confidence: attested
 :::table
 caption: The niphal of šāmar "take care, be guarded"
 confidence: verified
-source: gkc1910 §51; oshb (nišmar 1×, nišmərû 1×, nišmār 1×, hiššāmēr; yiššāmēr and other persons by pattern; compare yiqqāḇēr, yillāḥēm attested)
+source: gkc1910 §51; oshb (nišmar 1×, nišmərû 1×, hiššāmēr 1×; the one נִשְׁמָר, Hosea 12:14, is a pausal qatal, so the participle is by pattern; yiššāmēr and other persons by pattern; compare yiqqāḇēr, yillāḥēm attested)
 | Form | Hebrew | Translit |
 |---|---|---|
 | qatal 3SG.M | נִשְׁמַר | nišmar |
@@ -199,7 +199,7 @@ source: gkc1910 §51; oshb (nišmar 1×, nišmərû 1×, nišmār 1×, hiššām
 | wayyiqtol 3SG.M | וַיִּשָּׁמֶר | wayyiššāmer (by pattern) |
 | imperative | הִשָּׁמֵר | hiššāmēr |
 | infinitive | הִשָּׁמֵר | hiššāmēr (by pattern) |
-| participle | נִשְׁמָר | nišmār |
+| participle | נִשְׁמָר | nišmār (by pattern) |
 :::
 
 ## New words

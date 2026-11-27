@@ -243,7 +243,7 @@ source: gkc1910 §69; oshb (yēṣēʾ 61×, yērēḏ 15×, šēḇ 7×, ṣē�
 
 ## Connections
 
-Arabic keeps the *w*: *walada* "bear", *waḍaʿa* "put", *warita* "inherit" (Hebrew *yāraš*). In the Arabic prefix form it often drops, as in Hebrew group 1: *yalidu* "she bears", *yaḍaʿu* "he puts". Gesenius makes the same comparison (§69e). Hebrew *yālaḏ* and Arabic *walada* are the same root; so are Hebrew *yôm* and Arabic *yawm*, which has nothing to do with this class, because there the *y* was original.
+Arabic keeps the *w*: *walada* "bear", *waḍaʿa* "put", *wariṯa* "inherit" (Hebrew *yāraš*). In the Arabic prefix form it often drops, as in Hebrew group 1: *yalidu* "he begets", *yaḍaʿu* "he puts". Gesenius makes the same comparison (§69e). Hebrew *yālaḏ* and Arabic *walada* are the same root; so are Hebrew *yôm* and Arabic *yawm*, which has nothing to do with this class, because there the *y* was original.
 
 ## Exercises
 

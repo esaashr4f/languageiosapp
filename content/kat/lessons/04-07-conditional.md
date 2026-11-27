@@ -21,7 +21,7 @@ What does the combination mean? The preverb gives a complete action viewed from 
 
 Typically the condition is stated or implied. It may be an "if" clause (part 6, lesson 6-9), or a "but" clause that says why the action does not happen: "I would write the letter today, but there is no time." This lesson uses the second kind, which needs no new grammar.
 
-A word on the name. Lingua.ge labels this screeve with its Georgian school name ხოლმეობითი *xolmeobiti*, which contains *xolme* "habitually" (lesson 4-5). The name points to an older or wider use for repeated past actions. Bolkvadze and Kiziria describe only the conditional meaning, and this guide uses the imperfect (with *xolme*) for past habits.
+A word on the name. Lingua.ge labels this screeve with its Georgian school name ხოლმეობითი *xolmeobiti*, which contains *xolme* "habitually" (lesson 4-5). The name suggests a use for repeated actions, but the sources checked for this guide describe only the conditional meaning, and this guide uses the imperfect (with *xolme*) for past habits.
 
 ## How it is built
 
@@ -174,7 +174,7 @@ preview: NV
 
 **"They" is -dnen.** *\*Gaxsnian-da* or *\*gaxsniandnen* stack the present ending onto the new one. Drop the present ending and add *-dnen*: *gaxsnidnen*.
 
-**Do not use the conditional for past habits.** English "when we were young we would swim every day" is a habit, and Georgian uses the imperfect: *vcuravdit xolme* (lesson 4-5). *\*Gavcuravdit* (with a preverb) would be "we would swim (across)".
+**For past habits, use the imperfect.** English "when we were young we would swim every day" is a habit, and the way Bolkvadze and Kiziria show it is the imperfect with *xolme*: *vcuravdit xolme* (lesson 4-5). *\*Gavcuravdit* is wrong twice over: "swim" has no *ga-* future (its future is *icuravebs*), and a *ga-* form of a motion verb would mean "swim out, across".
 
 **Activity verbs take no preverb here either.** *\*Gatamašebda* is wrong; *itamašebda*.
 

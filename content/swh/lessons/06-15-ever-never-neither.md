@@ -26,7 +26,7 @@ This lesson adds three more and puts them in order:
 
 **kamwe** "never, not at all". Wiktionary gives a striking history: *kamwe* is built from a fossil prefix of class 12 (*ka-*), a class standard Swahili keeps only in rare traces (lesson 0.2) and an older form of "one", related to *moja*: roughly "not one bit". It is used "in a negative sentence" as "never, not at all", and in a question as "ever". Wiktionary lists *hata kidogo* "not even a little" and *kabisa* as synonyms.
 
-**-wahi** "get the chance to, be in time" (lesson 4.5). In the perfect it asks about experience: *Umewahi kwenda Mombasa?* "have you ever been to Mombasa?". With *-ja-* it gives "never (so far)": *Sijawahi kwenda* "I have never been". Wiktionary traces the verb to Arabic *waḥā* "hurry".
+**-wahi** "get the chance to, be in time" (lesson 4.5). In the perfect it asks about experience: *Umewahi kwenda Mombasa?* "have you ever been to Mombasa?". With *-ja-* it gives "never (so far)": *Sijawahi kwenda* "I have never been". Wiktionary traces the verb to Arabic *waḥā*.
 
 **wala** "and not, nor". Wiktionary: borrowed from Arabic *wa-lā* "and not"; in a negative sentence it means "and" or "or". It is the word lesson 5.9 promised for "neither ... nor": after one negative, *wala* adds the next thing denied: *Sina pesa wala kazi* "I have neither money nor work".
 
@@ -184,7 +184,7 @@ confidence: constructed
 - *bado* + *-ja-* "not yet": *Bado hajafika.*
 - *-o-ote* "any": *Sikuona kitu chochote* "I saw nothing at all".
 - *hata* + one: *hata mmoja*, *hata shilingi moja*.
-- *ng'o*, a colloquial interjection that "emphasises a negative statement" (Wiktionary): *Sitakupa ng'o!* "I won't give you a thing!"
+- *ng'o*, an interjection "used to emphasise a negative statement" (Wiktionary): *Sitakupa ng'o!* "I won't give you a thing!"
 
 **In questions** some of them mean "ever": *Umewahi...?*, and Wiktionary notes *kamwe* "(in a question) ever".
 
@@ -200,7 +200,7 @@ confidence: constructed
 - Two negative verbs: *hakula wala hakunywa*.
 - Nouns after one negative verb: *sina pesa wala kazi*.
 - Negative commands: *usiseme, wala usicheke*.
-- *Wala ... wala* before each item, for emphasis: *Sina wala pesa wala kazi.*
+- *Wala ... wala* before each item, for emphasis: *Sina wala pesa wala kazi.* Almasi and colleagues: *Haangalii wala televisheni wala hasomi magazeti* "he neither watches television nor reads newspapers".
 - At the start of a clause, "and not, nor": *Hakuja, wala hakupiga simu* "he didn't come, nor did he phone".
 
 **Negation across clauses** (a summary of part 6):
@@ -236,7 +236,7 @@ confidence: constructed
 wala | - | conjunction | nor, and not; (after a negative) or | wala ... wala "neither ... nor"; from Arabic wa-lā (Wiktionary)
 hata kidogo | - | adverb | (with a negative) at all | "not even a little"
 katu | - | interjection | never, not at all! | 
-ng'o | - | interjection | (emphasising a negative) not a thing! | colloquial
+ng'o | - | interjection | (emphasising a negative) not a thing! | 
 daima | - | adverb | always, for ever | from Arabic dāʔiman
 milele | - | adverb | for ever, eternally | 
 -thubutu | - | verb | dare | kuthubutu; loan from Arabic

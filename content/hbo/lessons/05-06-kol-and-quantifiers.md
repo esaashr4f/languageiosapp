@@ -56,7 +56,7 @@ translit: wəḵol-hāʾāreṣ bāʾû miṣraymâ lišbōr ʾel-yôsēp̄
 morphemes: wə=ḵol hā=ʾāreṣ bāʾ-û miṣraym-â li=šbōr ʾel yôsēp̄
 gloss: and=all DEF=earth come.QTL-3PL Egypt-DIR to=buy.grain.INF to Joseph
 translation: The whole world came to Egypt, to Joseph, to buy grain.
-note: kol + definite noun: "the whole earth", meaning its people, so the verb is plural. šāḇar here is "buy grain" (lesson 4.23), which bdb lists as a separate verb from šāḇar "break".
+note: kol + definite noun: "the whole earth", meaning its people, so the verb is plural. šāḇar here is "buy grain" (compare šeḇer "grain", lesson 4.23), which bdb lists as a separate verb from šāḇar "break".
 source: Genesis 41:57 (WLC)
 confidence: attested
 :::

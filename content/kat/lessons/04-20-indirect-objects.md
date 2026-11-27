@@ -40,7 +40,7 @@ The case of the indirect object noun is the dative, in series I and II alike: *m
 
 **Word order.** Usually indirect object, then direct object, then verb, but any order is possible; the verb and the cases keep the roles clear.
 
-**The future and aorist** keep the marker, after the preverb: *mi-s-c̣ers* "will write to him", *mi-s-c̣era* "wrote to him" (Wiktionary); *mo-s-txova* "asked him for" (Wiktionary). With a first- or second-person recipient: *mi-m-c̣era* "he wrote to me", *mo-g-txova* "he asked you".
+**The future and aorist** keep the marker, after the preverb: *mi-s-c̣ers* "will write to him", *mi-s-c̣era* "wrote to him" (Wiktionary); *mo-s-txova* "asked him for, demanded" (Wiktionary, lingua.ge; Bolkvadze and Kiziria give the *mo-* form the sense "demand"). With a first- or second-person recipient: *mi-m-c̣era* "he wrote to me", *mo-g-txova* "he asked you".
 
 **Two persons in one slot.** "He writes to me" and "he writes me (a letter)" are both *mc̣ers*: the prefix slot holds the recipient, and the letter, a third person, needs no marker. What if both objects were first or second person ("she introduces me to you")? Bolkvadze and Kiziria show that such verbs need extra machinery; this guide leaves them aside.
 
@@ -211,7 +211,7 @@ source: bolkvadze2023 §9.1.3, §9.2.1 (მო- towards the speaker or listener)
 
 :::vocab
 სწერს | sc̣ers | verb | writes (to someone) | class 1; 1SG ვწერ, 2SG სწერ; fut. მისწერს; aor. მისწერა; with a 1st or 2nd person recipient მო-: მომწერა "wrote to me"; masdar წერა
-სთხოვს | stxovs | verb | asks (someone) for (something) | class 1; 1SG ვთხოვ; aor. სთხოვა; with მო-: მოსთხოვა "demanded"; masdar თხოვნა
+სთხოვს | stxovs | verb | asks (someone) for (something) | class 1; 1SG ვთხოვ; aor. სთხოვა; with მო-: მოსთხოვა "demanded" (bolkvadze2023 §9.6.2.1; lingua.ge gives მოსთხოვა as the plain aorist); masdar თხოვნა
 ჰკითხავს | hḳitxavs | verb | will ask (someone a question) | class 1, future; aor. ჰკითხა (bolkvadze2023 §9.1.3); masdar კითხვა
 აჩვენებს | ačvenebs | verb | shows | class 1; aor. აჩვენა (no preverb); pf. უჩვენებია
 ასწავლის | asc̣avlis | verb | teaches | class 1; 3PL ასწავლიან; aor. ასწავლა; pf. უსწავლებია; masdar სწავლება
@@ -232,7 +232,7 @@ Spanish is again close: *le escribo* "I write to him" has a clitic for the third
 
 1. Say "I write to you" and "you write to me".
 2. Say "He often writes to his mother."
-3. Say "We asked the teacher for advice" (aorist *movtxovet*).
+3. Say "We asked the teacher for advice" (aorist *vtxovet*).
 4. Say "Show me the map, please!"
 5. Why is it *vc̣er* but *sc̣er* for "I/you write to him"?
 6. Correct *\*Nino megobartan c̣erils c̣ers* (meaning "writes a letter to her friend").
@@ -243,7 +243,7 @@ Spanish is again close: *le escribo* "I write to him" has a clitic for the third
 
 1. *Gc̣er*: *g-* "to you" takes the slot and *v-* goes. *Mc̣er*: "you" has no marker; *m-* "to me".
 2. *Dedas xširad sc̣ers.* Dative recipient; *s-* before *c̣*. (For "his own mother", *tavis dedas*, lesson 3-8.)
-3. *Masc̣avlebels rčeva movtxovet.* Aorist: the thing asked for, *rčeva*, is nominative; the teacher, dative; no *s-* after *v-*.
+3. *Masc̣avlebels rčeva vtxovet.* Aorist: the thing asked for, *rčeva*, is nominative; the teacher, dative; no *s-* after *v-*. Lingua.ge also gives *movtxovet* here; Bolkvadze and Kiziria translate the *mo-* form "we demanded", so the bare form is the safer "asked".
 4. *Ruḳa mačvene, gtxov!* Command = aorist second person; *m-* "to me"; *ruḳa* nominative (series II).
 5. Wiktionary's tables show the third-person *s-* written only when no *v-* precedes: *sc̣er*, *sc̣ers*, but *vc̣er*.
 6. The recipient is a plain dative, and the verb marks it: *nino megobars c̣erils sc̣ers*.

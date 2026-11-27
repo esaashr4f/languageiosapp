@@ -159,3 +159,20 @@ Worked answers checked: 169   corrected: 4
 Corrections (summary): licet takes the dative or the accusative (§455 note), so *Mē licet manēre un-starred and the contrast moved to oportet; contrary-to-fact apodosis in reported speech is nōn fuisse difficile (§589b); quotations restored to The Latin Library text (Sallust Cat. 36.4, Cicero Laws 2.13, Tusc. 4.55, Quintilian 12.1.1, Arbroath providiencia) with ellipses; spellings vēndere, scēptra, Sextīlīs, bissextīlis, duodēvīcēsimae, nuptum; -ēre "alternative", not "older"; final-syllable quantity rules restated (§604); Catullus 101.1 has three spondees; igitur "usually second"; inscription abbreviations confirmed against Wikipedia's list, H.S.E. both readings.
 
 Still open: Caelius stone and Scipio epitaphs checked only against Wikipedia, CLE poems only against The Latin Library (EDCS, CIL, Bücheler unreachable); A&G derivation sections §§245–259 not opened one by one (poor OCR); "Livy ab Rōmā" unsourced; Tītyre long ī unchecked.
+
+
+### Parts 8 and 9 — verified 2026-11-27 by fresh subagent
+Lessons checked: lat-08-01 to lat-08-08 (capstone), lat-09-01 to lat-09-04
+Forms checked: 76   corrected: 1   left unverified: 0
+Glosses checked: 58 examples   corrected: 1
+Attested quotations checked: 58 (fresh downloads from thelatinlibrary.com)   corrected: 2
+Scansions checked: 34 lines (Catullus 85, 5; Aeneid 1.1–11; Pompeii couplets)
+Claims checked: 48   corrected or removed: 12
+Worked answers checked: 44   corrected: 0
+Tables in 09-01 and 09-02: 64 compared with their source lessons (script rerun at 06:30): no change
+
+Corrections (summary): Pompeii no. 594 is CIL IV 1173; innkeeper pentameter does not scan (bibis); nine abbreviations, not seven; Caesar 1.1 word-order and chiasmus notes restated as A&G §597a gives them; fēc-erī-mus; Catullus 5 elisions listed correctly; ait placed like inquit; Magna Carta: imprison and outlaw are related to, not descended from, the Latin verbs; septimo "seventh"; Aeneid caesuras per A&G §615d (1.2 after profugus, 1.4 after superum); 1.3 iactātus agrees with ille (no est understood); 09-04 now lists all 27 sources.
+
+Still open: caelum IPA not rechecked (Wiktionary rate-limit); why fēcerīmus has a long ī unexplained; CIL number from secondary sources; reference-table forms not re-derived (parts 2–7 already verified).
+
+The Latin guide (105 lessons) is fully drafted and verified, pending the pilot gate.

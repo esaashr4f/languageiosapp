@@ -29,7 +29,7 @@ So *-t* means "somebody first or second person is plural". It does not say which
 
 **Step 1: read the front slot.** It tells you the object if it is *m-*, *gv-* or *g-*; it tells you the subject is "I/we" if it is *v-*. If it is empty, the subject is "you" or third person and the object is third person.
 
-**Step 2: read the end.** *-s* or *-en* (and the other third-person suffixes) say the subject is third person. No such suffix means the subject is first or second person.
+**Step 2: read the end.** *-s* or *-en* (and the other third-person suffixes) say the subject is third person. No such suffix usually means the subject is first or second person; the one exception is "he, she" with a "you all" object, where *-s* gives way to *-t* (below).
 
 **Step 3: read the -t.** It adds plural to a first- or second-person subject, or to a "you" object, whichever the rest allows.
 
@@ -38,15 +38,15 @@ So *-t* means "somebody first or second person is plural". It does not say which
 Now take *gxedavt*:
 
 1. Front: *g-*, so the object is "you".
-2. End: no *-s*, no *-en*, so the subject is first or second person; with a "you" object it must be first person.
+2. End: no *-s*, no *-en*, so the subject is first person (with a "you" object it cannot be second), or "he, she" with *-s* replaced by *-t*.
 3. *-t*: some first or second person is plural.
-4. So *gxedavt* is "we see you", "I see you all" or "we see you all".
+4. So *gxedavt* is "we see you", "I see you all" or "we see you all", and also "he/she sees you all" (next paragraph).
 
-Georgian accepts the three-way ambiguity and clears it with pronouns when it matters: *čven gxedavt* "we see you", *me tkven gxedavt* "I see you all".
+Georgian accepts the ambiguity and clears it with pronouns when it matters: *čven gxedavt* "we see you", *me tkven gxedavt* "I see you all".
 
 **A third-person subject with "you all".** Here the two suffixes meet at the end. Bolkvadze and Kiziria's paradigm of *xaṭavs* gives *g-xaṭav-t* for "he paints you (all)": the *-t* appears and the *-s* does not. Their note adds that *-s* "may not appear", with *is tkven gaxarebt* "he makes you happy". So "he sees you all" is *gxedavt*, the same form as "we see you".
 
-**"They" with "you all".** The third-person plural suffix is not given up. Bolkvadze and Kiziria's paradigm of a two-person verb has *g-erč-i-t* "he assails you (all)" but *g-erč-i-an* "they assail you (all)": with *-an* there is no *-t*. So "they see you" and "they see you all" are both *gxedaven*.
+**"They" with "you all".** The third-person plural suffix is not given up. Bolkvadze and Kiziria's paradigm of a two-person verb has *g-e-rč-i-t* "he assails you (all)" but *g-e-rč-i-an* "they assail you (all)": with *-an* there is no *-t*. So "they see you" and "they see you all" are both *gxedaven*.
 
 **The full grid**, built from these rules for *xedavs* "sees":
 
@@ -242,7 +242,7 @@ Many languages with object marking on the verb have such a hierarchy. Spanish av
 1. *Gxedav*; *(me tkven) gxedavt*. The object *g-* takes the slot and *v-* goes; *-t* makes "you" plural.
 2. *Geʒebs*; *geʒebt*. With a plural "you", the *-t* replaces the *-s*.
 3. *Isini geʒeben.* The third-person plural *-en* stays and no *-t* is added.
-4. *G-* "you", no third-person suffix, *-t*: "I invite you all", "we invite you", "we invite you all". Also, said to one person politely, "I invite you" and "we invite you".
+4. *G-* "you", no *-en*, *-t*: "I invite you all", "we invite you", "we invite you all", and "he/she invites you all" (where *-t* has replaced *-s*). Also, said to one person politely, "I invite you", "we invite you" and "he/she invites you".
 5. *Meʒebt?* *M-* "me"; *-t* for polite *tkven*; rising intonation for the question.
 6. *(Šen čven) gvaṭq̇ueb.* *Gv-* "us"; "you" singular has no marker.
 7. Only the object goes in front: *me šen gxedav*. After *-en* there is no *-t*: *isini tkven gxedaven*.

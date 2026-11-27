@@ -187,7 +187,7 @@ confidence: constructed
 - **Cause and reason**: *amiṭom* "therefore, that is why", *imiṭom* "for that reason". *Imiṭom* also opens "because" clauses (lesson 6-6).
 - **Postpositions on the genitive** (each a separate word): *šemdeg* "after", *c̣in* "before, in front of, ago", *uḳan* "behind", *šesaxeb* "about", *garda* "except, besides", *mier* "by (the doer)", *gamo* "because of", *gareše* "without".
 - **mier with participles**: the doer of a passive or a participle (*mamačemis mier ašenebuli*). It is formal and written.
-- **Fixed expressions**: *zepirad* "by heart" (Wiktionary), *pexit* "on foot" (lesson 4-11).
+- **Fixed expressions**: *zeṗirad* "by heart" (Wiktionary), *pexit* "on foot" (lesson 4-11).
 
 ## Watch out
 
@@ -229,7 +229,7 @@ confidence: constructed
 ამიტომ | amiṭom | adverb | therefore, that is why |
 იმიტომ | imiṭom | adverb | for that reason; (with რომ) because |
 ამაღამ | amaɣam | adverb | tonight |
-ზეპირად | zepirad | adverb | by heart |
+ზეპირად | zeṗirad | adverb | by heart |
 თავიდან | tavidan | adverb | from the beginning; again, from scratch |
 სამჯერ | samǯer | adverb | three times |
 რამდენჯერ | ramdenǯer | adverb | how many times?; many times |

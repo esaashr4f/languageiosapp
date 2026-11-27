@@ -142,7 +142,7 @@ orig: Dñs dixit ⁊ ꝓ nobis ꝑ crucem passus est.
 morphemes: domin-us dix-it et pro nobis per cruc-em pass-us est
 gloss: lord-NOM.SG say.PRF-3SG and for 1PL.ABL through cross-ACC.SG suffer.PTCP-NOM.SG.M be.3SG
 translation: The Lord spoke, and suffered for us through the cross.
-note: A constructed line in manuscript abbreviations: dñs = dominus, ⁊ = et, ꝓ = prō, ꝑ = per (Wiktionary). Not a real manuscript.
+note: A constructed line in manuscript abbreviations: dñs = dominus, ⁊ = et, ꝓ = prō, ꝑ = per (Wiktionary). crux, crucis f. "cross" is glossed here. Not a real manuscript.
 source: constructed
 confidence: constructed
 :::

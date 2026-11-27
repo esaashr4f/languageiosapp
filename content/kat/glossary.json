@@ -127,7 +127,7 @@
   },
   "PLUP": {
    "name": "pluperfect",
-   "plain": "the second screeve of series III: had done, or should have done",
+   "plain": "the second screeve of series III: had done, or should have done. In this guide it also marks the e- before the root in the perfect subjunctive.",
    "tag": "pluperfect"
   },
   "PTCP": {
@@ -229,6 +229,28 @@
   "stem": "The form endings attach to (kat-03-01).",
   "vowel stem": "A noun whose stem ends in a vowel, with its own case endings (kat-03-05).",
   "oblique": "The short form a demonstrative takes before a noun in any case but the nominative (kat-03-09).",
-  "old plural": "The older plural in -ნ-/-თ, used in formal and fixed language (kat-03-12)."
+  "old plural": "The older plural in -ნ-/-თ, used in formal and fixed language (kat-03-12).",
+  "verb template": "Defined in kat-04-01.",
+  "one-stem and two-stem verbs": "Defined in kat-04-02.",
+  "object markers": "Defined in kat-04-03.",
+  "person hierarchy": "Defined in kat-04-04.",
+  "imperfect": "Defined in kat-04-05.",
+  "perfective aspect": "Defined in kat-04-06.",
+  "conditional": "Defined in kat-04-07.",
+  "verb class": "Defined in kat-04-09.",
+  "unaccusative": "Defined in kat-04-09.",
+  "unergative": "Defined in kat-04-09.",
+  "deixis": "Defined in kat-04-11.",
+  "strong and weak aorist": "Defined in kat-04-14.",
+  "medial verb": "Defined in kat-04-15.",
+  "indirect verb": "Defined in kat-04-18.",
+  "experiencer": "Defined in kat-04-18.",
+  "inversion": "Defined in kat-04-18.",
+  "animacy": "Defined in kat-04-19.",
+  "evidential": "Defined in kat-04-22.",
+  "perfect subjunctive": "Defined in kat-04-23.",
+  "past participle": "Defined in kat-04-24.",
+  "suppletion": "Defined in kat-04-25.",
+  "principal parts": "Defined in kat-04-26."
  }
 }

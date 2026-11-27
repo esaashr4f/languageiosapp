@@ -465,3 +465,10 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Final -t stands only before k, kh, p, ph, t, th, s or at the end; final -n after a long vowel mostly before vowels, k, p or at the end (a few answers before v, r, which Whitney §§202–208 allows). Vowel sandhi fully applied from san-03-07 on, including iti joins.
 - Consonant-stem nominatives without an ending glossed whole (rājā, manaḥ, bhagavān, pumān, gām). Hitopadeśa saṅgama kept as spelt; MBh saṃgama. √nam with the dative. Class-10 vowel grades given by example only (san-03-11).
 - Whitney section numbers were corrected from the OCR by sequence (e.g. §296, §375): spot-check against page scans.
+
+
+## Notes from verifying part 3 (2026-11-27)
+
+- Citation format: a single pāda is "a"; a half-verse is "a–b" or "c–d". GRETIL's Bhg and MBh labels mark half-lines as a/c, which caused mis-citations (36a, 3.4b, 10.8a, 1.90b): convert them.
+- √dhṛ is class 1 (dharati); mw1899 treats dhārayati as a causative form used in the plain sense, not class 10.
+- When a hyphen from GRETIL is removed in orig, say so in the note.

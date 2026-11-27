@@ -251,7 +251,7 @@ Translations are always our own.
 - British spelling; second person; short sentences; one idea per paragraph. No "simply", no "just" as filler.
 - Every lesson states *why*. For Georgian the reason is often systemic (which series, which class, which marker set) rather than historical; historical claims need a source (section 6, point 9).
 - Build the chain of thought for every verb form: "Which class is the verb? Which series is the screeve in? So the subject is in case X and the object in case Y. Which persons are involved? So the prefix is ... and the suffix is ..."
-- Until kat-04-12 (aorist), examples must stay in series I (present, imperfect, future, conditional) and use only nominative and dative arguments. Until kat-04-17, avoid indirect verbs except as clearly flagged previews (`preview:`), with one exception: *uq̇vars* "loves" and *aḳvs* "has" are so frequent that kat-00-02 may show them as unglossed teasers.
+- Until kat-04-12 (aorist), examples must stay in series I (present, imperfect, future, conditional) and use only nominative and dative arguments. Until kat-04-17, avoid indirect verbs except as clearly flagged previews (`preview:`), with one exception: *uq̇vars* "loves" and *akvs* "has" are so frequent that kat-00-02 may show them as unglossed teasers.
 - Constructed examples use only words already introduced in a `:::vocab` block and only grammar already introduced.
 - For every verb used, record its class and its 3SG present, future, aorist and perfect in the vocab notes, checked in wiktionary or marked `(unverified)`.
 - Georgian has no gender: never translate *is* as "he" or "she" without context; say "he/she/it" in literal lines.
@@ -309,3 +309,14 @@ Translations are always our own.
 - Hewitt §2.4.1 also suggests syncope began at an older stage with stronger stress. Hewitt's publisher preview (74 pages, §§2–3.1.2.1) was downloaded on 2026-11-26 and can be used for checks.
 - UDHR Georgian text (udhr_kat.xml) re-downloaded 2026-11-26; quotations confirmed.
 - Transliteration slips to watch: ejectives in ḳ, ṗ, ṭ are easily dropped; run the round-trip check on every example.
+
+
+## Notes from drafting part 4 (2026-11-27)
+
+- Glossing decisions adopted: pluperfect da-m-e-c̣er-a = PV-1SG.IO-PLUP-write-AOR.3SG; perfect subjunctive da-m-e-c̣er-o-s with PLUP and OPT (PLUP covers the e- of both). Class 2 present v-i-c̣er-eb-i = 1SBJ-PASS-write-TS-SBJ; i-c̣er-eb-a ends in 3SG; -ian is 3PL.SBJ as one piece. e- in class 4 futures PASS. The i- of medial futures and aorists SV (Bolkvadze and Kiziria call it a version prefix). Motion stems (-val, -vid/-ved, -sul) and icis unsegmented. h- of ჰყავს IO. Class 2 perfect: da-c̣er-il-a PV-write-PTCP-be.3SG; pluperfect -iq̇o be.AOR.3SG.
+- Correction to §5 "Class 4" row: lingua.ge has full tables for უყვარს, აქვს, ჰყავს, უნდა, მოსწონს, სძულს, იცის, ახსოვს, and Wiktionary confirms მიყვარხარ, მომწონხარ; class 4 forms can be checked there. aḳvs corrected to akvs (1 place(s)).
+- Sources disagree (both forms given): აგებს aorist ააგა (Wiktionary) / ააგო (Bolkvadze and Kiziria); ცურავს aorist იცურა / იცურავა (lingua.ge); იყიდის conditional avoided. Wiktionary's intransitive pluperfect plural of დაწერს is wrong; lingua.ge typos in gamortva 3SG and დაბრუნებულან avoided.
+- Strong/weak aorist terms come from Hewitt (search snippet) and the Wikibooks Georgian course: add a source or treat as unverified.
+- Taught in part 4 (do not re-teach): s-/h- dropped after v- (4-20); recipient marked with mo- for me/you (მომწერა, მომცემს); plural experiencer -t (უყვართ, 4-18); "love", "have", "want", "know" have no aorist. Left for later: three-participant perfects (7-04), class 2 with indirect object (ეხმარება, 7-03), number-changing verbs (7-07), რომ and როცა clauses.
+- Possible duplicate headwords for later drafters: უნდა (particle 4-16, verb 4-18) vs 6-05; თურმე (4-22) vs 7-08; ეუბნება (4-25) vs 7-03; ფეხით, დილით; past participles as adjectives (4-24) vs 5-07. Check vocab.json.
+- Part 4 vocabulary is thin (15 teaching lessons under 15 new words): top up during verification or the pilot gate.

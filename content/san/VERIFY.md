@@ -7,3 +7,16 @@ All 205 examples round-trip Devanagari ↔ IAST, are NFC, and obey their lesson'
 
 Corrections (summary): Glottolog classification worded accurately; Classical Sanskrit as nobody's first language presented as Whitney's view (Introduction p. xiv); unrun checks (Heritage engines, DCS) no longer claimed; "attested" defined accurately; mahāprāṇa is the commentary's term (§37d); anusvāra [m] only before labials (§213a); exercise wordings (ī of nīti; कर्मन् vs कर्मणि); several prose and exercise sentences broke their lesson's sandhi stage and were reordered (Whitney §175a); gṛha plural often m.; first person plural for two speakers per Speijer §25; copula situations per Speijer §2; pāpa fem. pāpā (older pāpī); vocative and iti citations corrected (§§266a, 268b).
 Still open: kim introducing a question expecting "no" (Speijer §412*, OCR garbled; confirm on a page scan); Hitopadeśa checked only against the GRETIL e-text (edition unnamed).
+
+
+### Part 3 — verified 2026-11-27 by fresh subagent
+Lessons checked: san-03-01 to san-03-20 (reviews 03-10, 03-20)
+Forms checked: 1,617 (675 table cells against Wiktionary, 942 example forms)   corrected: 2   left unverified: 0
+Glosses checked: 942   corrected: 1
+Attested quotations checked: 36   corrected: 4 (citation labels only; wording matched GRETIL)
+Claims checked: 201   corrected or removed: 21
+Worked answers checked: 196   corrected: 1
+
+Corrections (summary): Whitney §282, §288, §176b, §237, §311a, §111a, §514a and Speijer §271 now stated as the sources say; half-verse citations fixed (Hit 0.36a–b, 3.4c–d, 1.90c–d; Bhg 10.8a–b); √dhṛ is class 1 (dharati; dhārayati a causative form in the same sense); §339 tables also cite §341; sthavire glossed old-LOC.SG.M with kāla understood; unsourced comparative claims removed (Latin -ōrum, me/te, nōmen alternation, strī's iy); vaidarbhī (not vaidarbha) for Damayantī.
+
+Still open: Whitney checked against archive.org OCR by paragraph content, not page scans (madhye in §303e unreadable in OCR); Hit 1.56c–d jarad-gavaḥ hyphen removed without the usual note.

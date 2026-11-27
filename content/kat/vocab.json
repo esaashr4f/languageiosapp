@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 577,
+ "count": 842,
  "words": [
   {
    "headword": "მამა",
@@ -5074,7 +5074,7 @@
    "translit": "curavs",
    "pos": "verb",
    "meaning": "swims",
-   "forms": "class 3; imperf. ცურავდა; fut. იცურავებს; aor. იცურავა; masdar ცურვა (lingua.ge)",
+   "forms": "class 3; imperf. ცურავდა; fut. იცურავებს (lingua.ge); aor. იცურა (bolkvadze2023 §9.3.3.1) or იცურავა (lingua.ge); masdar ცურვა",
    "first_lesson": "kat-04-05",
    "confidence": "verified"
   },
@@ -5193,6 +5193,2391 @@
    "meaning": "year (as a span of time)",
    "forms": "",
    "first_lesson": "kat-04-05",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხვალ",
+   "translit": "xval",
+   "pos": "adverb",
+   "meaning": "tomorrow",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზეგ",
+   "translit": "zeg",
+   "pos": "adverb",
+   "meaning": "the day after tomorrow",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მალე",
+   "translit": "male",
+   "pos": "adverb",
+   "meaning": "soon",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მომავალი",
+   "translit": "momavali",
+   "pos": "adjective",
+   "meaning": "future; next",
+   "forms": "მომავალ წელს \"next year\"",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გეგმა",
+   "translit": "gegma",
+   "pos": "noun",
+   "meaning": "plan",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სია",
+   "translit": "sia",
+   "pos": "noun",
+   "meaning": "list",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბარათი",
+   "translit": "barati",
+   "pos": "noun",
+   "meaning": "card; note",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნომერი",
+   "translit": "nomeri",
+   "pos": "noun",
+   "meaning": "number; hotel room; issue (of a magazine)",
+   "forms": "gen. ნომრის",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აუცილებლად",
+   "translit": "aucileblad",
+   "pos": "adverb",
+   "meaning": "definitely, without fail",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზუსტად",
+   "translit": "zusṭad",
+   "pos": "adverb",
+   "meaning": "exactly, precisely",
+   "forms": "",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩაწერს",
+   "translit": "čac̣ers",
+   "pos": "verb",
+   "meaning": "will write down, register, record",
+   "forms": "future of წერს with ჩა-; aor. ჩაწერა; masdar ჩაწერა",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გადაწერს",
+   "translit": "gadac̣ers",
+   "pos": "verb",
+   "meaning": "will copy, rewrite",
+   "forms": "future of წერს with გადა-; aor. გადაწერა",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აღწერს",
+   "translit": "aɣc̣ers",
+   "pos": "verb",
+   "meaning": "will describe",
+   "forms": "future; aor. აღწერა; masdar აღწერა",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გადადებს",
+   "translit": "gadadebs",
+   "pos": "verb",
+   "meaning": "will put off, postpone; put aside",
+   "forms": "future of დებს with გადა-; masdar გადადება",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ამოიღებს",
+   "translit": "amoiɣebs",
+   "pos": "verb",
+   "meaning": "will take out, remove",
+   "forms": "future; masdar ამოღება",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შეაკეთებს",
+   "translit": "šeaḳetebs",
+   "pos": "verb",
+   "meaning": "will repair, mend",
+   "forms": "future; masdar შეკეთება",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გადააკეთებს",
+   "translit": "gadaaḳetebs",
+   "pos": "verb",
+   "meaning": "will redo, remake",
+   "forms": "future of აკეთებს with გადა-; masdar გადაკეთება",
+   "first_lesson": "kat-04-06",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სიამოვნებით",
+   "translit": "siamovnebit",
+   "pos": "adverb",
+   "meaning": "gladly, with pleasure",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სამწუხაროდ",
+   "translit": "samc̣uxarod",
+   "pos": "adverb",
+   "meaning": "unfortunately",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უბრალოდ",
+   "translit": "ubralod",
+   "pos": "adverb",
+   "meaning": "merely, simply",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მაინც",
+   "translit": "mainc",
+   "pos": "adverb",
+   "meaning": "still, anyway; at least",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გარეთ",
+   "translit": "garet",
+   "pos": "adverb",
+   "meaning": "outside",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაკავებული",
+   "translit": "daḳavebuli",
+   "pos": "adjective",
+   "meaning": "busy, occupied",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თავისუფალი",
+   "translit": "tavisupali",
+   "pos": "adjective",
+   "meaning": "free; not busy, unoccupied",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მზად",
+   "translit": "mzad",
+   "pos": "adverb",
+   "meaning": "ready",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სურვილი",
+   "translit": "survili",
+   "pos": "noun",
+   "meaning": "wish, desire",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შუქი",
+   "translit": "šuki",
+   "pos": "noun",
+   "meaning": "light; electricity",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სანთელი",
+   "translit": "santeli",
+   "pos": "noun",
+   "meaning": "candle",
+   "forms": "gen. სანთლის",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცეცხლი",
+   "translit": "cecxli",
+   "pos": "noun",
+   "meaning": "fire",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტელევიზორი",
+   "translit": "ṭelevizori",
+   "pos": "noun",
+   "meaning": "television",
+   "forms": "",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ანთებს",
+   "translit": "antebs",
+   "pos": "verb",
+   "meaning": "lights, sets alight",
+   "forms": "class 1; fut. აანთებს; aor. აანთო; pf. აუნთია; masdar ანთება (lingua.ge)",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აქრობს",
+   "translit": "akrobs",
+   "pos": "verb",
+   "meaning": "puts out, turns off (a light, fire)",
+   "forms": "class 1; fut. ჩააქრობს; aor. ჩააქრო; pf. ჩაუქრია; masdar ჩაქრობა (lingua.ge)",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რთავს",
+   "translit": "rtavs",
+   "pos": "verb",
+   "meaning": "switches on (with ჩა-)",
+   "forms": "class 1; fut. ჩართავს; aor. ჩართო; pf. ჩაურთავს; masdar ჩართვა (lingua.ge)",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასხამს",
+   "translit": "asxams",
+   "pos": "verb",
+   "meaning": "pours",
+   "forms": "class 1; fut. დაასხამს; aor. დაასხა (1SG დავასხი); pf. დაუსხამს; masdar სხმა",
+   "first_lesson": "kat-04-07",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწკრივი",
+   "translit": "mc̣ḳrivi",
+   "pos": "noun",
+   "meaning": "row, line; (grammar) screeve",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სერია",
+   "translit": "seria",
+   "pos": "noun",
+   "meaning": "series",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აწმყო",
+   "translit": "ac̣mq̇o",
+   "pos": "noun",
+   "meaning": "the present; (grammar) present tense",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მყოფადი",
+   "translit": "mq̇opadi",
+   "pos": "noun",
+   "meaning": "(literary) the future; (grammar) the future screeve",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წარსული",
+   "translit": "c̣arsuli",
+   "pos": "noun",
+   "meaning": "the past; (adjective) past",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წუთი",
+   "translit": "c̣uti",
+   "pos": "noun",
+   "meaning": "minute",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წამი",
+   "translit": "c̣ami",
+   "pos": "noun",
+   "meaning": "second; instant",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საუკუნე",
+   "translit": "sauḳune",
+   "pos": "noun",
+   "meaning": "century",
+   "forms": "gen. საუკუნის",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ახლახან",
+   "translit": "axlaxan",
+   "pos": "adverb",
+   "meaning": "recently, just now",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჯერჯერობით",
+   "translit": "ǯerǯerobit",
+   "pos": "adverb",
+   "meaning": "so far, for the time being",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მერე",
+   "translit": "mere",
+   "pos": "adverb",
+   "meaning": "then, afterwards, later",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხანდახან",
+   "translit": "xandaxan",
+   "pos": "adverb",
+   "meaning": "sometimes, now and then",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დიდხანს",
+   "translit": "didxans",
+   "pos": "adverb",
+   "meaning": "for a long time",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბოლოს",
+   "translit": "bolos",
+   "pos": "adverb",
+   "meaning": "finally, in the end",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სულ",
+   "translit": "sul",
+   "pos": "adverb",
+   "meaning": "completely; always; all in all",
+   "forms": "",
+   "first_lesson": "kat-04-08",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ათბობს",
+   "translit": "atbobs",
+   "pos": "verb",
+   "meaning": "warms, heats (something)",
+   "forms": "class 1; fut. გაათბობს; aor. გაათბო; pf. გაუთბია; masdar თბობა (lingua.ge)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თბება",
+   "translit": "tbeba",
+   "pos": "verb",
+   "meaning": "warms up, gets warm",
+   "forms": "class 2; aor. გათბა (bolkvadze2023 §9.1.4)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აშრობს",
+   "translit": "ašrobs",
+   "pos": "verb",
+   "meaning": "dries (something)",
+   "forms": "class 1; fut. გააშრობს; aor. გააშრო; pf. გაუშრია; masdar გაშრობა (lingua.ge)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შრება",
+   "translit": "šreba",
+   "pos": "verb",
+   "meaning": "dries, gets dry",
+   "forms": "class 2 (bolkvadze2023 §9.3.2.3)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩქარობს",
+   "translit": "čkarobs",
+   "pos": "verb",
+   "meaning": "hurries",
+   "forms": "class 3; aor. იჩქარა; pf. უჩქარია; masdar აჩქარება",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნადირობს",
+   "translit": "nadirobs",
+   "pos": "verb",
+   "meaning": "hunts",
+   "forms": "class 3; fut. ინადირებს; aor. ინადირა; pf. უნადირია; masdar ნადირობა (lingua.ge)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თევზაობს",
+   "translit": "tevzaobs",
+   "pos": "verb",
+   "meaning": "fishes, goes fishing",
+   "forms": "class 3; fut. ითევზავებს; aor. ითევზავა; pf. უთევზავია; masdar თევზაობა (lingua.ge)",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მონადირე",
+   "translit": "monadire",
+   "pos": "noun",
+   "meaning": "hunter",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მეთევზე",
+   "translit": "metevze",
+   "pos": "noun",
+   "meaning": "fisherman, angler",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბალახი",
+   "translit": "balaxi",
+   "pos": "noun",
+   "meaning": "grass",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სარეცხი",
+   "translit": "sarecxi",
+   "pos": "noun",
+   "meaning": "laundry, washing",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩაიდანი",
+   "translit": "čaidani",
+   "pos": "noun",
+   "meaning": "kettle, teapot",
+   "forms": "gen. ჩაიდნის",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქვაბი",
+   "translit": "kvabi",
+   "pos": "noun",
+   "meaning": "cooking pot",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნაპირი",
+   "translit": "naṗiri",
+   "pos": "noun",
+   "meaning": "shore, bank; edge",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ზმნისწინი",
+   "translit": "zmnisc̣ini",
+   "pos": "noun",
+   "meaning": "(grammar) preverb",
+   "forms": "",
+   "first_lesson": "kat-04-09",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იწერება",
+   "translit": "ic̣ereba",
+   "pos": "verb",
+   "meaning": "is written; is spelled",
+   "forms": "class 2 of წერს; fut. დაიწერება; aor. დაიწერა; pf. დაწერილა",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შენდება",
+   "translit": "šendeba",
+   "pos": "verb",
+   "meaning": "is (being) built",
+   "forms": "class 2 of აშენებს; aor. აშენდა (bolkvadze2023 §9.3.2)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ძველდება",
+   "translit": "ʒveldeba",
+   "pos": "verb",
+   "meaning": "gets old, ages (of things)",
+   "forms": "class 2 (bolkvadze2023 §9.3.2.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბერდება",
+   "translit": "berdeba",
+   "pos": "verb",
+   "meaning": "grows old (of people)",
+   "forms": "class 2; fut. დაბერდება (bolkvadze2023 §9.6.1.2)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწვანდება",
+   "translit": "mc̣vandeba",
+   "pos": "verb",
+   "meaning": "turns green",
+   "forms": "class 2 (bolkvadze2023 §9.3.2.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იზრდება",
+   "translit": "izrdeba",
+   "pos": "verb",
+   "meaning": "grows (up)",
+   "forms": "class 2 of ზრდის (bolkvadze2023 §9.6.1.2.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იბადება",
+   "translit": "ibadeba",
+   "pos": "verb",
+   "meaning": "is born",
+   "forms": "class 2; fut. დაიბადება; aor. დაიბადა; pf. დაბადებულა (lingua.ge)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კვდება",
+   "translit": "ḳvdeba",
+   "pos": "verb",
+   "meaning": "dies (of one)",
+   "forms": "class 2; fut. მოკვდება; aor. მოკვდა; pf. მომკვდარა; with a plural subject იხოცება (bolkvadze2023 §9.7.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იხოცება",
+   "translit": "ixoceba",
+   "pos": "verb",
+   "meaning": "die (of several)",
+   "forms": "class 2; fut. დაიხოცება; aor. დაიხოცნენ (bolkvadze2023 §9.7.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბრუნდება",
+   "translit": "brundeba",
+   "pos": "verb",
+   "meaning": "returns, comes back",
+   "forms": "class 2; fut. დაბრუნდება; aor. დაბრუნდა; pf. დაბრუნებულა (lingua.ge)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რჩება",
+   "translit": "rčeba",
+   "pos": "verb",
+   "meaning": "stays, remains",
+   "forms": "class 2; fut. დარჩება; aor. დარჩა; pf. დარჩენილა (lingua.ge)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იწყება",
+   "translit": "ic̣q̇eba",
+   "pos": "verb",
+   "meaning": "begins, starts",
+   "forms": "class 2 of იწყებს; fut. დაიწყება (bolkvadze2023 §9.2.2)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იკრიბება",
+   "translit": "iḳribeba",
+   "pos": "verb",
+   "meaning": "gather, assemble",
+   "forms": "class 2; fut. შეიკრიბება (bolkvadze2023 §9.2.2)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ისმის",
+   "translit": "ismis",
+   "pos": "verb",
+   "meaning": "is heard, can be heard",
+   "forms": "class 2 (bolkvadze2023 §9.6.1.2.1)",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ქვევრი",
+   "translit": "kvevri",
+   "pos": "noun",
+   "meaning": "qvevri, large clay wine jar",
+   "forms": "",
+   "first_lesson": "kat-04-10",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მიდის",
+   "translit": "midis",
+   "pos": "verb",
+   "meaning": "goes (away from the speaker)",
+   "forms": "class 2; imperf. მიდიოდა; fut. მივა \"will get there\", წავა \"will go off\"; aor. მივიდა, წავიდა; pf. მისულა, წასულა; masdar მისვლა, წასვლა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოდის",
+   "translit": "modis",
+   "pos": "verb",
+   "meaning": "comes (towards the speaker or listener)",
+   "forms": "class 2; imperf. მოდიოდა; fut. მოვა (2SG მოხვალ); also წამოვა \"will come along\"; aor. მოვიდა; pf. მოსულა; masdar მოსვლა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შედის",
+   "translit": "šedis",
+   "pos": "verb",
+   "meaning": "goes in, enters",
+   "forms": "class 2; fut. შევა; aor. შევიდა; with მო-: შემოდის \"comes in\"",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გადის",
+   "translit": "gadis",
+   "pos": "verb",
+   "meaning": "goes out",
+   "forms": "class 2; fut. გავა; aor. გავიდა; with მო-: გამოდის \"comes out\"",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ადის",
+   "translit": "adis",
+   "pos": "verb",
+   "meaning": "goes up, climbs",
+   "forms": "class 2; fut. ავა; aor. ავიდა; with მო-: ამოდის \"comes up\"",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩადის",
+   "translit": "čadis",
+   "pos": "verb",
+   "meaning": "goes down; goes (to the provinces)",
+   "forms": "class 2; fut. ჩავა; aor. ჩავიდა; with მო-: ჩამოდის \"comes down\"",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გადადის",
+   "translit": "gadadis",
+   "pos": "verb",
+   "meaning": "crosses, goes over",
+   "forms": "class 2; fut. გადავა; aor. გადავიდა; masdar გადასვლა; with მო-: გადმოდის",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შემოდის",
+   "translit": "šemodis",
+   "pos": "verb",
+   "meaning": "comes in",
+   "forms": "class 2; fut. შემოვა; aor. შემოვიდა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გამოდის",
+   "translit": "gamodis",
+   "pos": "verb",
+   "meaning": "comes out; (of a book) is published",
+   "forms": "class 2; fut. გამოვა; aor. გამოვიდა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ამოდის",
+   "translit": "amodis",
+   "pos": "verb",
+   "meaning": "comes up; (of the sun) rises",
+   "forms": "class 2; fut. ამოვა; aor. ამოვიდა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩამოდის",
+   "translit": "čamodis",
+   "pos": "verb",
+   "meaning": "comes down; arrives (in town)",
+   "forms": "class 2; fut. ჩამოვა; aor. ჩამოვიდა; masdar ჩამოსვლა",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დადის",
+   "translit": "dadis",
+   "pos": "verb",
+   "meaning": "walks, goes about; goes regularly, attends",
+   "forms": "class 2; present screeves only (Wiktionary)",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კიბე",
+   "translit": "ḳibe",
+   "pos": "noun",
+   "meaning": "stairs, staircase; ladder",
+   "forms": "",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სართული",
+   "translit": "sartuli",
+   "pos": "noun",
+   "meaning": "floor, storey",
+   "forms": "",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შინ",
+   "translit": "šin",
+   "pos": "adverb",
+   "meaning": "home (to one's home)",
+   "forms": "",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფრთხილად",
+   "translit": "prtxilad",
+   "pos": "adverb",
+   "meaning": "carefully; (as a warning) watch out!",
+   "forms": "",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფეხით",
+   "translit": "pexit",
+   "pos": "adverb",
+   "meaning": "on foot",
+   "forms": "instrumental of ფეხი (Wiktionary)",
+   "first_lesson": "kat-04-11",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რგავს",
+   "translit": "rgavs",
+   "pos": "verb",
+   "meaning": "plants",
+   "forms": "class 1; fut. დარგავს; aor. დარგო; pf. დაურგავს; masdar რგვა (lingua.ge)",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტეხს",
+   "translit": "ṭexs",
+   "pos": "verb",
+   "meaning": "breaks",
+   "forms": "class 1; fut. გატეხს; aor. გატეხა; pf. გაუტეხია; masdar ტეხა",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აგებს",
+   "translit": "agebs",
+   "pos": "verb",
+   "meaning": "builds; (with წა-) loses (a game)",
+   "forms": "class 1; fut. ააგებს, წააგებს; aor. ააგა (Wiktionary) or ააგო (bolkvadze2023 §9.2.2); pf. აუგია; masdar აგება",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღებავს",
+   "translit": "ɣebavs",
+   "pos": "verb",
+   "meaning": "paints (a surface), dyes",
+   "forms": "class 1; fut. შეღებავს; aor. შეღება; pf. შეუღებავს; masdar ღებვა (lingua.ge)",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წუხელ",
+   "translit": "c̣uxel",
+   "pos": "adverb",
+   "meaning": "last night",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გუშინწინ",
+   "translit": "gušinc̣in",
+   "pos": "adverb",
+   "meaning": "the day before yesterday",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წინა",
+   "translit": "c̣ina",
+   "pos": "adjective",
+   "meaning": "previous; front",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მთლიანად",
+   "translit": "mtlianad",
+   "pos": "adverb",
+   "meaning": "completely, entirely",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხელახლა",
+   "translit": "xelaxla",
+   "pos": "adverb",
+   "meaning": "again, anew",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თეფში",
+   "translit": "tepši",
+   "pos": "noun",
+   "meaning": "plate",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღობე",
+   "translit": "ɣobe",
+   "pos": "noun",
+   "meaning": "fence, hedge",
+   "forms": "gen. ღობის",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვაზი",
+   "translit": "vazi",
+   "pos": "noun",
+   "meaning": "vine, grapevine",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნერგი",
+   "translit": "nergi",
+   "pos": "noun",
+   "meaning": "seedling, young plant",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოსავალი",
+   "translit": "mosavali",
+   "pos": "noun",
+   "meaning": "harvest, crop",
+   "forms": "gen. მოსავლის",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოთხრობითი",
+   "translit": "motxrobiti",
+   "pos": "adjective",
+   "meaning": "(grammar) ergative (case)",
+   "forms": "",
+   "first_lesson": "kat-04-12",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დგება",
+   "translit": "dgeba",
+   "pos": "verb",
+   "meaning": "gets up, stands up",
+   "forms": "class 2; fut. ადგება; aor. ადგა (1SG ავდექი); pf. ამდგარა; masdar ადგომა (lingua.ge)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წვება",
+   "translit": "c̣veba",
+   "pos": "verb",
+   "meaning": "lies down, goes to bed",
+   "forms": "class 2; fut. დაწვება; aor. დაწვა (1SG დავწექი); pf. დაწოლილა; masdar დაწოლა (lingua.ge)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეცემა",
+   "translit": "ecema",
+   "pos": "verb",
+   "meaning": "falls",
+   "forms": "class 2; fut. დაეცემა; aor. დაეცა (1SG დავეცი); pf. დაცემულა; masdar დაცემა (lingua.ge)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დამთავრდება",
+   "translit": "damtavrdeba",
+   "pos": "verb",
+   "meaning": "will end, finish",
+   "forms": "class 2, future; aor. დამთავრდა (Wiktionary)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხდება",
+   "translit": "xdeba",
+   "pos": "verb",
+   "meaning": "becomes; happens",
+   "forms": "class 2; fut. გახდება \"will become\"; aor. გახდა (1SG გავხდი); pf. გამხდარა; masdar გახდომა (lingua.ge)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კარგავს",
+   "translit": "ḳargavs",
+   "pos": "verb",
+   "meaning": "loses",
+   "forms": "class 1; fut. დაკარგავს; aor. დაკარგა; pf. დაუკარგავს; masdar დაკარგვა (lingua.ge)",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოულოდნელად",
+   "translit": "moulodnelad",
+   "pos": "adverb",
+   "meaning": "suddenly, unexpectedly",
+   "forms": "",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გვიან",
+   "translit": "gvian",
+   "pos": "adverb",
+   "meaning": "late",
+   "forms": "",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დილით",
+   "translit": "dilit",
+   "pos": "adverb",
+   "meaning": "in the morning",
+   "forms": "instrumental of დილა",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საზღვარგარეთ",
+   "translit": "sazɣvargaret",
+   "pos": "adverb",
+   "meaning": "abroad",
+   "forms": "",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სამშობლო",
+   "translit": "samšoblo",
+   "pos": "noun",
+   "meaning": "homeland",
+   "forms": "",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საავადმყოფო",
+   "translit": "saavadmq̇opo",
+   "pos": "noun",
+   "meaning": "hospital",
+   "forms": "",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სიცოცხლე",
+   "translit": "sicocxle",
+   "pos": "noun",
+   "meaning": "life",
+   "forms": "gen. სიცოცხლის",
+   "first_lesson": "kat-04-14",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოგზაურობს",
+   "translit": "mogzaurobs",
+   "pos": "verb",
+   "meaning": "travels",
+   "forms": "class 3; fut. იმოგზაურებს; aor. იმოგზაურა; pf. უმოგზაურია; masdar მოგზაურობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სეირნობს",
+   "translit": "seirnobs",
+   "pos": "verb",
+   "meaning": "strolls, goes for a walk",
+   "forms": "class 3; fut. ისეირნებს; aor. ისეირნა; pf. უსეირნია; masdar სეირნობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხუმრობს",
+   "translit": "xumrobs",
+   "pos": "verb",
+   "meaning": "jokes",
+   "forms": "class 3; fut. იხუმრებს; aor. იხუმრა; pf. უხუმრია; masdar ხუმრობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ოცნებობს",
+   "translit": "ocnebobs",
+   "pos": "verb",
+   "meaning": "dreams (of), daydreams",
+   "forms": "class 3; fut. იოცნებებს; aor. იოცნება; pf. უოცნებია; masdar ოცნება (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საუზმობს",
+   "translit": "sauzmobs",
+   "pos": "verb",
+   "meaning": "has breakfast",
+   "forms": "class 3; fut. ისაუზმებს; aor. ისაუზმა; masdar საუზმობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადილობს",
+   "translit": "sadilobs",
+   "pos": "verb",
+   "meaning": "has lunch",
+   "forms": "class 3; fut. ისადილებს; aor. ისადილა; masdar სადილობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ვახშმობს",
+   "translit": "vaxšmobs",
+   "pos": "verb",
+   "meaning": "has supper",
+   "forms": "class 3; fut. ივახშმებს; aor. ივახშმა; masdar ვახშმობა (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ისვენებს",
+   "translit": "isvenebs",
+   "pos": "verb",
+   "meaning": "rests",
+   "forms": "class 3; fut. დაისვენებს; aor. დაისვენა; pf. დაუსვენია; masdar დასვენება (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იღვიძებს",
+   "translit": "iɣviʒebs",
+   "pos": "verb",
+   "meaning": "wakes up",
+   "forms": "class 3; fut. გაიღვიძებს; aor. გაიღვიძა; pf. გაუღვიძია; masdar გაღვიძება (lingua.ge)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცდილობს",
+   "translit": "cdilobs",
+   "pos": "verb",
+   "meaning": "tries",
+   "forms": "present screeves (Wiktionary); Bolkvadze and Kiziria list it among verbs that never take a preverb (§9.5.2)",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დასვენება",
+   "translit": "dasveneba",
+   "pos": "noun",
+   "meaning": "rest; holiday; break (between lessons)",
+   "forms": "masdar of ისვენებს",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოგზაური",
+   "translit": "mogzauri",
+   "pos": "noun",
+   "meaning": "traveller",
+   "forms": "",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ოცნება",
+   "translit": "ocneba",
+   "pos": "noun",
+   "meaning": "dream (hope), daydream",
+   "forms": "masdar of ოცნებობს",
+   "first_lesson": "kat-04-15",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უნდა",
+   "translit": "unda",
+   "pos": "particle",
+   "meaning": "must, should, ought to",
+   "forms": "unchanging; with the optative (lesson 6-5)",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნეტავ",
+   "translit": "neṭav",
+   "pos": "particle",
+   "meaning": "if only, I wish",
+   "forms": "also ნეტა; with the optative",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოდი",
+   "translit": "modi",
+   "pos": "particle",
+   "meaning": "come on, let's",
+   "forms": "with the first person plural optative",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იქნებ",
+   "translit": "ikneb",
+   "pos": "adverb",
+   "meaning": "maybe, perhaps",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საჭირო",
+   "translit": "sač̣iro",
+   "pos": "adjective",
+   "meaning": "necessary, needed",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გაუმარჯოს",
+   "translit": "gaumarǯos",
+   "pos": "interjection",
+   "meaning": "cheers!; long live ...!; (informal) hello",
+   "forms": "an optative; the person or thing toasted in the dative",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გამარჯობა",
+   "translit": "gamarǯoba",
+   "pos": "interjection",
+   "meaning": "hello",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჯანმრთელობა",
+   "translit": "ǯanmrteloba",
+   "pos": "noun",
+   "meaning": "health",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასრულებს",
+   "translit": "asrulebs",
+   "pos": "verb",
+   "meaning": "finishes (with და-); carries out, performs (with შე-)",
+   "forms": "class 1; fut. დაასრულებს, შეასრულებს; aor. დაასრულა, შეასრულა; pf. დაუსრულებია; masdar დასრულება, შესრულება",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იმედი",
+   "translit": "imedi",
+   "pos": "noun",
+   "meaning": "hope",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წარმატება",
+   "translit": "c̣armaṭeba",
+   "pos": "noun",
+   "meaning": "success",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბედი",
+   "translit": "bedi",
+   "pos": "noun",
+   "meaning": "fate, luck",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩქარა",
+   "translit": "čkara",
+   "pos": "adverb",
+   "meaning": "quickly, fast",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მშვიდობით",
+   "translit": "mšvidobit",
+   "pos": "interjection",
+   "meaning": "goodbye",
+   "forms": "instrumental of მშვიდობა \"peace\"",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბედნიერება",
+   "translit": "bedniereba",
+   "pos": "noun",
+   "meaning": "happiness",
+   "forms": "",
+   "first_lesson": "kat-04-16",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნუ",
+   "translit": "nu",
+   "pos": "particle",
+   "meaning": "don't (in requests and commands)",
+   "forms": "with the present or future",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გთხოვ",
+   "translit": "gtxov",
+   "pos": "phrase",
+   "meaning": "please (to one friend)",
+   "forms": "lit. \"I ask you\", from სთხოვს",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გთხოვთ",
+   "translit": "gtxovt",
+   "pos": "phrase",
+   "meaning": "please (to several, or politely)",
+   "forms": "lit. \"I ask you (all)\"",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აბა",
+   "translit": "aba",
+   "pos": "particle",
+   "meaning": "well then, come on; so?",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩუმად",
+   "translit": "čumad",
+   "pos": "adverb",
+   "meaning": "quietly, silently",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხმამაღლა",
+   "translit": "xmamaɣla",
+   "pos": "adverb",
+   "meaning": "aloud, loudly",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წყნარად",
+   "translit": "c̣q̇narad",
+   "pos": "adverb",
+   "meaning": "calmly, quietly",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მშვიდად",
+   "translit": "mšvidad",
+   "pos": "adverb",
+   "meaning": "calmly, peacefully",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ყურადღება",
+   "translit": "q̇uradɣeba",
+   "pos": "noun",
+   "meaning": "attention",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნებართვა",
+   "translit": "nebartva",
+   "pos": "noun",
+   "meaning": "permission",
+   "forms": "",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აჩერებს",
+   "translit": "ačerebs",
+   "pos": "verb",
+   "meaning": "stops (something)",
+   "forms": "class 1; fut. გააჩერებს; aor. გააჩერა; pf. გაუჩერებია; masdar გაჩერება (lingua.ge)",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კეტავს",
+   "translit": "ḳeṭavs",
+   "pos": "verb",
+   "meaning": "locks",
+   "forms": "class 1; fut. დაკეტავს; aor. დაკეტა; pf. დაუკეტავს; masdar დაკეტვა (lingua.ge)",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბნელა",
+   "translit": "bnela",
+   "pos": "verb",
+   "meaning": "it is dark (outside)",
+   "forms": "no subject",
+   "first_lesson": "kat-04-17",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უყვარს",
+   "translit": "uq̇vars",
+   "pos": "verb",
+   "meaning": "loves",
+   "forms": "class 4; 1SG მიყვარს; imperf. უყვარდა; fut. ეყვარება; no aorist; pf. ჰყვარებია; masdar სიყვარული (lingua.ge)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აქვს",
+   "translit": "akvs",
+   "pos": "verb",
+   "meaning": "has (a thing)",
+   "forms": "class 4; 1SG მაქვს; imperf. ჰქონდა; fut. ექნება; no aorist; pf. ჰქონია; masdar ქონა (lingua.ge; bolkvadze2023 §9.7.4)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უნდა",
+   "translit": "unda",
+   "pos": "verb",
+   "meaning": "wants",
+   "forms": "class 4; 1SG მინდა; imperf. უნდოდა; fut. ენდომება; no aorist; masdar ნდომა (lingua.ge)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოსწონს",
+   "translit": "mosc̣ons",
+   "pos": "verb",
+   "meaning": "likes",
+   "forms": "class 4; 1SG მომწონს; imperf. მოსწონდა; fut. მოეწონება; aor. მოეწონა; masdar მოწონება (lingua.ge)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სძულს",
+   "translit": "sʒuls",
+   "pos": "verb",
+   "meaning": "hates",
+   "forms": "class 4; 1SG მძულს; imperf. სძულდა; fut. ეძულება; masdar სიძულვილი (lingua.ge)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შია",
+   "translit": "šia",
+   "pos": "verb",
+   "meaning": "is hungry",
+   "forms": "class 4; 1SG მშია (bolkvadze2023 §9.1.6)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სწყურია",
+   "translit": "sc̣q̇uria",
+   "pos": "verb",
+   "meaning": "is thirsty",
+   "forms": "class 4; 1SG მწყურია; imperf. სწყუროდა (lingua.ge)",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჰგონია",
+   "translit": "hgonia",
+   "pos": "verb",
+   "meaning": "thinks, believes; it seems to him",
+   "forms": "class 4; 1SG მგონია; fut. ეგონება (bolkvadze2023 §9.6.1.2.1); masdar გონება",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სიყვარული",
+   "translit": "siq̇varuli",
+   "pos": "noun",
+   "meaning": "love",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იდეა",
+   "translit": "idea",
+   "pos": "noun",
+   "meaning": "idea",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შოკოლადი",
+   "translit": "šoḳoladi",
+   "pos": "noun",
+   "meaning": "chocolate",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნაყინი",
+   "translit": "naq̇ini",
+   "pos": "noun",
+   "meaning": "ice cream",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ხინკალი",
+   "translit": "xinḳali",
+   "pos": "noun",
+   "meaning": "khinkali (Georgian dumplings)",
+   "forms": "gen. ხინკლის",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწვადი",
+   "translit": "mc̣vadi",
+   "pos": "noun",
+   "meaning": "shashlik, grilled meat",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჭადრაკი",
+   "translit": "č̣adraḳi",
+   "pos": "noun",
+   "meaning": "chess",
+   "forms": "",
+   "first_lesson": "kat-04-18",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჰყავს",
+   "translit": "hq̇avs",
+   "pos": "verb",
+   "meaning": "has (a person, animal or vehicle)",
+   "forms": "class 4; 1SG მყავს; imperf. ჰყავდა; fut. ეყოლება; pf. ჰყოლია; masdar ყოლა (lingua.ge; bolkvadze2023 §9.7.4)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მიაქვს",
+   "translit": "miakvs",
+   "pos": "verb",
+   "meaning": "takes, carries (a thing, away or there)",
+   "forms": "class 4 in the present (1SG მიმაქვს); fut. მიიტანს \"will take there\", წაიღებს \"will take away\"; aor. მიიტანა, წაიღო (bolkvadze2023 §9.7.4)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოაქვს",
+   "translit": "moakvs",
+   "pos": "verb",
+   "meaning": "brings (a thing)",
+   "forms": "class 4 in the present (1SG მომაქვს); fut. მოიტანს; aor. მოიტანა; pf. მოუტანია; masdar მოტანა (lingua.ge)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მიჰყავს",
+   "translit": "mihq̇avs",
+   "pos": "verb",
+   "meaning": "takes (a person or animal)",
+   "forms": "class 4 in the present (Wiktionary); fut. წაიყვანს \"will take away\" (bolkvadze2023 ch. 4)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოჰყავს",
+   "translit": "mohq̇avs",
+   "pos": "verb",
+   "meaning": "brings (a person or animal)",
+   "forms": "class 4 in the present (1SG მომყავს); fut. მოიყვანს; aor. მოიყვანა; pf. მოუყვანია; masdar მოყვანა (lingua.ge)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წაიღებს",
+   "translit": "c̣aiɣebs",
+   "pos": "verb",
+   "meaning": "will take (a thing) away",
+   "forms": "class 1, future; aor. წაიღო; pf. წაუღია; masdar წაღება (lingua.ge)",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფრინველი",
+   "translit": "prinveli",
+   "pos": "noun",
+   "meaning": "bird",
+   "forms": "",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მწერი",
+   "translit": "mc̣eri",
+   "pos": "noun",
+   "meaning": "insect",
+   "forms": "",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ველოსიპედი",
+   "translit": "velosiṗedi",
+   "pos": "noun",
+   "meaning": "bicycle",
+   "forms": "",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩემოდანი",
+   "translit": "čemodani",
+   "pos": "noun",
+   "meaning": "suitcase",
+   "forms": "gen. ჩემოდნის",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უმცროსი",
+   "translit": "umcrosi",
+   "pos": "adjective",
+   "meaning": "younger, junior",
+   "forms": "",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტყუპი",
+   "translit": "ṭq̇uṗi",
+   "pos": "noun",
+   "meaning": "twin",
+   "forms": "",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სტუმრად",
+   "translit": "sṭumrad",
+   "pos": "adverb",
+   "meaning": "as a guest, visiting",
+   "forms": "adverbial of სტუმარი",
+   "first_lesson": "kat-04-19",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სწერს",
+   "translit": "sc̣ers",
+   "pos": "verb",
+   "meaning": "writes (to someone)",
+   "forms": "class 1; 1SG ვწერ, 2SG სწერ; fut. მისწერს; aor. მისწერა; with a 1st or 2nd person recipient მო-: მომწერა \"wrote to me\"; masdar წერა",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სთხოვს",
+   "translit": "stxovs",
+   "pos": "verb",
+   "meaning": "asks (someone) for (something)",
+   "forms": "class 1; 1SG ვთხოვ; aor. სთხოვა; with მო-: მოსთხოვა \"demanded\"; masdar თხოვნა",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჰკითხავს",
+   "translit": "hḳitxavs",
+   "pos": "verb",
+   "meaning": "will ask (someone a question)",
+   "forms": "class 1, future; aor. ჰკითხა (bolkvadze2023 §9.1.3); masdar კითხვა",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აჩვენებს",
+   "translit": "ačvenebs",
+   "pos": "verb",
+   "meaning": "shows",
+   "forms": "class 1; aor. აჩვენა (no preverb); pf. უჩვენებია",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ასწავლის",
+   "translit": "asc̣avlis",
+   "pos": "verb",
+   "meaning": "teaches",
+   "forms": "class 1; 3PL ასწავლიან; aor. ასწავლა; pf. უსწავლებია; masdar სწავლება",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მისამართი",
+   "translit": "misamarti",
+   "pos": "noun",
+   "meaning": "address",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თხოვნა",
+   "translit": "txovna",
+   "pos": "noun",
+   "meaning": "request",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რჩევა",
+   "translit": "rčeva",
+   "pos": "noun",
+   "meaning": "advice",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დახმარება",
+   "translit": "daxmareba",
+   "pos": "noun",
+   "meaning": "help",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საიდუმლო",
+   "translit": "saidumlo",
+   "pos": "noun",
+   "meaning": "secret",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ელფოსტა",
+   "translit": "elposṭa",
+   "pos": "noun",
+   "meaning": "email",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოხუცი",
+   "translit": "moxuci",
+   "pos": "noun",
+   "meaning": "old person; (adjective) old, elderly",
+   "forms": "",
+   "first_lesson": "kat-04-20",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იხდის",
+   "translit": "ixdis",
+   "pos": "verb",
+   "meaning": "takes off (clothes)",
+   "forms": "class 1; fut. გაიხდის; aor. გაიხადა; pf. გაუხდია; masdar გახდა (lingua.ge)",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სესხულობს",
+   "translit": "sesxulobs",
+   "pos": "verb",
+   "meaning": "borrows",
+   "forms": "class 1; fut. ისესხებს; aor. ისესხა; pf. უსესხია; masdar სესხება (lingua.ge)",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იპარავს",
+   "translit": "iṗaravs",
+   "pos": "verb",
+   "meaning": "steals",
+   "forms": "class 1; fut. მოიპარავს; aor. მოიპარა; pf. მოუპარავს; masdar მოპარვა (lingua.ge)",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "რეკავს",
+   "translit": "reḳavs",
+   "pos": "verb",
+   "meaning": "rings; (with უ-) phones someone",
+   "forms": "class 1; fut. დარეკავს; aor. დარეკა; pf. დაურეკავს; masdar დარეკვა (lingua.ge); ურეკავს \"rings him\"",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სესხი",
+   "translit": "sesxi",
+   "pos": "noun",
+   "meaning": "loan",
+   "forms": "",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "პალტო",
+   "translit": "ṗalṭo",
+   "pos": "noun",
+   "meaning": "overcoat",
+   "forms": "",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფეხსაცმელი",
+   "translit": "pexsacmeli",
+   "pos": "noun",
+   "meaning": "shoe(s)",
+   "forms": "pl. ფეხსაცმლები",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ტანსაცმელი",
+   "translit": "ṭansacmeli",
+   "pos": "noun",
+   "meaning": "clothes",
+   "forms": "",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მუხლი",
+   "translit": "muxli",
+   "pos": "noun",
+   "meaning": "knee",
+   "forms": "",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფრჩხილი",
+   "translit": "prčxili",
+   "pos": "noun",
+   "meaning": "nail (of a finger or toe)",
+   "forms": "",
+   "first_lesson": "kat-04-21",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თურმე",
+   "translit": "turme",
+   "pos": "particle",
+   "meaning": "apparently, it turns out",
+   "forms": "marks what the speaker did not witness; mostly with the perfect (bolkvadze2023 §13.14)",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აგროვებს",
+   "translit": "agrovebs",
+   "pos": "verb",
+   "meaning": "collects, gathers",
+   "forms": "class 1; perfect შეუგროვებია (bolkvadze2023 §9.6.3.1)",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მარკა",
+   "translit": "marḳa",
+   "pos": "noun",
+   "meaning": "(postage) stamp",
+   "forms": "",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ახსოვს",
+   "translit": "axsovs",
+   "pos": "verb",
+   "meaning": "remembers",
+   "forms": "class 4; 1SG მახსოვს; imperf. ახსოვდა; fut. ემახსოვრება (lingua.ge)",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ივიწყებს",
+   "translit": "ivic̣q̇ebs",
+   "pos": "verb",
+   "meaning": "forgets",
+   "forms": "class 1; fut. დაივიწყებს; aor. დაივიწყა; pf. დაუვიწყია or დაუვიწყებია; masdar დავიწყება (lingua.ge)",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ჩანს",
+   "translit": "čans",
+   "pos": "verb",
+   "meaning": "is visible; seems, turns out",
+   "forms": "present screeves; also მოჩანს \"can be seen\" (bolkvadze2023 §9.6.1.2.1)",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეტყობა",
+   "translit": "eṭq̇oba",
+   "pos": "verb",
+   "meaning": "it seems, it shows (that)",
+   "forms": "present; used like \"apparently\"",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეკლესია",
+   "translit": "eḳlesia",
+   "pos": "noun",
+   "meaning": "church",
+   "forms": "",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კრება",
+   "translit": "ḳreba",
+   "pos": "noun",
+   "meaning": "meeting, assembly",
+   "forms": "",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "შეხვედრა",
+   "translit": "šexvedra",
+   "pos": "noun",
+   "meaning": "meeting; get-together",
+   "forms": "",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კვალი",
+   "translit": "ḳvali",
+   "pos": "noun",
+   "meaning": "trace, track; clue",
+   "forms": "pl. კვლები",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მოხსენება",
+   "translit": "moxseneba",
+   "pos": "noun",
+   "meaning": "report, talk (at a meeting)",
+   "forms": "",
+   "first_lesson": "kat-04-22",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თითქოს",
+   "translit": "titkos",
+   "pos": "conjunction",
+   "meaning": "as if",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სჯობს",
+   "translit": "sǯobs",
+   "pos": "verb",
+   "meaning": "it is better",
+   "forms": "stative; also \"surpasses\" (bolkvadze2023 §9.6.1.2.1: მჯობნის)",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "უსურვებს",
+   "translit": "usurvebs",
+   "pos": "verb",
+   "meaning": "wishes (someone something)",
+   "forms": "class 1, present and future; გისურვებთ \"I wish you\" (Wiktionary)",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დროზე",
+   "translit": "droze",
+   "pos": "adverb",
+   "meaning": "on time",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ბრალი",
+   "translit": "brali",
+   "pos": "noun",
+   "meaning": "fault, blame",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საბუთი",
+   "translit": "sabuti",
+   "pos": "noun",
+   "meaning": "document",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "განცხადება",
+   "translit": "gancxadeba",
+   "pos": "noun",
+   "meaning": "announcement; statement; application",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "კონვერტი",
+   "translit": "ḳonverṭi",
+   "pos": "noun",
+   "meaning": "envelope",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გამოცდა",
+   "translit": "gamocda",
+   "pos": "noun",
+   "meaning": "examination, test",
+   "forms": "",
+   "first_lesson": "kat-04-23",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაკარგული",
+   "translit": "daḳarguli",
+   "pos": "adjective",
+   "meaning": "lost",
+   "forms": "past participle of დაკარგავს",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დამალული",
+   "translit": "damaluli",
+   "pos": "adjective",
+   "meaning": "hidden",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დახურული",
+   "translit": "daxuruli",
+   "pos": "adjective",
+   "meaning": "closed, shut; covered",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაკეტილი",
+   "translit": "daḳeṭili",
+   "pos": "adjective",
+   "meaning": "locked, closed",
+   "forms": "past participle of დაკეტავს",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "გაყიდული",
+   "translit": "gaq̇iduli",
+   "pos": "adjective",
+   "meaning": "sold",
+   "forms": "past participle of გაყიდის",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ღია",
+   "translit": "ɣia",
+   "pos": "adjective",
+   "meaning": "open; (of colours) light",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მკვდარი",
+   "translit": "mḳvdari",
+   "pos": "adjective",
+   "meaning": "dead; (noun) corpse",
+   "forms": "pl. მკვდრები",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნახატი",
+   "translit": "naxaṭi",
+   "pos": "noun",
+   "meaning": "picture, painting, drawing",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დაბადება",
+   "translit": "dabadeba",
+   "pos": "noun",
+   "meaning": "birth",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სიკვდილი",
+   "translit": "siḳvdili",
+   "pos": "noun",
+   "meaning": "death",
+   "forms": "",
+   "first_lesson": "kat-04-24",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ამბობს",
+   "translit": "ambobs",
+   "pos": "verb",
+   "meaning": "says",
+   "forms": "class 1; fut. იტყვის; aor. თქვა (1SG ვთქვი); pf. უთქვამს; masdar თქმა (bolkvadze2023 §9.7.4)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ეუბნება",
+   "translit": "eubneba",
+   "pos": "verb",
+   "meaning": "tells (someone)",
+   "forms": "present class 2 with an indirect object; fut. ეტყვის; aor. უთხრა (1SG ვუთხარი); pf. უთქვამს (lingua.ge)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "აძლევს",
+   "translit": "aʒlevs",
+   "pos": "verb",
+   "meaning": "gives",
+   "forms": "class 1; fut. მისცემს; aor. მისცა (1SG მივეცი); opt. მისცეს; pf. მიუცია; masdar მიცემა (lingua.ge; bolkvadze2023 §9.7.5)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ნახავს",
+   "translit": "naxavs",
+   "pos": "verb",
+   "meaning": "will see; will visit; will find",
+   "forms": "future of ხედავს; aor. ნახა; opt. ნახოს; pf. უნახავს; masdar ნახვა (Wiktionary)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "დალევს",
+   "translit": "dalevs",
+   "pos": "verb",
+   "meaning": "will drink",
+   "forms": "future; aor. დალია (1SG დავლიე); opt. დალიოს; pf. დაულევია; no present (bolkvadze2023 §9.7.5)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "იცის",
+   "translit": "icis",
+   "pos": "verb",
+   "meaning": "knows",
+   "forms": "1SG ვიცი, 3PL იციან; imperf. იცოდა; fut. ეცოდინება; no aorist; pf. სცოდნია; masdar ცოდნა (lingua.ge)",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წამალი",
+   "translit": "c̣amali",
+   "pos": "noun",
+   "meaning": "medicine",
+   "forms": "gen. წამლის",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "სადღეგრძელო",
+   "translit": "sadɣegrʒelo",
+   "pos": "noun",
+   "meaning": "toast (proposed at table)",
+   "forms": "",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფიცი",
+   "translit": "pici",
+   "pos": "noun",
+   "meaning": "oath",
+   "forms": "",
+   "first_lesson": "kat-04-25",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თესავს",
+   "translit": "tesavs",
+   "pos": "verb",
+   "meaning": "sows",
+   "forms": "class 1; fut. დათესავს; aor. დათესა; opt. დათესოს; pf. დაუთესავს; masdar თესვა, დათესვა",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წმენდს",
+   "translit": "c̣mends",
+   "pos": "verb",
+   "meaning": "cleans, wipes",
+   "forms": "class 1; fut. მოწმენდს; aor. მოწმინდა (e → i); pf. მოუწმენდია; masdar წმენდა",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თესლი",
+   "translit": "tesli",
+   "pos": "noun",
+   "meaning": "seed",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ლექსიკონი",
+   "translit": "leksiḳoni",
+   "pos": "noun",
+   "meaning": "dictionary",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "საწყისი",
+   "translit": "sac̣q̇isi",
+   "pos": "noun",
+   "meaning": "(grammar) masdar, verbal noun; (adjective) initial",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "მნიშვნელობა",
+   "translit": "mnišvneloba",
+   "pos": "noun",
+   "meaning": "meaning; importance",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "თარგმანი",
+   "translit": "targmani",
+   "pos": "noun",
+   "meaning": "translation",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ფორმა",
+   "translit": "porma",
+   "pos": "noun",
+   "meaning": "form, shape; uniform",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "ცხრილი",
+   "translit": "cxrili",
+   "pos": "noun",
+   "meaning": "table, chart",
+   "forms": "",
+   "first_lesson": "kat-04-26",
+   "confidence": "verified"
+  },
+  {
+   "headword": "წესი",
+   "translit": "c̣esi",
+   "pos": "noun",
+   "meaning": "rule",
+   "forms": "",
+   "first_lesson": "kat-04-26",
    "confidence": "verified"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "count": 156,
+ "count": 164,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -1425,6 +1425,81 @@
    "script": "Latin",
    "depth": "B",
    "notes": "Standard Bikol of Naga and Legazpi; the Bikol languages are a group (macrolanguage bik), name the variety; cross-link Tagalog and Cebuano"
+  },
+  {
+   "number": 157,
+   "name": "Sundanese",
+   "iso": "sun",
+   "group": "Asia and Pacific",
+   "script": "Latin (Sundanese script intro)",
+   "depth": "A",
+   "notes": "West Java, ~40 million speakers; speech levels (undak usuk) like Javanese; cross-link Javanese, Indonesian"
+  },
+  {
+   "number": 158,
+   "name": "Ilocano",
+   "iso": "ilo",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Northern Luzon; third major Philippine language; cross-link Tagalog, Cebuano"
+  },
+  {
+   "number": 159,
+   "name": "Hmong (White Hmong)",
+   "iso": "mww",
+   "group": "Asia and Pacific",
+   "script": "Latin (RPA, tone letters at word end)",
+   "depth": "B",
+   "notes": "Hmong Daw of Laos, Vietnam, Thailand and the diaspora; Hmong-Mien family; seven or eight tones written as final letters; serial verbs and classifiers"
+  },
+  {
+   "number": 160,
+   "name": "Shan",
+   "iso": "shn",
+   "group": "Asia and Pacific",
+   "script": "Shan (Burmese-derived) + transliteration",
+   "depth": "B",
+   "deferred": true,
+   "notes": "Tai language of Shan State, Myanmar; compare Thai and Lao; script adapted from Burmese with tone marks. Thin open sources (Cushing's 19th-century grammar and dictionary are public domain); deferred until the owner can supply a modern source"
+  },
+  {
+   "number": 161,
+   "name": "Mon",
+   "iso": "mnw",
+   "group": "Asia and Pacific",
+   "script": "Mon + transliteration",
+   "depth": "B",
+   "deferred": true,
+   "notes": "Austroasiatic, related to Khmer; register (clear vs breathy voice) instead of tone; source of the Burmese script; Old Mon inscriptions flagged. Standard sources (Shorto's dictionary, Jenny's grammar) in copyright; deferred until the owner can supply them"
+  },
+  {
+   "number": 162,
+   "name": "Old Javanese (Kawi)",
+   "iso": "kaw",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (Kawi script intro)",
+   "depth": "B",
+   "notes": "Language of the kakawin epics (Rāmāyaṇa Kakawin, Arjunawiwāha); heavy Sanskrit vocabulary; cross-link Sanskrit, Javanese, Balinese"
+  },
+  {
+   "number": 163,
+   "name": "Old Khmer",
+   "iso": "okz",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (Old Khmer script intro)",
+   "depth": "B",
+   "notes": "Pre-Angkorian and Angkorian inscriptions (7th–14th c.); Jenner's dictionaries of Pre-Angkorian and Angkorian Khmer are open access (Pacific Linguistics); cross-link Khmer, Sanskrit"
+  },
+  {
+   "number": 164,
+   "name": "Classical Malay",
+   "iso": "qcm",
+   "group": "Dead and classical",
+   "script": "Jawi + transliteration",
+   "depth": "B",
+   "notes": "Language of the court chronicles and hikayat (Sejarah Melayu, Hikayat Hang Tuah) in Jawi script; cross-link Indonesian and its Malay companion part, Arabic, Persian",
+   "iso_note": "No ISO 639-3 code of its own; private-use qcm (ISO reserves qaa–qtz for local use). Related: zsm, msa"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 154 (the linguistics guide), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

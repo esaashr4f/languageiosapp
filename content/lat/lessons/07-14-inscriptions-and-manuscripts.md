@@ -69,7 +69,7 @@ English Wikipedia's List of classical Latin abbreviations gives *V. A.*, *F. C.*
 
 :::example
 orig: M(arco) Caelio T(iti) f(ilio) Lem(onia tribu) Bon(onia), [I] o(rdini) leg(ionis) XIIX, ann(orum) LIII s(emissis).
-morphemes: Marc-o Caeli-o Tit-i fili-o Lemoni-a trib-u Bononi-a primo ordin-i legion-is duodevicensim-ae ann-orum LIII semiss-is
+morphemes: Marc-o Caeli-o Tit-i fili-o Lemoni-a trib-u Bononi-a primo ordin-i legion-is duodevicesim-ae ann-orum LIII semiss-is
 gloss: Marcus-DAT.SG Caelius-DAT.SG Titus-GEN.SG son-DAT.SG Lemonian-ABL.SG.F tribe-ABL.SG Bononia-ABL.SG first.DAT.SG.M rank-DAT.SG legion-GEN.SG eighteenth-GEN.SG.F year-GEN.PL 53 half-GEN.SG
 translation: To Marcus Caelius, son of Titus, of the Lemonian tribe, from Bononia, centurion of the first rank of the Eighteenth Legion, aged 53 and a half.
 note: A centurion's tombstone from the Rhineland. Every word is abbreviated. [I] is restored; XIIX is 18, written by subtraction from 20 (lesson 11). Inscriptions are printed without macrons, as the edition gives them.
@@ -238,4 +238,4 @@ English still writes Latin abbreviations without expanding them: *e.g.* (*exempl
 6. *Dominus*; *prō patre* "for (his) father". The bar stands for the missing *-ominu-*, and *ꝓ* for *pro* (Wiktionary).
 7. The dead man is in the dative ("to Marcus Caelius, son of Titus"), so his *fīliō* agrees; his brother is the subject of *fēcit*, so *fīlius* (lesson 11; part 3).
 8. *Hīc situs est* (or, as Wiktionary gives it, *hīc sepultus est*): "here he lies (is buried)".
-9. *Legiōnis duodēvīcēnsimae* "of the Eighteenth Legion"; *annōrum LIII sēmissis* "aged 53 and a half".
+9. *Legiōnis duodēvīcēsimae* "of the Eighteenth Legion"; *annōrum LIII sēmissis* "aged 53 and a half".

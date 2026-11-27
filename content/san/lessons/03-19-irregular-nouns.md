@@ -13,7 +13,7 @@ sources: [whitney1889, mw1899, wiktionary, gretil]
 
 ## The idea
 
-Nine nouns do not fit any class of part 3. They are among the oldest and commonest words in the language: man, woman, cow, sky, water, road, day, friend, husband. In every language the most frequent words keep irregular forms longest (English *man, men*; *child, children*), and Sanskrit is no different.
+Nine nouns do not fit any class of part 3. They are among the oldest and commonest words in the language: man, woman, cow, sky, water, road, day, friend, husband. Frequent words often keep irregular forms (English *man, men*; *child, children*), and Sanskrit is no different.
 
 None of them is chaotic. Each is one of the classes you know with a twist: a strong stem that looks unexpected, two stems that share the paradigm, or a few odd endings. Whitney's descriptions show the pattern for each:
 
@@ -32,7 +32,7 @@ Learn them by recognition: when you meet *gām*, *divi*, *apsu*, *pathā*, *ahn�
 
 **puṃs** (Wiktionary पुंस्; Whitney §394). Strong: *pumān*, *pumāṃsam*, *pumāṃsau*, *pumāṃsaḥ*; vocative *puman*. Weakest (before vowels): *puṃsā*, *puṃse*, *puṃsaḥ*, *puṃsi*, accusative plural *puṃsaḥ*, genitive plural *puṃsām*. Middle: *pumbhyām*, *pumbhiḥ*, and also locative plural *puṃsu*.
 
-**strī** (Wiktionary स्त्री). *strī*, *striyam* or *strīm*, *striyā*, *striyai*, *striyāḥ*, *striyām*, vocative *stri*; dual *striyau*, *strībhyām*, *striyoḥ*; plural *striyaḥ*, *striyaḥ* or *strīḥ*, *strībhiḥ*, *strībhyaḥ*, *strīṇām*, *strīṣu*. Before a vowel ending the *ī* becomes *iy*, as in *dhiyā*, not *y*: the cluster *stry-* would be too heavy.
+**strī** (Wiktionary स्त्री). *strī*, *striyam* or *strīm*, *striyā*, *striyai*, *striyāḥ*, *striyām*, vocative *stri*; dual *striyau*, *strībhyām*, *striyoḥ*; plural *striyaḥ*, *striyaḥ* or *strīḥ*, *strībhiḥ*, *strībhyaḥ*, *strīṇām*, *strīṣu*. Before a vowel ending the *ī* becomes *iy*, as in *dhiyā*, not *y*.
 
 **go** (Wiktionary गो; Whitney §361c). Strong with *gau-*/*gāv-*: *gauḥ*, *gāvau*, *gāvaḥ*; short accusatives *gām*, *gāḥ*; ablative-genitive *goḥ*; otherwise the stem *go-* with normal endings: *gavā*, *gave*, *gavi*, *gavoḥ*, *gavām*, *gobhiḥ*, *goṣu*. It is masculine ("bull") or feminine ("cow").
 

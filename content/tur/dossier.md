@@ -347,3 +347,13 @@ Translations are always our own.
 - Forms built from G&K patterns, not in Wiktionary's tables: verb + -DIr (biliyordur), -lAr with -DIr, neredeydin, gelmeyebilir, gelemeyebilirim (§§8.3.3, 8.4, 21.4.1.4, 21.4.2.1).
 - Wiktionary errors: its potential tables harmonise -bil wrongly for the 13 -Ir monosyllables (kalabılır → kalabilir, olabilur → olabilir); yakında lacks "soon" (G&K §16.4.1.1). TDK unreachable on 2026-11-26.
 - For part 5: glossed in place only daha, de/da "also", çünkü, bir daha, sürekli, akşamları, müşteri, başka, sükût, yetişmek, kavga etmek; önümüzdeki in prose only. In vocab: önce/sonra (adverbs only), many time adverbs, language names in -CA, biraz, biri, az. Forward pointers: tur-05-04 clock times; tur-06-02 lazım/gerek; tur-06-10 conditional; tur-06-11 counterfactual; tur-06-12 diye, ki; tur-07-08 -mAktA; -ken in part 6.
+
+
+## Notes from verifying part 4 (2026-11-27)
+
+- 1st-person optative endings carry stress (gelelím, bakayím); only 2nd-person -sIn, -sInIz are unstressable (G&K §4.3.2 (iv b)).
+- ürümek is a vowel stem ürü- (it ürü-r).
+- de-/ye- write i before y-initial suffixes (diyen, diyelim, yiyen) except deyince, deyip (TDK, Ünlü daralması). The imperative is unsettled: give diyin (Wiktionary) and mention deyin; star only *yeyin.
+- In nominal predicates -lAr goes after the copula (zenginmişler, not *zenginlermiş), except after a locative or değil/yok (G&K §8.4).
+- TDK's yazım kuralları pages are reachable (2026-11-27); this updates the earlier note that TDK was unreachable.
+- Do not reuse G&K's example sentences verbatim, even generic ones (Çay içer misiniz? is G&K ex. 168).

@@ -46,10 +46,10 @@
   },
   {
    "id": "tdk",
-   "citation": "Türk Dil Kurumu (Turkish Language Association). Güncel Türkçe Sözlük (current Turkish dictionary), online.",
+   "citation": "Türk Dil Kurumu (Turkish Language Association). Güncel Türkçe Sözlük (current Turkish dictionary), online. Also its spelling rules (Yazım kuralları), e.g. Ünlü daralması.",
    "url": "https://sozluk.gov.tr/",
-   "used_for": "Official standard spelling, meanings, origin of loanwords, the accusative form of each noun (shows stem alternations such as kitap/kitabı) and pronunciation notes for long vowels and palatal consonants (hâl ha:li, kâr kâ:rı).",
-   "access": "Open online. The JSON lookup sozluk.gov.tr/gts?ara=<word> answered in this session; the HTML front page did not."
+   "used_for": "Official standard spelling, meanings, origin of loanwords, the accusative form of each noun (shows stem alternations such as kitap/kitabı) and pronunciation notes for long vowels and palatal consonants (hâl ha:li, kâr kâ:rı). Spelling rules: vowel narrowing in de-/ye- before y-initial suffixes (diyen, yiyen).",
+   "access": "Open online. The JSON lookup sozluk.gov.tr/gts?ara=<word> answered in this session; the HTML front page did not. The yazım kuralları pages (https://tdk.gov.tr/icerik/yazim-kurallari/unlu-daralmasi/) were reachable on 2026-11-27."
   },
   {
    "id": "wals",
@@ -119,9 +119,9 @@
   },
   {
    "id": "trwikisource",
-   "citation": "Vikikaynak (Turkish Wikisource): Nasreddin Hoca fıkraları (Yorgan Gitti Kavga Bitti, rev. 170636; Tanrı Misafiri, rev. 142252; Ben Yapacağımı Bilirim, rev. 154565), each transcribed there from Bayraktar, Z. (2010), Mizah teorileri ve mizah teorilerine göre Nasreddin Hoca fıkralarının tahlili, doctoral thesis, Ege Üniversitesi.",
+   "citation": "Vikikaynak (Turkish Wikisource): Nasreddin Hoca fıkraları (Yorgan Gitti Kavga Bitti, rev. 170636; Tanrı Misafiri, rev. 142252; Ben Yapacağımı Bilirim, rev. 154565; Öküzün Suçu, revision id to be recorded), each transcribed there from Bayraktar, Z. (2010), Mizah teorileri ve mizah teorilerine göre Nasreddin Hoca fıkralarının tahlili, doctoral thesis, Ege Üniversitesi.",
    "url": "https://tr.wikisource.org/wiki/Yorgan_Gitti_Kavga_Bitti",
-   "used_for": "Readings tur-08-02 and tur-08-03 (anecdotes in -mIş narrative and -DI dialogue).",
+   "used_for": "Readings tur-08-02 and tur-08-03 (anecdotes in -mIş narrative and -DI dialogue). Also the review passage in tur-04-18 (Öküzün Suçu).",
    "access": "Open. Pages opened 2026-11-12; Wikisource marks the anecdotes as anonymous folk works in the public domain. The wording of each retelling may be the thesis author's: quote one anecdote at a time, credit both, and keep to these short texts."
   },
   {

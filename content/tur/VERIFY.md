@@ -32,3 +32,16 @@ Worked answers checked: 176   corrected: 5
 
 Corrections (summary): Koreliyim without apostrophe (tur-02-04); main-clause subject bare (genitive subjects exist in nominalised clauses); left-placed objects "normally" accusative (G&K §14.3.3.2); possessed objects take the accusative even when indefinite (bir arkadaşımı); partitive with ablative vs genitive corrected; Evi görüyorum = "I see the house"; kitap-ları-nı 3PL.POSS; generic nationality-compound objects stay bare; sadece from Persian sade; o takes no case suffix or plural directly (copular oydu takes no n); wh-phrase order "wrong as a neutral question" (§19.2.2); citations corrected (§§6.2, 8.1.2, 19.2.1.5–6); two glosses/translations in 03-14.
 Still open: Japanese 木から作る comparison unchecked; "benim ev not in writing" slightly beyond G&K's "informal styles"; Connections notes not checked (not historical).
+
+
+### Part 4 — verified 2026-11-27 by fresh subagent
+Lessons checked: tur-04-01 to tur-04-18 (reviews 04-09, 04-18)
+Forms checked: c. 2,740   corrected: 6   left unverified: 0
+Glosses checked: 576 (186 example blocks)   corrected: 1
+Attested quotations checked: 14   corrected: 2
+Claims checked: c. 160   corrected or removed: 16
+Worked answers checked: 180   corrected: 2
+
+Corrections (summary): G&K §8.2 slot order stated as G&K give it; *geliyordük starred (not geliyorduk); deyin no longer starred (diyin per Wiktionary, both seen; *yeyin stays); proverb it ürü-r (vowel stem ürü-); meğer cited to §16.3 (iv); *Çok zenginlermiş -> zenginmişler (-lAr after the copula, §8.4); optative stress gidelím, bakayím (§4.3.2); oluyor in identity statements qualified (§21.3.4.3); impersonal 3SG example without a subject; worked answers 04-05 #1 and 04-18 #9 fixed; invented semantic histories removed.
+
+Still open: diyin vs deyin not settled by a TDK rule for the imperative; final stress on -(y)AyIm/-(y)AlIm inferred from G&K's unstressable list; "*Evdeydi mi? is heard" unsourced; Çay içer misiniz? matches G&K ex. 168 (generic); Öküzün Suçu revision id not recorded.

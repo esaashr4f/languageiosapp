@@ -472,3 +472,11 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Citation format: a single pāda is "a"; a half-verse is "a–b" or "c–d". GRETIL's Bhg and MBh labels mark half-lines as a/c, which caused mis-citations (36a, 3.4b, 10.8a, 1.90b): convert them.
 - √dhṛ is class 1 (dharati); mw1899 treats dhārayati as a causative form used in the plain sense, not class 10.
 - When a hyphen from GRETIL is removed in orig, say so in the note.
+
+
+## Notes from verifying part 4, lessons 01–12 (2026-11-27)
+
+- Thematic dual middle -ete/-ethe: cite whitney1889 §547b (the ā of -āte with the final a of a-stems becomes e).
+- Accent: say "in Vedic, which marks the accent", not "in the parent language".
+- archive.org OCR misnumbers present-system paragraphs: real §751 printed 761; §753 printed 763 (twice); §762 printed 7623; §775 printed 776 (first of two); §203 printed 208 (first of two); §528 printed 628; §636 printed 686. Match paragraphs by text.
+- Romance comparisons: Spanish sea < Latin sedeat; do not claim descent from forms of esse.

@@ -20,3 +20,16 @@ Worked answers checked: 196   corrected: 1
 Corrections (summary): Whitney §282, §288, §176b, §237, §311a, §111a, §514a and Speijer §271 now stated as the sources say; half-verse citations fixed (Hit 0.36a–b, 3.4c–d, 1.90c–d; Bhg 10.8a–b); √dhṛ is class 1 (dharati; dhārayati a causative form in the same sense); §339 tables also cite §341; sthavire glossed old-LOC.SG.M with kāla understood; unsourced comparative claims removed (Latin -ōrum, me/te, nōmen alternation, strī's iy); vaidarbhī (not vaidarbha) for Damayantī.
 
 Still open: Whitney checked against archive.org OCR by paragraph content, not page scans (madhye in §303e unreadable in OCR); Hit 1.56c–d jarad-gavaḥ hyphen removed without the usual note.
+
+
+### Part 4, lessons 01–12 — verified 2026-11-27 by fresh subagent
+Lessons checked: san-04-01 to san-04-12 (midway review 04-10)
+Forms checked: 719   corrected: 0   left unverified: 0
+Glosses checked: 132   corrected: 0
+Attested quotations checked: 23   corrected: 0
+Claims checked: 154   corrected or removed: 10
+Worked answers checked: 110   corrected: 2
+
+Corrections (summary): accent claims restated as Vedic accent (Whitney §§734, 238, 751, 604) instead of "the parent language"; misquoted §600 removed; caura accepted as = cora (MW); gígnomai "from the same root as jāyate"; Latin deponents and German separable verbs comparisons restated without unsourced history; Spanish sea is from sedeat, so the sea/soit claim was removed; Italian raddoppiamento comparison removed; śerate is §629; Latin est/sunt alternation restated; final -n sandhi answer completed (§§202–210).
+
+Still open: Greek -oi-/-iē- optative cognates not sourced this session; √bhūṣ and varjayati class labels not re-checked; several prefixed and simple verb forms absent from Wiktionary tables were checked in MW or re-derived.

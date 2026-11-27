@@ -20,7 +20,7 @@ What does the doubling add? Gesenius's general formula is "to busy oneself eager
 - **repeated or extended action:** *šāḇar* "break", piel *šibbar* "smash"; *qāḇar* "bury (one)", piel "bury (many)"; *ṣāḥaq* "laugh", piel "joke, play" (§52f);
 - **making a state into an action (factitive):** *gāḏal* "be great", piel *giddēl* "make great"; *qāḏaš* "be holy", piel *qiddēš* "make holy"; *lāmaḏ* "learn", piel *limmaḏ* "teach" (§52g);
 - **declaring:** *ṣiddēq* "declare righteous" (§52g);
-- **verbs made from nouns (denominatives):** *kihhēn* "act as priest", from *kōhēn* (§52h);
+- **verbs made from nouns (denominatives):** *kihēn* "act as priest", from *kōhēn* (§52h);
 - **verbs with no qal**, where the piel is simply the verb: *dibbēr*, *biqqēš*, *ṣiwwâ*, *bēraḵ*.
 
 How to label the piel is debated (lesson 7.1). Gesenius's word is "intensive"; many modern grammars stress the factitive sense. In practice, learn each piel from the dictionary: the doubled letter tells you the stem, BDB tells you the meaning.
@@ -201,10 +201,10 @@ confidence: attested
 :::table
 caption: Piel and pual of the strong verb (dibbēr "speak"; pual of p-q-d, b-r-k)
 confidence: verified
-source: gkc1910 §52; oshb (dibbēr 200×, yəḏabbēr 35×, waydabbēr 192× per dossier; dabbēr, ləḏabbēr, məḏabbēr, puqqaḏ, məḇōrāḵ attested; other persons by pattern)
+source: gkc1910 §52; oshb (dibber 200× (dibbēr 26×, mostly in pause), yəḏabbēr 35×, waydabbēr 192× per dossier; dabbēr, ləḏabbēr, məḏabbēr, puqqaḏ, məḇōrāḵ attested; other persons by pattern)
 | Form | Piel | Translit | Pual | Translit |
 |---|---|---|---|---|
-| qatal 3SG.M | דִּבֶּר | dibbēr | פֻּקַּד | puqqaḏ |
+| qatal 3SG.M | דִּבֶּר | dibber | פֻּקַּד | puqqaḏ |
 | qatal 1SG | דִּבַּרְתִּי | dibbartî | | |
 | yiqtol 3SG.M | יְדַבֵּר | yəḏabbēr | יְקֻטַּל | yəquṭṭal (pattern) |
 | wayyiqtol 3SG.M | וַיְדַבֵּר | waydabbēr | | |
@@ -229,7 +229,7 @@ source: gkc1910 §52; oshb (dibbēr 200×, yəḏabbēr 35×, waydabbēr 192× p
 מַצֵּבָה | maṣṣēḇâ | noun | standing stone, sacred pillar | root n-ṣ-b
 שֵׁת | šēṯ | proper noun | Seth | 
 שְׁבִיעִי | šəḇîʿî | adjective | seventh | lesson 5.4
-כִּהֵן | kihhēn | verb | act as priest | piel; denominative from kōhēn
+כִּהֵן | kihēn | verb | act as priest | piel; denominative from kōhēn
 קִנֵּא | qinnēʾ | verb | be jealous, be zealous | piel; root q-n-ʾ, as in qannôʾ
 :::
 

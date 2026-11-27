@@ -208,7 +208,7 @@ source: gkc1910 §51; oshb (nišmar 1×, nišmərû 1×, nišmār 1×, hiššām
 נִלְחַם | nilḥam | verb | fight, wage war | niphal; root l-ḥ-m, as in milḥāmâ
 נִשְׁבַּע | nišbaʿ | verb | swear (an oath) | niphal; root š-b-ʿ
 נִחַם | niḥam | verb | regret, be sorry; be comforted | niphal; root n-ḥ-m; piel niḥam "comfort"
-נִחְבָּא | neḥbāʾ | verb | hide oneself | niphal; root ḥ-b-ʾ
+נֶחְבָּא | neḥbāʾ | verb | hide oneself | niphal; root ḥ-b-ʾ
 נִשְׁאַר | nišʾar | verb | remain, be left | niphal; root š-ʾ-r
 בָּקַע | bāqaʿ | verb | split (qal); burst open (niphal) | root b-q-ʿ
 מַעְיָן | maʿyān | noun | spring (of water) | construct plural maʿyənōṯ

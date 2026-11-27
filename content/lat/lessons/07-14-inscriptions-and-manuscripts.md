@@ -45,7 +45,7 @@ The abbreviations follow one logic: a word is cut down to its first letter or le
 **Common inscription abbreviations.**
 
 - *D. M.* *Dīs Mānibus* "to the spirits of the dead", heading tombstones (Wiktionary); later *D. M. S.*, with *sacrum* "sacred".
-- *H. S. E.* *hīc situs est* "here he lies"; Wiktionary gives *hīc sepultus est* "here is buried".
+- *H. S. E.* *hīc situs est* "here he lies" or *hīc sepultus est* "here is buried": English Wikipedia's List of classical Latin abbreviations gives both, Wiktionary only the second.
 - *S. T. T. L.* *sit tibi terra levis* "may the earth lie light on you" (Wiktionary has the phrase).
 - *V. A.* *vīxit annōs* "he lived … years"; *ann.* *annōrum*.
 - *F.* *fīlius*, *fīlia*, or *fēcit*; *L.* *lībertus* "freedman" after a name.
@@ -55,7 +55,7 @@ The abbreviations follow one logic: a word is cut down to its first letter or le
 - *S. P. Q. R.* *senātus populusque Rōmānus* (Wiktionary).
 - *IMP.* *imperātor*, *COS.* *cōnsul*, *AVG.* *Augustus*, *LEG.* *legiō*, *TR. POT.* *tribūniciā potestāte*.
 
-A course list of epigraphic abbreviations gives *V. A.*, *F. C.*, *V. S. L. M.* and *S. T. T. L.* as above; this guide has not checked them against the CIL indexes, so treat the expansions of the last four as standard but unverified here.
+English Wikipedia's List of classical Latin abbreviations gives *V. A.*, *F. C.*, *V. S. L. M.* and *S. T. T. L.* as above, and also other readings for two of them: *V. A.* can be *veterānō assignātus*, and *F. C.* *fierī cūrāvit*, with the same meaning. On a tombstone the context decides. This guide has not checked them against the CIL indexes.
 
 **Common manuscript abbreviations** (Wiktionary):
 
@@ -98,7 +98,7 @@ confidence: attested
 :::
 
 :::example
-orig: Hospes, quod deico paullum est; asta ac pellege. Heic est sepulcrum hau pulcrum pulcrai feminae.
+orig: Hospes, quod deico paullum est, asta ac pellege. Heic est sepulcrum hau pulcrum pulcrai feminae.
 morphemes: hospes quod deic-o paullum est ast-a ac pelleg-e heic est sepulcr-um hau pulcr-um pulcr-ai femin-ae
 gloss: stranger.VOC.SG REL.ACC.SG.N say-1SG little be.3SG stand.by-IMP.2SG and read.through-IMP.2SG here be.3SG tomb-NOM.SG not beautiful-NOM.SG.N beautiful-GEN.SG.F woman-GEN.SG
 translation: Stranger, what I have to say is short: stop and read it through. Here is the unlovely tomb of a lovely woman.
@@ -118,7 +118,7 @@ confidence: attested
 :::
 
 :::example
-orig: Vos qui transitis, nostri memores rogo sitis: q[uo]d sumus, h[o]c eritis; fuimus quandoque q[uo]d estis.
+orig: Vos qui transitis, nostri memores rogo sitis: q[uo]d sumus, h[o]c eritis, fuimus quandoque q[uo]d estis.
 morphemes: vos qui transi-tis nostri memor-es rog-o sitis quod sumus hoc eritis fu-imus quandoque quod estis
 gloss: 2PL.NOM REL.NOM.PL.M go.past-2PL 1PL.GEN mindful-NOM.PL ask-1SG be.SBJV.2PL what.NOM.SG.N be.1PL this.NOM.SG.N be.FUT.2PL be.PRF-1PL once what.NOM.SG.N be.2PL
 translation: You who pass by, remember us, I beg you: what we are, you will be; we were once what you are.

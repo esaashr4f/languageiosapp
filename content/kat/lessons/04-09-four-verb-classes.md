@@ -202,7 +202,7 @@ source: bolkvadze2023 §9.1.4, §9.3, §9.6; wiktionary (subject pronouns printe
 თბება | tbeba | verb | warms up, gets warm | class 2; aor. გათბა (bolkvadze2023 §9.1.4)
 აშრობს | ašrobs | verb | dries (something) | class 1; fut. გააშრობს; aor. გააშრო; pf. გაუშრია; masdar გაშრობა (lingua.ge)
 შრება | šreba | verb | dries, gets dry | class 2 (bolkvadze2023 §9.3.2.3)
-ჩქარობს | čkarobs | verb | hurries | class 3; aor. იჩქარა; pf. უჩქარია; masdar აჩქარება
+ჩქარობს | čkarobs | verb | hurries | class 3; fut. იჩქარებს; aor. იჩქარა; pf. უჩქარია; masdar აჩქარება
 ნადირობს | nadirobs | verb | hunts | class 3; fut. ინადირებს; aor. ინადირა; pf. უნადირია; masdar ნადირობა (lingua.ge)
 თევზაობს | tevzaobs | verb | fishes, goes fishing | class 3; fut. ითევზავებს; aor. ითევზავა; pf. უთევზავია; masdar თევზაობა (lingua.ge)
 მონადირე | monadire | noun | hunter |

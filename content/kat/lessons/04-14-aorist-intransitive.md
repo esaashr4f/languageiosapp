@@ -8,7 +8,7 @@ point: Form the aorist of class 2 verbs, whose subject stays nominative, and kno
 requires: [kat-04-12]
 introduces: [strong-aorist]
 confidence: verified
-sources: [bolkvadze2023, wiktionary, linguage]
+sources: [bolkvadze2023, wiktionary, linguage, hewitt1995]
 ---
 
 ## The idea
@@ -17,9 +17,9 @@ Lesson 4-12 gave the aorist of transitive verbs, with the ergative. This lesson 
 
 That is the whole point of the class distinction of lesson 4-9. A doer (class 1, class 3) goes into the ergative in series II; an undergoer (class 2) stays in the nominative. In English both are plain subjects, so this is the one place where you have to think about the verb's class before you choose the case of the noun in front of it.
 
-The aorist of class 2 also shows clearly something that exists in class 1 too: there are two sets of aorist endings. Bolkvadze and Kiziria describe them by marker: class 2 verbs with the prefix *i-* take *-e* in the first and second persons; class 2 verbs with *-d-* and those with no marker take *-i*. English-language grammars of Georgian (Hewitt's among them) call the first type **weak** and the second **strong**. This guide uses the terms like this: a **weak aorist** has *-e* for "I" and "you" (*davic̣ere*, *davc̣ere*); a **strong aorist** has *-i* for "I" and "you" (*davbrundi*, *gavč̣eri*), often with a change in the root vowel. In both, the third person singular ends in *-a* (sometimes *-o*).
+The aorist of class 2 also shows clearly something that exists in class 1 too: there are two sets of aorist endings. Bolkvadze and Kiziria describe them by marker: class 2 verbs with the prefix *i-* take *-e* in the first and second persons; class 2 verbs with *-d-* and those with no marker take *-i*. Hewitt's reference grammar calls an aorist with *-e* for the first and second persons **weak** and one with *-i* **strong** (he defines the terms in passing in the notes to his §2.5). This guide uses the terms the same way: a **weak aorist** has *-e* for "I" and "you" (*davic̣ere*, *davc̣ere*); a **strong aorist** has *-i* for "I" and "you" (*davbrundi*, *gavč̣eri*), often with a change in the root vowel. In both, the third person singular ends in *-a* (sometimes *-o*).
 
-Why does it matter which type a verb has? Because the next screeve depends on it. In the optative (lesson 4-16), weak aorists take *-o* and strong aorists take *-a*: Wiktionary gives *davc̣ero* "let me write" from weak *davc̣ere*, but *gavč̣ra* "let me cut" from strong *gavč̣eri*.
+Why does it matter which type a verb has? Because the next screeve depends on it. In the optative (lesson 4-16), weak aorists take *-o*; strong aorists take *-a* in class 1 and *-e* in class 2 (Bolkvadze and Kiziria). Wiktionary gives *davc̣ero* "let me write" from weak *davc̣ere*, but *gavč̣ra* "let me cut" from strong *gavč̣eri*; lingua.ge gives *davrče* "let me stay" from strong *davrči*. A few verbs are exceptions (lesson 4-16).
 
 ## How it is built
 

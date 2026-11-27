@@ -218,6 +218,8 @@ eti | - | particle | supposedly, they say; (in surprise) can it be that | marks 
 taarifa | - | noun | report, notice, information | 9/10, pl. taarifa; loan from Arabic
 uvumi | - | noun | rumour | 11, no plural
 usemi | - | noun | speech, utterance; saying | 11/10, pl. semi; usemi halisi "direct speech"
+-arifu | - | verb | inform, notify | kuarifu; loan from Arabic
+-kumbusha | - | verb | remind | kukumbusha; from -kumbuka
 :::
 
 ## Connections

@@ -170,10 +170,10 @@ confidence: constructed
 :::
 
 :::example
-orig: O adamı bir daha görmedim.
-morphemes: o adam-ı bir daha gör-me-di-m
-gloss: that man-ACC one more see-NEG-PST-1SG
-translation: I never saw that man again.
+orig: O kadını bir daha görmedim.
+morphemes: o kadın-ı bir daha gör-me-di-m
+gloss: that woman-ACC one more see-NEG-PST-1SG
+translation: I never saw that woman again.
 note: bir daha "once more" is the way to say "again" with a negative verb (goksel2005 §16.4.1.1 (iv)).
 source: constructed
 confidence: constructed
@@ -194,7 +194,7 @@ confidence: constructed
 - **At least, at most**: *en az* before a number means "at least": *en az beş kişi* "at least five people" (goksel2005 §14.2, ex. 14).
 - **Daha as "more" with a noun**: *daha çok para* "more money", *daha fazla zaman* "more time" (goksel2005 §16.9).
 - **Daha as "another"**: after *bir* and a noun: *bir çay daha*, *bir soru daha* "one more question".
-- **Daha as "still" and "yet"**: *daha uyuyor*, *Daha hazır değilim* "I'm not ready yet" (goksel2005 §16.4.1.1 (v)).
+- **Daha as "still" and "yet"**: *daha uyuyor*, *Daha hazır değiliz* "We're not ready yet" (goksel2005 §16.4.1.1 (v)).
 - **Bir daha "again"** with a negative: *bir daha görmedim*; with a positive verb, use *tekrar* or *yine* (goksel2005 §16.4.1.1 (iv)).
 - **Equality** ("as tall as") uses *kadar*: tur-05-05.
 
@@ -212,13 +212,13 @@ confidence: constructed
 
 **Do not forget the possessive after a genitive.** *\*Türkiye'nin en büyük şehir* has the genitive but not the possessive that answers it (tur-03-05): *Türkiye'nin en büyük şehri*.
 
-**Do not use a bare locative before the noun.** *\*Türkiye'de en büyük şehir* is not a phrase: a locative can describe a noun only with *-ki* (tur-03-14). Say *Türkiye'deki en büyük şehir*, or keep the locative in the sentence: *Türkiye'de en büyük şehir İstanbul'dur* "In Turkey, the biggest city is Istanbul".
+**Do not use a bare locative before the noun.** *\*Türkiye'de en büyük şehir* does not work: a plain locative describes a noun with *-ki* (tur-03-14), or with *arasında* "among" (goksel2005 §15.4.3). Say *Türkiye'deki en büyük şehir*, or keep the locative in the sentence: *Türkiye'de en büyük şehir İstanbul'dur* "In Turkey, the biggest city is Istanbul".
 
 **Do not use az alone for "less".** *\*Bu az pahalı* does not mean "this is less expensive". *Az* without *daha* in a comparison is a colloquial short form of *biraz* and means "a little more" (goksel2005 §15.4.2): *bundan az büyük* "a little bigger than this". "Less" is *daha az*.
 
 **Do not read daha alone before a verb as "more".** *Ali daha çalışıyor* means "Ali is still working". For "Ali works more", say *Ali daha çok çalışıyor*. Likewise *Daha gelmedi* is "He hasn't come yet", not "He didn't come any more" (that is *artık gelmedi*, tur-02-09).
 
-**Do not use tekrar for "not again".** "I didn't see him again" is not *\*Onu tekrar görmedim* in the sense of "never again": Göksel and Kerslake give *bir daha* as the only way to say "again" with a negative verb (goksel2005 §16.4.1.1 (iv)): *Onu bir daha görmedim.*
+**Do not use tekrar for "not again".** With a negative verb, Göksel and Kerslake give *bir daha* as the only way to say "again" (goksel2005 §16.4.1.1 (iv)): *Onu bir daha görmedim*, not *\*Onu tekrar görmedim*.
 
 ## Reference table
 
@@ -275,7 +275,7 @@ Japanese より (yori) and Korean 보다 (boda) mark the standard of comparison 
 5. Translate *Bu üç kitabın en ilginci hangisi?* and take apart *ilginci*.
 6. What does *Çocuklar daha uyumadı* mean? Why is it not "The children slept no more"?
 7. Say "This coffee is much stronger than the other one", using *sert*.
-8. Correct *\*Bu çanta az ağır* meant as "This bag is less heavy", and say what the learner's sentence suggests instead.
+8. Correct *\*Bu çanta öbüründen az ağır* meant as "This bag is less heavy than the other one", and say what the learner's sentence suggests instead.
 9. Say "One more question, please" and "I won't ask again", using *sormak* in the aorist.
 10. Translate *Mehmet bizden daha çok çalışıyor ama en az parayı o kazanıyor.*
 
@@ -285,9 +285,9 @@ Japanese より (yori) and Korean 보다 (boda) mark the standard of comparison 
 2. "İzmir is smaller than Istanbul, but it is very beautiful." *İstanbul'dan*: ablative as "than", with no *daha* (tur-05-02); *ama* "but" (tur-02-04).
 3. Genitive: *Ankara'nın en pahalı oteli*, with the possessive on *otel*. Locative with *-ki*: *Ankara'daki en pahalı otel* (tur-03-14).
 4. *Ayşe en akıllı öğrenci.* A superlative is unique, so it takes no *bir*. If you mean "one of the cleverest", that needs *biri*, not *bir*: leave it for now.
-5. "Which is the most interesting of these three books?" *İlginç-i*: the adjective with the third-person possessive, "its most interesting (one)". The genitive *kitabın* names the group; after a number the noun is singular (tur-02-03).
+5. "Which is the most interesting of these three books?" *İlginc-i*: the adjective with the third-person possessive, "its most interesting (one)"; ç becomes c before the vowel (tur-01-06). The genitive *kitabın* names the group; after a number the noun is singular (tur-02-03).
 6. "The children haven't gone to sleep yet." With a negative verb, *daha* means "yet" (goksel2005 §16.4.1.1 (v)). "No more" would be *artık* (tur-02-09).
 7. *Bu kahve öbüründen çok daha sert.* *Öbürü* "the other one" with the ablative: *öbür-ü-nden*, with the pronominal *n* (tur-03-06). *Çok* before *daha* for "much".
-8. *Bu çanta daha az ağır*, or more naturally *Bu çanta daha hafif* "This bag is lighter". In a comparison, *az* alone suggests "a little more" (goksel2005 §15.4.2), the opposite of what was meant.
+8. *Bu çanta öbüründen daha az ağır*, or more naturally *Bu çanta öbüründen daha hafif* "This bag is lighter than the other one". In a comparison, *az* alone suggests "a little more" (goksel2005 §15.4.2), the opposite of what was meant.
 9. *Bir soru daha, lütfen.* *Bir daha sormam.* The negative aorist *sor-ma-m* (tur-04-06) is a firm promise; with a negative verb "again" is *bir daha*.
 10. "Mehmet works more than us, but he is the one who earns the least money." *Bizden daha çok*: "more than us" with a verb. *En az parayı*: "the least money", definite, so accusative. *O* before the verb is the focus: "he is the one who" (tur-02-07).

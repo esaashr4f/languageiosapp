@@ -62,7 +62,7 @@ When the applied object is a reason, instrument or place, it is not a person and
 Wiktionary lists many applicatives whose meaning has moved:
 
 - *-fikia* "reach; stay at (a hotel)": from *-fika* "arrive";
-- *-amkia* "greet": from *-amka* "wake up", because the greeting is the first word of the morning (Almasi and colleagues: *Nilimwamkia mzee kwa kusema "shikamoo"* "I greeted the elder by saying shikamoo"; the explanation of the meaning is this guide's, offered as a plausible link, not a sourced etymology);
+- *-amkia* "greet": from *-amka* "wake up" (Almasi and colleagues: *Nilimwamkia mzee kwa kusema "shikamoo"* "I greeted the elder by saying shikamoo"; the sources consulted do not say how the meaning arose);
 - *-zungumzia* "discuss, talk about": from *-zungumza* "talk";
 - *-tokea* "happen, turn up": from *-toka* "come out" (learnt in part 4);
 - *-furahia* "enjoy": from *-furahi* "be happy" (part 4).
@@ -112,13 +112,13 @@ confidence: attested
 :::
 
 :::example
-orig: Mkulima analimia jembe jipya.
-morphemes: m-kulima a-na-lim-i-a jembe ji-pya
-gloss: C1-farmer C1.SM-PRS-cultivate-APPL-FV hoe.C5 C5-new
-translation: The farmer is digging with a new hoe.
-note: Instrument as the applied object. The everyday alternative is analima kwa jembe jipya (lesson 5.8).
-source: constructed
-confidence: unverified
+orig: Walinywea kikombe.
+morphemes: wa-li-nyw-e-a ki-kombe
+gloss: C2.SM-PST-drink-APPL-FV C7-cup
+translation: They drank from a cup.
+note: Instrument, from Almasi and colleagues (p. 279, "they drank with a cup"). The same source writes alikulia with ku- but walinywea without it; it does not explain the difference.
+source: almasi2014 p. 279
+confidence: attested
 :::
 
 :::example
@@ -126,9 +126,9 @@ orig: Nimekujia.
 morphemes: ni-me-ku-j-i-a
 gloss: 1SG.SM-PRF-2SG.OM-come-APPL-FV
 translation: I have come for you (to see you).
-note: Direction or purpose: -jia "come to, come for" (Wiktionary), the applicative of -ja. No ku-: the applicative gives the short verb a longer stem.
+note: Direction or purpose: -jia "come to, come for" (Wiktionary), the applicative of -ja. The -ku- is the object "you"; an object prefix takes the place of the ku of short verbs (lesson 4.4).
 source: constructed
-confidence: unverified
+confidence: constructed
 :::
 
 :::example
@@ -173,10 +173,10 @@ confidence: constructed
 
 ## Where it applies
 
-- **Reason, cause, purpose**: *kulilia* "cry for, cry over", *kusomea* "study for": *Anasomea udaktari* "he is studying to be a doctor" is the kind of sentence Almasi and colleagues' *Unasomea nini?* invites.
+- **Reason, cause, purpose**: *kulilia* "cry for, cry over", *kusomea* "study for" (Almasi and colleagues' *Unasomea nini?*).
 - **Instrument, in noun phrases**: *kisu cha kukatia*, *mwiko wa kupakulia* "a spoon for serving" (Almasi and colleagues' exercises use this phrase), *sindano ya kufumia* "a knitting needle" (same source).
 - **Instrument in clauses**: *alikulia uma*, *walinywea kikombe* "they drank from a cup" (Almasi and colleagues). *Kwa* is the alternative (lesson 5.8).
-- **Place in noun phrases**: *mkeka wa kulalia*, *chumba cha kulia* "dining room" (*-lia* "eat in"). Lesson 3.6's *chumba cha kulala* uses the plain verb.
+- **Place in noun phrases**: *mkeka wa kulalia*, *godoro la kukalia* "a mattress for sitting on" (Almasi and colleagues). Compare *chumba cha kulala* "bedroom", which uses the plain verb: the applicative is common in these phrases, not compulsory.
 - **Direction**: *kuendea*, *kujia*, *kukimbilia*, and *-pelekea*, *-letea* of lesson 7.2.
 - **Two objects**: any applicative of a transitive verb: *alimkatia mtoto mkate*, *alimnunulia mtoto kitabu*.
 - **Lexicalised applicatives**: *-ambia*, *-tumia*, *-fikia*, *-amkia*, *-zungumzia*, *-tokea*, *-furahia*, *-endelea* "continue" (Wiktionary: *-enda* + *-elea*).
@@ -229,7 +229,7 @@ French has the same wish to move "with what" and "for whom" into one word, in pr
 
 1. Translate *Mtoto analilia nini?*
 2. Build "a needle for sewing" (*-shona*; give the applicative and the whole phrase).
-3. Build "the court where (in which) cases are heard" is beyond this lesson; instead build "the farmer cleared the grass for us" (*-fyeka*).
+3. Build "the farmer cleared the grass for us" (*-fyeka*).
 4. Correct *\*Alikulia kwa uma.*
 5. Translate *Tutazungumzia kesi hiyo kesho.*
 6. Which of these is lexicalised, and what does it mean: *-pikia*, *-amkia*, *-nunulia*?

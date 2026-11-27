@@ -280,7 +280,7 @@ senectūs | - | noun | old age | senectūtis, f.
 
 ## Connections
 
-Spanish *me gusta*, *me duele* and French *il me faut* recall the Latin habit of putting the person affected in an object case (a parallel, not a direct inheritance). Spanish *llueve* and French *il pleut* continue *pluit*, through Vulgar Latin *\*plovere* (Wiktionary); French adds a subject pronoun *il* that Latin and Spanish do without. Korean and Japanese also leave weather verbs and many feeling statements without a subject (Japanese *ame ga furu* names the rain, but *hazukashii* "(I am) ashamed" needs no "I").
+Spanish *me gusta*, *me duele* and French *il me faut* recall the Latin habit of putting the person affected in an object case (a parallel, not a direct inheritance). Spanish *llueve* and French *il pleut* continue *pluit*, through a reconstructed Vulgar Latin form *plovere* (Wiktionary); French adds a subject pronoun *il* that Latin and Spanish do without. Korean and Japanese also leave weather verbs and many feeling statements without a subject (Japanese *ame ga furu* names the rain, but *hazukashii* "(I am) ashamed" needs no "I").
 
 ## Exercises
 

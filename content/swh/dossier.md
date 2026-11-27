@@ -436,3 +436,12 @@ Translations are always our own.
 - Glossing: vowel-stem adjectives `w-engi C2-many`, `ch-ema C7-good`; -o-ote forms whole (`chochote any.C7`); kwenye `kw-enye C17-having`; kutoka, kuhusu as infinitives; gani `what.kind`; -je `-how`, -ni `-what`; diminutive `ki-toto C7-child`; jitu `ji-tu C5-person`, jumba `mansion.C5`; ya in place compounds `C9-of`. kuliko glossed whole as "than" (explained as ku-li-ko); part 6 can take it apart as a relative.
 - Left for part 6 (do not re-list what part 5 taught): kwa kuwa, ingawa, ijapokuwa (06-14; kwa sababu and kwani are taught in 05-09); wala (06-15); kabla and baada ya before clauses, mpaka, hadi (06-11; before nouns taught in 05-08); kwa ajili ya (06-10). nani asks for names (Jina lako nani?).
 - Proverbs used so far: afya ni mali; penye nia pana njia; mwenye kisima hapangi foleni; haraka haraka haina baraka; umoja ni nguvu.
+
+
+## Notes from verifying part 5 (2026-11-27)
+
+- -ovu: Wikipedia ("Swahili grammar") and Wiktionary both say only mwovu, waovu are used; Polomé §2.2.1.1 has maisha maovu and mji mwovu, and Wiktionary's own examples have jicho ovu. Treat other classes as disputed.
+- Numbers with animate N-class nouns: Almasi agrees by noun class (rafiki thelathini na nne, p. 187); Polomé uses class 2 (rafiki wanne). The guide follows Polomé and states the split.
+- Thompson & Schleicher: printed p. 320 = PDF p. 299 (conjunctions); printed pp. 378–380 = PDF 351–353 (comparison). Cite printed pages.
+- au … au is not in Polomé or Almasi; only ama … ama is.
+- swh-05-04's example glosses still need a check (left at drafted).

@@ -32,3 +32,16 @@ Worked answers checked: 186   corrected: 4
 
 Corrections (summary): 8 stale lesson references in part 2 fixed against the syllabus; Polomé's verb positions compared accurately; source attributions corrected (Wiktionary, Wikipedia, T&S, Almasi, Polomé) and unsourced generalisations removed; -keti native; same-subject -taka + subjunctive is usual per Wikipedia (star removed, disagreement with T&S stated); negating kuwa + -me- per Polomé as well as Wikipedia; -ngali also before -ki-/-me- verbs (Polomé p. 153); class 18 object prefix -m(w)- (Almasi) vs -mu- (T&S, Wiktionary); -ka- classed under time (Polomé §2.4.4.5); afadhali + subjunctive (T&S p. 271).
 Still open: T&S page for wameenda/kuenda not found; some Japanese/Korean Connections not checked.
+
+
+### Part 5 — verified 2026-11-27 by fresh subagent
+Lessons checked: swh-05-01 to swh-05-12 (review 05-12)
+Forms checked: 207   corrected: 0   left unverified: 0
+Glosses checked: 128   corrected: 0
+Attested quotations checked: 5   corrected: 0
+Claims checked: 77   corrected or removed: 12
+Worked answers checked: 134   corrected: 1
+
+Corrections (summary): -ovu with classes other than 1/2 now stated as disputed (Wikipedia and Wiktionary vs Polomé, Wiktionary's own jicho ovu); Almasi's rafiki thelathini na nne stated as N-class agreement against Polomé's class 2 rule (guide follows Polomé); pili and mosi as inherited words, not "old forms"; tarehe mosi not attributed to Almasi (who gives tarehe moja / ya kwanza); kasorobo added (saa sita kasorobo usiku, Almasi pp. 210–211); kuliko yeyote no longer attributed to Almasi; Thompson & Schleicher cited by printed page (p. 320); au … au not in Polomé or Almasi (ama … ama recommended); kijumba from jumba + ki- (Wiktionary); review answer 16 kwa shangazi yangu.
+
+Still open: swh-05-04 example glosses not reviewed (STATUS left at drafted for that lesson); -tatu, -nne, -tano, -nane class forms checked against Almasi table 18.1 only; Wiktionary's -enye class 4 wenye probably a table error; Polomé's note on njema not re-located.

@@ -21,7 +21,7 @@ Whitney (§952) explains its meaning. From a **transitive** verb (one that takes
 
 This passive meaning is why the doer of a transitive action stands in the **instrumental**: *nṛpeṇa śatravo jitāḥ* "the enemies (were) conquered by the king", that is, "the king conquered the enemies". The thing done is the subject, in the nominative, and the participle agrees with it. English turns it round in translation; Sanskrit does not.
 
-For the cases where an active past is wanted with a transitive verb, Sanskrit adds the suffix ***-vat*** "having" to the participle: *kṛta* "done" → *kṛtavat* "having done". Whitney (§959) notes that this **active past participle** is rare in the old language but "quite common" later, "chiefly used predicatively ... with the value of a personal verb-form in a past tense": *sa tat kṛtavān* "he did that".
+For the cases where an active past is wanted with a transitive verb, Sanskrit adds the suffix ***-vat*** "having" to the participle: *kṛta* "done" → *kṛtavat* "having done". Whitney (§§959–960) notes that this **active past participle** is rare in the old language but "quite common" later, "chiefly used predicatively ... with the value of a personal verb-form in a past tense": *sa tat kṛtavān* "he did that".
 
 ## How it is built
 
@@ -205,7 +205,7 @@ confidence: attested
 - **As an adjective**, attributive or predicative: *hataṃ mṛgam*, *jīrṇāni vāsāṃsi* "worn-out clothes", *pakvaṃ phalam* "ripe fruit".
 - **As a noun**: neuter for the action or thing (*kṛtam* "deed", *uktam* "what was said", *jīvita* "life", *gīta* "song"); masculine for a person (*mṛtaḥ* "a dead man").
 - **With a copula** to mark 1st and 2nd persons: *gato 'smi*, *prāptāḥ smaḥ*.
-- **The active *-tavat*** for a transitive past with the object in the accusative: *jitavān*, *dṛṣṭavatī*. Mostly predicative (Whitney §959).
+- **The active *-tavat*** for a transitive past with the object in the accusative: *jitavān*, *dṛṣṭavatī*. Mostly predicative (Whitney §960).
 - **Many familiar adjectives are past participles**: *vṛddha* "old" (√vṛdh "grown"), *duṣṭa* "wicked" (√duṣ "spoiled"), *saṃskṛta* "perfected", *kḷpta* "arranged", *hita* "good for" (√dhā "placed"), *viśiṣṭa* "distinguished", *jīrṇa*.
 - **In the absolute construction** with the locative, *vane gate nṛpe* "when the king had gone to the forest" (san-06-08).
 
@@ -225,7 +225,7 @@ confidence: attested
 
 **Do not decline *-tavat* as an a-stem.** *\*kṛtavanaḥ* is wrong: *-tavat* is a *vat*-stem, NOM.SG.M *kṛtavān*, NOM.PL *kṛtavantaḥ* (san-03-17).
 
-**Do not translate *gata* always as "went".** As a tense it is often "has gone" or "is gone": *pañcatvaṃ gataḥ* "is dead". Context decides between past and perfect (Whitney §959 says the same of *-tavat*).
+**Do not translate *gata* always as "went".** As a tense it is often "has gone" or "is gone": *pañcatvaṃ gataḥ* "is dead". Context decides between past and perfect (Whitney §960 says the same of *-tavat*).
 
 ## Reference table
 

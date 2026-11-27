@@ -73,7 +73,7 @@ confidence: constructed
 orig: Bu oda öbür odadan geniş.
 morphemes: bu oda öbür oda-dan geniş
 gloss: this room other room-ABL wide
-translation: This room is bigger than the other one.
+translation: This room is more spacious than the other one.
 note: No daha: the ablative alone is enough (goksel2005 §15.4.2, ex. 45).
 source: constructed
 confidence: constructed

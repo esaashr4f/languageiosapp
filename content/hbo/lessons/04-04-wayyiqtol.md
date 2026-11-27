@@ -45,7 +45,7 @@ Where the yiqtol has a long and a short form, the wayyiqtol takes the short one,
 - *yihyeh* "he will be" → *wayhî* "and he was";
 - *yirʾeh* "he will see" → *wayyarʾ* "and he saw".
 
-The first person singular "usually" keeps the long form (Gesenius §49e): *wāʾîrāʾ* "and I was afraid".
+In the first person singular the shortening is "not usual" (Gesenius §49e): "and I rose" is *wāʾāqûm* (Nehemiah 2:12), against *wayyāqom* "and he rose".
 
 These short forms belong to the weak verbs, taught in lessons 4.13 to 4.17. Until then, learn the commonest ones as words: they are in the vocabulary below, each with its root and the lesson that explains it.
 

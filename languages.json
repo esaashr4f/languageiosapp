@@ -57,7 +57,15 @@
    "group": "Major living",
    "script": "Hanzi + pinyin",
    "depth": "A",
-   "notes": "Simplified main, traditional noted"
+   "notes": "Simplified main, traditional noted",
+   "companions": [
+    {
+     "name": "Shanghainese (Wu)",
+     "iso": "wuu",
+     "part": 10,
+     "description": "Shanghai Wu: what differs from Mandarin in sounds (voiced initials kept from Middle Chinese, many vowels), left-dominant tone sandhi, everyday vocabulary and grammar words, and how it is written"
+    }
+   ]
   },
   {
    "number": 8,

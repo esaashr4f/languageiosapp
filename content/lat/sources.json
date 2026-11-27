@@ -143,6 +143,20 @@
    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/3*.html",
    "used_for": "Ancient testimony that early Latin was hard for later Romans to read (lat-00-01).",
    "access": "Public domain; open on LacusCurtius."
+  },
+  {
+   "id": "cle",
+   "citation": "Bücheler, F. (ed.) (1895–1897). Carmina Latina Epigraphica. Leipzig: Teubner (Anthologia Latina II).",
+   "url": "https://www.thelatinlibrary.com/epitaphs.html",
+   "used_for": "Verse epitaphs in lat-07-14, cited by CLE number (52, 204, 439, 799) as The Latin Library's epitaphs page gives them.",
+   "access": "Public domain; texts read on The Latin Library's epitaphs page 2026-11-27. The edition itself not opened."
+  },
+  {
+   "id": "leiden",
+   "citation": "Leiden Conventions for editing inscriptions and papyri (1931), as summarised in Wikipedia, \"Leiden Conventions\".",
+   "url": "https://en.wikipedia.org/wiki/Leiden_Conventions",
+   "used_for": "Editorial sigla in inscription texts (lat-07-14).",
+   "access": "Open; opened 2026-11-27."
   }
  ]
 }

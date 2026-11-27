@@ -206,3 +206,12 @@ Cite attested sentences as author, work, book.chapter(.section) or poem.line, e.
 - sī/nisi aliquis is allowed but emphatic (A&G §310b): do not star it in later lessons.
 - Romance and English comparisons: say "parallel" or "recalls" unless Wiktionary gives the descent (French ne < nōn, not < nē; que < quid).
 - Mark every omission inside an attested quotation with an ellipsis, and say in the note when the edition's sentence opens with a connective left out.
+
+
+## Notes from drafting part 7 (2026-11-27)
+
+- Gerund: stem + -nd- + case, no number (scrīb-end-ī write-GER-GEN; ama-nd-ō love-GER-ABL); gerundive with case, number, gender (e-und-um go-GERV-NOM.SG.N). Supine in -um SUP; in -ū SUP.ABL (07-03 explains its origin). Impersonals glossed as ordinary verbs (lice-t be.allowed-3SG); impersonal passive pugnā-t-um est.
+- Numerals in quotations glossed as digits (CCLXIII → 263). Inscriptional, archaic and medieval quotations: orig keeps the edition's spelling, abbreviations and Leiden brackets; morphemes give the expansion, without macrons. Medieval texts keep their spellings, u/v normalised, no macrons.
+- Spellings: Troia (Wiktionary; the Aeneid edition prints Trōiae), vēxillum, cognōmen (A&G cōgnōmen), Tyrius, iūxtā. Kalendae, Nōnae, Īdūs capitalised from 07-11 (part 1 has lower-case kalendae).
+- Inscription texts: EDCS unreachable through the proxy; texts from Latin Wikipedia (Scipionum elogia, CIL VI 1285, 1287), German Wikipedia (Caeliusstein, CIL XIII 8648) and The Latin Library epitaphs (CLE numbers). Expansions of V. A., F. C., V. S. L. M., S. T. T. L. come from a course page found by search: verifier to confirm. Bennett 1918 §§361–373 and A&G §§611–616 (versification, archive.org OCR) cited.
+- For part 8: 07-08 already scans Aeneid 1.1, 1.2, 1.3, 1.7 and 1.11 (07-06 glosses 1.4), so the capstone can point back. 07-09 uses Ovid Amores 1.1.1–4 and Catullus 101.1–2; 07-15 uses Catullus 101.9–10 and Gallic War 1.7.3–5. Magna Carta and Genesis 1 kept for part 8.

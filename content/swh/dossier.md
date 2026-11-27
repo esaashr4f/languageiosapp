@@ -455,3 +455,14 @@ Translations are always our own.
 - Proverbs used in part 6 (add to the list): Mbwa abwekae haumi; Usipoziba ufa utajenga ukuta; Aliye kando haangukiwi na mti. Unused: mtaka cha mvunguni sharti ainame; mchumia juani hulia kivulini; mwosha huoshwa.
 - Previews used for part 7: PASS (kimefungwa, isiyofungwa, haangukiwi, utaadhibiwa), APPL (haangukiwi, -hamia, -andikia, -pigia). Introduced whole, do not re-list: -pendeza, -elekeza, -washa, -kimbilia, -jificha, -fahamisha, -hakikisha, -kumbusha, -burudisha, -lisha, -kopesha, -lainisha, -kamilisha, -thibitisha, -kosea, -bahatika, -taabika.
 - Thompson & Schleicher PDF has no text layer for this drafter's tools (earlier drafters read it): use page images or Almasi if text extraction fails.
+
+
+## Notes from verifying part 6 (2026-11-27)
+
+- daktari is glossed doctor.C5 everywhere (class 5/6 in form, madaktari). yatima: 5/6, plural mayatima, class 1/2 agreement.
+- Almasi negates place relatives (-po-/-ko-/-mo-) with mahali + amba- in all tenses; time relatives with -sipo- (present) or wakati ambapo (past, future).
+- Reported speech backshift (Almasi table 39.1): -me- → -likuwa -mesha-.
+- kwa vile: Almasi glosses it "because of this" in their example; teach kwa kuwa for "because" + clause.
+- Wikipedia's Wakao hapa is the short spelling of wakaao.
+- Still unsourced after a wide search: -wahi "once" (Aliwahi kuishi …) and kabla + -ja-. Searched: Wiktionary, Madan 1903, Polomé 1967 (ERIC ED012888, has a text layer), Almasi, T&S (auxiliaries pp. 237–248).
+- T&S offsets: printed 197 = PDF 189; printed 240–248 = PDF 228–236.

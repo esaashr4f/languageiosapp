@@ -169,7 +169,7 @@
    "state": "verified"
   },
   "swh-05-04": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-05-05": {
    "state": "verified"
@@ -196,52 +196,52 @@
    "state": "verified"
   },
   "swh-06-01": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-02": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-03": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-04": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-05": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-06": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-07": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-08": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-09": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-10": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-11": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-12": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-13": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-14": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-15": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-06-16": {
-   "state": "drafted"
+   "state": "verified"
   },
   "swh-07-01": {
    "state": "planned"

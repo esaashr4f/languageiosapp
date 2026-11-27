@@ -45,3 +45,16 @@ Worked answers checked: 134   corrected: 1
 Corrections (summary): -ovu with classes other than 1/2 now stated as disputed (Wikipedia and Wiktionary vs Polomé, Wiktionary's own jicho ovu); Almasi's rafiki thelathini na nne stated as N-class agreement against Polomé's class 2 rule (guide follows Polomé); pili and mosi as inherited words, not "old forms"; tarehe mosi not attributed to Almasi (who gives tarehe moja / ya kwanza); kasorobo added (saa sita kasorobo usiku, Almasi pp. 210–211); kuliko yeyote no longer attributed to Almasi; Thompson & Schleicher cited by printed page (p. 320); au … au not in Polomé or Almasi (ama … ama recommended); kijumba from jumba + ki- (Wiktionary); review answer 16 kwa shangazi yangu.
 
 Still open: swh-05-04 example glosses not reviewed (STATUS left at drafted for that lesson); -tatu, -nne, -tano, -nane class forms checked against Almasi table 18.1 only; Wiktionary's -enye class 4 wenye probably a table error; Polomé's note on njema not re-located.
+
+
+### Part 6 — verified 2026-11-27 by fresh subagent
+Lessons checked: swh-06-01 to swh-06-16 (reviews 06-08, 06-16), plus the example glosses of swh-05-04 (no change needed; 05-04 now verified)
+Forms checked: 275   corrected: 5   left unverified: 1
+Glosses checked: 171   corrected: 8
+Attested quotations checked: 76   corrected: 6
+Claims checked: 40   corrected or removed: 14
+Worked answers checked: 171   corrected: 3
+
+Corrections (summary): present negative has a -si- relative (amba- obligatory only outside positive -na-/-li-/-ta-); daktari glossed doctor.C5 throughout; yatima 5/6 with class 1/2 agreement; ujuzi C14; negative place relatives use mahali + amba- (Almasi); Almasi quotations restored exactly (kwamba sentence, magoma, backshift -me- → -likuwa -mesha-, "after" marked); kwa vile means "because of this" in Almasi's sentence; *Ukija, hautamwona unstarred and corrected to hutamwona; unsourced Arabic, English and -wahi "hurry" claims removed; page numbers fixed.
+
+Still open: Aliwahi kuishi Mombasa (-wahi "once") still unverified after Wiktionary, Madan 1903, Polomé 1967, Almasi and T&S; kabla + -ja- still unverified; "many proverbs open with such a form" unsourced.

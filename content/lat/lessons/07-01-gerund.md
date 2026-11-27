@@ -21,7 +21,7 @@ The gap is filled by the **gerund**: a verbal noun that has the other cases. A *
 
 The gerund is still a verb on the inside. It can have an adverb (*bene disserendī* "of discussing well") and it can have an object in the case its verb takes (*salūtem dandō* "by giving safety"). Outside, it is a noun, and some other word governs its case.
 
-Allen and Greenough explain the gerund as the neuter of an adjective, the gerundive, used as a noun (ag1903 §501). The gerundive (lesson 2) is the older construction (ag1903 §503, footnote). How the *-nd-* suffix itself arose is not explained here.
+Allen and Greenough explain the gerund as the neuter of an adjective, the gerundive, used as a noun (ag1903 §501). The gerundive (lesson 2) is probably the original construction (ag1903 §503, footnote). How the *-nd-* suffix itself arose is not explained here.
 
 ## How it is built
 
@@ -35,7 +35,7 @@ The gerund is built on the present stem, not the supine. So verbs with no supine
 
 Deponents have an active gerund, like their active forms: *loquendī* "of speaking", *sequendī* "of following", *pābulandī* "of foraging".
 
-Older and legal Latin often has *-und-* in the third and fourth conjugations: *faciundī*, *dēdūcundīs* (ag1903 §179c, footnote; §505b). Read it as *-end-*.
+Older and legal Latin often has *-und-* in the third and fourth conjugations: *faciundī*, and in the gerundive *dēdūcundīs* (ag1903 §179, footnote; §505b). Read it as *-end-*.
 
 **Choosing the case.** Ask what the noun "doing" is doing in the sentence.
 
@@ -153,7 +153,7 @@ confidence: constructed
 
 ## Where it applies
 
-- **Genitive after a noun**: *ars scrībendī*; *cōnsilium fugiendī* "a plan of escaping"; *occāsiō pugnandī* "a chance to fight"; *facultās dīcendī* "the ability to speak". Allen and Greenough quote Cicero, *vīvendī est fīnis optimus* "the best end of living is …" (On Old Age 72; ag1903 §504).
+- **Genitive after a noun**: *ars scrībendī*; *cōnsilium fugiendī* "a plan of escaping"; *occāsiō pugnandī* "a chance to fight"; *facultās dīcendī* "the ability to speak". Allen and Greenough quote Cicero, *vīvendī est fīnis optimus* "the best end of living is …" (On Old Age 72; ag1903 §504 prints the words in the order *vīvendī fīnis est optimus*).
 - **Genitive after an adjective**: *cupidus vincendī*, *perītus nāvigandī* "skilled in sailing" (part 5, lesson 9).
 - **Genitive + *causā* or *grātiā***, for purpose: *pābulandī causā*, *simulandī grātiā* "in order to deceive" (Sallust, quoted in ag1903 §504b). *Pābulandī causā* is also attested in Caesar, Civil War 1.80. This is one of the ways to say purpose promised in part 6, lesson 7.
 - **Accusative after *ad***, for purpose: *ad scrībendum*, *ad lūdendum*. Rarely after *inter* "while": *inter agendum* "while you are driving them" (Vergil, Eclogues 9.24).

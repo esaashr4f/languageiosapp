@@ -85,7 +85,7 @@ confidence: attested
 
 **Spelling.** Every word ending in classical *-ae* here ends in *-e*: *terre*, *Anglie*, *Hibernie*. Read them as genitives.
 
-**Building clause 40 from meaning to form.** The king wants to promise three things about justice. "We will sell": future of *vendō*, a third-conjugation verb, so *-ē-* + *-mus*: *vendēmus*. "We will deny": *negō*, first conjugation, *-bi-*: *negābimus*. "We will delay": *differō*, an irregular compound of *ferō*, but its future is regular: *differēmus*. "To no one": the dative *nūllī*, because selling and denying are done *to* someone (part 3). The objects, "right or justice", are accusatives shared by all three verbs and put at the end, where they land with most weight.
+**Building clause 40 from meaning to form.** The king wants to promise three things about justice. "We will sell": future of *vendō*, a third-conjugation verb, so *-ē-* + *-mus*: *vendēmus*. "We will deny": *negō*, first conjugation, *-bi-*: *negābimus*. "We will delay": *differō*, an irregular compound of *ferō*, but its future is regular: *differēmus*. "To no one": the dative *nūllī*, because selling and denying are done *to* someone (part 3). The objects, "right or justice", are accusatives shared by all three verbs, so they come once, after the last of them.
 
 ## Questions
 

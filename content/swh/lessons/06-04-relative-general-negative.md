@@ -15,13 +15,13 @@ sources: [almasi2014, wpgrammar, wiktionary, proverbs]
 
 The relatives of lesson 6.2 are tied to a time: *aliyekuja* "who came", *anayekuja* "who is coming", *atakayekuja* "who will come". Sometimes you want no time at all: "a dog **that barks**" in general, "animals **that eat** grass", "the people **who sit** here" as a habit. For this Swahili has a relative with **no tense marker**, the **general relative**.
 
-Its shape is unusual. With no tense marker, the slot where the relative marker normally sits is gone, so the o of reference moves to the **end** of the verb, after the final vowel: *a-sema-**ye*** "who says", *wa-kaa-**o*** "who sit, who live". Almasi and colleagues (p. 299) describe it as a present with the *-na-* removed and the relative "attached as a suffix". Wikipedia's grammar article: it is used "when expressing a general meaning or a habit", and gives *Wakaao hapa* "the ones who (usually) sit here".
+Its shape is unusual. With no tense marker, the slot where the relative marker normally sits is gone, so the o of reference moves to the **end** of the verb, after the final vowel: *a-sema-**ye*** "who says", *wa-kaa-**o*** "who sit, who live". Almasi and colleagues (p. 299) describe it as a present with the *-na-* removed and the relative "attached as a suffix". Wikipedia's grammar article: it is used "when expressing a general meaning or a habit", and gives *Wakao hapa* "the ones who (usually) sit here" (from *-kaa*; the full spelling is *wakaao*).
 
 The general relative belongs above all to proverbs, sayings, titles and careful writing. A famous proverb uses it:
 
 *Mbwa abwekae haumi* "a dog that barks doesn't bite" (Wiktionary). *Abwekae* is *a-bweka-ye*, written without its y, as often happens after *a*.
 
-The second form in this lesson answers a gap left by lesson 6.2: how to say "who does **not**". The **negative relative** puts *-si-* where the tense marker would be, and the relative marker after it: *a-**si-ye**-jua* "who does not know". Like the general relative, it has no tense of its own. Almasi and colleagues (p. 297) give it as the negative of the *-na-* relative (*watoto wanaocheka* → *watoto wasiocheka* "children who don't laugh") and of the general relative (*apandaye* → *asiyepanda*).
+The second form in this lesson answers a gap left by lesson 6.2: how to say "who does **not**". The **negative relative** puts *-si-* where the tense marker would be, and the relative marker after it: *a-**si-ye**-jua* "who does not know". Like the general relative, it has no tense of its own. Almasi and colleagues (pp. 298, 300) give it as the negative of the *-na-* relative (*watoto wanaocheka* → *watoto wasiocheka* "children who don't laugh") and of the general relative (*apandaye* → *asiyepanda*).
 
 You have met this *-si-* + relative before, as a preview. *Usipokuja* "if you don't come" (lesson 4.14) is the negative relative with the class 16 marker *-po-*. Lesson 6.12 returns to it.
 
@@ -155,7 +155,7 @@ preview: FOC
 :::example
 orig: Yatima asiye na mzazi anaishi na shangazi yake.
 morphemes: yatima a-si-ye na m-zazi a-na-ishi na shangazi y-ake
-gloss: orphan.C1 C1.SM-NEG-C1.REL with C1-parent C1.SM-PRS-live with aunt.C9 C9-his.her
+gloss: orphan.C5 C1.SM-NEG-C1.REL with C1-parent C1.SM-PRS-live with aunt.C9 C9-his.her
 translation: The orphan who has no parent lives with her aunt.
 note: asiye na "who has no": the negative relative of "have", taught fully in lesson 6.5. Here it shows -si- + -ye with no verb root.
 source: constructed
@@ -230,7 +230,7 @@ As in lesson 6.2, the table shows shapes; put any verb in place of *-soma*.
 pori | - | noun | the wild, bush, wilderness | 5/6, pl. mapori; porini "in the wild"
 kiziwi | - | noun | deaf person | 7/8, pl. viziwi; agreement 1/2
 bubu | - | noun | mute person | 5/6, pl. mabubu; agreement 1/2
-yatima | - | noun | orphan | 1/2, pl. mayatima; loan from Arabic
+yatima | - | noun | orphan | 5/6, pl. mayatima; agreement 1/2; loan from Arabic
 mjinga | - | noun | fool, ignorant person | 1/2, pl. wajinga
 mwongo | - | noun | liar | 1/2, pl. waongo
 uongo | - | noun | lie, falsehood | 11, no plural

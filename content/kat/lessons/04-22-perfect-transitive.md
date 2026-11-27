@@ -30,7 +30,7 @@ The **perfect** is the first screeve of series III. In form it brings two surpri
 3. The vowel: *i-* after *m-*, *g-*, *gv-*; *u-* for the third person.
 4. The stem, and an ending. Bolkvadze and Kiziria's two main types:
    - most verbs: stem + *-ia*: *da-m-i-c̣er-i-a*, *ga-m-i-ḳet-eb-i-a* "I have done", *še-m-i-č̣am-i-a* "I have eaten" (Wiktionary)
-   - verbs in *-av* and *-am*: stem with the suffix + *-s*: *da-m-i-xaṭ-av-s* "I have drawn", *c̣a-m-i-ḳitx-av-s* "I have read" (Wiktionary). Bolkvadze and Kiziria note that these also have forms in *-ia* (*damixaṭia*), less often.
+   - verbs in *-av* and *-am*: stem with the suffix + *-s*: *da-m-i-xaṭ-av-s* "I have drawn", *c̣a-m-i-ḳitx-av-s* "I have read" (Wiktionary). Bolkvadze and Kiziria add that these verbs very often drop the suffix and take *-ia* instead (*damixaṭia*, *šemisvia*); Wiktionary's tables give the *-av-s* forms.
 5. For a plural doer "you all" and "they", add *-t*: *dagic̣eriat*, *dauc̣eriat*; *dauxaṭavt* (Wiktionary).
 
 The thematic suffix *-eb* stays when the root has a vowel (*a-u-šen-eb-i-a* "has built"); other suffixes drop or stay as the vocabulary notes show (they give the perfect of every verb).
@@ -39,7 +39,7 @@ The thematic suffix *-eb* stays when the root has a vowel (*a-u-šen-eb-i-a* "ha
 
 **Cases.** Series III: the doer dative, the thing done nominative. Bolkvadze and Kiziria's sentence: *bavšvs saxli dauxaṭavs* "the child has painted a house". An indirect object of the other series moves into a phrase with *-tvis*: Bolkvadze and Kiziria's *ḳacs saxli aušenebia švilistvis* "the man has built a house for his son". That is the topic of lesson 7-4; until then this guide's perfects have no third participant.
 
-**Glossing.** As the dossier fixes: *da-m-i-c̣er-i-a* `PV-1SG.OBJ-OV-write-PRF-3SG.SBJ`; for the *-av* type, *da-m-i-xaṭ-av-s* `PV-1SG.OBJ-OV-draw-TS-3SG.SBJ`, with "perfect" in the note.
+**Glossing.** This guide glosses *da-m-i-c̣er-i-a* `PV-1SG.OBJ-OV-write-PRF-3SG.SBJ`; for the *-av* type, *da-m-i-xaṭ-av-s* `PV-1SG.OBJ-OV-draw-TS-3SG.SBJ`, with "perfect" in the note.
 
 **A chain of thought** for "the children have (apparently) eaten the whole cake":
 
@@ -202,7 +202,7 @@ source: wiktionary (დაწერს, ხატავს, თამაშო�
 ახსოვს | axsovs | verb | remembers | class 4; 1SG მახსოვს; imperf. ახსოვდა; fut. ემახსოვრება (lingua.ge)
 ივიწყებს | ivic̣q̇ebs | verb | forgets | class 1; fut. დაივიწყებს; aor. დაივიწყა; pf. დაუვიწყია or დაუვიწყებია; masdar დავიწყება (lingua.ge)
 ჩანს | čans | verb | is visible; seems, turns out | present screeves; also მოჩანს "can be seen" (bolkvadze2023 §9.6.1.2.1)
-ეტყობა | eṭq̇oba | verb | it seems, it shows (that) | present; used like "apparently" |
+ეტყობა | eṭq̇oba | verb | it seems, it shows (that) | present; used like "apparently"; Bolkvadze and Kiziria list როგორც ეტყობა "it seems" among parentheticals of supposition
 ეკლესია | eḳlesia | noun | church |
 კრება | ḳreba | noun | meeting, assembly |
 შეხვედრა | šexvedra | noun | meeting; get-together |

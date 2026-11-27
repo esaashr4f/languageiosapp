@@ -23,7 +23,7 @@ They take the idea of san-03-14 one step further. The ṛ-stems had a strong and
 
 The nominative singular loses its *n* too, leaving *rājā*, *ātmā* (masculine) and *nāma*, *karma* (neuter).
 
-Whitney (§311a) gives the grades their names and connects them with the old accent: where the ending was stressed, the stem shrank most. So *rājānam* (strong), *rājabhiḥ* (middle), *rājñā* (weakest) are one word at three strengths. You saw the same three levels in the vowels of san-03-11; here they belong to a whole suffix.
+Whitney (§311a) gives the grades their names and puts the distinction "in evident connection with the phenomena of accent". So *rājānam* (strong), *rājabhiḥ* (middle), *rājñā* (weakest) are one word at three strengths. You saw the same three levels in the vowels of san-03-11; here they belong to a whole suffix.
 
 ## How it is built
 
@@ -210,7 +210,7 @@ confidence: attested
 
 **Do not confuse the accusative plural with the nominative plural.** *rājānaḥ* (strong) is nominative; *rājñaḥ* (weakest) is accusative plural, and also ablative and genitive singular.
 
-**Do not give the reflexive the subject's gender or number.** *\*sā ātmanīṃ rakṣati*, *\*vayam ātmanaḥ rakṣāmaḥ* (meaning "ourselves") are wrong. The reflexive is masculine singular: *sātmānaṃ rakṣati*, *vayam ātmānaṃ rakṣāmaḥ*.
+**Do not give the reflexive the subject's gender or number.** *\*sā ātmanīṃ rakṣati*, *\*vayam ātmanaḥ rakṣāmaḥ* (meaning "ourselves") are wrong. The reflexive is masculine singular (Whitney §514a: the singular, "extremely rarely" another number): *sātmānaṃ rakṣati*, *vayam ātmānaṃ rakṣāmaḥ*.
 
 **Do not use *svayam* as an object.** *\*svayaṃ paśyati* means "he sees in person", not "he sees himself". For the object, use *ātmānam*.
 
@@ -272,7 +272,7 @@ source: wiktionary नामन्, कर्मन्; whitney1889 §§421, 424
 
 ## Connections
 
-Latin *nomen*, *nominis* (Spanish *nombre*, French *nom*) is the cousin of *nāman*, and shows the same alternation of a full and a reduced suffix (*nō-men*, *nō-min-is*). Latin *homo*, *hominis* has lost its *n* in the nominative exactly as *rājā* has. The Spanish and French reflexive *se* does the work of *ātmānam* in the third person (*ella se protege*, "she protects herself", *sātmānaṃ rakṣati*); Sanskrit uses *ātmānam* for every person, where Spanish says *me*, *te*, *nos*.
+Latin *nomen*, *nominis* (Spanish *nombre*, French *nom*) is the cousin of *nāman*. Latin *homo*, *hominis* has lost its *n* in the nominative exactly as *rājā* has. The Spanish and French reflexive *se* does the work of *ātmānam* in the third person (*ella se protege*, "she protects herself", *sātmānaṃ rakṣati*); Sanskrit uses *ātmānam* for every person, where Spanish says *me*, *te*, *nos*.
 
 ## Exercises
 

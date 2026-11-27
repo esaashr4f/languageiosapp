@@ -31,7 +31,7 @@ Why the genitive? The sources used here do not say; treat it as a fact of these 
 
 1. **Find the noun phrase**: "my friend": *arkadaşım*.
 2. **Is it one of the eight pronouns?** If so, put it in the genitive (*benim*, *senin*, *onun*, *bizim*, *sizin*, *bunun*, *şunun*, *kimin*). If not, leave it bare, whatever it is: a common noun, a name, a plural, a possessed noun. *Arkadaşım* stays as it is.
-3. **Add the postposition after it, as a separate word**: *arkadaşım için* "for my friend". It never changes: no harmony, no suffixes (goksel2005 §17.2).
+3. **Add the postposition after it, as a separate word**: *arkadaşım için* "for my friend". It never changes: no harmony, no suffixes (goksel2005 §17.2). Only *ile* also has a suffix form, *-(y)lA* (tur-03-13).
 4. **Put the whole phrase where an adverb or adjective goes.** A *gibi* or *kadar* phrase can stand before a noun like an adjective: *senin gibi bir öğrenci* "a student like you". All four can stand before the verb like an adverb: *senin gibi konuşuyor* "he talks like you".
 
 **What each one means.**
@@ -96,7 +96,7 @@ confidence: constructed
 orig: Senin gibi bir arkadaşım yok.
 morphemes: sen-in gibi bir arkadaş-ım yok
 gloss: 2SG-GEN like a friend-1SG.POSS nonexistent
-translation: I have no other friend like you.
+translation: I don't have a friend like you.
 note: A gibi phrase before bir and a noun works like an adjective.
 source: constructed
 confidence: constructed
@@ -223,7 +223,7 @@ aslan | - | noun | lion |
 bulut | - | noun | cloud | acc. bulutu
 rüya | - | noun | dream | 
 sahil | - | noun | coast, shore, seaside | from Arabic
-dost | - | noun | (close) friend | acc. dostu
+dost | - | noun | (close) friend | acc. dostu; from Persian; TDK also gives "lover" (outside marriage)
 hayvan | - | noun | animal | 
 :::
 

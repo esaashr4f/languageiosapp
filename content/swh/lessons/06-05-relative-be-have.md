@@ -68,7 +68,7 @@ Lesson 5.6 taught *kuliko* "than" as one word and promised to take it apart. It 
 :::example
 orig: Daktari aliye pia mwandishi ameandika riwaya.
 morphemes: daktari a-li-ye pia mw-andishi a-me-andik-a riwaya
-gloss: doctor.C9 C1.SM-be-C1.REL also C1-writer C1.SM-PRF-write-FV novel.C9
+gloss: doctor.C5 C1.SM-be-C1.REL also C1-writer C1.SM-PRF-write-FV novel.C9
 translation: The doctor who is also a writer has written a novel.
 note: aliye "who is": the old root -li "be", not the past tense.
 source: constructed
@@ -130,7 +130,7 @@ confidence: constructed
 :::example
 orig: Mtu asiye na ujuzi hawezi kufanya kazi hii.
 morphemes: m-tu a-si-ye na u-juzi ha-wez-i ku-fany-a kazi hii
-gloss: C1-person C1.SM-NEG-C1.REL with C11-knowledge NEG.C1.SM-can-NEG INF-do-FV work.C9 this.C9
+gloss: C1-person C1.SM-NEG-C1.REL with C14-knowledge NEG.C1.SM-can-NEG INF-do-FV work.C9 this.C9
 translation: A person who has no know-how can't do this job.
 note: asiye na "who has no". Wiktionary classes ujuzi as XI (this guide's 11 or 14: it is an abstract).
 source: constructed
@@ -259,7 +259,7 @@ uzoefu | - | noun | experience | 14, no plural; from -zoea
 
 ## Connections
 
-The *-li* "be" root is a fossil, like the English "-s" of "he is" against "be": an old verb surviving only in a corner of the system. Spanish speakers can think of *el que está en la mesa* "the one who is on the table": Swahili *kilicho mezani* packs *el que está* into one word. Arabic *allaḏī ʕinda-hu māl* "who has money", literally "who with-him money", has the same "be with" idea of "have" as *walio na pesa*.
+The *-li* "be" root is a fossil, a little like English *is* and *am* beside *be*: forms of an old verb surviving only in a corner of the system. Spanish speakers can think of *el que está en la mesa* "the one who is on the table": Swahili *kilicho mezani* packs *el que está* into one word. Arabic *allaḏī ʕinda-hu māl* "who has money", literally "who with-him money", has the same "be with" idea of "have" as *walio na pesa*.
 
 ## Exercises
 
@@ -283,4 +283,4 @@ The *-li* "be" root is a fossil, like the English "-s" of "he is" against "be": 
 6. *Aliye* already means "who is": *mwananchi aliye mwanachama*.
 7. *Kadi* class 9: *kadi niliyo nayo*. *Na* needs its reference form.
 8. *Aliyekuwa mwanachama* (past, *kuwa*); *aliye mwanachama* (present, *-li*).
-9. *Ku-li-ko*: class 17 subject prefix, root *-li* "be", class 17 relative *-ko*: "where there is". "Tall where Ali is" came to mean "taller than Ali". Lessons 5.6 and 6.5.
+9. *Ku-li-ko*: class 17 subject prefix, root *-li* "be", class 17 relative *-ko*: "where there is". Read word for word it is "tall where Ali is"; Swahili uses it for "taller than Ali". Lessons 5.6 and 6.5.

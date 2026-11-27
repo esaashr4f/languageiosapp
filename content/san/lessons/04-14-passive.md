@@ -197,7 +197,7 @@ confidence: attested
 
 ## Watch out
 
-**Do not use active endings on the passive stem.** *\*kriyati*, *\*dīyati* are wrong in Classical prose; the passive takes middle endings: *kriyate*, *dīyate* (Monier-Williams notes epic *-ti* forms; san-07-08).
+**Do not use active endings on the passive stem.** *\*kriyati*, *\*dīyati* are wrong in Classical prose; the passive takes middle endings: *kriyate*, *dīyate* (Whitney §774 notes active endings on passives in the epics; san-07-08).
 
 **Do not use the present-class stem.** *\*karoyate*, *\*dadīyate*, *\*gacchyate* are wrong. The passive goes on the root: *kriyate*, *dīyate*, *gamyate* (Whitney §768).
 
@@ -250,7 +250,7 @@ source: whitney1889 §§768–774; wiktionary (passive columns of गच्छ�
 
 ## Connections
 
-Latin also has a separate passive with its own endings (*dīcitur* "is said", *amātur* "is loved"), and uses impersonal passives of intransitive verbs as Sanskrit does: *ītur* "it is gone, people go". Spanish and French build the passive with "be" + participle (*es dicho*, *est dit*) or with a reflexive (*se dice*, *on dit*), which is closer to Sanskrit's impersonal use. Korean and Japanese passives (*-rareru*) are much rarer than Sanskrit's.
+Latin also has a separate passive with its own endings (*dīcitur* "is said", *amātur* "is loved"), and uses impersonal passives of intransitive verbs as Sanskrit does: *ītur* "it is gone, people go". Spanish and French build the passive with "be" + participle (*es dicho*, *est dit*) or with a reflexive (*se dice*, *on dit*), which is closer to Sanskrit's impersonal use.
 
 ## Exercises
 

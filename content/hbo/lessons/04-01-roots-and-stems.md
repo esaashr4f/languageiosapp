@@ -13,11 +13,11 @@ sources: [gkc1910, oshb, bdb]
 
 ## The idea
 
-Part 3 showed how nouns are built: a root and a pattern of vowels, prefixes and endings. Verbs are built the same way, and part 4 is about them. First the large picture, which organises everything else.
+Part 3 showed how nouns are built: a root and a pattern of vowels, prefixes and endings. Verbs are built the same way, and part 4 is about them. First the large picture.
 
-A Hebrew verb root does not have one set of forms. It can be poured into up to seven **stems**. A stem is a fixed pattern for the whole verb, with its own vowels, sometimes a prefix, sometimes a doubled letter, that changes what the root means in a regular way. The root *k-b-d* means "heavy". In the plain stem it means "be heavy". With the middle letter doubled it means "make weighty, honour". With a prefix *h-* it means "make heavy". The root stays; the stem says how the idea is applied.
+A Hebrew verb root does not have one set of forms. It can be poured into up to seven **stems**. A stem is a fixed pattern for the whole verb, with its own vowels, sometimes a prefix, sometimes a doubled letter, that changes what the root means in a regular way. The root *k-b-d* means "heavy". In the plain stem it means "be heavy". With the middle letter doubled it means "make weighty, honour". With a prefix *h-* it means "make heavy". The root stays; the stem applies it.
 
-The Jewish grammarians called the stems *binyanim*, from *b-n-h* "build"; Gesenius renders the word "formations" (§39c). English grammars also say "conjugations", which is confusing, because a conjugation in Latin or Spanish is a class of verbs. In Hebrew one verb can appear in several stems. This guide says "stem" and uses the Hebrew names.
+The Jewish grammarians called the stems *binyanim*, from *b-n-h* "build"; Gesenius renders the word "formations" (§39c). English grammars also say "conjugations", confusingly: in Latin or Spanish a conjugation is a class of verbs. In Hebrew one verb can appear in several stems. This guide says "stem" and uses the Hebrew names.
 
 Why does Hebrew work like this? Because a root is not a word but a set of consonants carrying an idea, made into words by patterns (lesson 0.2), as with *meleḵ* "king", *malkâ* "queen", *malḵûṯ* "kingship". Verbs do it more regularly. Gesenius notes that other languages have traces of the same thing, as in English *fall* and *fell*, *lie* and *lay*, but that in Hebrew the derived forms are "incomparably more regular and systematic" (§39c–d).
 

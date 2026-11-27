@@ -13,9 +13,9 @@ sources: [gkc1910, oshb, bdb]
 
 ## The idea
 
-You now have four finite forms: qatal, yiqtol, wayyiqtol and weqatal. In prose, you can translate nearly every one of them correctly with the rules of lessons 4.2 to 4.5. What you cannot do is name the system in one word, as you would say "Spanish has a past tense and a future tense". Scholars have argued about this for centuries, and the argument is not over.
+You now have four finite forms: qatal, yiqtol, wayyiqtol and weqatal. In prose, you can translate nearly every one of them correctly with the rules of lessons 4.2 to 4.5. What you cannot do is name the system in one word, as you would say "Spanish has a past tense and a future tense". Scholars have argued about this for centuries.
 
-This lesson sets out the main views and the facts each must explain. The aim is not to choose a winner but to keep you from being misled by any one set of labels.
+This lesson sets out the main views and the facts each must explain. The aim is not to choose a winner but to keep any one set of labels from misleading you.
 
 The key point first: **the dispute is about the system, not about most sentences.** Nobody doubts that *wayyōʾmer* in a story means "and he said", that *lōʾ tiḡnōḇ* means "you shall not steal", or that *lēḵ wəʾāmartā* means "go and say". The arguments are about why the forms work as they do, and about the less common uses.
 
@@ -47,9 +47,9 @@ A third approach starts from the text, not the single verb. It observes that in 
 
 ### View 4: history
 
-The fourth view asks where the forms came from. Comparative grammar of the Semitic languages reconstructs an old short prefix form that served both as a past, "he buried", and as a wish, "may he bury". Akkadian keeps it as its ordinary past, *iqbir* "he buried"; Encyclopaedia Britannica's survey of Semitic verbs lists it as the "jussive/preterite" (*Semitic languages: verbal morphology*). Many scholars take the wayyiqtol to be that old past form, preserved after *wa-*: on this view it is not a converted yiqtol at all, and this is why it uses the same short stems as the Hebrew jussive (*wayhî*, *yəhî*). Britannica's survey does not itself discuss the wayyiqtol, and it describes the Hebrew yiqtol as continuing "the old modal form", comparing *yi-qbor* with the Geʿez modal *yə-qbər*; so the history of the long and short prefix forms is less settled than this view can make it sound. The same construction appears outside the Bible: Gesenius notes it in the Moabite inscription of King Mesha and in an Aramaic inscription from Hamath (§49a, note).
+The fourth view asks where the forms came from. Comparative grammar of the Semitic languages reconstructs an old short prefix form that served both as a past, "he buried", and as a wish, "may he bury". Akkadian keeps it as its ordinary past, *iqbir* "he buried"; Encyclopaedia Britannica's survey of Semitic verbs lists it as the "jussive/preterite" (*Semitic languages: verbal morphology*). Many scholars take the wayyiqtol to be that old past form, preserved after *wa-*: on this view it is not a converted yiqtol at all, and this is why it uses the same short stems as the Hebrew jussive (*wayhî*, *yəhî*). Britannica does not discuss the wayyiqtol, and it derives the Hebrew yiqtol itself from "the old modal form" (*yi-qbor* beside Geʿez *yə-qbər*), so the history of the two prefix forms is less settled than this view suggests. The same construction appears outside the Bible: Gesenius notes it in the Moabite inscription of King Mesha and in an Aramaic inscription from Hamath (§49a, note).
 
-This explains fact 3 well. It is a historical account, not a description of how readers of Genesis felt the forms, and its details are debated. Gesenius, writing before this view was common, explained the short forms by the stress pulled forward onto the *wa-*, and warned against "supposing an intimate relation" between wayyiqtol and jussive (§49g). The guide records this as a point on which sources disagree.
+This explains fact 3 well, but it is a historical account, not a description of how readers of Genesis felt the forms. Gesenius, writing before this view was common, explained the short forms by the stress pulled forward onto the *wa-*, and warned against "supposing an intimate relation" between wayyiqtol and jussive (§49g). The guide records this as a point on which sources disagree.
 
 ### How this guide proceeds
 

@@ -95,3 +95,4 @@ Every judgement call, dated, one line each. Newest at the bottom.
 - 2026-11-27 (owner's instruction): Added Hakka (218, hak, depth B) as a full guide: Sixian Hakka of Taiwan, with Meixian noted. Total: 218 guides.
 - 2026-11-27 (owner's instruction): Shanghainese (Wu, wuu) added as a companion part after Mandarin.
 - 2026-11-27: Turkish part 5 verification found about 14 example sentences copied from Göksel & Kerslake and replaced them. At the pilot gate, scan every pilot guide's examples for verbatim copies from the owner's books (no-copying rule).
+- 2026-11-27 (owner's instruction): Classical and Quranic Arabic added as a companion part after Modern Standard Arabic (private-use code qca): Uthmani spelling, pausal forms, tajwīd, older vocabulary and style, readings from short suras and pre-Islamic poetry; scripture handled with respect, translations given as translations of meaning.

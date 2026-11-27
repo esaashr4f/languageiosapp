@@ -99,7 +99,16 @@
    "iso": "arb",
    "group": "Major living",
    "script": "Arabic",
-   "depth": "A"
+   "depth": "A",
+   "companions": [
+    {
+     "name": "Classical and Quranic Arabic",
+     "iso": "qca",
+     "part": 10,
+     "description": "What differs from Modern Standard Arabic: the Uthmani spelling and its signs, pausal forms, tajwīd (recitation), older vocabulary and constructions, rhymed prose; readings from short suras (al-Fātiḥa) and pre-Islamic poetry. Scripture handled with respect; translations given as translations of meaning.",
+     "iso_note": "No ISO 639-3 code of its own (arb covers Standard Arabic); private-use qca."
+    }
+   ]
   },
   {
    "number": 12,

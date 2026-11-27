@@ -134,7 +134,7 @@ translit: hûʾ hēsîr ʾeṯ-habbāmôṯ wəšibbar ʾeṯ-hammaṣṣēḇō
 morphemes: hûʾ hēsîr ʾeṯ ha=bbām-ôṯ wə=šibbar ʾeṯ ha=mmaṣṣēḇ-ōṯ
 gloss: 3SG.M remove.HIPH.QTL.3SG.M OBJ DEF=high.place-PL and=break.PIEL.QTL.3SG.M OBJ DEF=pillar-PL
 translation: He removed the high places and smashed the sacred pillars.
-note: Hezekiah's reform. Piel šibbar "smash, break to pieces" against qal šāḇar "break". wə + qatal for a past series is a feature of the later books (Gesenius §112pp). hēsîr is a hiphil of sûr (lesson 4.24). Preview of HIPH.
+note: Hezekiah's reform. Piel šibbar "smash, break to pieces" against qal šāḇar "break". wə + qatal for a past series is unusual in classical prose; Gesenius traces it to Aramaic influence in late books and suspects such cases in Kings of being later additions (§112pp). hēsîr is a hiphil of sûr (lesson 4.24). Preview of HIPH.
 source: 2 Kings 18:4 (WLC)
 confidence: attested
 preview: HIPH

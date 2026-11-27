@@ -113,7 +113,7 @@ confidence: attested
 
 **The shape of a fable.** Scene (lines 1–3), accusation (4–6), reply (6–8), second accusation (9–10), reply (11), third accusation and the end (12–13), moral (14–15). The wolf's charges grow less plausible each time; the lamb's replies are always true; truth makes no difference.
 
-**Speech in verse.** *Inquit* and *ait* are tucked inside the quoted words, after the first word or phrase (ag1903 §599c). Find the words of the speaker first, then the narrative frame.
+**Speech in verse.** *Inquit* always stands inside the quoted words, after one or more of them (ag1903 §599c), and here *ait* is placed the same way. Find the words of the speaker first, then the narrative frame.
 
 **Names that are descriptions.** The wolf is *latrō*, the lamb *lāniger*. Phaedrus names each animal by a quality instead of repeating the noun.
 

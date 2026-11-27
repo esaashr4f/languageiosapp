@@ -28,7 +28,7 @@ Take a direct speech and change it clause by clause. Allen and Greenough set out
 3. **Commands become subjunctive**, following the sequence; a negative command takes *nē*: *reminīscere* "remember!" becomes *reminīscerētur*; *nōlī dēspicere* "do not despise" becomes *nē dēspiceret* (ag1903 §588).
 4. **Real questions become subjunctive**: *cūr venīs?* "why are you coming?" becomes *cūr venīret?* (§586).
 5. **Rhetorical questions**, which expect no answer, become accusative and infinitive, like statements: *num possum?* "can I?" becomes *num sē posse?* (§586).
-6. **Conditions**: the *sī* clause is subordinate, so subjunctive; the main clause is an infinitive. A contrary-to-fact main clause uses *-ūrum fuisse*, or *fuisse* with an adjective (§589b).
+6. **Conditions**: the *sī* clause is subordinate, so subjunctive; the main clause is an infinitive. A contrary-to-fact main clause uses *-ūrum fuisse*; if the direct main clause was an indicative, as *nōn difficile fuit* "it would not have been hard", it becomes a perfect infinitive, *nōn fuisse difficile* (§589b).
 7. **Persons shift.** "I", "we" and "my", meaning the speaker, become *sē* and *suus*. "You", meaning the person addressed, becomes *is*, *ille*, or the name: *tū* becomes *Caesar*. Words of here and now follow: *hic* tends to become *ille*, *nunc* becomes *tum*.
 
 **The tense of the subjunctives** follows the verb of saying: after *dīxit* the imperfect and pluperfect. Writers sometimes switch to the present and perfect subjunctive to make a long report vivid, as if the speaker were heard now; Allen and Greenough call this ***repraesentātiō*** (ag1903 §585b note). Expect both in the same speech.
@@ -101,7 +101,7 @@ orig: Quī sī alicuius iniūriae sibi cōnscius fuisset, nōn fuisse difficile 
 morphemes: quī sī alicuius iniūri-ae sibi cōnsci-us fuisset nōn fu-isse difficil-e cavē-re
 gloss: REL.NOM.SG.M if some.GEN.SG wrong-GEN.SG REFL.DAT aware-NOM.SG.M be.PLUP.SBJV.3SG not be.PRF-INF difficult-NOM.SG.N beware-INF
 translation: If the Roman people had been aware of having done any wrong, it would not have been hard for them to be on their guard.
-note: A past contrary-to-fact condition: the sī clause keeps its pluperfect subjunctive; the main clause erat becomes fuisse (ag1903 §589b). quī is a connecting relative for populus Rōmānus.
+note: A past contrary-to-fact condition: the sī clause keeps its pluperfect subjunctive; the direct main clause nōn difficile fuit, an indicative, becomes the perfect infinitive fuisse (ag1903 §589b). quī is a connecting relative for populus Rōmānus.
 source: Caesar, Gallic War 1.14.2
 confidence: attested
 :::
@@ -164,7 +164,7 @@ confidence: constructed
 
 **Do not leave the main verbs in the indicative.** *\*Dīxit Helvētiōs ībunt* mixes two systems. Every main statement in reported speech is an infinitive: *itūrōs (esse)*.
 
-**Do not put subordinate clauses in the indicative**, as English and Spanish do: *\*sī pācem faciet* inside a report fails. Use the subjunctive by sequence: *sī pācem faceret*. Allen and Greenough allow the indicative only for a clause the writer adds as his own fact (ag1903 §583).
+**Do not put subordinate clauses in the indicative**, as English and Spanish do: *\*sī pācem faciet* inside a report fails. Use the subjunctive by sequence: *sī pācem faceret*. Allen and Greenough allow the indicative for a clause the writer adds as his own fact, and occasionally where a fact is emphasised (ag1903 §583 and 583a).
 
 **Do not keep the imperative.** *\*Dīxit: reminīscere* is direct speech. In reported speech the command is *reminīscerētur*; *nōlī* becomes *nē* + subjunctive (ag1903 §588 note 2).
 
@@ -176,7 +176,7 @@ confidence: constructed
 
 **Do not translate the vivid present as present time.** When a report after *dīxit* switches to *velint*, *possint*, it is still past for you: translate "they wanted", "they could" (ag1903 §585b).
 
-**Do not expect a contrary-to-fact apodosis to keep its subjunctive.** *Nōn fuisset difficile* becomes *nōn fuisse difficile*; *vēnisset* in a main clause becomes *ventūrum fuisse* (ag1903 §589b).
+**Do not expect a contrary-to-fact apodosis to keep its subjunctive.** An indicative apodosis such as *nōn difficile fuit* becomes *nōn fuisse difficile*; *vēnisset* in a main clause becomes *ventūrum fuisse* (ag1903 §589b).
 
 **Do not expect *inquit* to introduce reported speech.** *Inquit* introduces direct words only (ag1903 §579 note). A report in direct form after *inquit* is ordinary quotation.
 
@@ -194,7 +194,7 @@ source: ag1903 §§580, 585, 586, 588, 589, 590
 | Prohibition: nōlī dēspicere | nē + subjunctive: nē dēspiceret |
 | Real question: cūr venīs? | Subjunctive: cūr venīret? |
 | Rhetorical question: num possum? | Infinitive: num sē posse? |
-| Contrary to fact: nōn fuisset difficile | nōn fuisse difficile |
+| Contrary to fact, indicative apodosis: nōn difficile fuit | nōn fuisse difficile |
 | ego, meus | sē, suus |
 | tū, tuus | is, ille or the name; eius |
 :::
@@ -234,7 +234,7 @@ French and Spanish report speech with a conjunction and an ordinary finite verb 
 7. In example 3, who is meant by *suae* and who by *ipsōs*?
 8. Why does *num … posse?* take the infinitive while *cūr … venīret?* takes the subjunctive?
 9. Correct *\*Dīxit sē venīre sī pācem faciet* and *\*Dīxit: nōlī timēre* (meant as reported speech).
-10. Put into reported speech after *dīxit*: *Nōn fuisset difficile.* What changes and why?
+10. Put into reported speech after *dīxit*: *Nōn difficile fuit*, the main clause of a contrary-to-fact condition ("it would not have been hard"). What changes and why?
 
 ## Worked answers
 
@@ -247,4 +247,4 @@ French and Spanish report speech with a conjunction and an ordinary finite verb 
 7. *Suae* refers to Caesar, the subject of *tribueret*: "his own courage". *Ipsōs* means the Helvetii, the speakers, emphasised: "them themselves".
 8. *Num … posse?* is rhetorical, expecting "no", so it is treated as a statement: accusative and infinitive. *Cūr … venīret?* is a real question and takes the subjunctive (ag1903 §586).
 9. *Dīxit sē ventūrum esse sī pācem faceret*: the main verb is a future infinitive, and the *sī* clause is subjunctive by secondary sequence. *Dīxit nē timēret*: *nōlī* + infinitive becomes *nē* + subjunctive (ag1903 §588 note 2).
-10. *Dīxit nōn fuisse difficile.* The main clause of a contrary-to-fact condition becomes a perfect infinitive; with an adjective, *fuisse* (ag1903 §589b). The subjunctive disappears from the main clause because every main statement in reported speech is an infinitive.
+10. *Dīxit nōn fuisse difficile.* An indicative in the main clause of a contrary-to-fact condition becomes a perfect infinitive (ag1903 §589b); Caesar has exactly this in Gallic War 1.14.2. Every main statement in reported speech is an infinitive.

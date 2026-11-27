@@ -56,7 +56,7 @@ With a short verb, keep *ku*: *asipokuja* "if he doesn't come".
 
 *Kama* takes an ordinary verb in the tense the meaning needs:
 
-- present: *Kama sisomi, sitafaulu* "if I don't study, I won't pass" (Almasi and colleagues, as in lesson 4.14);
+- present: *Kama sisomi, sitafaulu* "if I don't study, I won't pass" (after Almasi and colleagues' *Kama sisomi vizuri, sitafaulu*, as in lesson 4.14);
 - past: *Kama alikuja jana, hakuniona* "if he came yesterday, he didn't see me" (the speaker does not know);
 - with *-ki-*, doubling the "if" for emphasis: *Kama ukija...* (Wikipedia's grammar).
 
@@ -105,7 +105,7 @@ orig: Kama sisomi, sitafaulu.
 morphemes: kama si-som-i si-ta-faulu
 gloss: if NEG.1SG.SM-read-NEG NEG.1SG.SM-FUT-succeed
 translation: If I don't study, I won't pass.
-note: kama + the negative present. Almasi and colleagues' sentence.
+note: kama + the negative present. After Almasi and colleagues' Kama sisomi vizuri, sitafaulu.
 source: constructed
 confidence: constructed
 :::
@@ -190,7 +190,7 @@ preview: PASS
 
 **Do not drop ku after -sipo-.** *\*Asipoja*: *asipokuja*.
 
-**Do not put -sipo- in the result.** *\*Ukija, hautamwona* is fine, but *\*Ukija, usipomwona* has two conditions and no result.
+**Do not put -sipo- in the result.** *Ukija, hutamwona* "if you come, you won't see him" is fine, but *\*Ukija, usipomwona* has two conditions and no result.
 
 **Do not use kama + -ki- + kama.** Pick one "if" (or the emphatic pair once): *Kama ukija, utamwona.*
 

@@ -72,7 +72,7 @@ translit: wayyiśśāʾ ʾaḇrāhām ʾeṯ-ʿênāyw wayyarʾ wəhinnēh-ʾayi
 morphemes: way-yiśśāʾ ʾaḇrāhām ʾeṯ ʿên-āyw way-yarʾ wə=hinnēh ʾayil ʾaḥar neʾĕḥaz ba=ssəḇaḵ bə=qarn-āyw
 gloss: WAYY-lift.3SG.M Abraham OBJ eye.DU-3SG.M WAYY-see.3SG.M and=look ram behind seize.NIPH.QTL.3SG.M in.DEF=thicket in=horn.DU-3SG.M
 translation: (Exercise 5.)
-note: Verse 13a. səḇaḵ "thicket". ʾaḥar "behind" (many read ʾeḥāḏ "one" with some manuscripts; the text is debated).
+note: Verse 13a. səḇaḵ "thicket". ʾaḥar "behind", as WLC reads; the word is awkward here, and translations differ on this line.
 source: Genesis 22:13 (WLC)
 confidence: attested
 :::

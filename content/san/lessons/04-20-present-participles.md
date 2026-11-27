@@ -106,12 +106,12 @@ confidence: constructed
 :::
 
 :::example
-orig: यत्नं कुर्वञ् शिष्यो ज्ञानं लभते
-translit: yatnaṃ kurvañ śiṣyo jñānaṃ labhate
+orig: यत्नं कुर्वञ् छिष्यो ज्ञानं लभते
+translit: yatnaṃ kurvañ chiṣyo jñānaṃ labhate
 morphemes: yatn-am kurvan śiṣy-aḥ jñān-am labha-te
 gloss: effort-ACC.SG do.PRS.PTCP.NOM.SG.M pupil-NOM.SG knowledge-ACC.SG get-3SG.MID
 translation: By making an effort the pupil gains knowledge.
-note: kurvan from kurvanti; the participle can carry a sense of means. -n before ś is -ñ (san-04-07).
+note: kurvan from kurvanti; the participle can carry a sense of means. -n before ś is -ñ, and the ś becomes ch (san-04-07; Whitney §203).
 source: constructed
 confidence: constructed
 :::
@@ -267,7 +267,7 @@ source: wiktionary (भवत्, सत्, कुर्वत्, तुदत
 
 ## Connections
 
-Latin *-ns*, *-ntis* (*amāns*, *amantis* "loving") is the same participle, with a strong *-nt-* throughout; Spanish and French kept it mostly as adjectives (*amante*, *amant*, *présent*). Greek has both voices like Sanskrit: active *-ōn*, *-ontos* and middle *-ómenos*, the cognate of *-māna*. Japanese *-nagara* "while doing" covers the simultaneous use.
+Latin *-ns*, *-ntis* (*amāns*, *amantis* "loving") is the same participle, with a strong *-nt-* throughout; Spanish and French kept it mostly as adjectives (*amante*, *amant*, *présent*). Greek has both voices like Sanskrit: active *-ōn*, *-ontos* and middle *-ómenos*, which corresponds to *-māna*. Japanese *-nagara* "while doing" covers the simultaneous use.
 
 ## Exercises
 

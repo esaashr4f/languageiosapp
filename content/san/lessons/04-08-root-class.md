@@ -17,7 +17,7 @@ The thematic verbs of san-04-01 put an *a* between root and ending, and their st
 
 The simplest athematic class is class 2, the **root class** (Indian name *adādi*, after √ad "eat"). Its present stem is the bare root (Whitney §611): √i "go" → *e-ti* "goes", *y-anti* "they go"; √ad → *at-ti* "eats", *ad-anti* "they eat".
 
-**Why the stem changes.** In the parent language the accent moved inside these verbs. Whitney (§604) describes it: "the tone being now upon the ending, and now upon the root". Where the root had the accent it took guṇa, the strong form; where the ending had it, the root stayed weak. This is the same mechanism you saw in nouns with strong and weak cases (san-03-14), and the same guṇa as in san-03-11. The accent is no longer written, but the vowel still shows where it fell.
+**Why the stem changes.** In the older language, which marks the accent, the accent moves inside these verbs. Whitney (§604) describes it: "the tone being now upon the ending, and now upon the root". Where the root had the accent it took guṇa, the strong form; where the ending had it, the root stayed weak. This is the same mechanism you saw in nouns with strong and weak cases (san-03-14), and the same guṇa as in san-03-11. The accent is no longer written, but the vowel still shows where it fell.
 
 **Which forms are strong.** Whitney (§552) lists the endings that never take the accent: the **singular of the active** (present, imperfect) and the 3SG active imperative, plus **all the first persons of the imperative**, active and middle. Before these the root is strong. Everywhere else, including the whole middle voice, it is weak. Learn this list once; it applies to all six athematic classes.
 
@@ -121,7 +121,7 @@ translit: bālā gṛhe śerate
 morphemes: bāl-āḥ gṛh-e śe-rate
 gloss: child-NOM.PL house-LOC.SG lie-3PL.MID
 translation: The children are lying down (asleep) in the house.
-note: √śī "lie" keeps guṇa throughout (śe-) and has the irregular 3PL śerate (Whitney §628).
+note: √śī "lie" keeps guṇa throughout (śe-) and has the irregular 3PL śerate (Whitney §629).
 source: constructed
 confidence: constructed
 :::
@@ -253,7 +253,7 @@ source: wiktionary (एति, अत्ति, हन्ति, ब्रवी
 
 ## Connections
 
-Greek keeps the same contrast of strong and weak stems in its athematic verbs: *eîmi* "I go" (Sanskrit *emi*), *ímen* "we go" (*imaḥ*); *oîda* "I know", *ísmen* "we know". Latin *est*, *sunt* and Spanish *es*, *son* still show the weak stem of √as without the vowel: Sanskrit *asti*, *santi*.
+Greek keeps the same contrast of strong and weak stems in its athematic verbs: *eîmi* "I go" (Sanskrit *emi*), *ímen* "we go" (*imaḥ*); *oîda* "I know", *ísmen* "we know". Latin *est*, *sunt* (Spanish *es*, *son*) show the same alternation as Sanskrit *asti*, *santi*: the plural has lost the root vowel.
 
 ## Exercises
 

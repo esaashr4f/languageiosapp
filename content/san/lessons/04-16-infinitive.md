@@ -184,7 +184,7 @@ confidence: attested
 
 **Do not change the suffix after a prefix.** *\*āgamyum* is not a form: *āgantum*. The *-ya* switch belongs to the absolutive only.
 
-**Do not inflect the infinitive.** *\*gantuṃ icchanti* is right, *\*gantavaḥ icchanti* is not: *-tum* never changes, whatever the subject.
+**Do not inflect the infinitive.** *gantum icchanti* is right, *\*gantavaḥ icchanti* is not: *-tum* never changes, whatever the subject.
 
 **Do not use the infinitive as a subject in ordinary prose.** "To err is human" with *\*bhramituṃ mānuṣam* is not idiomatic Sanskrit. Use a verbal noun: *bhramaḥ*. Whitney (§987) notes rare nominative uses only.
 

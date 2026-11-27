@@ -1,5 +1,5 @@
 {
- "count": 215,
+ "count": 217,
  "source": "BRIEF.md section 2; ISO 639-3 codes checked against the SIL code table (iso-639-3.tab) on 2026-11-11",
  "languages": [
   {
@@ -124,6 +124,12 @@
      "iso": "prs",
      "part": 10,
      "description": "Afghan Persian: what differs from Iranian Persian in sounds, vocabulary and grammar"
+    },
+    {
+     "name": "Tajik",
+     "iso": "tgk",
+     "description": "Persian of Tajikistan in Cyrillic: the script, sounds, Russian and Uzbek loans, and spoken verb forms that differ from Iranian Persian",
+     "part": 11
     }
    ]
   },
@@ -239,7 +245,15 @@
    "iso": "isl",
    "group": "Europe, less common",
    "script": "Latin",
-   "depth": "A"
+   "depth": "A",
+   "companions": [
+    {
+     "name": "Faroese",
+     "iso": "fao",
+     "description": "What differs from Icelandic: pronunciation far from spelling, simpler case use, vocabulary",
+     "part": 10
+    }
+   ]
   },
   {
    "number": 27,
@@ -1123,7 +1137,15 @@
    "group": "Europe, less common",
    "script": "Cyrillic",
    "depth": "A",
-   "notes": "Cross-link Russian and Polish"
+   "notes": "Cross-link Russian and Polish",
+   "companions": [
+    {
+     "name": "Belarusian",
+     "iso": "bel",
+     "description": "What differs from Ukrainian: akanne and phonetic spelling, ў, vocabulary, and the Łacinka alphabet",
+     "part": 10
+    }
+   ]
   },
   {
    "number": 124,
@@ -1132,7 +1154,15 @@
    "group": "Europe, less common",
    "script": "Latin",
    "depth": "A",
-   "notes": "Standard written Czech with common spoken Czech labelled"
+   "notes": "Standard written Czech with common spoken Czech labelled",
+   "companions": [
+    {
+     "name": "Slovak",
+     "iso": "slk",
+     "description": "What differs from Czech: sounds (rhythmic law, ä, ô, dz), endings, vocabulary and spelling",
+     "part": 10
+    }
+   ]
   },
   {
    "number": 125,
@@ -1987,6 +2017,25 @@
    "depth": "C",
    "notes": "Anatolian, Hittite's neighbour, in cuneiform and Anatolian hieroglyphs; cross-link Hittite; deferred: standard sources in copyright, thin open material",
    "deferred": true
+  },
+  {
+   "number": 216,
+   "name": "Hiligaynon",
+   "iso": "hil",
+   "group": "Asia and Pacific",
+   "script": "Latin",
+   "depth": "B",
+   "notes": "Visayan language of Panay and Negros (Ilonggo); cross-link Cebuano, Tagalog"
+  },
+  {
+   "number": 217,
+   "name": "Ubykh",
+   "iso": "uby",
+   "group": "Dead and classical",
+   "script": "Latin transliteration (Dumézil/Vogt notation and IPA)",
+   "depth": "C",
+   "deferred": true,
+   "notes": "Northwest Caucasian, extinct since the death of its last fluent speaker, Tevfik Esenç, in 1992; about 80 consonants and two or three vowels; known from recordings and fieldwork (Dumézil, Vogt, Hewitt, Colarusso). Sources in copyright and thin: deferred. Respect it as a community's lost language; cross-link Adyghe, Kabardian"
   }
  ],
  "writing_order_note": "Pilot (pilot field), then 154 (the linguistics guide), then 72-101 and 102-114 (dead, classical and historical), then 59-71, then 1-58 and 115 onward (living), skipping deferred languages, which come last."

@@ -104,7 +104,7 @@ Paused at the owner's request. All agents stopped. State on pause:
 
 To resume: start one drafter and one verifier per language from the points above, with the same briefs (docs/DRAFTING_BRIEF.md, docs/VERIFY_BRIEF.md), telling each where to continue.
 
-Added after the pause: the owner asked for (1) a linguistics guide (languages.json 154, qli, first after the pilot gate) and (2) living-language parts 11–13 (vocabulary core, spoken language, graded reader; BRIEF.md Amendments), to be tried on tur, swh and kat at the pilot gate. The pilot-gate step therefore becomes: cold-read and random-form checks, template revision, then design and draft parts 11–13 for tur, swh, kat, then the app.
+Added after the pause: the owner asked for (1) a linguistics guide (languages.json 154, qli, first after the pilot gate) and (2) living-language parts 20–22 (vocabulary core, spoken language, graded reader; BRIEF.md Amendments; first planned as 11–13), to be tried on tur, swh and kat at the pilot gate. The pilot-gate step therefore becomes: cold-read and random-form checks, template revision, then design and draft parts 20–22 for tur, swh, kat, then the app.
 
 
 ## Session 3, second pause (2026-11-27 02:31 GMT)

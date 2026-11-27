@@ -20,7 +20,7 @@ The imperative covers "you, do it!". Hebrew has two more forms for what the spea
 
 Together with the imperative they are called the **volitives**, the forms of the will.
 
-Gesenius describes them as two modifications of the yiqtol: "a lengthened form of it (the cohortative), and a shortened form (the jussive)" (§48b). The cohortative adds *-â*: *ʾeʿbōr* "I will pass" → *ʾeʿbərâ* "let me pass". The jussive is the yiqtol cut short where possible: *yihyeh* "it will be" → *yəhî* "let it be".
+Gesenius describes them as two modifications of the yiqtol: "a lengthened form of it (the cohortative), and a shortened form (the jussive)" (§48b). The cohortative adds *-â*: *ʾeʿĕḇōr* "I will pass" → *ʾeʿbərâ* "let me pass". The jussive is the yiqtol cut short where possible: *yihyeh* "it will be" → *yəhî* "let it be".
 
 That "where possible" matters. Gesenius warns that the jussive is often not visibly shorter: "in the imperfect forms with afformatives, always", and in the strong qal too, it "coincides with the ordinary imperfect" (§48b, g). So *yišpōṭ* can be "he will judge" or "may he judge". The context decides: a wish, a blessing, *ʾal* "do not", or a request with *nāʾ*.
 
@@ -240,7 +240,7 @@ source: gkc1910 §48b–g, §108, §109; forms attested in the examples, others 
 חָמָס | ḥāmās | noun | violence, wrong, injustice | 
 מָגֵן | māḡēn | noun | shield | 
 שָׂכָר | śāḵār | noun | wages, reward | 
-סְנֶה | sənēh | noun | bush, thorn bush | the burning bush
+סְנֶה | səneh | noun | bush, thorn bush | the burning bush
 בָּעַר | bāʿar | verb | burn, be on fire | root b-ʿ-r; piel "burn up; remove"
 מַדּוּעַ | maddûaʿ | adverb | why? | lesson 6.1
 לְבֵנָה | ləḇēnâ | noun | brick | 

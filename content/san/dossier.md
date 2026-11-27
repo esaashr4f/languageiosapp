@@ -492,3 +492,4 @@ Fame of the verses is from general knowledge (Gītā 2.47 is the verse most ofte
 - Entered as full vocab in part 4 (do not re-list): yathā, mā, sma, sat, asat, vidvas, samyak and other consonant-final adverbs, deha, dehin, svadharma, saṅga, pātratā, pātratva. eka is still free.
 - Attested lines used in part 4: Bhg 2.47c, 2.47d, 2.48a–b, 2.48d, 1.1c–d (capstone verses, already seen), and 2.3, 2.11, 2.13, 2.16, 2.19, 2.20, 2.22, 2.37, 2.62, 4.39, 8.27, 11.3, 11.8, 13.28, 18.66; MBh 3.50.1, 3.50.18c–d, 3.50.30c–d, 3.71.2; Rām 1.2.14a–b; Hit 0.6, 1.15, 1.20, 1.157 and prose after 1.157, 1.160, 1.184, 2.19, 2.89, 3.39; Manu 2.110, 4.137–139.
 - Plain-text GRETIL copies of the Gītā, MBh book 3, Hitopadeśa and Manu are in the scratchpad (san4/).
+- The periphrastic future paradigm is whitney1889 §944 (§942 only defines the formation). ś after final -ñ becomes ch in constructed examples (kurvañ chiṣyo, §203).

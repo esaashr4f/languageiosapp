@@ -46,3 +46,14 @@ Worked answers checked: 32   corrected: 0
 Corrections (summary): -tavat quotations cited to §960; epic active endings on passives cited to Whitney §774; unsourced Korean/Japanese comparison removed; "backbone of narrative" quotation removed; -tvā on prefixed roots "rarely" (§990a), not "never"; a correct sentence wrongly starred in 04-16 un-starred and its anusvāra fixed (gantum icchanti).
 
 Still open: khāditum and cintayitum re-derived by §968a (no MW entry); the 04-14 table caption cites Wiktionary passive columns that mostly printed nothing (forms confirmed in MW): change the source to mw1899 at the next edit.
+
+
+### Part 4, lessons 17–20 — verified 2026-11-27 by the same verifier
+Lessons checked: san-04-17 to san-04-20 (04-21 review not yet checked)
+Forms checked: 180   corrected: 1   left unverified: 0
+Glosses checked: 46   corrected: 2
+Attested quotations checked: 15   corrected: 0
+Claims checked: 44   corrected or removed: 5
+Worked answers checked: 32   corrected: 0
+
+Corrections (summary): periphrastic future paradigm cited to Whitney §944 (not §942); a correct kariṣyati wrongly starred, un-starred; unsourced Japanese/Korean future claim removed; uvāca count in MBh 3 corrected to over 1,300 (1,386 tokens); sa putrebhyo dhanaṃ dadau (dative receiver) replaces the accusative; klaiby-am segmented; kurvañ chiṣyo (ś → ch after ñ, §203); Greek -ómenos "corresponds to" -māna.

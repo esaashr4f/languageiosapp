@@ -19,7 +19,7 @@ The pentameter is a hexameter with something taken away. It has two halves. Each
 
 Ovid makes a joke of this at the start of his love poems. He was writing epic, he says, in hexameters, when Cupid laughed and stole a foot from every second line. The missing foot is the pentameter.
 
-The second half of this lesson is **poetic grammar**. Verse does not have a separate grammar, but the metre pushes poets towards some forms and constructions that prose avoids: an older ending that fits the line, a plural for a singular, a case without a preposition. You need to recognise them, because they are everywhere in Vergil, Horace and Ovid.
+The second half of this lesson is **poetic grammar**. Verse does not have a separate grammar, but the metre pushes poets towards some forms and constructions that prose avoids: an alternative ending that fits the line, a plural for a singular, a case without a preposition. You need to recognise them, because they are everywhere in Vergil, Horace and Ovid.
 
 ## How it is built
 
@@ -71,7 +71,7 @@ orig: Multās per gentēs et multa per aequora vectus adveniō hās miserās, fr
 morphemes: mult-ās per gent-ēs et mult-a per aequor-a vec-t-us adveni-ō h-ās miser-ās frāter ad īnferi-ās
 gloss: many-ACC.PL.F through people-ACC.PL and many-ACC.PL.N over sea-ACC.PL carry-PTCP-NOM.SG.M arrive-1SG this-ACC.PL.F wretched-ACC.PL.F brother.VOC.SG to funeral.rites-ACC.PL
 translation: Carried through many peoples and over many seas, I come, brother, to these sad funeral rites.
-note: Catullus at his brother's grave in the east. Hexameter: mul tās | per gen | tēs et | mul ta pe | rae quo ra | vec tus, four spondees for a slow start. Pentameter: adveni' hās elided (h does not prevent elision, ag1903 §612e): ad ve ni | hās mi se | rās ‖ frā te ra | dīn fe ri | ās. hās … īnferiās frames the line (lesson 6).
+note: Catullus at his brother's grave in the east. Hexameter: mul tās | per gen | tēs et | mul ta pe | rae quo ra | vec tus, three spondees for a slow start. Pentameter: adveni' hās elided (h does not prevent elision, ag1903 §612e): ad ve ni | hās mi se | rās ‖ frā te ra | dīn fe ri | ās. hās … īnferiās frames the line (lesson 6).
 source: Catullus 101.1–2
 confidence: attested
 :::
@@ -81,7 +81,7 @@ orig: Urbs antīqua fuit, Tyriī tenuēre colōnī.
 morphemes: urbs antīqu-a fu-it Tyri-ī tenu-ēre colōn-ī
 gloss: city.NOM.SG ancient-NOM.SG.F be.PRF-3SG Tyrian-NOM.PL.M hold.PRF-3PL settler-NOM.PL
 translation: There was an ancient city, held by settlers from Tyre.
-note: Carthage, introduced. urbs an | tī qua fu | it Ty ri | ī te nu | ē re co | lō nī: — — | — ∪ ∪ | — ∪ ∪ | — ∪ ∪ | — ∪ ∪ | — —. tenuēre is tenuērunt; the prose form would put a heavy runt before a light co, which no foot allows, so the older -ēre ending is what makes the line possible.
+note: Carthage, introduced. urbs an | tī qua fu | it Ty ri | ī te nu | ē re co | lō nī: — — | — ∪ ∪ | — ∪ ∪ | — ∪ ∪ | — ∪ ∪ | — —. tenuēre is tenuērunt; the prose form would put a heavy runt before a light co, which no foot allows, so the alternative -ēre ending is what makes the line possible.
 source: Vergil, Aeneid 1.12
 confidence: attested
 :::
@@ -213,7 +213,7 @@ French classical verse also pairs lines and closes sense at the end of a couplet
 1. *ē·de·re | mā·te·ri | ā ‖ con·ve·ni | en·te·mo | dīs*: — ∪ ∪ | — ∪ ∪ | — ‖ — ∪ ∪ | — ∪ ∪ | —. The break falls after *māteriā*, at a word-end (ag1903 §616b).
 2. *Adveni' hās*: the final *-ō* of *adveniō* is elided before *h* (ag1903 §612e). *ad·ve·ni | hās·mi·se | rās ‖ frā·te·ra | dīn·fe·ri | ās*.
 3. *Erat īnferior*: the *t* moves on to *īn-*, so *ra* is an open syllable with a short vowel (*ra·tīn*).
-4. *Tenuērunt*; *natāvērunt*; *deōrum*. The poetic forms are older or contracted endings that fit the metre (ag1903 §§49d, 163a, 181).
+4. *Tenuērunt*; *natāvērunt*; *deōrum*. The poetic forms are alternative or contracted endings that fit the metre (ag1903 §§49d, 163a, 181).
 5. "A shout goes up to the sky." Prose: *it clāmor ad caelum* (ag1903 §428h).
 6. "Bare as to the knee", "with her knee bare": the Greek accusative of the part affected (ag1903 §397b).
 7. Tmesis, a compound split by another word (bennett1918 §367.7). Prose: *quōcumque mē rapit tempestās*.

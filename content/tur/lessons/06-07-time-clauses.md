@@ -182,7 +182,7 @@ confidence: constructed
 
 ## Watch out
 
-**No genitive on the subject.** By analogy with relative clauses, learners write *\*Ali'nin gelince* or *\*Benim geldiğim zaman*. In time clauses the subject is in the nominative: *Ali gelince*, *ben geldiğim zaman* (goksel2005 §26.2.1). The exception is the *-mA* forms: *Ali'nin gelmesinden önce*.
+**No genitive on the subject.** By analogy with relative clauses, learners write *\*Ali'nin gelince* or *\*Ali'nin geldikten sonra*. In time clauses the subject is in the nominative: *Ali gelince*, *Ali geldikten sonra*, *ben geldiğim zaman* (goksel2005 §26.2.1). The exception is the *-mA* forms: *Ali'nin gelmesinden önce*.
 
 **Do not put a person ending on -(y)IncA or -ken.** *\*Gelincem*, *\*çalışırkenim* do not exist. The person comes from the subject word or the main verb: *Ben gelince*, *çalışırken*.
 
@@ -192,7 +192,7 @@ confidence: constructed
 
 **Do not put a possessive on -DIktAn sonra.** *\*Geldiğimden sonra* is wrong in standard use; say *geldikten sonra*. If you need the subject, put it before: *ben geldikten sonra*.
 
-**-ken is not -(I)yor-ken in normal use.** For an action in progress, use the aorist: *pişirirken*, not *\*pişiriyorken*, which some speakers accept but G&K call less common (goksel2005 §26.2.3 (ii)). And on a noun, do not add a verb: *\*çocuk olurken* is "while becoming a child"; "as a child" is *çocukken*.
+**Put -ken on the aorist or straight on the noun.** For an action in progress the usual form is the aorist, *pişirirken*; *pişiriyorken* exists but is less common (goksel2005 §26.2.3 (ii)). On a noun, do not add a verb: *\*çocuk olurken* for "as a child" means "while becoming a child"; "as a child" is *çocukken*. And *\*pişirken* without the aorist is wrong.
 
 **"When" in a question is ne zaman, not -DIğI zaman.** *Ne zaman geldin?* "When did you come?" A clause with *-DIğI zaman* never asks.
 
@@ -254,7 +254,7 @@ Japanese and Korean also build time clauses from nominalised or adnominal verbs 
 5. Correct *\*Ali'nin gelince başladık.*
 6. Translate *Hastalandığımdan beri hiç dışarı çıkmadım.*
 7. Say "I'll wait until the water boils."
-8. Translate *Telefonu açar açmaz kapandı.*
+8. Translate *Kapıyı açar açmaz kedi içeri girdi.*
 9. Explain the difference between *Ali gelince yedik* and *Ali geldiği zaman yiyorduk*.
 10. Take apart *okudukça* and *gitmeden*.
 
@@ -267,6 +267,6 @@ Japanese and Korean also build time clauses from nominalised or adnominal verbs 
 5. *Ali gelince başladık.* The subject of a time clause takes no genitive (goksel2005 §26.2.1).
 6. "I haven't been out at all since I fell ill." *Hastalan-dığ-ım-dan beri*: *-DIK*, 1SG possessive, ablative, *beri*.
 7. *Su kaynayıncaya kadar bekleyeceğim.* *-(y)IncA* with the buffer *y* after a vowel, dative, *kadar*.
-8. "It hung up as soon as I answered the phone." (Or "it cut off".) *Açar açmaz*: positive and negative aorist of the same verb, "as soon as".
+8. "As soon as I opened the door, the cat came in." *Açar açmaz*: positive and negative aorist of the same verb, "as soon as"; the opener is understood from context, here "I" or "you".
 9. *Ali gelince yedik*: we ate after Ali came, a sequence. *Ali geldiği zaman yiyorduk*: we were already eating when Ali came, a background (goksel2005 §26.3.16 (ii)); with a different main tense it can also mean "whenever Ali came, we would eat".
 10. *Oku-dukça*: read + *-DIkçA*, "whenever / the more (someone) reads". *Git-meden*: *git-* + *-mAdAn*, "without going" or, with *önce*, "before going".

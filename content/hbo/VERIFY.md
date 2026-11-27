@@ -31,3 +31,14 @@ Worked answers checked: 250   corrected: 0
 Corrections (summary): binyanim "formations" (Gesenius §39c); Gen 18:20 kî "because"; דִּבֵּר headword with the usual dibber noted; wayḏabbēr (no dagesh); wāʾāqûm/wayyāqom as the 1SG long-form example; wayyiqtol history restated (Britannica supports only the short preterite; the *yaqtul view credited to Bergsträsser 1918 via Wikipedia); ʾeʿĕḇōr; səneh; lāṯēṯ; gan feminine per BDB; §64c, §22q–r; ʾāḥaz listed with yōʾḥēz 18× / yeʾĕḥōz 3×; unsourced Moroccan parallel removed; wariṯa, yalidu "he begets"; bānû counts corrected; by-pattern labels added (šāmartî-ḵā, yaʿazḇû, šəmārûhû); נֶחְבָּא; kihēn; gəḇîaʿ; unverified ʾeḥāḏ variant in Gen 22:13 removed; 04-01 and 04-06 trimmed to 1,800 prose words.
 
 Still open: 04-14 to 04-25 checked at lighter depth (counts spot-checked; §§56, 59, 60, 62, 73 not opened): STATUS left at drafted and a full check scheduled. Gen 22:13 witnesses not checked. Gesenius read from cached Wikisource copies.
+
+
+### Part 4, lessons 14–25 — full check 2026-11-27 by the same verifier
+Lessons checked: hbo-04-14 to hbo-04-25, line by line (Gesenius §§56, 59, 60, 62, 73 opened; every quoted count recounted against OSHB)
+Forms checked: 961   corrected: 19   left unverified: 0
+Glosses checked: 637   corrected: 0
+Attested quotations checked: 117   corrected: 0
+Claims checked: about 130   corrected or removed: 9
+Worked answers checked: 121   corrected: 2
+
+Corrections (summary): daʿ 6× (the seventh is Aramaic, Dan 6:16); yiqtol + -ḵā with qameṣ ḥaṭuf (ʾeʿĕḇoḏḵā, ʾeʿĕzoḇḵā, §60a); nišmərû typo; participle nišmār relabelled "by pattern" (Hos 12:14 is a pausal qatal); hithpael qatal הִתְהַלֵּךְ relabelled "by pattern" (both tokens are imperatives; הִתְהַלֶּךְ־ Gen 6:9 attested); hiṯqaddəšû recount; §112pp restated (Aramaic influence in late books; Kings cases suspected later additions); hothpaal §54l, "Rare". 04-15, 04-17, 04-18, 04-22, 04-24 needed no change. Part 4 is now fully verified.

@@ -1,6 +1,6 @@
 {
  "generated_from": "lesson :::vocab blocks by tools/build-reference.ts; do not edit by hand",
- "count": 792,
+ "count": 808,
  "words": [
   {
    "headword": "דָּבָר",
@@ -7128,6 +7128,150 @@
    "meaning": "sand",
    "forms": "",
    "first_lesson": "hbo-04-24",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַךְ",
+   "translit": "ʾaḵ",
+   "pos": "particle",
+   "meaning": "only; but, however; surely",
+   "forms": "restrictive and asseverative (bdb)",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אַף",
+   "translit": "ʾap̄",
+   "pos": "particle",
+   "meaning": "also, even",
+   "forms": "mostly poetic; in prose mostly ʾap̄ kî; distinct from ʾap̄ \"nose\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אָמְנָם",
+   "translit": "ʾāmnām",
+   "pos": "adverb",
+   "meaning": "truly, really",
+   "forms": "also ʾumnām; from ʾōmen \"truth\" (Gesenius §100g)",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "חִנָּם",
+   "translit": "ḥinnām",
+   "pos": "adverb",
+   "meaning": "for nothing, gratis; without cause",
+   "forms": "from ḥēn \"favour\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "רֵיקָם",
+   "translit": "rêqām",
+   "pos": "adverb",
+   "meaning": "empty-handed; in vain",
+   "forms": "from rêq \"empty\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יוֹמָם",
+   "translit": "yômām",
+   "pos": "adverb",
+   "meaning": "by day",
+   "forms": "from yôm; yômām wālaylâ \"day and night\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "פִּתְאֹם",
+   "translit": "pitʾōm",
+   "pos": "adverb",
+   "meaning": "suddenly",
+   "forms": "from petaʿ \"instant\" (Gesenius §100g)",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "תָּמִיד",
+   "translit": "tāmîḏ",
+   "pos": "adverb",
+   "meaning": "continually, always",
+   "forms": "a noun \"continuity\" used as an adverb",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כָּכָה",
+   "translit": "kāḵâ",
+   "pos": "adverb",
+   "meaning": "thus, like this",
+   "forms": "demonstrative (Gesenius §100i)",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "לְבַד",
+   "translit": "ləḇaḏ",
+   "pos": "adverb",
+   "meaning": "alone, by oneself",
+   "forms": "with suffixes ləḇaddî \"I alone\", ləḇaddô \"he alone\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "הֲלֹם",
+   "translit": "hălōm",
+   "pos": "adverb",
+   "meaning": "here, hither",
+   "forms": "",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "אֵפוֹא",
+   "translit": "ʾēp̄ôʾ",
+   "pos": "particle",
+   "meaning": "then, so",
+   "forms": "after a question word or imperative: mî-ʾēp̄ôʾ \"who then?\"",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "יַחַד",
+   "translit": "yaḥad",
+   "pos": "adverb",
+   "meaning": "together, alike",
+   "forms": "a noun \"union\"; compare yaḥdāw",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "עַד־הֵנָּה",
+   "translit": "ʿaḏ-hēnnâ",
+   "pos": "adverb",
+   "meaning": "until now; as far as here",
+   "forms": "hēnnâ \"here\" used of time",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "כֹּחַ",
+   "translit": "kōaḥ",
+   "pos": "noun",
+   "meaning": "strength, power",
+   "forms": "m.; furtive pataḥ",
+   "first_lesson": "hbo-05-01",
+   "confidence": "attested"
+  },
+  {
+   "headword": "שׁוֹר",
+   "translit": "šôr",
+   "pos": "noun",
+   "meaning": "ox, bull",
+   "forms": "m.",
+   "first_lesson": "hbo-05-01",
    "confidence": "attested"
   }
  ]

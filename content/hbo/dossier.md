@@ -447,3 +447,4 @@ Say so in the lesson when one of these comes up.
 - Wayyiqtol history: Britannica supports only the short jussive/preterite form (Akkadian iqbir) and derives yiqtol from the modal form; the wayyiqtol = *yaqtul view is cited to Bergsträsser 1918 via Wikipedia "Vav-consecutive" (wp-vavcons).
 - Vocal shewa after the article in hayəlāḏîm is confirmed by Gesenius §20m.
 - Do not mention unverified textual variants; say "as WLC reads" instead.
+- Yiqtol + -ḵā/-ḵem takes qameṣ ḥaṭuf (ʾeʿĕḇoḏḵā, §60a), like the suffixed infinitive (lišmorḵā). All Gesenius sections used in part 4 are cached in the scratchpad (p4hbo/g).

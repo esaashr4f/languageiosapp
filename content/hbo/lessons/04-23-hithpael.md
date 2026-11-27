@@ -175,7 +175,7 @@ confidence: attested
 - **Reciprocal:** *tiṯrāʾû* (§54f).
 - **For oneself:** *hiṯhallēḵ*, *hiṯpallēl*, *hiṯyaṣṣēḇ* "station oneself".
 - **Mourning and feelings:** *hiṯʾabbēl* "mourn" (1 Samuel 15:35), *wayyiṯʿaṣṣēḇ* "he was grieved" (Genesis 6:6).
-- **Late and rare passives:** the hothpaal *hoṯpāqəḏû* "they were mustered" (Gesenius §54l; compare lesson 4.1).
+- **Rare passives:** the hothpaal *hoṯpāqəḏû* "they were mustered" (Gesenius §54l; compare lesson 4.1).
 
 ## Watch out
 

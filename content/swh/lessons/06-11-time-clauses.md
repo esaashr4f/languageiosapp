@@ -45,7 +45,7 @@ If the two events have different subjects, use a "when" relative instead, or put
 
 ### Until
 
-*Mpaka* and *hadi* mean "up to, as far as, until". Before a noun or a time: *mpaka jioni* "until evening" (Almasi and colleagues: *Alisoma mpaka jioni*). Before a clause about something still to come, a subjunctive: *Sitamkopesha mpaka akulipe* "I won't lend to him until he pays you" (Almasi and colleagues). Before a clause about something that did happen, an ordinary past: Almasi and colleagues' *tulipiga ngoma mpaka mikono yetu ilitoka damu* "we drummed until our hands bled".
+*Mpaka* and *hadi* mean "up to, as far as, until". Before a noun or a time: *mpaka jioni* "until evening" (Almasi and colleagues: *Alisoma mpaka jioni*). Before a clause about something still to come, a subjunctive: *Sitamkopesha mpaka akulipe* "I won't lend to him until he pays you" (Almasi and colleagues). Before a clause about something that did happen, an ordinary past: Almasi and colleagues' *tulipiga magoma mpaka mikono yetu ilitoka damu* "we beat the big drums until our hands bled" (*magoma*, the augmentative of *ngoma*).
 
 ### Since
 
@@ -108,11 +108,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Tulicheza ngoma mpaka mikono yetu ikachoka.
-morphemes: tu-li-chez-a ngoma mpaka mi-kono y-etu i-ka-chok-a
-gloss: 1PL.SM-PST-dance-FV drum.C9 until C4-hand C4-our C4.SM-CONS-get.tired-FV
+orig: Tulicheza ngoma mpaka mikono yetu ilichoka.
+morphemes: tu-li-chez-a ngoma mpaka mi-kono y-etu i-li-chok-a
+gloss: 1PL.SM-PST-dance-FV drum.C9 until C4-hand C4-our C4.SM-PST-get.tired-FV
 translation: We danced until our arms were tired.
-note: A past event after mpaka. Almasi and colleagues use a plain past (ilitoka); the narrative -ka- is also common in stories.
+note: A past event after mpaka takes a plain past, as in Almasi and colleagues' ilitoka damu.
 source: constructed
 confidence: constructed
 :::

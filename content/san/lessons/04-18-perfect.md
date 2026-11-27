@@ -17,7 +17,7 @@ The **perfect** is the past tense built by reduplicating the root: √gam → *j
 
 Its name comes from Greek and Latin grammar, where the same formation means "has done". In Sanskrit that meaning is clear only in the oldest texts. Whitney (§821b) says that in the later language the perfect is merely "a preterit", a past tense, and the dossier (§6.3) states the guide's rule: in Classical texts imperfect, perfect and aorist all narrate the past. Pāṇini assigns the perfect to the past "not witnessed by the speaker", but that is the grammarians' rule, not usage.
 
-What makes the perfect important is its place in the **epics**. The Mahābhārata and the Rāmāyaṇa tell their stories mostly in the perfect: *uvāca* "he said" opens a speech on almost every page (the GRETIL text of Mahābhārata book 3 alone has it more than 1,800 times), and the Gītā introduces each speaker with *uvāca*: *arjuna uvāca* "Arjuna said". So the perfect is the past tense you will read most in part 8.
+What makes the perfect important is its place in the **epics**. The Mahābhārata and the Rāmāyaṇa tell their stories mostly in the perfect: *uvāca* "he said" opens a speech on almost every page (the GRETIL text of Mahābhārata book 3 alone has it more than 1,300 times), and the Gītā introduces each speaker with *uvāca*: *arjuna uvāca* "Arjuna said". So the perfect is the past tense you will read most in part 8.
 
 Two perfects are used as presents. √vid "know" has the perfect *veda* "he knows" (literally "he has seen, he has found out"), used beside the present *vetti* (san-04-08). And √ah, which has no other forms, gives *āha* "he says, he said" and *āhuḥ* "they say" (Whitney §801a).
 
@@ -103,12 +103,12 @@ confidence: constructed
 :::
 
 :::example
-orig: स पुत्रान् धनं ददौ
-translit: sa putrān dhanaṃ dadau
-morphemes: saḥ putr-ān dhan-am dad-au
-gloss: DEM.NOM.SG.M son-ACC.PL wealth-ACC.SG give.PRF-3SG
+orig: स पुत्रेभ्यो धनं ददौ
+translit: sa putrebhyo dhanaṃ dadau
+morphemes: saḥ putr-ebhyaḥ dhan-am dad-au
+gloss: DEM.NOM.SG.M son-DAT.PL wealth-ACC.SG give.PRF-3SG
 translation: He gave his sons money.
-note: A root in ā: 3SG -au. With √dā the receiver is here in the accusative; the dative is more usual.
+note: A root in ā: 3SG -au. The receiver in the dative, as with dadāti (san-03-02).
 source: constructed
 confidence: constructed
 :::

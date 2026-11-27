@@ -15,7 +15,7 @@ sources: [polome1967, almasi2014, wiktionary, thompson2001]
 
 A **conjunction** is a word that joins two words, phrases or clauses: "and", "or", "but", "because". A **clause** is a group of words built round one verb: "I came" is a clause, "I came because it rained" is two.
 
-You know most of the Swahili ones: *na* "and", *au* "or" (lesson 2.4), *lakini* "but" (lesson 2.1), *pia* "also", *tena* "again, moreover", *halafu* and *kisha* "then" (lesson 4.15). Thompson and Schleicher (p. 299) note that they are invariable: no class, no person, no tense. Many are Arabic: *lakini* (*lākin*), *bali* (*bal*), *ila* (*ʔillā*), *sababu* (*sabab*), *ama* (*ʔam*), *halafu* (*ḵalf*) (Wiktionary).
+You know most of the Swahili ones: *na* "and", *au* "or" (lesson 2.4), *lakini* "but" (lesson 2.1), *pia* "also", *tena* "again, moreover", *halafu* and *kisha* "then" (lesson 4.15). Thompson and Schleicher (p. 320) note that they are invariable: no class, no person, no tense. Many are Arabic: *lakini* (*lākin*), *bali* (*bal*), *ila* (*ʔillā*), *sababu* (*sabab*), *ama* (*ʔam*), *halafu* (*ḵalf*) (Wiktionary).
 
 The interesting one is the commonest. *Na* is not really "and". It is "with": the same word as in *nina* "I have", literally "I am with" (lesson 2.6), and in *nami* "with me" (lesson 3.14). Polomé (§2.5.3) calls it the **associative** particle: it is used "whenever the association of two concepts is expressed", as in *kahawa na sukari* "coffee and sugar", that is, "coffee with sugar". Two things go together; *na* says so.
 
@@ -60,7 +60,7 @@ Say "it rained a lot, so we stayed at home".
 
 ### Or, either ... or
 
-*Au* is "or". "Either ... or" doubles it, *au ... au*, or uses *ama ... ama* (Polomé; Almasi and colleagues). The negative "neither ... nor" is *wala ... wala*, taught with the other negatives in lesson 6.15.
+*Au* is "or". "Either ... or" is *ama ... ama* (Polomé; Almasi and colleagues). Doubled *au ... au* is also met, but neither source consulted lists it, so prefer *ama ... ama*. The negative "neither ... nor" is *wala ... wala*, taught with the other negatives in lesson 6.15.
 
 ## Examples
 
@@ -193,7 +193,7 @@ confidence: constructed
 - **-ka- for the next event** in a past story (lesson 4.15), with or without *kisha*, *halafu*.
 - **tena "moreover, and also"** between two clauses or two descriptions.
 - **pia "also"** after the word it adds: *Mimi pia* "me too".
-- **au, au ... au, ama ... ama** for choices.
+- **au, ama ... ama** for choices.
 - **lakini** for contrast; **bali** after a negative; **ila** "except" (Wiktionary also gives *si ... ila* "not only ... but also").
 - **kwa sababu** + clause; **kwa sababu ya** + noun.
 - **kwani** "for, because" (Wiktionary; Almasi and colleagues), which also means "why?" at the start of a question.

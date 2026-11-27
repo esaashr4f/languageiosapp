@@ -26,7 +26,7 @@ Each survivor has kept one job, and the job follows from its case.
 
 **The *-um* supine** is an accusative of the end of motion, the same accusative as *Rōmam* in *Rōmam eō* "I go to Rome" (part 3). Towns take no preposition, and neither does the supine (ag1903 §§428i, 509). So *spectātum veniunt* is "they come to the watching", "they come to watch". The supine says what you are going in order to do. Allen and Greenough list a few other old accusatives of motion without a preposition: *vēnum dare* "give to sale", which became *vendere* "sell" (ag1903 §428i).
 
-**The *-ū* supine** goes with adjectives and says in what respect the adjective holds: *mīrābile dictū* "wonderful to tell", literally "wonderful in the telling" (ag1903 §510). It looks like an ablative of respect (part 5), though Allen and Greenough think it was in origin a dative of purpose (§508). This guide glosses it SUP.ABL.
+**The *-ū* supine** goes with adjectives and says in what respect the adjective holds: *mīrābile dictū* "wonderful to tell", literally "wonderful in the telling" (ag1903 §510). It looks like an ablative of respect (part 5), though Allen and Greenough take it as usually a dative of purpose, with which the ablative was early confused (§508). This guide glosses it SUP.ABL.
 
 ## How it is built
 
@@ -169,8 +169,8 @@ confidence: constructed
 
 - **After verbs of motion**, to state the purpose: *eō*, *veniō*, *mittō*, *discēdō*, *proficīscor*: *spectātum veniunt*; *mittunt rogātum*.
 - **With an object of its own**: *rogātum auxilium*, *questum iniūriās*.
-- **In set phrases**: *cubitum īre* "to go to bed" (Cicero, On the State 6.10: *ut cubitum discessimus* "when we had gone off to bed"); *nūptum dare* "to give (a woman) in marriage" (ag1903 §509).
-- **With *eō* in a loose sense, "set about"**: Sallust says some citizens *rem pūblicam perditum īrent* "went about ruining the state" (Catiline 36.4, quoted in ag1903 §509 note 1).
+- **In set phrases**: *cubitum īre* "to go to bed" (Cicero, On the State 6.10: *ut cubitum discessimus* "when we had gone off to bed"); *nuptum dare* "to give (a woman) in marriage" (ag1903 §509; Wiktionary marks the *u* long or short, and this guide prints it short, as in part 5).
+- **With *eō* in a loose sense, "set about"**: Sallust says some citizens *sēque remque pūblicam … perditum īrent* "went about ruining themselves and the state" (Catiline 36.4; ag1903 §509 note 1 quotes it shortened).
 - **In the future passive infinitive**, with *īrī*: *urbem captum īrī*. Allen and Greenough call this rare except in Cicero; *fore ut* + subjunctive is the commoner way (part 6, lesson 9; ag1903 §509 note 1).
 - **Where motion is only implied**, occasionally (ag1903 §509 note 2).
 

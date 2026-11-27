@@ -24,7 +24,7 @@ Swahili has a set of them, and you already know several:
 
 This lesson adds three more and puts them in order:
 
-**kamwe** "never, not at all". Wiktionary gives a striking history: *kamwe* is built from a fossil prefix of class 12 (*ka-*, the class that survives only in traces, lesson 0.2's note on class 12) and an older form of "one", related to *moja*: roughly "not one bit". It is used "in a negative sentence" as "never, not at all", and in a question as "ever". Wiktionary lists *hata kidogo* "not even a little" and *kabisa* as synonyms.
+**kamwe** "never, not at all". Wiktionary gives a striking history: *kamwe* is built from a fossil prefix of class 12 (*ka-*), a class standard Swahili keeps only in rare traces (lesson 0.2) and an older form of "one", related to *moja*: roughly "not one bit". It is used "in a negative sentence" as "never, not at all", and in a question as "ever". Wiktionary lists *hata kidogo* "not even a little" and *kabisa* as synonyms.
 
 **-wahi** "get the chance to, be in time" (lesson 4.5). In the perfect it asks about experience: *Umewahi kwenda Mombasa?* "have you ever been to Mombasa?". With *-ja-* it gives "never (so far)": *Sijawahi kwenda* "I have never been". Wiktionary traces the verb to Arabic *waḥā* "hurry".
 
@@ -241,6 +241,13 @@ daima | - | adverb | always, for ever | from Arabic dāʔiman
 milele | - | adverb | for ever, eternally | 
 -thubutu | - | verb | dare | kuthubutu; loan from Arabic
 -jali | - | verb | care, mind, pay attention | kujali; loan from Arabic
+-puuza | - | verb | ignore, disregard | kupuuza
+-bahatika | - | verb | be lucky | kubahatika; from bahati
+-ghairi | - | verb | change one's mind, cancel | kughairi; loan from Arabic
+-shawishi | - | verb | persuade, tempt | kushawishi; loan from Arabic
+-kawia | - | verb | delay, linger | kukawia
+siku zote | - | adverb | always | "all days"
+mara moja | - | adverb | once; at once | "one time"
 :::
 
 ## Connections

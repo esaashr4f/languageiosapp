@@ -18,8 +18,8 @@ Tur-05-09 made nouns and adjectives from nouns. This lesson crosses the line bet
 **Noun or adjective to verb.** Three suffixes, built on one another, do most of the work (goksel2005 §7.2.2.1):
 
 - ***-lA*** makes a verb that does or puts the thing: *tuz* "salt" → *tuzla-* "salt (something)"; *temiz* "clean" → *temizle-* "clean (something)", which you know from tur-04-01. With some adjectives the verb means "become": *zayıf* "thin" → *zayıfla-* "get thin".
-- ***-lAş*** is *-lA* plus the old reciprocal *-(I)ş* (goksel2005 §7.2.2.1). It means "become" with adjectives: *güzel* → *güzelleş-* "become beautiful", *kolay* → *kolaylaş-* "become easy"; and "do to each other" with nouns: *mektup* "letter" → *mektuplaş-* "write to each other".
-- ***-lAn*** is *-lA* plus the old passive or reflexive *-n*. It makes verbs that happen to oneself, with no object: *güneş* "sun" → *güneşlen-* "sunbathe", *hazır* "ready" → *hazırlan-* "get ready" (goksel2005 §7.2.2.1).
+- ***-lAş*** is *-lA* plus the reciprocal *-(I)ş* (goksel2005 §7.2.2.1). It means "become" with adjectives: *güzel* → *güzelleş-* "become beautiful", *kolay* → *kolaylaş-* "become easy"; and "do to each other" with nouns: *mektup* "letter" → *mektuplaş-* "write to each other".
+- ***-lAn*** is *-lA* plus the passive or reflexive *-n*. It makes verbs that happen to oneself, with no object: *güneş* "sun" → *güneşlen-* "sunbathe", *hazır* "ready" → *hazırlan-* "get ready" (goksel2005 §7.2.2.1).
 
 So *-lA* is the base, and the extra *ş* or *n* adds "each other" or "oneself". You will meet the reciprocal and reflexive as live suffixes in part 7 (tur-07-03); here they are frozen inside the derived verbs.
 
@@ -121,7 +121,7 @@ orig: Çocuklar halıyı kirletti.
 morphemes: çocuk-lar halı-yı kir-let-ti
 gloss: child-PL carpet-ACC dirt-make-PST
 translation: The children made the carpet dirty.
-note: -lAt makes a transitive verb from kir "dirt" (goksel2005 §7.2.2.1). halı "carpet" is glossed here.
+note: -lAt makes a transitive verb; Göksel and Kerslake list kirlet- under it (goksel2005 §7.2.2.1). The root is kir "dirt". halı "carpet" is glossed here.
 source: constructed
 confidence: constructed
 :::
@@ -173,7 +173,7 @@ confidence: constructed
 
 ## Watch out
 
-**Do not use -lA for "become" by default.** Some adjectives take *-lA* (*zayıfla-*), some *-lAş* (*güzelleş-*), some *-lAn* (*hazırlan-* "get ready"). The choice is a fact of each word; Göksel and Kerslake give no rule that predicts it. Learn each verb as you meet it, and do not build *\*güzelle-* or *\*kolaylan-*.
+**Do not use -lA for "become" by default.** Some adjectives take *-lA* (*zayıfla-*), some *-lAş* (*güzelleş-*), some *-lAn* (*hazırlan-* "get ready"). The choice is a fact of each word; Göksel and Kerslake give no rule that predicts it. Learn each verb as you meet it, and do not build *\*güzelle-* for "become beautiful". *Kolaylan-* exists, but TDK gives it as "be nearing completion", not "become easy".
 
 **Do not give a -lAn verb an object.** *-lAn* verbs are intransitive (goksel2005 §7.2.2.1). *\*Kahvaltıyı hazırlandım* is wrong; "I prepared breakfast" is *Kahvaltıyı hazırladım*. *Hazırlandım* alone is "I got ready".
 

@@ -236,7 +236,7 @@ source: wiktionary (भवति, लभते, अस्ति); whitney1889 §
 
 ## Connections
 
-Greek has an optative with the same mood sign (*-oi-* in thematic verbs, *-iē-* in others, the cognate of Sanskrit *-e-* and *-yā-*), used for wishes and possibility. Latin merged it into the subjunctive: *sit* "may he be" is the cognate of *syāt*, and Spanish *sea*, French *soit* descend from Latin forms of the same verb. English "may he live long" and "one should" are the usual translations.
+Greek has an optative with the same mood sign (*-oi-* in thematic verbs, *-iē-* in others, the cognate of Sanskrit *-e-* and *-yā-*), used for wishes and possibility. Latin merged it into the subjunctive: *sit* "may he be" (Old Latin *siet*) is the cognate of *syāt*. (Spanish *sea* is not: Wiktionary derives it from Latin *sedeat* "may he sit".) English "may he live long" and "one should" are the usual translations.
 
 ## Exercises
 

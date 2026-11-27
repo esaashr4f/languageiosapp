@@ -35,7 +35,7 @@ The masdar is also how Georgian says many things that English says with an infin
 
 - *-n-a*: *txov-n-a* "request" (*txovs*), *ʒeb-n-a* "search" (*eʒebs*).
 - *-om-a*, *-ol-a*: *dg-om-a* "standing", *ǯd-om-a* "sitting", *c̣-ol-a* "lying", *brʒ-ol-a* "fighting".
-- *-il-i*: *dum-il-i* "silence", *q̇vir-il-i* "shouting", *ṭq̇u-il-i* "lie" (lesson 4-15).
+- *-il-i*: *dum-il-i* "silence", *q̇vir-il-i* "shouting", *ṭq̇u-il-i* "lie" (lesson 4-4).
 - *si-* ... *-il-i* / *-ul-i*: *si-c-il-i* "laughter" from *icinis*, *si-rb-il-i* "running", *si-xar-ul-i* "joy", *si-q̇var-ul-i* "love" (lesson 4-18).
 - Motion: *svla* "going", *mosvla* "coming", *c̣asvla* "leaving" (Wiktionary).
 - Some medial verbs are made *from* a noun, which then serves as their masdar: *laṗaraḳi* "talk" → *laṗaraḳobs* (Bolkvadze and Kiziria).
@@ -102,7 +102,7 @@ translit: axla dumili sǯobs.
 morphemes: axla dum-il-i sǯobs
 gloss: now be.silent-MSD-NOM be.better.3SG
 translation: Now silence is better.
-note: An -il-i masdar. sǯobs "it is better" (lesson 4-22).
+note: An -il-i masdar. sǯobs "it is better" (lesson 4-23).
 source: bolkvadze2023 §9.8.1
 confidence: attested
 :::
@@ -146,7 +146,7 @@ translit: c̣asvlamde damireḳe.
 morphemes: c̣asvla-mde da-m-i-reḳ-e
 gloss: leaving-until PV-1SG.OBJ-OV-ring-AOR
 translation: Call me before you leave.
-note: The masdar takes -mde "until": "until leaving". damireḳe "ring me", imperative of ureḳavs (lesson 4-20).
+note: The masdar takes -mde "until": "until leaving". damireḳe "ring me", imperative of ureḳavs (lesson 4-21).
 source: constructed
 confidence: constructed
 :::

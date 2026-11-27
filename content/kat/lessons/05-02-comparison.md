@@ -85,7 +85,7 @@ translit: čemi ʒma čemze uprosia.
 morphemes: čem-i ʒma čem-ze upros-i=a
 gloss: my-NOM brother 1SG-than elder-NOM=be.3SG
 translation: My brother is older than me.
-note: uprosi "elder" (lesson 3-8) is itself a comparative in meaning, so it takes -ze but never upro.
+note: uprosi "elder" (lesson 3-7) is itself a comparative in meaning, so it takes -ze but never upro.
 source: constructed
 confidence: constructed
 :::
@@ -170,7 +170,7 @@ confidence: constructed
 ## Where it applies
 
 - **Adjectives in the predicate**: *tbilisi kutaisze didia*; and **before a noun**: *upro didi kalaki* "a bigger city", *q̇velaze didi kalaki*.
-- **Adverbs**: *upro* and *q̇velaze* work the same way with adverbs: *upro sc̣rapad* "faster", *q̇velaze ḳargad* "best" (as in "she sings best"). *Uḳetesad* is also used for "better" as an adverb.
+- **Adverbs**: *upro* and *q̇velaze* work the same way with adverbs: *upro sc̣rapad* "faster", *q̇velaze ḳargad* "best" (as in "she sings best"). *Uḳetesad* "better" is the adverb from *uḳetesi* (Wiktionary: comparative of *ḳargad*).
 - **Pronoun standards**: *čemze*, *šenze*, *masze*, *čvenze*, *tkvenze*, *matze* (lesson 3-8 forms).
 - **Nouns of amount**: *meṭi* and *naḳlebi*: *meṭi puli*, *naḳlebi xalxi*.
 - **vidre** when the standard is not a plain noun or pronoun: an adverb (*vidre gušin* "than yesterday") or, in part 6, a whole clause.

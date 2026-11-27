@@ -21,7 +21,7 @@ The multiples of twenty are themselves built from *oci*: *or-m-oci* "two twentie
 
 Above a hundred, Georgian is decimal like English: *asi* 100, *orasi* 200, *atasi* 1,000, *milioni* 1,000,000.
 
-The same *me-* turns up as the ordinal marker. An **ordinal** is a number that gives a position in a series: "third", "twentieth". Georgian makes it with the circumfix *me-* ... *-e* around the number's stem: *sami* → *mesame* "third", *oci* → *meoce* "twentieth". Only "first" is different: *ṗirveli*, which Bolkvadze and Kiziria trace not to *erti* "one" but to the noun *ṗiri* "face, person". You have already met *meore* "second; the other" (lesson 2-4).
+The same *me-* turns up as the ordinal marker. An **ordinal** is a number that gives a position in a series: "third", "twentieth". Georgian makes it with the circumfix *me-* ... *-e* around the number's stem: *sami* → *mesame* "third", *oci* → *meoce* "twentieth". Only "first" is different: *ṗirveli*, which Bolkvadze and Kiziria trace not to *erti* "one" but to the noun *ṗiri* "face, person". You have already met *meore* "second; the other" (lesson 2-3).
 
 ## How it is built
 
@@ -181,7 +181,7 @@ confidence: attested
 - **Years**: *atas cxraas samocdaekvsi* 1966; *ori atas ocdaekvsi* 2026. In a date the year takes the dative *c̣els* (lesson 5-5), and the last number drops its *-i* before it: *atas as ocdaert c̣els* "in the year 1121" (Bolkvadze and Kiziria).
 - **Ordinals for position**: floors, centuries, school years, kings (*baɣraṭ mesame* "Bagrat III", Bolkvadze and Kiziria), chapters and pages.
 - **Ordinals + -d** for "the nth time" (*meored*, *meated*) and **+ -di** for fractions (*mesamedi*, *meotxedi*).
-- **meore** has two jobs: "second" and "the other (of two)" (lesson 2-4).
+- **meore** has two jobs: "second" and "the other (of two)" (lesson 2-3).
 - **Phone numbers and prices** read with the same numbers: *ormocdaati lari* "fifty lari".
 
 ## Watch out

@@ -184,7 +184,7 @@ confidence: constructed
 - **Time** in the dative: *dɣes* "today", *dilas*, *saɣamos* (lesson 2-5), and in the instrumental: *ɣamit*, *dɣisit*, *dilit*. Fixed compounds: *amaɣam* "tonight", *gušinc̣in* "the day before yesterday".
 - **Place** with *-dan* and *-mde*: *akedan*, *akamde* (lesson 3-11), *tavidan* "from the beginning; again" (Wiktionary).
 - **Frequency** with *-ǯer*: *orǯer* "twice", *samǯer*, *ramdenǯer?* "how many times?". *Ertxel* "once" is the only *-xel* form.
-- **Cause and reason**: *amiṭom* "therefore, that is why", *imiṭom* "for that reason". *Imiṭom* also opens "because" clauses (lesson 6-6).
+- **Cause and reason**: *amiṭom* "therefore, that is why", *imiṭom* "for that reason". *Imiṭom* also opens "because" clauses (lesson 6-10).
 - **Postpositions on the genitive** (each a separate word): *šemdeg* "after", *c̣in* "before, in front of, ago", *uḳan* "behind", *šesaxeb* "about", *garda* "except, besides", *mier* "by (the doer)", *gamo* "because of", *gareše* "without".
 - **mier with participles**: the doer of a passive or a participle (*mamačemis mier ašenebuli*). It is formal and written.
 - **Fixed expressions**: *zeṗirad* "by heart" (Wiktionary), *pexit* "on foot" (lesson 4-11).

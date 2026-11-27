@@ -150,7 +150,7 @@ translit: am mc̣erals ramdenime daumtavrebeli romani akvs.
 morphemes: am m-c̣er-al-s ramdenime da-u-mtavr-eb-el-i roman-i akv-s
 gloss: this.OBL PTCP-write-PTCP-DAT several PV-PRIV-finish-TS-PRIV-NOM novel-NOM have-3SG.SBJ
 translation: This writer has several unfinished novels.
-note: The privative of damtavrebs "will finish" (amtavrebs, lesson 4-6), keeping -eb inside the circumfix.
+note: The privative of damtavrebs "will finish" (amtavrebs, lesson 4-1), keeping -eb inside the circumfix.
 source: bolkvadze2023 §9.8.2.2.3
 confidence: attested
 :::

@@ -80,8 +80,8 @@ preview: HIPH
 
 :::example
 orig: וְאָמְרוּ־לִי מַה־שְּׁמוֹ מָה אֹמַר אֲלֵהֶם
-translit: wəʾāmərû-lî mah-ššəmô māh ʾōmar ʾălēhem
-morphemes: wə-ʾāmər-û l-î mah ššəm-ô māh ʾōmar ʾălē-hem
+translit: wəʾāmərû-lî mah-ššəmô mâ ʾōmar ʾălēhem
+morphemes: wə-ʾāmər-û l-î mah ššəm-ô mâ ʾōmar ʾălē-hem
 gloss: WQTL-say-3PL to-1SG what name-3SG.M what say.YQTL.1SG to-3PL.M
 translation: ... and they ask me, "What is his name?", what shall I say to them?
 note: Moses at the bush. The qatal and weqatal of ʾāmar are regular; the yiqtol 1SG is ʾōmar. The yiqtol here is "shall I say" (lesson 4.3). mah doubles the next letter.
@@ -115,8 +115,8 @@ confidence: attested
 
 :::example
 orig: וְלָמָּה נָפְלוּ פָנֶיךָ
-translit: wəlāmmâ nāp̄əlû p̄āneḵā
-morphemes: wə=lāmmâ nāp̄əl-û p̄ān-eḵā
+translit: wəlāmmâ nāp̄əlû p̄ānêḵā
+morphemes: wə=lāmmâ nāp̄əl-û p̄ān-êḵā
 gloss: and=why fall.QTL-3PL face.PL-2SG.M
 translation: And why has your face fallen?
 note: The next verse. With no prefix the n is a plain consonant: the qatal is regular.
@@ -185,7 +185,7 @@ confidence: attested
 - **The same assimilation in other stems:** niphal *niggaš* (from *ningaš*), hiphil *higgîḏ* "he told", hophal *huggaḏ* (Gesenius §66d). Lesson 4.24.
 - **Short imperatives and infinitives** of *a*-verbs: *gaš*, *gešeṯ*, *tēn*, *tēṯ*; and of *lāqaḥ*: *qaḥ*, *qaḥaṯ*.
 - **First-*ʾ* verbs with *ō*:** only *ʾāmar*, *ʾāḵal*, *ʾāḇaḏ*, *ʾāḇâ*, *ʾāp̄â* regularly, and *ʾāḥaz* mostly (*yōʾḥēz*) (Gesenius §68b).
-- **Nouns** from these roots keep or lose the *n* by the same rule: *mappāl* "what falls", *mattānâ* "gift" (lesson 7.9).
+- **Nouns** from these roots lose the *n* by the same rule when a prefix closes on it: *mattānâ* "gift", from *n-t-n* (lesson 7.9).
 
 ## Watch out
 
@@ -234,6 +234,9 @@ source: gkc1910 §66, §68; oshb (yippōl 22×, yiggaš 5×, yittēn 105×, yō�
 מְעָרָה | məʿārâ | noun | cave | construct məʿāraṯ
 מַכְפֵּלָה | maḵpēlâ | proper noun | Machpelah | the cave of Abraham's family
 רְכוּשׁ | rəḵûš | noun | goods, property | 
+נָגַע | nāḡaʿ | verb | touch, reach | root n-g-ʿ; with bə-
+נָטָה | nāṭâ | verb | stretch out, extend; pitch (a tent); turn aside | root n-ṭ-h; wayyiqtol wayyēṭ
+מַתָּנָה | mattānâ | noun | gift | root n-t-n
 הִנֵּנִי | hinnēnî | particle | here I am | hinnēh + "me"; lesson 5.10
 :::
 

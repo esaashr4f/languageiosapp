@@ -17,7 +17,7 @@ Some statements have no doer. Rain falls, but nobody rains. Shame is felt, but t
 
 An **impersonal verb** is a verb used only in the third person singular (and the infinitive), with no personal subject (ag1903 §207). Allen and Greenough sort them into four groups (§208), and each group has its own logic.
 
-1. **Weather and nature**: *pluit* "it rains", *tonat* "it thunders", *ningit* "it snows". Nobody is thought of as the subject. A poet can still say *Iuppiter tonat* "Jupiter thunders" (§208a note).
+1. **Weather and nature**: *pluit* "it rains", *tonat* "it thunders", *ningit* "it snows". Nobody is thought of as the subject. With a god as subject the verb can still be personal: *Iuppiter tonat* "Jupiter thunders" (§208a note).
 2. **Feelings**: *pudet* "it shames", *paenitet* "it makes sorry", *piget* "it irks", *taedet* "it wearies", *miseret* "it moves to pity". The person who feels is in the accusative, as the one affected, and the cause of the feeling is in the genitive: *mē pudet huius reī* "it shames me of this thing", "I am ashamed of this" (§§208b, 354b). The feeling acts on you; you do not act.
 3. **Verbs whose subject is a whole infinitive or clause**: *licet* "it is allowed", *oportet* "it is right, one ought", *decet* "it is fitting", *libet* and *placet* "it pleases", *necesse est* "it is necessary", *cōnstat* "it is agreed", *accidit* "it happens", *interest* and *rēfert* "it matters". Here there is a subject, but it is an action: *morī necesse est* "to die is necessary" (§§208c, 454).
 4. **The impersonal passive of intransitive verbs**: *pugnātur* "there is fighting", *ītur* "there is going", *ventum est* "they came" (§208d). Part 4 met this briefly.
@@ -30,9 +30,9 @@ The fourth group needs a reason. How can "fight", which has no object, be passiv
 
 **Choosing the case of the person.** Each verb has its own case for the person concerned (ag1903 §455 note):
 
-- dative with *licet*, *libet*, *placet*, *vidētur* "it seems good": *mihi licet* "I am allowed";
+- dative with *libet*, *placet*, *vidētur* "it seems good": *mihi placet* "I decide";
 - accusative with *oportet*, *decet* and the verbs of feeling: *mē oportet* "I ought", *mē pudet* "I am ashamed";
-- either with *necesse est*;
+- either with *licet* and *necesse est*: *mihi licet* "I am allowed", but also *sī licet vīvere eum …* "if that man is allowed to live …" (Cicero, quoted in ag1903 §455);
 - genitive with *interest* and *rēfert*, but *meā*, *tuā*, *nostrā* for a personal pronoun: *Caesaris interest* "it matters to Caesar", *meā interest* "it matters to me" (§355).
 
 Wiktionary derives *rēfert* from *rē*, the ablative of *rēs* "matter", + *fert*: that is why its *ē* is long, unlike *referō* "bring back". Why *meā* is an ablative feminine with both verbs is not explained here.
@@ -196,13 +196,13 @@ confidence: attested
 
 - *licet* + dative and infinitive: *nōbīs manēre licet*; + subjunctive without *ut*: *licet abeās* "you may go"; as "although", part 6, lesson 14;
 - *oportet* + accusative and infinitive, or + subjunctive without *ut*;
-- *decet* + accusative and infinitive: "it is particularly unbecoming for an orator to lose his temper" is Cicero's *ōrātōrem īrāscī minimē decet* (Tusculans 4.54, quoted in ag1903 §455);
+- *decet* + accusative and infinitive: "it is particularly unbecoming for an orator to lose his temper" is Cicero's *ōrātōrem … īrāscī minimē decet* (Tusculans 4.55 in The Latin Library's numbering, 4.54 in ag1903 §455; the edition has *vērō* after *ōrātōrem*);
 - *libet*, *placet* + dative and infinitive; *placet* also for an official decision, "it was resolved";
 - *vidētur*, *vīsum est* + dative: "it seems good to …", "… decides";
 - *necesse est* + infinitive, with dative or accusative of the person, or + subjunctive: *necesse est morī*;
 - *cōnstat*, *appāret* + accusative and infinitive (part 6, lesson 5);
 - *accidit*, *ēvenit*, *contingit*, *fit* + *ut* clause of result (part 6, lesson 9): *accidit ut esset lūna plēna* "it happened that there was a full moon" (Caesar, Gallic War 4.29.1);
-- *interest*, *rēfert* + genitive or *meā*, *tuā*; + an infinitive or a clause: *Clōdiī intererat Milōnem perīre* "it was in Clodius' interest that Milo should die" (Cicero, quoted in ag1903 §355);
+- *interest*, *rēfert* + genitive or *meā*, *tuā*; + an infinitive or a clause: *Clōdiī intererat Milōnem perīre* "it was in Clodius' interest that Milo should die" (adapted from Cicero, For Milo 56, in ag1903 §355);
 - *restat ut*, *superest ut* "it remains that".
 
 **Impersonal passive** (§208d):
@@ -220,7 +220,7 @@ confidence: attested
 
 **Do not make the person the subject.** *\*Ego pudeō* and *\*Ego oportet*, built on English "I am ashamed", "I ought", fail. *Pudet* and *oportet* take the person in the accusative: *mē pudet*, *mē oportet*. Spanish *me gusta*, where the thing liked is the subject and the person is indirect, is a better model.
 
-**Do not give *licet* an accusative of the person.** *\*Mē licet manēre* is not the classical form; *licet* takes the dative: *mihi licet manēre* (ag1903 §455 note).
+**Do not treat *licet* like *oportet*.** *Licet* takes either case: the dative, *mihi licet manēre*, or an accusative subject of the infinitive (ag1903 §455 note). With *oportet* it is the other way round: never a dative, *\*mihi oportet*, but *mē oportet*.
 
 **Do not put the cause of a feeling in the accusative.** *\*Mē pudet hanc rem* fails: the cause is genitive, *huius reī*. A neuter pronoun can stand as the subject instead: *nōn tē haec pudent?* "doesn't this shame you?" (Terence, quoted in ag1903 §354c note).
 
@@ -244,7 +244,7 @@ confidence: verified
 source: ag1903 §§207–208, 354–355, 455
 | Verb | Meaning | Person | Other |
 |---|---|---|---|
-| licet | it is allowed | dative | infinitive or subjunctive |
+| licet | it is allowed | dative or accusative | infinitive or subjunctive |
 | libet, placet, vidētur | it pleases, seems good | dative | infinitive |
 | oportet, decet | it is right, fitting | accusative | infinitive or subjunctive |
 | pudet, paenitet, piget, taedet, miseret | shame, regret, irk, weary, pity | accusative | genitive of the cause, or infinitive |
@@ -291,7 +291,7 @@ Spanish *me gusta*, *me duele* and French *il me faut* keep the Latin habit of p
 5. Translate *Mē tuī miseret.*
 6. Translate *Diū pugnātum est; tandem ad castra ventum est.*
 7. Translate *Hoc meā nihil rēfert.*
-8. Correct *\*Ego pudeō huius reī* and *\*Mē licet abīre*.
+8. Correct *\*Ego pudeō huius reī* and *\*Mihi oportet abīre*.
 9. Correct *\*Ācriter pugnātī sunt* (meant as "there was fierce fighting").
 10. Why can a verb with no object, like *pugnō*, have a passive at all?
 
@@ -304,6 +304,6 @@ Spanish *me gusta*, *me duele* and French *il me faut* keep the Latin habit of p
 5. "I pity you." *Tuī* is the genitive of *tū*, the cause of the pity (ag1903 §354b).
 6. "There was fighting for a long time; at last they reached the camp." Two impersonal perfect passives of intransitive verbs, *pugnātum est* and *ventum est* (ag1903 §208d).
 7. "This does not matter to me at all." *Meā* is the feminine ablative of the possessive, used with *rēfert* and *interest* (ag1903 §355a); *nihil* is an adverbial accusative of degree.
-8. *Mē huius reī pudet*: the person is accusative, the cause genitive. *Mihi licet abīre*: *licet* takes the dative (ag1903 §455 note).
+8. *Mē huius reī pudet*: the person is accusative, the cause genitive. *Mē oportet abīre* (or *mē abīre oportet*): *oportet* takes the accusative only, never the dative (ag1903 §455 note).
 9. *Ācriter pugnātum est.* The impersonal passive has no personal subject, so the participle is neuter singular.
 10. Allen and Greenough explain that the Latin passive was in origin reflexive or middle, "the action accomplishing itself" (ag1903 §208d note). *Pugnātur* presents fighting as something that goes on, with no subject needed.

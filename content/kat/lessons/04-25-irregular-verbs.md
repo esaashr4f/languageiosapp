@@ -185,7 +185,7 @@ confidence: constructed
 
 **Do not build a future of "say" on the present.** *\*Iambobs*, *\*daambobs* do not exist. The future is *iṭq̇vis*.
 
-**Do not build an aorist of "give" with ʒlev.** *\*Miaʒleva* is wrong (Bolkvadze and Kiziria say *šeaʒlia* means "offered"). "Gave" is *misca*.
+**Do not build an aorist of "give" with ʒlev.** *\*Miaʒleva* is wrong: the stem *ʒlev* belongs to the present group. "Gave" is *misca*. (Lingua.ge also lists a rarer *še-* set on *ʒlev*, *šeaʒlevs*, *šeaʒlia*; leave it for later.)
 
 **Do not use xed- outside the present group.** *\*Daxeda*, *\*mixedavs* are not "saw", "has seen". Use *naxa*, *dainaxa*, *minaxavs*.
 

@@ -33,7 +33,7 @@ Take the stem *-ingi* "many" and walk through the prefixes.
 4. **m before a vowel becomes mw.** Classes 1, 3, 11 and 18: *mwema*, *mwekundu*, *mwingi*. You know this from nouns: *mwalimu*, *mwaka*.
 5. **Class 9 and 10: ny- before the vowel.** *nyekundu*, *nyeupe*, *nyingi*. This is the nasal of lesson 3.6 meeting a vowel (Polomé §2.2.2.2).
 6. **Class 5: j- before the vowel.** *jekundu*, *jingi*, *jema*. Polomé traces this *j-* to the old class 5 prefix that also gives *jicho* "eye".
-7. **a + o does not merge.** *-ovu* "evil" gives *waovu* "evil people" and *maovu*; Polomé's example is *maisha maovu* "an evil life". (The one exception, *wote* "all", is lesson 5.5.)
+7. **a + o does not merge.** *-ovu* "evil" gives *waovu* "evil people" and *maovu*; Polomé's example is *maisha maovu* "an evil life" (§2.2.1.1), and he also gives class 3 *mji mwovu* "a wicked town". (The one exception, *wote* "all", is lesson 5.5.) The sources disagree on how far *-ovu* goes: Wikipedia's "Swahili grammar" and Wiktionary say it has only the class 1/2 forms *mwovu*, *waovu*, because it describes only people, yet Wiktionary's own examples include class 5 *jicho ovu* "evil eye" (without *j-*). Use *mwovu* and *waovu* freely; treat other classes as possible but less common.
 
 **The one true exception.** By rule 5, *-ema* in class 9 should be *nyema*. It is *njema*: *safari njema* "a good journey". Polomé says plainly that this exception "cannot be accounted for". Learn it as a single fact.
 
@@ -251,7 +251,7 @@ source: wiktionary (-ema, -ingi, -ekundu, -pya tables); almasi2014 table 13.1 (p
 -embamba | - | adjective | thin, slim; narrow | class 9 nyembamba
 -epesi | - | adjective | light (not heavy); easy, quick | class 9 nyepesi
 -erevu | - | adjective | clever; cunning | class 9 nyerevu
--ovu | - | adjective | evil, wicked | waovu, maovu (a + o does not merge)
+-ovu | - | adjective | evil, wicked | mwovu, waovu (a + o does not merge); other classes disputed
 -pya | - | adjective | new, fresh | class 5 jipya; class 9/10 mpya
 -zima | - | adjective | whole, entire; healthy, well (of people) | class 9 nzima
 -kuu | - | adjective | great, main, chief | mkuu "chief, head"; class 9 kuu

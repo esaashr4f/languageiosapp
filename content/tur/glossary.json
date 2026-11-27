@@ -249,6 +249,19 @@
   "necessitative": "The -mAlI form 'must' (tur-04-12).",
   "impotential": "The -(y)AmA form 'cannot' (tur-04-13).",
   "optative": "The -(y)A form for wishes and suggestions (tur-04-14).",
-  "imperfective": "Viewing an action as ongoing or repeated (tur-04-17)."
+  "imperfective": "Viewing an action as ongoing or repeated (tur-04-17).",
+  "adjective": "A word describing a noun (tur-05-01).",
+  "adverb": "A word describing a verb, adjective or sentence (tur-05-01).",
+  "comparative": "The 'more' form, with daha (tur-05-02).",
+  "superlative": "The 'most' form, with en (tur-05-02).",
+  "numeral": "A number word (tur-05-03).",
+  "ordinal": "A number for position, in -(I)ncI: üçüncü 'third' (tur-05-03).",
+  "distributive": "A number meaning 'each', in -(ş)Ar: birer 'one each' (tur-05-03).",
+  "genitive-attracting pronoun": "One of the eight pronouns (ben, sen, biz, siz, bu, şu, o, kim) that take the genitive before certain postpositions (tur-05-05).",
+  "location noun": "A noun such as üst, alt, iç used with a possessive to express place (tur-05-07).",
+  "conjunction": "A word joining words or clauses (tur-05-08).",
+  "discourse connective": "A word linking a sentence to what came before (tur-05-08).",
+  "derivational suffix": "A suffix that makes a new word, as opposed to an inflectional suffix that marks grammar (tur-05-09).",
+  "reduplication": "Doubling a word or its first syllable for emphasis (masmavi) or 'and such' (kitap mitap) (tur-05-11)."
  }
 }

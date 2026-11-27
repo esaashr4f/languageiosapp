@@ -357,3 +357,13 @@ Translations are always our own.
 - In nominal predicates -lAr goes after the copula (zenginmişler, not *zenginlermiş), except after a locative or değil/yok (G&K §8.4).
 - TDK's yazım kuralları pages are reachable (2026-11-27); this updates the earlier note that TDK was unreachable.
 - Do not reuse G&K's example sentences verbatim, even generic ones (Çay içer misiniz? is G&K ex. 168).
+
+
+## Notes from drafting part 5 (2026-11-27)
+
+- Ordinals and distributives are glossed in lower case as derivation (`üç-üncü three-th`, `bir-er one-each`); no ORD or DISTR abbreviation (coordinator's decision, to keep part 5 glosses as drafted).
+- Reduplication: `mas-mavi very-blue`; `kitap mitap book and.such`. Lexicalised words glossed whole: geçe `past`, kala `to`, olarak `as`, gittikçe `go-as.long.as` (preview of -DIkçA). Time -DIr (üç yıl-dır) glossed COP. -lA `make`, -lAş `become`/`each.other`, -lAn `self`, -(y)Iş `act`, -CI `person`, -lI `with`/`from`, -sIz `without`, -lIK `ness`/`thing.for`/`place.for`.
+- Clock time: "at" forms (ikiyi beş geçe, dörde yirmi kala) from G&K §16.4.1.1. The forms for telling the time (Saat ikiyi beş geçiyor, dörde yirmi var) are confirmed only in teaching sites, not in G&K or Wiktionary: the verifier should confirm them (TDK or another standard source) or keep the lesson's caveat.
+- Distributives beyond 1–10 and 1,000 are built from Wiktionary's -er allomorph table and G&K §15.7.3 (caption says so).
+- Taught in part 5: daha, bir daha, başka, akşamları, sürekli, yetişmek, de/da, çünkü, müşteri, kavga etmek; kadar as postposition. Pointers left for part 6: -mAsInA rağmen (06-14); -mAdAn önce, -DIktAn sonra (06-07); -DIğI için, -mAk için (06-09); o kadar … ki (06-12); converbs damlaya, gittikçe; live reflexive/reciprocal suffixes (07-03).
+- TDK's dictionary lookup gave empty replies on 2026-11-27 (its yazım pages worked earlier the same day).

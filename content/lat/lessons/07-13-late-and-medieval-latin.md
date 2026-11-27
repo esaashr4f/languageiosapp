@@ -15,10 +15,10 @@ sources: [ag1903, wiktionary, thelatinlibrary, vulgate]
 
 Latin did not stop with Cicero. It went on as the language of the Roman Empire, then of the Western Church, of law, of universities and of government, for more than a thousand years after Caesar. Most Latin ever written is not classical. If you want to read a charter, a chronicle, a hymn or a papal letter, you need to know what changed.
 
-The good news is that the grammar is almost entirely the one you know. Medieval writers learned Latin at school from classical models, so they decline and conjugate as Cicero did. What differs falls into four kinds.
+The good news is that the grammar is almost entirely the one you know: the texts below decline and conjugate as Cicero did. What differs falls into four kinds.
 
 1. **Syntax that follows the spoken language.** The accusative and infinitive gives way, more and more, to a clause with *quod*, *quia* or *quoniam* "that" (part 6 met this in the Vulgate). The ablative of the gerund is used like a present participle, "while doing": Allen and Greenough note that in later writers it is "nearly", and in medieval writers "entirely", equivalent to one (ag1903 §507, footnote 5). Moods and the sequence of tenses are handled more loosely.
-2. **New vocabulary.** Christianity brought Greek and Hebrew words (*ecclēsia* "church", *episcopus* "bishop", *baptizō*, *angelus*, *prophēta*), and new meanings for old words: *Dominus* "the Lord", *saeculum* "the world, this life", *gentēs* "the heathen", *fidēlis* "a believer". Later centuries added words for new things: *dominium* "lordship", *comes* "count", *dux* "duke".
+2. **New vocabulary.** The Church brought words from Greek (Wiktionary traces *ecclēsia* "church" and *episcopus* "bishop" to Greek; so too *baptizō*, *angelus*, *prophēta*) and new meanings for old words: *Dominus* "the Lord", *saeculum* "the world, this life". Later centuries added words for new things and new senses: *dominium* "lordship", *mīles* "knight".
 3. **Spelling.** Medieval scribes wrote what they heard. The diphthong *ae* is often written *e* (*Ecclesie* for *Ecclēsiae*); *ti* before a vowel appears as *ci* (*gracia* for *grātia*, *diuicias* for *dīvitiās*); *mihi*, *nihil* appear as *michi*, *nichil* (Wiktionary lists *michi* as a Late Latin spelling); final *d* and *t* are confused (*set* for *sed*). Vowel length was no longer heard, so medieval texts are printed without macrons.
 4. **Formulas of documents.** Charters and letters open and close with set phrases: the addressee in the dative, a dating clause *Datum apud …* "given at …", and the year *annō grātiae* or *annō Dominī* "in the year of grace, of the Lord", with the day counted forwards: *sextō diē mēnsis Aprīlis* "on the sixth day of April".
 
@@ -41,15 +41,15 @@ The good news is that the grammar is almost entirely the one you know. Medieval 
 1. **Normalise the spelling** in your head: *e* may be *ae*, *ci* may be *ti*, *ch* may be *h*, *set* is *sed*.
 2. **Expect *quod*, *quia*, *quoniam* + a finite verb** where Cicero would have an accusative and infinitive: *putant quia … exaudiantur* "they think that … they will be heard".
 3. **Read an ablative gerund** that describes someone's action as a participle: *flendō sēdisset* "she was sitting weeping".
-4. **Check the meaning of common words** in a medieval dictionary sense: *comes* is "count", not "companion"; *saeculum* "the world"; *dominus* often "lord", *Dominus* "the Lord".
+4. **Check the meaning of common words** in a medieval dictionary sense: *mīles* is often "knight", not "soldier"; *saeculum* "the world"; *dominus* often "lord", *Dominus* "the Lord".
 5. **Read dates forwards**: *sextō diē mēnsis Aprīlis* is 6 April; there is no counting back from the Kalends.
 
 ## Examples
 
 :::example
 orig: Pater noster, quī es in caelīs, sānctificētur nōmen tuum; adveniat rēgnum tuum; fīat voluntās tua, sīcut in caelō, et in terrā.
-morphemes: pater nos-ter quī es in cael-īs sānctificē-tur nōmen tu-um adveni-a-t rēgn-um tu-um fī-a-t voluntās tu-a sīcut in cael-ō et in terr-ā
-gloss: father.VOC.SG our-VOC.SG.M REL.NOM.SG.M be.2SG in heaven-ABL.PL hallow.SBJV-3SG.PASS name.NOM.SG your-NOM.SG.N come-SBJV-3SG kingdom-NOM.SG your-NOM.SG.N become-SBJV-3SG will.NOM.SG your-NOM.SG.F as in heaven-ABL.SG also on earth-ABL.SG
+morphemes: pater noster quī es in cael-īs sānctificē-tur nōmen tu-um adveni-a-t rēgn-um tu-um fī-a-t voluntās tu-a sīcut in cael-ō et in terr-ā
+gloss: father.VOC.SG our.VOC.SG.M REL.NOM.SG.M be.2SG in heaven-ABL.PL hallow.SBJV-3SG.PASS name.NOM.SG your-NOM.SG.N come-SBJV-3SG kingdom-NOM.SG your-NOM.SG.N become-SBJV-3SG will.NOM.SG your-NOM.SG.F as in heaven-ABL.SG also on earth-ABL.SG
 translation: Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done, on earth as it is in heaven.
 note: The Lord's Prayer in the Vulgate. Classical grammar throughout: jussive subjunctives (part 4). sānctificō "make holy" is a late word. Ecclesiastical pronunciation: [ˈtʃɛːlis], [ˈrɛɲɲum].
 source: Vulgate, Matthew 6.9–10
@@ -108,21 +108,20 @@ confidence: attested
 
 :::example
 orig: Quia quamdiu centum ex nobis vivi remanserint, nuncquam Anglorum dominio aliquatenus volumus subiugari.
-morphemes: quia quamdiu cent-um ex nobis viv-i remans-eri-nt nuncquam Angl-orum domini-o aliquatenus volu-mus subiuga-ri
-gloss: for as.long.as hundred-NOM.PL out.of 1PL.ABL alive-NOM.PL.M remain.PRF-FUTP-3PL never Englishman-GEN.PL lordship-DAT.SG to.any.extent want-1PL subdue-INF.PASS
+morphemes: quia quamdiu cent-um ex nobis viv-i remans-eri-nt nuncquam Angl-orum domini-o aliquatenus volumus subiuga-ri
+gloss: for as.long.as hundred-NOM.PL out.of 1PL.ABL alive-NOM.PL.M remain.PRF-FUTP-3PL never Englishman-GEN.PL lordship-DAT.SG to.any.extent want.1PL subdue-INF.PASS
 translation: For as long as a hundred of us remain alive, we will never on any terms consent to be subjected to the lordship of the English.
 note: quia opens a main clause, "for", a common medieval use. nuncquam = numquam. The future perfect remanserint in the time clause is classical (part 4).
 source: Declaration of Arbroath (The Latin Library)
 confidence: attested
-preview: numeral
 :::
 
 :::example
-orig: Datum apud Monasterium de Abirbrothoc in Scocia sexto die mensis Aprilis anno gracie millesimo trescentesimo vicesimo.
-morphemes: dat-um apud monasteri-um de Abirbrothoc in Scoci-a sext-o di-e mens-is Aprilis ann-o graci-e millesim-o trescentesim-o vicesim-o
-gloss: give.PTCP-NOM.SG.N at monastery-ACC.SG of Arbroath in Scotland-ABL.SG sixth-ABL.SG.M day-ABL.SG month-GEN.SG April.GEN.SG year-ABL.SG grace-GEN.SG thousandth-ABL.SG.M three.hundredth-ABL.SG.M twentieth-ABL.SG.M
-translation: Given at the monastery of Arbroath in Scotland on the sixth day of the month of April, in the year of grace 1320.
-note: The dating clause. Days counted forwards; the year as an ordinal; de + ablative for "of" a place; gracie = grātiae. The edition prints in Scocis, "among the Scots"; Scocia is the editor's alternative reading noted in some editions and is used here only to keep the gloss simple.
+orig: Datum apud Monasterium de Abirbrothoc in Scocis sexto die mensis Aprilis anno gracie millesimo trescentesimo vicesimo.
+morphemes: dat-um apud monasteri-um de Abirbrothoc in Scoc-is sext-o di-e mens-is Aprilis ann-o graci-e millesim-o trescentesim-o vicesim-o
+gloss: give.PTCP-NOM.SG.N at monastery-ACC.SG of Arbroath among Scot-ABL.PL sixth-ABL.SG.M day-ABL.SG month-GEN.SG April.GEN.SG year-ABL.SG grace-GEN.SG thousandth-ABL.SG.M three.hundredth-ABL.SG.M twentieth-ABL.SG.M
+translation: Given at the monastery of Arbroath among the Scots on the sixth day of the month of April, in the year of grace 1320.
+note: The dating clause. Days counted forwards; the year as an ordinal; de + ablative for "of" a place; gracie = grātiae; Scocis = Scotis.
 source: Declaration of Arbroath, dating clause (The Latin Library)
 confidence: attested
 :::
@@ -130,13 +129,11 @@ confidence: attested
 ## Where it applies
 
 - **The Vulgate**, the standard Latin Bible of the Western Church, and the liturgy: mostly classical grammar, with *quia* and *quod* clauses, *factum est*, *ecce* "behold", and a plain, repetitive style. *Videō quia prophēta es tū* "I see that you are a prophet" (John 4.19) was part 6's example.
-- **Church Fathers and late writers**: Augustine, Jerome, Gregory the Great; also late Roman law and inscriptions.
 - **Medieval prose**: chronicles, saints' lives, letters, philosophy, law. Charters and papal letters follow fixed formulas: greeting, address in the dative, body, dating clause (*Datum …*).
-- **Medieval verse**: hymns and songs (the Carmina Burana) that count syllables and rhyme instead of following classical quantities.
 - **Accusative and infinitive alongside *quod*, *quia***: careful medieval writers still use the classical construction; both appear in the same text.
 - **Ablative gerund for a participle**: *flendō*, *equitandō* (ag1903 §507, footnote 5).
 - **Spelling variants** in manuscripts and many editions: *e* for *ae*, *ci* for *ti*, *ch* for *h*, *y* for *i*, doubled or single consonants (*nuncquam*). Modern editions of medieval texts usually keep them, as the Declaration's editor does.
-- **New meanings**: *mīles* "knight", *comes* "count", *dux* "duke", *ecclēsia* "church", *saeculum* "the world".
+- **New meanings**: *mīles* "knight", *ecclēsia* "church", *saeculum* "the world", *Dominus* "the Lord".
 - **Dates**: *annō Dominī*, *annō grātiae*, days counted forwards; but learned writers kept the Roman calendar too (lesson 11).
 
 ## Watch out
@@ -201,7 +198,7 @@ multiloquium | - | noun | talkativeness, many words | multiloquiī, n.
 
 ## Connections
 
-The ablative gerund used as a participle is the source of the Spanish and Italian gerund (*llorando*, *piangendo*), as Allen and Greenough note (ag1903 §507, footnote 5). The *quod*, *quia* clause parallels Spanish and French *que* + finite verb. The ecclesiastical pronunciation is close to Italian because it is the Italian way of reading Latin; Spanish and French readers traditionally used their own sounds instead.
+The ablative gerund used as a participle is the source of the Spanish and Italian gerund (*llorando*, *piangendo*), as Allen and Greenough note (ag1903 §507, footnote 5). The *quod*, *quia* clause parallels Spanish and French *que* + finite verb. The ecclesiastical pronunciation, as the name "Italianate" says, follows Italian rules of spelling and sound: compare Italian *cielo* and *regno* with [ˈtʃɛːlum] and [ˈrɛɲɲum].
 
 ## Exercises
 

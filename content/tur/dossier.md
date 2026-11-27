@@ -367,3 +367,11 @@ Translations are always our own.
 - Distributives beyond 1–10 and 1,000 are built from Wiktionary's -er allomorph table and G&K §15.7.3 (caption says so).
 - Taught in part 5: daha, bir daha, başka, akşamları, sürekli, yetişmek, de/da, çünkü, müşteri, kavga etmek; kadar as postposition. Pointers left for part 6: -mAsInA rağmen (06-14); -mAdAn önce, -DIktAn sonra (06-07); -DIğI için, -mAk için (06-09); o kadar … ki (06-12); converbs damlaya, gittikçe; live reflexive/reciprocal suffixes (07-03).
 - TDK's dictionary lookup gave empty replies on 2026-11-27 (its yazım pages worked earlier the same day).
+
+
+## Notes from verifying part 5 (2026-11-27)
+
+- Copying: the part 5 verifier found and replaced about 14 example sentences copied word for word or nearly from Göksel & Kerslake. Drafters must build their own sentences; earlier parts get a check for this at the pilot gate.
+- Telling the time (Saat ikiyi beş geçiyor, dörde yirmi var) is confirmed by TDK dictionary examples (geçmek, çeyrek, yarım). TDK's dictionary lookup worked on 2026-11-27 around 06:00 GMT.
+- Time adverbs in -lArI (sabahları, akşamları) are glossed PL-in, not PL-3SG.POSS (G&K §7.2.2.2).
+- kolaylanmak exists (TDK, "be nearing completion"): do not star it. ama and fakat are interchangeable (G&K §28.3.4.1): do not call fakat formal.

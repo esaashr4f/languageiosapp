@@ -45,3 +45,16 @@ Worked answers checked: 180   corrected: 2
 Corrections (summary): G&K §8.2 slot order stated as G&K give it; *geliyordük starred (not geliyorduk); deyin no longer starred (diyin per Wiktionary, both seen; *yeyin stays); proverb it ürü-r (vowel stem ürü-); meğer cited to §16.3 (iv); *Çok zenginlermiş -> zenginmişler (-lAr after the copula, §8.4); optative stress gidelím, bakayím (§4.3.2); oluyor in identity statements qualified (§21.3.4.3); impersonal 3SG example without a subject; worked answers 04-05 #1 and 04-18 #9 fixed; invented semantic histories removed.
 
 Still open: diyin vs deyin not settled by a TDK rule for the imperative; final stress on -(y)AyIm/-(y)AlIm inferred from G&K's unstressable list; "*Evdeydi mi? is heard" unsourced; Çay içer misiniz? matches G&K ex. 168 (generic); Öküzün Suçu revision id not recorded.
+
+
+### Part 5 — verified 2026-11-27 by fresh subagent
+Lessons checked: tur-05-01 to tur-05-12 (review 05-12)
+Forms checked: c. 1,200   corrected: 2   left unverified: 0
+Glosses checked: 557 words (127 example blocks)   corrected: 2
+Attested quotations checked: 2   corrected: 0
+Claims checked: c. 150   corrected or removed: 17
+Worked answers checked: 129   corrected: 2
+
+Corrections (summary): about 14 example sentences found to be copied word for word or nearly from Göksel & Kerslake were replaced with new ones (05-02, 05-04, 05-06, 05-07, 05-08, 05-11); clock-time forms confirmed from TDK dictionary examples (geçmek, çeyrek, yarım), caveat removed; akşam-lar-ı glossed evening-PL-in (G&K §7.2.2.2); ikisi "two of them" vs her ikisi / ikisi de "both"; ama/fakat interchangeable, ancak/yalnız introduce a drawback; kolaylanmak exists (TDK), no longer starred; Çeşit çeşit yemekler un-starred; İlginc-i; ist-iyor-uz; G&K section citations fixed.
+
+Still open: Saat kaç? and Bugün günlerden ne? are fixed formulas identical to G&K examples, kept; minutes with geçiyor not shown in a source; "*Pazartesiler çalışırım" unsourced; herkese birer dondurma with a singular receiver unconfirmed; kanepe in vocab without an example.

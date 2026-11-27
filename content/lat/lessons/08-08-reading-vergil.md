@@ -17,7 +17,7 @@ The Aeneid tells how Aeneas, a Trojan prince, escaped the fall of Troy and after
 
 You have already met most of these lines one at a time: line 1 in part 4, line 3 in part 4 and part 7, line 4 in part 7, lesson 6, and lines 1, 2, 3, 7 and 11 scanned in part 7, lesson 8. Here they come together.
 
-The wording and the macrons are those of The Latin Library's edition of Aeneid 1, which prints macrons itself. Two words differ from this guide's usual spelling: the edition has *Trōiae* and *īnsīgnem*, where Wiktionary, which the guide follows, has *Troia* and *īnsignis* (part 7, lessons 2 and 8); the guide's forms are used below. Each note gives the scansion; — is a heavy syllable, ∪ a light one, ‖ the main caesura.
+The wording and the macrons are those of The Latin Library's edition of Aeneid 1, which prints macrons itself. Three words differ from this guide's usual spelling: the edition has *Trōiae*, *inferretque* and *īnsīgnem*, where Wiktionary, which the guide follows, has *Troia* (its *Trōia* is a form of the adjective *Trōius*), *īnferō* and *īnsignis* (part 7, lessons 2 and 8); the guide's forms are used below. Each note gives the scansion; — is a heavy syllable, ∪ a light one, ‖ the main caesura, which for lines 1 to 7 is placed where Allen and Greenough place it (ag1903 §615d).
 
 ## The first sentence (lines 1–7)
 
@@ -36,7 +36,7 @@ orig: Ītaliam, fātō profugus, Lāvīniaque vēnit
 morphemes: Ītali-am fāt-ō profug-us Lāvīni-a=que vēn-it
 gloss: Italy-ACC.SG fate-ABL.SG exiled-NOM.SG.M Lavinian-ACC.PL.N=and come.PRF-3SG
 translation: … came, an exile by fate, to Italy and the Lavinian
-note: — ∪ ∪ | — — | — ‖ ∪ ∪ | — — | — ∪ ∪ | — ∪, caesura after fātō, with Ītaliam's I long and Lāvīnia said in three syllables (part 7, lesson 8). Place to which without a preposition (part 7, lesson 9). fātō "by fate": ablative of cause.
+note: — ∪ ∪ | — — | — ∪ ∪ | — ‖ — | — ∪ ∪ | — ∪, main caesura after profugus (ag1903 §615d), with Ītaliam's I long and Lāvīnia said in three syllables (part 7, lesson 8). Place to which without a preposition (part 7, lesson 9). fātō "by fate": ablative of cause.
 source: Vergil, Aeneid 1.2
 confidence: attested
 :::
@@ -46,7 +46,7 @@ orig: lītora, multum ille et terrīs iactātus et altō
 morphemes: lītor-a multum ill-e et terr-īs iactā-t-us et alt-ō
 gloss: shore-ACC.PL much that-NOM.SG.M both land-ABL.PL toss-PTCP-NOM.SG.M and deep-ABL.SG
 translation: … shores; much was he tossed about on land and on the deep
-note: — ∪ ∪ | — — | — — | — ‖ — | — ∪ ∪ | — —, with mult' ill' et elided. lītora completes Lāvīnia. ille resumes the subject; est is understood with iactātus (part 4).
+note: — ∪ ∪ | — — | — — | — ‖ — | — ∪ ∪ | — —, with mult' ill' et elided. lītora completes Lāvīnia. ille resumes the subject of the relative clause, and iactātus agrees with it, as passus does in line 5; no est is understood, because the clause already has its verb, vēnit.
 source: Vergil, Aeneid 1.3
 confidence: attested
 :::
@@ -56,7 +56,7 @@ orig: vī superum saevae memorem Iūnōnis ob īram;
 morphemes: vī super-um saev-ae memor-em Iūnōn-is ob īr-am
 gloss: force.ABL.SG god.above-GEN.PL cruel-GEN.SG.F unforgetting-ACC.SG Juno-GEN.SG because.of anger-ACC.SG
 translation: … by the power of the gods, because of cruel Juno's unforgetting anger;
-note: vī su pe | rum sae | vae me mo | rem Iū | nō ni so | bī ram: — ∪ ∪ | — — | — ∪ ∪ | — — | — ∪ ∪ | — —. Two phrases wrapped round each other (part 7, lesson 6); superum = superōrum (part 7, lesson 9).
+note: vī su pe | rum ‖ sae | vae me mo | rem Iū | nō ni so | bī ram: — ∪ ∪ | — ‖ — | — ∪ ∪ | — — | — ∪ ∪ | — —. Two phrases wrapped round each other (part 7, lesson 6); superum = superōrum (part 7, lesson 9).
 source: Vergil, Aeneid 1.4
 confidence: attested
 :::

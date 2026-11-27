@@ -24,7 +24,7 @@ It has no tense, no person and no other cases. That is why it is called a fossil
 
 Each survivor has kept one job, and the job follows from its case.
 
-**The *-um* supine** is an accusative of the end of motion, the same accusative as *Rōmam* in *Rōmam eō* "I go to Rome" (part 3). Towns take no preposition, and neither does the supine (ag1903 §§428i, 509). So *spectātum veniunt* is "they come to the watching", "they come to watch". The supine says what you are going in order to do. Allen and Greenough list a few other old accusatives of motion without a preposition: *vēnum dare* "give to sale", which became *vendere* "sell" (ag1903 §428i).
+**The *-um* supine** is an accusative of the end of motion, the same accusative as *Rōmam* in *Rōmam eō* "I go to Rome" (part 3). Towns take no preposition, and neither does the supine (ag1903 §§428i, 509). So *spectātum veniunt* is "they come to the watching", "they come to watch". The supine says what you are going in order to do. Allen and Greenough list a few other old accusatives of motion without a preposition: *vēnum dare* "give to sale", which became *vēndere* "sell" (ag1903 §428i).
 
 **The *-ū* supine** goes with adjectives and says in what respect the adjective holds: *mīrābile dictū* "wonderful to tell", literally "wonderful in the telling" (ag1903 §510). It looks like an ablative of respect (part 5), though Allen and Greenough take it as usually a dative of purpose, with which the ablative was early confused (§508). This guide glosses it SUP.ABL.
 

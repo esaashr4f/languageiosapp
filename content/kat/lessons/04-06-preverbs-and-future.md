@@ -46,7 +46,7 @@ A chain of thought for "tomorrow I will tidy the room":
 4. The object stays dative: *otaxs*.
 5. *Xval otaxs davalageb.*
 
-**When two a's meet.** If the stem begins with *a-* and the preverb ends in *-a*, both are written: *ga-aḳetebs*, *a-ašenebs*, *da-alagebs*. Bolkvadze and Kiziria give the rule with *daapase* "you valued". With *v-* between them there is nothing to merge: *gavaḳeteb*, *aavašeneb*.
+**When two a's meet.** If the stem begins with *a-* and the preverb ends in *-a*, both are written: *ga-aḳetebs*, *a-ašenebs*, *da-alagebs*. Bolkvadze and Kiziria give the rule with *daapase* "you valued". With *v-* between them there is nothing to merge: *gavaḳeteb*, *avašeneb*.
 
 **Object markers.** They follow the preverb, in slot 2: *da-m-xaṭavs* "he will draw me", *ga-g-aɣviʒebs* "he will wake you".
 
@@ -233,7 +233,7 @@ source: bolkvadze2023 §9.2.1–9.2.2; wiktionary; linguage
 ზუსტად | zusṭad | adverb | exactly, precisely |
 ჩაწერს | čac̣ers | verb | will write down, register, record | future of წერს with ჩა-; aor. ჩაწერა; masdar ჩაწერა
 გადაწერს | gadac̣ers | verb | will copy, rewrite | future of წერს with გადა-; aor. გადაწერა
-აღწერს | aɣc̣ers | verb | will describe | future; aor. აღწერა; masdar აღწერა
+აღწერს | aɣc̣ers | verb | will describe | future; aor. აღწერა; masdar აღწერა; აღ- is the formal, archaic counterpart of ა- (bolkvadze2023 §9.2.1)
 გადადებს | gadadebs | verb | will put off, postpone; put aside | future of დებს with გადა-; masdar გადადება
 ამოიღებს | amoiɣebs | verb | will take out, remove | future; masdar ამოღება
 შეაკეთებს | šeaḳetebs | verb | will repair, mend | future; masdar შეკეთება

@@ -15,9 +15,9 @@ sources: [goksel2005, wiktionary, tdk]
 
 Tur-06-01 left a gap. *-mAk* clauses have no subject of their own, so they cannot say "I want *you* to go". Turkish fills the gap with a second verb-noun, ***-mA***, which can carry a possessive ending. The possessive names the subject.
 
-You already know how Turkish says "Ali's house": *Ali'nin evi*, a genitive on the owner and a possessive on the thing owned (tur-03-04). Turkish says "Ali's going" in exactly the same way: *Ali'nin gitmesi*. The doer of the action is treated as its owner. "You want Ali to go" is then "you want Ali's going": *Ali'nin gitmesini istiyorsun*. This is why the possessive is not decoration. It is the only place the subject of the clause appears.
+You already know how Turkish says "Ali's house": *Ali'nin evi*, a genitive on the owner and a possessive on the thing owned (tur-03-04, tur-03-05). Turkish says "Ali's going" in exactly the same way: *Ali'nin gitmesi*. The doer of the action is treated as its owner. "You want Ali to go" is then "you want Ali's going": *Ali'nin gitmesini istiyorsun*. This is why the possessive is not decoration. It is the only place the subject of the clause appears.
 
-A **verbal noun** is a noun made from a verb that keeps the verb's objects and adverbs. *-mA* is this guide's verbal noun, glossed VN. You met it frozen in words like *dondurma* "ice cream" and *okuma* "reading" (tur-05-10), and as a preview in *kalkmam lazım* (tur-04-12). Here it is productive: any verb can take it.
+A **verbal noun** is a noun made from a verb that keeps the verb's objects and adverbs. *-mA* is this guide's verbal noun, glossed VN. You met it frozen in words like *dondurma* "ice cream" (tur-04-15) and *okuma* "reading" (tur-05-10), and as a preview in *kalkmam lazım* (tur-04-12). Here it is productive: any verb can take it.
 
 There is a second difference from *-mAk*, of meaning. *-mA* clauses are about actions as things wanted, asked for, allowed, caused, liked or judged: "I want you to come", "he told us to wait", "your coming matters". They are not used to report facts that someone knows or says ("I know that you came"); those take *-DIK*, the next lesson (goksel2005 §24.4.2.2).
 

@@ -87,7 +87,7 @@ orig: Yeni bir araba almaya karar verdik.
 morphemes: yeni bir araba al-ma-ya karar ver-di-k
 gloss: new a car buy-INF-DAT decision give-PST-1PL
 translation: We decided to buy a new car.
-note: karar vermek "decide" takes the dative (tur-04-17 has it with a noun).
+note: karar vermek "decide" (tur-04-04) takes the dative.
 source: constructed
 confidence: constructed
 :::

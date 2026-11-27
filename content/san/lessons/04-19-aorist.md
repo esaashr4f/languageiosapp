@@ -168,8 +168,8 @@ confidence: attested
 :::example
 orig: क्लैब्यं मा स्म गमः पार्थ
 translit: klaibyaṃ mā sma gamaḥ pārtha
-morphemes: klaibyam mā sma gam-a-ḥ pārth-a
-gloss: unmanliness.ACC.SG PROH EMPH go-AOR-2SG Pārtha-VOC.SG
+morphemes: klaiby-am mā sma gam-a-ḥ pārth-a
+gloss: unmanliness-ACC.SG PROH EMPH go-AOR-2SG Pārtha-VOC.SG
 translation: Do not give in to unmanliness, son of Pṛthā.
 note: mā sma, the emphatic prohibitive, with the augmentless a-aorist of √gam. klaibya "unmanliness" is glossed in place; Pārtha "son of Pṛthā" is Arjuna.
 source: Bhagavad Gītā 2.3a (GRETIL e-text bhgce)

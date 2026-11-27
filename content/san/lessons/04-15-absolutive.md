@@ -19,7 +19,7 @@ A **converb** is a verb form that cannot end a sentence and links its action to 
 
 It is indeclinable: *gatvā* is the same for a man, a woman or a crowd, in any tense. Whitney (§989) calls it "a stereotyped case (doubtless instrumental) of a verbal noun" with "the virtual value of an indeclinable participle", denoting "an accompanying or (more often) a preceding action". It has no person or tense of its own: the main verb supplies them.
 
-Japanese and Korean readers know this device: *itte* in *mori ni itte shika o mita* "went to the forest and saw a deer", Korean *-go* or *-seo*. Sanskrit narrative uses it on almost every line: two, three or more absolutives before one finite verb are normal. It is the "backbone of narrative" because it keeps the main verb for the main event.
+Japanese and Korean readers know this device: *itte* in *mori ni itte shika o mita* "went to the forest and saw a deer", Korean *-go* or *-seo*. Sanskrit narrative uses it on almost every line: two, three or more absolutives before one finite verb are normal. It keeps the finite verb for the main event.
 
 ## How it is built
 
@@ -37,7 +37,7 @@ There are two forms, chosen by one rule (Whitney §990): **-tvā** on a simple r
 - after a root ending in a **short vowel**, *-tya*: *vi-ji* *vijitya*, *ā-gam* also *āgatya*, *upa-kṛ* *upakṛtya*;
 - roots in *ā* keep *ā*: *ā-dā* *ādāya* "having taken", *vi-hā* *vihāya* "having left", *ut-sthā* *utthāya* "having stood up";
 
-The *-tvā* form is never put on a prefixed root, and *-ya* never on a simple one, in Classical prose. The epics break the rule (Whitney §990a); the dossier lists this as an epic feature (san-07-08).
+In Classical prose *-tvā* is rarely put on a prefixed root (mostly on causatives, Whitney §990a), and *-ya* hardly ever on a simple one. The epics break the rule more often (Whitney §990a); the dossier lists this as an epic feature (san-07-08).
 
 **Who does it.** The absolutive belongs to the **logical subject** of its clause, the one who does the main action (Whitney §989). With an active main verb that is the nominative: *nṛpo gatvā apaśyat*. With a passive main verb it is the **instrumental** agent: *nṛpeṇa vanaṃ gatvā mṛgo dṛṣṭaḥ* "the king went to the forest and saw a deer", literally "by the king, having gone, the deer was seen". Speijer (§§7–8) shows how much later prose likes this passive frame.
 

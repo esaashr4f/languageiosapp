@@ -231,6 +231,7 @@ source: wiktionary (भवति, लभते, अस्ति); whitney1889 §
 वृज् | vṛj | verb | avoid, shun, give up | root, class 10 in use, active; varjayati
 वप् | vap | verb | sow, scatter | root, class 1, active; vapati
 जप् | jap | verb | mutter (prayers), recite quietly | root, class 1, active; japati
+उचित | ucita | adjective | fitting, proper, right; usual | ucita, f. ucitā
 :::
 
 ## Connections

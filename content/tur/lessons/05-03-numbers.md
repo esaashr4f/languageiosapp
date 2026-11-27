@@ -191,7 +191,7 @@ confidence: constructed
 - **Distributives for sharing**: *birer elma*; for "each costs": *Elmalar birer lira* "The apples are a lira each".
 - **Doubled distributives for manner**: *ikişer ikişer* "two by two", *birer birer* "one by one" (goksel2005 §15.7.3).
 - **Halves and quarters**: *yarım ekmek* "half a loaf", *üç buçuk*, *bir çeyrek*; with *ve* for "and a quarter": *üç ve bir çeyrek* (goksel2005 §15.7.1). Clock times are tur-05-04.
-- **Part of a group**: *kalemlerden ikisi*, *öğrencilerin yarısı*, *yüzde elli*. "Both of them" is *ikisi*; "the two of us" is *ikimiz*, the numeral with the first-person plural possessive (goksel2005 §18.4 (ii)).
+- **Part of a group**: *kalemlerden ikisi*, *öğrencilerin yarısı*, *yüzde elli*. *İkisi* is "two of them"; "both of them" is *her ikisi* or *ikisi de* (*de*: tur-05-08); "the two of us" is *ikimiz*, the numeral with the first-person plural possessive (goksel2005 §18.4 (ii)).
 - **Zero, single, pair**: *sıfır*, *tek* "single, only; odd (number)", *çift* "pair; even (number)".
 
 ## Watch out
@@ -219,7 +219,7 @@ confidence: constructed
 :::table
 caption: Numerals with their ordinals and distributives
 confidence: verified
-source: goksel2005 §§15.7.1–15.7.3; wiktionary (every ordinal; distributives 1–10, 1,000; the others built from wiktionary's -er allomorph table, as goksel2005 §15.7.3 builds onar, üç yüzer)
+source: goksel2005 §§15.7.1–15.7.3; wiktionary (every ordinal; distributives 1–10, 1,000); tdk (distributives 20–100 and kaçar, each a headword)
 | Number | Cardinal | Ordinal | Distributive |
 |---|---|---|---|
 | 1 | bir | birinci (ilk) | birer |

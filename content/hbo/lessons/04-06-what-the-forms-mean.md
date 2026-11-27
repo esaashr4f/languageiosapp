@@ -15,7 +15,7 @@ sources: [gkc1910, oshb, bdb]
 
 You now have four finite forms: qatal, yiqtol, wayyiqtol and weqatal. In prose, you can translate nearly every one of them correctly with the rules of lessons 4.2 to 4.5. What you cannot do is name the system in one word, as you would say "Spanish has a past tense and a future tense". Scholars have argued about this for centuries.
 
-This lesson sets out the main views and the facts each must explain. The aim is not to choose a winner but to keep any one set of labels from misleading you.
+This lesson sets out the main views. The aim is not to choose a winner but to keep any one set of labels from misleading you.
 
 The key point first: **the dispute is about the system, not about most sentences.** Nobody doubts that *wayyōʾmer* in a story means "and he said", that *lōʾ tiḡnōḇ* means "you shall not steal", or that *lēḵ wəʾāmartā* means "go and say". The arguments are about why the forms work as they do, and about the less common uses.
 
@@ -23,7 +23,7 @@ The key point first: **the dispute is about the system, not about most sentences
 
 ### The facts to be explained
 
-Each view has to account for all of these, attested in classical prose:
+Each view must account for these facts of classical prose:
 
 1. **Qatal is usually past, but not always.** It can state a present state (*zāqantî* "I am old"), an act performed by saying it (*nāṯattî* "I hereby give"), and a certain future (Gesenius §106g, i, m, n).
 2. **Yiqtol is usually future, but not always.** It is used for repeated or ongoing past action (*yaʿăleh* "used to rise"), after *ʾāz* in the past (*ʾāz yāšîr* "then he sang"), for the present (*tišʾal* "you ask"), and for "should", "may" (Gesenius §107b–f, m–s).
@@ -37,25 +37,25 @@ The oldest explanation treats qatal as past and yiqtol as future, and says that 
 
 ### View 2: aspect
 
-The second view, which Gesenius's grammar builds on, says the forms do not mark time at all. They mark how an event is viewed. In Gesenius's words, the Indo-European "scheme of three periods of time (past, present, and future) is entirely foreign to the Semitic tense-idea, which regards an occurrence only from the point of view of completed or incomplete action" (§47a, note). The qatal presents an event "from the point of view of completion"; the yiqtol as "still continuing, or in process of accomplishment" (§106a, §107a). A linguist calls this **aspect**: how an event is viewed, whole and finished or in progress, as opposed to **tense**, when it happens.
+The second view, which Gesenius's grammar builds on, says the forms do not mark time at all. In Gesenius's words, the Indo-European "scheme of three periods of time (past, present, and future) is entirely foreign to the Semitic tense-idea, which regards an occurrence only from the point of view of completed or incomplete action" (§47a, note). The qatal presents an event "from the point of view of completion"; the yiqtol as "still continuing, or in process of accomplishment" (§106a, §107a). A linguist calls this **aspect**: how an event is viewed, whole and finished or in progress, as opposed to **tense**, when it happens.
 
 This explains facts 1 and 2 well: "I am old" is a state reached; "used to rise" is an action repeated. It explains the chains less well. Gesenius calls the waw of the chains a "pregnant *and*" that marks a consequence (§49b), but he has to treat wayyiqtol and weqatal as special combinations. Even within this view the details were disputed: Gesenius notes that Knudtzon, comparing Akkadian, preferred to call the yiqtol a "present" (§107a), and ends his discussion by admitting that such "finer distinctions" are "mere expedients for making intelligible to ourselves" what the forms do (§107, last note).
 
 ### View 3: discourse function
 
-A third approach starts from the text, not the single verb. It observes that in narrative the wayyiqtol carries the **main line**, the sequence of events, while qatal and verbless clauses, especially after *wə* + noun, give **background**: the setting, what had happened before, a comment. In instructions and predictions the weqatal carries the main line, and yiqtol and other forms the background. This view describes fact 5 directly, and it matches what Gesenius himself observes: a narrative "is introduced by a perfect, and then continued by means of imperfects with wāw consecutive" (§111a). Its limit is that it says how the forms are used in connected prose, not what they mean in a single clause or in poetry.
+A third approach starts from the text, not the single verb. It observes that in narrative the wayyiqtol carries the **main line**, the sequence of events, while qatal and verbless clauses, especially after *wə* + noun, give **background**: the setting, what had happened before, a comment. In instructions and predictions the weqatal carries the main line, and yiqtol and other forms the background. This view describes fact 5 directly (compare Gesenius §111a). Its limit is that it says how the forms are used in connected prose, not what they mean in a single clause or in poetry.
 
 ### View 4: history
 
-The fourth view asks where the forms came from. Comparative grammar of the Semitic languages reconstructs an old short prefix form that served both as a past, "he buried", and as a wish, "may he bury". Akkadian keeps it as its ordinary past, *iqbir* "he buried"; Encyclopaedia Britannica's survey of Semitic verbs lists it as the "jussive/preterite" (*Semitic languages: verbal morphology*). Many scholars take the wayyiqtol to be that old past form, preserved after *wa-*: on this view it is not a converted yiqtol at all, and this is why it uses the same short stems as the Hebrew jussive (*wayhî*, *yəhî*). Britannica does not discuss the wayyiqtol, and it derives the Hebrew yiqtol itself from "the old modal form" (*yi-qbor* beside Geʿez *yə-qbər*), so the history of the two prefix forms is less settled than this view suggests. The same construction appears outside the Bible: Gesenius notes it in the Moabite inscription of King Mesha and in an Aramaic inscription from Hamath (§49a, note).
+The fourth view asks where the forms came from. Comparative grammar of the Semitic languages reconstructs an old short prefix form that served both as a past, "he buried", and as a wish, "may he bury". Akkadian keeps it as its ordinary past, *iqbir* "he buried"; Encyclopaedia Britannica's survey of Semitic verbs lists it as the "jussive/preterite" (*Semitic languages: verbal morphology*). A view going back to Bergsträsser (1918; reported in Wikipedia, *Vav-consecutive*) takes the wayyiqtol to be that old past form, *\*yaqtul*, preserved after *wa-*: on this view it is not a converted yiqtol at all, and this is why it uses the same short stems as the Hebrew jussive (*wayhî*, *yəhî*). Britannica does not discuss the wayyiqtol, and it derives the Hebrew yiqtol itself from "the old modal form" (*yi-qbor* beside Geʿez *yə-qbər*), so the history of the two prefix forms is less settled than this view suggests. The same construction appears outside the Bible: Gesenius notes it in the Moabite inscription of King Mesha and in an Aramaic inscription from Hamath (§49a, note).
 
-This explains fact 3 well, but it is a historical account, not a description of how readers of Genesis felt the forms. Gesenius, writing before this view was common, explained the short forms by the stress pulled forward onto the *wa-*, and warned against "supposing an intimate relation" between wayyiqtol and jussive (§49g). The guide records this as a point on which sources disagree.
+This explains fact 3 well, but it is a historical account, not a description of how readers of Genesis felt the forms. Gesenius, writing before this view was common, explained the short forms by the stress pulled forward onto the *wa-*, and warned against "supposing an intimate relation" between wayyiqtol and jussive (§49g).
 
 ### How this guide proceeds
 
 - It names the forms by their shape: **qatal, yiqtol, wayyiqtol, weqatal**, and glosses them QTL, YQTL, WAYY, WQTL. These labels say what the form is, not what it means.
-- It translates each form by context, using the uses listed in lessons 4.2 to 4.5.
-- It avoids "perfect", "imperfect", "past" and "future" as names, because each one quietly takes a side. You will meet them in other books: "perfect" means qatal, "imperfect" means yiqtol, "waw consecutive" or "waw conversive" covers wayyiqtol and weqatal.
+- It translates each form by context (lessons 4.2 to 4.5).
+- It avoids "perfect", "imperfect", "past" and "future" as names, because each one quietly takes a side. Other books' terms are translated under "Where it applies".
 
 ## Examples
 
@@ -157,20 +157,20 @@ preview: PIEL
 ## Where it applies
 
 - **Reading prose:** use the rules of lessons 4.2 to 4.5; they work whichever view you prefer.
-- **Reading other books:** translate their terms. "Perfect" = qatal; "imperfect" = yiqtol; "imperfect consecutive", "waw-consecutive imperfect", "preterite" or "narrative tense" = wayyiqtol; "perfect consecutive" or "waw-consecutive perfect" = weqatal.
+- **Reading other books:** translate their terms; "waw consecutive" or "waw conversive" covers wayyiqtol and weqatal. "Perfect" = qatal; "imperfect" = yiqtol; "imperfect consecutive", "waw-consecutive imperfect", "preterite" or "narrative tense" = wayyiqtol; "perfect consecutive" or "waw-consecutive perfect" = weqatal.
 - **Reading poetry:** the forms are freer there, and the qatal and yiqtol can stand side by side with little difference of time (Gesenius §106l). Lessons 7.5 and 7.6.
 - **Reading late books:** in Chronicles and Qohelet the qatal is used more like a plain past and the chains are looser (Gesenius §111b; lesson 7.7).
 - **Reading a story as a whole:** the main-line and background distinction is taught in lessons 5.9 and 6.10.
 
 ## Watch out
 
-**Do not call the yiqtol "the future".** *ʾāz yāšîr-mōšeh* is "then Moses sang". A student who writes *\*"then Moses will sing"* has followed a label instead of the context.
+**Do not call the yiqtol "the future".** *ʾāz yāšîr-mōšeh* is "then Moses sang". *\*"Then Moses will sing"* follows a label, not the context.
 
 **Do not call the qatal "the past".** *Ləzarʿăḵā nāṯattî* is a promise. *\*"I gave this land to your descendants"* is wrong: Abram has no descendants yet.
 
 **Do not say the *wə-* "converts" a form.** *Wəʿālâ* in 1 Samuel 1:3 is a weqatal with past meaning; nothing has been "converted" into a future. The chain takes its time from what comes before.
 
-**Do not import Modern Hebrew.** In Modern Hebrew (`heb`) the qatal is the past and the yiqtol the future, and there is neither wayyiqtol nor weqatal. A reader who knows Modern Hebrew will misread *ʾāz yāšîr*.
+**Do not import Modern Hebrew.** In Modern Hebrew (`heb`) the qatal is the past and the yiqtol the future, and there is neither wayyiqtol nor weqatal. Read that way, *ʾāz yāšîr* goes wrong.
 
 **Do not map the forms onto Spanish or French tenses one to one.** "Qatal = *pretérito*" fails for *zāḵarnû* "we remember", which Spanish renders with the present *recordamos*.
 

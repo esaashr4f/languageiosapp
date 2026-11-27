@@ -428,7 +428,7 @@ Say so in the lesson when one of these comes up.
 - Paradigm cells not attested in the corpus are marked "by pattern".
 - Scholars behind the discourse view of the verb and the debate over stem meanings are not named (names unverified in this dossier). ʾēḏ (Gen 2:6) left open; "mist" given as the traditional rendering.
 - WLC extraordinary dots (Gen 16:5, 37:12) dropped from orig and noted. Gen 22:12 has מְאוּמָּה with dagesh (elsewhere מְאוּמָה).
-- Gesenius sections are cached in the scratchpad (p4hbo/g/); §54, §56, §59, §62, §70, §73 failed (Wikisource HTTP 429) and are needed for 04-14 and 04-15.
+- Gesenius sections are cached in the scratchpad (p4hbo/g/); §54, §69, §70, §72 are now cached; §56, §59, §60, §62, §73 may still be missing.
 
 
 ## Notes from drafting part 4, lessons 04-14 to 04-25 (2026-11-27)
@@ -439,3 +439,11 @@ Say so in the lesson when one of these comes up.
 - mûṯ is still listed under the qatal mēṯ (lesson 2.6); no separate headword.
 - Forward pointers made: 5.2, 5.4, 5.8, 5.10, 6.1, 6.2, 6.4, 6.5, 6.7, 7.1, 7.2 (polel, qal passive), 7.4 (puncta extraordinaria), 7.5–7.7, 8.4 (Gen 22:1–8 beside the review passage 22:9–13).
 - 04-01 (1,810) and 04-06 (1,878) are over the 1,800 prose-word limit after verification edits: trim at the pilot gate.
+
+
+## Notes from verifying part 4 (2026-11-27)
+
+- wayḏabbēr (no dagesh in the dalet, WLC), not waydabbēr. The piel of d-b-r is usually דִּבֶּר dibber (about 200×); dibbēr (about 26×) is mainly pausal; the vocab headword is דִּבֵּר with that note.
+- Wayyiqtol history: Britannica supports only the short jussive/preterite form (Akkadian iqbir) and derives yiqtol from the modal form; the wayyiqtol = *yaqtul view is cited to Bergsträsser 1918 via Wikipedia "Vav-consecutive" (wp-vavcons).
+- Vocal shewa after the article in hayəlāḏîm is confirmed by Gesenius §20m.
+- Do not mention unverified textual variants; say "as WLC reads" instead.

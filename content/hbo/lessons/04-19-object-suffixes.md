@@ -13,7 +13,7 @@ sources: [gkc1910, oshb, bdb]
 
 ## The idea
 
-"He sent me", "I will serve you", "he loved her": Hebrew can say "me", "you", "her" in two ways. Lesson 3.9 taught the first: the object marker with a suffix, *ʾōṯî*, *ʾōṯəḵā*, *ʾōṯāh*, placed after the verb. The second is to fix the same suffix directly onto the verb: *šəlāḥanî* "he sent me", *ʾeʿĕḇāḏəḵā* "I will serve you", *wayyeʾĕhāḇehā* "and he loved her". Since lesson 4.12 you have met forms like *wayyišlāḥēhû* "and he sent him". This lesson explains them.
+"He sent me", "I will serve you", "he loved her": Hebrew can say "me", "you", "her" in two ways. Lesson 3.9 taught the first: the object marker with a suffix, *ʾōṯî*, *ʾōṯəḵā*, *ʾōṯāh*, placed after the verb. The second is to fix the same suffix directly onto the verb: *šəlāḥanî* "he sent me", *ʾeʿĕḇoḏḵā* "I will serve you", *wayyeʾĕhāḇehā* "and he loved her". Since lesson 4.12 you have met forms like *wayyišlāḥēhû* "and he sent him". This lesson explains them.
 
 Gesenius notes that the suffixes on verbs "express the accusative of the personal pronoun", and that they are clearly connected with the independent pronouns (§58a–b). They are, in fact, nearly the same suffixes as on nouns (lesson 3.7): *-nî* "me" (noun *-î* "my"), *-ḵā* "you", *-hû*/*-ô* "him", *-hā*/*-āh* "her", *-nû* "us", *-ḵem* "you (pl.)", *-hem*/*-ām* "them". The differences are small and systematic.
 
@@ -29,7 +29,7 @@ A suffix joins the verb in one of three ways (Gesenius §58a, e–f):
 - **after a qatal ending in a consonant**, with *a*: *-anî*, *-āhû* (usually contracted to *-ô*), *-āh*, *-ānû*, *-ām*. So *šālaḥ* + *-nî* → *šəlāḥanî* "he sent me"; *bārāʾ* + *-ām* → *bərāʾām* "he created them".
 - **after a yiqtol, imperative, or infinitive ending in a consonant**, with *ē*: *-ēnî*, *-ēhû*, *-ehā*, *-ēnû*, *-ēm*. So *yahărōḡ* + *-nî* → *yaharḡēnî* "he will kill me"; *šəmaʿ* + *-nî* → *šəmāʿēnî* "hear me!".
 
-With *-ḵā* and *-ḵem* the joining vowel is only a shewa: *ʾeʿĕḇāḏəḵā* "I will serve you" (Gesenius §58f).
+With *-ḵā* and *-ḵem* there is no full joining vowel, only a shewa: *ʾeʿĕḇoḏḵā* "I will serve you" (Gesenius §58f).
 
 ### The stem changes
 
@@ -37,7 +37,7 @@ The suffix moves the stress towards the end of the word, and the vowels before i
 
 - the first *ā* of the qatal, now two places from the stress, reduces: *šālaḥ* → *šəlāḥ-*;
 - the second vowel, which had reduced in *šāmərû*, reappears, lengthened in the open syllable: *šāmərû* → *šəmārûhû* (by pattern);
-- in the yiqtol the stem vowel reduces before the joining vowel: *yahărōḡ* → *yaharḡēnî*; before *-ḵā* it stays as *ā*: *ʾeʿĕḇōḏ* → *ʾeʿĕḇāḏəḵā*.
+- in the yiqtol the stem vowel reduces before the joining vowel: *yahărōḡ* → *yaharḡēnî*; before *-ḵā* it shortens to qameṣ ḥaṭuf, *o*: *ʾeʿĕḇōḏ* → *ʾeʿĕḇoḏḵā* (Gesenius §60a).
 
 ### Special forms
 
@@ -94,11 +94,11 @@ confidence: attested
 
 :::example
 orig: אֶעֱבָדְךָ שֶׁבַע שָׁנִים בְּרָחֵל בִּתְּךָ הַקְּטַנָּה
-translit: ʾeʿĕḇāḏəḵā šeḇaʿ šānîm bərāḥēl bittəḵā haqqəṭannâ
-morphemes: ʾeʿĕḇāḏ-əḵā šeḇaʿ šān-îm bə=rāḥēl bitt-əḵā ha=qqəṭann-â
+translit: ʾeʿĕḇoḏḵā šeḇaʿ šānîm bərāḥēl bittəḵā haqqəṭannâ
+morphemes: ʾeʿĕḇoḏ-ḵā šeḇaʿ šān-îm bə=rāḥēl bitt-əḵā ha=qqəṭann-â
 gloss: serve.YQTL.1SG-2SG.M seven year-PL in=Rachel daughter-2SG.M DEF=small-F
 translation: I will serve you seven years for your younger daughter Rachel.
-note: Jacob to Laban. Yiqtol + -ḵā: the stem vowel is ā before the shewa. bə- "for, at the price of".
+note: Jacob to Laban. Yiqtol + -ḵā: the stem vowel ō shortens to qameṣ ḥaṭuf, o (Gesenius §60a). bə- "for, at the price of".
 source: Genesis 29:18 (WLC)
 confidence: attested
 :::
@@ -151,11 +151,11 @@ preview: REL
 
 :::example
 orig: כִּי לֹא אֶעֱזָבְךָ
-translit: kî lōʾ ʾeʿĕzāḇəḵā
-morphemes: kî lōʾ ʾeʿĕzāḇ-əḵā
+translit: kî lōʾ ʾeʿĕzoḇḵā
+morphemes: kî lōʾ ʾeʿĕzoḇ-ḵā
 gloss: for not leave.YQTL.1SG-2SG.M
 translation: For I will not leave you ...
-note: The same verse. Yiqtol + -ḵā, as in ʾeʿĕḇāḏəḵā.
+note: The same verse. Yiqtol + -ḵā, as in ʾeʿĕḇoḏḵā.
 source: Genesis 28:15 (WLC)
 confidence: attested
 :::
@@ -204,7 +204,7 @@ source: gkc1910 §58a, e–f, §59; forms in the examples attested
 | Suffix | After a vowel | Qatal ending in a consonant | Yiqtol, imperative ending in a consonant |
 |---|---|---|---|
 | 1SG me | -nî | -anî (šəlāḥanî) | -ēnî (yaharḡēnî) |
-| 2SG.M you | -ḵā (ûšəmartîḵā) | -əḵā | -əḵā (ʾeʿĕḇāḏəḵā) |
+| 2SG.M you | -ḵā (ûšəmartîḵā) | -əḵā | -əḵā (ʾeʿĕḇoḏḵā) |
 | 2SG.F you | -ḵ | -ēḵ | -ēḵ |
 | 3SG.M him | -hû, -w | -āhû, -ô | -ēhû (wayyišlāḥēhû), -ennû |
 | 3SG.F her | -hā | -āh | -ehā (wayyeʾĕhāḇehā), -ennâ |
@@ -253,7 +253,7 @@ Arabic attaches the same suffixes to verbs: *ḍarabanī* "he struck me", *yaḍ
 
 1. *šəlāḥanî*; *yišlāḥēnî* (the form Gesenius gives, §65b). After the qatal the joining vowel is *a*, after the yiqtol *ē*; the stem vowels shift with the stress (Gesenius §58f, §59c).
 2. *bərāʾām*; *bərāʾûhû*. Qatal + *-ām*; qatal 3PL ends in a vowel, so *-hû* joins directly.
-3. *lōʾ ʾeʿĕzāḇəḵā* (Genesis 28:15). The yiqtol stem vowel *ō* becomes *ā* in the open syllable before the shewa of *-ḵā* (Gesenius §58f).
+3. *lōʾ ʾeʿĕzoḇḵā* (Genesis 28:15). Before *-ḵā* the yiqtol stem vowel *ō* shortens to qameṣ ḥaṭuf, *o* (Gesenius §60a).
 4. "A wild animal has devoured him." The 3SG.F qatal uses its old ending *-at*, here *-āṯ*, before a suffix (Gesenius §59a).
 5. *šəmāʿēnû*. Imperative + *-ēnû*; the *a* lengthens in the open syllable (compare *šəmāʿēnî*).
 6. The pronouns are contrasted, "not you ... but me", and put first for emphasis; a suffix on the verb cannot stand first, so *ʾēṯ* + suffix is used.

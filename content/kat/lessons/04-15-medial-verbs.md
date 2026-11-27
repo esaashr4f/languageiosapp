@@ -181,7 +181,7 @@ preview: SV
 - **Activities of people and animals:** *tamašobs*, *mušaobs*, *cxovrobs*, *sc̣avlobs*, *laṗaraḳobs*, *pikrobs*, *ṭiris*, *icinis*, *mɣeris*, *ceḳvavs*, *q̇viris*, *curavs*, *prinavs*, *nadirobs*, *tevzaobs*, *mogzaurobs*, *seirnobs*, *xumrobs*, *ocnebobs*.
 - **Meals as activities:** *sauzmobs* "has breakfast", *sadilobs* "has lunch", *vaxšmobs* "has supper" (lingua.ge): *man isadila* "he had lunch".
 - **Bodily activities:** *isvenebs* "rests", *iɣviʒebs* "wakes up".
-- **Weather.** Lingua.ge classifies *tovs* "snows" this way, with the future *itovebs* and the aorist *itova*: no subject, so no case question arises.
+- **Weather.** *Tovs* "snows" makes its future and aorist the same way, *itovebs*, *itova* (lingua.ge, which files weather verbs as a separate, personless type): there is no subject, so no case question arises.
 - **Every screeve.** Present and imperfect as in part 2 and lesson 4-5; future, conditional and aorist here; the optative in lesson 4-16; the perfect, with a dative subject, in lesson 4-22.
 
 ## Watch out
@@ -196,7 +196,7 @@ preview: SV
 
 **Do not confuse "get up" with "wake up".** *Adga* "got up" is class 2 (*bebia adga*); *gaiɣviʒa* "woke up" is class 3 (*bebiam gaiɣviʒa*), in lingua.ge's analysis. Learn the class with the verb.
 
-**Do not rely on meaning alone.** Bolkvadze and Kiziria and the dossier warn that class membership has lexical exceptions. "Go", an activity in English, is class 2 (lesson 4-11). The notes give each verb's class.
+**Do not rely on meaning alone.** Class membership has lexical exceptions. "Go", an activity in English, is class 2 (lesson 4-11). The notes give each verb's class.
 
 ## Reference table
 

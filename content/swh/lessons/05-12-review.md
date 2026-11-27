@@ -184,7 +184,7 @@ confidence: attested
 13. *Ninataka gari jipya jekundu.* Class 5: *jipya* (one-syllable stem keeps *ji-*), *jekundu* (*j-* before the vowel). Lesson 5.1.
 14. *Anasema Kiswahili vizuri, kwa sababu aliishi Mombasa kwa muda wa miaka mitatu.* Class 8 adverb, *kwa sababu* + clause, *kwa muda wa* + *miaka mitatu* (class 4). Lessons 5.3, 5.4, 5.7, 5.9.
 15. *Mwenye duka mwenyewe alifungua mlango.* *Mwenye duka* "owner of the shop", then *mwenyewe* "himself" in class 1. Lessons 5.2, 5.5.
-16. *Mimi na dada yangu tunakwenda kwa shangazi Ijumaa.* Two subjects including "I" take *tu-*; *kwa* + person for "at someone's"; no preposition before *Ijumaa*. Lessons 5.4, 5.8, 5.9.
+16. *Mimi na dada yangu tunakwenda kwa shangazi yangu Ijumaa.* Two subjects including "I" take *tu-*; *kwa* + person for "at someone's"; no preposition before *Ijumaa*. Lessons 5.4, 5.8, 5.9.
 17. *-ingi* after *vi-*: *i + i* gives *i*: *Nina vitabu vingi.* Lesson 5.1.
 18. *-ema* has the exceptional class 9 form *njema*: *Tulikuwa na safari njema.* Lesson 5.1.
 19. *Juu* needs *ya* to take a noun: *juu ya meza.* Lesson 5.8.

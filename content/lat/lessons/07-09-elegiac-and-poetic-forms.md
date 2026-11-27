@@ -37,7 +37,7 @@ The second half of this lesson is **poetic grammar**. Verse does not have a sepa
 - Contracted perfects: *natārunt* = *natāvērunt*, *amāsse* = *amāvisse* (ag1903 §181).
 - *-um* for *-ōrum* in the genitive plural: *deum*, *superum*, *virum* (ag1903 §49d), and *-um* for *-ārum* in some words: *caelicolum* "of the gods" (§43d).
 - *-re* for *-ris* in the second person singular passive: *vidēre* "you are seen" as well as "to see" (ag1903 §163).
-- **Plural for singular**, "sometimes for metrical reasons, sometimes from a mere fashion": *ōra* "face", *sceptra* "sceptre", *silentia* "silence" (ag1903 §101 note 2).
+- **Plural for singular**, "sometimes for metrical reasons, sometimes from a mere fashion": *ōra* "face", *scēptra* "sceptre", *silentia* "silence" (ag1903 §101 note 2).
 - **No preposition** for place to which or from which: *Ītaliam vēnit* "came to Italy" (ag1903 §428g).
 - **Dative of direction**: *it clāmor caelō* "a shout goes up to the sky" (ag1903 §428h).
 - **Greek accusative** for the part affected: *nūda genū* "bare as to the knee" (ag1903 §397b).

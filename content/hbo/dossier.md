@@ -418,3 +418,14 @@ Say so in the lesson when one of these comes up.
 - דְּבָרֵךְ is attested once (כִדְבָרֵךְ, 1 Kgs 17:13). WLC points the Genesis naʿărā forms directly (perpetual qere); Deuteronomy 22 has ketiv נער with a marginal qere.
 - Unicode: ḥolem on vav as a consonant (עָוֺן) is written with U+05BA (ḤOLAM ḤASER FOR VAV), as WLC does; ḥolem-waw vowel letters keep U+05B9.
 - nāʾ, mah, mî, nāḇôn: used glossed before their vocab lessons; introduce them in their own lessons (6.1 for question words).
+
+
+## Notes from drafting part 4, lessons 04-01 to 04-13 (2026-11-27)
+
+- Glossing: weqatal WQTL-stem-ending; jussive JUSS (also when identical to yiqtol, after ʾal); cohortative COH; infinitive to=guard.INF, with a suffix guard.INF-3SG.F; participle PTCP.SG.M, PTCP-PL.M, PASS.PTCP; object suffixes on verbs -1SG, -3SG.M.
+- Transliteration: shewa after a stressed long vowel is silent (ṣāḥāqt, qāṭōntî, lēḵnâ); after an unstressed long vowel vocal (ṯûḵəlû, yōʾmərû). Qameṣ ḥaṭuf before maqqef (yaʿăzoḇ-) and in suffixed infinitives (ləšomrāh, bəḇorḥăḵā).
+- The commonest weak forms are listed as vocab headwords with part of speech "verb form" (wayyōʾmer, wayhî, lēḵ, qaḥ, tēn, lēʾmōr, lirʾôṯ, laʿăśôṯ, lāḇôʾ, lāṯēṯ, hāḇâ …), each pointing to the lesson that explains it. Check vocab.json before listing a word (māšaḥ and ʾal were already there).
+- Paradigm cells not attested in the corpus are marked "by pattern".
+- Scholars behind the discourse view of the verb and the debate over stem meanings are not named (names unverified in this dossier). ʾēḏ (Gen 2:6) left open; "mist" given as the traditional rendering.
+- WLC extraordinary dots (Gen 16:5, 37:12) dropped from orig and noted. Gen 22:12 has מְאוּמָּה with dagesh (elsewhere מְאוּמָה).
+- Gesenius sections are cached in the scratchpad (p4hbo/g/); §54, §56, §59, §62, §70, §73 failed (Wikisource HTTP 429) and are needed for 04-14 and 04-15.

@@ -219,6 +219,14 @@
   "connecting vowel": "The vowel between a noun and a suffix (hbo-03-07).",
   "demonstrative": "A pointing word: zeh, hûʾ (hbo-03-10).",
   "attributive": "Of an adjective: directly describing a noun, after it and agreeing with it (hbo-03-11).",
-  "predicative": "Of an adjective: saying something about the subject, usually before it without the article (hbo-03-11)."
+  "predicative": "Of an adjective: saying something about the subject, usually before it without the article (hbo-03-11).",
+  "stem": "One of the verb's patterns (qal, niphal, piel and so on) built on the same root (hbo-04-01).",
+  "derived stem": "Any stem other than the basic qal (hbo-04-01).",
+  "passive": "A verb form whose subject undergoes the action (hbo-04-01).",
+  "aspect": "How an action is viewed: as a whole, or as ongoing or repeated (hbo-04-06).",
+  "tense": "Where an action sits in time (hbo-04-06).",
+  "ethical dative": "A pronoun with lə- after an imperative that adds personal force, as in lek̲-lək̲ā (hbo-04-07).",
+  "volitive": "A form expressing will or wish: imperative, jussive, cohortative (hbo-04-08).",
+  "weak verb": "A verb whose root contains a guttural, a yod, a vav or a nun that changes the regular pattern (hbo-04-13)."
  }
 }

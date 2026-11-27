@@ -115,6 +115,13 @@
    "url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
    "used_for": "Glossing conventions and abbreviations.",
    "access": "Open; opened 2026-11-12."
+  },
+  {
+   "id": "britannica-semitic",
+   "citation": "Encyclopaedia Britannica, \"Semitic languages: Verbal morphology\".",
+   "url": "https://www.britannica.com/topic/Semitic-languages/Verbal-morphology",
+   "used_for": "The historical (yaqtul preterite) view of wayyiqtol in hbo-04-06, set against Gesenius §49g.",
+   "access": "Open online; opened 2026-11-27 by the part 4 drafter."
   }
  ]
 }

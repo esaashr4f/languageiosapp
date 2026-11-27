@@ -200,7 +200,7 @@ confidence: constructed
 
 **Do not translate "without" by -sIz on a pronoun in the genitive.** *\*Benimsiz* is wrong; *-sIz* goes on the bare pronoun: *bensiz* "without me", *sensiz*.
 
-**Do not use -CI for every profession.** Many are separate words: *doktor*, *öğretmen*, *avukat*, *mühendis*. And *dişçi* "dentist" is marked "proscribed" in Wiktionary: the standard word is *diş hekimi*. Use a *-CI* word only when you have met it.
+**Do not use -CI for every profession.** Many are separate words: *doktor*, *öğretmen*, *avukat*, *mühendis*. And *dişçi* "dentist" exists but is marked "proscribed" in Wiktionary. Use a *-CI* word only when you have met it.
 
 **Do not assume -lIK is always a noun.** *Günlük gazete* "daily newspaper" and *iki kişilik oda* use it as an adjective. Its position tells you which.
 

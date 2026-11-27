@@ -23,9 +23,9 @@ Swahili introduces that-clauses with a small set of words that Almasi and collea
 - **kama** "whether, if", for yes-no questions;
 - **eti** "supposedly, they say", when the reporter doubts or is surprised by what was said.
 
-Look at the first two. *Kwamba* is an infinitive: Wiktionary lists it as the verbal noun of a verb *-amba* "say", the same *amba-* that, with a relative marker, made "which" in lesson 6.1. *Kuwa* is the infinitive "to be". So *Alisema kwamba anapika* is, at bottom, "he said, saying: she is cooking". The "that" is optional: Almasi and colleagues often leave it out (*Baba alisema alisoma kitabu*).
+Look at the first two. *Kwamba* is an infinitive: Wiktionary lists it as the verbal noun of a verb *-amba* "say", the same *amba-* that, with a relative marker, made "which" in lesson 6.1. *Kuwa* is the infinitive "to be". So *Alisema kwamba anapika* is, at bottom, "he said, saying: she is cooking". The "that" is optional: Almasi and colleagues say verbs like *-sema*, *-ambia*, *-shauri* do not necessarily need it (p. 402), and leave it out in examples such as *Daktari wa meno alisema jino lile lilikuwa imara* "the dentist said that tooth was firm".
 
-The real work of reporting is done by the subject prefixes. Swahili has no separate "she said she" ambiguity, Almasi and colleagues point out, because the prefix shows whose point of view the clause takes. *Natasha alisema, ninapenda kula* can only mean "Natasha said **I** (the speaker) like to eat"; for Natasha herself you say *anapenda*.
+The real work of reporting is done by the subject prefixes: the prefix shows whose point of view the clause takes. Almasi and colleagues (p. 398): read as reported speech, *Natasha alisema, ninapenda kula* means "Natasha said **I** (the speaker) like to eat"; for Natasha herself you say *anapenda*.
 
 ## How it is built
 
@@ -42,7 +42,7 @@ If you report it to Anna herself, her "I" becomes "you": *Ulisema kwamba unapika
 
 ### The tense
 
-Almasi and colleagues: if the action is still going on or still to come when you report it, the tense **does not change**. *Nyanya alisema kwamba wataondoka sasa hivi* "Grandmother said they would leave right now", with *-ta-* kept. If the time has passed, the tense can shift back ("backshifting"): *-na-* becomes *-li-*, *-li-* becomes *-likuwa -me-*. Their table also turns *-ta-* into *-nge-*, the "would" of lesson 6.13. With backshifting, *leo* "today" becomes *siku ile* "that day", *kesho* becomes *siku iliyofuata* "the day that followed", and *hili* "this" becomes *lile* "that".
+Almasi and colleagues: if the action is still going on or still to come when you report it, the tense **does not change**. *Nyanya alisema kwamba wataondoka sasa hivi* "Grandmother said they would leave right now", with *-ta-* kept. If the time has passed, the tense can shift back ("backshifting"): *-na-* becomes *-li-*, *-li-* becomes *-likuwa -me-*, *-me-* becomes *-likuwa -mesha-*. Their table also turns *-ta-* into *-nge-*, the "would" of lesson 6.13. With backshifting, *leo* "today" becomes *siku ile* "that day", *kesho* becomes *siku iliyofuata* "the day that followed", and *hili* "this" becomes *lile* "that".
 
 ### Yes-no questions: kama
 
@@ -126,7 +126,7 @@ confidence: constructed
 :::example
 orig: Daktari aliniambia nipumzike.
 morphemes: daktari a-li-ni-ambi-a ni-pumzik-e
-gloss: doctor.C9 C1.SM-PST-1SG.OM-tell-FV 1SG.SM-rest-SBJV
+gloss: doctor.C5 C1.SM-PST-1SG.OM-tell-FV 1SG.SM-rest-SBJV
 translation: The doctor told me to rest.
 note: A reported command: subjunctive with the person shifted ("Rest!" to me → nipumzike).
 source: constructed
@@ -144,11 +144,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Mfanyabiashara alisema magari yake yalikuwa yamefika.
-morphemes: m-fanyabiashara a-li-sem-a ma-gari y-ake ya-li-ku-w-a ya-me-fik-a
-gloss: C1-trader C1.SM-PST-say-FV C6-car C6-his.her C6.SM-PST-KU-be-FV C6.SM-PRF-arrive-FV
-translation: The trader said that his vehicles had arrived.
-note: Backshifting: "have arrived" becomes "had arrived" (-likuwa -me-), and yangu "my" becomes yake. No kwamba. After Almasi and colleagues' example.
+orig: Mfanyabiashara alisema magari yake yalikuwa yameshafika.
+morphemes: m-fanyabiashara a-li-sem-a ma-gari y-ake ya-li-ku-w-a ya-me-sha-fik-a
+gloss: C1-trader C1.SM-PST-say-FV C6-car C6-his.her C6.SM-PST-KU-be-FV C6.SM-PRF-ANT-arrive-FV
+translation: The trader said that his vehicles had already arrived.
+note: Backshifting: in Almasi and colleagues' table -me- becomes -likuwa -mesha- (the -mesha- "already" of lesson 4.17), so "have arrived" becomes "had already arrived"; yangu "my" becomes yake. No kwamba. After Almasi and colleagues' example (p. 409).
 source: constructed
 confidence: constructed
 :::
@@ -175,14 +175,14 @@ confidence: constructed
 
 ## Where it applies
 
-- **After verbs of saying**: *-sema*, *-ambia* (with a person object), *-eleza*, *-jibu*, *-ahidi*, *-fahamisha* "inform", *-sisitiza* "insist", *-nong'ona* "whisper" (Almasi and colleagues' list includes *-eleza*, *-fahamisha*, *-nong'ona*).
+- **After verbs of saying**: *-sema*, *-ambia* (with a person object), *-eleza*, *-jibu*, *-ahidi*, *-fahamisha* "inform", *-sisitiza* "insist", *-nong'ona* "whisper" (Almasi and colleagues name *-eleza* and *-fahamisha*; *-nong'ona* is in their exercises).
 - **After verbs of thinking and knowing**: *-jua*, *-fikiri*, *-dhani*, *-amini*, *-tambua*, *-hisi* "feel", *-sikia* "hear (that)", *-kumbuka*, *-sahau*.
 - **After nouns of saying**: *habari kwamba...* "the news that ...", *taarifa kwamba* "the report that", *uvumi kwamba* "the rumour that".
 - **Yes-no questions**: *-uliza kama*, *-taka kujua kama*, *sijui kama*.
 - **Question-word questions**: with the question word or a relative (*-po-*, *-ko-*, *-vyo-*, *-cho-*): *Sijui alichosema* "I don't know what he said".
 - **Commands and requests**: *-ambia*, *-omba*, *-agiza*, *-shauri* + subjunctive (lesson 4.11).
 - **Doubt**: *eti*, alone or after the verb: *Anasema eti hana pesa* "he says (supposedly) he has no money".
-- **With no that-word**: *Alisema alisoma kitabu* (Almasi and colleagues). Leaving it out is normal in speech.
+- **With no that-word**: *Daktari wa meno alisema jino lile lilikuwa imara* (Almasi and colleagues). Leaving it out is normal in speech.
 
 ## Watch out
 

@@ -243,7 +243,7 @@ source: whitney1889 §1077; dossier gloss list
 
 ## Connections
 
-Latin and the Romance languages build verbs the same way: *in-trō*, Spanish *sobre-vivir*, French *re-venir* "come back", with prefixes that were once adverbs. Greek is closest: its prefixes take the augment after them as Sanskrit's do (*apo-é-bēn* "went away"). German separable verbs (*aufstehen* "stand up", *er steht auf*) show the older free word order that Whitney describes for the Veda.
+Latin and the Romance languages build verbs the same way: *in-trō*, Spanish *sobre-vivir*, French *re-venir* "come back", with prefixes that were once adverbs. Greek is closest: its prefixes take the augment after them as Sanskrit's do (*apo-é-bēn* "went away"). German separable verbs (*aufstehen* "stand up", *er steht auf*) show a free word order like the one Whitney (§1081a) describes for the Veda.
 
 ## Exercises
 

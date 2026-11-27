@@ -17,7 +17,7 @@ Magna Carta is the charter of King John of England, which its heading calls an a
 
 The wording is from The Latin Library, which follows the Lincoln copy and adds the clause numbers (the original has none, as the edition notes). The text keeps its medieval spelling and is printed without macrons (part 7, lesson 13): *terre* for *terrae*, *justiciam* for *iūstitiam*, *j* for consonantal *i*.
 
-Three verbs in clause 39 are medieval legal words not found in classical Latin, and Wiktionary has no Latin entries for them: *imprisonare*, *disseisire*, *utlagare*. Their meanings are given below from the English words that continue them (*imprison*, *disseise* "dispossess", *outlaw*); this guide has not checked them in a dictionary of medieval Latin.
+Three verbs in clause 39 are medieval legal words not found in classical Latin, and Wiktionary has no Latin entries for them: *imprisonare*, *disseisire*, *utlagare*. Their meanings are given below from the related English words (*imprison*, *disseise* "dispossess", *outlaw*). These English words do not descend from the Latin verbs: Wiktionary takes *imprison* from Old French and *outlaw* from Old English, borrowed from Old Norse, and the Latin verbs were made from the same French and English words. This guide has not checked them in a dictionary of medieval Latin.
 
 ## The address
 
@@ -26,7 +26,7 @@ orig: Johannes Dei gracia rex Anglie, Dominus Hibernie, dux Normannie, Aquitanni
 morphemes: Johann-es De-i graci-a rex Angli-e domin-us Hiberni-e dux Normanni-e Aquitanni-e et comes Andegavi-e archiepiscop-is episcop-is abbat-ibus comit-ibus baron-ibus et omn-ibus balliv-is et fidel-ibus su-is salut-em
 gloss: John-NOM.SG God-GEN.SG grace-ABL.SG king.NOM.SG England-GEN.SG lord-NOM.SG Ireland-GEN.SG duke.NOM.SG Normandy-GEN.SG Aquitaine-GEN.SG and count.NOM.SG Anjou-GEN.SG archbishop-DAT.PL bishop-DAT.PL abbot-DAT.PL count-DAT.PL baron-DAT.PL and all-DAT.PL bailiff-DAT.PL and faithful-DAT.PL REFL.own-DAT.PL.M greeting-ACC.SG
 translation: John, by the grace of God king of England, lord of Ireland, duke of Normandy and Aquitaine, and count of Anjou, to the archbishops, bishops, abbots, counts, barons … and to all his bailiffs and faithful subjects, greeting.
-note: The opening formula of a charter: the sender in the nominative, the addressees in the dative, salūtem "greeting" with dīcit understood, as in Cicero's letters (part 7, lesson 11). gracia, Anglie: medieval spelling. The ellipsis replaces further titles.
+note: The opening formula of a charter: the sender in the nominative, the addressees in the dative, salūtem "greeting" with dīcit understood, as in Cicero's letters (part 7, lesson 11). gracia, Anglie: medieval spelling. The ellipsis replaces five more groups of addressees (*justiciariis, forestariis, vicecomitibus, prepositis, ministris*).
 source: Magna Carta, address (The Latin Library)
 confidence: attested
 :::
@@ -38,7 +38,7 @@ orig: Nullus liber homo capiatur, vel imprisonetur, aut disseisiatur, aut utlage
 morphemes: null-us liber homo capi-a-tur vel imprison-e-tur aut disseisi-a-tur aut utlag-e-tur aut exul-e-tur aut aliquo mod-o destru-a-tur
 gloss: no-NOM.SG.M free.NOM.SG.M person.NOM.SG take-SBJV-3SG.PASS or imprison-SBJV-3SG.PASS or dispossess-SBJV-3SG.PASS or outlaw-SBJV-3SG.PASS or exile-SBJV-3SG.PASS or some.ABL.SG.M way-ABL.SG ruin-SBJV-3SG.PASS
 translation: No free man shall be arrested, or imprisoned, or dispossessed, or outlawed, or exiled, or in any way ruined,
-note: Six jussive subjunctives in the passive: "let no free man be …" (part 4, lesson 19). The first-conjugation subjunctive has -e- (imprisonetur, utlagetur, exuletur); the others -a- (capiatur, disseisiatur, destruatur). exulō is classical; the meanings of imprisonō, disseisiō and utlagō are from their English descendants (see above).
+note: Six jussive subjunctives in the passive: "let no free man be …" (part 4, lesson 19). The first-conjugation subjunctive has -e- (imprisonetur, utlagetur, exuletur); the others -a- (capiatur, disseisiatur, destruatur). exulō is classical; the meanings of imprisonō, disseisiō and utlagō are from the related English words (see above).
 source: Magna Carta, clause 39 (The Latin Library)
 confidence: attested
 :::
@@ -70,7 +70,7 @@ confidence: attested
 :::example
 orig: Data per manum nostram in prato quod vocatur Ronimed. inter Windlesoram et Stanes, quinto decimo die junii, anno regni nostri decimo septimo.
 morphemes: dat-a per man-um nostr-am in prat-o quod voca-tur Ronimed inter Windlesor-am et Stanes quint-o decim-o di-e juni-i ann-o regn-i nostr-i decim-o septim-o
-gloss: give.PTCP-NOM.SG.F by hand-ACC.SG our-ACC.SG.F in meadow-ABL.SG REL.NOM.SG.N call-3SG.PASS Runnymede between Windsor-ACC.SG and Staines fifth-ABL.SG.M tenth-ABL.SG.M day-ABL.SG June-GEN.SG year-ABL.SG reign-GEN.SG our-GEN.SG.N tenth-ABL.SG.M seventeenth-ABL.SG.M
+gloss: give.PTCP-NOM.SG.F by hand-ACC.SG our-ACC.SG.F in meadow-ABL.SG REL.NOM.SG.N call-3SG.PASS Runnymede between Windsor-ACC.SG and Staines fifth-ABL.SG.M tenth-ABL.SG.M day-ABL.SG June-GEN.SG year-ABL.SG reign-GEN.SG our-GEN.SG.N tenth-ABL.SG.M seventh-ABL.SG.M
 translation: Given by our hand in the meadow called Runnymede, between Windsor and Staines, on the fifteenth day of June, in the seventeenth year of our reign.
 note: data agrees with carta (feminine), understood. The day is counted forwards, as in the Declaration of Arbroath (part 7, lesson 13), and the year is a regnal year. Ronimed and Stanes are English names left undeclined; Windlesoram is Latinised.
 source: Magna Carta, dating clause (The Latin Library)

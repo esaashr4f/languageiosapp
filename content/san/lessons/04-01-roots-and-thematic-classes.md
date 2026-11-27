@@ -27,9 +27,9 @@ The ten classes fall into two groups, and the split is the most useful fact abou
 
 **Class 1 (bhvādi): root in guṇa + *a*.** The root takes guṇa wherever guṇa is possible (san-03-11), and *-a-* follows: √bhū → *bho-* → *bhava-*; √ji → *jaya-*; √budh → *bodha-*; √vṛṣ "rain" → *varṣa-*. A root with *a* stays as it is (√vad → *vada-*), and a heavy syllable resists guṇa (√jīv → *jīva-*, √nand "rejoice" → *nanda-*, √śaṃs "praise" → *śaṃsa-*). Whitney (§744) counts this class as nearly half of all present stems.
 
-Why guṇa? In the parent language of Sanskrit the accent of a class 1 stem lay on the root syllable, *bháva-*, and Whitney (§§734, 238) links guṇa with an accented syllable. The accent is not written in Classical texts; the vowel is its trace.
+Why guṇa? In Vedic Sanskrit, which still marks the accent, a class 1 stem is accented on the root syllable, *bháva-* (Whitney §734), and Whitney (§238) links guṇa, an Indo-European feature, with an accented syllable. The accent is not written in Classical texts; the vowel is its trace.
 
-**Class 6 (tudādi): weak root + *a*.** The root stays in its simple form and *-a-* follows: √tud "strike" → *tuda-*; √viś → *viśa-*; √sṛj "send out, create" → *sṛja-*; √diś "point out" → *diśa-*. Here the old accent lay on the *-a-* (*tudá-*, Whitney §751), so the root had no accent and no guṇa. Class 1 and class 6 therefore differ only in the root vowel: *bodhati* against *tudati*.
+**Class 6 (tudādi): weak root + *a*.** The root stays in its simple form and *-a-* follows: √tud "strike" → *tuda-*; √viś → *viśa-*; √sṛj "send out, create" → *sṛja-*; √diś "point out" → *diśa-*. Here the Vedic accent lies on the *-a-* (*tudá-*, Whitney §751), so the root had no accent and no guṇa. Class 1 and class 6 therefore differ only in the root vowel: *bodhati* against *tudati*.
 
 A few class 6 roots put a nasal before their last consonant in the present (Whitney §758): √sic "sprinkle" → *siñca-*; √muc → *muñca-*; √kṛt → *kṛnta-*. The nasal belongs to the present stem only.
 
@@ -182,7 +182,7 @@ confidence: attested
 
 **Do not take the present stem for the root.** *\*gacch* and *\*tiṣṭh* are not roots and not headwords in Monier-Williams: look under √gam and √sthā. Outside the present the root reappears: *gata* "gone", *sthita* "standing" (san-04-13).
 
-**Do not carry the class sign out of the present system.** The *-ya-* of *naśyati* and the nasal of *siñcati* belong to the present stem. The past participle of √sic is *sikta*, not *\*siñcita* (Monier-Williams); the future of √naś has no *-ya-*. Whitney (§600) states that the other systems are formed from the root.
+**Do not carry the class sign out of the present system.** The *-ya-* of *naśyati* and the nasal of *siñcati* belong to the present stem. The past participle of √sic is *sikta*, not *\*siñcita* (Monier-Williams); the future of √naś has no *-ya-*. The other systems start again from the root, not from the present stem.
 
 **Do not assume a class 10 grade.** *\*cūrayati* and *\*curayati* are wrong for "steals": √cur takes guṇa, *corayati*. And *\*rācayati* is wrong: √rac keeps its *a*. The vocabulary entry decides.
 
@@ -264,5 +264,5 @@ Greek sorts its verbs by the same kinds of present stem: thematic *lúō* "I loo
 4. *devān kavayaḥ śaṃsanti*. The object comes first because *-n* before *ś* changes in a way taught only in san-04-07, and *-n* before *k* does not change. *kavayaḥ* is the NOM.PL of the i-stem *kavi* (san-03-12); *-aḥ* stays before *ś* (Whitney §172).
 5. *nār-ī lat-ām jal-ena siñca-ti*, "the woman waters the creeper". √sic is class 6 and puts a nasal before its last consonant in the present stem (Whitney §758). Before *c* the nasal is *ñ*, the palatal nasal (san-01-03). It is absent outside the present: past participle *sikta*.
 6. √tud is class 6: *bālo mṛgaṃ tudati*.
-7. √cur takes guṇa in class 10: *coro dhanaṃ corayati* (and the noun is *cora*, not *caura*).
+7. √cur takes guṇa in class 10: *cauro dhanaṃ corayati*. *caura* is not the error: Monier-Williams gives it as another word for "thief" (= *cora*); this lesson uses *cora*, so *coro dhanaṃ corayati* is the same sentence.
 8. "The king counts the money, and the subjects rejoice." *gaṇayati* is class 10 with no change of the root vowel; *hṛṣyanti* is class 4, simple root + *ya*. *prajāḥ* before *c* becomes *prajāś* (san-02-06).

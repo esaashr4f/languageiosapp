@@ -72,11 +72,11 @@ confidence: constructed
 :::
 
 :::example
-orig: Ōrātor est vir bonus dīcendī perītus.
-morphemes: ōrātor est vir bon-us dīc-end-ī perīt-us
-gloss: speaker.NOM.SG be.3SG man.NOM.SG good-NOM.SG.M speak-GER-GEN skilled-NOM.SG.M
-translation: An orator is a good man skilled in speaking.
-note: Cato's definition, as Quintilian reports it. ōrātor from ōrō "speak, plead", with -tor.
+orig: Vir bonus dīcendī perītus.
+morphemes: vir bon-us dīc-end-ī perīt-us
+gloss: man.NOM.SG good-NOM.SG.M speak-GER-GEN skilled-NOM.SG.M
+translation: A good man skilled in speaking.
+note: Cato's definition of the orator, as Quintilian reports it: Sit ergō nōbīs ōrātor … is quī ā M. Catōne fīnītur, vir bonus dīcendī perītus "let our orator be the one Cato defines, a good man skilled in speaking". ōrātor is from ōrō "speak, plead", with -tor.
 source: Quintilian, Institutes of Oratory 12.1.1 (quoting Cato)
 confidence: attested
 :::

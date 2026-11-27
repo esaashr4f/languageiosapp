@@ -107,7 +107,7 @@ confidence: constructed
 14. Say "the ship which is in the port".
 15. Correct *\*Kitabu niliyesoma ni kizuri.*
 16. Correct *\*Wageni waliomefika wanasubiri.*
-17. Correct *\*Sijui wapi alikwenda.*
+17. Improve *Sijui wapi alikwenda* with a relative.
 18. Correct *\*Watoto wasiokuli.*
 19. Correct *\*Mtalii atayekuja kesho.*
 20. Correct *\*Pesa nilizo na ni chache.*
@@ -130,7 +130,7 @@ confidence: constructed
 14. *Meli iliyo bandarini.* The relative of "be", class 9. Lesson 6.5.
 15. The relative marker points to the book: *-cho-*, not *-ye-*. *Kitabu nilichosoma ni kizuri.* Lesson 6.3.
 16. No relative marker after *-me-*: *wageni ambao wamefika*. Lesson 6.2.
-17. "Where" inside a statement is a relative: *Sijui alikokwenda.* Lesson 6.6.
+17. "Where" inside a statement is normally a relative: *Sijui alikokwenda.* Lesson 6.6.
 18. The negative relative keeps final *-a* and *ku*: *watoto wasiokula*. Lesson 6.4.
 19. The future before a relative marker is *-taka-*: *mtalii atakayekuja kesho*. Lesson 6.2.
 20. *Na* needs its reference form: *Pesa nilizo nazo ni chache.* Lesson 6.5.

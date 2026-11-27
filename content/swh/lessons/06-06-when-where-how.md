@@ -219,7 +219,7 @@ confidence: constructed
 
 **Do not drop ku.** *\*Alipoja* and *\*alikoenda* (in the standard written form): *alipokuja*, *alikokwenda*. The marker cannot carry stress.
 
-**Do not use lini or wapi inside a statement.** *\*Sijui wapi alikwenda* copies English "where". *Wapi* and *lini* ask questions (lesson 5.10). Inside a statement use the relative: *Sijui alikokwenda.*
+**Prefer the relative to wapi or lini inside a statement.** *Sijui wapi alikwenda* copies English "where" word for word. The relative is the usual way: *Sijui alikokwenda.* Almasi and colleagues (p. 403) do report questions with the question word kept (*alitaka kujua lini tulikwenda*), so the word-for-word version is heard; lesson 6.9 returns to reported questions.
 
 **Do not use -po- for "where to".** *Alipokwenda* is possible for a definite spot, but "where he went (off to)" is more naturally *-ko-*: *alikokwenda*.
 
@@ -276,7 +276,7 @@ French *où* means both "where" and "when" (*le jour où il est arrivé*), the s
 4. *Fanya kama mwalimu anavyosema* (or *asemavyo*).
 5. "There were many mosquitoes where he slept." *Alipolala*: class 16 *-po-*, a definite spot. *Mbu* takes class 2 agreement: *wengi*.
 6. "When the car switched on its lights, we saw the road." *Gari* class 5: *li-li-po-washa*.
-7. A statement takes a relative, not *wapi*; and *-me-* takes no relative, so use the past: *Sijui ulikoweka tochi* (or *mahali ambapo umeweka tochi*).
+7. A statement normally takes a relative rather than *wapi*; and *-me-* takes no relative, so use the past: *Sijui ulikoweka tochi* (or *mahali ambapo umeweka tochi*).
 8. The main verb is a future: *nitakupigia simu*. *-na-* would be "I am calling you".
 9. *Alieleza jinsi alivyopika.* "How" in a statement is *-vyo-* (with *jinsi*).
 10. *Mahali ambapo hatukulala.* A negative past "where" needs *amba-* (Almasi and colleagues).

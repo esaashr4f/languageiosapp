@@ -50,21 +50,21 @@ Some colloquial words survived where the literary ones did not. Wiktionary deriv
 ## Examples
 
 :::example
-orig: Cornelius Lucius Scipio Barbatus, Gnaivod patre prognatus, fortis vir sapiensque, quoius forma virtutei parisuma fuit.
+orig: Cornelius Lucius Scipio Barbatus, Gnaivod patre prognatus, fortis vir sapiensque, quoius forma virtutei parisuma fuit …
 morphemes: Corneli-us Luci-us Scipio Barbat-us Gnaiv-od patr-e prognat-us fort-is vir sapiens=que quoius form-a virtut-ei parisum-a fu-it
 gloss: Cornelius-NOM.SG Lucius-NOM.SG Scipio.NOM.SG Barbatus-NOM.SG Gnaeus-ABL.SG father-ABL.SG born-NOM.SG.M brave-NOM.SG man.NOM.SG wise.NOM.SG=and REL.GEN.SG looks-NOM.SG courage-DAT.SG most.equal-NOM.SG.F be.PRF-3SG
 translation: Lucius Cornelius Scipio Barbatus, son of his father Gnaeus, a brave and wise man, whose looks were fully equal to his courage.
-note: The epitaph of Scipio Barbatus, from the tomb of the Scipios, in its inscriptional spelling (vowel lengths unmarked). Gnaivod: old ablative in -d (ag1903 §49e); quoius = cuius; virtutei = virtūtī; parisuma = parissima. The nomen stands before the praenomen.
+note: The epitaph of Scipio Barbatus, from the tomb of the Scipios, in its inscriptional spelling (vowel lengths unmarked). Gnaivod: old ablative in -d (ag1903 §49e); quoius = cuius; virtutei = virtūtī; parisuma = parissima. The nomen stands before the praenomen. The epitaph goes on to list his offices and conquests.
 source: CIL VI 1285 = CIL I² 7 (text from Latin Wikipedia, Scipionum elogia)
 confidence: attested
 :::
 
 :::example
-orig: Honc oino ploirume cosentiont R[…] duonoro optumo fuise viro, Luciom Scipione.
+orig: Honc oino ploirume cosentiont R[…] duonoro optumo fuise viro, Luciom Scipione …
 morphemes: honc oin-o ploirum-e cosenti-ont duon-oro optum-o fu-ise vir-o Luci-om Scipion-e
 gloss: this.ACC.SG.M one-ACC.SG.M most-NOM.PL.M agree-3PL good-GEN.PL.M best-ACC.SG.M be.PRF-INF man-ACC.SG Lucius-ACC.SG Scipio-ACC.SG
 translation: Most people agree that this one man was the best of good men: Lucius Scipio.
-note: The epitaph of Barbatus's son. Classical: hunc ūnum plūrimī cōnsentiunt … bonōrum optimum fuisse virum, Lūcium Scīpiōnem. Final -m is not written. The broken word after cosentiont is restored by editors as Romai "at Rome" or Romane "Romans".
+note: The epitaph of Barbatus's son. Classical: hunc ūnum plūrimī cōnsentiunt … bonōrum optimum fuisse virum, Lūcium Scīpiōnem. Final -m is not written. The broken word after cosentiont is restored in the text used here as R[omane] "Romans". The epitaph goes on with his offices and deeds.
 source: CIL VI 1287 = CIL I² 9 (text from Latin Wikipedia, Scipionum elogia)
 confidence: attested
 :::
